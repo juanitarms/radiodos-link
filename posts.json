@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T12:18:41+00:00",
+  "updated": "2026-06-01T12:19:51+00:00",
   "posts": [
+    {
+      "id": "b6f2813e",
+      "image": "img/b6f2813e.png",
+      "image_sha": "15f34b7d89a91d17d5fa572e40b91d7c329882e1",
+      "url": "https://www.radiodos.com.ar/208930-buscan-a-una-adolescente-que-se-ausento-de-su-hogar",
+      "title": "Buscan a una adolescente que se ausentó de su hogar",
+      "volanta": "COMISARIA SEGUNDA DE LA MUJER Y EL MENOR",
+      "date": "2026-06-01T12:19:51+00:00"
+    },
     {
       "id": "3502c08b",
       "image": "img/3502c08b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: la venta de nafta y gasoil cayó un 10% en abril",
       "volanta": "TENDENCIA NACIONAL",
       "date": "2026-05-28T11:09:53+00:00"
-    },
-    {
-      "id": "163e4b3b",
-      "image": "img/163e4b3b.png",
-      "image_sha": "cba60d0339ae284e8a149a26434cc45ce9e4ef63",
-      "url": "https://www.radiodos.com.ar/208765-batacazo-argentino-en-roland-garros-solana-sierra-le-gano-a-paolini-y-paso-a-tercera-ronda",
-      "title": "Batacazo argentino en Roland Garros: Solana Sierra le ganó a Paolini y pasó a tercera ronda",
-      "volanta": "Grand Slam",
-      "date": "2026-05-28T03:01:13+00:00"
     }
   ]
 }
