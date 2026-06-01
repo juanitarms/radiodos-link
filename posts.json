@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T16:18:45+00:00",
+  "updated": "2026-06-01T17:31:58+00:00",
   "posts": [
+    {
+      "id": "18c57a75",
+      "image": "img/18c57a75.png",
+      "image_sha": "1a7627884f1b935014470d2b51005d8f2f3e6187",
+      "url": "https://www.radiodos.com.ar/208954-lanzaron-la-campana-nacional-por-el-derecho-a-la-eutanasia-en-argentina-de-que-se-trata",
+      "title": "Lanzaron la Campaña Nacional por el Derecho a la Eutanasia en Argentina: ¿de qué se trata?",
+      "volanta": "IMPULSO",
+      "date": "2026-06-01T17:31:58+00:00"
+    },
     {
       "id": "c5401fa9",
       "image": "img/c5401fa9.png",
@@ -531,15 +540,6 @@
       "title": "Sofía Fages fue bronce en el Campeonato de la República",
       "volanta": "Natación",
       "date": "2026-05-28T17:50:01+00:00"
-    },
-    {
-      "id": "64893963",
-      "image": "img/64893963.png",
-      "image_sha": "7d4d6fecf2532919b675dd99a8409d201fdb5644",
-      "url": "https://www.radiodos.com.ar/208802-autopsia-de-ana-lia-corte-como-murio-la-mujer-de-52-anos-que-estuvo-18-dias-desaparecida-en-bariloche",
-      "title": "Autopsia de Ana Lía Corte: cómo murió la mujer de 52 años que estuvo 18 días desaparecida en Bariloche",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-05-28T15:54:34+00:00"
     }
   ]
 }
