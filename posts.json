@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T13:56:23+00:00",
+  "updated": "2026-06-01T14:38:01+00:00",
   "posts": [
+    {
+      "id": "89e6655b",
+      "image": "img/89e6655b.png",
+      "image_sha": "3b809641d39186aab023d13b8654f69dd9e8e1ff",
+      "url": "https://www.radiodos.com.ar/208942-tres-hermanos-buscan-una-familia-para-crecer-juntos-y-construir-un-futuro-compartido",
+      "title": "Tres hermanos buscan una familia para crecer juntos y construir un futuro compartido",
+      "volanta": "FAMILIA",
+      "date": "2026-06-01T14:38:01+00:00"
+    },
     {
       "id": "be24fb5b",
       "image": "img/be24fb5b.png",
@@ -531,15 +540,6 @@
       "title": "Mañana se anunciará el incremento salarial para empleados públicos",
       "volanta": "A LAS 9",
       "date": "2026-05-28T15:06:30+00:00"
-    },
-    {
-      "id": "f849c18d",
-      "image": "img/f849c18d.png",
-      "image_sha": "46c02a43e485a3adcb4da25ab6474ff1b2958c1b",
-      "url": "https://www.radiodos.com.ar/208798-javier-milei-diserta-hoy-en-el-latam-economic-forum",
-      "title": "Javier Milei diserta hoy en el Latam Economic Forum",
-      "volanta": "EXPOSICIÓN",
-      "date": "2026-05-28T14:27:56+00:00"
     }
   ]
 }
