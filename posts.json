@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T10:40:27+00:00",
+  "updated": "2026-06-01T11:07:48+00:00",
   "posts": [
+    {
+      "id": "3015dea9",
+      "image": "img/3015dea9.png",
+      "image_sha": "658c2d843f25533973e00e57648318d5dce2fe1a",
+      "url": "https://www.radiodos.com.ar/208925-narcopolicias-llegan-a-juicio-oral-un-comisario-y-un-sargento-de-la-policia-de-corrientes",
+      "title": "\"Narcopolicías\" llegan a juicio oral: un comisario y un sargento de la Policía de Corrientes",
+      "volanta": "A tres años del inicio del proceso",
+      "date": "2026-06-01T11:07:48+00:00"
+    },
     {
       "id": "6d9cf7eb",
       "image": "img/6d9cf7eb.png",
@@ -531,15 +540,6 @@
       "title": "Crisis laboral: desde que Milei asumió se perdieron casi 300 mil empleos formales",
       "volanta": "Economía libertaria",
       "date": "2026-05-28T01:50:24+00:00"
-    },
-    {
-      "id": "c38e8a68",
-      "image": "img/c38e8a68.png",
-      "image_sha": "d45c2cdbe740f82f24b7796ab6c42b9799caf90a",
-      "url": "https://www.radiodos.com.ar/208756-entregaron-equipamiento-sanitario-para-la-atencion-primaria-en-localidad-del-interior-de-corrientes",
-      "title": "Entregaron equipamiento sanitario para la atención primaria en localidad del interior de Corrientes",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-05-27T20:30:22+00:00"
     }
   ]
 }
