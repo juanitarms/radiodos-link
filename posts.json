@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T19:51:44+00:00",
+  "updated": "2026-06-01T20:38:27+00:00",
   "posts": [
+    {
+      "id": "fb08592c",
+      "image": "img/fb08592c.png",
+      "image_sha": "47bb65cda4342f368a5ac146dd4dba1f0a68946a",
+      "url": "https://www.radiodos.com.ar/208961-corrientes-fue-elegida-para-radicar-la-primera-planta-industrial-de-mass-timber-de-la-argentina",
+      "title": "Corrientes fue elegida para radicar la primera planta industrial de Mass Timber de la Argentina",
+      "volanta": "DESARROLLO FORESTAL E INNOVACIÓN PRODUCTIVA",
+      "date": "2026-06-01T20:38:27+00:00"
+    },
     {
       "id": "b6069cfa",
       "image": "img/b6069cfa.png",
@@ -531,15 +540,6 @@
       "title": "La Muni en tu barrio inicia su recorrido de junio en el Santa Rita",
       "volanta": "PRESENCIA TERRITORIAL",
       "date": "2026-05-28T19:22:49+00:00"
-    },
-    {
-      "id": "525e4afa",
-      "image": "img/525e4afa.png",
-      "image_sha": "f192ae07f0db4b8583a8107be44b6763967e5779",
-      "url": "https://www.radiodos.com.ar/208813-thiago-medina-ya-se-olvido-de-daniela-celis-su-video-viral-a-los-besos-con-una-streamer",
-      "title": "Thiago Medina ya se olvidó de Daniela Celis: su video viral a los besos con una streamer",
-      "volanta": "SORPRESA",
-      "date": "2026-05-28T18:24:08+00:00"
     }
   ]
 }
