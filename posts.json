@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T12:39:34+00:00",
+  "updated": "2026-06-01T12:48:48+00:00",
   "posts": [
+    {
+      "id": "f8374c9f",
+      "image": "img/f8374c9f.png",
+      "image_sha": "cc6912b10a842a9389d3f1b778328952c655ef74",
+      "url": "https://www.radiodos.com.ar/208936-fal-javier-milei-reglamento-el-mecanismo-para-financiar-despidos-con-plata-de-los-jubilados",
+      "title": "FAL: Javier Milei reglamentó el mecanismo para financiar despidos con plata de los jubilados",
+      "volanta": "NORMATIVA",
+      "date": "2026-06-01T12:48:48+00:00"
+    },
     {
       "id": "aa593525",
       "image": "img/aa593525.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: allanan una casa por denuncia de distribución de material de abuso sexual infantil",
       "volanta": "EN CURUZÚ",
       "date": "2026-05-28T12:48:55+00:00"
-    },
-    {
-      "id": "a43d8794",
-      "image": "img/a43d8794.png",
-      "image_sha": "59c74bc79b3463d1096b9bb89c62ef3d71c9c6d7",
-      "url": "https://www.radiodos.com.ar/208772-esquina-hacia-tiro-al-blanco-con-sus-perros-y-lo-allanaron",
-      "title": "Esquina: hacía \"tiro al blanco\" con sus perros y lo allanaron",
-      "volanta": "MALTRATO ANIMAL",
-      "date": "2026-05-28T12:23:53+00:00"
     }
   ]
 }
