@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T21:53:07+00:00",
+  "updated": "2026-06-01T21:56:43+00:00",
   "posts": [
+    {
+      "id": "1fd6ac15",
+      "image": "img/1fd6ac15.png",
+      "image_sha": "4d78310d5cef8dd9080b293bfb1dfa8677764eff",
+      "url": "https://www.radiodos.com.ar/208971-di-carlo-anticipo-una-profunda-renovacion-en-river-se-van-a-ir-15-jugadores",
+      "title": "Di Carlo anticipó una profunda renovación en River: \"Se van a ir 15 jugadores\"",
+      "volanta": "PLANTEL PROFESIONAL",
+      "date": "2026-06-01T21:56:43+00:00"
+    },
     {
       "id": "98f9499e",
       "image": "img/98f9499e.png",
@@ -531,15 +540,6 @@
       "title": "Histórico acontecimiento religioso en el interior de Corrientes: llegará una reliquia de San Antonio de Padua",
       "volanta": "BERON DE ASTRADA",
       "date": "2026-05-28T20:28:00+00:00"
-    },
-    {
-      "id": "df736a4c",
-      "image": "img/df736a4c.png",
-      "image_sha": "3470536ede5c55dbe4ed1d9f870661978c11d6ca",
-      "url": "https://www.radiodos.com.ar/208815-la-abogacia-correntina-logro-un-fallo-historico-la-justicia-ordeno-retrotraer-el-aumento-impuesto-por-el-iosap",
-      "title": "La abogacía correntina logró un fallo histórico: La Justicia ordenó retrotraer el aumento impuesto por el IOSAP",
-      "volanta": "LOGRO DE LA ABOGACÍA ORGANIZADA EN CORRIENTES",
-      "date": "2026-05-28T20:14:44+00:00"
     }
   ]
 }
