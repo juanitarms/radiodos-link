@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T18:49:15+00:00",
+  "updated": "2026-06-01T18:51:13+00:00",
   "posts": [
+    {
+      "id": "42fc660e",
+      "image": "img/42fc660e.png",
+      "image_sha": "d8732754783f4c2f0fad8ad7d4cbfc1875ea18db",
+      "url": "https://www.radiodos.com.ar/208956-jacob-elordi-y-kendall-jenner-fueron-captados-en-hawai",
+      "title": "Jacob Elordi y Kendall Jenner fueron captados en Hawái",
+      "volanta": "ROMANCE CONFIRMADO",
+      "date": "2026-06-01T18:51:13+00:00"
+    },
     {
       "id": "eb858a18",
       "image": "img/eb858a18.png",
@@ -531,15 +540,6 @@
       "title": "El Concejo Deliberante dio ingreso a iniciativas vinculadas a seguridad vial, capacitación y prevención",
       "volanta": "ESTA MAÑANA",
       "date": "2026-05-28T17:55:56+00:00"
-    },
-    {
-      "id": "693fd7d2",
-      "image": "img/693fd7d2.png",
-      "image_sha": "4effdec3d10d074393f5e142665a56ac16a2926f",
-      "url": "https://www.radiodos.com.ar/208806-quien-es-la-joven-que-enamoro-a-ian-lucas-influencer-heredera-y-fanatica-de-los-viajes",
-      "title": "Quién es la joven que enamoró a Ian Lucas: influencer, heredera y fanática de los viajes",
-      "volanta": "¿HAY AMOR?",
-      "date": "2026-05-28T17:53:11+00:00"
     }
   ]
 }
