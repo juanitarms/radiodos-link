@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T14:48:41+00:00",
+  "updated": "2026-06-01T16:18:45+00:00",
   "posts": [
+    {
+      "id": "c5401fa9",
+      "image": "img/c5401fa9.png",
+      "image_sha": "a798e6954f24f5ba2d4094496e50664623138051",
+      "url": "https://www.radiodos.com.ar/208952-la-iglesia-cruzo-al-gobierno-por-la-reforma-migratoria-y-advirtio-sobre-el-acceso-a-derechos",
+      "title": "La Iglesia cruzó al Gobierno por la reforma migratoria y advirtió sobre el acceso a derechos",
+      "volanta": "CRÍTICAS",
+      "date": "2026-06-01T16:18:45+00:00"
+    },
     {
       "id": "3836ea0c",
       "image": "img/3836ea0c.png",
@@ -531,15 +540,6 @@
       "title": "Autopsia de Ana Lía Corte: cómo murió la mujer de 52 años que estuvo 18 días desaparecida en Bariloche",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-05-28T15:54:34+00:00"
-    },
-    {
-      "id": "612de6cb",
-      "image": "img/612de6cb.png",
-      "image_sha": "0d799ab0016fa20b89f590e651cec2e2efe2fa7e",
-      "url": "https://www.radiodos.com.ar/208807-yanina-zilli-gano-el-desafio-del-auto-en-gran-hermano-y-no-pudo-contener-la-emocion-gracias-a-telefe",
-      "title": "Yanina Zilli ganó el desafío del auto en Gran Hermano y no pudo contener la emoción: \"Gracias a Telefe\"",
-      "volanta": "FELICITACIONES",
-      "date": "2026-05-28T15:37:23+00:00"
     }
   ]
 }
