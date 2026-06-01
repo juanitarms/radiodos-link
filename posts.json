@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T18:51:13+00:00",
+  "updated": "2026-06-01T19:51:44+00:00",
   "posts": [
+    {
+      "id": "b6069cfa",
+      "image": "img/b6069cfa.png",
+      "image_sha": "ce9eced6d1d78c1f84be0682636ef7d453a64d9c",
+      "url": "https://www.radiodos.com.ar/208953-cifra-alarmante-3096-femicidios-fueron-cometidos-en-argentina-del-3-de-junio-de-2015-al-30-de-mayo-de-2026",
+      "title": "Cifra alarmante: 3.096 femicidios fueron cometidos en Argentina del 3 de junio de 2015 al 30 de mayo de 2026",
+      "volanta": "Terrible",
+      "date": "2026-06-01T19:51:44+00:00"
+    },
     {
       "id": "42fc660e",
       "image": "img/42fc660e.png",
@@ -531,15 +540,6 @@
       "title": "Thiago Medina ya se olvidó de Daniela Celis: su video viral a los besos con una streamer",
       "volanta": "SORPRESA",
       "date": "2026-05-28T18:24:08+00:00"
-    },
-    {
-      "id": "65ecb455",
-      "image": "img/65ecb455.png",
-      "image_sha": "9a9a3ac183812bbc081f12f18a73ed6daad4fdc6",
-      "url": "https://www.radiodos.com.ar/208814-el-concejo-deliberante-dio-ingreso-a-iniciativas-vinculadas-a-seguridad-vial-capacitacion-y-prevencion",
-      "title": "El Concejo Deliberante dio ingreso a iniciativas vinculadas a seguridad vial, capacitación y prevención",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-05-28T17:55:56+00:00"
     }
   ]
 }
