@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T17:31:58+00:00",
+  "updated": "2026-06-01T17:36:33+00:00",
   "posts": [
+    {
+      "id": "b10f91a9",
+      "image": "img/b10f91a9.png",
+      "image_sha": "17c98e76559bb0c585b8227c335fd2c3634f6840",
+      "url": "https://www.radiodos.com.ar/208955-san-martin-fue-anfitrion-de-su-primer-torneo-de-voley",
+      "title": "San Martín fue anfitrión de su primer torneo de voley",
+      "volanta": "Fin de semana",
+      "date": "2026-06-01T17:36:33+00:00"
+    },
     {
       "id": "18c57a75",
       "image": "img/18c57a75.png",
@@ -531,15 +540,6 @@
       "title": "El intendente Claudio Polich participó de la Reunión Plenaria Consejo Siete Puntas",
       "volanta": "Para modernizar y agilizar trámites",
       "date": "2026-05-28T17:51:47+00:00"
-    },
-    {
-      "id": "a37bad3f",
-      "image": "img/a37bad3f.png",
-      "image_sha": "9a7bb86cd55154ed193a1dca4f5a3a465031cf88",
-      "url": "https://www.radiodos.com.ar/208804-sofia-fages-fue-bronce-en-el-campeonato-de-la-republica",
-      "title": "Sofía Fages fue bronce en el Campeonato de la República",
-      "volanta": "Natación",
-      "date": "2026-05-28T17:50:01+00:00"
     }
   ]
 }
