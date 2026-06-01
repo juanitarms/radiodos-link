@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T13:15:39+00:00",
+  "updated": "2026-06-01T13:18:07+00:00",
   "posts": [
+    {
+      "id": "5e89311d",
+      "image": "img/5e89311d.png",
+      "image_sha": "9d037a3d0a8a73291bba024c721c9becd6bee7f0",
+      "url": "https://www.radiodos.com.ar/208937-reforma-laboral-que-cambia-en-convenios-colectivos-representacion-sindical-y-trabajadores-en-negro",
+      "title": "Reforma laboral: qué cambia en convenios colectivos, representación sindical y trabajadores en negro",
+      "volanta": "NORMATIVA",
+      "date": "2026-06-01T13:18:07+00:00"
+    },
     {
       "id": "a93ad66a",
       "image": "img/a93ad66a.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: el monto de las Becas Progresar disponible para mayo 2026",
       "volanta": "NOVEDAD",
       "date": "2026-05-28T14:02:59+00:00"
-    },
-    {
-      "id": "63b63d67",
-      "image": "img/63b63d67.png",
-      "image_sha": "edd1b5707f61850298855e61ff85cecd03deece5",
-      "url": "https://www.radiodos.com.ar/208791-tucuman-violo-la-perimetral-y-quiso-romper-el-parabrisas-del-auto-en-el-que-iba-su-expareja",
-      "title": "Tucumán: violó la perimetral y quiso romper el parabrisas del auto en el que iba su expareja",
-      "volanta": "VIOLENCIA DE GÉNERO",
-      "date": "2026-05-28T13:46:44+00:00"
     }
   ]
 }
