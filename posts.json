@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-31T01:35:39+00:00",
+  "updated": "2026-05-31T03:37:08+00:00",
   "posts": [
+    {
+      "id": "5400f422",
+      "image": "img/5400f422.png",
+      "image_sha": "e7ae232e10fed05329e7d7a3813b9d94a5590971",
+      "url": "https://www.radiodos.com.ar/208910-caso-agostina-vega-el-acusado-confeso-que-la-joven-desaparecida-habia-ingresado-a-su-casa",
+      "title": "el acusado confesó que la joven desaparecida había ingresado a su casa",
+      "volanta": "caso agostina vega",
+      "date": "2026-05-31T03:37:08+00:00"
+    },
     {
       "id": "05a7500e",
       "image": "img/05a7500e.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: un jubilado chocó contra un tractor y murió decapitado",
       "volanta": "MIRAMAR",
       "date": "2026-05-27T17:37:49+00:00"
-    },
-    {
-      "id": "34dc29d0",
-      "image": "img/34dc29d0.png",
-      "image_sha": "a37bd6ab4b2d89a9ed367822373baff0d6ea50d1",
-      "url": "https://www.radiodos.com.ar/208753-el-tierno-saludo-de-maia-reficco-a-franco-colapinto-en-su-cumpleanos",
-      "title": "El tierno saludo de Maia Reficco a Franco Colapinto en su cumpleaños",
-      "volanta": "ESPECTÁCULOS",
-      "date": "2026-05-27T17:29:30+00:00"
     }
   ]
 }
