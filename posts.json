@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T20:38:27+00:00",
+  "updated": "2026-06-01T21:12:26+00:00",
   "posts": [
+    {
+      "id": "f8e4d0b3",
+      "image": "img/f8e4d0b3.png",
+      "image_sha": "227b216a6fe8feb6b5d0667688ff29f5627a7ed5",
+      "url": "https://www.radiodos.com.ar/208965-destruyeron-mas-de-23-kilos-de-marihuana-secuestrados-en-procedimientos-contra-el-narcomenudeo-en-corrientes",
+      "title": "Destruyeron más de 23 kilos de marihuana secuestrados en procedimientos contra el narcomenudeo en Corrientes",
+      "volanta": "ACCIONAR CONJUNTO",
+      "date": "2026-06-01T21:12:26+00:00"
+    },
     {
       "id": "fb08592c",
       "image": "img/fb08592c.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un sujeto presuntamente vinculado a una causa judicial",
       "volanta": "SAN COSME",
       "date": "2026-05-28T20:12:39+00:00"
-    },
-    {
-      "id": "c89c4833",
-      "image": "img/c89c4833.png",
-      "image_sha": "cdcf95b568bddce8b2b66ffd5e4e7e9e9f74111e",
-      "url": "https://www.radiodos.com.ar/208810-la-muni-en-tu-barrio-inicia-su-recorrido-de-junio-en-el-santa-rita",
-      "title": "La Muni en tu barrio inicia su recorrido de junio en el Santa Rita",
-      "volanta": "PRESENCIA TERRITORIAL",
-      "date": "2026-05-28T19:22:49+00:00"
     }
   ]
 }
