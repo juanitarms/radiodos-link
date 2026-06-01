@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T12:48:48+00:00",
+  "updated": "2026-06-01T13:15:39+00:00",
   "posts": [
+    {
+      "id": "a93ad66a",
+      "image": "img/a93ad66a.png",
+      "image_sha": "cdaee5cf1ac97ddcab7d9f1f6a2120bef506245c",
+      "url": "https://www.radiodos.com.ar/208938-el-abuelo-de-agostina-vega-se-reunio-con-martin-llaryora-apunto-contra-el-fiscal-y-denuncio-mas-implicados",
+      "title": "El abuelo de Agostina Vega se reunió con Martín Llaryora, apuntó contra el fiscal y denunció \"más implicados\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-01T13:15:39+00:00"
+    },
     {
       "id": "f8374c9f",
       "image": "img/f8374c9f.png",
@@ -531,15 +540,6 @@
       "title": "Tucumán: violó la perimetral y quiso romper el parabrisas del auto en el que iba su expareja",
       "volanta": "VIOLENCIA DE GÉNERO",
       "date": "2026-05-28T13:46:44+00:00"
-    },
-    {
-      "id": "4b8951b4",
-      "image": "img/4b8951b4.png",
-      "image_sha": "771192f4ea87d53471d9305653da2b65b5072319",
-      "url": "https://www.radiodos.com.ar/208777-corrientes-allanan-una-casa-por-denuncia-de-distribucion-de-material-de-abuso-sexual-infantil",
-      "title": "Corrientes: allanan una casa por denuncia de distribución de material de abuso sexual infantil",
-      "volanta": "EN CURUZÚ",
-      "date": "2026-05-28T12:48:55+00:00"
     }
   ]
 }
