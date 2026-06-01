@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-31T00:56:09+00:00",
+  "updated": "2026-05-31T01:35:39+00:00",
   "posts": [
+    {
+      "id": "05a7500e",
+      "image": "img/05a7500e.png",
+      "image_sha": "5649b5fc9690efe875ee48e0f5f2a4cfdbe24727",
+      "url": "https://www.radiodos.com.ar/208919-la-pista-del-auto-negro-un-video-y-el-hallazgo-en-un-descampado-las-claves-del-asesinato-de-agostina-vega",
+      "title": "La pista del auto negro, un video y el hallazgo en un descampado: las claves del asesinato de Agostina Vega",
+      "volanta": "CONMOCION",
+      "date": "2026-05-31T01:35:39+00:00"
+    },
     {
       "id": "e97e2272",
       "image": "img/e97e2272.png",
@@ -531,15 +540,6 @@
       "title": "El tierno saludo de Maia Reficco a Franco Colapinto en su cumpleaños",
       "volanta": "ESPECTÁCULOS",
       "date": "2026-05-27T17:29:30+00:00"
-    },
-    {
-      "id": "5312bc2f",
-      "image": "img/5312bc2f.png",
-      "image_sha": "0b339ff2f366518459ebbbd17fe70996c0b4441c",
-      "url": "https://www.radiodos.com.ar/208755-confirman-una-muerte-por-gripe-a-en-rosario-y-alertan-por-la-suba-de-casos",
-      "title": "Confirman una muerte por gripe A en Rosario y alertan por la suba de casos",
-      "volanta": "SANTA FE",
-      "date": "2026-05-27T17:10:05+00:00"
     }
   ]
 }
