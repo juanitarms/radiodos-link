@@ -71,9 +71,6 @@
     }
     @keyframes giro { to { transform: rotate(360deg); } }
 
-    footer { text-align: center; color: var(--gris); font-size: 12px; padding: 30px 0 0; }
-    footer a { color: var(--gris); }
-
     @media (max-width: 360px) { .grid { gap: 6px; } }
   </style>
 </head>
@@ -87,11 +84,6 @@
       Cargando las últimas noticias…
     </div>
     <div id="grid" class="grid" hidden></div>
-
-    <footer>
-      © Radio Dos · FM 99.3 Corrientes ·
-      <a href="https://www.radiodos.com.ar" target="_blank" rel="noopener">radiodos.com.ar</a>
-    </footer>
   </div>
 
   <script>
@@ -141,6 +133,16 @@
         .catch(function () {
           mostrarEstado("No pudimos cargar las noticias ahora. Volvé a entrar en un ratito.");
         });
+
+      // Auto-alto: le avisa al contenedor (la página /instagram) cuánto mide, para que ajuste
+      // el alto del iframe y no quede ni scroll interno ni espacio en blanco. Inofensivo fuera
+      // de un iframe (el postMessage va a la propia ventana y nadie lo escucha).
+      function postHeight() {
+        var h = document.documentElement.scrollHeight;
+        parent.postMessage({ type: "rd-bio-height", height: h }, "*");
+      }
+      if (window.ResizeObserver) new ResizeObserver(postHeight).observe(document.body);
+      window.addEventListener("load", postHeight);
     })();
   </script>
 </body>
