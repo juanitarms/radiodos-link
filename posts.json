@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-31T19:10:40+00:00",
+  "updated": "2026-05-31T21:32:54+00:00",
   "posts": [
+    {
+      "id": "96fb4ef1",
+      "image": "img/96fb4ef1.png",
+      "image_sha": "3e8c453946b0fc77c0850deae8b009ccbadc90b6",
+      "url": "https://www.radiodos.com.ar/208922-rescataron-a-un-oso-melero-que-deambulaba-por-un-barrio-de-la-capital",
+      "title": "Rescataron a un oso melero que deambulaba por un barrio de la capital",
+      "volanta": "CORRIENTES",
+      "date": "2026-05-31T21:32:54+00:00"
+    },
     {
       "id": "89ad0fc2",
       "image": "img/89ad0fc2.png",
@@ -531,15 +540,6 @@
       "title": "Media sanción para importantes leyes de índole tributaria federal, cultural y de salud pública",
       "volanta": "SESIÓN 8 DIPUTADOS",
       "date": "2026-05-27T20:10:47+00:00"
-    },
-    {
-      "id": "f086a4b0",
-      "image": "img/f086a4b0.png",
-      "image_sha": "a435f73dd09d33ad4a0a6c12e3077d7fcc76de08",
-      "url": "https://www.radiodos.com.ar/208757-corrientes-la-policia-esclarecio-un-robo-en-el-que-se-llevaron-hasta-la-imagen-de-san-miguel-arcangel",
-      "title": "Corrientes: la Policía esclareció un robo en el que se llevaron hasta la imagen de San Miguel Arcángel",
-      "volanta": "ESCONDIAN EL BOTIN EN EL SAN GERONIMO",
-      "date": "2026-05-27T20:10:11+00:00"
     }
   ]
 }
