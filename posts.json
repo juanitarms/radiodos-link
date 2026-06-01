@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T22:43:51+00:00",
+  "updated": "2026-06-01T22:52:40+00:00",
   "posts": [
+    {
+      "id": "57d6f471",
+      "image": "img/57d6f471.png",
+      "image_sha": "bfc70ff8696891d43d4eaa76bb45f10353248d72",
+      "url": "https://www.radiodos.com.ar/208972-hallaron-en-corrientes-colmenas-robadas-en-entre-rios-el-valor-supera-los-7-millones",
+      "title": "Hallaron en Corrientes colmenas robadas en Entre Ríos: el valor supera los $7 millones",
+      "volanta": "TRAS OPERATIVO",
+      "date": "2026-06-01T22:52:40+00:00"
+    },
     {
       "id": "6039ae2f",
       "image": "img/6039ae2f.png",
@@ -531,15 +540,6 @@
       "title": "Se realizarán operativos oftalmológicos en 22 localidades del Interior",
       "volanta": "A PARTIR DEL 1 DE JUNIO",
       "date": "2026-05-28T20:41:45+00:00"
-    },
-    {
-      "id": "eec50719",
-      "image": "img/eec50719.png",
-      "image_sha": "39fee3a9f95d7929b06a61b2d60e5d74240384c2",
-      "url": "https://www.radiodos.com.ar/208822-denuncio-el-robo-de-150-animales-pero-termino-detenida-por-abigeato",
-      "title": "Denunció el robo de 150 animales pero terminó detenida por abigeato",
-      "volanta": "CORRIENTES",
-      "date": "2026-05-28T20:38:35+00:00"
     }
   ]
 }
