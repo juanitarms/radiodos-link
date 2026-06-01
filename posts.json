@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-31T16:23:29+00:00",
+  "updated": "2026-05-31T16:54:39+00:00",
   "posts": [
+    {
+      "id": "fcc36365",
+      "image": "img/fcc36365.png",
+      "image_sha": "98cbe2b634446ee19a44b26846d3b570f86853cc",
+      "url": "https://www.radiodos.com.ar/208923-crimen-de-agostina-piden-agravar-la-imputacion-y-apuntan-a-posibles-nuevas-responsabilidades",
+      "title": "Crimen de Agostina: piden agravar la imputación y apuntan a posibles nuevas responsabilidades",
+      "volanta": "CORDOBA",
+      "date": "2026-05-31T16:54:39+00:00"
+    },
     {
       "id": "a94a0d55",
       "image": "img/a94a0d55.png",
@@ -531,15 +540,6 @@
       "title": "Entregaron equipamiento sanitario para la atención primaria en localidad del interior de Corrientes",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-05-27T20:09:48+00:00"
-    },
-    {
-      "id": "ded76c34",
-      "image": "img/ded76c34.png",
-      "image_sha": "46417d4fdcd44580c25ae893312dc3d79067bd8f",
-      "url": "https://www.radiodos.com.ar/208750-campana-sucia-lula-advirtio-por-el-uso-de-inteligencia-artificial-en-las-presidenciales-de-octubre",
-      "title": "Campaña sucia: Lula advirtió por el uso de inteligencia artificial en las presidenciales de octubre",
-      "volanta": "BRASIL",
-      "date": "2026-05-27T19:45:53+00:00"
     }
   ]
 }
