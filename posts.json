@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T12:19:51+00:00",
+  "updated": "2026-06-01T12:39:34+00:00",
   "posts": [
+    {
+      "id": "aa593525",
+      "image": "img/aa593525.png",
+      "image_sha": "cdac7783497886187e2d77756682818843d2516c",
+      "url": "https://www.radiodos.com.ar/208931-detuvieron-a-una-mujer-que-llevaba-marihuana-y-secuestraron-una-moto-y-celulares",
+      "title": "Detuvieron a una mujer que llevaba marihuana y secuestraron una moto y celulares",
+      "volanta": "GENERAL PAZ",
+      "date": "2026-06-01T12:39:34+00:00"
+    },
     {
       "id": "b6f2813e",
       "image": "img/b6f2813e.png",
@@ -531,15 +540,6 @@
       "title": "Esquina: hacía \"tiro al blanco\" con sus perros y lo allanaron",
       "volanta": "MALTRATO ANIMAL",
       "date": "2026-05-28T12:23:53+00:00"
-    },
-    {
-      "id": "f9ede028",
-      "image": "img/f9ede028.png",
-      "image_sha": "400fe2f1070e054ef7d29c9401eae7ee5b3f9f92",
-      "url": "https://www.radiodos.com.ar/208771-corrientes-la-venta-de-nafta-y-gasoil-cayo-un-10-en-abril",
-      "title": "Corrientes: la venta de nafta y gasoil cayó un 10% en abril",
-      "volanta": "TENDENCIA NACIONAL",
-      "date": "2026-05-28T11:09:53+00:00"
     }
   ]
 }
