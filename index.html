@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Radio Dos · Últimas notas</title>
-  <meta name="description" content="Las últimas notas de Radio Dos (FM 99.3, Corrientes). Tocá una placa para leer la nota completa.">
+  <title>Radio Dos · Últimas noticias</title>
+  <meta name="description" content="Las últimas noticias de Radio Dos (FM 99.3, Corrientes). Tocá una placa para leer la noticia completa.">
   <meta name="theme-color" content="#e0092d">
 
   <!-- Open Graph: cómo se ve el link al compartirlo -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Radio Dos · Últimas notas">
-  <meta property="og:description" content="Tocá una placa para leer la nota completa en radiodos.com.ar">
+  <meta property="og:title" content="Radio Dos · Últimas noticias">
+  <meta property="og:description" content="Tocá una placa para leer la noticia completa en radiodos.com.ar">
   <meta property="og:image" content="logo.png">
 
   <link rel="icon" href="logo.png">
@@ -33,29 +33,7 @@
       text-rendering: optimizeLegibility;
     }
     .top-bar { height: 5px; background: var(--rojo); }
-    .wrap { max-width: 600px; margin: 0 auto; padding: 0 16px 40px; }
-
-    header { text-align: center; padding: 28px 0 8px; }
-    .logo {
-      width: 104px; height: 104px; border-radius: 50%;
-      object-fit: cover; display: block; margin: 0 auto 14px;
-      box-shadow: 0 4px 18px rgba(0,0,0,.12);
-      border: 3px solid #fff;
-    }
-    .nombre { font-size: 26px; font-weight: 800; letter-spacing: -.5px; margin: 0; }
-    .tagline { color: var(--gris); font-size: 14px; margin: 4px 0 0; }
-
-    .acciones { margin: 22px 0 26px; }
-    .btn {
-      display: block; width: 100%; text-align: center; text-decoration: none;
-      padding: 16px 18px; border-radius: 14px; font-size: 16px; font-weight: 700;
-      background: var(--rojo); color: #fff; border: none;
-      box-shadow: 0 6px 16px rgba(224,9,45,.28);
-      transition: transform .08s ease, box-shadow .15s ease, background .15s ease;
-    }
-    .btn:active { transform: translateY(1px) scale(.995); }
-    .btn:hover { background: var(--rojo-oscuro); }
-    .btn + .btn { margin-top: 12px; }
+    .wrap { max-width: 600px; margin: 0 auto; padding: 18px 16px 40px; }
 
     .seccion-titulo {
       display: flex; align-items: center; gap: 10px;
@@ -102,21 +80,11 @@
 <body>
   <div class="top-bar"></div>
   <div class="wrap">
-    <header>
-      <img class="logo" src="logo.png" alt="Radio Dos">
-      <h1 class="nombre">Radio Dos</h1>
-      <p class="tagline">FM 99.3 · Corrientes</p>
-    </header>
-
-    <nav class="acciones">
-      <a class="btn" href="https://www.radiodos.com.ar" target="_blank" rel="noopener">Visitar Radio Dos</a>
-    </nav>
-
-    <div class="seccion-titulo">Últimas notas</div>
+    <div class="seccion-titulo">Últimas noticias</div>
 
     <div id="estado" class="estado">
       <div class="spinner"></div>
-      Cargando las últimas notas…
+      Cargando las últimas noticias…
     </div>
     <div id="grid" class="grid" hidden></div>
 
@@ -139,7 +107,7 @@
 
       function render(posts) {
         if (!Array.isArray(posts) || posts.length === 0) {
-          mostrarEstado("Muy pronto vas a ver acá las últimas notas de Radio Dos.");
+          mostrarEstado("Muy pronto vas a ver acá las últimas noticias de Radio Dos.");
           return;
         }
         var frag = document.createDocumentFragment();
@@ -152,7 +120,7 @@
           a.rel = "noopener";
           var img = document.createElement("img");
           img.src = p.image;
-          img.alt = p.title || "Nota de Radio Dos";
+          img.alt = p.title || "Noticia de Radio Dos";
           img.loading = "lazy";
           img.decoding = "async";
           a.appendChild(img);
@@ -171,7 +139,7 @@
         })
         .then(function (data) { render(data && data.posts); })
         .catch(function () {
-          mostrarEstado("No pudimos cargar las notas ahora. Volvé a entrar en un ratito.");
+          mostrarEstado("No pudimos cargar las noticias ahora. Volvé a entrar en un ratito.");
         });
     })();
   </script>
