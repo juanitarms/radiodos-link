@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T13:18:07+00:00",
+  "updated": "2026-06-01T13:56:23+00:00",
   "posts": [
+    {
+      "id": "be24fb5b",
+      "image": "img/be24fb5b.png",
+      "image_sha": "a6f19d9ab9e8c4ab7e6630d1938ebc217e25334e",
+      "url": "https://www.radiodos.com.ar/208939-investigan-causa-del-violento-choque-a-una-garita-cuando-llego-la-policia-no-habia-nadie",
+      "title": "Investigan causa del violento choque a una garita: cuando llegó la Policía, no había nadie",
+      "volanta": "Curuzú Cuatiá",
+      "date": "2026-06-01T13:56:23+00:00"
+    },
     {
       "id": "5e89311d",
       "image": "img/5e89311d.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei diserta hoy en el Latam Economic Forum",
       "volanta": "EXPOSICIÓN",
       "date": "2026-05-28T14:27:56+00:00"
-    },
-    {
-      "id": "5588c0ce",
-      "image": "img/5588c0ce.png",
-      "image_sha": "ba062eaca9721bdc9e9e9ed63f60bede31d8945c",
-      "url": "https://www.radiodos.com.ar/208792-anses-el-monto-de-las-becas-progresar-disponible-para-mayo-2026",
-      "title": "ANSES: el monto de las Becas Progresar disponible para mayo 2026",
-      "volanta": "NOVEDAD",
-      "date": "2026-05-28T14:02:59+00:00"
     }
   ]
 }
