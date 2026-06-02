@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T16:19:27+00:00",
+  "updated": "2026-06-02T17:25:53+00:00",
   "posts": [
+    {
+      "id": "20adaaa1",
+      "image": "img/20adaaa1.png",
+      "image_sha": "f42703fd9afe027947f1b8ff834410a960935a72",
+      "url": "https://www.radiodos.com.ar/209014-el-video-de-rodrigo-de-paul-en-el-show-de-tini-en-peru-a-dias-del-mundial-2026-fumando-un-vaper",
+      "title": "El video de Rodrigo De Paul en el show de Tini en Perú a días del Mundial 2026: ¿fumando un vaper?",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-02T17:25:53+00:00"
+    },
     {
       "id": "60cd9824",
       "image": "img/60cd9824.png",
@@ -531,15 +540,6 @@
       "title": "El Poder Judicial anunció un incremento salarial del 10%",
       "volanta": "CORRIENTES",
       "date": "2026-05-29T23:33:03+00:00"
-    },
-    {
-      "id": "d6a888fb",
-      "image": "img/d6a888fb.png",
-      "image_sha": "565939a9e5642c206e54c34e452e8da1917bcdcf",
-      "url": "https://www.radiodos.com.ar/208890-juan-pablo-valdes-tiene-como-politica-de-estado-la-cuestion-salarial",
-      "title": "\"Juan Pablo Valdés tiene como política de Estado la cuestión salarial\"",
-      "volanta": "héctor grachot",
-      "date": "2026-05-29T23:19:58+00:00"
     }
   ]
 }
