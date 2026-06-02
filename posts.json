@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T18:18:35+00:00",
+  "updated": "2026-06-02T19:36:25+00:00",
   "posts": [
+    {
+      "id": "340e0247",
+      "image": "img/340e0247.png",
+      "image_sha": "16129dd28b9d852378995bd4071f6fa2fc28d935",
+      "url": "https://www.radiodos.com.ar/209019-provincia-coordina-acciones-preventivas-ante-eventuales-contingencias-climaticas",
+      "title": "Provincia coordina acciones preventivas ante eventuales contingencias climáticas",
+      "volanta": "Fenómeno de El Niño",
+      "date": "2026-06-02T19:36:25+00:00"
+    },
     {
       "id": "ad6255fb",
       "image": "img/ad6255fb.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes desactivó otros dos \"narco-kioscos\"",
       "volanta": "CUATRO DETENIDOS",
       "date": "2026-05-30T14:01:05+00:00"
-    },
-    {
-      "id": "1dbe0c2c",
-      "image": "img/1dbe0c2c.png",
-      "image_sha": "717f6260042de973121636cd0b6acc12fb2f2621",
-      "url": "https://www.radiodos.com.ar/208889-denunciaron-a-milei-por-frenar-el-ascenso-de-una-candidata-a-jueza-por-ser-cunada-de-un-periodista",
-      "title": "Denunciaron a Milei por frenar el ascenso de una candidata a jueza por ser cuñada de un periodista",
-      "volanta": "Judiciales",
-      "date": "2026-05-30T13:20:32+00:00"
     }
   ]
 }
