@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T20:41:29+00:00",
+  "updated": "2026-06-02T20:55:00+00:00",
   "posts": [
+    {
+      "id": "5aa1cafc",
+      "image": "img/5aa1cafc.png",
+      "image_sha": "b0c45ce2230b9d0c6bb0773ee65b36ad3f11dd8f",
+      "url": "https://www.radiodos.com.ar/209028-condenan-a-un-matrimonio-a-pagar-casi-5-millones-de-pesos-tras-el-ataque-de-sus-perros-a-una-motociclista",
+      "title": "Condenan a un matrimonio a pagar casi 5 millones de pesos tras el ataque de sus perros a una motociclista",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-02T20:55:00+00:00"
+    },
     {
       "id": "62191584",
       "image": "img/62191584.png",
@@ -531,15 +540,6 @@
       "title": "Con Las Nacionales, Corrientes consolidó su liderazgo ganadero en la región",
       "volanta": "EXPO NACIONAL DE RAZAS",
       "date": "2026-05-30T18:51:02+00:00"
-    },
-    {
-      "id": "022dc1cf",
-      "image": "img/022dc1cf.png",
-      "image_sha": "06e78eb8e7aaef3701c601101f62bdcdcfaf48c1",
-      "url": "https://www.radiodos.com.ar/208901-confirmado-kicillof-viene-a-corrientes-y-seria-recibido-por-el-gobernador-valdes",
-      "title": "Confirmado: Kicillof viene a Corrientes y sería recibido por el gobernador Valdés",
-      "volanta": "EL MIÉRCOLES",
-      "date": "2026-05-30T16:19:50+00:00"
     }
   ]
 }
