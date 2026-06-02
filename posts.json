@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T17:25:53+00:00",
+  "updated": "2026-06-02T17:26:28+00:00",
   "posts": [
+    {
+      "id": "ec4a0b9c",
+      "image": "img/ec4a0b9c.png",
+      "image_sha": "4a51c2f2a3b4bdf80be56563ec78e3b27b474c8a",
+      "url": "https://www.radiodos.com.ar/209024-ebola-salud-publica-coordina-acciones-de-prevencion-y-vigilancia",
+      "title": "Ébola: Salud Pública coordina acciones de prevención y vigilancia",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-02T17:26:28+00:00"
+    },
     {
       "id": "20adaaa1",
       "image": "img/20adaaa1.png",
@@ -531,15 +540,6 @@
       "title": "Concejal Gaúna: \"El trabajo en conjunto con el DEM es fundamental para dar respuestas a los vecinos\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-05-29T23:49:40+00:00"
-    },
-    {
-      "id": "0c7a27b6",
-      "image": "img/0c7a27b6.png",
-      "image_sha": "8b0982fd09865005d41a09545d0e147276e782e6",
-      "url": "https://www.radiodos.com.ar/208891-el-poder-judicial-anuncio-un-incremento-salarial-del-10",
-      "title": "El Poder Judicial anunció un incremento salarial del 10%",
-      "volanta": "CORRIENTES",
-      "date": "2026-05-29T23:33:03+00:00"
     }
   ]
 }
