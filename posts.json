@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T01:01:25+00:00",
+  "updated": "2026-06-02T02:33:28+00:00",
   "posts": [
+    {
+      "id": "6d7cb00d",
+      "image": "img/6d7cb00d.png",
+      "image_sha": "05c281fb660edb551598434b74ac925f66baf6ba",
+      "url": "https://www.radiodos.com.ar/208969-condenaron-a-una-abogada-por-falsificar-fallos-judiciales-y-estafar-a-sus-representados",
+      "title": "Condenaron a una abogada por falsificar fallos judiciales y estafar a sus representados",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-02T02:33:28+00:00"
+    },
     {
       "id": "c4917ced",
       "image": "img/c4917ced.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú pone en marcha las primeras obras edilicias en su predio",
       "volanta": "CON FONDOS PROPIOS",
       "date": "2026-05-28T21:23:55+00:00"
-    },
-    {
-      "id": "53cf4030",
-      "image": "img/53cf4030.png",
-      "image_sha": "0b8e2b922b4bab5f76bd833163c6f4fc9a8f54ea",
-      "url": "https://www.radiodos.com.ar/208825-el-titular-de-ypf-sobre-el-valor-de-la-nafta-termina-la-guerra-baja-el-precio",
-      "title": "El titular de YPF, sobre el valor de la nafta: \"Termina la guerra, baja el precio\"",
-      "volanta": "Horacio Marín",
-      "date": "2026-05-28T21:06:37+00:00"
     }
   ]
 }
