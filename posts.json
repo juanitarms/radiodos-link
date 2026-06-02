@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T23:03:32+00:00",
+  "updated": "2026-06-02T23:10:39+00:00",
   "posts": [
+    {
+      "id": "de9642f5",
+      "image": "img/de9642f5.png",
+      "image_sha": "d7b41239f515b626ad56b4ce7d42ec0bdb7c2d1c",
+      "url": "https://www.radiodos.com.ar/209026-el-exjuez-federal-carlos-soto-davila-ira-a-otro-juicio-oral",
+      "title": "El exjuez federal Carlos Soto Dávila irá a otro juicio oral",
+      "volanta": "OTRO REVES JUDICIAL",
+      "date": "2026-06-02T23:10:39+00:00"
+    },
     {
       "id": "693b1453",
       "image": "img/693b1453.png",
@@ -531,15 +540,6 @@
       "title": "PSG venció a Arsenal y es bicampeón de la Champions League",
       "volanta": "Hungría",
       "date": "2026-05-30T21:20:21+00:00"
-    },
-    {
-      "id": "75c532d0",
-      "image": "img/75c532d0.png",
-      "image_sha": "f7a8bdae6bdbd849c1810375ae0b9ba893e42ed0",
-      "url": "https://www.radiodos.com.ar/208899-cielo-limpio-el-auspicioso-programa-que-instrumenta-la-municipalidad-en-el-centro-de-corrientes",
-      "title": "Cielo Limpio: el auspicioso programa que instrumenta la Municipalidad en el centro de Corrientes",
-      "volanta": "INICIATIVA",
-      "date": "2026-05-30T21:15:46+00:00"
     }
   ]
 }
