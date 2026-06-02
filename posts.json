@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T14:07:43+00:00",
+  "updated": "2026-06-02T14:52:16+00:00",
   "posts": [
+    {
+      "id": "49867376",
+      "image": "img/49867376.png",
+      "image_sha": "57e51e8164f2c3e462163dfd17b335d72408917c",
+      "url": "https://www.radiodos.com.ar/208999-claudio-polich-vamos-a-seguir-articulando-las-politicas-salariales-junto-a-la-provincia",
+      "title": "Claudio Polich: \"Vamos a seguir articulando las políticas salariales junto a la Provincia\"",
+      "volanta": "RONDA DE PRENSA",
+      "date": "2026-06-02T14:52:16+00:00"
+    },
     {
       "id": "6a67dff9",
       "image": "img/6a67dff9.png",
@@ -531,15 +540,6 @@
       "title": "Milei recibió al embajador de Estados Unidos y anunció una inversión de u$s8 mil millones",
       "volanta": "en Casa Rosada",
       "date": "2026-05-29T21:01:59+00:00"
-    },
-    {
-      "id": "6413dbc2",
-      "image": "img/6413dbc2.png",
-      "image_sha": "5bb3bb6504a38f085370ae4f250311368ee9f663",
-      "url": "https://www.radiodos.com.ar/208880-juan-pablo-valdes-anuncio-nuevas-obras-en-liebig-durante-los-festejos-por-su-102°-aniversario",
-      "title": "Juan Pablo Valdés anunció nuevas obras en Liebig durante los festejos por su 102° aniversario",
-      "volanta": "ACTO CENTRAL",
-      "date": "2026-05-29T20:26:07+00:00"
     }
   ]
 }
