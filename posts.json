@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T20:55:00+00:00",
+  "updated": "2026-06-02T21:21:38+00:00",
   "posts": [
+    {
+      "id": "89a6e1c9",
+      "image": "img/89a6e1c9.png",
+      "image_sha": "64dce7cdf3850b310c7855e3018e7a27b93dc491",
+      "url": "https://www.radiodos.com.ar/209029-la-corte-de-nueva-york-rechazo-revisar-el-fallo-a-favor-de-argentina-por-ypf",
+      "title": "La Corte de Nueva York rechazó revisar el fallo a favor de Argentina por YPF",
+      "volanta": "Defensa soberana",
+      "date": "2026-06-02T21:21:38+00:00"
+    },
     {
       "id": "5aa1cafc",
       "image": "img/5aa1cafc.png",
@@ -531,15 +540,6 @@
       "title": "Más que un tercer 9: destacan el aporte que el Flaco López le dará a la Selección en el Mundial",
       "volanta": "ORGULLO CORRENTINO",
       "date": "2026-05-30T19:34:00+00:00"
-    },
-    {
-      "id": "59422a05",
-      "image": "img/59422a05.png",
-      "image_sha": "15bb8d5fdbbf2d764e007c11ea63679519ba9198",
-      "url": "https://www.radiodos.com.ar/208898-con-las-nacionales-corrientes-consolido-su-liderazgo-ganadero-en-la-region",
-      "title": "Con Las Nacionales, Corrientes consolidó su liderazgo ganadero en la región",
-      "volanta": "EXPO NACIONAL DE RAZAS",
-      "date": "2026-05-30T18:51:02+00:00"
     }
   ]
 }
