@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T21:21:38+00:00",
+  "updated": "2026-06-02T21:49:14+00:00",
   "posts": [
+    {
+      "id": "b8184723",
+      "image": "img/b8184723.png",
+      "image_sha": "9790458450b3879e9b594f387846dc991e6cf1e5",
+      "url": "https://www.radiodos.com.ar/209031-las-transferencias-automaticas-nacionales-a-corrientes-crecieron-84-en-mayo",
+      "title": "Las transferencias automáticas nacionales a Corrientes crecieron 8,4% en mayo",
+      "volanta": "-2,6% EN EL ACUMULADO ANUAL",
+      "date": "2026-06-02T21:49:14+00:00"
+    },
     {
       "id": "89a6e1c9",
       "image": "img/89a6e1c9.png",
@@ -531,15 +540,6 @@
       "title": "Sorpresa: Gladys la Bomba Tucumana se va de Gran Hermano tras un mes a pura crisis",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-05-30T20:48:29+00:00"
-    },
-    {
-      "id": "15b89ac0",
-      "image": "img/15b89ac0.png",
-      "image_sha": "b954976f6629dc4c57c4d4ae67e090429844ea76",
-      "url": "https://www.radiodos.com.ar/208900-mas-que-un-tercer-9-destacan-el-aporte-que-el-flaco-lopez-le-dara-a-la-seleccion-en-el-mundial",
-      "title": "Más que un tercer 9: destacan el aporte que el Flaco López le dará a la Selección en el Mundial",
-      "volanta": "ORGULLO CORRENTINO",
-      "date": "2026-05-30T19:34:00+00:00"
     }
   ]
 }
