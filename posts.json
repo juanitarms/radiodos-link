@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T16:00:59+00:00",
+  "updated": "2026-06-02T16:19:27+00:00",
   "posts": [
+    {
+      "id": "60cd9824",
+      "image": "img/60cd9824.png",
+      "image_sha": "37c91c459cded02f3cd1e371f0dff4540274bcd4",
+      "url": "https://www.radiodos.com.ar/209016-neuquen-la-grua-que-retiraba-autos-por-alcoholemia-termino-secuestrada",
+      "title": "Neuquén: la grúa que retiraba autos por alcoholemia terminó secuestrada",
+      "volanta": "Increíble",
+      "date": "2026-06-02T16:19:27+00:00"
+    },
     {
       "id": "bd7ddfaf",
       "image": "img/bd7ddfaf.png",
@@ -531,15 +540,6 @@
       "title": "\"Juan Pablo Valdés tiene como política de Estado la cuestión salarial\"",
       "volanta": "héctor grachot",
       "date": "2026-05-29T23:19:58+00:00"
-    },
-    {
-      "id": "aaf2d477",
-      "image": "img/aaf2d477.png",
-      "image_sha": "2eaeb85caa9d0d124ef37c4ac34f917425d500c2",
-      "url": "https://www.radiodos.com.ar/208885-un-tribunal-internacional-declaro-ecocidio-al-modelo-forestal-en-corrientes",
-      "title": "Un tribunal internacional declaró \"ecocidio\" al modelo forestal en Corrientes",
-      "volanta": "MEDIOAMBIENTE",
-      "date": "2026-05-29T21:58:33+00:00"
     }
   ]
 }
