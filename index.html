@@ -14,6 +14,10 @@
   <meta property="og:image" content="logo.png">
 
   <link rel="icon" href="logo.png">
+
+  <!-- Umami: analytics sin cookies. Mide visitas + el evento "click-nota" por placa. -->
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="1b162651-6c1c-4743-928e-a4b55f12cb62"></script>
+
   <style>
     :root {
       --rojo: #e0092d;
@@ -110,6 +114,8 @@
           a.href = p.url;
           a.target = "_blank";
           a.rel = "noopener";
+          a.setAttribute("data-umami-event", "click-nota");
+          a.setAttribute("data-umami-event-titulo", p.title || "Nota");
           var img = document.createElement("img");
           img.src = p.image;
           img.alt = p.title || "Noticia de Radio Dos";
