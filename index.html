@@ -114,8 +114,9 @@
           a.href = p.url;
           a.target = "_blank";
           a.rel = "noopener";
-          a.setAttribute("data-umami-event", "click-nota");
-          a.setAttribute("data-umami-event-titulo", p.title || "Nota");
+          a.addEventListener("click", function () {
+            if (window.umami) window.umami.track("click-nota", { titulo: p.title || "Nota" });
+          });
           var img = document.createElement("img");
           img.src = p.image;
           img.alt = p.title || "Noticia de Radio Dos";
