@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T02:33:28+00:00",
+  "updated": "2026-06-02T11:22:45+00:00",
   "posts": [
+    {
+      "id": "cf4e75fa",
+      "image": "img/cf4e75fa.png",
+      "image_sha": "b43c794aed64a67bec47ff57e6379244e6785587",
+      "url": "https://www.radiodos.com.ar/208979-dia-nacional-del-perro-la-historia-de-chonino-el-heroico-ovejero-",
+      "title": "Día Nacional del Perro: la historia de \"Chonino\", el heroico ovejero",
+      "volanta": "2 de JUNIO",
+      "date": "2026-06-02T11:22:45+00:00"
+    },
     {
       "id": "6d7cb00d",
       "image": "img/6d7cb00d.png",
@@ -531,15 +540,6 @@
       "title": "Prisión preventiva para el agresor de la perra \"Chocolate\"",
       "volanta": "JUSTICIA",
       "date": "2026-05-29T17:28:50+00:00"
-    },
-    {
-      "id": "0969b76d",
-      "image": "img/0969b76d.png",
-      "image_sha": "4fe386009ad51d3acbbb34b7dd38468ae95690d9",
-      "url": "https://www.radiodos.com.ar/208824-mandiyu-pone-en-marcha-las-primeras-obras-edilicias-en-su-predio",
-      "title": "Mandiyú pone en marcha las primeras obras edilicias en su predio",
-      "volanta": "CON FONDOS PROPIOS",
-      "date": "2026-05-28T21:23:55+00:00"
     }
   ]
 }
