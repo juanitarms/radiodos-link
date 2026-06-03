@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T17:26:28+00:00",
+  "updated": "2026-06-02T17:48:16+00:00",
   "posts": [
+    {
+      "id": "f6beb1cb",
+      "image": "img/f6beb1cb.png",
+      "image_sha": "e4c75165d79e72eb67f7c1512ee0242085fbe1d4",
+      "url": "https://www.radiodos.com.ar/209023-nacion-y-provincia-trabajan-en-conjunto-para-fortalecer-a-los-emprendedores-correntinos",
+      "title": "Nación y Provincia trabajan en conjunto para fortalecer a los emprendedores correntinos",
+      "volanta": "En Buenos Aires",
+      "date": "2026-06-02T17:48:16+00:00"
+    },
     {
       "id": "ec4a0b9c",
       "image": "img/ec4a0b9c.png",
@@ -513,15 +522,6 @@
       "title": "José Luis Córdoba: \"Es histórico recuperar el Círculo de Periodistas Deportivos de Corrientes\"",
       "volanta": "DESPUÉS DE 25 AÑOS",
       "date": "2026-06-02T18:18:35+00:00"
-    },
-    {
-      "id": "f6beb1cb",
-      "image": "img/f6beb1cb.png",
-      "image_sha": "e4c75165d79e72eb67f7c1512ee0242085fbe1d4",
-      "url": "https://www.radiodos.com.ar/209023-nacion-y-provincia-trabajan-en-conjunto-para-fortalecer-a-los-emprendedores-correntinos",
-      "title": "Nación y Provincia trabajan en conjunto para fortalecer a los emprendedores correntinos",
-      "volanta": "En Buenos Aires",
-      "date": "2026-06-02T17:48:16+00:00"
     },
     {
       "id": "006879d3",
