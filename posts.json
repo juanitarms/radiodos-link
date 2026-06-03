@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T19:36:25+00:00",
+  "updated": "2026-06-02T19:59:41+00:00",
   "posts": [
+    {
+      "id": "60f3c5a8",
+      "image": "img/60f3c5a8.png",
+      "image_sha": "412f9ea05ef127f3dad3421c9d86a352c1935ebb",
+      "url": "https://www.radiodos.com.ar/209025-juan-pablo-valdes-y-gobernadores-del-norte-grande-avanzaron-en-una-agenda-regional-de-desarrollo",
+      "title": "Juan Pablo Valdés y gobernadores del Norte Grande avanzaron en una agenda regional de desarrollo",
+      "volanta": "EN LA CIUDAD DE BUENOS AIRES",
+      "date": "2026-06-02T19:59:41+00:00"
+    },
     {
       "id": "340e0247",
       "image": "img/340e0247.png",
@@ -513,15 +522,6 @@
       "title": "La Feria Provincial del Libro se realizará del 7 al 18 de julio en La Unidad",
       "volanta": "Encuentro literario",
       "date": "2026-06-02T20:41:29+00:00"
-    },
-    {
-      "id": "60f3c5a8",
-      "image": "img/60f3c5a8.png",
-      "image_sha": "412f9ea05ef127f3dad3421c9d86a352c1935ebb",
-      "url": "https://www.radiodos.com.ar/209025-juan-pablo-valdes-y-gobernadores-del-norte-grande-avanzaron-en-una-agenda-regional-de-desarrollo",
-      "title": "Juan Pablo Valdés y gobernadores del Norte Grande avanzaron en una agenda regional de desarrollo",
-      "volanta": "EN LA CIUDAD DE BUENOS AIRES",
-      "date": "2026-06-02T19:59:41+00:00"
     },
     {
       "id": "006879d3",
