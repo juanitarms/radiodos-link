@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-31T21:32:54+00:00",
+  "updated": "2026-06-01T10:40:27+00:00",
   "posts": [
+    {
+      "id": "6d9cf7eb",
+      "image": "img/6d9cf7eb.png",
+      "image_sha": "b376ff7ff65efbc6100748a7f5fe551f818589d4",
+      "url": "https://www.radiodos.com.ar/208924-aniversario-de-luis-del-palmar-valdes-anuncio-obras-clave-para-la-localidad",
+      "title": "Aniversario de Luis del Palmar: Valdés anunció obras clave para la localidad",
+      "volanta": "Acto",
+      "date": "2026-06-01T10:40:27+00:00"
+    },
     {
       "id": "96fb4ef1",
       "image": "img/96fb4ef1.png",
@@ -513,15 +522,6 @@
       "title": "\"Narcopolicías\" llegan a juicio oral: un comisario y un sargento de la Policía de Corrientes",
       "volanta": "A tres años del inicio del proceso",
       "date": "2026-06-01T11:07:48+00:00"
-    },
-    {
-      "id": "6d9cf7eb",
-      "image": "img/6d9cf7eb.png",
-      "image_sha": "b376ff7ff65efbc6100748a7f5fe551f818589d4",
-      "url": "https://www.radiodos.com.ar/208924-aniversario-de-luis-del-palmar-valdes-anuncio-obras-clave-para-la-localidad",
-      "title": "Aniversario de Luis del Palmar: Valdés anunció obras clave para la localidad",
-      "volanta": "Acto",
-      "date": "2026-06-01T10:40:27+00:00"
     },
     {
       "id": "006879d3",
