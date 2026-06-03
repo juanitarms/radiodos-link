@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T12:48:48+00:00",
+  "updated": "2026-06-01T13:15:39+00:00",
   "posts": [
+    {
+      "id": "a93ad66a",
+      "image": "img/a93ad66a.png",
+      "image_sha": "cdaee5cf1ac97ddcab7d9f1f6a2120bef506245c",
+      "url": "https://www.radiodos.com.ar/208938-el-abuelo-de-agostina-vega-se-reunio-con-martin-llaryora-apunto-contra-el-fiscal-y-denuncio-mas-implicados",
+      "title": "El abuelo de Agostina Vega se reunió con Martín Llaryora, apuntó contra el fiscal y denunció \"más implicados\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-01T13:15:39+00:00"
+    },
     {
       "id": "f8374c9f",
       "image": "img/f8374c9f.png",
@@ -513,15 +522,6 @@
       "title": "Reforma laboral: qué cambia en convenios colectivos, representación sindical y trabajadores en negro",
       "volanta": "NORMATIVA",
       "date": "2026-06-01T13:18:07+00:00"
-    },
-    {
-      "id": "a93ad66a",
-      "image": "img/a93ad66a.png",
-      "image_sha": "cdaee5cf1ac97ddcab7d9f1f6a2120bef506245c",
-      "url": "https://www.radiodos.com.ar/208938-el-abuelo-de-agostina-vega-se-reunio-con-martin-llaryora-apunto-contra-el-fiscal-y-denuncio-mas-implicados",
-      "title": "El abuelo de Agostina Vega se reunió con Martín Llaryora, apuntó contra el fiscal y denunció \"más implicados\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-01T13:15:39+00:00"
     },
     {
       "id": "006879d3",
