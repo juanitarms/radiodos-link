@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T18:18:35+00:00",
+  "updated": "2026-06-02T19:36:25+00:00",
   "posts": [
+    {
+      "id": "340e0247",
+      "image": "img/340e0247.png",
+      "image_sha": "16129dd28b9d852378995bd4071f6fa2fc28d935",
+      "url": "https://www.radiodos.com.ar/209019-provincia-coordina-acciones-preventivas-ante-eventuales-contingencias-climaticas",
+      "title": "Provincia coordina acciones preventivas ante eventuales contingencias climáticas",
+      "volanta": "Fenómeno de El Niño",
+      "date": "2026-06-02T19:36:25+00:00"
+    },
     {
       "id": "ad6255fb",
       "image": "img/ad6255fb.png",
@@ -513,15 +522,6 @@
       "title": "Juan Pablo Valdés y gobernadores del Norte Grande avanzaron en una agenda regional de desarrollo",
       "volanta": "EN LA CIUDAD DE BUENOS AIRES",
       "date": "2026-06-02T19:59:41+00:00"
-    },
-    {
-      "id": "340e0247",
-      "image": "img/340e0247.png",
-      "image_sha": "16129dd28b9d852378995bd4071f6fa2fc28d935",
-      "url": "https://www.radiodos.com.ar/209019-provincia-coordina-acciones-preventivas-ante-eventuales-contingencias-climaticas",
-      "title": "Provincia coordina acciones preventivas ante eventuales contingencias climáticas",
-      "volanta": "Fenómeno de El Niño",
-      "date": "2026-06-02T19:36:25+00:00"
     },
     {
       "id": "006879d3",
