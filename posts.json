@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T21:49:14+00:00",
+  "updated": "2026-06-02T23:03:32+00:00",
   "posts": [
+    {
+      "id": "693b1453",
+      "image": "img/693b1453.png",
+      "image_sha": "ae408046e054f9720624201c941af0b1577b9a08",
+      "url": "https://www.radiodos.com.ar/209033-mercedes-se-quedo-sin-colectivos-tras-el-cierre-definitivo-de-sager",
+      "title": "Mercedes se quedó sin colectivos tras el cierre definitivo de Sager",
+      "volanta": "Histórico",
+      "date": "2026-06-02T23:03:32+00:00"
+    },
     {
       "id": "b8184723",
       "image": "img/b8184723.png",
@@ -513,15 +522,6 @@
       "title": "El exjuez federal Carlos Soto Dávila irá a otro juicio oral",
       "volanta": "OTRO REVES JUDICIAL",
       "date": "2026-06-02T23:10:39+00:00"
-    },
-    {
-      "id": "693b1453",
-      "image": "img/693b1453.png",
-      "image_sha": "ae408046e054f9720624201c941af0b1577b9a08",
-      "url": "https://www.radiodos.com.ar/209033-mercedes-se-quedo-sin-colectivos-tras-el-cierre-definitivo-de-sager",
-      "title": "Mercedes se quedó sin colectivos tras el cierre definitivo de Sager",
-      "volanta": "Histórico",
-      "date": "2026-06-02T23:03:32+00:00"
     },
     {
       "id": "006879d3",
