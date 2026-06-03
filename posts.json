@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T23:18:47+00:00",
+  "updated": "2026-06-03T23:20:23+00:00",
   "posts": [
+    {
+      "id": "bb5dd772",
+      "image": "img/bb5dd772.png",
+      "image_sha": "1a32a4ce99f14b100f731e90e03035279626a6c2",
+      "url": "https://www.radiodos.com.ar/209076-iba-sin-patentes-intento-huir-y-termino-preso",
+      "title": "Iba sin patentes, intentó huir y terminó preso",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-03T23:20:23+00:00"
+    },
     {
       "id": "35a16344",
       "image": "img/35a16344.png",
@@ -531,15 +540,6 @@
       "title": "El abuelo de Agostina Vega se reunió con Martín Llaryora, apuntó contra el fiscal y denunció \"más implicados\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-01T13:15:39+00:00"
-    },
-    {
-      "id": "f8374c9f",
-      "image": "img/f8374c9f.png",
-      "image_sha": "cc6912b10a842a9389d3f1b778328952c655ef74",
-      "url": "https://www.radiodos.com.ar/208936-fal-javier-milei-reglamento-el-mecanismo-para-financiar-despidos-con-plata-de-los-jubilados",
-      "title": "FAL: Javier Milei reglamentó el mecanismo para financiar despidos con plata de los jubilados",
-      "volanta": "NORMATIVA",
-      "date": "2026-06-01T12:48:48+00:00"
     }
   ]
 }
