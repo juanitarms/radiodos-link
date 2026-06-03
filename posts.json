@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T19:59:41+00:00",
+  "updated": "2026-06-02T20:41:29+00:00",
   "posts": [
+    {
+      "id": "62191584",
+      "image": "img/62191584.png",
+      "image_sha": "abb9acd014b2639f08f29ca24b590c8344a08715",
+      "url": "https://www.radiodos.com.ar/209027-la-feria-provincial-del-libro-se-realizara-del-7-al-18-de-julio-en-la-unidad",
+      "title": "La Feria Provincial del Libro se realizará del 7 al 18 de julio en La Unidad",
+      "volanta": "Encuentro literario",
+      "date": "2026-06-02T20:41:29+00:00"
+    },
     {
       "id": "60f3c5a8",
       "image": "img/60f3c5a8.png",
@@ -513,15 +522,6 @@
       "title": "Condenan a un matrimonio a pagar casi 5 millones de pesos tras el ataque de sus perros a una motociclista",
       "volanta": "CORRIENTES",
       "date": "2026-06-02T20:55:00+00:00"
-    },
-    {
-      "id": "62191584",
-      "image": "img/62191584.png",
-      "image_sha": "abb9acd014b2639f08f29ca24b590c8344a08715",
-      "url": "https://www.radiodos.com.ar/209027-la-feria-provincial-del-libro-se-realizara-del-7-al-18-de-julio-en-la-unidad",
-      "title": "La Feria Provincial del Libro se realizará del 7 al 18 de julio en La Unidad",
-      "volanta": "Encuentro literario",
-      "date": "2026-06-02T20:41:29+00:00"
     },
     {
       "id": "006879d3",
