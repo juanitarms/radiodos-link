@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T10:34:45+00:00",
+  "updated": "2026-06-03T13:13:32+00:00",
   "posts": [
+    {
+      "id": "80ec9b95",
+      "image": "img/80ec9b95.png",
+      "image_sha": "244c76dfb05efc33a96e5f28ee06d796605b8d03",
+      "url": "https://www.radiodos.com.ar/209041-banda-de-menores-ataco-a-hondazos-a-joven-ciclista-en-una-zona-caliente-de-corrientes",
+      "title": "Banda de menores atacó \"a hondazos\" a joven ciclista en una zona caliente de Corrientes",
+      "volanta": "PLAZA DE LOS CABALLOS",
+      "date": "2026-06-03T13:13:32+00:00"
+    },
     {
       "id": "8065bd35",
       "image": "img/8065bd35.png",
@@ -531,15 +540,6 @@
       "title": "Agustín Sierra confirmó su ruptura con Fiorella Giménez: \"Lo intentamos mucho\"",
       "volanta": "ADIÓS AL AMOR",
       "date": "2026-05-31T00:55:08+00:00"
-    },
-    {
-      "id": "f96024e9",
-      "image": "img/f96024e9.png",
-      "image_sha": "ec4b495372aa7432760c951ae538367dd1f4c512",
-      "url": "https://www.radiodos.com.ar/208918-la-felicidad-de-nicolas-otamendi-por-llegar-a-river-el-club-de-sus-amores-un-sueno",
-      "title": "nicolás otamendi se convirtió en el nuevo refuerzo de river plate",
-      "volanta": "BIENVENIDO",
-      "date": "2026-05-30T23:43:05+00:00"
     }
   ]
 }
