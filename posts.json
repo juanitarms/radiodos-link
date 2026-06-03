@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T17:24:17+00:00",
+  "updated": "2026-06-03T18:00:15+00:00",
   "posts": [
+    {
+      "id": "6e13ec6c",
+      "image": "img/6e13ec6c.png",
+      "image_sha": "e21bf0907e305dfd985836882938d760502244bb",
+      "url": "https://www.radiodos.com.ar/209071-detuvieron-a-un-presunto-dealer-y-secuestraron-dosis-de-cocaina-y-balanza-de-precision",
+      "title": "Detuvieron a un presunto \"dealer\" y secuestraron dosis de cocaína y balanza de precisión",
+      "volanta": "EN TAREAS DE PREVENCION",
+      "date": "2026-06-03T18:00:15+00:00"
+    },
     {
       "id": "f18f35e4",
       "image": "img/f18f35e4.png",
@@ -531,15 +540,6 @@
       "title": "Crimen de Agostina: piden agravar la imputación y apuntan a posibles nuevas responsabilidades",
       "volanta": "CORDOBA",
       "date": "2026-05-31T16:54:39+00:00"
-    },
-    {
-      "id": "a94a0d55",
-      "image": "img/a94a0d55.png",
-      "image_sha": "e6788ec40d8962b698f4787cf542d6ac18c7120d",
-      "url": "https://www.radiodos.com.ar/208921-caso-agostina-incidentes-entre-la-policia-y-vecinos-que-manifestaron-ante-la-comisaria",
-      "title": "Caso Agostina: Incidentes entre la policía y vecinos que manifestaron ante la comisaría",
-      "volanta": "CORDOBA",
-      "date": "2026-05-31T16:23:29+00:00"
     }
   ]
 }
