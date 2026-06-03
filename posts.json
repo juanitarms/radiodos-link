@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T23:10:39+00:00",
+  "updated": "2026-06-03T01:40:03+00:00",
   "posts": [
+    {
+      "id": "5fb55228",
+      "image": "img/5fb55228.png",
+      "image_sha": "700cdffc7557565ed140687b0d2335d01a6bfa0b",
+      "url": "https://www.radiodos.com.ar/209034-patricia-bullrich-ofrecio-su-renuncia-a-milei-como-jefa-del-bloque-de-senadores",
+      "title": "Patricia Bullrich ofreció su renuncia a Milei como jefa del bloque de senadores",
+      "volanta": "Interna libertaria",
+      "date": "2026-06-03T01:40:03+00:00"
+    },
     {
       "id": "de9642f5",
       "image": "img/de9642f5.png",
@@ -531,15 +540,6 @@
       "title": "Dictan prisión preventiva sin plazo para un hombre acusado de golpear a su pareja",
       "volanta": "INTENTO DE FEMICIDIO",
       "date": "2026-05-30T22:54:26+00:00"
-    },
-    {
-      "id": "792c066c",
-      "image": "img/792c066c.png",
-      "image_sha": "ed3f76a6c7c921bd3a44115ad76dd39530913cda",
-      "url": "https://www.radiodos.com.ar/208914-psg-vencio-a-arsenal-y-es-bicampeon-de-la-champions-league",
-      "title": "PSG venció a Arsenal y es bicampeón de la Champions League",
-      "volanta": "Hungría",
-      "date": "2026-05-30T21:20:21+00:00"
     }
   ]
 }
