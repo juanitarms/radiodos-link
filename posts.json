@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T19:17:36+00:00",
+  "updated": "2026-06-03T20:24:07+00:00",
   "posts": [
+    {
+      "id": "9e1c65ab",
+      "image": "img/9e1c65ab.png",
+      "image_sha": "a198697c8ed8afa7af5f74d1e359b8fce66280be",
+      "url": "https://www.radiodos.com.ar/209064-la-seleccion-argentina-se-comunico-con-buendia-ante-una-posible-baja-antes-del-mundial-2026",
+      "title": "La Selección Argentina se comunicó con Buendía ante una posible baja antes del Mundial 2026",
+      "volanta": "Puerta abierta",
+      "date": "2026-06-03T20:24:07+00:00"
+    },
     {
       "id": "3a158516",
       "image": "img/3a158516.png",
@@ -531,15 +540,6 @@
       "title": "\"Narcopolicías\" llegan a juicio oral: un comisario y un sargento de la Policía de Corrientes",
       "volanta": "A tres años del inicio del proceso",
       "date": "2026-06-01T11:07:48+00:00"
-    },
-    {
-      "id": "6d9cf7eb",
-      "image": "img/6d9cf7eb.png",
-      "image_sha": "b376ff7ff65efbc6100748a7f5fe551f818589d4",
-      "url": "https://www.radiodos.com.ar/208924-aniversario-de-luis-del-palmar-valdes-anuncio-obras-clave-para-la-localidad",
-      "title": "Aniversario de Luis del Palmar: Valdés anunció obras clave para la localidad",
-      "volanta": "Acto",
-      "date": "2026-06-01T10:40:27+00:00"
     }
   ]
 }
