@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T17:48:16+00:00",
+  "updated": "2026-06-02T18:18:35+00:00",
   "posts": [
+    {
+      "id": "ad6255fb",
+      "image": "img/ad6255fb.png",
+      "image_sha": "8523430b7d751f8b49cf8199378094f164a2e7ed",
+      "url": "https://www.radiodos.com.ar/209021-jose-luis-cordoba-es-historico-recuperar-el-circulo-de-periodistas-deportivos-de-corrientes",
+      "title": "José Luis Córdoba: \"Es histórico recuperar el Círculo de Periodistas Deportivos de Corrientes\"",
+      "volanta": "DESPUÉS DE 25 AÑOS",
+      "date": "2026-06-02T18:18:35+00:00"
+    },
     {
       "id": "f6beb1cb",
       "image": "img/f6beb1cb.png",
@@ -513,15 +522,6 @@
       "title": "Provincia coordina acciones preventivas ante eventuales contingencias climáticas",
       "volanta": "Fenómeno de El Niño",
       "date": "2026-06-02T19:36:25+00:00"
-    },
-    {
-      "id": "ad6255fb",
-      "image": "img/ad6255fb.png",
-      "image_sha": "8523430b7d751f8b49cf8199378094f164a2e7ed",
-      "url": "https://www.radiodos.com.ar/209021-jose-luis-cordoba-es-historico-recuperar-el-circulo-de-periodistas-deportivos-de-corrientes",
-      "title": "José Luis Córdoba: \"Es histórico recuperar el Círculo de Periodistas Deportivos de Corrientes\"",
-      "volanta": "DESPUÉS DE 25 AÑOS",
-      "date": "2026-06-02T18:18:35+00:00"
     },
     {
       "id": "006879d3",
