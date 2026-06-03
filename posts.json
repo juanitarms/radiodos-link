@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T21:49:46+00:00",
+  "updated": "2026-06-03T22:03:35+00:00",
   "posts": [
+    {
+      "id": "72416ad9",
+      "image": "img/72416ad9.png",
+      "image_sha": "f47c91e9678ffa5851cd2bffae22f3d08e366ca8",
+      "url": "https://www.radiodos.com.ar/209082-femicidio-de-agostina-vega-encontraron-una-carta-entre-la-ropa-de-la-adolescente",
+      "title": "Femicidio de Agostina Vega: encontraron una carta entre la ropa de la adolescente",
+      "volanta": "CÓRDOBA",
+      "date": "2026-06-03T22:03:35+00:00"
+    },
     {
       "id": "58448929",
       "image": "img/58448929.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a una mujer que llevaba marihuana y secuestraron una moto y celulares",
       "volanta": "GENERAL PAZ",
       "date": "2026-06-01T12:39:34+00:00"
-    },
-    {
-      "id": "b6f2813e",
-      "image": "img/b6f2813e.png",
-      "image_sha": "15f34b7d89a91d17d5fa572e40b91d7c329882e1",
-      "url": "https://www.radiodos.com.ar/208930-buscan-a-una-adolescente-que-se-ausento-de-su-hogar",
-      "title": "Buscan a una adolescente que se ausentó de su hogar",
-      "volanta": "COMISARIA SEGUNDA DE LA MUJER Y EL MENOR",
-      "date": "2026-06-01T12:19:51+00:00"
     }
   ]
 }
