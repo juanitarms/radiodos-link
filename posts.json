@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T13:13:32+00:00",
+  "updated": "2026-06-03T13:49:38+00:00",
   "posts": [
+    {
+      "id": "b12fc179",
+      "image": "img/b12fc179.png",
+      "image_sha": "0eb82281103adae6220478daaa26807fb185ab8e",
+      "url": "https://www.radiodos.com.ar/209045-la-policia-secuestro-un-automovil-con-pedido-de-captura",
+      "title": "La Policía secuestró un automóvil con pedido de captura",
+      "volanta": "EN OPERATIVO EN CONJUNTO",
+      "date": "2026-06-03T13:49:38+00:00"
+    },
     {
       "id": "80ec9b95",
       "image": "img/80ec9b95.png",
@@ -531,15 +540,6 @@
       "title": "Barrio Patono: Incendio en una vivienda causó importantes daños materiales",
       "volanta": "ESTE SÁBADO",
       "date": "2026-05-31T00:56:09+00:00"
-    },
-    {
-      "id": "4b7252b2",
-      "image": "img/4b7252b2.png",
-      "image_sha": "c60ac987d5f3a21c441373b75032eeb134d1764f",
-      "url": "https://www.radiodos.com.ar/208915-agustin-sierra-confirmo-su-ruptura-con-fiorella-gimenez-lo-intentamos-mucho",
-      "title": "Agustín Sierra confirmó su ruptura con Fiorella Giménez: \"Lo intentamos mucho\"",
-      "volanta": "ADIÓS AL AMOR",
-      "date": "2026-05-31T00:55:08+00:00"
     }
   ]
 }
