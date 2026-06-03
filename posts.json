@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T13:15:39+00:00",
+  "updated": "2026-06-01T13:18:07+00:00",
   "posts": [
+    {
+      "id": "5e89311d",
+      "image": "img/5e89311d.png",
+      "image_sha": "9d037a3d0a8a73291bba024c721c9becd6bee7f0",
+      "url": "https://www.radiodos.com.ar/208937-reforma-laboral-que-cambia-en-convenios-colectivos-representacion-sindical-y-trabajadores-en-negro",
+      "title": "Reforma laboral: qué cambia en convenios colectivos, representación sindical y trabajadores en negro",
+      "volanta": "NORMATIVA",
+      "date": "2026-06-01T13:18:07+00:00"
+    },
     {
       "id": "a93ad66a",
       "image": "img/a93ad66a.png",
@@ -513,15 +522,6 @@
       "title": "Investigan causa del violento choque a una garita: cuando llegó la Policía, no había nadie",
       "volanta": "Curuzú Cuatiá",
       "date": "2026-06-01T13:56:23+00:00"
-    },
-    {
-      "id": "5e89311d",
-      "image": "img/5e89311d.png",
-      "image_sha": "9d037a3d0a8a73291bba024c721c9becd6bee7f0",
-      "url": "https://www.radiodos.com.ar/208937-reforma-laboral-que-cambia-en-convenios-colectivos-representacion-sindical-y-trabajadores-en-negro",
-      "title": "Reforma laboral: qué cambia en convenios colectivos, representación sindical y trabajadores en negro",
-      "volanta": "NORMATIVA",
-      "date": "2026-06-01T13:18:07+00:00"
     },
     {
       "id": "006879d3",
