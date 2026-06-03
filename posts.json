@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T13:49:38+00:00",
+  "updated": "2026-06-03T14:01:11+00:00",
   "posts": [
+    {
+      "id": "79b15a4d",
+      "image": "img/79b15a4d.png",
+      "image_sha": "4ce52a82c3ce1e43dac46dd394d8e84c181e5cc5",
+      "url": "https://www.radiodos.com.ar/209050-axel-kicillof-sera-recibido-a-las-16-por-el-gobernador-juan-pablo-valdes",
+      "title": "Axel Kicillof será recibido a las 16 por el gobernador Juan Pablo Valdés",
+      "volanta": "GOBERNADOR DE BUENOS AIRES",
+      "date": "2026-06-03T14:01:11+00:00"
+    },
     {
       "id": "b12fc179",
       "image": "img/b12fc179.png",
@@ -531,15 +540,6 @@
       "title": "La pista del auto negro, un video y el hallazgo en un descampado: las claves del asesinato de Agostina Vega",
       "volanta": "CONMOCION",
       "date": "2026-05-31T01:35:39+00:00"
-    },
-    {
-      "id": "e97e2272",
-      "image": "img/e97e2272.png",
-      "image_sha": "753979ef488db045972d2f0de58c5f3abf7288ad",
-      "url": "https://www.radiodos.com.ar/208907-barrio-patono-incendio-en-una-vivienda-causo-importantes-danos-materiales",
-      "title": "Barrio Patono: Incendio en una vivienda causó importantes daños materiales",
-      "volanta": "ESTE SÁBADO",
-      "date": "2026-05-31T00:56:09+00:00"
     }
   ]
 }
