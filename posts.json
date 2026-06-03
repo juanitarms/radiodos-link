@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T16:34:09+00:00",
+  "updated": "2026-06-03T17:24:17+00:00",
   "posts": [
+    {
+      "id": "f18f35e4",
+      "image": "img/f18f35e4.png",
+      "image_sha": "4cb7710fc4a38e49ad59786d800b60b277596f81",
+      "url": "https://www.radiodos.com.ar/209068-brutal-asalto-intento-impedir-que-le-robaran-a-sus-padres-y-la-tiraron-del-auto",
+      "title": "Brutal asalto: intentó impedir que le robaran a sus padres y la tiraron del auto",
+      "volanta": "CASEROS",
+      "date": "2026-06-03T17:24:17+00:00"
+    },
     {
       "id": "78abb1f0",
       "image": "img/78abb1f0.png",
@@ -531,15 +540,6 @@
       "title": "Caso Agostina: Incidentes entre la policía y vecinos que manifestaron ante la comisaría",
       "volanta": "CORDOBA",
       "date": "2026-05-31T16:23:29+00:00"
-    },
-    {
-      "id": "62c73265",
-      "image": "img/62c73265.png",
-      "image_sha": "154eaf64540e5d1c6c1606c12b6c9727b63ac81d",
-      "url": "https://www.radiodos.com.ar/208896-tras-anos-de-litigio-el-circulo-de-periodistas-deportivos-de-corrientes-recupero-su-sede",
-      "title": "Tras años de litigio, el Círculo de Periodistas Deportivos de Corrientes recuperó su sede",
-      "volanta": "QUINTANA AL 1800",
-      "date": "2026-05-31T16:22:14+00:00"
     }
   ]
 }
