@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T02:33:28+00:00",
+  "updated": "2026-06-02T11:22:45+00:00",
   "posts": [
+    {
+      "id": "cf4e75fa",
+      "image": "img/cf4e75fa.png",
+      "image_sha": "b43c794aed64a67bec47ff57e6379244e6785587",
+      "url": "https://www.radiodos.com.ar/208979-dia-nacional-del-perro-la-historia-de-chonino-el-heroico-ovejero-",
+      "title": "Día Nacional del Perro: la historia de \"Chonino\", el heroico ovejero",
+      "volanta": "2 de JUNIO",
+      "date": "2026-06-02T11:22:45+00:00"
+    },
     {
       "id": "6d7cb00d",
       "image": "img/6d7cb00d.png",
@@ -513,15 +522,6 @@
       "title": "Mariel Gabur: \"Éstos anuncios son el resultado de las políticas públicas aplicadas en Corrientes\"",
       "volanta": "PLANTA INDUSTRIAL DE MASS TIMBER EN ARGENTINA",
       "date": "2026-06-02T11:33:48+00:00"
-    },
-    {
-      "id": "cf4e75fa",
-      "image": "img/cf4e75fa.png",
-      "image_sha": "b43c794aed64a67bec47ff57e6379244e6785587",
-      "url": "https://www.radiodos.com.ar/208979-dia-nacional-del-perro-la-historia-de-chonino-el-heroico-ovejero-",
-      "title": "Día Nacional del Perro: la historia de \"Chonino\", el heroico ovejero",
-      "volanta": "2 de JUNIO",
-      "date": "2026-06-02T11:22:45+00:00"
     },
     {
       "id": "006879d3",
