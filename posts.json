@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T13:41:03+00:00",
+  "updated": "2026-06-02T14:07:43+00:00",
   "posts": [
+    {
+      "id": "6a67dff9",
+      "image": "img/6a67dff9.png",
+      "image_sha": "1cf1c5bbfabae62135ccec51375cd04ca0e8c4dc",
+      "url": "https://www.radiodos.com.ar/208995-profugo-de-la-justicia-de-corrientes-por-abusar-de-su-propia-hija-fue-detenido-en-misiones",
+      "title": "Prófugo de la justicia de Corrientes por abusar de su propia hija fue detenido en Misiones",
+      "volanta": "MONTECARLO",
+      "date": "2026-06-02T14:07:43+00:00"
+    },
     {
       "id": "989cec82",
       "image": "img/989cec82.png",
@@ -513,15 +522,6 @@
       "title": "Claudio Polich: \"Vamos a seguir articulando las políticas salariales junto a la Provincia\"",
       "volanta": "RONDA DE PRENSA",
       "date": "2026-06-02T14:52:16+00:00"
-    },
-    {
-      "id": "6a67dff9",
-      "image": "img/6a67dff9.png",
-      "image_sha": "1cf1c5bbfabae62135ccec51375cd04ca0e8c4dc",
-      "url": "https://www.radiodos.com.ar/208995-profugo-de-la-justicia-de-corrientes-por-abusar-de-su-propia-hija-fue-detenido-en-misiones",
-      "title": "Prófugo de la justicia de Corrientes por abusar de su propia hija fue detenido en Misiones",
-      "volanta": "MONTECARLO",
-      "date": "2026-06-02T14:07:43+00:00"
     },
     {
       "id": "006879d3",
