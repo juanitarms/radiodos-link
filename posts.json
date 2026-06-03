@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T21:56:43+00:00",
+  "updated": "2026-06-01T22:43:51+00:00",
   "posts": [
+    {
+      "id": "6039ae2f",
+      "image": "img/6039ae2f.png",
+      "image_sha": "e1f3a312df06314d94bdc87cfcd737465bfc040d",
+      "url": "https://www.radiodos.com.ar/208973-uta-acordo-con-las-empresas-y-se-garantiza-el-servicio-de-transporte-urbano-en-corrientes",
+      "title": "UTA acordó con las empresas y se garantiza el servicio de transporte urbano en Corrientes",
+      "volanta": "TRAS NEGOCIACIONES",
+      "date": "2026-06-01T22:43:51+00:00"
+    },
     {
       "id": "1fd6ac15",
       "image": "img/1fd6ac15.png",
@@ -513,15 +522,6 @@
       "title": "Hallaron en Corrientes colmenas robadas en Entre Ríos: el valor supera los $7 millones",
       "volanta": "TRAS OPERATIVO",
       "date": "2026-06-01T22:52:40+00:00"
-    },
-    {
-      "id": "6039ae2f",
-      "image": "img/6039ae2f.png",
-      "image_sha": "e1f3a312df06314d94bdc87cfcd737465bfc040d",
-      "url": "https://www.radiodos.com.ar/208973-uta-acordo-con-las-empresas-y-se-garantiza-el-servicio-de-transporte-urbano-en-corrientes",
-      "title": "UTA acordó con las empresas y se garantiza el servicio de transporte urbano en Corrientes",
-      "volanta": "TRAS NEGOCIACIONES",
-      "date": "2026-06-01T22:43:51+00:00"
     },
     {
       "id": "006879d3",
