@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T11:07:48+00:00",
+  "updated": "2026-06-01T11:54:39+00:00",
   "posts": [
+    {
+      "id": "78602743",
+      "image": "img/78602743.png",
+      "image_sha": "6ba36611e85ab1c91d6bfd212857c2910d030fe2",
+      "url": "https://www.radiodos.com.ar/208928-destruiran-hoy-23-kilogramos-de-marihuana-incautada-en-una-causa-de-narcomenudeo",
+      "title": "destruirán 23 kg de marihuana incautada en una causa de narcomenudeo",
+      "volanta": "PODER JUDICIAL",
+      "date": "2026-06-01T11:54:39+00:00"
+    },
     {
       "id": "3015dea9",
       "image": "img/3015dea9.png",
@@ -513,15 +522,6 @@
       "title": "Falleció un motociclista sobre ruta provincial N°27",
       "volanta": "SANTA LUCÍA",
       "date": "2026-06-01T12:18:41+00:00"
-    },
-    {
-      "id": "78602743",
-      "image": "img/78602743.png",
-      "image_sha": "6ba36611e85ab1c91d6bfd212857c2910d030fe2",
-      "url": "https://www.radiodos.com.ar/208928-destruiran-hoy-23-kilogramos-de-marihuana-incautada-en-una-causa-de-narcomenudeo",
-      "title": "destruirán 23 kg de marihuana incautada en una causa de narcomenudeo",
-      "volanta": "PODER JUDICIAL",
-      "date": "2026-06-01T11:54:39+00:00"
     },
     {
       "id": "006879d3",
