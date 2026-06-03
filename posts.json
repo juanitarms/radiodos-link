@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T14:01:11+00:00",
+  "updated": "2026-06-03T14:19:17+00:00",
   "posts": [
+    {
+      "id": "bfaa1162",
+      "image": "img/bfaa1162.png",
+      "image_sha": "277e9e334993fef4dc9c78de9cdb9381d6fa07cb",
+      "url": "https://www.radiodos.com.ar/209055-rescatan-a-tres-equinos-por-presunto-maltrato-animal",
+      "title": "Rescatan a tres equinos por presunto maltrato animal",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-06-03T14:19:17+00:00"
+    },
     {
       "id": "79b15a4d",
       "image": "img/79b15a4d.png",
@@ -531,15 +540,6 @@
       "title": "el acusado confesó que la joven desaparecida había ingresado a su casa",
       "volanta": "caso agostina vega",
       "date": "2026-05-31T03:37:08+00:00"
-    },
-    {
-      "id": "05a7500e",
-      "image": "img/05a7500e.png",
-      "image_sha": "5649b5fc9690efe875ee48e0f5f2a4cfdbe24727",
-      "url": "https://www.radiodos.com.ar/208919-la-pista-del-auto-negro-un-video-y-el-hallazgo-en-un-descampado-las-claves-del-asesinato-de-agostina-vega",
-      "title": "La pista del auto negro, un video y el hallazgo en un descampado: las claves del asesinato de Agostina Vega",
-      "volanta": "CONMOCION",
-      "date": "2026-05-31T01:35:39+00:00"
     }
   ]
 }
