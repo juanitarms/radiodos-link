@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T14:48:41+00:00",
+  "updated": "2026-06-01T16:18:45+00:00",
   "posts": [
+    {
+      "id": "c5401fa9",
+      "image": "img/c5401fa9.png",
+      "image_sha": "a798e6954f24f5ba2d4094496e50664623138051",
+      "url": "https://www.radiodos.com.ar/208952-la-iglesia-cruzo-al-gobierno-por-la-reforma-migratoria-y-advirtio-sobre-el-acceso-a-derechos",
+      "title": "La Iglesia cruzó al Gobierno por la reforma migratoria y advirtió sobre el acceso a derechos",
+      "volanta": "CRÍTICAS",
+      "date": "2026-06-01T16:18:45+00:00"
+    },
     {
       "id": "3836ea0c",
       "image": "img/3836ea0c.png",
@@ -513,15 +522,6 @@
       "title": "Lanzaron la Campaña Nacional por el Derecho a la Eutanasia en Argentina: ¿de qué se trata?",
       "volanta": "IMPULSO",
       "date": "2026-06-01T17:31:58+00:00"
-    },
-    {
-      "id": "c5401fa9",
-      "image": "img/c5401fa9.png",
-      "image_sha": "a798e6954f24f5ba2d4094496e50664623138051",
-      "url": "https://www.radiodos.com.ar/208952-la-iglesia-cruzo-al-gobierno-por-la-reforma-migratoria-y-advirtio-sobre-el-acceso-a-derechos",
-      "title": "La Iglesia cruzó al Gobierno por la reforma migratoria y advirtió sobre el acceso a derechos",
-      "volanta": "CRÍTICAS",
-      "date": "2026-06-01T16:18:45+00:00"
     },
     {
       "id": "006879d3",
