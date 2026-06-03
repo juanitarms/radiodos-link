@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-02T20:55:00+00:00",
+  "updated": "2026-06-02T21:21:38+00:00",
   "posts": [
+    {
+      "id": "89a6e1c9",
+      "image": "img/89a6e1c9.png",
+      "image_sha": "64dce7cdf3850b310c7855e3018e7a27b93dc491",
+      "url": "https://www.radiodos.com.ar/209029-la-corte-de-nueva-york-rechazo-revisar-el-fallo-a-favor-de-argentina-por-ypf",
+      "title": "La Corte de Nueva York rechazó revisar el fallo a favor de Argentina por YPF",
+      "volanta": "Defensa soberana",
+      "date": "2026-06-02T21:21:38+00:00"
+    },
     {
       "id": "5aa1cafc",
       "image": "img/5aa1cafc.png",
@@ -513,15 +522,6 @@
       "title": "Las transferencias automáticas nacionales a Corrientes crecieron 8,4% en mayo",
       "volanta": "-2,6% EN EL ACUMULADO ANUAL",
       "date": "2026-06-02T21:49:14+00:00"
-    },
-    {
-      "id": "89a6e1c9",
-      "image": "img/89a6e1c9.png",
-      "image_sha": "64dce7cdf3850b310c7855e3018e7a27b93dc491",
-      "url": "https://www.radiodos.com.ar/209029-la-corte-de-nueva-york-rechazo-revisar-el-fallo-a-favor-de-argentina-por-ypf",
-      "title": "La Corte de Nueva York rechazó revisar el fallo a favor de Argentina por YPF",
-      "volanta": "Defensa soberana",
-      "date": "2026-06-02T21:21:38+00:00"
     },
     {
       "id": "006879d3",
