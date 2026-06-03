@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T14:19:17+00:00",
+  "updated": "2026-06-03T14:58:48+00:00",
   "posts": [
+    {
+      "id": "ae6f5609",
+      "image": "img/ae6f5609.png",
+      "image_sha": "f02c442920f38c5810aabcb5e134eb4042d33c42",
+      "url": "https://www.radiodos.com.ar/209057-el-papa-de-agostina-vega-se-quebro-en-la-conferencia-de-prensa-me-la-asesino-y-la-va-a-pagar",
+      "title": "El papá de Agostina Vega se quebró en la conferencia de prensa: \"Me la asesinó y la va a pagar\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-03T14:58:48+00:00"
+    },
     {
       "id": "bfaa1162",
       "image": "img/bfaa1162.png",
@@ -531,15 +540,6 @@
       "title": "La yerba consolida su mercado interno y expande exportaciones",
       "volanta": "SIGUE VIGENTE",
       "date": "2026-05-31T13:46:03+00:00"
-    },
-    {
-      "id": "5400f422",
-      "image": "img/5400f422.png",
-      "image_sha": "e7ae232e10fed05329e7d7a3813b9d94a5590971",
-      "url": "https://www.radiodos.com.ar/208910-caso-agostina-vega-el-acusado-confeso-que-la-joven-desaparecida-habia-ingresado-a-su-casa",
-      "title": "el acusado confesó que la joven desaparecida había ingresado a su casa",
-      "volanta": "caso agostina vega",
-      "date": "2026-05-31T03:37:08+00:00"
     }
   ]
 }
