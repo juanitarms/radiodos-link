@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T15:49:46+00:00",
+  "updated": "2026-06-03T16:34:09+00:00",
   "posts": [
+    {
+      "id": "78abb1f0",
+      "image": "img/78abb1f0.png",
+      "image_sha": "e629935ee0aafbeb4398893658b860c1474c9ebc",
+      "url": "https://www.radiodos.com.ar/209062-el-album-y-las-figuritas-llegan-y-se-van-volando-afirmo-un-revistero-correntino",
+      "title": "\"El álbum y las figuritas llegan y se van volando\": afirmó un revistero correntino",
+      "volanta": "LOCURA POR EL MUNDIAL",
+      "date": "2026-06-03T16:34:09+00:00"
+    },
     {
       "id": "ba8b8fde",
       "image": "img/ba8b8fde.png",
@@ -531,15 +540,6 @@
       "title": "Tras años de litigio, el Círculo de Periodistas Deportivos de Corrientes recuperó su sede",
       "volanta": "QUINTANA AL 1800",
       "date": "2026-05-31T16:22:14+00:00"
-    },
-    {
-      "id": "5fd82234",
-      "image": "img/5fd82234.png",
-      "image_sha": "c3e4b8fde7ca45dbe3f0aba4bedb6e4842a42e2b",
-      "url": "https://www.radiodos.com.ar/208920-verduleria-usada-para-el-comercio-de-marihuana-en-corrientes",
-      "title": "Verdulería usada para el comercio de marihuana en Corrientes",
-      "volanta": "NARCOTRÀFICO",
-      "date": "2026-05-31T14:59:04+00:00"
     }
   ]
 }
