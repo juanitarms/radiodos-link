@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-03T18:20:01+00:00",
+  "updated": "2026-06-03T19:16:57+00:00",
   "posts": [
+    {
+      "id": "995892b1",
+      "image": "img/995892b1.png",
+      "image_sha": "bf84e6f20d5a8bf58f63d6fa3afceec335aa7f56",
+      "url": "https://www.radiodos.com.ar/209073-es-ley-la-creacion-de-la-agencia-de-desarrollo-y-promocion-de-inversiones-y-comercio-exterior-de-corrientes",
+      "title": "Es ley la Creación de la Agencia de Desarrollo y Promoción de Inversiones y Comercio Exterior de Corrientes",
+      "volanta": "Cámara de Diputados –Sesión 9-",
+      "date": "2026-06-03T19:16:57+00:00"
+    },
     {
       "id": "2961864f",
       "image": "img/2961864f.png",
@@ -531,15 +540,6 @@
       "title": "Rescataron a un oso melero que deambulaba por un barrio de la capital",
       "volanta": "CORRIENTES",
       "date": "2026-05-31T21:32:54+00:00"
-    },
-    {
-      "id": "89ad0fc2",
-      "image": "img/89ad0fc2.png",
-      "image_sha": "3daa2cc37c253a688ad9aeaeb248e31b5596916b",
-      "url": "https://www.radiodos.com.ar/208922-rescataron-a-un-oso-melero-que-deambulaba-por-un-barrio-de-la-capital",
-      "title": "Rescataron a un oso melero que deambulaba por un barrio de la capital",
-      "volanta": "CORRIENTES",
-      "date": "2026-05-31T19:10:40+00:00"
     }
   ]
 }
