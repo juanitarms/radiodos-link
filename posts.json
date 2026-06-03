@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T22:52:40+00:00",
+  "updated": "2026-06-02T01:01:25+00:00",
   "posts": [
+    {
+      "id": "c4917ced",
+      "image": "img/c4917ced.png",
+      "image_sha": "f450fad9f9f01e19ae251cd0964841afa9f7dba3",
+      "url": "https://www.radiodos.com.ar/208976-el-dibu-martinez-sufre-una-fractura-y-se-perdera-los-amistosos-previos-al-mundial",
+      "title": "EL \"DIBU\" MARTÍNEZ SUFRió UNA FRACTURA Y SE PERDERÁ LOS AMISTOSOS PREVIOS AL MUNDIAL",
+      "volanta": "PREOCUPACIÓN EN LA SCALONETA",
+      "date": "2026-06-02T01:01:25+00:00"
+    },
     {
       "id": "57d6f471",
       "image": "img/57d6f471.png",
@@ -513,15 +522,6 @@
       "title": "Condenaron a una abogada por falsificar fallos judiciales y estafar a sus representados",
       "volanta": "CORRIENTES",
       "date": "2026-06-02T02:33:28+00:00"
-    },
-    {
-      "id": "c4917ced",
-      "image": "img/c4917ced.png",
-      "image_sha": "f450fad9f9f01e19ae251cd0964841afa9f7dba3",
-      "url": "https://www.radiodos.com.ar/208976-el-dibu-martinez-sufre-una-fractura-y-se-perdera-los-amistosos-previos-al-mundial",
-      "title": "EL \"DIBU\" MARTÍNEZ SUFRió UNA FRACTURA Y SE PERDERÁ LOS AMISTOSOS PREVIOS AL MUNDIAL",
-      "volanta": "PREOCUPACIÓN EN LA SCALONETA",
-      "date": "2026-06-02T01:01:25+00:00"
     },
     {
       "id": "006879d3",
