@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T11:35:25+00:00",
+  "updated": "2026-06-04T12:05:15+00:00",
   "posts": [
+    {
+      "id": "29b66841",
+      "image": "img/29b66841.png",
+      "image_sha": "33e7ba3a44309aec6e39939533ad63ce8dc9d45b",
+      "url": "https://www.radiodos.com.ar/209093-aguas-de-corrientes-celebra-la-semana-del-medioambiente-promoviendo-practicas-sostenibles-y-educacion-ambiental",
+      "title": "Aguas de Corrientes celebra la Semana del Medioambiente promoviendo prácticas sostenibles y educación ambiental",
+      "volanta": "CONCIENCIA AMBIENTAL",
+      "date": "2026-06-04T12:05:15+00:00"
+    },
     {
       "id": "6d960904",
       "image": "img/6d960904.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a tres años y medio de cárcel a Manuel Sussini por abuso sexual",
       "volanta": "EX LEGISLADOR",
       "date": "2026-06-01T14:48:41+00:00"
-    },
-    {
-      "id": "89e6655b",
-      "image": "img/89e6655b.png",
-      "image_sha": "3b809641d39186aab023d13b8654f69dd9e8e1ff",
-      "url": "https://www.radiodos.com.ar/208942-tres-hermanos-buscan-una-familia-para-crecer-juntos-y-construir-un-futuro-compartido",
-      "title": "Tres hermanos buscan una familia para crecer juntos y construir un futuro compartido",
-      "volanta": "FAMILIA",
-      "date": "2026-06-01T14:38:01+00:00"
     }
   ]
 }
