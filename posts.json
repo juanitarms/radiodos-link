@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T20:53:29+00:00",
+  "updated": "2026-06-04T21:30:24+00:00",
   "posts": [
+    {
+      "id": "e382e3af",
+      "image": "img/e382e3af.png",
+      "image_sha": "2826781b2101fa379e18ea50961b0765150ea05e",
+      "url": "https://www.radiodos.com.ar/209112-quienes-son-los-nominados-de-gran-hermano-y-que-jugada-hizo-la-lider",
+      "title": "Quiénes son los nominados de Gran Hermano y qué jugada hizo la líder",
+      "volanta": "SIGUE EL JUEGO",
+      "date": "2026-06-04T21:30:24+00:00"
+    },
     {
       "id": "ef88122a",
       "image": "img/ef88122a.png",
@@ -531,15 +540,6 @@
       "title": "Claudio Polich: \"Vamos a seguir articulando las políticas salariales junto a la Provincia\"",
       "volanta": "RONDA DE PRENSA",
       "date": "2026-06-02T14:52:16+00:00"
-    },
-    {
-      "id": "6a67dff9",
-      "image": "img/6a67dff9.png",
-      "image_sha": "1cf1c5bbfabae62135ccec51375cd04ca0e8c4dc",
-      "url": "https://www.radiodos.com.ar/208995-profugo-de-la-justicia-de-corrientes-por-abusar-de-su-propia-hija-fue-detenido-en-misiones",
-      "title": "Prófugo de la justicia de Corrientes por abusar de su propia hija fue detenido en Misiones",
-      "volanta": "MONTECARLO",
-      "date": "2026-06-02T14:07:43+00:00"
     }
   ]
 }
