@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T14:58:54+00:00",
+  "updated": "2026-06-04T16:36:59+00:00",
   "posts": [
+    {
+      "id": "d620ccdb",
+      "image": "img/d620ccdb.png",
+      "image_sha": "c2624cb6d3db71a12c0e4d7559dc0611a178f3db",
+      "url": "https://www.radiodos.com.ar/209122-recuperaron-un-perro-denunciado-como-extraviado-hace-tres-meses",
+      "title": "Recuperaron un perro denunciado como extraviado hace tres meses",
+      "volanta": "LOMAS DE GONZALEZ",
+      "date": "2026-06-04T16:36:59+00:00"
+    },
     {
       "id": "1eec9449",
       "image": "img/1eec9449.png",
@@ -531,15 +540,6 @@
       "title": "UTA acordó con las empresas y se garantiza el servicio de transporte urbano en Corrientes",
       "volanta": "TRAS NEGOCIACIONES",
       "date": "2026-06-01T22:43:51+00:00"
-    },
-    {
-      "id": "1fd6ac15",
-      "image": "img/1fd6ac15.png",
-      "image_sha": "4d78310d5cef8dd9080b293bfb1dfa8677764eff",
-      "url": "https://www.radiodos.com.ar/208971-di-carlo-anticipo-una-profunda-renovacion-en-river-se-van-a-ir-15-jugadores",
-      "title": "Di Carlo anticipó una profunda renovación en River: \"Se van a ir 15 jugadores\"",
-      "volanta": "PLANTEL PROFESIONAL",
-      "date": "2026-06-01T21:56:43+00:00"
     }
   ]
 }
