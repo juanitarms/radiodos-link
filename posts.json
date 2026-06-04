@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T21:30:24+00:00",
+  "updated": "2026-06-04T22:18:56+00:00",
   "posts": [
+    {
+      "id": "3103b316",
+      "image": "img/3103b316.png",
+      "image_sha": "d15b3fa14f3ea945db3b5200898bebd2b4ce5e81",
+      "url": "https://www.radiodos.com.ar/209138-scaloni-probo-con-el-flaco-lopez-de-titular-para-el-amistoso-ante-honduras",
+      "title": "Scaloni probó con el Flaco López de titular para el amistoso ante Honduras",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-04T22:18:56+00:00"
+    },
     {
       "id": "e382e3af",
       "image": "img/e382e3af.png",
@@ -531,15 +540,6 @@
       "title": "Araceli González habló de su reconciliación con Adrián Suar: \"Estamos revinculándonos como familia\"",
       "volanta": "SINCERA",
       "date": "2026-06-02T16:00:59+00:00"
-    },
-    {
-      "id": "49867376",
-      "image": "img/49867376.png",
-      "image_sha": "57e51e8164f2c3e462163dfd17b335d72408917c",
-      "url": "https://www.radiodos.com.ar/208999-claudio-polich-vamos-a-seguir-articulando-las-politicas-salariales-junto-a-la-provincia",
-      "title": "Claudio Polich: \"Vamos a seguir articulando las políticas salariales junto a la Provincia\"",
-      "volanta": "RONDA DE PRENSA",
-      "date": "2026-06-02T14:52:16+00:00"
     }
   ]
 }
