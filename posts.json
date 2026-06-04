@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T13:00:40+00:00",
+  "updated": "2026-06-04T13:16:08+00:00",
   "posts": [
+    {
+      "id": "01b0bb95",
+      "image": "img/01b0bb95.png",
+      "image_sha": "7ab4d26a80859ddb67ef53e744ad7b77f6d8872a",
+      "url": "https://www.radiodos.com.ar/209105-cristina-kirchner-volvio-a-saludar-desde-el-balcon-en-el-marco-de-una-nueva-marcha-de-ni-una-menos",
+      "title": "Cristina Kirchner volvió a saludar desde el balcón en el marco de una nueva marcha de Ni Una Menos",
+      "volanta": "PRESENTE",
+      "date": "2026-06-04T13:16:08+00:00"
+    },
     {
       "id": "94b5e96c",
       "image": "img/94b5e96c.png",
@@ -531,15 +540,6 @@
       "title": "Jacob Elordi y Kendall Jenner fueron captados en Hawái",
       "volanta": "ROMANCE CONFIRMADO",
       "date": "2026-06-01T18:51:13+00:00"
-    },
-    {
-      "id": "eb858a18",
-      "image": "img/eb858a18.png",
-      "image_sha": "2b7511678dcdd75d993d43a87bab202f4e5a553e",
-      "url": "https://www.radiodos.com.ar/208960-un-homenaje-cargado-de-emocion-emilia-mernes-fue-distinguida-en-su-tierra-natal",
-      "title": "Un homenaje cargado de emoción: Emilia Mernes fue distinguida en su tierra natal",
-      "volanta": "RECONOCIMIENTO",
-      "date": "2026-06-01T18:49:15+00:00"
     }
   ]
 }
