@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T16:36:59+00:00",
+  "updated": "2026-06-04T16:58:49+00:00",
   "posts": [
+    {
+      "id": "2daaa3e8",
+      "image": "img/2daaa3e8.png",
+      "image_sha": "455de70107e37b75558484b0ef3129c59c90a191",
+      "url": "https://www.radiodos.com.ar/209123-came-le-solicito-a-caputo-que-arca-suspenda-embargos-y-no-les-aplique-multas-a-las-pymes",
+      "title": "CAME le solicitó a Caputo que ARCA suspenda embargos y no les aplique multas a las pymes",
+      "volanta": "COMUNICADO",
+      "date": "2026-06-04T16:58:49+00:00"
+    },
     {
       "id": "d620ccdb",
       "image": "img/d620ccdb.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron en Corrientes colmenas robadas en Entre Ríos: el valor supera los $7 millones",
       "volanta": "TRAS OPERATIVO",
       "date": "2026-06-01T22:52:40+00:00"
-    },
-    {
-      "id": "6039ae2f",
-      "image": "img/6039ae2f.png",
-      "image_sha": "e1f3a312df06314d94bdc87cfcd737465bfc040d",
-      "url": "https://www.radiodos.com.ar/208973-uta-acordo-con-las-empresas-y-se-garantiza-el-servicio-de-transporte-urbano-en-corrientes",
-      "title": "UTA acordó con las empresas y se garantiza el servicio de transporte urbano en Corrientes",
-      "volanta": "TRAS NEGOCIACIONES",
-      "date": "2026-06-01T22:43:51+00:00"
     }
   ]
 }
