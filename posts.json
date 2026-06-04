@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T12:05:15+00:00",
+  "updated": "2026-06-04T12:19:20+00:00",
   "posts": [
+    {
+      "id": "82ff160d",
+      "image": "img/82ff160d.png",
+      "image_sha": "ee592f2e6cf9f1f13e9c74d1ac31be3dc7483e5c",
+      "url": "https://www.radiodos.com.ar/209095-la-abuela-de-agostina-vega-revelo-que-encontro-una-carta-de-la-adolescente-de-14-anos-ultima-voluntad",
+      "title": "La abuela de Agostina Vega reveló que encontró una carta de la adolescente de 14 años: \"Última voluntad\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-04T12:19:20+00:00"
+    },
     {
       "id": "29b66841",
       "image": "img/29b66841.png",
@@ -531,15 +540,6 @@
       "title": "La Iglesia cruzó al Gobierno por la reforma migratoria y advirtió sobre el acceso a derechos",
       "volanta": "CRÍTICAS",
       "date": "2026-06-01T16:18:45+00:00"
-    },
-    {
-      "id": "3836ea0c",
-      "image": "img/3836ea0c.png",
-      "image_sha": "a46ffd7a9c2a58cc34260e9d0dc0c76c8f71e9f2",
-      "url": "https://www.radiodos.com.ar/208946-condenaron-a-tres-anos-y-medio-de-carcel-a-manuel-sussini-por-abuso-sexual",
-      "title": "Condenaron a tres años y medio de cárcel a Manuel Sussini por abuso sexual",
-      "volanta": "EX LEGISLADOR",
-      "date": "2026-06-01T14:48:41+00:00"
     }
   ]
 }
