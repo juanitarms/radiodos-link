@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T12:50:12+00:00",
+  "updated": "2026-06-04T13:00:40+00:00",
   "posts": [
+    {
+      "id": "94b5e96c",
+      "image": "img/94b5e96c.png",
+      "image_sha": "30297159f2b2e63c1107f294a66069fbdb2d18c6",
+      "url": "https://www.radiodos.com.ar/209104-femicidio-de-agostina-vega-acumularon-la-causa-de-2025-contra-claudio-barrelier-y-dictaron-secreto-de-sumario",
+      "title": "Femicidio de Agostina Vega: acumularon la causa de 2025 contra Claudio Barrelier y dictaron secreto de sumario",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-04T13:00:40+00:00"
+    },
     {
       "id": "c5e302ad",
       "image": "img/c5e302ad.png",
@@ -531,15 +540,6 @@
       "title": "Un homenaje cargado de emoción: Emilia Mernes fue distinguida en su tierra natal",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-06-01T18:49:15+00:00"
-    },
-    {
-      "id": "b10f91a9",
-      "image": "img/b10f91a9.png",
-      "image_sha": "17c98e76559bb0c585b8227c335fd2c3634f6840",
-      "url": "https://www.radiodos.com.ar/208955-san-martin-fue-anfitrion-de-su-primer-torneo-de-voley",
-      "title": "San Martín fue anfitrión de su primer torneo de voley",
-      "volanta": "Fin de semana",
-      "date": "2026-06-01T17:36:33+00:00"
     }
   ]
 }
