@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T19:00:58+00:00",
+  "updated": "2026-06-04T19:44:51+00:00",
   "posts": [
+    {
+      "id": "81172ec0",
+      "image": "img/81172ec0.png",
+      "image_sha": "cdabbbb18736bdc1b5e35abb5316ef6215ae94e8",
+      "url": "https://www.radiodos.com.ar/209125-el-gobierno-presento-un-documental-sobre-el-hospital-garrahan-y-los-trabajadores-denuncian-una-campana-sucia",
+      "title": "El Gobierno presentó un documental sobre el Hospital Garrahan y los trabajadores denuncian una campaña sucia",
+      "volanta": "AUDIOVISUAL",
+      "date": "2026-06-04T19:44:51+00:00"
+    },
     {
       "id": "41b89e6e",
       "image": "img/41b89e6e.png",
@@ -531,15 +540,6 @@
       "title": "Mariel Gabur: \"Éstos anuncios son el resultado de las políticas públicas aplicadas en Corrientes\"",
       "volanta": "PLANTA INDUSTRIAL DE MASS TIMBER EN ARGENTINA",
       "date": "2026-06-02T11:33:48+00:00"
-    },
-    {
-      "id": "cf4e75fa",
-      "image": "img/cf4e75fa.png",
-      "image_sha": "b43c794aed64a67bec47ff57e6379244e6785587",
-      "url": "https://www.radiodos.com.ar/208979-dia-nacional-del-perro-la-historia-de-chonino-el-heroico-ovejero-",
-      "title": "Día Nacional del Perro: la historia de \"Chonino\", el heroico ovejero",
-      "volanta": "2 de JUNIO",
-      "date": "2026-06-02T11:22:45+00:00"
     }
   ]
 }
