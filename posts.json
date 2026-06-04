@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T12:19:20+00:00",
+  "updated": "2026-06-04T12:33:40+00:00",
   "posts": [
+    {
+      "id": "7b89e113",
+      "image": "img/7b89e113.png",
+      "image_sha": "528c7aebbaefb687790ca86cbcf92ad2bdcf428c",
+      "url": "https://www.radiodos.com.ar/209096-ni-una-menos-92-de-los-argentinos-apoya-el-registro-publico-de-violadores-tras-el-femicidio-de-agostina-vega",
+      "title": "Ni Una Menos: 92% de los argentinos apoya el registro público de violadores tras el femicidio de Agostina Vega",
+      "volanta": "ENCUESTA",
+      "date": "2026-06-04T12:33:40+00:00"
+    },
     {
       "id": "82ff160d",
       "image": "img/82ff160d.png",
@@ -531,15 +540,6 @@
       "title": "Lanzaron la Campaña Nacional por el Derecho a la Eutanasia en Argentina: ¿de qué se trata?",
       "volanta": "IMPULSO",
       "date": "2026-06-01T17:31:58+00:00"
-    },
-    {
-      "id": "c5401fa9",
-      "image": "img/c5401fa9.png",
-      "image_sha": "a798e6954f24f5ba2d4094496e50664623138051",
-      "url": "https://www.radiodos.com.ar/208952-la-iglesia-cruzo-al-gobierno-por-la-reforma-migratoria-y-advirtio-sobre-el-acceso-a-derechos",
-      "title": "La Iglesia cruzó al Gobierno por la reforma migratoria y advirtió sobre el acceso a derechos",
-      "volanta": "CRÍTICAS",
-      "date": "2026-06-01T16:18:45+00:00"
     }
   ]
 }
