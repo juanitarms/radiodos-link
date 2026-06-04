@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T16:58:49+00:00",
+  "updated": "2026-06-04T17:11:43+00:00",
   "posts": [
+    {
+      "id": "6a092528",
+      "image": "img/6a092528.png",
+      "image_sha": "13822ccc8d85de7ebd27620ef61bf91a4fdb50d6",
+      "url": "https://www.radiodos.com.ar/209111-rochi-igarzabal-una-persona-de-confianza-que-abuso-reiteradas-veces-de-mi-a-mis-5-anos",
+      "title": "Rochi Igarzábal: \"Una persona de confianza que abusó reiteradas veces de mí a mis 5 años\"",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-06-04T17:11:43+00:00"
+    },
     {
       "id": "2daaa3e8",
       "image": "img/2daaa3e8.png",
@@ -531,15 +540,6 @@
       "title": "EL \"DIBU\" MARTÍNEZ SUFRió UNA FRACTURA Y SE PERDERÁ LOS AMISTOSOS PREVIOS AL MUNDIAL",
       "volanta": "PREOCUPACIÓN EN LA SCALONETA",
       "date": "2026-06-02T01:01:25+00:00"
-    },
-    {
-      "id": "57d6f471",
-      "image": "img/57d6f471.png",
-      "image_sha": "bfc70ff8696891d43d4eaa76bb45f10353248d72",
-      "url": "https://www.radiodos.com.ar/208972-hallaron-en-corrientes-colmenas-robadas-en-entre-rios-el-valor-supera-los-7-millones",
-      "title": "Hallaron en Corrientes colmenas robadas en Entre Ríos: el valor supera los $7 millones",
-      "volanta": "TRAS OPERATIVO",
-      "date": "2026-06-01T22:52:40+00:00"
     }
   ]
 }
