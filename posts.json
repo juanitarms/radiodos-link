@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T13:59:06+00:00",
+  "updated": "2026-06-04T14:24:59+00:00",
   "posts": [
+    {
+      "id": "bd446b59",
+      "image": "img/bd446b59.png",
+      "image_sha": "683608fb93d8168e9881a399c875b98fb9b6c38e",
+      "url": "https://www.radiodos.com.ar/209108-expolicia-que-hacia-contenido-erotico-fue-detenida-tras-un-choque-fatal-en-la-autopista-ricchieri",
+      "title": "Expolicia que hacía contenido erótico fue detenida tras un choque fatal en la autopista Ricchieri",
+      "volanta": "TRAGEDIA",
+      "date": "2026-06-04T14:24:59+00:00"
+    },
     {
       "id": "859fd717",
       "image": "img/859fd717.png",
@@ -531,15 +540,6 @@
       "title": "Destruyeron más de 23 kilos de marihuana secuestrados en procedimientos contra el narcomenudeo en Corrientes",
       "volanta": "ACCIONAR CONJUNTO",
       "date": "2026-06-01T21:12:26+00:00"
-    },
-    {
-      "id": "fb08592c",
-      "image": "img/fb08592c.png",
-      "image_sha": "47bb65cda4342f368a5ac146dd4dba1f0a68946a",
-      "url": "https://www.radiodos.com.ar/208961-corrientes-fue-elegida-para-radicar-la-primera-planta-industrial-de-mass-timber-de-la-argentina",
-      "title": "Corrientes fue elegida para radicar la primera planta industrial de Mass Timber de la Argentina",
-      "volanta": "DESARROLLO FORESTAL E INNOVACIÓN PRODUCTIVA",
-      "date": "2026-06-01T20:38:27+00:00"
     }
   ]
 }
