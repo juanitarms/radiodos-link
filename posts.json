@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T17:11:43+00:00",
+  "updated": "2026-06-04T19:00:01+00:00",
   "posts": [
+    {
+      "id": "1f5a8ecf",
+      "image": "img/1f5a8ecf.png",
+      "image_sha": "0c82fc2266376eaf8ce3efd2a69a703863a5f259",
+      "url": "https://www.radiodos.com.ar/209127-mas-de-100-proyectos-en-la-segunda-sesion-itinerante-del-concejo-deliberante",
+      "title": "Más de 100 proyectos en la segunda sesión itinerante del Concejo Deliberante",
+      "volanta": "BARRIO ANAHÍ",
+      "date": "2026-06-04T19:00:01+00:00"
+    },
     {
       "id": "6a092528",
       "image": "img/6a092528.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a una abogada por falsificar fallos judiciales y estafar a sus representados",
       "volanta": "CORRIENTES",
       "date": "2026-06-02T02:33:28+00:00"
-    },
-    {
-      "id": "c4917ced",
-      "image": "img/c4917ced.png",
-      "image_sha": "f450fad9f9f01e19ae251cd0964841afa9f7dba3",
-      "url": "https://www.radiodos.com.ar/208976-el-dibu-martinez-sufre-una-fractura-y-se-perdera-los-amistosos-previos-al-mundial",
-      "title": "EL \"DIBU\" MARTÍNEZ SUFRió UNA FRACTURA Y SE PERDERÁ LOS AMISTOSOS PREVIOS AL MUNDIAL",
-      "volanta": "PREOCUPACIÓN EN LA SCALONETA",
-      "date": "2026-06-02T01:01:25+00:00"
     }
   ]
 }
