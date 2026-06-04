@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T12:33:40+00:00",
+  "updated": "2026-06-04T12:50:12+00:00",
   "posts": [
+    {
+      "id": "c5e302ad",
+      "image": "img/c5e302ad.png",
+      "image_sha": "71ca2c230bf3efcfcfc288fc3cabc6e855d12844",
+      "url": "https://www.radiodos.com.ar/209098-como-esta-lionel-messi-de-su-lesion-la-novedad-de-la-tercera-practica-de-la-seleccion-argentina-en-kansas",
+      "title": "Cómo está Lionel Messi de su lesión: la novedad de la tercera práctica de la Selección Argentina en Kansas",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-04T12:50:12+00:00"
+    },
     {
       "id": "7b89e113",
       "image": "img/7b89e113.png",
@@ -531,15 +540,6 @@
       "title": "San Martín fue anfitrión de su primer torneo de voley",
       "volanta": "Fin de semana",
       "date": "2026-06-01T17:36:33+00:00"
-    },
-    {
-      "id": "18c57a75",
-      "image": "img/18c57a75.png",
-      "image_sha": "1a7627884f1b935014470d2b51005d8f2f3e6187",
-      "url": "https://www.radiodos.com.ar/208954-lanzaron-la-campana-nacional-por-el-derecho-a-la-eutanasia-en-argentina-de-que-se-trata",
-      "title": "Lanzaron la Campaña Nacional por el Derecho a la Eutanasia en Argentina: ¿de qué se trata?",
-      "volanta": "IMPULSO",
-      "date": "2026-06-01T17:31:58+00:00"
     }
   ]
 }
