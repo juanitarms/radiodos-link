@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-04T23:18:15+00:00",
+  "updated": "2026-06-05T01:16:58+00:00",
   "posts": [
+    {
+      "id": "7a9c8b47",
+      "image": "img/7a9c8b47.png",
+      "image_sha": "380872c9fdc04008b3b5d40cd1d4e653c9d45b90",
+      "url": "https://www.radiodos.com.ar/209137-el-consumo-de-yerba-mate-retrasa-el-avance-del-parkinson",
+      "title": "El consumo de yerba mate retrasa el avance del Parkinson",
+      "volanta": "SEGÚN UN ESTUDIO",
+      "date": "2026-06-05T01:16:58+00:00"
+    },
     {
       "id": "c87432cb",
       "image": "img/c87432cb.png",
@@ -531,15 +540,6 @@
       "title": "Ébola: Salud Pública coordina acciones de prevención y vigilancia",
       "volanta": "CORRIENTES",
       "date": "2026-06-02T17:26:28+00:00"
-    },
-    {
-      "id": "20adaaa1",
-      "image": "img/20adaaa1.png",
-      "image_sha": "f42703fd9afe027947f1b8ff834410a960935a72",
-      "url": "https://www.radiodos.com.ar/209014-el-video-de-rodrigo-de-paul-en-el-show-de-tini-en-peru-a-dias-del-mundial-2026-fumando-un-vaper",
-      "title": "El video de Rodrigo De Paul en el show de Tini en Perú a días del Mundial 2026: ¿fumando un vaper?",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-02T17:25:53+00:00"
     }
   ]
 }
