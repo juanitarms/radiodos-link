@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T21:04:51+00:00",
+  "updated": "2026-06-05T21:39:55+00:00",
   "posts": [
+    {
+      "id": "ac10bb71",
+      "image": "img/ac10bb71.png",
+      "image_sha": "a7ffefef2160f84d94b293953a219f867e660d60",
+      "url": "https://www.radiodos.com.ar/209180-eduardo-vischi-el-gobierno-nacional-busca-responsables-afuera-de-cosas-que-no-puede-resolver-internamente",
+      "title": "Eduardo Vischi: \"El Gobierno Nacional busca responsables afuera de cosas que no puede resolver internamente\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-06-05T21:39:55+00:00"
+    },
     {
       "id": "2b91741b",
       "image": "img/2b91741b.png",
@@ -531,15 +540,6 @@
       "title": "En Bella Vista, el gobernador Valdés ratificó el compromiso de invertir en obras estratégicas",
       "volanta": "ANIVERSARIO FUNDACIONAL",
       "date": "2026-06-03T19:17:36+00:00"
-    },
-    {
-      "id": "995892b1",
-      "image": "img/995892b1.png",
-      "image_sha": "bf84e6f20d5a8bf58f63d6fa3afceec335aa7f56",
-      "url": "https://www.radiodos.com.ar/209073-es-ley-la-creacion-de-la-agencia-de-desarrollo-y-promocion-de-inversiones-y-comercio-exterior-de-corrientes",
-      "title": "Es ley la Creación de la Agencia de Desarrollo y Promoción de Inversiones y Comercio Exterior de Corrientes",
-      "volanta": "Cámara de Diputados –Sesión 9-",
-      "date": "2026-06-03T19:16:57+00:00"
     }
   ]
 }
