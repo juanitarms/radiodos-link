@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T11:19:16+00:00",
+  "updated": "2026-06-05T12:04:20+00:00",
   "posts": [
+    {
+      "id": "a266cf3e",
+      "image": "img/a266cf3e.png",
+      "image_sha": "8fe14eacc49a236784fdef20cd2a112e4e1aacd6",
+      "url": "https://www.radiodos.com.ar/209143-separaron-temporalmente-al-docente-de-la-unne-denunciado-por-acoso-sexual",
+      "title": "Separaron temporalmente al docente de la UNNe denunciado por acoso sexual",
+      "volanta": "ADELANTO",
+      "date": "2026-06-05T12:04:20+00:00"
+    },
     {
       "id": "8dcd957f",
       "image": "img/8dcd957f.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés y gobernadores del Norte Grande avanzaron en una agenda regional de desarrollo",
       "volanta": "EN LA CIUDAD DE BUENOS AIRES",
       "date": "2026-06-02T19:59:41+00:00"
-    },
-    {
-      "id": "340e0247",
-      "image": "img/340e0247.png",
-      "image_sha": "16129dd28b9d852378995bd4071f6fa2fc28d935",
-      "url": "https://www.radiodos.com.ar/209019-provincia-coordina-acciones-preventivas-ante-eventuales-contingencias-climaticas",
-      "title": "Provincia coordina acciones preventivas ante eventuales contingencias climáticas",
-      "volanta": "Fenómeno de El Niño",
-      "date": "2026-06-02T19:36:25+00:00"
     }
   ]
 }
