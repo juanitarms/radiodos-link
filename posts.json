@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T13:19:06+00:00",
+  "updated": "2026-06-05T13:27:30+00:00",
   "posts": [
+    {
+      "id": "40377fe9",
+      "image": "img/40377fe9.png",
+      "image_sha": "df09a3ed7b9bf0b6e4e9cddb0c620191efec0234",
+      "url": "https://www.radiodos.com.ar/209149-mundial-2026-las-buenas-noticias-que-recibio-lionel-scaloni",
+      "title": "Mundial 2026: las buenas noticias que recibió Lionel Scaloni",
+      "volanta": "UNA SEMANA PARA EL INICIO",
+      "date": "2026-06-05T13:27:30+00:00"
+    },
     {
       "id": "cde5d76e",
       "image": "img/cde5d76e.png",
@@ -531,15 +540,6 @@
       "title": "El exjuez federal Carlos Soto Dávila irá a otro juicio oral",
       "volanta": "OTRO REVES JUDICIAL",
       "date": "2026-06-02T23:10:39+00:00"
-    },
-    {
-      "id": "693b1453",
-      "image": "img/693b1453.png",
-      "image_sha": "ae408046e054f9720624201c941af0b1577b9a08",
-      "url": "https://www.radiodos.com.ar/209033-mercedes-se-quedo-sin-colectivos-tras-el-cierre-definitivo-de-sager",
-      "title": "Mercedes se quedó sin colectivos tras el cierre definitivo de Sager",
-      "volanta": "Histórico",
-      "date": "2026-06-02T23:03:32+00:00"
     }
   ]
 }
