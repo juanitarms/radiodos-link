@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T18:47:19+00:00",
+  "updated": "2026-06-05T19:57:06+00:00",
   "posts": [
+    {
+      "id": "2a8b0dc6",
+      "image": "img/2a8b0dc6.png",
+      "image_sha": "f037aee239be9e82ab58fd88b1b991dff281456a",
+      "url": "https://www.radiodos.com.ar/209174-en-el-dia-mundial-del-medio-ambiente-la-provincia-fortalece-el-compromiso-de-cuidar-el-planeta",
+      "title": "En el Día Mundial del Medio Ambiente, la Provincia fortalece el compromiso de cuidar el planeta",
+      "volanta": "ENCUENTRO “NUESTRAS VOCES POR LA TIERRA”",
+      "date": "2026-06-05T19:57:06+00:00"
+    },
     {
       "id": "2b6aceeb",
       "image": "img/2b6aceeb.png",
@@ -531,15 +540,6 @@
       "title": "Brutal asalto: intentó impedir que le robaran a sus padres y la tiraron del auto",
       "volanta": "CASEROS",
       "date": "2026-06-03T17:24:17+00:00"
-    },
-    {
-      "id": "78abb1f0",
-      "image": "img/78abb1f0.png",
-      "image_sha": "e629935ee0aafbeb4398893658b860c1474c9ebc",
-      "url": "https://www.radiodos.com.ar/209062-el-album-y-las-figuritas-llegan-y-se-van-volando-afirmo-un-revistero-correntino",
-      "title": "\"El álbum y las figuritas llegan y se van volando\": afirmó un revistero correntino",
-      "volanta": "LOCURA POR EL MUNDIAL",
-      "date": "2026-06-03T16:34:09+00:00"
     }
   ]
 }
