@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T12:18:56+00:00",
+  "updated": "2026-06-05T12:46:25+00:00",
   "posts": [
+    {
+      "id": "4412d8c7",
+      "image": "img/4412d8c7.png",
+      "image_sha": "6ab8850463228e6054a326b24072a620e574b57f",
+      "url": "https://www.radiodos.com.ar/209146-alarma-en-chubut-y-santa-cruz-por-la-aparicion-de-pinguinos-muertos-en-las-playas",
+      "title": "Alarma en Chubut y Santa Cruz por la aparición de pingüinos muertos en las playas",
+      "volanta": "PATAGONIA",
+      "date": "2026-06-05T12:46:25+00:00"
+    },
     {
       "id": "e15464df",
       "image": "img/e15464df.png",
@@ -531,15 +540,6 @@
       "title": "Condenan a un matrimonio a pagar casi 5 millones de pesos tras el ataque de sus perros a una motociclista",
       "volanta": "CORRIENTES",
       "date": "2026-06-02T20:55:00+00:00"
-    },
-    {
-      "id": "62191584",
-      "image": "img/62191584.png",
-      "image_sha": "abb9acd014b2639f08f29ca24b590c8344a08715",
-      "url": "https://www.radiodos.com.ar/209027-la-feria-provincial-del-libro-se-realizara-del-7-al-18-de-julio-en-la-unidad",
-      "title": "La Feria Provincial del Libro se realizará del 7 al 18 de julio en La Unidad",
-      "volanta": "Encuentro literario",
-      "date": "2026-06-02T20:41:29+00:00"
     }
   ]
 }
