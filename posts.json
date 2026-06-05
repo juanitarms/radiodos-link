@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T14:32:24+00:00",
+  "updated": "2026-06-05T14:51:01+00:00",
   "posts": [
+    {
+      "id": "9e6c1d91",
+      "image": "img/9e6c1d91.png",
+      "image_sha": "7f4f5977342f5436fb7764a483e3e611c6265822",
+      "url": "https://www.radiodos.com.ar/209168-el-emotivo-mensaje-de-skay-beilinson-para-despedir-al-indio-solari-buen-viaje-mi-querido-amigo",
+      "title": "El emotivo mensaje de Skay Beilinson para despedir al Indio Solari: \"Buen viaje mi querido amigo\"",
+      "volanta": "MÚSICA DE LUTO",
+      "date": "2026-06-05T14:51:01+00:00"
+    },
     {
       "id": "72b30bfd",
       "image": "img/72b30bfd.png",
@@ -531,15 +540,6 @@
       "title": "Banda de menores atacó \"a hondazos\" a joven ciclista en una zona caliente de Corrientes",
       "volanta": "PLAZA DE LOS CABALLOS",
       "date": "2026-06-03T13:13:32+00:00"
-    },
-    {
-      "id": "8065bd35",
-      "image": "img/8065bd35.png",
-      "image_sha": "a7c1e45a420b537be49aadc9b7878f7aded7e3cd",
-      "url": "https://www.radiodos.com.ar/209036-mercedes-vendian-cocaina-frente-a-un-juzgado-y-una-fiscalia",
-      "title": "Mercedes: vendían cocaína frente a un Juzgado y una Fiscalía",
-      "volanta": "NARCOMENUDEO",
-      "date": "2026-06-03T10:34:45+00:00"
     }
   ]
 }
