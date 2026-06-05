@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T12:04:20+00:00",
+  "updated": "2026-06-05T12:18:56+00:00",
   "posts": [
+    {
+      "id": "e15464df",
+      "image": "img/e15464df.png",
+      "image_sha": "cb554e1847b362869be0f462e04a587ea5e0f2ce",
+      "url": "https://www.radiodos.com.ar/209145-curuzu-cuatia-se-prepara-para-vivir-la-5-fiesta-provincial-del-locro",
+      "title": "Curuzú Cuatiá se prepara para vivir la 5ª Fiesta Provincial del Locro",
+      "volanta": "FESTEJO",
+      "date": "2026-06-05T12:18:56+00:00"
+    },
     {
       "id": "a266cf3e",
       "image": "img/a266cf3e.png",
@@ -531,15 +540,6 @@
       "title": "La Feria Provincial del Libro se realizará del 7 al 18 de julio en La Unidad",
       "volanta": "Encuentro literario",
       "date": "2026-06-02T20:41:29+00:00"
-    },
-    {
-      "id": "60f3c5a8",
-      "image": "img/60f3c5a8.png",
-      "image_sha": "412f9ea05ef127f3dad3421c9d86a352c1935ebb",
-      "url": "https://www.radiodos.com.ar/209025-juan-pablo-valdes-y-gobernadores-del-norte-grande-avanzaron-en-una-agenda-regional-de-desarrollo",
-      "title": "Juan Pablo Valdés y gobernadores del Norte Grande avanzaron en una agenda regional de desarrollo",
-      "volanta": "EN LA CIUDAD DE BUENOS AIRES",
-      "date": "2026-06-02T19:59:41+00:00"
     }
   ]
 }
