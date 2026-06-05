@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T01:16:58+00:00",
+  "updated": "2026-06-05T10:15:55+00:00",
   "posts": [
+    {
+      "id": "e6f40c7a",
+      "image": "img/e6f40c7a.png",
+      "image_sha": "b362f0d252b21919d7c8480b908ee92bef6e384b",
+      "url": "https://www.radiodos.com.ar/209133-este-finde-habra-recorridos-guiados-festival-ambiental-patio-cervecero-y-pena-de-la-ciudad",
+      "title": "Este finde habrá recorridos guiados, festival ambiental, patio cervecero y peña de la ciudad",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-05T10:15:55+00:00"
+    },
     {
       "id": "7a9c8b47",
       "image": "img/7a9c8b47.png",
@@ -531,15 +540,6 @@
       "title": "Nación y Provincia trabajan en conjunto para fortalecer a los emprendedores correntinos",
       "volanta": "En Buenos Aires",
       "date": "2026-06-02T17:48:16+00:00"
-    },
-    {
-      "id": "ec4a0b9c",
-      "image": "img/ec4a0b9c.png",
-      "image_sha": "4a51c2f2a3b4bdf80be56563ec78e3b27b474c8a",
-      "url": "https://www.radiodos.com.ar/209024-ebola-salud-publica-coordina-acciones-de-prevencion-y-vigilancia",
-      "title": "Ébola: Salud Pública coordina acciones de prevención y vigilancia",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-02T17:26:28+00:00"
     }
   ]
 }
