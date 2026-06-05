@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T17:35:39+00:00",
+  "updated": "2026-06-05T17:55:16+00:00",
   "posts": [
+    {
+      "id": "96bbf6d3",
+      "image": "img/96bbf6d3.png",
+      "image_sha": "62fc37b36184cc91ad39399fca2b24e382402e2c",
+      "url": "https://www.radiodos.com.ar/209175-la-familia-del-indio-solari-confirmo-que-habra-despedida-publica-que-se-sabe",
+      "title": "La familia del Indio Solari confirmó que habrá despedida pública: qué se sabe",
+      "volanta": "ÚLTIMO ADIÓS",
+      "date": "2026-06-05T17:55:16+00:00"
+    },
     {
       "id": "b42b37b5",
       "image": "img/b42b37b5.png",
@@ -531,15 +540,6 @@
       "title": "El papá de Agostina Vega se quebró en la conferencia de prensa: \"Me la asesinó y la va a pagar\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-03T14:58:48+00:00"
-    },
-    {
-      "id": "bfaa1162",
-      "image": "img/bfaa1162.png",
-      "image_sha": "277e9e334993fef4dc9c78de9cdb9381d6fa07cb",
-      "url": "https://www.radiodos.com.ar/209055-rescatan-a-tres-equinos-por-presunto-maltrato-animal",
-      "title": "Rescatan a tres equinos por presunto maltrato animal",
-      "volanta": "SAN LUIS DEL PALMAR",
-      "date": "2026-06-03T14:19:17+00:00"
     }
   ]
 }
