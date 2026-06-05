@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T14:14:09+00:00",
+  "updated": "2026-06-05T14:32:24+00:00",
   "posts": [
+    {
+      "id": "72b30bfd",
+      "image": "img/72b30bfd.png",
+      "image_sha": "4e7f8367fcd30bf4604680024353d04aa7676347",
+      "url": "https://www.radiodos.com.ar/209165-valdes-insistio-que-los-salarios-acompanaran-la-inflacion-pero-aclaro-que-si-llega-a-los-32-puntos-estamos-lejos",
+      "title": "Valdés insistió que los salarios acompañarán la inflación pero aclaró que \"si llega a los 32 puntos estamos lejos\"",
+      "volanta": "RUEDA DE PRENSA",
+      "date": "2026-06-05T14:32:24+00:00"
+    },
     {
       "id": "8ac32bc2",
       "image": "img/8ac32bc2.png",
@@ -531,15 +540,6 @@
       "title": "Mercedes: vendían cocaína frente a un Juzgado y una Fiscalía",
       "volanta": "NARCOMENUDEO",
       "date": "2026-06-03T10:34:45+00:00"
-    },
-    {
-      "id": "5fb55228",
-      "image": "img/5fb55228.png",
-      "image_sha": "700cdffc7557565ed140687b0d2335d01a6bfa0b",
-      "url": "https://www.radiodos.com.ar/209034-patricia-bullrich-ofrecio-su-renuncia-a-milei-como-jefa-del-bloque-de-senadores",
-      "title": "Patricia Bullrich ofreció su renuncia a Milei como jefa del bloque de senadores",
-      "volanta": "Interna libertaria",
-      "date": "2026-06-03T01:40:03+00:00"
     }
   ]
 }
