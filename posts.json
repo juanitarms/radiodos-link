@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T17:35:09+00:00",
+  "updated": "2026-06-05T17:35:39+00:00",
   "posts": [
+    {
+      "id": "b42b37b5",
+      "image": "img/b42b37b5.png",
+      "image_sha": "2c311aeaf6f604f5c841cc707a6854c26e9c9f2b",
+      "url": "https://www.radiodos.com.ar/209167-el-programa-corrientes-cerca-llega-este-sabado-a-san-carlos",
+      "title": "El programa \"Corrientes Cerca\" llega este sábado a San Carlos",
+      "volanta": "VINCULACIÓN ESTRATÉGICA TERRITORIAL",
+      "date": "2026-06-05T17:35:39+00:00"
+    },
     {
       "id": "f4939139",
       "image": "img/f4939139.png",
@@ -531,15 +540,6 @@
       "title": "Rescatan a tres equinos por presunto maltrato animal",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-06-03T14:19:17+00:00"
-    },
-    {
-      "id": "79b15a4d",
-      "image": "img/79b15a4d.png",
-      "image_sha": "4ce52a82c3ce1e43dac46dd394d8e84c181e5cc5",
-      "url": "https://www.radiodos.com.ar/209050-axel-kicillof-sera-recibido-a-las-16-por-el-gobernador-juan-pablo-valdes",
-      "title": "Axel Kicillof será recibido a las 16 por el gobernador Juan Pablo Valdés",
-      "volanta": "GOBERNADOR DE BUENOS AIRES",
-      "date": "2026-06-03T14:01:11+00:00"
     }
   ]
 }
