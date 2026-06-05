@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T21:01:22+00:00",
+  "updated": "2026-06-05T21:04:51+00:00",
   "posts": [
+    {
+      "id": "2b91741b",
+      "image": "img/2b91741b.png",
+      "image_sha": "b33285319d63e729c429e1b9522fce2ee6e020d8",
+      "url": "https://www.radiodos.com.ar/209182-lo-atacaron-a-machetazos-en-una-pelea-y-termino-en-el-hospital-escuela",
+      "title": "Lo atacaron a machetazos en una pelea y terminó en el hospital Escuela",
+      "volanta": "VIOLENCIA",
+      "date": "2026-06-05T21:04:51+00:00"
+    },
     {
       "id": "54ad0107",
       "image": "img/54ad0107.png",
@@ -531,15 +540,6 @@
       "title": "Es ley la Creación de la Agencia de Desarrollo y Promoción de Inversiones y Comercio Exterior de Corrientes",
       "volanta": "Cámara de Diputados –Sesión 9-",
       "date": "2026-06-03T19:16:57+00:00"
-    },
-    {
-      "id": "2961864f",
-      "image": "img/2961864f.png",
-      "image_sha": "e132a9b266c73b8e9b37f02f704c7ffaf7d4d289",
-      "url": "https://www.radiodos.com.ar/209066-luquitas-rodriguez-reflexiono-sobre-el-femicidio-de-agostina-vega-y-llamo-a-los-hombres-a-repensar-su-rol",
-      "title": "Luquitas Rodríguez reflexionó sobre el femicidio de Agostina Vega y llamó a los hombres a repensar su rol",
-      "volanta": "TOMÓ POSTURA",
-      "date": "2026-06-03T18:20:01+00:00"
     }
   ]
 }
