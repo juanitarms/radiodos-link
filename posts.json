@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T16:12:36+00:00",
+  "updated": "2026-06-05T17:35:09+00:00",
   "posts": [
+    {
+      "id": "f4939139",
+      "image": "img/f4939139.png",
+      "image_sha": "eab1ff96b99d61f2bd5463504afd57b468c58f3d",
+      "url": "https://www.radiodos.com.ar/209170-es-el-tercer-premio-grande-que-damos-afirmo-la-propietaria-de-la-agencia-de-quiniela",
+      "title": "\"Es el tercer premio grande que damos\": afirmó la propietaria de la agencia de Quiniela",
+      "volanta": "UN CORRENTINO MILLONARIO",
+      "date": "2026-06-05T17:35:09+00:00"
+    },
     {
       "id": "59b58fe3",
       "image": "img/59b58fe3.png",
@@ -531,15 +540,6 @@
       "title": "Axel Kicillof será recibido a las 16 por el gobernador Juan Pablo Valdés",
       "volanta": "GOBERNADOR DE BUENOS AIRES",
       "date": "2026-06-03T14:01:11+00:00"
-    },
-    {
-      "id": "b12fc179",
-      "image": "img/b12fc179.png",
-      "image_sha": "0eb82281103adae6220478daaa26807fb185ab8e",
-      "url": "https://www.radiodos.com.ar/209045-la-policia-secuestro-un-automovil-con-pedido-de-captura",
-      "title": "La Policía secuestró un automóvil con pedido de captura",
-      "volanta": "EN OPERATIVO EN CONJUNTO",
-      "date": "2026-06-03T13:49:38+00:00"
     }
   ]
 }
