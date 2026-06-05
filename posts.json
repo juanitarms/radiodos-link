@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T12:46:25+00:00",
+  "updated": "2026-06-05T13:00:37+00:00",
   "posts": [
+    {
+      "id": "949e050a",
+      "image": "img/949e050a.png",
+      "image_sha": "0dafc21938b685bfac8c8d9299c87f401306ee63",
+      "url": "https://www.radiodos.com.ar/209148-fornaroli-si-hay-irregularidades-financieras-en-los-municipios-hay-que-denunciar-aunque-sean-de-nuestro-espacio",
+      "title": "Fornaroli: \"Si hay irregularidades financieras en los municipios hay que denunciar, aunque sean de nuestro espacio\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-06-05T13:00:37+00:00"
+    },
     {
       "id": "4412d8c7",
       "image": "img/4412d8c7.png",
@@ -531,15 +540,6 @@
       "title": "La Corte de Nueva York rechazó revisar el fallo a favor de Argentina por YPF",
       "volanta": "Defensa soberana",
       "date": "2026-06-02T21:21:38+00:00"
-    },
-    {
-      "id": "5aa1cafc",
-      "image": "img/5aa1cafc.png",
-      "image_sha": "b0c45ce2230b9d0c6bb0773ee65b36ad3f11dd8f",
-      "url": "https://www.radiodos.com.ar/209028-condenan-a-un-matrimonio-a-pagar-casi-5-millones-de-pesos-tras-el-ataque-de-sus-perros-a-una-motociclista",
-      "title": "Condenan a un matrimonio a pagar casi 5 millones de pesos tras el ataque de sus perros a una motociclista",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-02T20:55:00+00:00"
     }
   ]
 }
