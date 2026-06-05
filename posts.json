@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T17:55:16+00:00",
+  "updated": "2026-06-05T18:37:23+00:00",
   "posts": [
+    {
+      "id": "b2a70c10",
+      "image": "img/b2a70c10.png",
+      "image_sha": "9915a5f41128b1a264904e0f8cb2348532bd73e6",
+      "url": "https://www.radiodos.com.ar/209166-mas-de-140-estudiantes-participaron-de-un-exitoso-taller-de-salud-mental",
+      "title": "Más de 140 estudiantes participaron de un exitoso taller de salud mental",
+      "volanta": "Programa \"Charlas en tu Escuela\"",
+      "date": "2026-06-05T18:37:23+00:00"
+    },
     {
       "id": "96bbf6d3",
       "image": "img/96bbf6d3.png",
@@ -531,15 +540,6 @@
       "title": "Patricia Bullrich ofreció su renuncia y crece el desgaste de Javier Milei con los alfiles del Gobierno",
       "volanta": "CRISIS",
       "date": "2026-06-03T15:49:46+00:00"
-    },
-    {
-      "id": "ae6f5609",
-      "image": "img/ae6f5609.png",
-      "image_sha": "f02c442920f38c5810aabcb5e134eb4042d33c42",
-      "url": "https://www.radiodos.com.ar/209057-el-papa-de-agostina-vega-se-quebro-en-la-conferencia-de-prensa-me-la-asesino-y-la-va-a-pagar",
-      "title": "El papá de Agostina Vega se quebró en la conferencia de prensa: \"Me la asesinó y la va a pagar\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-03T14:58:48+00:00"
     }
   ]
 }
