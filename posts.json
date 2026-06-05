@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T10:15:55+00:00",
+  "updated": "2026-06-05T11:02:22+00:00",
   "posts": [
+    {
+      "id": "c88c957b",
+      "image": "img/c88c957b.png",
+      "image_sha": "f2b891ade7373218590beae2a7220d347b64d62c",
+      "url": "https://www.radiodos.com.ar/209141-mediante-una-inversora-trucha-provoco-estafa-de-500000-dolares-en-corrientes-y-otras-provincias",
+      "title": "Mediante una inversora trucha provocó estafa de 500.000 dólares en Corrientes y otras provincias",
+      "volanta": "ESTA LIBRE",
+      "date": "2026-06-05T11:02:22+00:00"
+    },
     {
       "id": "e6f40c7a",
       "image": "img/e6f40c7a.png",
@@ -531,15 +540,6 @@
       "title": "José Luis Córdoba: \"Es histórico recuperar el Círculo de Periodistas Deportivos de Corrientes\"",
       "volanta": "DESPUÉS DE 25 AÑOS",
       "date": "2026-06-02T18:18:35+00:00"
-    },
-    {
-      "id": "f6beb1cb",
-      "image": "img/f6beb1cb.png",
-      "image_sha": "e4c75165d79e72eb67f7c1512ee0242085fbe1d4",
-      "url": "https://www.radiodos.com.ar/209023-nacion-y-provincia-trabajan-en-conjunto-para-fortalecer-a-los-emprendedores-correntinos",
-      "title": "Nación y Provincia trabajan en conjunto para fortalecer a los emprendedores correntinos",
-      "volanta": "En Buenos Aires",
-      "date": "2026-06-02T17:48:16+00:00"
     }
   ]
 }
