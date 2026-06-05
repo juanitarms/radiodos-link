@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T20:27:29+00:00",
+  "updated": "2026-06-05T21:01:22+00:00",
   "posts": [
+    {
+      "id": "54ad0107",
+      "image": "img/54ad0107.png",
+      "image_sha": "a5b23d2e24a0b4500de3bd24ab882104e25d8169",
+      "url": "https://www.radiodos.com.ar/209179-el-mensaje-de-cristina-kirchner-para-despedir-al-indio-solari-vivir-solo-cuesta-vida",
+      "title": "El mensaje de Cristina Kirchner para despedir al Indio Solari: \"Vivir solo cuesta vida\"",
+      "volanta": "REDES",
+      "date": "2026-06-05T21:01:22+00:00"
+    },
     {
       "id": "5c124881",
       "image": "img/5c124881.png",
@@ -531,15 +540,6 @@
       "title": "Luquitas Rodríguez reflexionó sobre el femicidio de Agostina Vega y llamó a los hombres a repensar su rol",
       "volanta": "TOMÓ POSTURA",
       "date": "2026-06-03T18:20:01+00:00"
-    },
-    {
-      "id": "6e13ec6c",
-      "image": "img/6e13ec6c.png",
-      "image_sha": "e21bf0907e305dfd985836882938d760502244bb",
-      "url": "https://www.radiodos.com.ar/209071-detuvieron-a-un-presunto-dealer-y-secuestraron-dosis-de-cocaina-y-balanza-de-precision",
-      "title": "Detuvieron a un presunto \"dealer\" y secuestraron dosis de cocaína y balanza de precisión",
-      "volanta": "EN TAREAS DE PREVENCION",
-      "date": "2026-06-03T18:00:15+00:00"
     }
   ]
 }
