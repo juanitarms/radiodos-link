@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T13:08:53+00:00",
+  "updated": "2026-06-05T13:19:06+00:00",
   "posts": [
+    {
+      "id": "cde5d76e",
+      "image": "img/cde5d76e.png",
+      "image_sha": "19316b467698ba8d29ca05e8229736fa962dc34b",
+      "url": "https://www.radiodos.com.ar/209144-juan-pablo-valdes-sostuvo-que-esta-a-favor-de-la-eliminacion-de-las-paso",
+      "title": "Juan Pablo Valdés sostuvo que está a favor de la eliminación de las PASO",
+      "volanta": "POSTURA",
+      "date": "2026-06-05T13:19:06+00:00"
+    },
     {
       "id": "260005c9",
       "image": "img/260005c9.png",
@@ -531,15 +540,6 @@
       "title": "Mercedes se quedó sin colectivos tras el cierre definitivo de Sager",
       "volanta": "Histórico",
       "date": "2026-06-02T23:03:32+00:00"
-    },
-    {
-      "id": "b8184723",
-      "image": "img/b8184723.png",
-      "image_sha": "9790458450b3879e9b594f387846dc991e6cf1e5",
-      "url": "https://www.radiodos.com.ar/209031-las-transferencias-automaticas-nacionales-a-corrientes-crecieron-84-en-mayo",
-      "title": "Las transferencias automáticas nacionales a Corrientes crecieron 8,4% en mayo",
-      "volanta": "-2,6% EN EL ACUMULADO ANUAL",
-      "date": "2026-06-02T21:49:14+00:00"
     }
   ]
 }
