@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T13:27:30+00:00",
+  "updated": "2026-06-05T14:14:09+00:00",
   "posts": [
+    {
+      "id": "8ac32bc2",
+      "image": "img/8ac32bc2.png",
+      "image_sha": "9cb976cc05549c501c48dea37b59c4890b66df67",
+      "url": "https://www.radiodos.com.ar/209160-placa-definida-en-gran-hermano-tres-participantes-fueron-salvados-y-cinco-siguen-en-riesgo-de-eliminacion",
+      "title": "¡Placa definida en Gran Hermano! Tres participantes fueron salvados y cinco siguen en riesgo de eliminación",
+      "volanta": "EL LUNES SE VA UNO",
+      "date": "2026-06-05T14:14:09+00:00"
+    },
     {
       "id": "40377fe9",
       "image": "img/40377fe9.png",
@@ -531,15 +540,6 @@
       "title": "Patricia Bullrich ofreció su renuncia a Milei como jefa del bloque de senadores",
       "volanta": "Interna libertaria",
       "date": "2026-06-03T01:40:03+00:00"
-    },
-    {
-      "id": "de9642f5",
-      "image": "img/de9642f5.png",
-      "image_sha": "d7b41239f515b626ad56b4ce7d42ec0bdb7c2d1c",
-      "url": "https://www.radiodos.com.ar/209026-el-exjuez-federal-carlos-soto-davila-ira-a-otro-juicio-oral",
-      "title": "El exjuez federal Carlos Soto Dávila irá a otro juicio oral",
-      "volanta": "OTRO REVES JUDICIAL",
-      "date": "2026-06-02T23:10:39+00:00"
     }
   ]
 }
