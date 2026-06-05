@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T22:15:16+00:00",
+  "updated": "2026-06-05T22:48:27+00:00",
   "posts": [
+    {
+      "id": "53d75cd5",
+      "image": "img/53d75cd5.png",
+      "image_sha": "9a33fc8bd673dca88fd14df3f041791cafb1b757",
+      "url": "https://www.radiodos.com.ar/209186-un-hombre-murio-tras-una-descarga-electrica-en-una-ivivienda-del-barrio-san-jose",
+      "title": "Un hombre murió tras una descarga eléctrica en una ivivienda del barrio San José",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-05T22:48:27+00:00"
+    },
     {
       "id": "d88b8a89",
       "image": "img/d88b8a89.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un hombre acusado de comercializar cocaína",
       "volanta": "CORRIENTES",
       "date": "2026-06-03T21:03:42+00:00"
-    },
-    {
-      "id": "9e1c65ab",
-      "image": "img/9e1c65ab.png",
-      "image_sha": "a198697c8ed8afa7af5f74d1e359b8fce66280be",
-      "url": "https://www.radiodos.com.ar/209064-la-seleccion-argentina-se-comunico-con-buendia-ante-una-posible-baja-antes-del-mundial-2026",
-      "title": "La Selección Argentina se comunicó con Buendía ante una posible baja antes del Mundial 2026",
-      "volanta": "Puerta abierta",
-      "date": "2026-06-03T20:24:07+00:00"
     }
   ]
 }
