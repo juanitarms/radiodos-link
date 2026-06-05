@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T18:37:23+00:00",
+  "updated": "2026-06-05T18:47:19+00:00",
   "posts": [
+    {
+      "id": "2b6aceeb",
+      "image": "img/2b6aceeb.png",
+      "image_sha": "e170bd8d7d90ba6014d88d46f174d02030a834c3",
+      "url": "https://www.radiodos.com.ar/209176-este-sabado-se-viene-cebras-mix-rugby-inclusivo",
+      "title": "Este sábado se viene \"Cebras Mix\" Rugby inclusivo",
+      "volanta": "Nueva propuesta",
+      "date": "2026-06-05T18:47:19+00:00"
+    },
     {
       "id": "b2a70c10",
       "image": "img/b2a70c10.png",
@@ -531,15 +540,6 @@
       "title": "\"El álbum y las figuritas llegan y se van volando\": afirmó un revistero correntino",
       "volanta": "LOCURA POR EL MUNDIAL",
       "date": "2026-06-03T16:34:09+00:00"
-    },
-    {
-      "id": "ba8b8fde",
-      "image": "img/ba8b8fde.png",
-      "image_sha": "5f27d9a2eb6dd6ae70b967ef7875a4541874c25b",
-      "url": "https://www.radiodos.com.ar/209053-patricia-bullrich-ofrecio-su-renuncia-y-crece-el-desgaste-de-javier-milei-con-los-alfiles-del-gobierno",
-      "title": "Patricia Bullrich ofreció su renuncia y crece el desgaste de Javier Milei con los alfiles del Gobierno",
-      "volanta": "CRISIS",
-      "date": "2026-06-03T15:49:46+00:00"
     }
   ]
 }
