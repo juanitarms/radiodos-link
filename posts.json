@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-05T19:57:06+00:00",
+  "updated": "2026-06-05T20:27:29+00:00",
   "posts": [
+    {
+      "id": "5c124881",
+      "image": "img/5c124881.png",
+      "image_sha": "ef8244a4354835dd3ec885054b3fd87db52f283d",
+      "url": "https://www.radiodos.com.ar/209177-el-martes-9-se-inicia-el-pago-del-plus-a-empleados-municipales-de-corrientes",
+      "title": "El martes 9 se inicia el pago del plus a empleados municipales de Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-06-05T20:27:29+00:00"
+    },
     {
       "id": "2a8b0dc6",
       "image": "img/2a8b0dc6.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un presunto \"dealer\" y secuestraron dosis de cocaína y balanza de precisión",
       "volanta": "EN TAREAS DE PREVENCION",
       "date": "2026-06-03T18:00:15+00:00"
-    },
-    {
-      "id": "f18f35e4",
-      "image": "img/f18f35e4.png",
-      "image_sha": "4cb7710fc4a38e49ad59786d800b60b277596f81",
-      "url": "https://www.radiodos.com.ar/209068-brutal-asalto-intento-impedir-que-le-robaran-a-sus-padres-y-la-tiraron-del-auto",
-      "title": "Brutal asalto: intentó impedir que le robaran a sus padres y la tiraron del auto",
-      "volanta": "CASEROS",
-      "date": "2026-06-03T17:24:17+00:00"
     }
   ]
 }
