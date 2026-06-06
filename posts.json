@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-06T14:06:55+00:00",
+  "updated": "2026-06-06T14:28:57+00:00",
   "posts": [
+    {
+      "id": "047df7d5",
+      "image": "img/047df7d5.png",
+      "image_sha": "09f373d4599bc4f6b32305cd5e19d79599430880",
+      "url": "https://www.radiodos.com.ar/209189-multitudes-en-todo-el-pais-despidieron-al-indio-solari-se-esperan-definiciones-sobre-el-velorio-del-domingo",
+      "title": "Multitudes en todo el país despidieron al Indio Solari: se esperan definiciones sobre el velorio del domingo",
+      "volanta": "SIGUE LA CONMOCIÓN",
+      "date": "2026-06-06T14:28:57+00:00"
+    },
     {
       "id": "dcd99608",
       "image": "img/dcd99608.png",
@@ -531,15 +540,6 @@
       "title": "La OCDE recortó sus proyecciones para Argentina: estima menor crecimiento y mayor inflación en 2026",
       "volanta": "informe",
       "date": "2026-06-03T23:18:47+00:00"
-    },
-    {
-      "id": "72416ad9",
-      "image": "img/72416ad9.png",
-      "image_sha": "f47c91e9678ffa5851cd2bffae22f3d08e366ca8",
-      "url": "https://www.radiodos.com.ar/209082-femicidio-de-agostina-vega-encontraron-una-carta-entre-la-ropa-de-la-adolescente",
-      "title": "Femicidio de Agostina Vega: encontraron una carta entre la ropa de la adolescente",
-      "volanta": "CÓRDOBA",
-      "date": "2026-06-03T22:03:35+00:00"
     }
   ]
 }
