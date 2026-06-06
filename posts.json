@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-06T15:41:37+00:00",
+  "updated": "2026-06-06T15:43:13+00:00",
   "posts": [
+    {
+      "id": "bfaca199",
+      "image": "img/bfaca199.png",
+      "image_sha": "854265384a92ff1d5e8ac537552869270bc58018",
+      "url": "https://www.radiodos.com.ar/209194-golpe-al-narcomenudeo-en-el-interior-de-corrientes-secuestran-mas-de-un-ladrillo-y-medio-de-cocaina-y-demoran-a-dos-sospechosos-en-goya",
+      "title": "SECUESTRAron MÁS DE UN LADRILLO Y MEDIO DE COCAÍNA Y DEMORAron A DOS SOSPECHOSOS",
+      "volanta": "narcomenudeo en goya",
+      "date": "2026-06-06T15:43:13+00:00"
+    },
     {
       "id": "6090ebc0",
       "image": "img/6090ebc0.png",
@@ -531,15 +540,6 @@
       "title": "En robo \"piraña\" hirieron a dos amigos con piedras y machetes en un barrio de Corrientes",
       "volanta": "VIOLENCIA URBANA",
       "date": "2026-06-04T10:20:50+00:00"
-    },
-    {
-      "id": "bb5dd772",
-      "image": "img/bb5dd772.png",
-      "image_sha": "1a32a4ce99f14b100f731e90e03035279626a6c2",
-      "url": "https://www.radiodos.com.ar/209076-iba-sin-patentes-intento-huir-y-termino-preso",
-      "title": "Iba sin patentes, intentó huir y terminó preso",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-03T23:20:23+00:00"
     }
   ]
 }
