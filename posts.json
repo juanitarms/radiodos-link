@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-06T01:05:22+00:00",
+  "updated": "2026-06-06T14:06:55+00:00",
   "posts": [
+    {
+      "id": "dcd99608",
+      "image": "img/dcd99608.png",
+      "image_sha": "af5d217ea1dc5221ad92dfa8eeac6a547e80d2f3",
+      "url": "https://www.radiodos.com.ar/209188-corrientes-dramatico-rescate-de-caballos-atascados-en-el-barro-de-un-zanjon",
+      "title": "Corrientes: dramático rescate de caballos atascados en el barro de un zanjón",
+      "volanta": "ACCESO AL PERICHÓN",
+      "date": "2026-06-06T14:06:55+00:00"
+    },
     {
       "id": "1770e46f",
       "image": "img/1770e46f.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Agostina Vega: encontraron una carta entre la ropa de la adolescente",
       "volanta": "CÓRDOBA",
       "date": "2026-06-03T22:03:35+00:00"
-    },
-    {
-      "id": "58448929",
-      "image": "img/58448929.png",
-      "image_sha": "f34835defcfbd24efa5e62abd5bd3ad0ffb65f54",
-      "url": "https://www.radiodos.com.ar/209081-tras-el-piquete-mallonero-levantaron-la-veda-de-pesca-en-el-rio-parana",
-      "title": "Tras el \"piquete mallonero\", levantaron la veda de pesca en el río Paraná",
-      "volanta": "MEDIDA EXTREMA",
-      "date": "2026-06-03T21:49:46+00:00"
     }
   ]
 }
