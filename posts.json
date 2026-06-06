@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-06T15:43:13+00:00",
+  "updated": "2026-06-06T19:16:49+00:00",
   "posts": [
+    {
+      "id": "9e18025c",
+      "image": "img/9e18025c.png",
+      "image_sha": "245fcb635716dddc43fda2416842e30ede99b82c",
+      "url": "https://www.radiodos.com.ar/209196-cayo-pareja-de-estafadores-en-el-interior-de-corrientes-sacaban-datos-personales-y-tomaban-creditos-bancarios",
+      "title": "Cayó pareja de estafadores en el interior de Corrientes: sacaban datos personales y tomaban créditos bancarios",
+      "volanta": "ALVEAR",
+      "date": "2026-06-06T19:16:49+00:00"
+    },
     {
       "id": "bfaca199",
       "image": "img/bfaca199.png",
@@ -531,15 +540,6 @@
       "title": "Falleció el director de Defensa Civil Eulogio \"Ohio\" Márquez",
       "volanta": "DOLOR",
       "date": "2026-06-04T10:51:25+00:00"
-    },
-    {
-      "id": "18081d12",
-      "image": "img/18081d12.png",
-      "image_sha": "284cec476af8bd6d0529fe17cfe2151d98ae2179",
-      "url": "https://www.radiodos.com.ar/209087-en-robo-pirana-hirieron-a-dos-amigos-con-piedras-y-machetes-en-un-barrio-de-corrientes",
-      "title": "En robo \"piraña\" hirieron a dos amigos con piedras y machetes en un barrio de Corrientes",
-      "volanta": "VIOLENCIA URBANA",
-      "date": "2026-06-04T10:20:50+00:00"
     }
   ]
 }
