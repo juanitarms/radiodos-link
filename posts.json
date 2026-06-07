@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T01:58:10+00:00",
+  "updated": "2026-06-07T01:58:43+00:00",
   "posts": [
+    {
+      "id": "c8e2d559",
+      "image": "img/c8e2d559.png",
+      "image_sha": "72d5f6368a78c05c8e467ffbd21fad38e1313317",
+      "url": "https://www.radiodos.com.ar/209212-mauro-icardi-y-wanda-nara-cara-a-cara-de-nuevo-asi-fue-el-reencuentro-por-sus-hijas",
+      "title": "Mauro Icardi y Wanda Nara, cara a cara de nuevo: así fue el reencuentro por sus hijas",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-06-07T01:58:43+00:00"
+    },
     {
       "id": "2b06a262",
       "image": "img/2b06a262.png",
@@ -531,15 +540,6 @@
       "title": "La abuela de Agostina Vega reveló que encontró una carta de la adolescente de 14 años: \"Última voluntad\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-04T12:19:20+00:00"
-    },
-    {
-      "id": "29b66841",
-      "image": "img/29b66841.png",
-      "image_sha": "33e7ba3a44309aec6e39939533ad63ce8dc9d45b",
-      "url": "https://www.radiodos.com.ar/209093-aguas-de-corrientes-celebra-la-semana-del-medioambiente-promoviendo-practicas-sostenibles-y-educacion-ambiental",
-      "title": "Aguas de Corrientes celebra la Semana del Medioambiente promoviendo prácticas sostenibles y educación ambiental",
-      "volanta": "CONCIENCIA AMBIENTAL",
-      "date": "2026-06-04T12:05:15+00:00"
     }
   ]
 }
