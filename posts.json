@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T14:00:37+00:00",
+  "updated": "2026-06-07T17:10:32+00:00",
   "posts": [
+    {
+      "id": "5f050e3f",
+      "image": "img/5f050e3f.png",
+      "image_sha": "6eb8081d2ed9510a54ba6f2f881a0498cc593dfd",
+      "url": "https://www.radiodos.com.ar/209218-comenzo-el-velatorio-del-indio-solari-y-una-marea-humana-le-da-el-ultimo-adios",
+      "title": "Comenzó el velatorio del Indio Solari y una marea humana le da el último adiós",
+      "volanta": "Avellaneda",
+      "date": "2026-06-07T17:10:32+00:00"
+    },
     {
       "id": "4b23276f",
       "image": "img/4b23276f.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Agostina Vega: acumularon la causa de 2025 contra Claudio Barrelier y dictaron secreto de sumario",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-04T13:00:40+00:00"
-    },
-    {
-      "id": "c5e302ad",
-      "image": "img/c5e302ad.png",
-      "image_sha": "71ca2c230bf3efcfcfc288fc3cabc6e855d12844",
-      "url": "https://www.radiodos.com.ar/209098-como-esta-lionel-messi-de-su-lesion-la-novedad-de-la-tercera-practica-de-la-seleccion-argentina-en-kansas",
-      "title": "Cómo está Lionel Messi de su lesión: la novedad de la tercera práctica de la Selección Argentina en Kansas",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-04T12:50:12+00:00"
     }
   ]
 }
