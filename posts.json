@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T17:10:32+00:00",
+  "updated": "2026-06-07T18:31:23+00:00",
   "posts": [
+    {
+      "id": "d3d7fbc7",
+      "image": "img/d3d7fbc7.png",
+      "image_sha": "9214e07f95bd29302d3d8647cb640ac6cbf285fd",
+      "url": "https://www.radiodos.com.ar/209217-el-primer-festival-ambiental-de-la-ciudad-reafirmo-el-compromiso-municipal-y-la-conciencia-ecologica",
+      "title": "El primer Festival Ambiental de la ciudad reafirmó el compromiso municipal y la conciencia ecológica",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-07T18:31:23+00:00"
+    },
     {
       "id": "5f050e3f",
       "image": "img/5f050e3f.png",
@@ -531,15 +540,6 @@
       "title": "Cristina Kirchner volvió a saludar desde el balcón en el marco de una nueva marcha de Ni Una Menos",
       "volanta": "PRESENTE",
       "date": "2026-06-04T13:16:08+00:00"
-    },
-    {
-      "id": "94b5e96c",
-      "image": "img/94b5e96c.png",
-      "image_sha": "30297159f2b2e63c1107f294a66069fbdb2d18c6",
-      "url": "https://www.radiodos.com.ar/209104-femicidio-de-agostina-vega-acumularon-la-causa-de-2025-contra-claudio-barrelier-y-dictaron-secreto-de-sumario",
-      "title": "Femicidio de Agostina Vega: acumularon la causa de 2025 contra Claudio Barrelier y dictaron secreto de sumario",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-04T13:00:40+00:00"
     }
   ]
 }
