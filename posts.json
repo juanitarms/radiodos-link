@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-06T19:16:49+00:00",
+  "updated": "2026-06-07T00:55:56+00:00",
   "posts": [
+    {
+      "id": "39fad119",
+      "image": "img/39fad119.png",
+      "image_sha": "16f1389843123b94ea3385a729402f9070e3ee64",
+      "url": "https://www.radiodos.com.ar/209206-el-acceso-a-internet-se-fortalece-en-corrientes-y-en-todo-el-nea",
+      "title": "El acceso a internet se fortalece en Corrientes y en todo el NEA",
+      "volanta": "SERVICIO",
+      "date": "2026-06-07T00:55:56+00:00"
+    },
     {
       "id": "9e18025c",
       "image": "img/9e18025c.png",
@@ -531,15 +540,6 @@
       "title": "Comienza mañana el pago del Plus Unificado a empleados estatales de Corrientes",
       "volanta": "DE JUNIO",
       "date": "2026-06-04T11:35:25+00:00"
-    },
-    {
-      "id": "656f5a0e",
-      "image": "img/656f5a0e.png",
-      "image_sha": "e499f452cf0e8f45e67536b38c6045d937419722",
-      "url": "https://www.radiodos.com.ar/209086-fallecio-el-director-de-defensa-civil-eulogio-ohio-marquez",
-      "title": "Falleció el director de Defensa Civil Eulogio \"Ohio\" Márquez",
-      "volanta": "DOLOR",
-      "date": "2026-06-04T10:51:25+00:00"
     }
   ]
 }
