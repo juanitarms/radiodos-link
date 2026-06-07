@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T01:58:43+00:00",
+  "updated": "2026-06-07T12:31:00+00:00",
   "posts": [
+    {
+      "id": "46e3d7e2",
+      "image": "img/46e3d7e2.png",
+      "image_sha": "029cf50caf31fa8e5a552ddce82e6c48bdc84c50",
+      "url": "https://www.radiodos.com.ar/209215-argentina-aprobo-ante-honduras-su-primer-amistoso-rumbo-al-mundial",
+      "title": "Argentina aprobó ante Honduras su primer amistoso rumbo al Mundial",
+      "volanta": "FÚTBOL",
+      "date": "2026-06-07T12:31:00+00:00"
+    },
     {
       "id": "c8e2d559",
       "image": "img/c8e2d559.png",
@@ -531,15 +540,6 @@
       "title": "Ni Una Menos: 92% de los argentinos apoya el registro público de violadores tras el femicidio de Agostina Vega",
       "volanta": "ENCUESTA",
       "date": "2026-06-04T12:33:40+00:00"
-    },
-    {
-      "id": "82ff160d",
-      "image": "img/82ff160d.png",
-      "image_sha": "ee592f2e6cf9f1f13e9c74d1ac31be3dc7483e5c",
-      "url": "https://www.radiodos.com.ar/209095-la-abuela-de-agostina-vega-revelo-que-encontro-una-carta-de-la-adolescente-de-14-anos-ultima-voluntad",
-      "title": "La abuela de Agostina Vega reveló que encontró una carta de la adolescente de 14 años: \"Última voluntad\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-04T12:19:20+00:00"
     }
   ]
 }
