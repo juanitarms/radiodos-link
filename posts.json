@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T00:55:56+00:00",
+  "updated": "2026-06-07T01:58:10+00:00",
   "posts": [
+    {
+      "id": "2b06a262",
+      "image": "img/2b06a262.png",
+      "image_sha": "ab15e13e889b9acdf623da31a8729d0a2de64269",
+      "url": "https://www.radiodos.com.ar/209214-mirtha-legrand-se-mostro-afectada-por-la-muerte-de-indio-solari-lo-admiraba-mucho",
+      "title": "Mirtha Legrand se mostró afectada por la muerte de Indio Solari: \"Lo admiraba mucho\"",
+      "volanta": "SINCERA",
+      "date": "2026-06-07T01:58:10+00:00"
+    },
     {
       "id": "39fad119",
       "image": "img/39fad119.png",
@@ -531,15 +540,6 @@
       "title": "Aguas de Corrientes celebra la Semana del Medioambiente promoviendo prácticas sostenibles y educación ambiental",
       "volanta": "CONCIENCIA AMBIENTAL",
       "date": "2026-06-04T12:05:15+00:00"
-    },
-    {
-      "id": "6d960904",
-      "image": "img/6d960904.png",
-      "image_sha": "14eb1e24e289af87efb7a5d12b7e6080d6f15d1b",
-      "url": "https://www.radiodos.com.ar/209089-comienza-manana-el-pago-del-plus-unificado-a-empleados-estatales-de-corrientes",
-      "title": "Comienza mañana el pago del Plus Unificado a empleados estatales de Corrientes",
-      "volanta": "DE JUNIO",
-      "date": "2026-06-04T11:35:25+00:00"
     }
   ]
 }
