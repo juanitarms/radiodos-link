@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T12:31:00+00:00",
+  "updated": "2026-06-07T14:00:37+00:00",
   "posts": [
+    {
+      "id": "4b23276f",
+      "image": "img/4b23276f.png",
+      "image_sha": "2139521de290be00a9e936fdd84e7ac1cbba1521",
+      "url": "https://www.radiodos.com.ar/209216-estafas-en-alvear-y-la-cruz-robaban-datos-de-abuelas-para-sacar-creditos",
+      "title": "Estafas en Alvear y La Cruz: robaban datos de abuelas para sacar créditos",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-07T14:00:37+00:00"
+    },
     {
       "id": "46e3d7e2",
       "image": "img/46e3d7e2.png",
@@ -531,15 +540,6 @@
       "title": "Cómo está Lionel Messi de su lesión: la novedad de la tercera práctica de la Selección Argentina en Kansas",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-04T12:50:12+00:00"
-    },
-    {
-      "id": "7b89e113",
-      "image": "img/7b89e113.png",
-      "image_sha": "528c7aebbaefb687790ca86cbcf92ad2bdcf428c",
-      "url": "https://www.radiodos.com.ar/209096-ni-una-menos-92-de-los-argentinos-apoya-el-registro-publico-de-violadores-tras-el-femicidio-de-agostina-vega",
-      "title": "Ni Una Menos: 92% de los argentinos apoya el registro público de violadores tras el femicidio de Agostina Vega",
-      "volanta": "ENCUESTA",
-      "date": "2026-06-04T12:33:40+00:00"
     }
   ]
 }
