@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T23:26:16+00:00",
+  "updated": "2026-06-08T23:27:43+00:00",
   "posts": [
+    {
+      "id": "8db699ee",
+      "image": "img/8db699ee.png",
+      "image_sha": "ace6986196977f8de92c450a9a43390bfda64a10",
+      "url": "https://www.radiodos.com.ar/209291-absolvieron-a-un-jefe-del-priar-acusado-de-privacion-ilegitima-de-la-libertad",
+      "title": "Absolvieron a un jefe del PRIAR acusado de privación ilegítima de la libertad",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-08T23:27:43+00:00"
+    },
     {
       "id": "418d33af",
       "image": "img/418d33af.png",
@@ -531,15 +540,6 @@
       "title": "Más de 140 estudiantes participaron de un exitoso taller de salud mental",
       "volanta": "Programa \"Charlas en tu Escuela\"",
       "date": "2026-06-05T18:37:23+00:00"
-    },
-    {
-      "id": "96bbf6d3",
-      "image": "img/96bbf6d3.png",
-      "image_sha": "62fc37b36184cc91ad39399fca2b24e382402e2c",
-      "url": "https://www.radiodos.com.ar/209175-la-familia-del-indio-solari-confirmo-que-habra-despedida-publica-que-se-sabe",
-      "title": "La familia del Indio Solari confirmó que habrá despedida pública: qué se sabe",
-      "volanta": "ÚLTIMO ADIÓS",
-      "date": "2026-06-05T17:55:16+00:00"
     }
   ]
 }
