@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-07T18:31:23+00:00",
+  "updated": "2026-06-08T10:18:58+00:00",
   "posts": [
+    {
+      "id": "18615e53",
+      "image": "img/18615e53.png",
+      "image_sha": "5eb9bc1c1935222554fb10df02689a682032544e",
+      "url": "https://www.radiodos.com.ar/209232-un-correntino-se-convirtio-en-millonario-gano-mas-de-1400-millones-con-el-quini-6",
+      "title": "Un correntino se convirtió en millonario: ganó más de $1400 millones con el Quini 6",
+      "volanta": "MODALIDAD LA SEGUNDA",
+      "date": "2026-06-08T10:18:58+00:00"
+    },
     {
       "id": "d3d7fbc7",
       "image": "img/d3d7fbc7.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia le puso tobillera electrónica a Marcelo Porcel, el empresario acusado de abusar de 10 adolescentes",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-04T13:34:28+00:00"
-    },
-    {
-      "id": "01b0bb95",
-      "image": "img/01b0bb95.png",
-      "image_sha": "7ab4d26a80859ddb67ef53e744ad7b77f6d8872a",
-      "url": "https://www.radiodos.com.ar/209105-cristina-kirchner-volvio-a-saludar-desde-el-balcon-en-el-marco-de-una-nueva-marcha-de-ni-una-menos",
-      "title": "Cristina Kirchner volvió a saludar desde el balcón en el marco de una nueva marcha de Ni Una Menos",
-      "volanta": "PRESENTE",
-      "date": "2026-06-04T13:16:08+00:00"
     }
   ]
 }
