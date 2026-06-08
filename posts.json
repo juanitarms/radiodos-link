@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T12:18:36+00:00",
+  "updated": "2026-06-08T12:45:01+00:00",
   "posts": [
+    {
+      "id": "8faf1584",
+      "image": "img/8faf1584.png",
+      "image_sha": "4900b7bdfdd4827892f23cef83f0c7ce4f376711",
+      "url": "https://www.radiodos.com.ar/209242-las-ventas-minoristas-pyme-descendieron-12-interanual-en-mayo",
+      "title": "Las ventas minoristas pyme descendieron 1,2% interanual en mayo",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-06-08T12:45:01+00:00"
+    },
     {
       "id": "38bf711a",
       "image": "img/38bf711a.png",
@@ -531,15 +540,6 @@
       "title": "CAME le solicitó a Caputo que ARCA suspenda embargos y no les aplique multas a las pymes",
       "volanta": "COMUNICADO",
       "date": "2026-06-04T16:58:49+00:00"
-    },
-    {
-      "id": "d620ccdb",
-      "image": "img/d620ccdb.png",
-      "image_sha": "c2624cb6d3db71a12c0e4d7559dc0611a178f3db",
-      "url": "https://www.radiodos.com.ar/209122-recuperaron-un-perro-denunciado-como-extraviado-hace-tres-meses",
-      "title": "Recuperaron un perro denunciado como extraviado hace tres meses",
-      "volanta": "LOMAS DE GONZALEZ",
-      "date": "2026-06-04T16:36:59+00:00"
     }
   ]
 }
