@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T16:31:52+00:00",
+  "updated": "2026-06-08T17:05:29+00:00",
   "posts": [
+    {
+      "id": "b980dfd1",
+      "image": "img/b980dfd1.png",
+      "image_sha": "b03a6a4fad36d2d8ea1005d146467d0a9aa87cf5",
+      "url": "https://www.radiodos.com.ar/209266-corrientes-fortalece-su-agenda-de-innovacion-e-internacionalizacion",
+      "title": "Corrientes fortalece su agenda de innovación e internacionalización",
+      "volanta": "FEPY 2026 DE PARAGUAY",
+      "date": "2026-06-08T17:05:29+00:00"
+    },
     {
       "id": "284ce4c2",
       "image": "img/284ce4c2.png",
@@ -531,15 +540,6 @@
       "title": "El consumo de yerba mate retrasa el avance del Parkinson",
       "volanta": "SEGÚN UN ESTUDIO",
       "date": "2026-06-05T01:16:58+00:00"
-    },
-    {
-      "id": "c87432cb",
-      "image": "img/c87432cb.png",
-      "image_sha": "6d85c0539d997383e23a42eb43e2ab69dbf6b584",
-      "url": "https://www.radiodos.com.ar/209139-corrientes-robaron-una-vivienda-a-plena-luz-del-dia-y-se-llevaron-una-caja-fuerte",
-      "title": "Corrientes: robaron una vivienda a plena luz del día y se llevaron una caja fuerte",
-      "volanta": "inseguridad",
-      "date": "2026-06-04T23:18:15+00:00"
     }
   ]
 }
