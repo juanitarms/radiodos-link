@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:39:11+00:00",
+  "updated": "2026-06-08T20:48:07+00:00",
   "posts": [
+    {
+      "id": "e033edef",
+      "image": "img/e033edef.png",
+      "image_sha": "eacbe045b6beb8d5de458e6469115bb7d60e2ffc",
+      "url": "https://www.radiodos.com.ar/209283-corrientes-un-hombre-murio-arrollado-por-un-camion-por-avenida-ferre",
+      "title": "Corrientes: un hombre murió arrollado por un camión por avenida Ferré",
+      "volanta": "HACE INSTANTES",
+      "date": "2026-06-08T20:48:07+00:00"
+    },
     {
       "id": "a75a393a",
       "image": "img/a75a393a.png",
@@ -531,15 +540,6 @@
       "title": "Fornaroli: \"Si hay irregularidades financieras en los municipios hay que denunciar, aunque sean de nuestro espacio\"",
       "volanta": "NOTA EXCLUSIVA",
       "date": "2026-06-05T13:00:37+00:00"
-    },
-    {
-      "id": "4412d8c7",
-      "image": "img/4412d8c7.png",
-      "image_sha": "6ab8850463228e6054a326b24072a620e574b57f",
-      "url": "https://www.radiodos.com.ar/209146-alarma-en-chubut-y-santa-cruz-por-la-aparicion-de-pinguinos-muertos-en-las-playas",
-      "title": "Alarma en Chubut y Santa Cruz por la aparición de pingüinos muertos en las playas",
-      "volanta": "PATAGONIA",
-      "date": "2026-06-05T12:46:25+00:00"
     }
   ]
 }
