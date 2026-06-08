@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T18:58:25+00:00",
+  "updated": "2026-06-08T18:58:56+00:00",
   "posts": [
+    {
+      "id": "d52b79da",
+      "image": "img/d52b79da.png",
+      "image_sha": "1222a25b9c230c59a26f8d4a5801474488fbbca1",
+      "url": "https://www.radiodos.com.ar/209270-a-un-paso-de-asumir-como-nuevo-dt-boca-acelera-por-el-regreso-del-vasco-arruabarrena",
+      "title": "A un paso de asumir como nuevo DT: Boca acelera por el regreso del Vasco Arruabarrena",
+      "volanta": "NUEVA GESTIÓN",
+      "date": "2026-06-08T18:58:56+00:00"
+    },
     {
       "id": "f41e95e9",
       "image": "img/f41e95e9.png",
@@ -531,15 +540,6 @@
       "title": "A plena luz del robaron una caja fuerte en una vivienda de Corrientes",
       "volanta": "BARRIO APIPE",
       "date": "2026-06-05T11:19:16+00:00"
-    },
-    {
-      "id": "c88c957b",
-      "image": "img/c88c957b.png",
-      "image_sha": "f2b891ade7373218590beae2a7220d347b64d62c",
-      "url": "https://www.radiodos.com.ar/209141-mediante-una-inversora-trucha-provoco-estafa-de-500000-dolares-en-corrientes-y-otras-provincias",
-      "title": "Mediante una inversora trucha provocó estafa de 500.000 dólares en Corrientes y otras provincias",
-      "volanta": "ESTA LIBRE",
-      "date": "2026-06-05T11:02:22+00:00"
     }
   ]
 }
