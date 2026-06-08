@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T14:27:32+00:00",
+  "updated": "2026-06-08T14:31:24+00:00",
   "posts": [
+    {
+      "id": "4fdbd4e6",
+      "image": "img/4fdbd4e6.png",
+      "image_sha": "c0780606d3aab37eb750cd48a91ceb910dbf6ed9",
+      "url": "https://www.radiodos.com.ar/209262-argentina-alcanzo-un-nuevo-record-mensual-de-donantes-de-organos",
+      "title": "Argentina alcanzó un nuevo récord mensual de donantes de órganos",
+      "volanta": "BUENA NOTICIA",
+      "date": "2026-06-08T14:31:24+00:00"
+    },
     {
       "id": "5f96e62b",
       "image": "img/5f96e62b.png",
@@ -531,15 +540,6 @@
       "title": "Colapinto pone primera en el GP de Mónaco",
       "volanta": "Fórmula 1",
       "date": "2026-06-04T20:53:29+00:00"
-    },
-    {
-      "id": "1088394d",
-      "image": "img/1088394d.png",
-      "image_sha": "bc14bc4c9269399398e394a7752b5253a4b8c07a",
-      "url": "https://www.radiodos.com.ar/209120-un-comerciante-ato-a-un-ladron-a-su-camioneta-y-lo-arrastro-varias-cuadras",
-      "title": "Un comerciante ató a un ladrón a su camioneta y lo arrastró varias cuadras",
-      "volanta": "Zárate",
-      "date": "2026-06-04T20:19:31+00:00"
     }
   ]
 }
