@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T14:00:38+00:00",
+  "updated": "2026-06-08T14:13:33+00:00",
   "posts": [
+    {
+      "id": "2c913a22",
+      "image": "img/2c913a22.png",
+      "image_sha": "c62e47445d82f520e33cd8009ba321d6714a8a0f",
+      "url": "https://www.radiodos.com.ar/209261-gobernador-jp-valdes-anuncio-que-el-1-de-julio-se-reiniciaran-las-obras-de-la-autovia-12",
+      "title": "Gobernador JP Valdés anunció que el 1 de julio se reiniciarán las obras de la Autovía 12",
+      "volanta": "ANUNCIO",
+      "date": "2026-06-08T14:13:33+00:00"
+    },
     {
       "id": "6e37cab4",
       "image": "img/6e37cab4.png",
@@ -531,15 +540,6 @@
       "title": "Último adiós a Agostina Vega: familiares y amigos la despidieron en una ceremonia privada",
       "volanta": "FEMICIDIO",
       "date": "2026-06-04T19:49:16+00:00"
-    },
-    {
-      "id": "81172ec0",
-      "image": "img/81172ec0.png",
-      "image_sha": "cdabbbb18736bdc1b5e35abb5316ef6215ae94e8",
-      "url": "https://www.radiodos.com.ar/209125-el-gobierno-presento-un-documental-sobre-el-hospital-garrahan-y-los-trabajadores-denuncian-una-campana-sucia",
-      "title": "El Gobierno presentó un documental sobre el Hospital Garrahan y los trabajadores denuncian una campaña sucia",
-      "volanta": "AUDIOVISUAL",
-      "date": "2026-06-04T19:44:51+00:00"
     }
   ]
 }
