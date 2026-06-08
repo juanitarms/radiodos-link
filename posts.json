@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:50:47+00:00",
+  "updated": "2026-06-08T20:51:58+00:00",
   "posts": [
+    {
+      "id": "b39711f9",
+      "image": "img/b39711f9.png",
+      "image_sha": "ce0b18ebd40035ecd7ee5cb73b3fdc672097a71a",
+      "url": "https://www.radiodos.com.ar/209278-un-operario-lucha-por-su-vida-tras-sufrir-graves-quemaduras",
+      "title": "Un operario lucha por su vida tras sufrir graves quemaduras",
+      "volanta": "MOCORETÁ",
+      "date": "2026-06-08T20:51:58+00:00"
+    },
     {
       "id": "e9db9b13",
       "image": "img/e9db9b13.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: las buenas noticias que recibió Lionel Scaloni",
       "volanta": "UNA SEMANA PARA EL INICIO",
       "date": "2026-06-05T13:27:30+00:00"
-    },
-    {
-      "id": "cde5d76e",
-      "image": "img/cde5d76e.png",
-      "image_sha": "19316b467698ba8d29ca05e8229736fa962dc34b",
-      "url": "https://www.radiodos.com.ar/209144-juan-pablo-valdes-sostuvo-que-esta-a-favor-de-la-eliminacion-de-las-paso",
-      "title": "Juan Pablo Valdés sostuvo que está a favor de la eliminación de las PASO",
-      "volanta": "POSTURA",
-      "date": "2026-06-05T13:19:06+00:00"
     }
   ]
 }
