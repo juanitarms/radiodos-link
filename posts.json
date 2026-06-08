@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T21:19:36+00:00",
+  "updated": "2026-06-08T21:52:12+00:00",
   "posts": [
+    {
+      "id": "57d47c36",
+      "image": "img/57d47c36.png",
+      "image_sha": "534e83d0b556d7ff137b0e15f4750879e50040ad",
+      "url": "https://www.radiodos.com.ar/209289-buscan-desesperadamente-a-un-menor-de-14-anos-desaparecido-en-el-barrio-chiquita",
+      "title": "Buscan desesperadamente a un menor de 14 años desaparecido en el barrio Chiquita",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-08T21:52:12+00:00"
+    },
     {
       "id": "7c80bef3",
       "image": "img/7c80bef3.png",
@@ -531,15 +540,6 @@
       "title": "Mburucuyá invierte en formación y herramientas",
       "volanta": "CRISIS",
       "date": "2026-06-05T16:12:36+00:00"
-    },
-    {
-      "id": "9e6c1d91",
-      "image": "img/9e6c1d91.png",
-      "image_sha": "7f4f5977342f5436fb7764a483e3e611c6265822",
-      "url": "https://www.radiodos.com.ar/209168-el-emotivo-mensaje-de-skay-beilinson-para-despedir-al-indio-solari-buen-viaje-mi-querido-amigo",
-      "title": "El emotivo mensaje de Skay Beilinson para despedir al Indio Solari: \"Buen viaje mi querido amigo\"",
-      "volanta": "MÚSICA DE LUTO",
-      "date": "2026-06-05T14:51:01+00:00"
     }
   ]
 }
