@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T13:37:39+00:00",
+  "updated": "2026-06-08T14:00:38+00:00",
   "posts": [
+    {
+      "id": "6e37cab4",
+      "image": "img/6e37cab4.png",
+      "image_sha": "9bcfff7435b5a51eec87b71de86425b8c895e49a",
+      "url": "https://www.radiodos.com.ar/209252-murio-la-actriz-maria-rosa-fugazot",
+      "title": "Murió la actriz María Rosa Fugazot",
+      "volanta": "ARTE DE LUTO",
+      "date": "2026-06-08T14:00:38+00:00"
+    },
     {
       "id": "9afd9107",
       "image": "img/9afd9107.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno presentó un documental sobre el Hospital Garrahan y los trabajadores denuncian una campaña sucia",
       "volanta": "AUDIOVISUAL",
       "date": "2026-06-04T19:44:51+00:00"
-    },
-    {
-      "id": "41b89e6e",
-      "image": "img/41b89e6e.png",
-      "image_sha": "d01548f8af5f3ac543bc3d4741618648e1f275fa",
-      "url": "https://www.radiodos.com.ar/209128-capacitaron-en-lengua-de-senas-al-personal-de-atencion-al-publico-de-la-dpec",
-      "title": "Capacitaron en lengua de señas al personal de atención al público de la DPEC",
-      "volanta": "DESARROLLO SOCIAL",
-      "date": "2026-06-04T19:00:58+00:00"
     }
   ]
 }
