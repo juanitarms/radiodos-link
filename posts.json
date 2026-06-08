@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:51:58+00:00",
+  "updated": "2026-06-08T20:54:33+00:00",
   "posts": [
+    {
+      "id": "ceb0a843",
+      "image": "img/ceb0a843.png",
+      "image_sha": "93965bc7a9d1033a859ec4eae0e76ff738aacf48",
+      "url": "https://www.radiodos.com.ar/209277-corrientes-hallaron-mas-de-200-m-de-pesos-en-un-auto-que-choco-contra-retroexcavadora",
+      "title": "Corrientes: hallaron más de 200 millones de pesos en un auto que chocó contra una retroexcavadora",
+      "volanta": "CERCA DE ESQUINA",
+      "date": "2026-06-08T20:54:33+00:00"
+    },
     {
       "id": "b39711f9",
       "image": "img/b39711f9.png",
@@ -531,15 +540,6 @@
       "title": "¡Placa definida en Gran Hermano! Tres participantes fueron salvados y cinco siguen en riesgo de eliminación",
       "volanta": "EL LUNES SE VA UNO",
       "date": "2026-06-05T14:14:09+00:00"
-    },
-    {
-      "id": "40377fe9",
-      "image": "img/40377fe9.png",
-      "image_sha": "df09a3ed7b9bf0b6e4e9cddb0c620191efec0234",
-      "url": "https://www.radiodos.com.ar/209149-mundial-2026-las-buenas-noticias-que-recibio-lionel-scaloni",
-      "title": "Mundial 2026: las buenas noticias que recibió Lionel Scaloni",
-      "volanta": "UNA SEMANA PARA EL INICIO",
-      "date": "2026-06-05T13:27:30+00:00"
     }
   ]
 }
