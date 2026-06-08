@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T18:58:56+00:00",
+  "updated": "2026-06-08T18:59:26+00:00",
   "posts": [
+    {
+      "id": "efca81c4",
+      "image": "img/efca81c4.png",
+      "image_sha": "8ee64d47a5383bbdded21b4cb46ae0e2c3db03b9",
+      "url": "https://www.radiodos.com.ar/209269-el-dueno-de-casa-volvio-a-ser-el-mejor-en-la-segunda-etapa-del-circuito-regional",
+      "title": "El dueño de casa volvió a ser el mejor en la Segunda Etapa del Circuito Regional",
+      "volanta": "Natación",
+      "date": "2026-06-08T18:59:26+00:00"
+    },
     {
       "id": "d52b79da",
       "image": "img/d52b79da.png",
@@ -531,15 +540,6 @@
       "title": "Separaron temporalmente al docente de la UNNe denunciado por acoso sexual",
       "volanta": "ADELANTO",
       "date": "2026-06-05T12:04:20+00:00"
-    },
-    {
-      "id": "8dcd957f",
-      "image": "img/8dcd957f.png",
-      "image_sha": "6fbaf94e4b9d3bc5ca774b95c37b5106ae229fbd",
-      "url": "https://www.radiodos.com.ar/209142-a-plena-luz-del-robaron-una-caja-fuerte-en-una-vivienda-de-corrientes",
-      "title": "A plena luz del robaron una caja fuerte en una vivienda de Corrientes",
-      "volanta": "BARRIO APIPE",
-      "date": "2026-06-05T11:19:16+00:00"
     }
   ]
 }
