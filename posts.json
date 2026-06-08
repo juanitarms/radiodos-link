@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T13:24:49+00:00",
+  "updated": "2026-06-08T13:37:39+00:00",
   "posts": [
+    {
+      "id": "9afd9107",
+      "image": "img/9afd9107.png",
+      "image_sha": "2df4cbfe8d0e54521f7cfaebee28c4cd56b50090",
+      "url": "https://www.radiodos.com.ar/209253-el-homenaje-inesperado-de-la-formula-1-al-indio-solari-tras-el-cruce-entre-colapinto-y-sainz",
+      "title": "El homenaje inesperado de la Fórmula 1 al Indio Solari tras el cruce entre Colapinto y Sainz",
+      "volanta": "RECUERDO",
+      "date": "2026-06-08T13:37:39+00:00"
+    },
     {
       "id": "3646e209",
       "image": "img/3646e209.png",
@@ -531,15 +540,6 @@
       "title": "Capacitaron en lengua de señas al personal de atención al público de la DPEC",
       "volanta": "DESARROLLO SOCIAL",
       "date": "2026-06-04T19:00:58+00:00"
-    },
-    {
-      "id": "1f5a8ecf",
-      "image": "img/1f5a8ecf.png",
-      "image_sha": "0c82fc2266376eaf8ce3efd2a69a703863a5f259",
-      "url": "https://www.radiodos.com.ar/209127-mas-de-100-proyectos-en-la-segunda-sesion-itinerante-del-concejo-deliberante",
-      "title": "Más de 100 proyectos en la segunda sesión itinerante del Concejo Deliberante",
-      "volanta": "BARRIO ANAHÍ",
-      "date": "2026-06-04T19:00:01+00:00"
     }
   ]
 }
