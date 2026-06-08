@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T18:36:02+00:00",
+  "updated": "2026-06-08T18:58:25+00:00",
   "posts": [
+    {
+      "id": "f41e95e9",
+      "image": "img/f41e95e9.png",
+      "image_sha": "55c64986dc0fc7f883b12c9c901b6601fe77e7b5",
+      "url": "https://www.radiodos.com.ar/209271-demoran-a-varias-personas-y-secuestran-elementos-aparentemente-robados",
+      "title": "Demoran a varias personas y secuestran elementos aparentemente robados",
+      "volanta": "SEGURIDAD Y PREVENCION",
+      "date": "2026-06-08T18:58:25+00:00"
+    },
     {
       "id": "01d22e02",
       "image": "img/01d22e02.png",
@@ -531,15 +540,6 @@
       "title": "Mediante una inversora trucha provocó estafa de 500.000 dólares en Corrientes y otras provincias",
       "volanta": "ESTA LIBRE",
       "date": "2026-06-05T11:02:22+00:00"
-    },
-    {
-      "id": "e6f40c7a",
-      "image": "img/e6f40c7a.png",
-      "image_sha": "b362f0d252b21919d7c8480b908ee92bef6e384b",
-      "url": "https://www.radiodos.com.ar/209133-este-finde-habra-recorridos-guiados-festival-ambiental-patio-cervecero-y-pena-de-la-ciudad",
-      "title": "Este finde habrá recorridos guiados, festival ambiental, patio cervecero y peña de la ciudad",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-05T10:15:55+00:00"
     }
   ]
 }
