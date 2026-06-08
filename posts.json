@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T15:01:41+00:00",
+  "updated": "2026-06-08T16:07:50+00:00",
   "posts": [
+    {
+      "id": "e7a9a81c",
+      "image": "img/e7a9a81c.png",
+      "image_sha": "7215ea98611c46408139cf087fb7880604279bfa",
+      "url": "https://www.radiodos.com.ar/209268-se-vuelve-a-disparar-el-precio-del-petroleo-y-amenaza-con-fogonear-todavia-mas-la-inflacion",
+      "title": "Se vuelve a disparar el precio del petróleo y amenaza con fogonear todavía más la inflación",
+      "volanta": "ECONOMÍA",
+      "date": "2026-06-08T16:07:50+00:00"
+    },
     {
       "id": "c7f10795",
       "image": "img/c7f10795.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente de 15 años que desapareció tras salir de la escuela",
       "volanta": "CORRIENTES",
       "date": "2026-06-04T22:50:03+00:00"
-    },
-    {
-      "id": "3103b316",
-      "image": "img/3103b316.png",
-      "image_sha": "d15b3fa14f3ea945db3b5200898bebd2b4ce5e81",
-      "url": "https://www.radiodos.com.ar/209138-scaloni-probo-con-el-flaco-lopez-de-titular-para-el-amistoso-ante-honduras",
-      "title": "Scaloni probó con el Flaco López de titular para el amistoso ante Honduras",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-04T22:18:56+00:00"
     }
   ]
 }
