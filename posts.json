@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:54:33+00:00",
+  "updated": "2026-06-08T21:18:15+00:00",
   "posts": [
+    {
+      "id": "077bd2bc",
+      "image": "img/077bd2bc.png",
+      "image_sha": "e07a8c608370cb69c3e87b066cfa28f27cad10ce",
+      "url": "https://www.radiodos.com.ar/209280-corrientes-fue-sede-de-una-reunion-federal-para-coordinar-acciones-ante-el-fenomeno-el-nino",
+      "title": "Corrientes fue sede de una reunión federal para coordinar acciones ante el fenómeno El Niño",
+      "volanta": "CASA DE GOBIERNO",
+      "date": "2026-06-08T21:18:15+00:00"
+    },
     {
       "id": "ceb0a843",
       "image": "img/ceb0a843.png",
@@ -531,15 +540,6 @@
       "title": "Valdés insistió que los salarios acompañarán la inflación pero aclaró que \"si llega a los 32 puntos estamos lejos\"",
       "volanta": "RUEDA DE PRENSA",
       "date": "2026-06-05T14:32:24+00:00"
-    },
-    {
-      "id": "8ac32bc2",
-      "image": "img/8ac32bc2.png",
-      "image_sha": "9cb976cc05549c501c48dea37b59c4890b66df67",
-      "url": "https://www.radiodos.com.ar/209160-placa-definida-en-gran-hermano-tres-participantes-fueron-salvados-y-cinco-siguen-en-riesgo-de-eliminacion",
-      "title": "¡Placa definida en Gran Hermano! Tres participantes fueron salvados y cinco siguen en riesgo de eliminación",
-      "volanta": "EL LUNES SE VA UNO",
-      "date": "2026-06-05T14:14:09+00:00"
     }
   ]
 }
