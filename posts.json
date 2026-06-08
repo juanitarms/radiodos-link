@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T14:31:24+00:00",
+  "updated": "2026-06-08T14:48:09+00:00",
   "posts": [
+    {
+      "id": "e56018a3",
+      "image": "img/e56018a3.png",
+      "image_sha": "7a922775e4957a3c6037bc5104bd540035ed3f40",
+      "url": "https://www.radiodos.com.ar/209265-anses-de-cuanto-sera-el-aumento-para-jubilados-en-junio-2026",
+      "title": "ANSES: de cuánto será el aumento para jubilados en junio 2026",
+      "volanta": "INFO ÚTIL",
+      "date": "2026-06-08T14:48:09+00:00"
+    },
     {
       "id": "4fdbd4e6",
       "image": "img/4fdbd4e6.png",
@@ -531,15 +540,6 @@
       "title": "Quiénes son los nominados de Gran Hermano y qué jugada hizo la líder",
       "volanta": "SIGUE EL JUEGO",
       "date": "2026-06-04T21:30:24+00:00"
-    },
-    {
-      "id": "ef88122a",
-      "image": "img/ef88122a.png",
-      "image_sha": "d7410d5b1f9eb208ea1f96831e4ce952e7d543dd",
-      "url": "https://www.radiodos.com.ar/209132-colapinto-pone-primera-en-el-gp-de-monaco",
-      "title": "Colapinto pone primera en el GP de Mónaco",
-      "volanta": "Fórmula 1",
-      "date": "2026-06-04T20:53:29+00:00"
     }
   ]
 }
