@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T16:07:50+00:00",
+  "updated": "2026-06-08T16:31:52+00:00",
   "posts": [
+    {
+      "id": "284ce4c2",
+      "image": "img/284ce4c2.png",
+      "image_sha": "42b9f3c5b8e97e0831052da72cee64f387005f20",
+      "url": "https://www.radiodos.com.ar/209267-tras-el-reclamo-de-trump-y-pese-al-rechazo-del-campo-el-gobierno-avanza-en-el-control-de-semillas",
+      "title": "Tras el reclamo de Trump y pese al rechazo del campo, el Gobierno avanza en el control de semillas",
+      "volanta": "ECONOMÍA",
+      "date": "2026-06-08T16:31:52+00:00"
+    },
     {
       "id": "e7a9a81c",
       "image": "img/e7a9a81c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: robaron una vivienda a plena luz del día y se llevaron una caja fuerte",
       "volanta": "inseguridad",
       "date": "2026-06-04T23:18:15+00:00"
-    },
-    {
-      "id": "896b539f",
-      "image": "img/896b539f.png",
-      "image_sha": "acab52933215b08690e502864778069ab88376b7",
-      "url": "https://www.radiodos.com.ar/209140-buscan-a-una-adolescente-de-15-anos-que-desaparecio-tras-salir-de-la-escuela",
-      "title": "Buscan a una adolescente de 15 años que desapareció tras salir de la escuela",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-04T22:50:03+00:00"
     }
   ]
 }
