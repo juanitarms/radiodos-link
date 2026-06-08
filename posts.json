@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T14:48:09+00:00",
+  "updated": "2026-06-08T15:01:41+00:00",
   "posts": [
+    {
+      "id": "c7f10795",
+      "image": "img/c7f10795.png",
+      "image_sha": "a15f1271140427d7e20b356669e66db1ff69bf67",
+      "url": "https://www.radiodos.com.ar/209264-se-le-cayo-el-celular-a-las-cataratas-del-iguazu-y-se-tiro-al-agua-para-recuperarlo",
+      "title": "Se le cayó el celular a las Cataratas del Iguazú y se tiró al agua para recuperarlo",
+      "volanta": "Video viral",
+      "date": "2026-06-08T15:01:41+00:00"
+    },
     {
       "id": "e56018a3",
       "image": "img/e56018a3.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni probó con el Flaco López de titular para el amistoso ante Honduras",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-04T22:18:56+00:00"
-    },
-    {
-      "id": "e382e3af",
-      "image": "img/e382e3af.png",
-      "image_sha": "2826781b2101fa379e18ea50961b0765150ea05e",
-      "url": "https://www.radiodos.com.ar/209112-quienes-son-los-nominados-de-gran-hermano-y-que-jugada-hizo-la-lider",
-      "title": "Quiénes son los nominados de Gran Hermano y qué jugada hizo la líder",
-      "volanta": "SIGUE EL JUEGO",
-      "date": "2026-06-04T21:30:24+00:00"
     }
   ]
 }
