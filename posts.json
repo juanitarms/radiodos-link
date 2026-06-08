@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T14:13:33+00:00",
+  "updated": "2026-06-08T14:27:32+00:00",
   "posts": [
+    {
+      "id": "5f96e62b",
+      "image": "img/5f96e62b.png",
+      "image_sha": "eb87e54284070aabd19d85bc51647f6c9876201e",
+      "url": "https://www.radiodos.com.ar/209260-varios-demorados-y-motos-secuestradas-en-diferentes-procedimientos",
+      "title": "Varios demorados y motos secuestradas en diferentes procedimientos",
+      "volanta": "SEGURIDAD Y PREVENCION",
+      "date": "2026-06-08T14:27:32+00:00"
+    },
     {
       "id": "2c913a22",
       "image": "img/2c913a22.png",
@@ -531,15 +540,6 @@
       "title": "Un comerciante ató a un ladrón a su camioneta y lo arrastró varias cuadras",
       "volanta": "Zárate",
       "date": "2026-06-04T20:19:31+00:00"
-    },
-    {
-      "id": "efb4bf70",
-      "image": "img/efb4bf70.png",
-      "image_sha": "4222cd8fb83634cd47d7f887c2bdfca664ae12c4",
-      "url": "https://www.radiodos.com.ar/209124-ultimo-adios-a-agostina-vega-familiares-y-amigos-la-despidieron-en-una-ceremonia-privada",
-      "title": "Último adiós a Agostina Vega: familiares y amigos la despidieron en una ceremonia privada",
-      "volanta": "FEMICIDIO",
-      "date": "2026-06-04T19:49:16+00:00"
     }
   ]
 }
