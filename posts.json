@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T11:37:22+00:00",
+  "updated": "2026-06-08T11:48:55+00:00",
   "posts": [
+    {
+      "id": "b8bbfde0",
+      "image": "img/b8bbfde0.png",
+      "image_sha": "c07c84d649dc4e4418a29898344b9b220c8d1c49",
+      "url": "https://www.radiodos.com.ar/209234-finalizo-el-ultimo-adios-al-indio-solari-mas-de-un-millon-de-personas-se-unieron-en-una-despedida-historica",
+      "title": "Finalizó el último adiós al Indio Solari:  Más de un millón de personas se unieron en una despedida histórica",
+      "volanta": "Rock argentino",
+      "date": "2026-06-08T11:48:55+00:00"
+    },
     {
       "id": "3cc6b4a1",
       "image": "img/3cc6b4a1.png",
@@ -531,15 +540,6 @@
       "title": "Maltrato animal: desbaratan un criadero de gallos de riña en un allanamiento rural",
       "volanta": "SANTO TOMÉ",
       "date": "2026-06-04T14:47:05+00:00"
-    },
-    {
-      "id": "bd446b59",
-      "image": "img/bd446b59.png",
-      "image_sha": "683608fb93d8168e9881a399c875b98fb9b6c38e",
-      "url": "https://www.radiodos.com.ar/209108-expolicia-que-hacia-contenido-erotico-fue-detenida-tras-un-choque-fatal-en-la-autopista-ricchieri",
-      "title": "Expolicia que hacía contenido erótico fue detenida tras un choque fatal en la autopista Ricchieri",
-      "volanta": "TRAGEDIA",
-      "date": "2026-06-04T14:24:59+00:00"
     }
   ]
 }
