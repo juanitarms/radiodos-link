@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T19:34:43+00:00",
+  "updated": "2026-06-08T20:39:11+00:00",
   "posts": [
+    {
+      "id": "a75a393a",
+      "image": "img/a75a393a.png",
+      "image_sha": "e8773b697c9c8d9fabd71bc67404230aafbe6f34",
+      "url": "https://www.radiodos.com.ar/209279-presentan-pedidos-de-jury-contra-los-fiscales-que-investigaron-el-femicidio-de-agostina-vega",
+      "title": "Presentan pedidos de jury contra los fiscales que investigaron el femicidio de Agostina Vega",
+      "volanta": "CÓRDOBA",
+      "date": "2026-06-08T20:39:11+00:00"
+    },
     {
       "id": "8fa67ce8",
       "image": "img/8fa67ce8.png",
@@ -531,15 +540,6 @@
       "title": "Alarma en Chubut y Santa Cruz por la aparición de pingüinos muertos en las playas",
       "volanta": "PATAGONIA",
       "date": "2026-06-05T12:46:25+00:00"
-    },
-    {
-      "id": "e15464df",
-      "image": "img/e15464df.png",
-      "image_sha": "cb554e1847b362869be0f462e04a587ea5e0f2ce",
-      "url": "https://www.radiodos.com.ar/209145-curuzu-cuatia-se-prepara-para-vivir-la-5-fiesta-provincial-del-locro",
-      "title": "Curuzú Cuatiá se prepara para vivir la 5ª Fiesta Provincial del Locro",
-      "volanta": "FESTEJO",
-      "date": "2026-06-05T12:18:56+00:00"
     }
   ]
 }
