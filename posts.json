@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T21:52:12+00:00",
+  "updated": "2026-06-08T21:55:00+00:00",
   "posts": [
+    {
+      "id": "b2c9a93c",
+      "image": "img/b2c9a93c.png",
+      "image_sha": "6e818abdcc9101eb4349f9b69a30096294997bb8",
+      "url": "https://www.radiodos.com.ar/209288-un-dj-correntino-inmortalizo-a-tim-payne-en-su-pierna",
+      "title": "Un Dj correntino inmortalizó a Tim Payne en su pierna",
+      "volanta": "LOCURA MUNDIALISTA",
+      "date": "2026-06-08T21:55:00+00:00"
+    },
     {
       "id": "57d47c36",
       "image": "img/57d47c36.png",
@@ -531,15 +540,6 @@
       "title": "\"Es el tercer premio grande que damos\": afirmó la propietaria de la agencia de Quiniela",
       "volanta": "UN CORRENTINO MILLONARIO",
       "date": "2026-06-05T17:35:09+00:00"
-    },
-    {
-      "id": "59b58fe3",
-      "image": "img/59b58fe3.png",
-      "image_sha": "f10f8a9ade3654c9f52428c2ed2cb9421fffa170",
-      "url": "https://www.radiodos.com.ar/209169-mburucuya-invierte-en-formacion-y-herramientas",
-      "title": "Mburucuyá invierte en formación y herramientas",
-      "volanta": "CRISIS",
-      "date": "2026-06-05T16:12:36+00:00"
     }
   ]
 }
