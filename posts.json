@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T12:45:01+00:00",
+  "updated": "2026-06-08T13:08:11+00:00",
   "posts": [
+    {
+      "id": "ac2cdfa9",
+      "image": "img/ac2cdfa9.png",
+      "image_sha": "0f93e54e12f6fcd40fa5e22ddcf685ef9b440ae9",
+      "url": "https://www.radiodos.com.ar/209240-con-multiples-ofertas-las-ferias-de-la-ciudad-recorren-plazas-y-espacios-publicos",
+      "title": "Con múltiples ofertas, las Ferias de la Ciudad recorren plazas y espacios públicos",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-06-08T13:08:11+00:00"
+    },
     {
       "id": "8faf1584",
       "image": "img/8faf1584.png",
@@ -531,15 +540,6 @@
       "title": "Rochi Igarzábal: \"Una persona de confianza que abusó reiteradas veces de mí a mis 5 años\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-06-04T17:11:43+00:00"
-    },
-    {
-      "id": "2daaa3e8",
-      "image": "img/2daaa3e8.png",
-      "image_sha": "455de70107e37b75558484b0ef3129c59c90a191",
-      "url": "https://www.radiodos.com.ar/209123-came-le-solicito-a-caputo-que-arca-suspenda-embargos-y-no-les-aplique-multas-a-las-pymes",
-      "title": "CAME le solicitó a Caputo que ARCA suspenda embargos y no les aplique multas a las pymes",
-      "volanta": "COMUNICADO",
-      "date": "2026-06-04T16:58:49+00:00"
     }
   ]
 }
