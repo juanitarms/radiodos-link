@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T13:08:11+00:00",
+  "updated": "2026-06-08T13:24:49+00:00",
   "posts": [
+    {
+      "id": "3646e209",
+      "image": "img/3646e209.png",
+      "image_sha": "2529998cc8ea3bdee6022ee9eb94b1146458f812",
+      "url": "https://www.radiodos.com.ar/209247-scaloni-suma-buenas-noticias-paz-molina-y-montiel-volvieron-a-entrenarse-con-el-grupo",
+      "title": "Scaloni suma buenas noticias: Paz, Molina y Montiel volvieron a entrenarse con el grupo",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-08T13:24:49+00:00"
+    },
     {
       "id": "ac2cdfa9",
       "image": "img/ac2cdfa9.png",
@@ -531,15 +540,6 @@
       "title": "Más de 100 proyectos en la segunda sesión itinerante del Concejo Deliberante",
       "volanta": "BARRIO ANAHÍ",
       "date": "2026-06-04T19:00:01+00:00"
-    },
-    {
-      "id": "6a092528",
-      "image": "img/6a092528.png",
-      "image_sha": "13822ccc8d85de7ebd27620ef61bf91a4fdb50d6",
-      "url": "https://www.radiodos.com.ar/209111-rochi-igarzabal-una-persona-de-confianza-que-abuso-reiteradas-veces-de-mi-a-mis-5-anos",
-      "title": "Rochi Igarzábal: \"Una persona de confianza que abusó reiteradas veces de mí a mis 5 años\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-06-04T17:11:43+00:00"
     }
   ]
 }
