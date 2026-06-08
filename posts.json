@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:48:07+00:00",
+  "updated": "2026-06-08T20:49:19+00:00",
   "posts": [
+    {
+      "id": "bbb4034e",
+      "image": "img/bbb4034e.png",
+      "image_sha": "368c6cbf454d6c1692ea7a2f54b869b51ffd2e0a",
+      "url": "https://www.radiodos.com.ar/209282-milei-visitara-cordoba-para-presenciar-ejercicios-militares-junto-a-tropas-de-eeuu",
+      "title": "Milei visitará Córdoba para presenciar ejercicios militares junto a tropas de EE.UU",
+      "volanta": "este miércoles",
+      "date": "2026-06-08T20:49:19+00:00"
+    },
     {
       "id": "e033edef",
       "image": "img/e033edef.png",
@@ -531,15 +540,6 @@
       "title": "Habló la abogada de la primera víctima de Claudio Barrelier: \"Es un monstruo\"",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-05T13:08:53+00:00"
-    },
-    {
-      "id": "949e050a",
-      "image": "img/949e050a.png",
-      "image_sha": "0dafc21938b685bfac8c8d9299c87f401306ee63",
-      "url": "https://www.radiodos.com.ar/209148-fornaroli-si-hay-irregularidades-financieras-en-los-municipios-hay-que-denunciar-aunque-sean-de-nuestro-espacio",
-      "title": "Fornaroli: \"Si hay irregularidades financieras en los municipios hay que denunciar, aunque sean de nuestro espacio\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-06-05T13:00:37+00:00"
     }
   ]
 }
