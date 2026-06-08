@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T20:49:19+00:00",
+  "updated": "2026-06-08T20:50:47+00:00",
   "posts": [
+    {
+      "id": "e9db9b13",
+      "image": "img/e9db9b13.png",
+      "image_sha": "791398e7ce6808014ea50be2828d20898c2777cf",
+      "url": "https://www.radiodos.com.ar/209281-el-gobernador-juan-pablo-valdes-agasajo-a-los-periodistas-por-su-dia",
+      "title": "El gobernador Juan Pablo Valdés agasajó a los periodistas por su día",
+      "volanta": "EN EL SALÓN AMARILLO",
+      "date": "2026-06-08T20:50:47+00:00"
+    },
     {
       "id": "bbb4034e",
       "image": "img/bbb4034e.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés sostuvo que está a favor de la eliminación de las PASO",
       "volanta": "POSTURA",
       "date": "2026-06-05T13:19:06+00:00"
-    },
-    {
-      "id": "260005c9",
-      "image": "img/260005c9.png",
-      "image_sha": "17cb7a00861c550b3b9e80f0b4d886ca0a3a5e1e",
-      "url": "https://www.radiodos.com.ar/209154-hablo-la-abogada-de-la-primera-victima-de-claudio-barrelier-es-un-monstruo",
-      "title": "Habló la abogada de la primera víctima de Claudio Barrelier: \"Es un monstruo\"",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-05T13:08:53+00:00"
     }
   ]
 }
