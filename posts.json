@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T11:48:55+00:00",
+  "updated": "2026-06-08T12:04:14+00:00",
   "posts": [
+    {
+      "id": "9a82d7eb",
+      "image": "img/9a82d7eb.png",
+      "image_sha": "d0579d6f1c458d0a7bc7a19a644213e68bbc4d07",
+      "url": "https://www.radiodos.com.ar/209238-juan-pablo-valdes-celebro-el-149°-aniversario-de-ita-ibate",
+      "title": "Juan Pablo Valdés celebró el 149° aniversario de Itá Ibaté",
+      "volanta": "AGENDA OFICIAL",
+      "date": "2026-06-08T12:04:14+00:00"
+    },
     {
       "id": "b8bbfde0",
       "image": "img/b8bbfde0.png",
@@ -531,15 +540,6 @@
       "title": "Últimos días para participar del sorteo de Tienda MÁSBanco",
       "volanta": "BANCO DE CORRIENTES",
       "date": "2026-06-04T14:58:54+00:00"
-    },
-    {
-      "id": "6d547862",
-      "image": "img/6d547862.png",
-      "image_sha": "430eae600d5c62e8dbd9917ed02815df36412c75",
-      "url": "https://www.radiodos.com.ar/209118-maltrato-animal-desbaratan-un-criadero-de-gallos-de-rina-en-un-allanamiento-rural",
-      "title": "Maltrato animal: desbaratan un criadero de gallos de riña en un allanamiento rural",
-      "volanta": "SANTO TOMÉ",
-      "date": "2026-06-04T14:47:05+00:00"
     }
   ]
 }
