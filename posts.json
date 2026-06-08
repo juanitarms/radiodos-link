@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T12:04:14+00:00",
+  "updated": "2026-06-08T12:18:36+00:00",
   "posts": [
+    {
+      "id": "38bf711a",
+      "image": "img/38bf711a.png",
+      "image_sha": "8467710cb9ea287d974be25f65458c63410c23a4",
+      "url": "https://www.radiodos.com.ar/209237-interior-de-corrientes-rescatan-un-buho-herido-y-lo-trasladan-al-centro-aguara",
+      "title": "Interior de Corrientes: rescatan un búho herido y lo trasladan al Centro Aguará",
+      "volanta": "GENERAL PAZ",
+      "date": "2026-06-08T12:18:36+00:00"
+    },
     {
       "id": "9a82d7eb",
       "image": "img/9a82d7eb.png",
@@ -531,15 +540,6 @@
       "title": "Recuperaron un perro denunciado como extraviado hace tres meses",
       "volanta": "LOMAS DE GONZALEZ",
       "date": "2026-06-04T16:36:59+00:00"
-    },
-    {
-      "id": "1eec9449",
-      "image": "img/1eec9449.png",
-      "image_sha": "4d61cba5ebfacf2ae24cdb46c4cf9b95546384b5",
-      "url": "https://www.radiodos.com.ar/209121--ultimos-dias-para-participar-del-sorteo-de-tienda-masbanco",
-      "title": "Últimos días para participar del sorteo de Tienda MÁSBanco",
-      "volanta": "BANCO DE CORRIENTES",
-      "date": "2026-06-04T14:58:54+00:00"
     }
   ]
 }
