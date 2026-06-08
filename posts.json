@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T23:10:45+00:00",
+  "updated": "2026-06-08T23:26:16+00:00",
   "posts": [
+    {
+      "id": "418d33af",
+      "image": "img/418d33af.png",
+      "image_sha": "19642b293f1beb7dbbe76ba84a6128edd72e1a9c",
+      "url": "https://www.radiodos.com.ar/209290-los-patentamientos-de-autos-en-corrientes-cayeron-un-289-interanual-en-mayo",
+      "title": "Los patentamientos de autos en Corrientes cayeron un 28,9% interanual en mayo",
+      "volanta": "Efecto desplome:",
+      "date": "2026-06-08T23:26:16+00:00"
+    },
     {
       "id": "f1790757",
       "image": "img/f1790757.png",
@@ -531,15 +540,6 @@
       "title": "La familia del Indio Solari confirmó que habrá despedida pública: qué se sabe",
       "volanta": "ÚLTIMO ADIÓS",
       "date": "2026-06-05T17:55:16+00:00"
-    },
-    {
-      "id": "b42b37b5",
-      "image": "img/b42b37b5.png",
-      "image_sha": "2c311aeaf6f604f5c841cc707a6854c26e9c9f2b",
-      "url": "https://www.radiodos.com.ar/209167-el-programa-corrientes-cerca-llega-este-sabado-a-san-carlos",
-      "title": "El programa \"Corrientes Cerca\" llega este sábado a San Carlos",
-      "volanta": "VINCULACIÓN ESTRATÉGICA TERRITORIAL",
-      "date": "2026-06-05T17:35:39+00:00"
     }
   ]
 }
