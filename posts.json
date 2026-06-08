@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T21:18:15+00:00",
+  "updated": "2026-06-08T21:19:36+00:00",
   "posts": [
+    {
+      "id": "7c80bef3",
+      "image": "img/7c80bef3.png",
+      "image_sha": "ae010186836feb470970b20ff2d0f8c236f1da93",
+      "url": "https://www.radiodos.com.ar/209284-el-gobierno-asegura-que-adorni-presentara-su-declaracion-jurada-esta-semana",
+      "title": "El Gobierno asegura que Adorni presentará su declaración jurada esta semana",
+      "volanta": "FUNCIONARIO INVESTIGADO",
+      "date": "2026-06-08T21:19:36+00:00"
+    },
     {
       "id": "077bd2bc",
       "image": "img/077bd2bc.png",
@@ -531,15 +540,6 @@
       "title": "El emotivo mensaje de Skay Beilinson para despedir al Indio Solari: \"Buen viaje mi querido amigo\"",
       "volanta": "MÚSICA DE LUTO",
       "date": "2026-06-05T14:51:01+00:00"
-    },
-    {
-      "id": "72b30bfd",
-      "image": "img/72b30bfd.png",
-      "image_sha": "4e7f8367fcd30bf4604680024353d04aa7676347",
-      "url": "https://www.radiodos.com.ar/209165-valdes-insistio-que-los-salarios-acompanaran-la-inflacion-pero-aclaro-que-si-llega-a-los-32-puntos-estamos-lejos",
-      "title": "Valdés insistió que los salarios acompañarán la inflación pero aclaró que \"si llega a los 32 puntos estamos lejos\"",
-      "volanta": "RUEDA DE PRENSA",
-      "date": "2026-06-05T14:32:24+00:00"
     }
   ]
 }
