@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T11:08:25+00:00",
+  "updated": "2026-06-08T11:37:22+00:00",
   "posts": [
+    {
+      "id": "3cc6b4a1",
+      "image": "img/3cc6b4a1.png",
+      "image_sha": "77f045041205f8c54353a93d0295a00b7ad72ef2",
+      "url": "https://www.radiodos.com.ar/209235-corrientes-dura-condena-al-hombre-que-asesino-a-punaladas-a-un-joven",
+      "title": "Corrientes: dura condena al hombre que asesinó a puñaladas a un joven",
+      "volanta": "GOYA",
+      "date": "2026-06-08T11:37:22+00:00"
+    },
     {
       "id": "b8b7927d",
       "image": "img/b8b7927d.png",
@@ -531,15 +540,6 @@
       "title": "Expolicia que hacía contenido erótico fue detenida tras un choque fatal en la autopista Ricchieri",
       "volanta": "TRAGEDIA",
       "date": "2026-06-04T14:24:59+00:00"
-    },
-    {
-      "id": "859fd717",
-      "image": "img/859fd717.png",
-      "image_sha": "177b66eb39bdaab002f0370e39ba20f2b0157e72",
-      "url": "https://www.radiodos.com.ar/209102-el-abuelo-materno-de-agostina-vega-participo-de-ni-una-menos-en-cordoba-y-apunto-al-padre-de-su-nieta",
-      "title": "El abuelo materno de Agostina Vega participó de Ni Una Menos en Córdoba y apuntó al padre de su nieta",
-      "volanta": "MARCHA",
-      "date": "2026-06-04T13:59:06+00:00"
     }
   ]
 }
