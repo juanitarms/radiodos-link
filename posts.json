@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T20:49:37+00:00",
+  "updated": "2026-06-09T21:37:38+00:00",
   "posts": [
+    {
+      "id": "fcc959df",
+      "image": "img/fcc959df.png",
+      "image_sha": "6c1e2e87457891c38cb92f40274276a7b3fbf05b",
+      "url": "https://www.radiodos.com.ar/209348-aguinaldo-la-mayor-parte-de-los-asalariados-lo-destinara-principalmente-al-pago-de-deudas",
+      "title": "Aguinaldo: la mayor parte de los asalariados lo destinará principalmente al pago de deudas",
+      "volanta": "CRISIS",
+      "date": "2026-06-09T21:37:38+00:00"
+    },
     {
       "id": "df3a4905",
       "image": "img/df3a4905.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas minoristas pyme descendieron 1,2% interanual en mayo",
       "volanta": "COMUNICADO DE PRENSA",
       "date": "2026-06-08T12:45:01+00:00"
-    },
-    {
-      "id": "38bf711a",
-      "image": "img/38bf711a.png",
-      "image_sha": "8467710cb9ea287d974be25f65458c63410c23a4",
-      "url": "https://www.radiodos.com.ar/209237-interior-de-corrientes-rescatan-un-buho-herido-y-lo-trasladan-al-centro-aguara",
-      "title": "Interior de Corrientes: rescatan un búho herido y lo trasladan al Centro Aguará",
-      "volanta": "GENERAL PAZ",
-      "date": "2026-06-08T12:18:36+00:00"
     }
   ]
 }
