@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T12:15:07+00:00",
+  "updated": "2026-06-09T12:41:49+00:00",
   "posts": [
+    {
+      "id": "4b871b46",
+      "image": "img/4b871b46.png",
+      "image_sha": "ddfc691ca246358f2e74e10b659c5f16a4a41723",
+      "url": "https://www.radiodos.com.ar/209302-buscan-a-una-adolescente-que-se-ausento-de-su-hogar-en-la-provincia-de-cordoba-",
+      "title": "Buscan a una adolescente que se ausentó de su hogar en la provincia de Córdoba",
+      "volanta": "EN COLABORACIÓN",
+      "date": "2026-06-09T12:41:49+00:00"
+    },
     {
       "id": "a970b74a",
       "image": "img/a970b74a.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por el uso de agroquímicos en Corrientes tras la intoxicación de un profesional",
       "volanta": "PRODUCCIÓN",
       "date": "2026-06-05T22:15:16+00:00"
-    },
-    {
-      "id": "ac10bb71",
-      "image": "img/ac10bb71.png",
-      "image_sha": "a7ffefef2160f84d94b293953a219f867e660d60",
-      "url": "https://www.radiodos.com.ar/209180-eduardo-vischi-el-gobierno-nacional-busca-responsables-afuera-de-cosas-que-no-puede-resolver-internamente",
-      "title": "Eduardo Vischi: \"El Gobierno Nacional busca responsables afuera de cosas que no puede resolver internamente\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-06-05T21:39:55+00:00"
     }
   ]
 }
