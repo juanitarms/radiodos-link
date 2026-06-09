@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T22:29:46+00:00",
+  "updated": "2026-06-09T22:35:07+00:00",
   "posts": [
+    {
+      "id": "a394f276",
+      "image": "img/a394f276.png",
+      "image_sha": "c0400332cc78be636dda81f4e9cfd93de564ce8f",
+      "url": "https://www.radiodos.com.ar/209352-provincia-y-municipios-fortalecen-acciones-para-la-proteccion-integral-de-ninas-ninos-y-adolescentes",
+      "title": "Provincia y municipios fortalecen acciones para la protección integral de niñas, niños y adolescentes",
+      "volanta": "NIÑEZ Y ADOLESCENCIA",
+      "date": "2026-06-09T22:35:07+00:00"
+    },
     {
       "id": "5cf5bb92",
       "image": "img/5cf5bb92.png",
@@ -531,15 +540,6 @@
       "title": "Gobernador JP Valdés anunció que el 1 de julio se reiniciarán las obras de la Autovía 12",
       "volanta": "ANUNCIO",
       "date": "2026-06-08T14:13:33+00:00"
-    },
-    {
-      "id": "6e37cab4",
-      "image": "img/6e37cab4.png",
-      "image_sha": "9bcfff7435b5a51eec87b71de86425b8c895e49a",
-      "url": "https://www.radiodos.com.ar/209252-murio-la-actriz-maria-rosa-fugazot",
-      "title": "Murió la actriz María Rosa Fugazot",
-      "volanta": "ARTE DE LUTO",
-      "date": "2026-06-08T14:00:38+00:00"
     }
   ]
 }
