@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T20:36:40+00:00",
+  "updated": "2026-06-09T20:37:58+00:00",
   "posts": [
+    {
+      "id": "34419bbf",
+      "image": "img/34419bbf.png",
+      "image_sha": "cf76111a5ed709e0f2a14d57615ee095fe55d2a6",
+      "url": "https://www.radiodos.com.ar/209344-una-tesis-aporto-datos-sobre-el-ciclo-reproductivo-de-una-serpiente-del-nea",
+      "title": "Una tesis aportó datos sobre el ciclo reproductivo de una serpiente del NEA",
+      "volanta": "CIENCIAS BIOLÓGICAS",
+      "date": "2026-06-09T20:37:58+00:00"
+    },
     {
       "id": "1031b60d",
       "image": "img/1031b60d.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés celebró el 149° aniversario de Itá Ibaté",
       "volanta": "AGENDA OFICIAL",
       "date": "2026-06-08T12:04:14+00:00"
-    },
-    {
-      "id": "b8bbfde0",
-      "image": "img/b8bbfde0.png",
-      "image_sha": "c07c84d649dc4e4418a29898344b9b220c8d1c49",
-      "url": "https://www.radiodos.com.ar/209234-finalizo-el-ultimo-adios-al-indio-solari-mas-de-un-millon-de-personas-se-unieron-en-una-despedida-historica",
-      "title": "Finalizó el último adiós al Indio Solari:  Más de un millón de personas se unieron en una despedida histórica",
-      "volanta": "Rock argentino",
-      "date": "2026-06-08T11:48:55+00:00"
     }
   ]
 }
