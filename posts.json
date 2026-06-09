@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T10:51:43+00:00",
+  "updated": "2026-06-09T11:19:51+00:00",
   "posts": [
+    {
+      "id": "5b9fe672",
+      "image": "img/5b9fe672.png",
+      "image_sha": "435fa2b65771733ad4013ff1f5eb28340acf9921",
+      "url": "https://www.radiodos.com.ar/209297-era-jefe-de-gendarmeria-en-corrientes-el-hombre-que-murio-arrollado-por-un-camion",
+      "title": "Era Jefe de Gendarmería en Corrientes el hombre que murió arrollado por un camión",
+      "volanta": "POR AVENIDA FERRE",
+      "date": "2026-06-09T11:19:51+00:00"
+    },
     {
       "id": "348be6c2",
       "image": "img/348be6c2.png",
@@ -531,15 +540,6 @@
       "title": "En el Día Mundial del Medio Ambiente, la Provincia fortalece el compromiso de cuidar el planeta",
       "volanta": "ENCUENTRO “NUESTRAS VOCES POR LA TIERRA”",
       "date": "2026-06-05T19:57:06+00:00"
-    },
-    {
-      "id": "2b6aceeb",
-      "image": "img/2b6aceeb.png",
-      "image_sha": "e170bd8d7d90ba6014d88d46f174d02030a834c3",
-      "url": "https://www.radiodos.com.ar/209176-este-sabado-se-viene-cebras-mix-rugby-inclusivo",
-      "title": "Este sábado se viene \"Cebras Mix\" Rugby inclusivo",
-      "volanta": "Nueva propuesta",
-      "date": "2026-06-05T18:47:19+00:00"
     }
   ]
 }
