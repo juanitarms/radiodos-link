@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T22:29:15+00:00",
+  "updated": "2026-06-09T22:29:46+00:00",
   "posts": [
+    {
+      "id": "5cf5bb92",
+      "image": "img/5cf5bb92.png",
+      "image_sha": "8e804e0f149bc4a8044cef8ea2ce70df6bd20410",
+      "url": "https://www.radiodos.com.ar/209347-procesan-por-presunto-enriquecimiento-ilicito-al-exintendente-de-santo-tome",
+      "title": "Procesan por presunto enriquecimiento ilícito al exintendente de Santo Tomé",
+      "volanta": "CORRUPCIÓN",
+      "date": "2026-06-09T22:29:46+00:00"
+    },
     {
       "id": "5ecc16c6",
       "image": "img/5ecc16c6.png",
@@ -531,15 +540,6 @@
       "title": "Murió la actriz María Rosa Fugazot",
       "volanta": "ARTE DE LUTO",
       "date": "2026-06-08T14:00:38+00:00"
-    },
-    {
-      "id": "9afd9107",
-      "image": "img/9afd9107.png",
-      "image_sha": "2df4cbfe8d0e54521f7cfaebee28c4cd56b50090",
-      "url": "https://www.radiodos.com.ar/209253-el-homenaje-inesperado-de-la-formula-1-al-indio-solari-tras-el-cruce-entre-colapinto-y-sainz",
-      "title": "El homenaje inesperado de la Fórmula 1 al Indio Solari tras el cruce entre Colapinto y Sainz",
-      "volanta": "RECUERDO",
-      "date": "2026-06-08T13:37:39+00:00"
     }
   ]
 }
