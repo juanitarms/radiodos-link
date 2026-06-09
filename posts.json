@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T13:10:45+00:00",
+  "updated": "2026-06-09T13:25:42+00:00",
   "posts": [
+    {
+      "id": "7b6245a1",
+      "image": "img/7b6245a1.png",
+      "image_sha": "ed5ca673dc8da0c51e59bf02812828906c4e049c",
+      "url": "https://www.radiodos.com.ar/209318-quien-es-el-nuevo-eliminado-de-gran-hermano-generacion-dorada",
+      "title": "Quién es el nuevo eliminado de Gran Hermano Generación Dorada",
+      "volanta": "SIGUE EL JUEGO",
+      "date": "2026-06-09T13:25:42+00:00"
+    },
     {
       "id": "99f33505",
       "image": "img/99f33505.png",
@@ -531,15 +540,6 @@
       "title": "Desde la EBY alertan que las turbinas de Yacyretá están comprometidas",
       "volanta": "siguen operativas",
       "date": "2026-06-06T01:05:22+00:00"
-    },
-    {
-      "id": "bda6ed32",
-      "image": "img/bda6ed32.png",
-      "image_sha": "85ee1f2b5cca905e82ce1badb2fd93d2fd08040c",
-      "url": "https://www.radiodos.com.ar/209178-la-promo-del-capitan-hasta-50-de-descuento-con-tarjetas-del-banco-de-corrientes-por-el-dia-del-padre",
-      "title": "La promo del Capitán: hasta 50% de descuento con tarjetas del Banco de Corrientes por el Día del Padre",
-      "volanta": "PROMO ESPECIAL",
-      "date": "2026-06-05T23:04:51+00:00"
     }
   ]
 }
