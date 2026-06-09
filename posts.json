@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T14:39:18+00:00",
+  "updated": "2026-06-09T15:01:10+00:00",
   "posts": [
+    {
+      "id": "61f0a7a7",
+      "image": "img/61f0a7a7.png",
+      "image_sha": "74eca83663c5a04bc1cdb72d52185d98c29d2002",
+      "url": "https://www.radiodos.com.ar/209323-juana-tinelli-confeso-de-que-vive-y-sorprendio-a-todos-me-mantengo-sola-desde-que",
+      "title": "Juana Tinelli confesó de qué vive y sorprendió a todos: \"Me mantengo sola desde que...\"",
+      "volanta": "SINCERA",
+      "date": "2026-06-09T15:01:10+00:00"
+    },
     {
       "id": "4b2e2268",
       "image": "img/4b2e2268.png",
@@ -531,15 +540,6 @@
       "title": "El acceso a internet se fortalece en Corrientes y en todo el NEA",
       "volanta": "SERVICIO",
       "date": "2026-06-07T00:55:56+00:00"
-    },
-    {
-      "id": "9e18025c",
-      "image": "img/9e18025c.png",
-      "image_sha": "245fcb635716dddc43fda2416842e30ede99b82c",
-      "url": "https://www.radiodos.com.ar/209196-cayo-pareja-de-estafadores-en-el-interior-de-corrientes-sacaban-datos-personales-y-tomaban-creditos-bancarios",
-      "title": "Cayó pareja de estafadores en el interior de Corrientes: sacaban datos personales y tomaban créditos bancarios",
-      "volanta": "ALVEAR",
-      "date": "2026-06-06T19:16:49+00:00"
     }
   ]
 }
