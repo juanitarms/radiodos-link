@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T14:23:27+00:00",
+  "updated": "2026-06-09T14:39:18+00:00",
   "posts": [
+    {
+      "id": "4b2e2268",
+      "image": "img/4b2e2268.png",
+      "image_sha": "40811f2d2aac631f9ef9310ce5b10bb769d92e14",
+      "url": "https://www.radiodos.com.ar/209328-las-audiencias-del-juicio-por-la-desaparicion-de-loan-se-realizaran-en-el-escuadron-48-de-gendarmeria",
+      "title": "Las audiencias del juicio por la desaparición de Loan se realizarán en el Escuadrón 48 de Gendarmería",
+      "volanta": "PERÚ Y SAN MARTIN",
+      "date": "2026-06-09T14:39:18+00:00"
+    },
     {
       "id": "9c476844",
       "image": "img/9c476844.png",
@@ -531,15 +540,6 @@
       "title": "Cayó pareja de estafadores en el interior de Corrientes: sacaban datos personales y tomaban créditos bancarios",
       "volanta": "ALVEAR",
       "date": "2026-06-06T19:16:49+00:00"
-    },
-    {
-      "id": "bfaca199",
-      "image": "img/bfaca199.png",
-      "image_sha": "854265384a92ff1d5e8ac537552869270bc58018",
-      "url": "https://www.radiodos.com.ar/209194-golpe-al-narcomenudeo-en-el-interior-de-corrientes-secuestran-mas-de-un-ladrillo-y-medio-de-cocaina-y-demoran-a-dos-sospechosos-en-goya",
-      "title": "SECUESTRAron MÁS DE UN LADRILLO Y MEDIO DE COCAÍNA Y DEMORAron A DOS SOSPECHOSOS",
-      "volanta": "narcomenudeo en goya",
-      "date": "2026-06-06T15:43:13+00:00"
     }
   ]
 }
