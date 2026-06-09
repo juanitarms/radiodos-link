@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T20:33:10+00:00",
+  "updated": "2026-06-09T20:34:52+00:00",
   "posts": [
+    {
+      "id": "9b07bfe3",
+      "image": "img/9b07bfe3.png",
+      "image_sha": "23f4189df459308eaa6133847c6dbf6d3dfffe9c",
+      "url": "https://www.radiodos.com.ar/209343-tras-horas-de-incertidumbre-hallaron-a-la-menor-de-15-anos-desaparecida-en-cordoba",
+      "title": "Tras horas de incertidumbre, hallaron a la menor de 15 años desaparecida en Córdoba",
+      "volanta": "ALERTA SOFIA",
+      "date": "2026-06-09T20:34:52+00:00"
+    },
     {
       "id": "d3c61d37",
       "image": "img/d3c61d37.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: dura condena al hombre que asesinó a puñaladas a un joven",
       "volanta": "GOYA",
       "date": "2026-06-08T11:37:22+00:00"
-    },
-    {
-      "id": "b8b7927d",
-      "image": "img/b8b7927d.png",
-      "image_sha": "484fca4e78f5401e20011e0292af613c23d2f2fe",
-      "url": "https://www.radiodos.com.ar/209233-tres-jovenes-fueron-atrapados-vendiendo-droga-en-la-peatonal-de-la-basilica-de-itati",
-      "title": "Tres jóvenes fueron atrapados vendiendo droga en la peatonal de la Basílica de Itatí",
-      "volanta": "DOMINGO A LA SIESTA",
-      "date": "2026-06-08T11:08:25+00:00"
     }
   ]
 }
