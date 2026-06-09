@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T21:38:55+00:00",
+  "updated": "2026-06-09T22:03:51+00:00",
   "posts": [
+    {
+      "id": "4c6a8fc5",
+      "image": "img/4c6a8fc5.png",
+      "image_sha": "ca44fd9a80387b551a30d7f9b1d921f61aa05005",
+      "url": "https://www.radiodos.com.ar/209351-guido-rodriguez-se-posiciona-como-candidato-para-reemplazar-a-balerdi",
+      "title": "Guido Rodríguez se posiciona como candidato para reemplazar a Balerdi",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-09T22:03:51+00:00"
+    },
     {
       "id": "b54c204d",
       "image": "img/b54c204d.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni suma buenas noticias: Paz, Molina y Montiel volvieron a entrenarse con el grupo",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-08T13:24:49+00:00"
-    },
-    {
-      "id": "ac2cdfa9",
-      "image": "img/ac2cdfa9.png",
-      "image_sha": "0f93e54e12f6fcd40fa5e22ddcf685ef9b440ae9",
-      "url": "https://www.radiodos.com.ar/209240-con-multiples-ofertas-las-ferias-de-la-ciudad-recorren-plazas-y-espacios-publicos",
-      "title": "Con múltiples ofertas, las Ferias de la Ciudad recorren plazas y espacios públicos",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-06-08T13:08:11+00:00"
     }
   ]
 }
