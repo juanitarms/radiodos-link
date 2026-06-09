@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T20:37:58+00:00",
+  "updated": "2026-06-09T20:49:37+00:00",
   "posts": [
+    {
+      "id": "df3a4905",
+      "image": "img/df3a4905.png",
+      "image_sha": "06b405d27be86cce7d1ed91fa9c84755237bfeba",
+      "url": "https://www.radiodos.com.ar/209345-corrientes-proyecta-su-primera-cosecha-de-cafe-para-2027",
+      "title": "Corrientes proyecta su primera cosecha de café para 2027",
+      "volanta": "PRODUCCIÓN",
+      "date": "2026-06-09T20:49:37+00:00"
+    },
     {
       "id": "34419bbf",
       "image": "img/34419bbf.png",
@@ -531,15 +540,6 @@
       "title": "Interior de Corrientes: rescatan un búho herido y lo trasladan al Centro Aguará",
       "volanta": "GENERAL PAZ",
       "date": "2026-06-08T12:18:36+00:00"
-    },
-    {
-      "id": "9a82d7eb",
-      "image": "img/9a82d7eb.png",
-      "image_sha": "d0579d6f1c458d0a7bc7a19a644213e68bbc4d07",
-      "url": "https://www.radiodos.com.ar/209238-juan-pablo-valdes-celebro-el-149°-aniversario-de-ita-ibate",
-      "title": "Juan Pablo Valdés celebró el 149° aniversario de Itá Ibaté",
-      "volanta": "AGENDA OFICIAL",
-      "date": "2026-06-08T12:04:14+00:00"
     }
   ]
 }
