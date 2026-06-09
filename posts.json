@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T13:25:42+00:00",
+  "updated": "2026-06-09T13:49:23+00:00",
   "posts": [
+    {
+      "id": "dc548524",
+      "image": "img/dc548524.png",
+      "image_sha": "030de21c01c31ff9cb4bb981b6522f5d133e540d",
+      "url": "https://www.radiodos.com.ar/209313-corrientes-asaltaron-una-joyeria-tras-mantener-cautivo-a-su-dueno-en-su-casa",
+      "title": "Corrientes: asaltaron una joyería tras mantener cautivo a su dueño en su casa",
+      "volanta": "BARRIO SAN BENITO",
+      "date": "2026-06-09T13:49:23+00:00"
+    },
     {
       "id": "7b6245a1",
       "image": "img/7b6245a1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: dramático rescate de caballos atascados en el barro de un zanjón",
       "volanta": "ACCESO AL PERICHÓN",
       "date": "2026-06-06T14:06:55+00:00"
-    },
-    {
-      "id": "1770e46f",
-      "image": "img/1770e46f.png",
-      "image_sha": "449acbb925cb12084b3ce88cae7d2be7aaacc57f",
-      "url": "https://www.radiodos.com.ar/209181-desde-la-eby-alertan-que-las-turbinas-de-yacyreta-estan-comprometidas",
-      "title": "Desde la EBY alertan que las turbinas de Yacyretá están comprometidas",
-      "volanta": "siguen operativas",
-      "date": "2026-06-06T01:05:22+00:00"
     }
   ]
 }
