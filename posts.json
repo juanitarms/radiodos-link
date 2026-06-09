@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T11:50:15+00:00",
+  "updated": "2026-06-09T12:06:22+00:00",
   "posts": [
+    {
+      "id": "594730a4",
+      "image": "img/594730a4.png",
+      "image_sha": "575b8d86c443751f40f94c693d0a2ab36d887bf2",
+      "url": "https://www.radiodos.com.ar/209301-el-millonario-monto-hallado-en-un-siniestro-en-corrientes-estaria-destinado-a-la-compra-de-vehiculos",
+      "title": "El millonario monto hallado en un siniestro en Corrientes estaría destinado a la compra de vehículos",
+      "volanta": "DOS HERIDOS",
+      "date": "2026-06-09T12:06:22+00:00"
+    },
     {
       "id": "bd796096",
       "image": "img/bd796096.png",
@@ -531,15 +540,6 @@
       "title": "Lo atacaron a machetazos en una pelea y terminó en el hospital Escuela",
       "volanta": "VIOLENCIA",
       "date": "2026-06-05T21:04:51+00:00"
-    },
-    {
-      "id": "54ad0107",
-      "image": "img/54ad0107.png",
-      "image_sha": "a5b23d2e24a0b4500de3bd24ab882104e25d8169",
-      "url": "https://www.radiodos.com.ar/209179-el-mensaje-de-cristina-kirchner-para-despedir-al-indio-solari-vivir-solo-cuesta-vida",
-      "title": "El mensaje de Cristina Kirchner para despedir al Indio Solari: \"Vivir solo cuesta vida\"",
-      "volanta": "REDES",
-      "date": "2026-06-05T21:01:22+00:00"
     }
   ]
 }
