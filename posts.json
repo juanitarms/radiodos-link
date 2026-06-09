@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T19:45:27+00:00",
+  "updated": "2026-06-09T20:33:10+00:00",
   "posts": [
+    {
+      "id": "d3c61d37",
+      "image": "img/d3c61d37.png",
+      "image_sha": "aa354c2b2b0047dda068e902c1fe99df07642445",
+      "url": "https://www.radiodos.com.ar/209346-pobreza-infantil-en-argentina-bajo-al-423-pero-advierten-que-la-mejora-es-fragil",
+      "title": "Pobreza infantil en Argentina: bajó al 42,3% pero advierten que la mejora es frágil",
+      "volanta": "INFORME DE UNICEF",
+      "date": "2026-06-09T20:33:10+00:00"
+    },
     {
       "id": "650f93f8",
       "image": "img/650f93f8.png",
@@ -531,15 +540,6 @@
       "title": "Tres jóvenes fueron atrapados vendiendo droga en la peatonal de la Basílica de Itatí",
       "volanta": "DOMINGO A LA SIESTA",
       "date": "2026-06-08T11:08:25+00:00"
-    },
-    {
-      "id": "18615e53",
-      "image": "img/18615e53.png",
-      "image_sha": "5eb9bc1c1935222554fb10df02689a682032544e",
-      "url": "https://www.radiodos.com.ar/209232-un-correntino-se-convirtio-en-millonario-gano-mas-de-1400-millones-con-el-quini-6",
-      "title": "Un correntino se convirtió en millonario: ganó más de $1400 millones con el Quini 6",
-      "volanta": "MODALIDAD LA SEGUNDA",
-      "date": "2026-06-08T10:18:58+00:00"
     }
   ]
 }
