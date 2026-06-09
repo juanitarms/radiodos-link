@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T23:27:43+00:00",
+  "updated": "2026-06-09T10:51:43+00:00",
   "posts": [
+    {
+      "id": "348be6c2",
+      "image": "img/348be6c2.png",
+      "image_sha": "18df94fd82e2808e5917b6da778b07f756eb556f",
+      "url": "https://www.radiodos.com.ar/209295-comenzo-el-pago-del-plus-a-empleados-municipales-de-corrientes",
+      "title": "Comenzó  el pago del Plus a empleados municipales de Corrientes",
+      "volanta": "HASTA EL JUEVES 11",
+      "date": "2026-06-09T10:51:43+00:00"
+    },
     {
       "id": "8db699ee",
       "image": "img/8db699ee.png",
@@ -531,15 +540,6 @@
       "title": "Este sábado se viene \"Cebras Mix\" Rugby inclusivo",
       "volanta": "Nueva propuesta",
       "date": "2026-06-05T18:47:19+00:00"
-    },
-    {
-      "id": "b2a70c10",
-      "image": "img/b2a70c10.png",
-      "image_sha": "9915a5f41128b1a264904e0f8cb2348532bd73e6",
-      "url": "https://www.radiodos.com.ar/209166-mas-de-140-estudiantes-participaron-de-un-exitoso-taller-de-salud-mental",
-      "title": "Más de 140 estudiantes participaron de un exitoso taller de salud mental",
-      "volanta": "Programa \"Charlas en tu Escuela\"",
-      "date": "2026-06-05T18:37:23+00:00"
     }
   ]
 }
