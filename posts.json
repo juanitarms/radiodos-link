@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T12:41:49+00:00",
+  "updated": "2026-06-09T12:49:48+00:00",
   "posts": [
+    {
+      "id": "50bea1f9",
+      "image": "img/50bea1f9.png",
+      "image_sha": "bbf758200f37640b6decb4d9d664ebf65356c776",
+      "url": "https://www.radiodos.com.ar/209307-seleccion-argentina-vs-islandia-por-un-amistoso-internacional-horario-formaciones-y-tv",
+      "title": "Selección Argentina vs. Islandia por un amistoso internacional: horario, formaciones y TV",
+      "volanta": "ÚLTIMO PARTIDO",
+      "date": "2026-06-09T12:49:48+00:00"
+    },
     {
       "id": "4b871b46",
       "image": "img/4b871b46.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre murió tras una descarga eléctrica en una ivivienda del barrio San José",
       "volanta": "CORRIENTES",
       "date": "2026-06-05T22:48:27+00:00"
-    },
-    {
-      "id": "d88b8a89",
-      "image": "img/d88b8a89.png",
-      "image_sha": "31265da786ab70154b2ce386d64da137b0bf0216",
-      "url": "https://www.radiodos.com.ar/209185-alerta-por-el-uso-de-agroquimicos-en-corrientes-tras-la-intoxicacion-de-un-profesional",
-      "title": "Alerta por el uso de agroquímicos en Corrientes tras la intoxicación de un profesional",
-      "volanta": "PRODUCCIÓN",
-      "date": "2026-06-05T22:15:16+00:00"
     }
   ]
 }
