@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T13:59:47+00:00",
+  "updated": "2026-06-09T14:10:18+00:00",
   "posts": [
+    {
+      "id": "0757699c",
+      "image": "img/0757699c.png",
+      "image_sha": "931ae02a5f6c07851008cc31d722ca902987c25e",
+      "url": "https://www.radiodos.com.ar/209326-hablo-el-abogado-de-la-familia-de-la-joven-desaparecida-en-cordoba-no-se-trato-de-una-travesura",
+      "title": "Habló el abogado de la familia de la joven desaparecida en Córdoba: \"No se trató de una travesura\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-09T14:10:18+00:00"
+    },
     {
       "id": "766868f4",
       "image": "img/766868f4.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un cazador perdido en una laguna del interior de Corrientes",
       "volanta": "DESDE AYER",
       "date": "2026-06-06T15:41:37+00:00"
-    },
-    {
-      "id": "047df7d5",
-      "image": "img/047df7d5.png",
-      "image_sha": "09f373d4599bc4f6b32305cd5e19d79599430880",
-      "url": "https://www.radiodos.com.ar/209189-multitudes-en-todo-el-pais-despidieron-al-indio-solari-se-esperan-definiciones-sobre-el-velorio-del-domingo",
-      "title": "Multitudes en todo el país despidieron al Indio Solari: se esperan definiciones sobre el velorio del domingo",
-      "volanta": "SIGUE LA CONMOCIÓN",
-      "date": "2026-06-06T14:28:57+00:00"
     }
   ]
 }
