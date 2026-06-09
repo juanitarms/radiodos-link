@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T14:10:18+00:00",
+  "updated": "2026-06-09T14:23:27+00:00",
   "posts": [
+    {
+      "id": "9c476844",
+      "image": "img/9c476844.png",
+      "image_sha": "f19726744548eb09ebae7bbb469cbccbffcdaf16",
+      "url": "https://www.radiodos.com.ar/209325-titular-de-vn-en-corrientes-ratifico-que-las-obras-de-la-autovia-r12-se-retomaran-el-1-julio-y-se-concluiran-en-14-meses",
+      "title": "Titular de VN en Corrientes ratificó que las obras de la Autovía R12 se retomarán el 1 julio y se concluirán en 14 meses",
+      "volanta": "CONFERENCIA DE PRENSA",
+      "date": "2026-06-09T14:23:27+00:00"
+    },
     {
       "id": "0757699c",
       "image": "img/0757699c.png",
@@ -531,15 +540,6 @@
       "title": "SECUESTRAron MÁS DE UN LADRILLO Y MEDIO DE COCAÍNA Y DEMORAron A DOS SOSPECHOSOS",
       "volanta": "narcomenudeo en goya",
       "date": "2026-06-06T15:43:13+00:00"
-    },
-    {
-      "id": "6090ebc0",
-      "image": "img/6090ebc0.png",
-      "image_sha": "fb830e738e68720e3019a2d4e3ace49f789b3e7e",
-      "url": "https://www.radiodos.com.ar/209190-buscan-a-un-cazador-perdido-en-una-laguna-del-interior-de-corrientes",
-      "title": "Buscan a un cazador perdido en una laguna del interior de Corrientes",
-      "volanta": "DESDE AYER",
-      "date": "2026-06-06T15:41:37+00:00"
     }
   ]
 }
