@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T12:49:48+00:00",
+  "updated": "2026-06-09T13:10:45+00:00",
   "posts": [
+    {
+      "id": "99f33505",
+      "image": "img/99f33505.png",
+      "image_sha": "b3ac557b80c9a801d3aab0a93ca37bd2d73baaef",
+      "url": "https://www.radiodos.com.ar/209312-preferiria-que-no-la-fuerte-confesion-de-nahir-galarza-desde-la-carcel",
+      "title": "\"Preferiría que no...\": la fuerte confesión de Nahir Galarza desde la cárcel",
+      "volanta": "ENTRE RÍOS",
+      "date": "2026-06-09T13:10:45+00:00"
+    },
     {
       "id": "50bea1f9",
       "image": "img/50bea1f9.png",
@@ -531,15 +540,6 @@
       "title": "La promo del Capitán: hasta 50% de descuento con tarjetas del Banco de Corrientes por el Día del Padre",
       "volanta": "PROMO ESPECIAL",
       "date": "2026-06-05T23:04:51+00:00"
-    },
-    {
-      "id": "53d75cd5",
-      "image": "img/53d75cd5.png",
-      "image_sha": "9a33fc8bd673dca88fd14df3f041791cafb1b757",
-      "url": "https://www.radiodos.com.ar/209186-un-hombre-murio-tras-una-descarga-electrica-en-una-ivivienda-del-barrio-san-jose",
-      "title": "Un hombre murió tras una descarga eléctrica en una ivivienda del barrio San José",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-05T22:48:27+00:00"
     }
   ]
 }
