@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T21:37:38+00:00",
+  "updated": "2026-06-09T21:38:55+00:00",
   "posts": [
+    {
+      "id": "b54c204d",
+      "image": "img/b54c204d.png",
+      "image_sha": "842d08d0ac9eaed979eb51b4d30cb44d35c288f8",
+      "url": "https://www.radiodos.com.ar/209349-la-industria-y-la-construccion-volvieron-a-ubicarse-en-terreno-negativo-en-abril",
+      "title": "La industria y la construcción volvieron a ubicarse en terreno negativo en abril",
+      "volanta": "NUMEROS PREOCUPANTES",
+      "date": "2026-06-09T21:38:55+00:00"
+    },
     {
       "id": "fcc959df",
       "image": "img/fcc959df.png",
@@ -531,15 +540,6 @@
       "title": "Con múltiples ofertas, las Ferias de la Ciudad recorren plazas y espacios públicos",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-06-08T13:08:11+00:00"
-    },
-    {
-      "id": "8faf1584",
-      "image": "img/8faf1584.png",
-      "image_sha": "4900b7bdfdd4827892f23cef83f0c7ce4f376711",
-      "url": "https://www.radiodos.com.ar/209242-las-ventas-minoristas-pyme-descendieron-12-interanual-en-mayo",
-      "title": "Las ventas minoristas pyme descendieron 1,2% interanual en mayo",
-      "volanta": "COMUNICADO DE PRENSA",
-      "date": "2026-06-08T12:45:01+00:00"
     }
   ]
 }
