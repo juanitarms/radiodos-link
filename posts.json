@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T16:25:00+00:00",
+  "updated": "2026-06-09T16:26:19+00:00",
   "posts": [
+    {
+      "id": "372d25bd",
+      "image": "img/372d25bd.png",
+      "image_sha": "ce9a695a44303cba4ca6c1348d52d48c162051df",
+      "url": "https://www.radiodos.com.ar/209330-activaron-el-alerta-sofia-por-la-desaparicion-de-luciana-alarcon-en-cordoba",
+      "title": "Activaron el Alerta Sofía por la desaparición de Luciana Alarcón en Córdoba",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-09T16:26:19+00:00"
+    },
     {
       "id": "894713c4",
       "image": "img/894713c4.png",
@@ -531,15 +540,6 @@
       "title": "Argentina aprobó ante Honduras su primer amistoso rumbo al Mundial",
       "volanta": "FÚTBOL",
       "date": "2026-06-07T12:31:00+00:00"
-    },
-    {
-      "id": "c8e2d559",
-      "image": "img/c8e2d559.png",
-      "image_sha": "72d5f6368a78c05c8e467ffbd21fad38e1313317",
-      "url": "https://www.radiodos.com.ar/209212-mauro-icardi-y-wanda-nara-cara-a-cara-de-nuevo-asi-fue-el-reencuentro-por-sus-hijas",
-      "title": "Mauro Icardi y Wanda Nara, cara a cara de nuevo: así fue el reencuentro por sus hijas",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-06-07T01:58:43+00:00"
     }
   ]
 }
