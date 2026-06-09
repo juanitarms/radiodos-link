@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T18:01:25+00:00",
+  "updated": "2026-06-09T19:44:55+00:00",
   "posts": [
+    {
+      "id": "38df2c38",
+      "image": "img/38df2c38.png",
+      "image_sha": "f4fa6314a4f9ac2af95f56fc9c86851fbfb29853",
+      "url": "https://www.radiodos.com.ar/209338-mundial-2026-quienes-relataran-a-la-seleccion-argentina-en-cada-canal-de-tv-y-streaming",
+      "title": "Mundial 2026: quiénes relatarán a la Selección Argentina en cada canal de TV y streaming",
+      "volanta": "DEFINIDO",
+      "date": "2026-06-09T19:44:55+00:00"
+    },
     {
       "id": "c14c75d0",
       "image": "img/c14c75d0.png",
@@ -531,15 +540,6 @@
       "title": "El primer Festival Ambiental de la ciudad reafirmó el compromiso municipal y la conciencia ecológica",
       "volanta": "CORRIENTES",
       "date": "2026-06-07T18:31:23+00:00"
-    },
-    {
-      "id": "5f050e3f",
-      "image": "img/5f050e3f.png",
-      "image_sha": "6eb8081d2ed9510a54ba6f2f881a0498cc593dfd",
-      "url": "https://www.radiodos.com.ar/209218-comenzo-el-velatorio-del-indio-solari-y-una-marea-humana-le-da-el-ultimo-adios",
-      "title": "Comenzó el velatorio del Indio Solari y una marea humana le da el último adiós",
-      "volanta": "Avellaneda",
-      "date": "2026-06-07T17:10:32+00:00"
     }
   ]
 }
