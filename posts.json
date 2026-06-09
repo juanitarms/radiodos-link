@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T15:01:10+00:00",
+  "updated": "2026-06-09T16:24:28+00:00",
   "posts": [
+    {
+      "id": "2b8b1868",
+      "image": "img/2b8b1868.png",
+      "image_sha": "fb3af46ef7a68c17c91f91d639f5478a2d5ca0c7",
+      "url": "https://www.radiodos.com.ar/209333-a-tres-meses-del-estallido-del-escandalo-finalmente-manuel-adorni-presentara-su-declaracion-jurada",
+      "title": "A tres meses del estallido del escándalo, finalmente Manuel Adorni presentará su declaración jurada",
+      "volanta": "LARGA ESPERA",
+      "date": "2026-06-09T16:24:28+00:00"
+    },
     {
       "id": "61f0a7a7",
       "image": "img/61f0a7a7.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand se mostró afectada por la muerte de Indio Solari: \"Lo admiraba mucho\"",
       "volanta": "SINCERA",
       "date": "2026-06-07T01:58:10+00:00"
-    },
-    {
-      "id": "39fad119",
-      "image": "img/39fad119.png",
-      "image_sha": "16f1389843123b94ea3385a729402f9070e3ee64",
-      "url": "https://www.radiodos.com.ar/209206-el-acceso-a-internet-se-fortalece-en-corrientes-y-en-todo-el-nea",
-      "title": "El acceso a internet se fortalece en Corrientes y en todo el NEA",
-      "volanta": "SERVICIO",
-      "date": "2026-06-07T00:55:56+00:00"
     }
   ]
 }
