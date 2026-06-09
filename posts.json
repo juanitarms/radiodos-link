@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T16:24:28+00:00",
+  "updated": "2026-06-09T16:25:00+00:00",
   "posts": [
+    {
+      "id": "894713c4",
+      "image": "img/894713c4.png",
+      "image_sha": "7ef7afa1bcd46a69bba45c885395f3da116c45c0",
+      "url": "https://www.radiodos.com.ar/209332-fuerte-terremoto-en-filipinas-dejo-al-menos-36-muertos",
+      "title": "Fuerte terremoto en Filipinas dejó al menos 36 muertos",
+      "volanta": "Imágenes dramáticas",
+      "date": "2026-06-09T16:25:00+00:00"
+    },
     {
       "id": "2b8b1868",
       "image": "img/2b8b1868.png",
@@ -531,15 +540,6 @@
       "title": "Mauro Icardi y Wanda Nara, cara a cara de nuevo: así fue el reencuentro por sus hijas",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-06-07T01:58:43+00:00"
-    },
-    {
-      "id": "2b06a262",
-      "image": "img/2b06a262.png",
-      "image_sha": "ab15e13e889b9acdf623da31a8729d0a2de64269",
-      "url": "https://www.radiodos.com.ar/209214-mirtha-legrand-se-mostro-afectada-por-la-muerte-de-indio-solari-lo-admiraba-mucho",
-      "title": "Mirtha Legrand se mostró afectada por la muerte de Indio Solari: \"Lo admiraba mucho\"",
-      "volanta": "SINCERA",
-      "date": "2026-06-07T01:58:10+00:00"
     }
   ]
 }
