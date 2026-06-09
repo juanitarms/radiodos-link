@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T11:43:44+00:00",
+  "updated": "2026-06-09T11:50:15+00:00",
   "posts": [
+    {
+      "id": "bd796096",
+      "image": "img/bd796096.png",
+      "image_sha": "a24f173633f26929138b4845b0828343dda4223c",
+      "url": "https://www.radiodos.com.ar/209298-confirman-condena-de-siete-anos-de-prision-por-abuso-sexual-con-acceso-carnal",
+      "title": "Confirman condena de siete años de prisión por abuso sexual con acceso carnal",
+      "volanta": "STJ",
+      "date": "2026-06-09T11:50:15+00:00"
+    },
     {
       "id": "80956bb8",
       "image": "img/80956bb8.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de Cristina Kirchner para despedir al Indio Solari: \"Vivir solo cuesta vida\"",
       "volanta": "REDES",
       "date": "2026-06-05T21:01:22+00:00"
-    },
-    {
-      "id": "5c124881",
-      "image": "img/5c124881.png",
-      "image_sha": "ef8244a4354835dd3ec885054b3fd87db52f283d",
-      "url": "https://www.radiodos.com.ar/209177-el-martes-9-se-inicia-el-pago-del-plus-a-empleados-municipales-de-corrientes",
-      "title": "El martes 9 se inicia el pago del plus a empleados municipales de Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-06-05T20:27:29+00:00"
     }
   ]
 }
