@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T18:00:53+00:00",
+  "updated": "2026-06-09T18:01:25+00:00",
   "posts": [
+    {
+      "id": "c14c75d0",
+      "image": "img/c14c75d0.png",
+      "image_sha": "1bdf9a3ab2ff116372451cfe210a9c6169fc5533",
+      "url": "https://www.radiodos.com.ar/209337-demoraron-a-un-hombre-con-pedido-de-localizacion",
+      "title": "Demoraron a un hombre con pedido de localización",
+      "volanta": "SEGURIDAD Y PREVENCIÓN",
+      "date": "2026-06-09T18:01:25+00:00"
+    },
     {
       "id": "52ce0e30",
       "image": "img/52ce0e30.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el velatorio del Indio Solari y una marea humana le da el último adiós",
       "volanta": "Avellaneda",
       "date": "2026-06-07T17:10:32+00:00"
-    },
-    {
-      "id": "4b23276f",
-      "image": "img/4b23276f.png",
-      "image_sha": "2139521de290be00a9e936fdd84e7ac1cbba1521",
-      "url": "https://www.radiodos.com.ar/209216-estafas-en-alvear-y-la-cruz-robaban-datos-de-abuelas-para-sacar-creditos",
-      "title": "Estafas en Alvear y La Cruz: robaban datos de abuelas para sacar créditos",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-07T14:00:37+00:00"
     }
   ]
 }
