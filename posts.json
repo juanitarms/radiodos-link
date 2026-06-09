@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T19:44:55+00:00",
+  "updated": "2026-06-09T19:45:27+00:00",
   "posts": [
+    {
+      "id": "650f93f8",
+      "image": "img/650f93f8.png",
+      "image_sha": "944d9ff870c06993ebbe4940094a5c1e5e892499",
+      "url": "https://www.radiodos.com.ar/209341-corrientes-fue-sede-de-una-reunion-regional-de-ministros-de-salud-del-litoral-con-participacion-de-la-ops",
+      "title": "Corrientes fue sede de una reunión regional de ministros de Salud del Litoral con participación de la OPS",
+      "volanta": "ENCUENTRO INSTITUCIONAL",
+      "date": "2026-06-09T19:45:27+00:00"
+    },
     {
       "id": "38df2c38",
       "image": "img/38df2c38.png",
@@ -531,15 +540,6 @@
       "title": "Un correntino se convirtió en millonario: ganó más de $1400 millones con el Quini 6",
       "volanta": "MODALIDAD LA SEGUNDA",
       "date": "2026-06-08T10:18:58+00:00"
-    },
-    {
-      "id": "d3d7fbc7",
-      "image": "img/d3d7fbc7.png",
-      "image_sha": "9214e07f95bd29302d3d8647cb640ac6cbf285fd",
-      "url": "https://www.radiodos.com.ar/209217-el-primer-festival-ambiental-de-la-ciudad-reafirmo-el-compromiso-municipal-y-la-conciencia-ecologica",
-      "title": "El primer Festival Ambiental de la ciudad reafirmó el compromiso municipal y la conciencia ecológica",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-07T18:31:23+00:00"
     }
   ]
 }
