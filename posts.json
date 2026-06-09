@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T20:34:52+00:00",
+  "updated": "2026-06-09T20:36:40+00:00",
   "posts": [
+    {
+      "id": "1031b60d",
+      "image": "img/1031b60d.png",
+      "image_sha": "df44ae5dc5f4a78237dfca418f21676e01d0e4cf",
+      "url": "https://www.radiodos.com.ar/209342-cuqui-calvano-presento-proyectos-para-fortalecer-la-causa-malvinas-en-corrientes",
+      "title": "Cuqui Calvano presentó proyectos para fortalecer la causa Malvinas en Corrientes",
+      "volanta": "EN DIPUTADOS",
+      "date": "2026-06-09T20:36:40+00:00"
+    },
     {
       "id": "9b07bfe3",
       "image": "img/9b07bfe3.png",
@@ -531,15 +540,6 @@
       "title": "Finalizó el último adiós al Indio Solari:  Más de un millón de personas se unieron en una despedida histórica",
       "volanta": "Rock argentino",
       "date": "2026-06-08T11:48:55+00:00"
-    },
-    {
-      "id": "3cc6b4a1",
-      "image": "img/3cc6b4a1.png",
-      "image_sha": "77f045041205f8c54353a93d0295a00b7ad72ef2",
-      "url": "https://www.radiodos.com.ar/209235-corrientes-dura-condena-al-hombre-que-asesino-a-punaladas-a-un-joven",
-      "title": "Corrientes: dura condena al hombre que asesinó a puñaladas a un joven",
-      "volanta": "GOYA",
-      "date": "2026-06-08T11:37:22+00:00"
     }
   ]
 }
