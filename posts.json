@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T13:49:23+00:00",
+  "updated": "2026-06-09T13:59:47+00:00",
   "posts": [
+    {
+      "id": "766868f4",
+      "image": "img/766868f4.png",
+      "image_sha": "5dc4e7d53d0a335ac7fd8adc0b63a2063bf18068",
+      "url": "https://www.radiodos.com.ar/209322-asi-fue-el-casamiento-secreto-de-sofia-jujuy-jimenez-con-su-novio",
+      "title": "Así fue el casamiento secreto de Sofía Jujuy Jiménez con su novio",
+      "volanta": "SE LE DIÓ",
+      "date": "2026-06-09T13:59:47+00:00"
+    },
     {
       "id": "dc548524",
       "image": "img/dc548524.png",
@@ -531,15 +540,6 @@
       "title": "Multitudes en todo el país despidieron al Indio Solari: se esperan definiciones sobre el velorio del domingo",
       "volanta": "SIGUE LA CONMOCIÓN",
       "date": "2026-06-06T14:28:57+00:00"
-    },
-    {
-      "id": "dcd99608",
-      "image": "img/dcd99608.png",
-      "image_sha": "af5d217ea1dc5221ad92dfa8eeac6a547e80d2f3",
-      "url": "https://www.radiodos.com.ar/209188-corrientes-dramatico-rescate-de-caballos-atascados-en-el-barro-de-un-zanjon",
-      "title": "Corrientes: dramático rescate de caballos atascados en el barro de un zanjón",
-      "volanta": "ACCESO AL PERICHÓN",
-      "date": "2026-06-06T14:06:55+00:00"
     }
   ]
 }
