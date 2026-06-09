@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T11:19:51+00:00",
+  "updated": "2026-06-09T11:43:44+00:00",
   "posts": [
+    {
+      "id": "80956bb8",
+      "image": "img/80956bb8.png",
+      "image_sha": "dda01c1faefa4f374b9353a0307932c648fade48",
+      "url": "https://www.radiodos.com.ar/209300-corrientes-circulaban-con-mas-de-200-kilos-de-dorados-transportados-en-un-auto",
+      "title": "Corrientes: circulaban con más de 200 kilos de dorados transportados en un auto",
+      "volanta": "HACE INSTANTES",
+      "date": "2026-06-09T11:43:44+00:00"
+    },
     {
       "id": "5b9fe672",
       "image": "img/5b9fe672.png",
@@ -531,15 +540,6 @@
       "title": "El martes 9 se inicia el pago del plus a empleados municipales de Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-06-05T20:27:29+00:00"
-    },
-    {
-      "id": "2a8b0dc6",
-      "image": "img/2a8b0dc6.png",
-      "image_sha": "f037aee239be9e82ab58fd88b1b991dff281456a",
-      "url": "https://www.radiodos.com.ar/209174-en-el-dia-mundial-del-medio-ambiente-la-provincia-fortalece-el-compromiso-de-cuidar-el-planeta",
-      "title": "En el Día Mundial del Medio Ambiente, la Provincia fortalece el compromiso de cuidar el planeta",
-      "volanta": "ENCUENTRO “NUESTRAS VOCES POR LA TIERRA”",
-      "date": "2026-06-05T19:57:06+00:00"
     }
   ]
 }
