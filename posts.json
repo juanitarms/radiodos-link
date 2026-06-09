@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T12:06:22+00:00",
+  "updated": "2026-06-09T12:15:07+00:00",
   "posts": [
+    {
+      "id": "a970b74a",
+      "image": "img/a970b74a.png",
+      "image_sha": "3f1a49f76c81c6551b4c8b37a1fffa0020c96ace",
+      "url": "https://www.radiodos.com.ar/209296-dos-casos-en-capital-efectivos-policiales-reanimaron-a-dos-bebes-y-les-salvaron-la-vida",
+      "title": "Dos casos en Capital: efectivos policiales reanimaron a dos bebés y les salvaron la vida",
+      "volanta": "LLAMADOS DE EMERGENCIA",
+      "date": "2026-06-09T12:15:07+00:00"
+    },
     {
       "id": "594730a4",
       "image": "img/594730a4.png",
@@ -531,15 +540,6 @@
       "title": "Eduardo Vischi: \"El Gobierno Nacional busca responsables afuera de cosas que no puede resolver internamente\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-06-05T21:39:55+00:00"
-    },
-    {
-      "id": "2b91741b",
-      "image": "img/2b91741b.png",
-      "image_sha": "b33285319d63e729c429e1b9522fce2ee6e020d8",
-      "url": "https://www.radiodos.com.ar/209182-lo-atacaron-a-machetazos-en-una-pelea-y-termino-en-el-hospital-escuela",
-      "title": "Lo atacaron a machetazos en una pelea y terminó en el hospital Escuela",
-      "volanta": "VIOLENCIA",
-      "date": "2026-06-05T21:04:51+00:00"
     }
   ]
 }
