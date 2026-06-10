@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T12:59:13+00:00",
+  "updated": "2026-06-10T13:18:29+00:00",
   "posts": [
+    {
+      "id": "62734ec4",
+      "image": "img/62734ec4.png",
+      "image_sha": "8ea6e696aa5b11a6a5a12b680835f6c0774f8801",
+      "url": "https://www.radiodos.com.ar/209378-hablo-la-mama-de-la-nina-l-tras-la-aparicion-de-su-hija-en-cordoba-no-se-lo-deseo-a-nadie",
+      "title": "Habló la mamá de la niña L tras la aparición de su hija en Córdoba: \"No se lo deseo a nadie\"",
+      "volanta": "Intensa búsqueda",
+      "date": "2026-06-10T13:18:29+00:00"
+    },
     {
       "id": "ac0fe084",
       "image": "img/ac0fe084.png",
@@ -531,15 +540,6 @@
       "title": "Habilitarán en la UNNE un punto de recolección de antimicrobianos en desuso",
       "volanta": "COMPROMISO INSTITUCIONAL",
       "date": "2026-06-08T18:36:02+00:00"
-    },
-    {
-      "id": "b980dfd1",
-      "image": "img/b980dfd1.png",
-      "image_sha": "b03a6a4fad36d2d8ea1005d146467d0a9aa87cf5",
-      "url": "https://www.radiodos.com.ar/209266-corrientes-fortalece-su-agenda-de-innovacion-e-internacionalizacion",
-      "title": "Corrientes fortalece su agenda de innovación e internacionalización",
-      "volanta": "FEPY 2026 DE PARAGUAY",
-      "date": "2026-06-08T17:05:29+00:00"
     }
   ]
 }
