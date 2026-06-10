@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T19:02:12+00:00",
+  "updated": "2026-06-10T20:29:37+00:00",
   "posts": [
+    {
+      "id": "e158afdf",
+      "image": "img/e158afdf.png",
+      "image_sha": "c61bfa63b483fa19e58a5a1e5a71b6ff374f3d9f",
+      "url": "https://www.radiodos.com.ar/209392-polich-sobre-el-corredor-belgrano-buscamos-coparticipar-en-el-tramo-que-nos-toca-en-lo-que-se-cobra-por-peaje",
+      "title": "“Los vecinos de corrientes no tienen porque seguir pagando el mantenimiento del corredor Belgrano cuando hay un peaje”",
+      "volanta": "claudio polich",
+      "date": "2026-06-10T20:29:37+00:00"
+    },
     {
       "id": "dfb384f8",
       "image": "img/dfb384f8.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno asegura que Adorni presentará su declaración jurada esta semana",
       "volanta": "FUNCIONARIO INVESTIGADO",
       "date": "2026-06-08T21:19:36+00:00"
-    },
-    {
-      "id": "077bd2bc",
-      "image": "img/077bd2bc.png",
-      "image_sha": "e07a8c608370cb69c3e87b066cfa28f27cad10ce",
-      "url": "https://www.radiodos.com.ar/209280-corrientes-fue-sede-de-una-reunion-federal-para-coordinar-acciones-ante-el-fenomeno-el-nino",
-      "title": "Corrientes fue sede de una reunión federal para coordinar acciones ante el fenómeno El Niño",
-      "volanta": "CASA DE GOBIERNO",
-      "date": "2026-06-08T21:18:15+00:00"
     }
   ]
 }
