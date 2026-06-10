@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T21:19:18+00:00",
+  "updated": "2026-06-10T21:27:31+00:00",
   "posts": [
+    {
+      "id": "9dd37f76",
+      "image": "img/9dd37f76.png",
+      "image_sha": "27317306309d4075e846055bb1f0faddbd9b642c",
+      "url": "https://www.radiodos.com.ar/209403-mandiyu-vencio-a-huracan-y-se-metio-en-una-nueva-final",
+      "title": "Mandiyú venció a Huracán y se metió en una nueva final",
+      "volanta": "FÚTBOL CORRENTINO",
+      "date": "2026-06-10T21:27:31+00:00"
+    },
     {
       "id": "695f368e",
       "image": "img/695f368e.png",
@@ -531,15 +540,6 @@
       "title": "Los patentamientos de autos en Corrientes cayeron un 28,9% interanual en mayo",
       "volanta": "Efecto desplome:",
       "date": "2026-06-08T23:26:16+00:00"
-    },
-    {
-      "id": "f1790757",
-      "image": "img/f1790757.png",
-      "image_sha": "ede4abcff928215cd91aab97d6a4399353b27f8f",
-      "url": "https://www.radiodos.com.ar/209286-se-lanzo-la-mesa-tecnica-del-corredor-gran-corrientes-para-potenciar-el-turismo-regional",
-      "title": "Se lanzó la Mesa Técnica del Corredor Gran Corrientes para potenciar el turismo regional",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-08T23:10:45+00:00"
     }
   ]
 }
