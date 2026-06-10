@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T14:37:02+00:00",
+  "updated": "2026-06-10T14:54:23+00:00",
   "posts": [
+    {
+      "id": "fcd2efaf",
+      "image": "img/fcd2efaf.png",
+      "image_sha": "b1fd62bfd8d37228fe1bb1b52dce91c93fd7f50c",
+      "url": "https://www.radiodos.com.ar/209389-le-amputaron-una-pierna-tras-ser-atropellado-el-responsable-esta-profugo-",
+      "title": "Le amputaron una pierna tras ser atropellado: el responsable está prófugo",
+      "volanta": "BARRIO PUJOL",
+      "date": "2026-06-10T14:54:23+00:00"
+    },
     {
       "id": "a2708d04",
       "image": "img/a2708d04.png",
@@ -531,15 +540,6 @@
       "title": "Presentan pedidos de jury contra los fiscales que investigaron el femicidio de Agostina Vega",
       "volanta": "CÓRDOBA",
       "date": "2026-06-08T20:39:11+00:00"
-    },
-    {
-      "id": "8fa67ce8",
-      "image": "img/8fa67ce8.png",
-      "image_sha": "a2e00dbd363e631595b1fea59fa7a2b41d19c7fa",
-      "url": "https://www.radiodos.com.ar/209272-todavia-no-conocemos-al-ganador-afirmo-la-propietaria-de-la-agencia-de-quiniela-que-vendio-el-quini-6",
-      "title": "\"Todavía no conocemos al ganador\": afirmó la propietaria de la agencia de quiniela que vendió el Quini 6",
-      "volanta": "DESCONOCIDO",
-      "date": "2026-06-08T19:34:43+00:00"
     }
   ]
 }
