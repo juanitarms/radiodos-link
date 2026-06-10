@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T13:18:29+00:00",
+  "updated": "2026-06-10T13:33:34+00:00",
   "posts": [
+    {
+      "id": "0f9fc06a",
+      "image": "img/0f9fc06a.png",
+      "image_sha": "0b8b251eba047c73291b62c1ff9ba8166623baed",
+      "url": "https://www.radiodos.com.ar/209383-danelik-exploto-tras-la-salida-de-brian-sarmiento-de-gran-hermano-moralistas-de-carton",
+      "title": "Danelik explotó tras la salida de Brian Sarmiento de Gran Hermano: \"Moralistas de cartón\"",
+      "volanta": "ENOJADA",
+      "date": "2026-06-10T13:33:34+00:00"
+    },
     {
       "id": "62734ec4",
       "image": "img/62734ec4.png",
@@ -531,15 +540,6 @@
       "title": "Demoran a varias personas y secuestran elementos aparentemente robados",
       "volanta": "SEGURIDAD Y PREVENCION",
       "date": "2026-06-08T18:58:25+00:00"
-    },
-    {
-      "id": "01d22e02",
-      "image": "img/01d22e02.png",
-      "image_sha": "426fd283dcfdc7d4d54991058646c042040c5dfb",
-      "url": "https://www.radiodos.com.ar/209274-habilitaran-en-la-unne-un-punto-de-recoleccion-de-antimicrobianos-en-desuso",
-      "title": "Habilitarán en la UNNE un punto de recolección de antimicrobianos en desuso",
-      "volanta": "COMPROMISO INSTITUCIONAL",
-      "date": "2026-06-08T18:36:02+00:00"
     }
   ]
 }
