@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T14:54:23+00:00",
+  "updated": "2026-06-10T15:18:18+00:00",
   "posts": [
+    {
+      "id": "c5295444",
+      "image": "img/c5295444.png",
+      "image_sha": "8a3b75e8cbd3766ba1a76e075ed525a92f5f18e3",
+      "url": "https://www.radiodos.com.ar/209390-premian-trabajo-de-un-becario-doctoral-de-facena-en-el-encuentro-nacional-de-nanotecnologia",
+      "title": "Premian trabajo de un Becario Doctoral de FaCENA en el encuentro nacional de nanotecnología",
+      "volanta": "DESTACADO",
+      "date": "2026-06-10T15:18:18+00:00"
+    },
     {
       "id": "fcd2efaf",
       "image": "img/fcd2efaf.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: un hombre murió arrollado por un camión por avenida Ferré",
       "volanta": "HACE INSTANTES",
       "date": "2026-06-08T20:48:07+00:00"
-    },
-    {
-      "id": "a75a393a",
-      "image": "img/a75a393a.png",
-      "image_sha": "e8773b697c9c8d9fabd71bc67404230aafbe6f34",
-      "url": "https://www.radiodos.com.ar/209279-presentan-pedidos-de-jury-contra-los-fiscales-que-investigaron-el-femicidio-de-agostina-vega",
-      "title": "Presentan pedidos de jury contra los fiscales que investigaron el femicidio de Agostina Vega",
-      "volanta": "CÓRDOBA",
-      "date": "2026-06-08T20:39:11+00:00"
     }
   ]
 }
