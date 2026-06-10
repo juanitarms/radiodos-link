@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T13:33:34+00:00",
+  "updated": "2026-06-10T14:01:54+00:00",
   "posts": [
+    {
+      "id": "cc7a14ad",
+      "image": "img/cc7a14ad.png",
+      "image_sha": "3c681b12a55b1d07e34b41af6ab8c4d2b3b698f9",
+      "url": "https://www.radiodos.com.ar/209384-juan-gil-navarro-sorprendio-con-una-romantica-declaracion-para-su-novia-25-anos-menor",
+      "title": "Juan Gil Navarro sorprendió con una romántica declaración para su novia 25 años menor",
+      "volanta": "ENAMORADO",
+      "date": "2026-06-10T14:01:54+00:00"
+    },
     {
       "id": "0f9fc06a",
       "image": "img/0f9fc06a.png",
@@ -531,15 +540,6 @@
       "title": "A un paso de asumir como nuevo DT: Boca acelera por el regreso del Vasco Arruabarrena",
       "volanta": "NUEVA GESTIÓN",
       "date": "2026-06-08T18:58:56+00:00"
-    },
-    {
-      "id": "f41e95e9",
-      "image": "img/f41e95e9.png",
-      "image_sha": "55c64986dc0fc7f883b12c9c901b6601fe77e7b5",
-      "url": "https://www.radiodos.com.ar/209271-demoran-a-varias-personas-y-secuestran-elementos-aparentemente-robados",
-      "title": "Demoran a varias personas y secuestran elementos aparentemente robados",
-      "volanta": "SEGURIDAD Y PREVENCION",
-      "date": "2026-06-08T18:58:25+00:00"
     }
   ]
 }
