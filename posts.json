@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T20:29:37+00:00",
+  "updated": "2026-06-10T20:31:30+00:00",
   "posts": [
+    {
+      "id": "6972cf66",
+      "image": "img/6972cf66.png",
+      "image_sha": "68274957b4318f7c977c00e13acc9de62dd8a9e1",
+      "url": "https://www.radiodos.com.ar/209399-corrientes-cazadores-furtivos-cayeron-con-10-medias-reses-de-ciervos",
+      "title": "Corrientes: cazadores furtivos cayeron con 10 medias reses de ciervos",
+      "volanta": "SAUCE",
+      "date": "2026-06-10T20:31:30+00:00"
+    },
     {
       "id": "e158afdf",
       "image": "img/e158afdf.png",
@@ -531,15 +540,6 @@
       "title": "Buscan desesperadamente a un menor de 14 años desaparecido en el barrio Chiquita",
       "volanta": "CORRIENTES",
       "date": "2026-06-08T21:52:12+00:00"
-    },
-    {
-      "id": "7c80bef3",
-      "image": "img/7c80bef3.png",
-      "image_sha": "ae010186836feb470970b20ff2d0f8c236f1da93",
-      "url": "https://www.radiodos.com.ar/209284-el-gobierno-asegura-que-adorni-presentara-su-declaracion-jurada-esta-semana",
-      "title": "El Gobierno asegura que Adorni presentará su declaración jurada esta semana",
-      "volanta": "FUNCIONARIO INVESTIGADO",
-      "date": "2026-06-08T21:19:36+00:00"
     }
   ]
 }
