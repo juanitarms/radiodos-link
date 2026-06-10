@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T12:26:28+00:00",
+  "updated": "2026-06-10T12:36:28+00:00",
   "posts": [
+    {
+      "id": "eaa998ec",
+      "image": "img/eaa998ec.png",
+      "image_sha": "b3355431845f2e96b8e494e2b380115ec7194df7",
+      "url": "https://www.radiodos.com.ar/209362-alerta-por-nuevas-peleas-entre-pandillas-en-corrientes-hay-un-menor-de-11-anos-herido-de-un-disparo",
+      "title": "Alerta por nuevas peleas entre \"pandillas\" en Corrientes: hay un menor de 11 años herido de un disparo",
+      "volanta": "CRECE LA TENSIÓN",
+      "date": "2026-06-10T12:36:28+00:00"
+    },
     {
       "id": "feb3f1b1",
       "image": "img/feb3f1b1.png",
@@ -531,15 +540,6 @@
       "title": "Tras el reclamo de Trump y pese al rechazo del campo, el Gobierno avanza en el control de semillas",
       "volanta": "ECONOMÍA",
       "date": "2026-06-08T16:31:52+00:00"
-    },
-    {
-      "id": "e7a9a81c",
-      "image": "img/e7a9a81c.png",
-      "image_sha": "7215ea98611c46408139cf087fb7880604279bfa",
-      "url": "https://www.radiodos.com.ar/209268-se-vuelve-a-disparar-el-precio-del-petroleo-y-amenaza-con-fogonear-todavia-mas-la-inflacion",
-      "title": "Se vuelve a disparar el precio del petróleo y amenaza con fogonear todavía más la inflación",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-08T16:07:50+00:00"
     }
   ]
 }
