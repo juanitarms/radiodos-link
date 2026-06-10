@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T19:01:40+00:00",
+  "updated": "2026-06-10T19:02:12+00:00",
   "posts": [
+    {
+      "id": "dfb384f8",
+      "image": "img/dfb384f8.png",
+      "image_sha": "2afbe5b8d6185497cc572c8cf561a582e4bd52d9",
+      "url": "https://www.radiodos.com.ar/209393-ricardo-darin-sobre-el-gobierno-de-javier-milei-hay-gente-que-la-esta-pasando-realmente-muy-mal",
+      "title": "Ricardo Darín sobre el gobierno de Javier Milei: \"Hay gente que la está pasando realmente muy mal\"",
+      "volanta": "REFLEXIVO",
+      "date": "2026-06-10T19:02:12+00:00"
+    },
     {
       "id": "a996794b",
       "image": "img/a996794b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fue sede de una reunión federal para coordinar acciones ante el fenómeno El Niño",
       "volanta": "CASA DE GOBIERNO",
       "date": "2026-06-08T21:18:15+00:00"
-    },
-    {
-      "id": "ceb0a843",
-      "image": "img/ceb0a843.png",
-      "image_sha": "93965bc7a9d1033a859ec4eae0e76ff738aacf48",
-      "url": "https://www.radiodos.com.ar/209277-corrientes-hallaron-mas-de-200-m-de-pesos-en-un-auto-que-choco-contra-retroexcavadora",
-      "title": "Corrientes: hallaron más de 200 millones de pesos en un auto que chocó contra una retroexcavadora",
-      "volanta": "CERCA DE ESQUINA",
-      "date": "2026-06-08T20:54:33+00:00"
     }
   ]
 }
