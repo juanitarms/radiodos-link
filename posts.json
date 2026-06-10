@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T15:55:46+00:00",
+  "updated": "2026-06-10T19:01:03+00:00",
   "posts": [
+    {
+      "id": "523bac86",
+      "image": "img/523bac86.png",
+      "image_sha": "1c004cdd7b680292fd711473985e67f04138ab9d",
+      "url": "https://www.radiodos.com.ar/209395-presentaron-la-xxi°-fiesta-provincial-de-la-boga-y-el-pacu",
+      "title": "Presentaron la XXI° Fiesta Provincial de la Boga y el Pacú",
+      "volanta": "EN CASA DE GOBIERNO",
+      "date": "2026-06-10T19:01:03+00:00"
+    },
     {
       "id": "021bba9f",
       "image": "img/021bba9f.png",
@@ -531,15 +540,6 @@
       "title": "Un operario lucha por su vida tras sufrir graves quemaduras",
       "volanta": "MOCORETÁ",
       "date": "2026-06-08T20:51:58+00:00"
-    },
-    {
-      "id": "e9db9b13",
-      "image": "img/e9db9b13.png",
-      "image_sha": "791398e7ce6808014ea50be2828d20898c2777cf",
-      "url": "https://www.radiodos.com.ar/209281-el-gobernador-juan-pablo-valdes-agasajo-a-los-periodistas-por-su-dia",
-      "title": "El gobernador Juan Pablo Valdés agasajó a los periodistas por su día",
-      "volanta": "EN EL SALÓN AMARILLO",
-      "date": "2026-06-08T20:50:47+00:00"
     }
   ]
 }
