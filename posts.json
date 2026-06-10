@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T21:27:31+00:00",
+  "updated": "2026-06-10T22:03:17+00:00",
   "posts": [
+    {
+      "id": "2fd676c1",
+      "image": "img/2fd676c1.png",
+      "image_sha": "2666bd0ef16d969c0e99fd6b3f11574f419604d9",
+      "url": "https://www.radiodos.com.ar/209406-el-gobierno-anuncio-un-acuerdo-salarial-y-para-el-financiamiento-de-las-universidades",
+      "title": "El Gobierno anunció un acuerdo salarial y para el financiamiento de las universidades",
+      "volanta": "Tras los reclamos,",
+      "date": "2026-06-10T22:03:17+00:00"
+    },
     {
       "id": "9dd37f76",
       "image": "img/9dd37f76.png",
@@ -531,15 +540,6 @@
       "title": "Absolvieron a un jefe del PRIAR acusado de privación ilegítima de la libertad",
       "volanta": "CORRIENTES",
       "date": "2026-06-08T23:27:43+00:00"
-    },
-    {
-      "id": "418d33af",
-      "image": "img/418d33af.png",
-      "image_sha": "19642b293f1beb7dbbe76ba84a6128edd72e1a9c",
-      "url": "https://www.radiodos.com.ar/209290-los-patentamientos-de-autos-en-corrientes-cayeron-un-289-interanual-en-mayo",
-      "title": "Los patentamientos de autos en Corrientes cayeron un 28,9% interanual en mayo",
-      "volanta": "Efecto desplome:",
-      "date": "2026-06-08T23:26:16+00:00"
     }
   ]
 }
