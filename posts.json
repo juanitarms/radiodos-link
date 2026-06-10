@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T19:01:03+00:00",
+  "updated": "2026-06-10T19:01:40+00:00",
   "posts": [
+    {
+      "id": "a996794b",
+      "image": "img/a996794b.png",
+      "image_sha": "cc5ce3c50fb485729151b36a5d5e79a1b5491433",
+      "url": "https://www.radiodos.com.ar/209394-demoraron-a-varias-personas-y-secuestraron-armas-blancas-y-otros-elementos",
+      "title": "Demoraron a varias personas y secuestraron armas blancas y otros elementos",
+      "volanta": "GRUPO DE RESPUESTA INMEDIATA MOTORIZADA Nº5",
+      "date": "2026-06-10T19:01:40+00:00"
+    },
     {
       "id": "523bac86",
       "image": "img/523bac86.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: hallaron más de 200 millones de pesos en un auto que chocó contra una retroexcavadora",
       "volanta": "CERCA DE ESQUINA",
       "date": "2026-06-08T20:54:33+00:00"
-    },
-    {
-      "id": "b39711f9",
-      "image": "img/b39711f9.png",
-      "image_sha": "ce0b18ebd40035ecd7ee5cb73b3fdc672097a71a",
-      "url": "https://www.radiodos.com.ar/209278-un-operario-lucha-por-su-vida-tras-sufrir-graves-quemaduras",
-      "title": "Un operario lucha por su vida tras sufrir graves quemaduras",
-      "volanta": "MOCORETÁ",
-      "date": "2026-06-08T20:51:58+00:00"
     }
   ]
 }
