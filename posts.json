@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T15:18:18+00:00",
+  "updated": "2026-06-10T15:54:42+00:00",
   "posts": [
+    {
+      "id": "9cbab6f8",
+      "image": "img/9cbab6f8.png",
+      "image_sha": "fe42b643b8de612afdcce51822752c0e8bd11c89",
+      "url": "https://www.radiodos.com.ar/209391-juan-pablo-valdes-recibio-al-embajador-de-austria",
+      "title": "Juan Pablo Valdés recibió al embajador de Austria",
+      "volanta": "CASA DE GOBIERNO",
+      "date": "2026-06-10T15:54:42+00:00"
+    },
     {
       "id": "c5295444",
       "image": "img/c5295444.png",
@@ -531,15 +540,6 @@
       "title": "Milei visitará Córdoba para presenciar ejercicios militares junto a tropas de EE.UU",
       "volanta": "este miércoles",
       "date": "2026-06-08T20:49:19+00:00"
-    },
-    {
-      "id": "e033edef",
-      "image": "img/e033edef.png",
-      "image_sha": "eacbe045b6beb8d5de458e6469115bb7d60e2ffc",
-      "url": "https://www.radiodos.com.ar/209283-corrientes-un-hombre-murio-arrollado-por-un-camion-por-avenida-ferre",
-      "title": "Corrientes: un hombre murió arrollado por un camión por avenida Ferré",
-      "volanta": "HACE INSTANTES",
-      "date": "2026-06-08T20:48:07+00:00"
     }
   ]
 }
