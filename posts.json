@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T15:54:42+00:00",
+  "updated": "2026-06-10T15:55:46+00:00",
   "posts": [
+    {
+      "id": "021bba9f",
+      "image": "img/021bba9f.png",
+      "image_sha": "04d97ce66b7fd9fc649690b8510f6da2bfe575dd",
+      "url": "https://www.radiodos.com.ar/209392-polich-sobre-el-corredor-belgrano-buscamos-coparticipar-en-el-tramo-que-nos-toca-en-lo-que-se-cobra-por-peaje",
+      "title": "Polich sobre el corredor Belgrano: \"Buscamos coparticipar en el tramo que nos toca en lo que se cobra por peaje\"",
+      "volanta": "DIÁLOGO CON NACIÓN",
+      "date": "2026-06-10T15:55:46+00:00"
+    },
     {
       "id": "9cbab6f8",
       "image": "img/9cbab6f8.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador Juan Pablo Valdés agasajó a los periodistas por su día",
       "volanta": "EN EL SALÓN AMARILLO",
       "date": "2026-06-08T20:50:47+00:00"
-    },
-    {
-      "id": "bbb4034e",
-      "image": "img/bbb4034e.png",
-      "image_sha": "368c6cbf454d6c1692ea7a2f54b869b51ffd2e0a",
-      "url": "https://www.radiodos.com.ar/209282-milei-visitara-cordoba-para-presenciar-ejercicios-militares-junto-a-tropas-de-eeuu",
-      "title": "Milei visitará Córdoba para presenciar ejercicios militares junto a tropas de EE.UU",
-      "volanta": "este miércoles",
-      "date": "2026-06-08T20:49:19+00:00"
     }
   ]
 }
