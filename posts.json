@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T20:31:30+00:00",
+  "updated": "2026-06-10T21:07:51+00:00",
   "posts": [
+    {
+      "id": "3f2452bd",
+      "image": "img/3f2452bd.png",
+      "image_sha": "195b68e9ca975680f7ad5c2582247567e6190236",
+      "url": "https://www.radiodos.com.ar/209401-goya-robo-un-lavatorio-en-una-capilla-e-intento-venderlo-en-la-calle",
+      "title": "Goya: robó un lavatorio en una capilla e intentó venderlo en la calle",
+      "volanta": "BARRIO SAN RAMON",
+      "date": "2026-06-10T21:07:51+00:00"
+    },
     {
       "id": "6972cf66",
       "image": "img/6972cf66.png",
@@ -531,15 +540,6 @@
       "title": "Un Dj correntino inmortalizó a Tim Payne en su pierna",
       "volanta": "LOCURA MUNDIALISTA",
       "date": "2026-06-08T21:55:00+00:00"
-    },
-    {
-      "id": "57d47c36",
-      "image": "img/57d47c36.png",
-      "image_sha": "534e83d0b556d7ff137b0e15f4750879e50040ad",
-      "url": "https://www.radiodos.com.ar/209289-buscan-desesperadamente-a-un-menor-de-14-anos-desaparecido-en-el-barrio-chiquita",
-      "title": "Buscan desesperadamente a un menor de 14 años desaparecido en el barrio Chiquita",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-08T21:52:12+00:00"
     }
   ]
 }
