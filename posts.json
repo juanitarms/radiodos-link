@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T11:33:31+00:00",
+  "updated": "2026-06-10T12:03:47+00:00",
   "posts": [
+    {
+      "id": "63f159d4",
+      "image": "img/63f159d4.png",
+      "image_sha": "f91dafed98639928544e86dc26cd4b6bc7b590a6",
+      "url": "https://www.radiodos.com.ar/209364-misiones-prefectura-secuestro-mas-de-54-kilos-de-droga-y-detuvo-a-dos-personas",
+      "title": "Misiones: Prefectura secuestró más de 54 kilos de droga y detuvo a dos personas",
+      "volanta": "OPERATIVO",
+      "date": "2026-06-10T12:03:47+00:00"
+    },
     {
       "id": "3de47ef8",
       "image": "img/3de47ef8.png",
@@ -531,15 +540,6 @@
       "title": "Se le cayó el celular a las Cataratas del Iguazú y se tiró al agua para recuperarlo",
       "volanta": "Video viral",
       "date": "2026-06-08T15:01:41+00:00"
-    },
-    {
-      "id": "e56018a3",
-      "image": "img/e56018a3.png",
-      "image_sha": "7a922775e4957a3c6037bc5104bd540035ed3f40",
-      "url": "https://www.radiodos.com.ar/209265-anses-de-cuanto-sera-el-aumento-para-jubilados-en-junio-2026",
-      "title": "ANSES: de cuánto será el aumento para jubilados en junio 2026",
-      "volanta": "INFO ÚTIL",
-      "date": "2026-06-08T14:48:09+00:00"
     }
   ]
 }
