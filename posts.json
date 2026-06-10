@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T14:18:20+00:00",
+  "updated": "2026-06-10T14:37:02+00:00",
   "posts": [
+    {
+      "id": "a2708d04",
+      "image": "img/a2708d04.png",
+      "image_sha": "7b8b1e153af2634ebb2e2144dac8a705f27728af",
+      "url": "https://www.radiodos.com.ar/209377-hay-dos-opciones-lionel-scaloni-adelanto-cuando-anunciara-al-reemplazante-de-leonardo-balerdi",
+      "title": "\"Hay dos opciones\": Lionel Scaloni adelantó cuándo anunciará al reemplazante de Leonardo Balerdi",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-10T14:37:02+00:00"
+    },
     {
       "id": "398ef93d",
       "image": "img/398ef93d.png",
@@ -531,15 +540,6 @@
       "title": "\"Todavía no conocemos al ganador\": afirmó la propietaria de la agencia de quiniela que vendió el Quini 6",
       "volanta": "DESCONOCIDO",
       "date": "2026-06-08T19:34:43+00:00"
-    },
-    {
-      "id": "efca81c4",
-      "image": "img/efca81c4.png",
-      "image_sha": "8ee64d47a5383bbdded21b4cb46ae0e2c3db03b9",
-      "url": "https://www.radiodos.com.ar/209269-el-dueno-de-casa-volvio-a-ser-el-mejor-en-la-segunda-etapa-del-circuito-regional",
-      "title": "El dueño de casa volvió a ser el mejor en la Segunda Etapa del Circuito Regional",
-      "volanta": "Natación",
-      "date": "2026-06-08T18:59:26+00:00"
     }
   ]
 }
