@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T12:36:28+00:00",
+  "updated": "2026-06-10T12:59:13+00:00",
   "posts": [
+    {
+      "id": "ac0fe084",
+      "image": "img/ac0fe084.png",
+      "image_sha": "bfb6d131f644e4c156a91e6f01ba3d03d94ab565",
+      "url": "https://www.radiodos.com.ar/209371-el-mensaje-de-axel-kicillof-a-un-ano-del-fallo-contra-cristina-kirchner-enorme-infamia",
+      "title": "El mensaje de Axel Kicillof a un año del fallo contra Cristina Kirchner: \"Enorme infamia\"",
+      "volanta": "POSTURA",
+      "date": "2026-06-10T12:59:13+00:00"
+    },
     {
       "id": "eaa998ec",
       "image": "img/eaa998ec.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fortalece su agenda de innovación e internacionalización",
       "volanta": "FEPY 2026 DE PARAGUAY",
       "date": "2026-06-08T17:05:29+00:00"
-    },
-    {
-      "id": "284ce4c2",
-      "image": "img/284ce4c2.png",
-      "image_sha": "42b9f3c5b8e97e0831052da72cee64f387005f20",
-      "url": "https://www.radiodos.com.ar/209267-tras-el-reclamo-de-trump-y-pese-al-rechazo-del-campo-el-gobierno-avanza-en-el-control-de-semillas",
-      "title": "Tras el reclamo de Trump y pese al rechazo del campo, el Gobierno avanza en el control de semillas",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-08T16:31:52+00:00"
     }
   ]
 }
