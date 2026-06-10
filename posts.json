@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T21:07:51+00:00",
+  "updated": "2026-06-10T21:19:18+00:00",
   "posts": [
+    {
+      "id": "695f368e",
+      "image": "img/695f368e.png",
+      "image_sha": "6b0f768f534e5022f1eab9cf4dc6454dc17cc7b7",
+      "url": "https://www.radiodos.com.ar/209402-joven-peaton-herida-tras-ser-chocada-en-una-esquina-de-peatonal-junin",
+      "title": "Joven peatón herida tras ser chocada en una esquina de peatonal Junín",
+      "volanta": "pleno centro correntino",
+      "date": "2026-06-10T21:19:18+00:00"
+    },
     {
       "id": "3f2452bd",
       "image": "img/3f2452bd.png",
@@ -531,15 +540,6 @@
       "title": "Se lanzó la Mesa Técnica del Corredor Gran Corrientes para potenciar el turismo regional",
       "volanta": "CORRIENTES",
       "date": "2026-06-08T23:10:45+00:00"
-    },
-    {
-      "id": "b2c9a93c",
-      "image": "img/b2c9a93c.png",
-      "image_sha": "6e818abdcc9101eb4349f9b69a30096294997bb8",
-      "url": "https://www.radiodos.com.ar/209288-un-dj-correntino-inmortalizo-a-tim-payne-en-su-pierna",
-      "title": "Un Dj correntino inmortalizó a Tim Payne en su pierna",
-      "volanta": "LOCURA MUNDIALISTA",
-      "date": "2026-06-08T21:55:00+00:00"
     }
   ]
 }
