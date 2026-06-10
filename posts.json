@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T14:01:54+00:00",
+  "updated": "2026-06-10T14:18:20+00:00",
   "posts": [
+    {
+      "id": "398ef93d",
+      "image": "img/398ef93d.png",
+      "image_sha": "dd77f0aaa005c414c848ce89212e9d949dee9d19",
+      "url": "https://www.radiodos.com.ar/209385-manuel-adorni-se-adhirio-al-regimen-de-inocencia-fiscal",
+      "title": "Manuel Adorni se adhirió al Régimen de Inocencia Fiscal",
+      "volanta": "JEFE DE GABINETE",
+      "date": "2026-06-10T14:18:20+00:00"
+    },
     {
       "id": "cc7a14ad",
       "image": "img/cc7a14ad.png",
@@ -531,15 +540,6 @@
       "title": "El dueño de casa volvió a ser el mejor en la Segunda Etapa del Circuito Regional",
       "volanta": "Natación",
       "date": "2026-06-08T18:59:26+00:00"
-    },
-    {
-      "id": "d52b79da",
-      "image": "img/d52b79da.png",
-      "image_sha": "1222a25b9c230c59a26f8d4a5801474488fbbca1",
-      "url": "https://www.radiodos.com.ar/209270-a-un-paso-de-asumir-como-nuevo-dt-boca-acelera-por-el-regreso-del-vasco-arruabarrena",
-      "title": "A un paso de asumir como nuevo DT: Boca acelera por el regreso del Vasco Arruabarrena",
-      "volanta": "NUEVA GESTIÓN",
-      "date": "2026-06-08T18:58:56+00:00"
     }
   ]
 }
