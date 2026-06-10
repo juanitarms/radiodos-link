@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T22:58:34+00:00",
+  "updated": "2026-06-10T23:15:59+00:00",
   "posts": [
+    {
+      "id": "4d5c89cd",
+      "image": "img/4d5c89cd.png",
+      "image_sha": "993e81992f5ccbdd1c978931023f0fcc19095482",
+      "url": "https://www.radiodos.com.ar/209410-omar-larrosa-se-encamina-a-su-reeleccion-como-rector-de-la-unne",
+      "title": "Omar Larrosa se encamina a su reelección como rector de la UNNE",
+      "volanta": "ENTREVISTA CON RADIO DOS",
+      "date": "2026-06-10T23:15:59+00:00"
+    },
     {
       "id": "d0d21293",
       "image": "img/d0d21293.png",
@@ -531,15 +540,6 @@
       "title": "Era Jefe de Gendarmería en Corrientes el hombre que murió arrollado por un camión",
       "volanta": "POR AVENIDA FERRE",
       "date": "2026-06-09T11:19:51+00:00"
-    },
-    {
-      "id": "348be6c2",
-      "image": "img/348be6c2.png",
-      "image_sha": "18df94fd82e2808e5917b6da778b07f756eb556f",
-      "url": "https://www.radiodos.com.ar/209295-comenzo-el-pago-del-plus-a-empleados-municipales-de-corrientes",
-      "title": "Comenzó  el pago del Plus a empleados municipales de Corrientes",
-      "volanta": "HASTA EL JUEVES 11",
-      "date": "2026-06-09T10:51:43+00:00"
     }
   ]
 }
