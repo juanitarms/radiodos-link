@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-10T11:04:48+00:00",
+  "updated": "2026-06-10T11:33:31+00:00",
   "posts": [
+    {
+      "id": "3de47ef8",
+      "image": "img/3de47ef8.png",
+      "image_sha": "4a0b0b7d3830b4206037534cf958714b93b158e8",
+      "url": "https://www.radiodos.com.ar/209359-ituzaingo-capturaron-a-dos-narcos-con-ladrillos-cocaina-valuados-en-37-millones",
+      "title": "Ituzaingó: capturaron a dos narcos con ladrillos cocaína valuados en $37 millones",
+      "volanta": "Policía Federal",
+      "date": "2026-06-10T11:33:31+00:00"
+    },
     {
       "id": "3f4a0e99",
       "image": "img/3f4a0e99.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: de cuánto será el aumento para jubilados en junio 2026",
       "volanta": "INFO ÚTIL",
       "date": "2026-06-08T14:48:09+00:00"
-    },
-    {
-      "id": "4fdbd4e6",
-      "image": "img/4fdbd4e6.png",
-      "image_sha": "c0780606d3aab37eb750cd48a91ceb910dbf6ed9",
-      "url": "https://www.radiodos.com.ar/209262-argentina-alcanzo-un-nuevo-record-mensual-de-donantes-de-organos",
-      "title": "Argentina alcanzó un nuevo récord mensual de donantes de órganos",
-      "volanta": "BUENA NOTICIA",
-      "date": "2026-06-08T14:31:24+00:00"
     }
   ]
 }
