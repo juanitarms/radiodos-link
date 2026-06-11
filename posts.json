@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:28:56+00:00",
+  "updated": "2026-06-11T21:30:09+00:00",
   "posts": [
+    {
+      "id": "1a4edb1e",
+      "image": "img/1a4edb1e.png",
+      "image_sha": "7bd4b14fa7fe5e84586c9d5fdcbc06f643079df6",
+      "url": "https://www.radiodos.com.ar/209452-senesi-sera-el-reemplazante-de-balerdi-en-la-lista-de-la-seleccion-argentina",
+      "title": "Senesi será el reemplazante de Balerdi en la lista de la Selección Argentina",
+      "volanta": "Mundial 2026",
+      "date": "2026-06-11T21:30:09+00:00"
+    },
     {
       "id": "5095b544",
       "image": "img/5095b544.png",
@@ -531,15 +540,6 @@
       "title": "Cuqui Calvano presentó proyectos para fortalecer la causa Malvinas en Corrientes",
       "volanta": "EN DIPUTADOS",
       "date": "2026-06-09T20:36:40+00:00"
-    },
-    {
-      "id": "9b07bfe3",
-      "image": "img/9b07bfe3.png",
-      "image_sha": "23f4189df459308eaa6133847c6dbf6d3dfffe9c",
-      "url": "https://www.radiodos.com.ar/209343-tras-horas-de-incertidumbre-hallaron-a-la-menor-de-15-anos-desaparecida-en-cordoba",
-      "title": "Tras horas de incertidumbre, hallaron a la menor de 15 años desaparecida en Córdoba",
-      "volanta": "ALERTA SOFIA",
-      "date": "2026-06-09T20:34:52+00:00"
     }
   ]
 }
