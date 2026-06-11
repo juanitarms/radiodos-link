@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T16:17:27+00:00",
+  "updated": "2026-06-11T17:28:20+00:00",
   "posts": [
+    {
+      "id": "98855981",
+      "image": "img/98855981.png",
+      "image_sha": "74681bbd4a39f7c18b4dcac03e78ef2e584d9bf2",
+      "url": "https://www.radiodos.com.ar/209443-el-dr-carranza-torres-presento-su-vision-sobre-la-ia-la-libertad-y-la-justicia",
+      "title": "El Dr Carranza Torres presentó su visión sobre la IA, la libertad y la justicia",
+      "volanta": "En Cámara de Diputados",
+      "date": "2026-06-11T17:28:20+00:00"
+    },
     {
       "id": "f4f31e61",
       "image": "img/f4f31e61.png",
@@ -531,15 +540,6 @@
       "title": "A tres meses del estallido del escándalo, finalmente Manuel Adorni presentará su declaración jurada",
       "volanta": "LARGA ESPERA",
       "date": "2026-06-09T16:24:28+00:00"
-    },
-    {
-      "id": "61f0a7a7",
-      "image": "img/61f0a7a7.png",
-      "image_sha": "74eca83663c5a04bc1cdb72d52185d98c29d2002",
-      "url": "https://www.radiodos.com.ar/209323-juana-tinelli-confeso-de-que-vive-y-sorprendio-a-todos-me-mantengo-sola-desde-que",
-      "title": "Juana Tinelli confesó de qué vive y sorprendió a todos: \"Me mantengo sola desde que...\"",
-      "volanta": "SINCERA",
-      "date": "2026-06-09T15:01:10+00:00"
     }
   ]
 }
