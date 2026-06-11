@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:42:38+00:00",
+  "updated": "2026-06-11T21:43:08+00:00",
   "posts": [
+    {
+      "id": "9cc8eb19",
+      "image": "img/9cc8eb19.png",
+      "image_sha": "0cedb44b383b618615d3d969d5030b1b1d274fe5",
+      "url": "https://www.radiodos.com.ar/209459-no-tiene-justificacion-el-pro-de-mauricio-macri-arremetio-contra-manuel-adorni",
+      "title": "\"No tiene justificación\": El PRO de Mauricio Macri arremetió contra Manuel Adorni",
+      "volanta": "ENRIQUECIMIENTO ILÍCITO",
+      "date": "2026-06-11T21:43:08+00:00"
+    },
     {
       "id": "5f559d71",
       "image": "img/5f559d71.png",
@@ -531,15 +540,6 @@
       "title": "Aguinaldo: la mayor parte de los asalariados lo destinará principalmente al pago de deudas",
       "volanta": "CRISIS",
       "date": "2026-06-09T21:37:38+00:00"
-    },
-    {
-      "id": "df3a4905",
-      "image": "img/df3a4905.png",
-      "image_sha": "06b405d27be86cce7d1ed91fa9c84755237bfeba",
-      "url": "https://www.radiodos.com.ar/209345-corrientes-proyecta-su-primera-cosecha-de-cafe-para-2027",
-      "title": "Corrientes proyecta su primera cosecha de café para 2027",
-      "volanta": "PRODUCCIÓN",
-      "date": "2026-06-09T20:49:37+00:00"
     }
   ]
 }
