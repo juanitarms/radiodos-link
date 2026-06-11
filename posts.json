@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:30:36+00:00",
+  "updated": "2026-06-11T21:42:38+00:00",
   "posts": [
+    {
+      "id": "5f559d71",
+      "image": "img/5f559d71.png",
+      "image_sha": "599d9ff873795645570bf1bc35879d20ff95337a",
+      "url": "https://www.radiodos.com.ar/209460-ministro-jose-irigoyen-el-estado-no-puede-hacer-oidos-sordos-con-el-consumo-problematico",
+      "title": "Ministro José Irigoyen: \"El estado no puede hacer oídos sordos con el consumo problemático\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-06-11T21:42:38+00:00"
+    },
     {
       "id": "3882ddd0",
       "image": "img/3882ddd0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes proyecta su primera cosecha de café para 2027",
       "volanta": "PRODUCCIÓN",
       "date": "2026-06-09T20:49:37+00:00"
-    },
-    {
-      "id": "34419bbf",
-      "image": "img/34419bbf.png",
-      "image_sha": "cf76111a5ed709e0f2a14d57615ee095fe55d2a6",
-      "url": "https://www.radiodos.com.ar/209344-una-tesis-aporto-datos-sobre-el-ciclo-reproductivo-de-una-serpiente-del-nea",
-      "title": "Una tesis aportó datos sobre el ciclo reproductivo de una serpiente del NEA",
-      "volanta": "CIENCIAS BIOLÓGICAS",
-      "date": "2026-06-09T20:37:58+00:00"
     }
   ]
 }
