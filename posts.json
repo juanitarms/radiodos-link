@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T14:41:20+00:00",
+  "updated": "2026-06-11T15:05:14+00:00",
   "posts": [
+    {
+      "id": "287fcb33",
+      "image": "img/287fcb33.png",
+      "image_sha": "4d3deaf64ee20aa16de11b1672c6a3ee69103f4f",
+      "url": "https://www.radiodos.com.ar/209441-recuperaron-una-moto-sustraida-y-demoraron-al-autor-del-hecho",
+      "title": "Recuperaron una moto sustraída y demoraron al autor del hecho",
+      "volanta": "TRABAJO EN CONJUNTO",
+      "date": "2026-06-11T15:05:14+00:00"
+    },
     {
       "id": "7da2dc3b",
       "image": "img/7da2dc3b.png",
@@ -531,15 +540,6 @@
       "title": "Titular de VN en Corrientes ratificó que las obras de la Autovía R12 se retomarán el 1 julio y se concluirán en 14 meses",
       "volanta": "CONFERENCIA DE PRENSA",
       "date": "2026-06-09T14:23:27+00:00"
-    },
-    {
-      "id": "0757699c",
-      "image": "img/0757699c.png",
-      "image_sha": "931ae02a5f6c07851008cc31d722ca902987c25e",
-      "url": "https://www.radiodos.com.ar/209326-hablo-el-abogado-de-la-familia-de-la-joven-desaparecida-en-cordoba-no-se-trato-de-una-travesura",
-      "title": "Habló el abogado de la familia de la joven desaparecida en Córdoba: \"No se trató de una travesura\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-09T14:10:18+00:00"
     }
   ]
 }
