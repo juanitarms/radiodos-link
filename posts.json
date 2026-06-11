@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:43:08+00:00",
+  "updated": "2026-06-11T21:43:38+00:00",
   "posts": [
+    {
+      "id": "0fb154e9",
+      "image": "img/0fb154e9.png",
+      "image_sha": "3de81731a758c870620c93bf47237eec9157ccd1",
+      "url": "https://www.radiodos.com.ar/209455-el-dr-carranza-torres-presento-su-vision-sobre-la-ia-la-libertad-y-la-justicia-en-la-camara-de-diputados",
+      "title": "El Dr Carranza Torres presentó su visión sobre la IA, la libertad y la justicia en la Cámara de Diputados",
+      "volanta": "DEBATE NECESARIO",
+      "date": "2026-06-11T21:43:38+00:00"
+    },
     {
       "id": "9cc8eb19",
       "image": "img/9cc8eb19.png",
@@ -531,15 +540,6 @@
       "title": "La industria y la construcción volvieron a ubicarse en terreno negativo en abril",
       "volanta": "NUMEROS PREOCUPANTES",
       "date": "2026-06-09T21:38:55+00:00"
-    },
-    {
-      "id": "fcc959df",
-      "image": "img/fcc959df.png",
-      "image_sha": "6c1e2e87457891c38cb92f40274276a7b3fbf05b",
-      "url": "https://www.radiodos.com.ar/209348-aguinaldo-la-mayor-parte-de-los-asalariados-lo-destinara-principalmente-al-pago-de-deudas",
-      "title": "Aguinaldo: la mayor parte de los asalariados lo destinará principalmente al pago de deudas",
-      "volanta": "CRISIS",
-      "date": "2026-06-09T21:37:38+00:00"
     }
   ]
 }
