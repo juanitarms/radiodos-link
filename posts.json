@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T18:19:52+00:00",
+  "updated": "2026-06-11T18:20:27+00:00",
   "posts": [
+    {
+      "id": "ceb98899",
+      "image": "img/ceb98899.png",
+      "image_sha": "4f3f693b255a66fb29be827f3b782cbc1e48db2b",
+      "url": "https://www.radiodos.com.ar/209448-estiman-el-aporte-del-lapacho-negro-en-la-captura-de-carbono-y-remocion-de-contaminantes-en-la-costanera-de-corrientes",
+      "title": "Estiman el aporte del lapacho negro en la captura de carbono y remoción de contaminantes en la costanera de Corrientes",
+      "volanta": "MEDIO AMBIENTE",
+      "date": "2026-06-11T18:20:27+00:00"
+    },
     {
       "id": "690e6b8b",
       "image": "img/690e6b8b.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a un hombre con pedido de localización",
       "volanta": "SEGURIDAD Y PREVENCIÓN",
       "date": "2026-06-09T18:01:25+00:00"
-    },
-    {
-      "id": "52ce0e30",
-      "image": "img/52ce0e30.png",
-      "image_sha": "427c0fdffe1965f60c44825b9259302f98b6abb6",
-      "url": "https://www.radiodos.com.ar/209335-seduccion-drogas-y-robo-cayo-la-banda-de-viudas-negras-de-puerto-madero",
-      "title": "Seducción, drogas y robo: cayó la banda de \"viudas negras\" de Puerto Madero",
-      "volanta": "TRES DETENIDAS",
-      "date": "2026-06-09T18:00:53+00:00"
     }
   ]
 }
