@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:30:09+00:00",
+  "updated": "2026-06-11T21:30:36+00:00",
   "posts": [
+    {
+      "id": "3882ddd0",
+      "image": "img/3882ddd0.png",
+      "image_sha": "15a4838fce392c06b13313936aa1aa3f62deba13",
+      "url": "https://www.radiodos.com.ar/209451-corrientes-presento-el-instituto-de-abordaje-y-prevencion-de-consumos-problematicos",
+      "title": "Corrientes presentó el Instituto de Abordaje y Prevención de Consumos Problemáticos",
+      "volanta": "ACTO ENCABEZADO POR EL GOBERNADOR VALDÉS",
+      "date": "2026-06-11T21:30:36+00:00"
+    },
     {
       "id": "1a4edb1e",
       "image": "img/1a4edb1e.png",
@@ -531,15 +540,6 @@
       "title": "Una tesis aportó datos sobre el ciclo reproductivo de una serpiente del NEA",
       "volanta": "CIENCIAS BIOLÓGICAS",
       "date": "2026-06-09T20:37:58+00:00"
-    },
-    {
-      "id": "1031b60d",
-      "image": "img/1031b60d.png",
-      "image_sha": "df44ae5dc5f4a78237dfca418f21676e01d0e4cf",
-      "url": "https://www.radiodos.com.ar/209342-cuqui-calvano-presento-proyectos-para-fortalecer-la-causa-malvinas-en-corrientes",
-      "title": "Cuqui Calvano presentó proyectos para fortalecer la causa Malvinas en Corrientes",
-      "volanta": "EN DIPUTADOS",
-      "date": "2026-06-09T20:36:40+00:00"
     }
   ]
 }
