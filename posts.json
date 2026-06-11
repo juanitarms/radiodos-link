@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T15:05:14+00:00",
+  "updated": "2026-06-11T16:16:57+00:00",
   "posts": [
+    {
+      "id": "e256a6fa",
+      "image": "img/e256a6fa.png",
+      "image_sha": "1614a46cb5312a84a37de7001f8b3fd49ad11899",
+      "url": "https://www.radiodos.com.ar/209440-fue-abusada-y-se-encadeno-frente-a-un-tribunal-de-catamarca-hace-ocho-anos-que-espero-justicia",
+      "title": "Fue abusada y se encadenó frente a un tribunal de Catamarca: \"Hace ocho años que espero justicia\"",
+      "volanta": "FUERTE RECLAMO",
+      "date": "2026-06-11T16:16:57+00:00"
+    },
     {
       "id": "287fcb33",
       "image": "img/287fcb33.png",
@@ -531,15 +540,6 @@
       "title": "Las audiencias del juicio por la desaparición de Loan se realizarán en el Escuadrón 48 de Gendarmería",
       "volanta": "PERÚ Y SAN MARTIN",
       "date": "2026-06-09T14:39:18+00:00"
-    },
-    {
-      "id": "9c476844",
-      "image": "img/9c476844.png",
-      "image_sha": "f19726744548eb09ebae7bbb469cbccbffcdaf16",
-      "url": "https://www.radiodos.com.ar/209325-titular-de-vn-en-corrientes-ratifico-que-las-obras-de-la-autovia-r12-se-retomaran-el-1-julio-y-se-concluiran-en-14-meses",
-      "title": "Titular de VN en Corrientes ratificó que las obras de la Autovía R12 se retomarán el 1 julio y se concluirán en 14 meses",
-      "volanta": "CONFERENCIA DE PRENSA",
-      "date": "2026-06-09T14:23:27+00:00"
     }
   ]
 }
