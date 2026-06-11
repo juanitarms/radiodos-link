@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T13:07:06+00:00",
+  "updated": "2026-06-11T13:36:02+00:00",
   "posts": [
+    {
+      "id": "cd7e2f8e",
+      "image": "img/cd7e2f8e.png",
+      "image_sha": "432e5ef57c5afe65674b3bdc84ee1a5f760479ba",
+      "url": "https://www.radiodos.com.ar/209430-juan-pablo-valdes-confirmo-una-reunion-de-gabinete-para-manana-para-trazar-ejes-y-ajustar-tornillos",
+      "title": "Juan Pablo Valdés confirmó una reunión de Gabinete para mañana: \"Para trazar ejes y ajustar tornillos\"",
+      "volanta": "GOBERNADOR",
+      "date": "2026-06-11T13:36:02+00:00"
+    },
     {
       "id": "9ead2f87",
       "image": "img/9ead2f87.png",
@@ -531,15 +540,6 @@
       "title": "\"Preferiría que no...\": la fuerte confesión de Nahir Galarza desde la cárcel",
       "volanta": "ENTRE RÍOS",
       "date": "2026-06-09T13:10:45+00:00"
-    },
-    {
-      "id": "50bea1f9",
-      "image": "img/50bea1f9.png",
-      "image_sha": "bbf758200f37640b6decb4d9d664ebf65356c776",
-      "url": "https://www.radiodos.com.ar/209307-seleccion-argentina-vs-islandia-por-un-amistoso-internacional-horario-formaciones-y-tv",
-      "title": "Selección Argentina vs. Islandia por un amistoso internacional: horario, formaciones y TV",
-      "volanta": "ÚLTIMO PARTIDO",
-      "date": "2026-06-09T12:49:48+00:00"
     }
   ]
 }
