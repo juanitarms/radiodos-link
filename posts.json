@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T12:49:24+00:00",
+  "updated": "2026-06-11T13:07:06+00:00",
   "posts": [
+    {
+      "id": "9ead2f87",
+      "image": "img/9ead2f87.png",
+      "image_sha": "d85c7b044b1b9d006df82c066296b23200eceba0",
+      "url": "https://www.radiodos.com.ar/209426-emiliano-yacobitti-anuncio-un-acuerdo-financiero-con-el-gobierno-aunque-senalo-que-es-insuficiente",
+      "title": "Emiliano Yacobitti anunció un acuerdo financiero con el Gobierno, aunque señaló que es \"insuficiente\"",
+      "volanta": "Avance",
+      "date": "2026-06-11T13:07:06+00:00"
+    },
     {
       "id": "6e571569",
       "image": "img/6e571569.png",
@@ -531,15 +540,6 @@
       "title": "Selección Argentina vs. Islandia por un amistoso internacional: horario, formaciones y TV",
       "volanta": "ÚLTIMO PARTIDO",
       "date": "2026-06-09T12:49:48+00:00"
-    },
-    {
-      "id": "4b871b46",
-      "image": "img/4b871b46.png",
-      "image_sha": "ddfc691ca246358f2e74e10b659c5f16a4a41723",
-      "url": "https://www.radiodos.com.ar/209302-buscan-a-una-adolescente-que-se-ausento-de-su-hogar-en-la-provincia-de-cordoba-",
-      "title": "Buscan a una adolescente que se ausentó de su hogar en la provincia de Córdoba",
-      "volanta": "EN COLABORACIÓN",
-      "date": "2026-06-09T12:41:49+00:00"
     }
   ]
 }
