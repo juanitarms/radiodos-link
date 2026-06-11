@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T17:28:20+00:00",
+  "updated": "2026-06-11T17:46:01+00:00",
   "posts": [
+    {
+      "id": "e1ba599c",
+      "image": "img/e1ba599c.png",
+      "image_sha": "6e595f353f4f59c272101098132b9532161dd29e",
+      "url": "https://www.radiodos.com.ar/209447-vio-a-la-policia-y-tiro-la-moto-en-plena-calle-era-robada",
+      "title": "Vió a la Policía y tiró la moto en plena calle: era robada",
+      "volanta": "EFICAZ ACCIONAR",
+      "date": "2026-06-11T17:46:01+00:00"
+    },
     {
       "id": "98855981",
       "image": "img/98855981.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte terremoto en Filipinas dejó al menos 36 muertos",
       "volanta": "Imágenes dramáticas",
       "date": "2026-06-09T16:25:00+00:00"
-    },
-    {
-      "id": "2b8b1868",
-      "image": "img/2b8b1868.png",
-      "image_sha": "fb3af46ef7a68c17c91f91d639f5478a2d5ca0c7",
-      "url": "https://www.radiodos.com.ar/209333-a-tres-meses-del-estallido-del-escandalo-finalmente-manuel-adorni-presentara-su-declaracion-jurada",
-      "title": "A tres meses del estallido del escándalo, finalmente Manuel Adorni presentará su declaración jurada",
-      "volanta": "LARGA ESPERA",
-      "date": "2026-06-09T16:24:28+00:00"
     }
   ]
 }
