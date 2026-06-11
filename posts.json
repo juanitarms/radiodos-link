@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:27:38+00:00",
+  "updated": "2026-06-11T21:28:56+00:00",
   "posts": [
+    {
+      "id": "5095b544",
+      "image": "img/5095b544.png",
+      "image_sha": "782d5d3c9fd5f25d6d5b6668c762484031446f83",
+      "url": "https://www.radiodos.com.ar/209456-la-inflacion-de-mayo-fue-de-21-y-se-desacelero-por-segundo-mes-consecutivo",
+      "title": "La inflación de mayo fue de 2,1% y se desaceleró por segundo mes consecutivo",
+      "volanta": "Segun el Indec",
+      "date": "2026-06-11T21:28:56+00:00"
+    },
     {
       "id": "ee8509f8",
       "image": "img/ee8509f8.png",
@@ -531,15 +540,6 @@
       "title": "Tras horas de incertidumbre, hallaron a la menor de 15 años desaparecida en Córdoba",
       "volanta": "ALERTA SOFIA",
       "date": "2026-06-09T20:34:52+00:00"
-    },
-    {
-      "id": "d3c61d37",
-      "image": "img/d3c61d37.png",
-      "image_sha": "aa354c2b2b0047dda068e902c1fe99df07642445",
-      "url": "https://www.radiodos.com.ar/209346-pobreza-infantil-en-argentina-bajo-al-423-pero-advierten-que-la-mejora-es-fragil",
-      "title": "Pobreza infantil en Argentina: bajó al 42,3% pero advierten que la mejora es frágil",
-      "volanta": "INFORME DE UNICEF",
-      "date": "2026-06-09T20:33:10+00:00"
     }
   ]
 }
