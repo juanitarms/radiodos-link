@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T11:18:22+00:00",
+  "updated": "2026-06-11T12:18:27+00:00",
   "posts": [
+    {
+      "id": "73713798",
+      "image": "img/73713798.png",
+      "image_sha": "da601305e1daa6c7f92c2b42e999c516d64a3484",
+      "url": "https://www.radiodos.com.ar/209422-corrientes-le-robaron-la-bici-mientras-vendia-pan-casero-en-la-calle",
+      "title": "Corrientes: le robaron la bici mientras vendía pan casero en la calle",
+      "volanta": "LA RECUPERÓ LA POLICÍA",
+      "date": "2026-06-11T12:18:27+00:00"
+    },
     {
       "id": "5d6d9471",
       "image": "img/5d6d9471.png",
@@ -531,15 +540,6 @@
       "title": "El millonario monto hallado en un siniestro en Corrientes estaría destinado a la compra de vehículos",
       "volanta": "DOS HERIDOS",
       "date": "2026-06-09T12:06:22+00:00"
-    },
-    {
-      "id": "bd796096",
-      "image": "img/bd796096.png",
-      "image_sha": "a24f173633f26929138b4845b0828343dda4223c",
-      "url": "https://www.radiodos.com.ar/209298-confirman-condena-de-siete-anos-de-prision-por-abuso-sexual-con-acceso-carnal",
-      "title": "Confirman condena de siete años de prisión por abuso sexual con acceso carnal",
-      "volanta": "STJ",
-      "date": "2026-06-09T11:50:15+00:00"
     }
   ]
 }
