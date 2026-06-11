@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:00:30+00:00",
+  "updated": "2026-06-11T21:25:44+00:00",
   "posts": [
+    {
+      "id": "998002b0",
+      "image": "img/998002b0.png",
+      "image_sha": "ecba35f9615ec925c11e91878d4a68bf8a1f642f",
+      "url": "https://www.radiodos.com.ar/209458-corrientes-choco-un-caballo-y-llevaba-el-auto-repleto-de-cigarrillos-ilegales",
+      "title": "Corrientes: chocó un caballo y llevaba el auto repleto de cigarrillos ilegales",
+      "volanta": "RUTA 14",
+      "date": "2026-06-11T21:25:44+00:00"
+    },
     {
       "id": "ad21771b",
       "image": "img/ad21771b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fue sede de una reunión regional de ministros de Salud del Litoral con participación de la OPS",
       "volanta": "ENCUENTRO INSTITUCIONAL",
       "date": "2026-06-09T19:45:27+00:00"
-    },
-    {
-      "id": "38df2c38",
-      "image": "img/38df2c38.png",
-      "image_sha": "f4fa6314a4f9ac2af95f56fc9c86851fbfb29853",
-      "url": "https://www.radiodos.com.ar/209338-mundial-2026-quienes-relataran-a-la-seleccion-argentina-en-cada-canal-de-tv-y-streaming",
-      "title": "Mundial 2026: quiénes relatarán a la Selección Argentina en cada canal de TV y streaming",
-      "volanta": "DEFINIDO",
-      "date": "2026-06-09T19:44:55+00:00"
     }
   ]
 }
