@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T21:25:44+00:00",
+  "updated": "2026-06-11T21:27:38+00:00",
   "posts": [
+    {
+      "id": "ee8509f8",
+      "image": "img/ee8509f8.png",
+      "image_sha": "db8512874610f50b2d65b2e23b8cf33857d67963",
+      "url": "https://www.radiodos.com.ar/209457-con-26-el-nea-registro-el-nivel-mas-alto-de-inflacion-en-mayo",
+      "title": "Con 2,6%, el NEA registró el nivel más alto de inflación en mayo",
+      "volanta": "INTERANUAL",
+      "date": "2026-06-11T21:27:38+00:00"
+    },
     {
       "id": "998002b0",
       "image": "img/998002b0.png",
@@ -531,15 +540,6 @@
       "title": "Pobreza infantil en Argentina: bajó al 42,3% pero advierten que la mejora es frágil",
       "volanta": "INFORME DE UNICEF",
       "date": "2026-06-09T20:33:10+00:00"
-    },
-    {
-      "id": "650f93f8",
-      "image": "img/650f93f8.png",
-      "image_sha": "944d9ff870c06993ebbe4940094a5c1e5e892499",
-      "url": "https://www.radiodos.com.ar/209341-corrientes-fue-sede-de-una-reunion-regional-de-ministros-de-salud-del-litoral-con-participacion-de-la-ops",
-      "title": "Corrientes fue sede de una reunión regional de ministros de Salud del Litoral con participación de la OPS",
-      "volanta": "ENCUENTRO INSTITUCIONAL",
-      "date": "2026-06-09T19:45:27+00:00"
     }
   ]
 }
