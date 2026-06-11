@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T17:46:01+00:00",
+  "updated": "2026-06-11T17:46:50+00:00",
   "posts": [
+    {
+      "id": "a8720d64",
+      "image": "img/a8720d64.png",
+      "image_sha": "eafbeaf70afd1c73521cb1f6630cc274ee6a89ed",
+      "url": "https://www.radiodos.com.ar/209446-rosario-recibio-siete-balazos-para-proteger-a-su-hermana-durante-un-asalto-y-sobrevivio-de-milagro",
+      "title": "Rosario: recibió siete balazos para proteger a su hermana durante un asalto y sobrevivió de milagro",
+      "volanta": "SANTA FE",
+      "date": "2026-06-11T17:46:50+00:00"
+    },
     {
       "id": "e1ba599c",
       "image": "img/e1ba599c.png",
@@ -531,15 +540,6 @@
       "title": "Activaron el Alerta Sofía por la desaparición de Luciana Alarcón en Córdoba",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-09T16:26:19+00:00"
-    },
-    {
-      "id": "894713c4",
-      "image": "img/894713c4.png",
-      "image_sha": "7ef7afa1bcd46a69bba45c885395f3da116c45c0",
-      "url": "https://www.radiodos.com.ar/209332-fuerte-terremoto-en-filipinas-dejo-al-menos-36-muertos",
-      "title": "Fuerte terremoto en Filipinas dejó al menos 36 muertos",
-      "volanta": "Imágenes dramáticas",
-      "date": "2026-06-09T16:25:00+00:00"
     }
   ]
 }
