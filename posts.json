@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T12:18:27+00:00",
+  "updated": "2026-06-11T12:34:26+00:00",
   "posts": [
+    {
+      "id": "1e952506",
+      "image": "img/1e952506.png",
+      "image_sha": "ca2fc99183d873859ba32b2f6c8363475caf0534",
+      "url": "https://www.radiodos.com.ar/209415-cannabis-medicinal-y-consumo-problematico-primer-ateneo-del-instituto-medico-forense",
+      "title": "Cannabis medicinal y consumo problemático: primer Ateneo del Instituto Médico Forense",
+      "volanta": "PODER JUDICIAL",
+      "date": "2026-06-11T12:34:26+00:00"
+    },
     {
       "id": "73713798",
       "image": "img/73713798.png",
@@ -531,15 +540,6 @@
       "title": "Dos casos en Capital: efectivos policiales reanimaron a dos bebés y les salvaron la vida",
       "volanta": "LLAMADOS DE EMERGENCIA",
       "date": "2026-06-09T12:15:07+00:00"
-    },
-    {
-      "id": "594730a4",
-      "image": "img/594730a4.png",
-      "image_sha": "575b8d86c443751f40f94c693d0a2ab36d887bf2",
-      "url": "https://www.radiodos.com.ar/209301-el-millonario-monto-hallado-en-un-siniestro-en-corrientes-estaria-destinado-a-la-compra-de-vehiculos",
-      "title": "El millonario monto hallado en un siniestro en Corrientes estaría destinado a la compra de vehículos",
-      "volanta": "DOS HERIDOS",
-      "date": "2026-06-09T12:06:22+00:00"
     }
   ]
 }
