@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T13:43:14+00:00",
+  "updated": "2026-06-11T13:58:11+00:00",
   "posts": [
+    {
+      "id": "cfc752ba",
+      "image": "img/cfc752ba.png",
+      "image_sha": "7fbf5c2022c32351a82f2447d8bff45bfb29fa94",
+      "url": "https://www.radiodos.com.ar/209429-hallaron-muerta-a-adolescente-de-15-anos-en-la-plata-e-investigan-una-denuncia-por-abuso",
+      "title": "Hallaron muerta a adolescente de 15 años en La Plata e investigan una denuncia por abuso",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-06-11T13:58:11+00:00"
+    },
     {
       "id": "2d8b360f",
       "image": "img/2d8b360f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: asaltaron una joyería tras mantener cautivo a su dueño en su casa",
       "volanta": "BARRIO SAN BENITO",
       "date": "2026-06-09T13:49:23+00:00"
-    },
-    {
-      "id": "7b6245a1",
-      "image": "img/7b6245a1.png",
-      "image_sha": "ed5ca673dc8da0c51e59bf02812828906c4e049c",
-      "url": "https://www.radiodos.com.ar/209318-quien-es-el-nuevo-eliminado-de-gran-hermano-generacion-dorada",
-      "title": "Quién es el nuevo eliminado de Gran Hermano Generación Dorada",
-      "volanta": "SIGUE EL JUEGO",
-      "date": "2026-06-09T13:25:42+00:00"
     }
   ]
 }
