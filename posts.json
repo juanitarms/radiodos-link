@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T12:34:26+00:00",
+  "updated": "2026-06-11T12:49:24+00:00",
   "posts": [
+    {
+      "id": "6e571569",
+      "image": "img/6e571569.png",
+      "image_sha": "73b4614d5736502793341204e6854900b93b99af",
+      "url": "https://www.radiodos.com.ar/209424-una-verguenza-la-fulminante-reaccion-de-victoria-villarruel-tras-la-declaracion-jurada-de-manuel-adorni",
+      "title": "\"Una vergüenza\": la fulminante reacción de Victoria Villarruel tras la declaración jurada de Manuel Adorni",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-11T12:49:24+00:00"
+    },
     {
       "id": "1e952506",
       "image": "img/1e952506.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que se ausentó de su hogar en la provincia de Córdoba",
       "volanta": "EN COLABORACIÓN",
       "date": "2026-06-09T12:41:49+00:00"
-    },
-    {
-      "id": "a970b74a",
-      "image": "img/a970b74a.png",
-      "image_sha": "3f1a49f76c81c6551b4c8b37a1fffa0020c96ace",
-      "url": "https://www.radiodos.com.ar/209296-dos-casos-en-capital-efectivos-policiales-reanimaron-a-dos-bebes-y-les-salvaron-la-vida",
-      "title": "Dos casos en Capital: efectivos policiales reanimaron a dos bebés y les salvaron la vida",
-      "volanta": "LLAMADOS DE EMERGENCIA",
-      "date": "2026-06-09T12:15:07+00:00"
     }
   ]
 }
