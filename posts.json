@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T18:20:27+00:00",
+  "updated": "2026-06-11T21:00:30+00:00",
   "posts": [
+    {
+      "id": "ad21771b",
+      "image": "img/ad21771b.png",
+      "image_sha": "22aede10106ad0b3a4982997f19d181deac21c41",
+      "url": "https://www.radiodos.com.ar/209450-fallecio-el-operario-accidentado-tras-una-presunta-falla-laboral",
+      "title": "Falleció el operario accidentado tras una presunta falla laboral",
+      "volanta": "Tragedia",
+      "date": "2026-06-11T21:00:30+00:00"
+    },
     {
       "id": "ceb98899",
       "image": "img/ceb98899.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: quiénes relatarán a la Selección Argentina en cada canal de TV y streaming",
       "volanta": "DEFINIDO",
       "date": "2026-06-09T19:44:55+00:00"
-    },
-    {
-      "id": "c14c75d0",
-      "image": "img/c14c75d0.png",
-      "image_sha": "1bdf9a3ab2ff116372451cfe210a9c6169fc5533",
-      "url": "https://www.radiodos.com.ar/209337-demoraron-a-un-hombre-con-pedido-de-localizacion",
-      "title": "Demoraron a un hombre con pedido de localización",
-      "volanta": "SEGURIDAD Y PREVENCIÓN",
-      "date": "2026-06-09T18:01:25+00:00"
     }
   ]
 }
