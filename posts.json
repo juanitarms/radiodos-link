@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T10:48:35+00:00",
+  "updated": "2026-06-11T11:18:22+00:00",
   "posts": [
+    {
+      "id": "5d6d9471",
+      "image": "img/5d6d9471.png",
+      "image_sha": "93be963eefb837931af4007abdde55b66067751f",
+      "url": "https://www.radiodos.com.ar/209416-que-canales-y-plataformas-van-a-pasar-el-mundial-2026-en-argentina",
+      "title": "Qué canales  y plataformas van a pasar el Mundial 2026 en Argentina",
+      "volanta": "FÚTBOL",
+      "date": "2026-06-11T11:18:22+00:00"
+    },
     {
       "id": "4276b156",
       "image": "img/4276b156.png",
@@ -531,15 +540,6 @@
       "title": "Confirman condena de siete años de prisión por abuso sexual con acceso carnal",
       "volanta": "STJ",
       "date": "2026-06-09T11:50:15+00:00"
-    },
-    {
-      "id": "80956bb8",
-      "image": "img/80956bb8.png",
-      "image_sha": "dda01c1faefa4f374b9353a0307932c648fade48",
-      "url": "https://www.radiodos.com.ar/209300-corrientes-circulaban-con-mas-de-200-kilos-de-dorados-transportados-en-un-auto",
-      "title": "Corrientes: circulaban con más de 200 kilos de dorados transportados en un auto",
-      "volanta": "HACE INSTANTES",
-      "date": "2026-06-09T11:43:44+00:00"
     }
   ]
 }
