@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T13:36:02+00:00",
+  "updated": "2026-06-11T13:43:14+00:00",
   "posts": [
+    {
+      "id": "2d8b360f",
+      "image": "img/2d8b360f.png",
+      "image_sha": "e97c2469ae32b9f1c6b3dafc142d865ba3aa0120",
+      "url": "https://www.radiodos.com.ar/209427-fuerte-rechazo-a-manuel-adorni-mas-del-80-de-los-argentinos-desconfia-de-la-explicacion-sobre-su-riqueza",
+      "title": "Fuerte rechazo a Manuel Adorni: más del 80% de los argentinos desconfía de la explicación sobre su riqueza",
+      "volanta": "DATOS",
+      "date": "2026-06-11T13:43:14+00:00"
+    },
     {
       "id": "cd7e2f8e",
       "image": "img/cd7e2f8e.png",
@@ -531,15 +540,6 @@
       "title": "Quién es el nuevo eliminado de Gran Hermano Generación Dorada",
       "volanta": "SIGUE EL JUEGO",
       "date": "2026-06-09T13:25:42+00:00"
-    },
-    {
-      "id": "99f33505",
-      "image": "img/99f33505.png",
-      "image_sha": "b3ac557b80c9a801d3aab0a93ca37bd2d73baaef",
-      "url": "https://www.radiodos.com.ar/209312-preferiria-que-no-la-fuerte-confesion-de-nahir-galarza-desde-la-carcel",
-      "title": "\"Preferiría que no...\": la fuerte confesión de Nahir Galarza desde la cárcel",
-      "volanta": "ENTRE RÍOS",
-      "date": "2026-06-09T13:10:45+00:00"
     }
   ]
 }
