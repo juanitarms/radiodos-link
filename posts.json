@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T13:58:11+00:00",
+  "updated": "2026-06-11T14:10:52+00:00",
   "posts": [
+    {
+      "id": "2887fea7",
+      "image": "img/2887fea7.png",
+      "image_sha": "6546da854b8ea87cb5b5d98172dd299215c82417",
+      "url": "https://www.radiodos.com.ar/209431-cris-morena-celebro-el-exito-de-lali-en-river-con-un-emotivo-mensaje-el-mundo-necesita-artistas-como-vos",
+      "title": "Cris Morena celebró el éxito de Lali en River con un emotivo mensaje: \"El mundo necesita artistas como vos\"",
+      "volanta": "ORGULLOSA",
+      "date": "2026-06-11T14:10:52+00:00"
+    },
     {
       "id": "cfc752ba",
       "image": "img/cfc752ba.png",
@@ -531,15 +540,6 @@
       "title": "Así fue el casamiento secreto de Sofía Jujuy Jiménez con su novio",
       "volanta": "SE LE DIÓ",
       "date": "2026-06-09T13:59:47+00:00"
-    },
-    {
-      "id": "dc548524",
-      "image": "img/dc548524.png",
-      "image_sha": "030de21c01c31ff9cb4bb981b6522f5d133e540d",
-      "url": "https://www.radiodos.com.ar/209313-corrientes-asaltaron-una-joyeria-tras-mantener-cautivo-a-su-dueno-en-su-casa",
-      "title": "Corrientes: asaltaron una joyería tras mantener cautivo a su dueño en su casa",
-      "volanta": "BARRIO SAN BENITO",
-      "date": "2026-06-09T13:49:23+00:00"
     }
   ]
 }
