@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T12:18:44+00:00",
+  "updated": "2026-06-12T12:28:04+00:00",
   "posts": [
+    {
+      "id": "379fbe18",
+      "image": "img/379fbe18.png",
+      "image_sha": "346dc80993bac338842d20bb5b073b62434a07ae",
+      "url": "https://www.radiodos.com.ar/209468-desde-este-miercoles-17-se-pagara-aguinaldo-y-plus-a-municipales-de-la-ciudad-de-corrientes",
+      "title": "Desde este miércoles 17 se pagará aguinaldo y plus a municipales de la ciudad de Corrientes",
+      "volanta": "PARA TODO EL PERSONAL",
+      "date": "2026-06-12T12:28:04+00:00"
+    },
     {
       "id": "00945895",
       "image": "img/00945895.png",
@@ -531,15 +540,6 @@
       "title": "Demoran a un menor que llevaba entre sus pertenencias marihuana",
       "volanta": "TRABAJO EN CONJUNTO",
       "date": "2026-06-10T12:26:28+00:00"
-    },
-    {
-      "id": "63f159d4",
-      "image": "img/63f159d4.png",
-      "image_sha": "f91dafed98639928544e86dc26cd4b6bc7b590a6",
-      "url": "https://www.radiodos.com.ar/209364-misiones-prefectura-secuestro-mas-de-54-kilos-de-droga-y-detuvo-a-dos-personas",
-      "title": "Misiones: Prefectura secuestró más de 54 kilos de droga y detuvo a dos personas",
-      "volanta": "OPERATIVO",
-      "date": "2026-06-10T12:03:47+00:00"
     }
   ]
 }
