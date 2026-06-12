@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T11:13:03+00:00",
+  "updated": "2026-06-12T11:29:06+00:00",
   "posts": [
+    {
+      "id": "c461b14b",
+      "image": "img/c461b14b.png",
+      "image_sha": "7a98df71681ccc29ec9644cc7393151093befe1c",
+      "url": "https://www.radiodos.com.ar/209466-murio-el-chaqueno-que-protagonizo-el-choque-contra-una-retroexcavadora-en-ruta-12",
+      "title": "Murió el chaqueño que protagonizó el choque contra una retroexcavadora en Ruta 12",
+      "volanta": "OCURRIÓ CERCA DE ESQUINA",
+      "date": "2026-06-12T11:29:06+00:00"
+    },
     {
       "id": "27d709f4",
       "image": "img/27d709f4.png",
@@ -531,15 +540,6 @@
       "title": "Habilitan revisión de una sentencia por lesiones graves culposas en un siniestro vial",
       "volanta": "STJ",
       "date": "2026-06-10T11:04:48+00:00"
-    },
-    {
-      "id": "5acca8ad",
-      "image": "img/5acca8ad.png",
-      "image_sha": "8efb5b65f5a2fb9361dddd4c4386fe2b2798798d",
-      "url": "https://www.radiodos.com.ar/209357-con-la-vuelta-de-messi-la-seleccion-argentina-goleo-a-islandia-en-su-ultima-prueba-para-el-mundial",
-      "title": "Con la vuelta de Messi, la Selección Argentina goleó a Islandia en su última prueba para el Mundial",
-      "volanta": "EEUU",
-      "date": "2026-06-10T10:34:04+00:00"
     }
   ]
 }
