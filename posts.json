@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T21:30:52+00:00",
+  "updated": "2026-06-12T22:05:33+00:00",
   "posts": [
+    {
+      "id": "da815bed",
+      "image": "img/da815bed.png",
+      "image_sha": "ac4cb53c3b7b3750b7821792535dcb4b06a540ba",
+      "url": "https://www.radiodos.com.ar/209518-la-facultad-de-derecho-abre-las-inscripciones-para-las-carreras-del-segundo-cuatrimestre",
+      "title": "La Facultad de Derecho abre las inscripciones para las carreras del segundo cuatrimestre",
+      "volanta": "TRÁMITE ON LINE",
+      "date": "2026-06-12T22:05:33+00:00"
+    },
     {
       "id": "dc548f96",
       "image": "img/dc548f96.png",
@@ -531,15 +540,6 @@
       "title": "Joven peatón herida tras ser chocada en una esquina de peatonal Junín",
       "volanta": "pleno centro correntino",
       "date": "2026-06-10T21:19:18+00:00"
-    },
-    {
-      "id": "3f2452bd",
-      "image": "img/3f2452bd.png",
-      "image_sha": "195b68e9ca975680f7ad5c2582247567e6190236",
-      "url": "https://www.radiodos.com.ar/209401-goya-robo-un-lavatorio-en-una-capilla-e-intento-venderlo-en-la-calle",
-      "title": "Goya: robó un lavatorio en una capilla e intentó venderlo en la calle",
-      "volanta": "BARRIO SAN RAMON",
-      "date": "2026-06-10T21:07:51+00:00"
     }
   ]
 }
