@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T02:06:57+00:00",
+  "updated": "2026-06-12T10:49:22+00:00",
   "posts": [
+    {
+      "id": "f2ce5862",
+      "image": "img/f2ce5862.png",
+      "image_sha": "e2460ff7d95028be160d2323905298c3b07c6020",
+      "url": "https://www.radiodos.com.ar/209464-se-postergo-la-reunion-de-juan-pablo-valdes-con-su-gabinete",
+      "title": "Se postergó la reunión de Juan Pablo Valdés con su Gabinete",
+      "volanta": "ADELANTO",
+      "date": "2026-06-12T10:49:22+00:00"
+    },
     {
       "id": "4ea85240",
       "image": "img/4ea85240.png",
@@ -531,15 +540,6 @@
       "title": "Procesan por presunto enriquecimiento ilícito al exintendente de Santo Tomé",
       "volanta": "CORRUPCIÓN",
       "date": "2026-06-09T22:29:46+00:00"
-    },
-    {
-      "id": "5ecc16c6",
-      "image": "img/5ecc16c6.png",
-      "image_sha": "5cfc7649bd88aec4f80d3dffcdfda9e2e9262198",
-      "url": "https://www.radiodos.com.ar/209350-estados-unidos-lanza-nuevos-ataques-contra-iran-en-respuesta-al-derribo-de-un-helicoptero",
-      "title": "Estados Unidos lanza nuevos ataques contra Irán en respuesta al derribo de un helicóptero",
-      "volanta": "MEDIO ORIENTE",
-      "date": "2026-06-09T22:29:15+00:00"
     }
   ]
 }
