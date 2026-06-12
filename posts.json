@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T11:44:00+00:00",
+  "updated": "2026-06-12T12:18:44+00:00",
   "posts": [
+    {
+      "id": "00945895",
+      "image": "img/00945895.png",
+      "image_sha": "7cd0a12de9afe751e85cfd8935487287f6f829c2",
+      "url": "https://www.radiodos.com.ar/209474-el-jefe-de-policia-de-corrientes-recibio-a-efectivos-que-culminaron-con-exito-distintos-cursos-de-especializacion-",
+      "title": "El Jefe de Policía de Corrientes recibió a efectivos que culminaron con éxito distintos cursos de especialización",
+      "volanta": "CAPACITACION POLICIAL",
+      "date": "2026-06-12T12:18:44+00:00"
+    },
     {
       "id": "f239bf2e",
       "image": "img/f239bf2e.png",
@@ -531,15 +540,6 @@
       "title": "Misiones: Prefectura secuestró más de 54 kilos de droga y detuvo a dos personas",
       "volanta": "OPERATIVO",
       "date": "2026-06-10T12:03:47+00:00"
-    },
-    {
-      "id": "3de47ef8",
-      "image": "img/3de47ef8.png",
-      "image_sha": "4a0b0b7d3830b4206037534cf958714b93b158e8",
-      "url": "https://www.radiodos.com.ar/209359-ituzaingo-capturaron-a-dos-narcos-con-ladrillos-cocaina-valuados-en-37-millones",
-      "title": "Ituzaingó: capturaron a dos narcos con ladrillos cocaína valuados en $37 millones",
-      "volanta": "Policía Federal",
-      "date": "2026-06-10T11:33:31+00:00"
     }
   ]
 }
