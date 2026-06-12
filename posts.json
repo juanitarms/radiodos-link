@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T18:10:22+00:00",
+  "updated": "2026-06-12T18:10:57+00:00",
   "posts": [
+    {
+      "id": "e4d235e0",
+      "image": "img/e4d235e0.png",
+      "image_sha": "4cf6afe8468713e3b1af07a87f1dca2d5f3b4042",
+      "url": "https://www.radiodos.com.ar/209497-cronograma-de-la-feria-de-emprendedores-de-desarrollo-social",
+      "title": "Cronograma de la Feria de Emprendedores de Desarrollo Social",
+      "volanta": "Puntos Feriantes",
+      "date": "2026-06-12T18:10:57+00:00"
+    },
     {
       "id": "77ee4d01",
       "image": "img/77ee4d01.png",
@@ -531,15 +540,6 @@
       "title": "Polich sobre el corredor Belgrano: \"Buscamos coparticipar en el tramo que nos toca en lo que se cobra por peaje\"",
       "volanta": "DIÁLOGO CON NACIÓN",
       "date": "2026-06-10T15:55:46+00:00"
-    },
-    {
-      "id": "9cbab6f8",
-      "image": "img/9cbab6f8.png",
-      "image_sha": "fe42b643b8de612afdcce51822752c0e8bd11c89",
-      "url": "https://www.radiodos.com.ar/209391-juan-pablo-valdes-recibio-al-embajador-de-austria",
-      "title": "Juan Pablo Valdés recibió al embajador de Austria",
-      "volanta": "CASA DE GOBIERNO",
-      "date": "2026-06-10T15:54:42+00:00"
     }
   ]
 }
