@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T18:09:52+00:00",
+  "updated": "2026-06-12T18:10:22+00:00",
   "posts": [
+    {
+      "id": "77ee4d01",
+      "image": "img/77ee4d01.png",
+      "image_sha": "a42641558e35ec0e5893a9797c6af807197b1529",
+      "url": "https://www.radiodos.com.ar/209495-los-jovenes-acusados-de-matar-a-una-nutria-a-patadas-denunciaron-haber-recibido-amenazas",
+      "title": "Los jóvenes acusados de matar a una nutria a patadas denunciaron haber recibido amenazas",
+      "volanta": "Bahía Blanca",
+      "date": "2026-06-12T18:10:22+00:00"
+    },
     {
       "id": "4dd80a20",
       "image": "img/4dd80a20.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés recibió al embajador de Austria",
       "volanta": "CASA DE GOBIERNO",
       "date": "2026-06-10T15:54:42+00:00"
-    },
-    {
-      "id": "c5295444",
-      "image": "img/c5295444.png",
-      "image_sha": "8a3b75e8cbd3766ba1a76e075ed525a92f5f18e3",
-      "url": "https://www.radiodos.com.ar/209390-premian-trabajo-de-un-becario-doctoral-de-facena-en-el-encuentro-nacional-de-nanotecnologia",
-      "title": "Premian trabajo de un Becario Doctoral de FaCENA en el encuentro nacional de nanotecnología",
-      "volanta": "DESTACADO",
-      "date": "2026-06-10T15:18:18+00:00"
     }
   ]
 }
