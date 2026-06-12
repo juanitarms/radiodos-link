@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T10:58:40+00:00",
+  "updated": "2026-06-12T11:13:03+00:00",
   "posts": [
+    {
+      "id": "27d709f4",
+      "image": "img/27d709f4.png",
+      "image_sha": "914971facdc75e736bc9e1c846ebb5723f9ebca3",
+      "url": "https://www.radiodos.com.ar/209465-juicio-por-la-desaparicion-de-loan-habra-cambios-en-el-transito-y-recorridos-de-colectivos-en-corrientes",
+      "title": "Juicio por la desaparición de Loan: habrá cambios en el tránsito y recorridos de colectivos en Corrientes",
+      "volanta": "DESDE EL MARTES",
+      "date": "2026-06-12T11:13:03+00:00"
+    },
     {
       "id": "4dcd0673",
       "image": "img/4dcd0673.png",
@@ -531,15 +540,6 @@
       "title": "Con la vuelta de Messi, la Selección Argentina goleó a Islandia en su última prueba para el Mundial",
       "volanta": "EEUU",
       "date": "2026-06-10T10:34:04+00:00"
-    },
-    {
-      "id": "a394f276",
-      "image": "img/a394f276.png",
-      "image_sha": "c0400332cc78be636dda81f4e9cfd93de564ce8f",
-      "url": "https://www.radiodos.com.ar/209352-provincia-y-municipios-fortalecen-acciones-para-la-proteccion-integral-de-ninas-ninos-y-adolescentes",
-      "title": "Provincia y municipios fortalecen acciones para la protección integral de niñas, niños y adolescentes",
-      "volanta": "NIÑEZ Y ADOLESCENCIA",
-      "date": "2026-06-09T22:35:07+00:00"
     }
   ]
 }
