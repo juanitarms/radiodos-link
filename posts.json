@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T18:10:57+00:00",
+  "updated": "2026-06-12T20:26:50+00:00",
   "posts": [
+    {
+      "id": "d1f5d47d",
+      "image": "img/d1f5d47d.png",
+      "image_sha": "582b9e1987bdad120e7bcc09b0ed342e58f062a6",
+      "url": "https://www.radiodos.com.ar/209506-fallecio-un-exintendente-del-interior-correntino",
+      "title": "Falleció un exintendente del interior correntino",
+      "volanta": "LAMENTABLE",
+      "date": "2026-06-12T20:26:50+00:00"
+    },
     {
       "id": "e4d235e0",
       "image": "img/e4d235e0.png",
@@ -531,15 +540,6 @@
       "title": "Presentaron la XXI° Fiesta Provincial de la Boga y el Pacú",
       "volanta": "EN CASA DE GOBIERNO",
       "date": "2026-06-10T19:01:03+00:00"
-    },
-    {
-      "id": "021bba9f",
-      "image": "img/021bba9f.png",
-      "image_sha": "04d97ce66b7fd9fc649690b8510f6da2bfe575dd",
-      "url": "https://www.radiodos.com.ar/209392-polich-sobre-el-corredor-belgrano-buscamos-coparticipar-en-el-tramo-que-nos-toca-en-lo-que-se-cobra-por-peaje",
-      "title": "Polich sobre el corredor Belgrano: \"Buscamos coparticipar en el tramo que nos toca en lo que se cobra por peaje\"",
-      "volanta": "DIÁLOGO CON NACIÓN",
-      "date": "2026-06-10T15:55:46+00:00"
     }
   ]
 }
