@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T17:00:14+00:00",
+  "updated": "2026-06-12T17:00:45+00:00",
   "posts": [
+    {
+      "id": "51a05ea0",
+      "image": "img/51a05ea0.png",
+      "image_sha": "efb0c13f3e42bdfba562c08d1c0c895c775801c0",
+      "url": "https://www.radiodos.com.ar/209494-corrientes-cerca-llega-al-barrio-virgen-de-los-dolores-con-un-amplio-operativo-integral",
+      "title": "\"Corrientes Cerca\" llega al Barrio Virgen de los Dolores con un amplio operativo integral",
+      "volanta": "DESPLIEGUE TERRITORIAL",
+      "date": "2026-06-12T17:00:45+00:00"
+    },
     {
       "id": "d8e8b059",
       "image": "img/d8e8b059.png",
@@ -531,15 +540,6 @@
       "title": "Le amputaron una pierna tras ser atropellado: el responsable está prófugo",
       "volanta": "BARRIO PUJOL",
       "date": "2026-06-10T14:54:23+00:00"
-    },
-    {
-      "id": "a2708d04",
-      "image": "img/a2708d04.png",
-      "image_sha": "7b8b1e153af2634ebb2e2144dac8a705f27728af",
-      "url": "https://www.radiodos.com.ar/209377-hay-dos-opciones-lionel-scaloni-adelanto-cuando-anunciara-al-reemplazante-de-leonardo-balerdi",
-      "title": "\"Hay dos opciones\": Lionel Scaloni adelantó cuándo anunciará al reemplazante de Leonardo Balerdi",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-10T14:37:02+00:00"
     }
   ]
 }
