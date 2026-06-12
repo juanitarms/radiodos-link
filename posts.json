@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T21:11:28+00:00",
+  "updated": "2026-06-12T21:15:14+00:00",
   "posts": [
+    {
+      "id": "549113b8",
+      "image": "img/549113b8.png",
+      "image_sha": "f307abf6b2c45f45078a5d8041ef723def03f91f",
+      "url": "https://www.radiodos.com.ar/209512-futbolista-de-newell’s-involucrado-en-el-accidente-de-transito-en-chaco-donde-murio-una-persona",
+      "title": "Futbolista de Newell’s involucrado en el accidente de tránsito en Chaco donde murió una persona",
+      "volanta": "RUTA 11",
+      "date": "2026-06-12T21:15:14+00:00"
+    },
     {
       "id": "d2daa02d",
       "image": "img/d2daa02d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: cazadores furtivos cayeron con 10 medias reses de ciervos",
       "volanta": "SAUCE",
       "date": "2026-06-10T20:31:30+00:00"
-    },
-    {
-      "id": "e158afdf",
-      "image": "img/e158afdf.png",
-      "image_sha": "c61bfa63b483fa19e58a5a1e5a71b6ff374f3d9f",
-      "url": "https://www.radiodos.com.ar/209392-polich-sobre-el-corredor-belgrano-buscamos-coparticipar-en-el-tramo-que-nos-toca-en-lo-que-se-cobra-por-peaje",
-      "title": "“Los vecinos de corrientes no tienen porque seguir pagando el mantenimiento del corredor Belgrano cuando hay un peaje”",
-      "volanta": "claudio polich",
-      "date": "2026-06-10T20:29:37+00:00"
     }
   ]
 }
