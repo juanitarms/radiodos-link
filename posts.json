@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T20:26:50+00:00",
+  "updated": "2026-06-12T21:08:16+00:00",
   "posts": [
+    {
+      "id": "e161bc85",
+      "image": "img/e161bc85.png",
+      "image_sha": "f840012510a5eca28b8ab277a9d5b59fae3aca05",
+      "url": "https://www.radiodos.com.ar/209509-el-planteo-del-pro-a-milei-queremos-que-usted-defienda-el-cambio-y-no-a-adorni",
+      "title": "El planteo del PRO a Milei: \"Queremos que usted defienda el cambio y no a Adorni\"",
+      "volanta": "INTERNA OFICIALISTA",
+      "date": "2026-06-12T21:08:16+00:00"
+    },
     {
       "id": "d1f5d47d",
       "image": "img/d1f5d47d.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a varias personas y secuestraron armas blancas y otros elementos",
       "volanta": "GRUPO DE RESPUESTA INMEDIATA MOTORIZADA Nº5",
       "date": "2026-06-10T19:01:40+00:00"
-    },
-    {
-      "id": "523bac86",
-      "image": "img/523bac86.png",
-      "image_sha": "1c004cdd7b680292fd711473985e67f04138ab9d",
-      "url": "https://www.radiodos.com.ar/209395-presentaron-la-xxi°-fiesta-provincial-de-la-boga-y-el-pacu",
-      "title": "Presentaron la XXI° Fiesta Provincial de la Boga y el Pacú",
-      "volanta": "EN CASA DE GOBIERNO",
-      "date": "2026-06-10T19:01:03+00:00"
     }
   ]
 }
