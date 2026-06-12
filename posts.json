@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T22:38:05+00:00",
+  "updated": "2026-06-12T02:06:57+00:00",
   "posts": [
+    {
+      "id": "4ea85240",
+      "image": "img/4ea85240.png",
+      "image_sha": "1792dfa45483cb0078d295525054f47633ac5975",
+      "url": "https://www.radiodos.com.ar/209461-canasta-basica-una-familia-necesito-casi-1500000-para-no-ser-pobre-en-mayo",
+      "title": "Canasta básica: una familia necesitó casi $1.500.000 para no ser pobre en mayo",
+      "volanta": "Datos oficiales",
+      "date": "2026-06-12T02:06:57+00:00"
+    },
     {
       "id": "1b277065",
       "image": "img/1b277065.png",
@@ -531,15 +540,6 @@
       "title": "Estados Unidos lanza nuevos ataques contra Irán en respuesta al derribo de un helicóptero",
       "volanta": "MEDIO ORIENTE",
       "date": "2026-06-09T22:29:15+00:00"
-    },
-    {
-      "id": "4c6a8fc5",
-      "image": "img/4c6a8fc5.png",
-      "image_sha": "ca44fd9a80387b551a30d7f9b1d921f61aa05005",
-      "url": "https://www.radiodos.com.ar/209351-guido-rodriguez-se-posiciona-como-candidato-para-reemplazar-a-balerdi",
-      "title": "Guido Rodríguez se posiciona como candidato para reemplazar a Balerdi",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-09T22:03:51+00:00"
     }
   ]
 }
