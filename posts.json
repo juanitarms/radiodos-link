@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T14:35:36+00:00",
+  "updated": "2026-06-12T16:59:40+00:00",
   "posts": [
+    {
+      "id": "14c135c0",
+      "image": "img/14c135c0.png",
+      "image_sha": "70af552425c44c0fe0a9397d309071cb7f61d82a",
+      "url": "https://www.radiodos.com.ar/209491-la-oit-acordo-el-primer-convenio-para-trabajadores-de-plataformas-todos-los-detalles",
+      "title": "La OIT acordó el primer convenio para trabajadores de plataformas: todos los detalles",
+      "volanta": "NORMATIVA",
+      "date": "2026-06-12T16:59:40+00:00"
+    },
     {
       "id": "a7e85b03",
       "image": "img/a7e85b03.png",
@@ -531,15 +540,6 @@
       "title": "Manuel Adorni se adhirió al Régimen de Inocencia Fiscal",
       "volanta": "JEFE DE GABINETE",
       "date": "2026-06-10T14:18:20+00:00"
-    },
-    {
-      "id": "cc7a14ad",
-      "image": "img/cc7a14ad.png",
-      "image_sha": "3c681b12a55b1d07e34b41af6ab8c4d2b3b698f9",
-      "url": "https://www.radiodos.com.ar/209384-juan-gil-navarro-sorprendio-con-una-romantica-declaracion-para-su-novia-25-anos-menor",
-      "title": "Juan Gil Navarro sorprendió con una romántica declaración para su novia 25 años menor",
-      "volanta": "ENAMORADO",
-      "date": "2026-06-10T14:01:54+00:00"
     }
   ]
 }
