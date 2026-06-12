@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T13:37:50+00:00",
+  "updated": "2026-06-12T13:48:51+00:00",
   "posts": [
+    {
+      "id": "98634449",
+      "image": "img/98634449.png",
+      "image_sha": "9069eda52274c01b448167ccb723287ea66863be",
+      "url": "https://www.radiodos.com.ar/209488-anses-el-bono-de-hasta-450000-que-recibira-un-grupo-de-beneficiarios",
+      "title": "ANSES: el bono de hasta $450.000 que recibirá un grupo de beneficiarios",
+      "volanta": "ATENCIÓN",
+      "date": "2026-06-12T13:48:51+00:00"
+    },
     {
       "id": "fdd0cacc",
       "image": "img/fdd0cacc.png",
@@ -531,15 +540,6 @@
       "title": "Danelik explotó tras la salida de Brian Sarmiento de Gran Hermano: \"Moralistas de cartón\"",
       "volanta": "ENOJADA",
       "date": "2026-06-10T13:33:34+00:00"
-    },
-    {
-      "id": "62734ec4",
-      "image": "img/62734ec4.png",
-      "image_sha": "8ea6e696aa5b11a6a5a12b680835f6c0774f8801",
-      "url": "https://www.radiodos.com.ar/209378-hablo-la-mama-de-la-nina-l-tras-la-aparicion-de-su-hija-en-cordoba-no-se-lo-deseo-a-nadie",
-      "title": "Habló la mamá de la niña L tras la aparición de su hija en Córdoba: \"No se lo deseo a nadie\"",
-      "volanta": "Intensa búsqueda",
-      "date": "2026-06-10T13:18:29+00:00"
     }
   ]
 }
