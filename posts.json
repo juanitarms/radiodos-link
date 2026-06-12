@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T17:00:45+00:00",
+  "updated": "2026-06-12T18:09:52+00:00",
   "posts": [
+    {
+      "id": "4dd80a20",
+      "image": "img/4dd80a20.png",
+      "image_sha": "fe07d1d2071147116eb3bee41e9b1d1e0fcbc227",
+      "url": "https://www.radiodos.com.ar/209493-murio-la-princesa-de-tailandia-tras-pasar-mas-de-tres-anos-en-coma",
+      "title": "Murió la princesa de Tailandia tras pasar más de tres años en coma",
+      "volanta": "LUTO",
+      "date": "2026-06-12T18:09:52+00:00"
+    },
     {
       "id": "51a05ea0",
       "image": "img/51a05ea0.png",
@@ -531,15 +540,6 @@
       "title": "Premian trabajo de un Becario Doctoral de FaCENA en el encuentro nacional de nanotecnología",
       "volanta": "DESTACADO",
       "date": "2026-06-10T15:18:18+00:00"
-    },
-    {
-      "id": "fcd2efaf",
-      "image": "img/fcd2efaf.png",
-      "image_sha": "b1fd62bfd8d37228fe1bb1b52dce91c93fd7f50c",
-      "url": "https://www.radiodos.com.ar/209389-le-amputaron-una-pierna-tras-ser-atropellado-el-responsable-esta-profugo-",
-      "title": "Le amputaron una pierna tras ser atropellado: el responsable está prófugo",
-      "volanta": "BARRIO PUJOL",
-      "date": "2026-06-10T14:54:23+00:00"
     }
   ]
 }
