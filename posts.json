@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T22:08:12+00:00",
+  "updated": "2026-06-12T22:29:33+00:00",
   "posts": [
+    {
+      "id": "45bca74b",
+      "image": "img/45bca74b.png",
+      "image_sha": "7e80ed79b9ccefa54599abcec0ac0fdc414ddbcd",
+      "url": "https://www.radiodos.com.ar/209519-se-presento-oficialmente-el-torneo-argentino-de-federaciones-en-corrientes",
+      "title": "Se presentó oficialmente el Torneo Argentino de Federaciones en Corrientes",
+      "volanta": "BASQUET",
+      "date": "2026-06-12T22:29:33+00:00"
+    },
     {
       "id": "4867cf66",
       "image": "img/4867cf66.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno anunció un acuerdo salarial y para el financiamiento de las universidades",
       "volanta": "Tras los reclamos,",
       "date": "2026-06-10T22:03:17+00:00"
-    },
-    {
-      "id": "9dd37f76",
-      "image": "img/9dd37f76.png",
-      "image_sha": "27317306309d4075e846055bb1f0faddbd9b642c",
-      "url": "https://www.radiodos.com.ar/209403-mandiyu-vencio-a-huracan-y-se-metio-en-una-nueva-final",
-      "title": "Mandiyú venció a Huracán y se metió en una nueva final",
-      "volanta": "FÚTBOL CORRENTINO",
-      "date": "2026-06-10T21:27:31+00:00"
     }
   ]
 }
