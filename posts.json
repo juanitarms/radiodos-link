@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T12:47:16+00:00",
+  "updated": "2026-06-12T12:56:26+00:00",
   "posts": [
+    {
+      "id": "cfd4ef2f",
+      "image": "img/cfd4ef2f.png",
+      "image_sha": "9f99d69cdb16cd7b1dc00a33194c061eb24c2dab",
+      "url": "https://www.radiodos.com.ar/209476-convocan-a-adoptar-a-una-adolescente-de-17-anos-en-corrientes",
+      "title": "Convocan a adoptar a una adolescente de 17 años en Corrientes",
+      "volanta": "ENGOYA",
+      "date": "2026-06-12T12:56:26+00:00"
+    },
     {
       "id": "02cef9a7",
       "image": "img/02cef9a7.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de Axel Kicillof a un año del fallo contra Cristina Kirchner: \"Enorme infamia\"",
       "volanta": "POSTURA",
       "date": "2026-06-10T12:59:13+00:00"
-    },
-    {
-      "id": "eaa998ec",
-      "image": "img/eaa998ec.png",
-      "image_sha": "b3355431845f2e96b8e494e2b380115ec7194df7",
-      "url": "https://www.radiodos.com.ar/209362-alerta-por-nuevas-peleas-entre-pandillas-en-corrientes-hay-un-menor-de-11-anos-herido-de-un-disparo",
-      "title": "Alerta por nuevas peleas entre \"pandillas\" en Corrientes: hay un menor de 11 años herido de un disparo",
-      "volanta": "CRECE LA TENSIÓN",
-      "date": "2026-06-10T12:36:28+00:00"
     }
   ]
 }
