@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T22:05:33+00:00",
+  "updated": "2026-06-12T22:08:12+00:00",
   "posts": [
+    {
+      "id": "4867cf66",
+      "image": "img/4867cf66.png",
+      "image_sha": "d65273316174c3dd6c0604647e862f13a5324687",
+      "url": "https://www.radiodos.com.ar/209517-historico-el-inedito-cobro-de-facundo-tello-en-el-mundial-2026",
+      "title": "Histórico: el inédito cobro de Facundo Tello en el Mundial 2026",
+      "volanta": "arbitro argentino",
+      "date": "2026-06-12T22:08:12+00:00"
+    },
     {
       "id": "da815bed",
       "image": "img/da815bed.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú venció a Huracán y se metió en una nueva final",
       "volanta": "FÚTBOL CORRENTINO",
       "date": "2026-06-10T21:27:31+00:00"
-    },
-    {
-      "id": "695f368e",
-      "image": "img/695f368e.png",
-      "image_sha": "6b0f768f534e5022f1eab9cf4dc6454dc17cc7b7",
-      "url": "https://www.radiodos.com.ar/209402-joven-peaton-herida-tras-ser-chocada-en-una-esquina-de-peatonal-junin",
-      "title": "Joven peatón herida tras ser chocada en una esquina de peatonal Junín",
-      "volanta": "pleno centro correntino",
-      "date": "2026-06-10T21:19:18+00:00"
     }
   ]
 }
