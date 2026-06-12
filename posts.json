@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T10:49:22+00:00",
+  "updated": "2026-06-12T10:58:40+00:00",
   "posts": [
+    {
+      "id": "4dcd0673",
+      "image": "img/4dcd0673.png",
+      "image_sha": "d47d18517730dfb4623e70083102f83c98db4753",
+      "url": "https://www.radiodos.com.ar/209463-conmocion-en-corrientes-dos-efectivos-de-prefectura-fallecieron-en-el-transcurso-de-pocas-horas",
+      "title": "Conmoción en Corrientes: dos efectivos de Prefectura fallecieron en el transcurso de pocas horas",
+      "volanta": "EN CAPITAL E INTERIOR",
+      "date": "2026-06-12T10:58:40+00:00"
+    },
     {
       "id": "f2ce5862",
       "image": "img/f2ce5862.png",
@@ -531,15 +540,6 @@
       "title": "Provincia y municipios fortalecen acciones para la protección integral de niñas, niños y adolescentes",
       "volanta": "NIÑEZ Y ADOLESCENCIA",
       "date": "2026-06-09T22:35:07+00:00"
-    },
-    {
-      "id": "5cf5bb92",
-      "image": "img/5cf5bb92.png",
-      "image_sha": "8e804e0f149bc4a8044cef8ea2ce70df6bd20410",
-      "url": "https://www.radiodos.com.ar/209347-procesan-por-presunto-enriquecimiento-ilicito-al-exintendente-de-santo-tome",
-      "title": "Procesan por presunto enriquecimiento ilícito al exintendente de Santo Tomé",
-      "volanta": "CORRUPCIÓN",
-      "date": "2026-06-09T22:29:46+00:00"
     }
   ]
 }
