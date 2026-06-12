@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T11:29:06+00:00",
+  "updated": "2026-06-12T11:44:00+00:00",
   "posts": [
+    {
+      "id": "f239bf2e",
+      "image": "img/f239bf2e.png",
+      "image_sha": "b53da3fc6ddf6a4895575c50369a04d844e3efc3",
+      "url": "https://www.radiodos.com.ar/209467-corrientes-robo-una-moto-y-se-escondio-debajo-de-una-cama",
+      "title": "Corrientes: robó una moto y se escondió debajo de una cama",
+      "volanta": "RAPIDO ACCIONAR",
+      "date": "2026-06-12T11:44:00+00:00"
+    },
     {
       "id": "c461b14b",
       "image": "img/c461b14b.png",
@@ -531,15 +540,6 @@
       "title": "Ituzaingó: capturaron a dos narcos con ladrillos cocaína valuados en $37 millones",
       "volanta": "Policía Federal",
       "date": "2026-06-10T11:33:31+00:00"
-    },
-    {
-      "id": "3f4a0e99",
-      "image": "img/3f4a0e99.png",
-      "image_sha": "228683e879df7805b0aca3dabd9ad0acbbb56f2a",
-      "url": "https://www.radiodos.com.ar/209358-habilitan-revision-de-una-sentencia-por-lesiones-graves-culposas-en-un-siniestro-vial",
-      "title": "Habilitan revisión de una sentencia por lesiones graves culposas en un siniestro vial",
-      "volanta": "STJ",
-      "date": "2026-06-10T11:04:48+00:00"
     }
   ]
 }
