@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T21:15:14+00:00",
+  "updated": "2026-06-12T21:30:52+00:00",
   "posts": [
+    {
+      "id": "dc548f96",
+      "image": "img/dc548f96.png",
+      "image_sha": "d169eb916c58f6d00811074650f4b93b597fe82a",
+      "url": "https://www.radiodos.com.ar/209515-bruno-lovinson-los-pronosticos-no-son-alentadores-pero-tenemos-elementos-que-nos-dan-previsibilidad",
+      "title": "Bruno Lovinson: \"Los pronósticos no son alentadores, pero tenemos elementos que nos dan previsibilidad\"",
+      "volanta": "FENOMENO DE EL NIÑO",
+      "date": "2026-06-12T21:30:52+00:00"
+    },
     {
       "id": "549113b8",
       "image": "img/549113b8.png",
@@ -531,15 +540,6 @@
       "title": "Goya: robó un lavatorio en una capilla e intentó venderlo en la calle",
       "volanta": "BARRIO SAN RAMON",
       "date": "2026-06-10T21:07:51+00:00"
-    },
-    {
-      "id": "6972cf66",
-      "image": "img/6972cf66.png",
-      "image_sha": "68274957b4318f7c977c00e13acc9de62dd8a9e1",
-      "url": "https://www.radiodos.com.ar/209399-corrientes-cazadores-furtivos-cayeron-con-10-medias-reses-de-ciervos",
-      "title": "Corrientes: cazadores furtivos cayeron con 10 medias reses de ciervos",
-      "volanta": "SAUCE",
-      "date": "2026-06-10T20:31:30+00:00"
     }
   ]
 }
