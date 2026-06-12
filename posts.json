@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T12:28:04+00:00",
+  "updated": "2026-06-12T12:47:16+00:00",
   "posts": [
+    {
+      "id": "02cef9a7",
+      "image": "img/02cef9a7.png",
+      "image_sha": "7b17f9d511ae669127ed971190b5e13f7724364d",
+      "url": "https://www.radiodos.com.ar/209472-sprovieri-impulsa-una-reforma-para-fortalecer-la-representacion-federal-en-abappra",
+      "title": "Sprovieri impulsa una reforma para fortalecer la representación federal en ABAPPRA",
+      "volanta": "BANCO DE CORRIENTES",
+      "date": "2026-06-12T12:47:16+00:00"
+    },
     {
       "id": "379fbe18",
       "image": "img/379fbe18.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por nuevas peleas entre \"pandillas\" en Corrientes: hay un menor de 11 años herido de un disparo",
       "volanta": "CRECE LA TENSIÓN",
       "date": "2026-06-10T12:36:28+00:00"
-    },
-    {
-      "id": "feb3f1b1",
-      "image": "img/feb3f1b1.png",
-      "image_sha": "176fe67948ec1497c552889d804e8d215a4f5a34",
-      "url": "https://www.radiodos.com.ar/209367-demoran-a-un-menor-que-llevaba-entre-sus-pertenencias-marihuana",
-      "title": "Demoran a un menor que llevaba entre sus pertenencias marihuana",
-      "volanta": "TRABAJO EN CONJUNTO",
-      "date": "2026-06-10T12:26:28+00:00"
     }
   ]
 }
