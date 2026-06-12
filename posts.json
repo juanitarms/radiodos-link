@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T12:56:26+00:00",
+  "updated": "2026-06-12T13:37:50+00:00",
   "posts": [
+    {
+      "id": "fdd0cacc",
+      "image": "img/fdd0cacc.png",
+      "image_sha": "054b90ce76aa426932ae06bf4f7cc1b8e68699c1",
+      "url": "https://www.radiodos.com.ar/209484-hacia-los-70-anos-de-la-unne-flamante-inauguracion-de-la-remodelacion-del-edificio-rectorado-y-del-vitreaux-de-la-cupula-central",
+      "title": "Hacia los 70 años de la UNNE: flamante inauguración de la remodelación del edificio Rectorado y del vitreaux de la cúpula central",
+      "volanta": "INFRAESTRUCTURA, ACCESIBILIDAD Y MODERNIZACIÓN",
+      "date": "2026-06-12T13:37:50+00:00"
+    },
     {
       "id": "cfd4ef2f",
       "image": "img/cfd4ef2f.png",
@@ -531,15 +540,6 @@
       "title": "Habló la mamá de la niña L tras la aparición de su hija en Córdoba: \"No se lo deseo a nadie\"",
       "volanta": "Intensa búsqueda",
       "date": "2026-06-10T13:18:29+00:00"
-    },
-    {
-      "id": "ac0fe084",
-      "image": "img/ac0fe084.png",
-      "image_sha": "bfb6d131f644e4c156a91e6f01ba3d03d94ab565",
-      "url": "https://www.radiodos.com.ar/209371-el-mensaje-de-axel-kicillof-a-un-ano-del-fallo-contra-cristina-kirchner-enorme-infamia",
-      "title": "El mensaje de Axel Kicillof a un año del fallo contra Cristina Kirchner: \"Enorme infamia\"",
-      "volanta": "POSTURA",
-      "date": "2026-06-10T12:59:13+00:00"
     }
   ]
 }
