@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-12T16:59:40+00:00",
+  "updated": "2026-06-12T17:00:14+00:00",
   "posts": [
+    {
+      "id": "d8e8b059",
+      "image": "img/d8e8b059.png",
+      "image_sha": "bda72b8d890c67a2cddf2b65404188de980ab22e",
+      "url": "https://www.radiodos.com.ar/209492-rosario-mataron-a-tiros-a-un-efectivo-de-la-policia-federal-en-villa-banana",
+      "title": "Rosario: mataron a tiros a un efectivo de la Policía Federal en Villa Banana",
+      "volanta": "CRIMEN",
+      "date": "2026-06-12T17:00:14+00:00"
+    },
     {
       "id": "14c135c0",
       "image": "img/14c135c0.png",
@@ -531,15 +540,6 @@
       "title": "\"Hay dos opciones\": Lionel Scaloni adelantó cuándo anunciará al reemplazante de Leonardo Balerdi",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-10T14:37:02+00:00"
-    },
-    {
-      "id": "398ef93d",
-      "image": "img/398ef93d.png",
-      "image_sha": "dd77f0aaa005c414c848ce89212e9d949dee9d19",
-      "url": "https://www.radiodos.com.ar/209385-manuel-adorni-se-adhirio-al-regimen-de-inocencia-fiscal",
-      "title": "Manuel Adorni se adhirió al Régimen de Inocencia Fiscal",
-      "volanta": "JEFE DE GABINETE",
-      "date": "2026-06-10T14:18:20+00:00"
     }
   ]
 }
