@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T13:36:23+00:00",
+  "updated": "2026-06-13T18:43:35+00:00",
   "posts": [
+    {
+      "id": "593fda1a",
+      "image": "img/593fda1a.png",
+      "image_sha": "7c1cfc1dc07c1019e7ab5e7f31cc614b52aa33de",
+      "url": "https://www.radiodos.com.ar/209525-a-dos-anos-de-la-desaparicion-de-loan-como-fue-el-ultimo-dia-del-pequeno-en-corrientes",
+      "title": "A dos años de la desaparición de Loan: cómo fue el último día del pequeño en Corrientes",
+      "volanta": "SIN JUSTICIA",
+      "date": "2026-06-13T18:43:35+00:00"
+    },
     {
       "id": "88906cc0",
       "image": "img/88906cc0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: le robaron la bici mientras vendía pan casero en la calle",
       "volanta": "LA RECUPERÓ LA POLICÍA",
       "date": "2026-06-11T12:18:27+00:00"
-    },
-    {
-      "id": "5d6d9471",
-      "image": "img/5d6d9471.png",
-      "image_sha": "93be963eefb837931af4007abdde55b66067751f",
-      "url": "https://www.radiodos.com.ar/209416-que-canales-y-plataformas-van-a-pasar-el-mundial-2026-en-argentina",
-      "title": "Qué canales  y plataformas van a pasar el Mundial 2026 en Argentina",
-      "volanta": "FÚTBOL",
-      "date": "2026-06-11T11:18:22+00:00"
     }
   ]
 }
