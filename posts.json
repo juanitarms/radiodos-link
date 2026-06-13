@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T12:19:29+00:00",
+  "updated": "2026-06-13T12:40:01+00:00",
   "posts": [
+    {
+      "id": "7238f704",
+      "image": "img/7238f704.png",
+      "image_sha": "f082a37a32041c73cffb8ca2240d37824f28e373",
+      "url": "https://www.radiodos.com.ar/209521-buscan-a-una-adolescente-que-se-fugo-de-un-hogar-de-contencion-en-corrientes",
+      "title": "Buscan a una adolescente que se fugó de un hogar de contención en Corrientes",
+      "volanta": "PEDIDO DE COLABORACIÓN",
+      "date": "2026-06-13T12:40:01+00:00"
+    },
     {
       "id": "2ff93460",
       "image": "img/2ff93460.png",
@@ -531,15 +540,6 @@
       "title": "Omar Larrosa se encamina a su reelección como rector de la UNNE",
       "volanta": "ENTREVISTA CON RADIO DOS",
       "date": "2026-06-10T23:15:59+00:00"
-    },
-    {
-      "id": "d0d21293",
-      "image": "img/d0d21293.png",
-      "image_sha": "288c4756a336672baa7c5fc321378170bc7ade5c",
-      "url": "https://www.radiodos.com.ar/209404-dos-detenidos-tras-una-persecucion-policial-en-el-barrio-san-geronimo",
-      "title": "Dos detenidos tras una persecución policial en el barrio San Gerónimo",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-10T22:58:34+00:00"
     }
   ]
 }
