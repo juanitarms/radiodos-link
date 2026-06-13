@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T18:43:35+00:00",
+  "updated": "2026-06-13T22:22:18+00:00",
   "posts": [
+    {
+      "id": "87ccde4e",
+      "image": "img/87ccde4e.png",
+      "image_sha": "e9bf1566f7549e4c53684ec795525a43b6d34aa8",
+      "url": "https://www.radiodos.com.ar/209529-valdes-acompano-a-la-comunidad-de-mburucuya-en-su-fiesta-patronal-por-san-antonio-de-padua",
+      "title": "Valdés acompañó a la comunidad de Mburucuyá en su fiesta patronal por San Antonio de Padua",
+      "volanta": "SANTA MISA",
+      "date": "2026-06-13T22:22:18+00:00"
+    },
     {
       "id": "593fda1a",
       "image": "img/593fda1a.png",
@@ -531,15 +540,6 @@
       "title": "Cannabis medicinal y consumo problemático: primer Ateneo del Instituto Médico Forense",
       "volanta": "PODER JUDICIAL",
       "date": "2026-06-11T12:34:26+00:00"
-    },
-    {
-      "id": "73713798",
-      "image": "img/73713798.png",
-      "image_sha": "da601305e1daa6c7f92c2b42e999c516d64a3484",
-      "url": "https://www.radiodos.com.ar/209422-corrientes-le-robaron-la-bici-mientras-vendia-pan-casero-en-la-calle",
-      "title": "Corrientes: le robaron la bici mientras vendía pan casero en la calle",
-      "volanta": "LA RECUPERÓ LA POLICÍA",
-      "date": "2026-06-11T12:18:27+00:00"
     }
   ]
 }
