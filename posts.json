@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T22:22:18+00:00",
+  "updated": "2026-06-13T23:27:45+00:00",
   "posts": [
+    {
+      "id": "cefd920d",
+      "image": "img/cefd920d.png",
+      "image_sha": "ccb1aef8235e26413e2bfbcceb8134d315226efb",
+      "url": "https://www.radiodos.com.ar/209532-corrientes-anime-una-nueva-propuesta-para-los-amantes-de-la-cultura-geek-y-otaku",
+      "title": "Corrientes Anime: una nueva propuesta para los amantes de la cultura geek y otaku",
+      "volanta": "CULTURA",
+      "date": "2026-06-13T23:27:45+00:00"
+    },
     {
       "id": "87ccde4e",
       "image": "img/87ccde4e.png",
@@ -531,15 +540,6 @@
       "title": "\"Una vergüenza\": la fulminante reacción de Victoria Villarruel tras la declaración jurada de Manuel Adorni",
       "volanta": "POLÉMICA",
       "date": "2026-06-11T12:49:24+00:00"
-    },
-    {
-      "id": "1e952506",
-      "image": "img/1e952506.png",
-      "image_sha": "ca2fc99183d873859ba32b2f6c8363475caf0534",
-      "url": "https://www.radiodos.com.ar/209415-cannabis-medicinal-y-consumo-problematico-primer-ateneo-del-instituto-medico-forense",
-      "title": "Cannabis medicinal y consumo problemático: primer Ateneo del Instituto Médico Forense",
-      "volanta": "PODER JUDICIAL",
-      "date": "2026-06-11T12:34:26+00:00"
     }
   ]
 }
