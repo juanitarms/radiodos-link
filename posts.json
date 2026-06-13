@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T13:14:04+00:00",
+  "updated": "2026-06-13T13:36:23+00:00",
   "posts": [
+    {
+      "id": "88906cc0",
+      "image": "img/88906cc0.png",
+      "image_sha": "74870e2f107fde992e29ae15f0ef8c2c6bdda16f",
+      "url": "https://www.radiodos.com.ar/209524-inflacion-en-el-nea-los-alimentos-aumentaron-un-20-en-lo-que-va-del-ano",
+      "title": "Inflación en el NEA: los alimentos aumentaron un 20% en lo que va del año",
+      "volanta": "NUMEROS",
+      "date": "2026-06-13T13:36:23+00:00"
+    },
     {
       "id": "4bd4cb50",
       "image": "img/4bd4cb50.png",
@@ -531,15 +540,6 @@
       "title": "Qué canales  y plataformas van a pasar el Mundial 2026 en Argentina",
       "volanta": "FÚTBOL",
       "date": "2026-06-11T11:18:22+00:00"
-    },
-    {
-      "id": "4276b156",
-      "image": "img/4276b156.png",
-      "image_sha": "46358eda28ae573aaae8053c792d3c846bb35490",
-      "url": "https://www.radiodos.com.ar/209413-comienza-el-mundial-2026-el-calendario-completo-con-los-dias-horarios-y-estadios-de-todos-los-partidos",
-      "title": "Comienza el Mundial 2026: el calendario completo con los días, horarios y estadios de todos los partidos",
-      "volanta": "ACTO INAUGURAL A LAS 14:30",
-      "date": "2026-06-11T10:48:35+00:00"
     }
   ]
 }
