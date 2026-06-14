@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T23:27:45+00:00",
+  "updated": "2026-06-14T00:40:44+00:00",
   "posts": [
+    {
+      "id": "f1e281f6",
+      "image": "img/f1e281f6.png",
+      "image_sha": "6f8a008c9ee972a97855ae6f121f1b13aba67e20",
+      "url": "https://www.radiodos.com.ar/209548-sobre-el-final-qatar-rescato-un-empate-por-1-1-ante-suiza-por-el-mundial-2026",
+      "title": "Sobre el final: Qatar rescató un empate por 1-1 ante Suiza por el Mundial 2026",
+      "volanta": "GRUPO B",
+      "date": "2026-06-14T00:40:44+00:00"
+    },
     {
       "id": "cefd920d",
       "image": "img/cefd920d.png",
@@ -531,15 +540,6 @@
       "title": "Emiliano Yacobitti anunció un acuerdo financiero con el Gobierno, aunque señaló que es \"insuficiente\"",
       "volanta": "Avance",
       "date": "2026-06-11T13:07:06+00:00"
-    },
-    {
-      "id": "6e571569",
-      "image": "img/6e571569.png",
-      "image_sha": "73b4614d5736502793341204e6854900b93b99af",
-      "url": "https://www.radiodos.com.ar/209424-una-verguenza-la-fulminante-reaccion-de-victoria-villarruel-tras-la-declaracion-jurada-de-manuel-adorni",
-      "title": "\"Una vergüenza\": la fulminante reacción de Victoria Villarruel tras la declaración jurada de Manuel Adorni",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-11T12:49:24+00:00"
     }
   ]
 }
