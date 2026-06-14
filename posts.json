@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-14T00:40:44+00:00",
+  "updated": "2026-06-14T03:38:05+00:00",
   "posts": [
+    {
+      "id": "f5a638d6",
+      "image": "img/f5a638d6.png",
+      "image_sha": "8c48da54e1622d8c14e8b0568fff1970ef24c02b",
+      "url": "https://www.radiodos.com.ar/209531-domingo-de-bicicletas-y-disfrute-seguro-la-ciudad-sera-sede-del-primer-encuentro-nacional-de-stunt",
+      "title": "Domingo de bicicletas y disfrute seguro: la ciudad será sede del Primer Encuentro Nacional de Stunt",
+      "volanta": "ESPECIALIDAD CON FUERTE CRECIMIENTO",
+      "date": "2026-06-14T03:38:05+00:00"
+    },
     {
       "id": "f1e281f6",
       "image": "img/f1e281f6.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés confirmó una reunión de Gabinete para mañana: \"Para trazar ejes y ajustar tornillos\"",
       "volanta": "GOBERNADOR",
       "date": "2026-06-11T13:36:02+00:00"
-    },
-    {
-      "id": "9ead2f87",
-      "image": "img/9ead2f87.png",
-      "image_sha": "d85c7b044b1b9d006df82c066296b23200eceba0",
-      "url": "https://www.radiodos.com.ar/209426-emiliano-yacobitti-anuncio-un-acuerdo-financiero-con-el-gobierno-aunque-senalo-que-es-insuficiente",
-      "title": "Emiliano Yacobitti anunció un acuerdo financiero con el Gobierno, aunque señaló que es \"insuficiente\"",
-      "volanta": "Avance",
-      "date": "2026-06-11T13:07:06+00:00"
     }
   ]
 }
