@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-14T15:34:52+00:00",
+  "updated": "2026-06-14T15:54:51+00:00",
   "posts": [
+    {
+      "id": "53435eae",
+      "image": "img/53435eae.png",
+      "image_sha": "5911ecdc7aa20286f7c80374f81399bb100fd189",
+      "url": "https://www.radiodos.com.ar/209556-dia-mundial-del-dengue-importancia-de-la-prevencion-frente-a-una-amenaza-global-en-expansion",
+      "title": "Día Mundial del Dengue: importancia de la prevención frente a una amenaza global en expansión",
+      "volanta": "SALUD",
+      "date": "2026-06-14T15:54:51+00:00"
+    },
     {
       "id": "85bdb24e",
       "image": "img/85bdb24e.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron muerta a adolescente de 15 años en La Plata e investigan una denuncia por abuso",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-06-11T13:58:11+00:00"
-    },
-    {
-      "id": "2d8b360f",
-      "image": "img/2d8b360f.png",
-      "image_sha": "e97c2469ae32b9f1c6b3dafc142d865ba3aa0120",
-      "url": "https://www.radiodos.com.ar/209427-fuerte-rechazo-a-manuel-adorni-mas-del-80-de-los-argentinos-desconfia-de-la-explicacion-sobre-su-riqueza",
-      "title": "Fuerte rechazo a Manuel Adorni: más del 80% de los argentinos desconfía de la explicación sobre su riqueza",
-      "volanta": "DATOS",
-      "date": "2026-06-11T13:43:14+00:00"
     }
   ]
 }
