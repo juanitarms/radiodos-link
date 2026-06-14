@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-14T15:54:51+00:00",
+  "updated": "2026-06-14T16:03:11+00:00",
   "posts": [
+    {
+      "id": "5f60efcd",
+      "image": "img/5f60efcd.png",
+      "image_sha": "3564c80c101d5925e152366be8bd7b9501edac29",
+      "url": "https://www.radiodos.com.ar/209554-dos-anos-sin-loan-como-sera-el-juicio-en-el-que-se-buscara-que-los-acusados-hablen",
+      "title": "Dos años sin Loan: cómo será el juicio en el que se buscará que los acusados hablen",
+      "volanta": "corrientes",
+      "date": "2026-06-14T16:03:11+00:00"
+    },
     {
       "id": "53435eae",
       "image": "img/53435eae.png",
@@ -531,15 +540,6 @@
       "title": "Cris Morena celebró el éxito de Lali en River con un emotivo mensaje: \"El mundo necesita artistas como vos\"",
       "volanta": "ORGULLOSA",
       "date": "2026-06-11T14:10:52+00:00"
-    },
-    {
-      "id": "cfc752ba",
-      "image": "img/cfc752ba.png",
-      "image_sha": "7fbf5c2022c32351a82f2447d8bff45bfb29fa94",
-      "url": "https://www.radiodos.com.ar/209429-hallaron-muerta-a-adolescente-de-15-anos-en-la-plata-e-investigan-una-denuncia-por-abuso",
-      "title": "Hallaron muerta a adolescente de 15 años en La Plata e investigan una denuncia por abuso",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-06-11T13:58:11+00:00"
     }
   ]
 }
