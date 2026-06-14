@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-14T03:38:05+00:00",
+  "updated": "2026-06-14T15:34:52+00:00",
   "posts": [
+    {
+      "id": "85bdb24e",
+      "image": "img/85bdb24e.png",
+      "image_sha": "d7295c4298d5617927a8d2052ca3d2184062548f",
+      "url": "https://www.radiodos.com.ar/209552-la-unidad-transmitira-en-pantalla-gigante-todos-los-partidos-de-argentina",
+      "title": "La Unidad transmitirá en pantalla gigante todos los partidos de Argentina",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-14T15:34:52+00:00"
+    },
     {
       "id": "f5a638d6",
       "image": "img/f5a638d6.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte rechazo a Manuel Adorni: más del 80% de los argentinos desconfía de la explicación sobre su riqueza",
       "volanta": "DATOS",
       "date": "2026-06-11T13:43:14+00:00"
-    },
-    {
-      "id": "cd7e2f8e",
-      "image": "img/cd7e2f8e.png",
-      "image_sha": "432e5ef57c5afe65674b3bdc84ee1a5f760479ba",
-      "url": "https://www.radiodos.com.ar/209430-juan-pablo-valdes-confirmo-una-reunion-de-gabinete-para-manana-para-trazar-ejes-y-ajustar-tornillos",
-      "title": "Juan Pablo Valdés confirmó una reunión de Gabinete para mañana: \"Para trazar ejes y ajustar tornillos\"",
-      "volanta": "GOBERNADOR",
-      "date": "2026-06-11T13:36:02+00:00"
     }
   ]
 }
