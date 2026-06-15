@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T11:49:45+00:00",
+  "updated": "2026-06-15T12:13:30+00:00",
   "posts": [
+    {
+      "id": "bf393d77",
+      "image": "img/bf393d77.png",
+      "image_sha": "22fbac26cb0b440812b4b385f9ab8a438ff06b97",
+      "url": "https://www.radiodos.com.ar/209562-corrientes-incineraron-mas-de-3-mil-kilos-de-droga",
+      "title": "Corrientes: incineraron más de 3 mil kilos de droga",
+      "volanta": "EN VIRASORO",
+      "date": "2026-06-15T12:13:30+00:00"
+    },
     {
       "id": "1f87e338",
       "image": "img/1f87e338.png",
@@ -531,15 +540,6 @@
       "title": "Un conductor bajó de su auto para discutir, olvidó poner el freno de mano y provocó un choque",
       "volanta": "Neuquén",
       "date": "2026-06-11T16:17:27+00:00"
-    },
-    {
-      "id": "e256a6fa",
-      "image": "img/e256a6fa.png",
-      "image_sha": "1614a46cb5312a84a37de7001f8b3fd49ad11899",
-      "url": "https://www.radiodos.com.ar/209440-fue-abusada-y-se-encadeno-frente-a-un-tribunal-de-catamarca-hace-ocho-anos-que-espero-justicia",
-      "title": "Fue abusada y se encadenó frente a un tribunal de Catamarca: \"Hace ocho años que espero justicia\"",
-      "volanta": "FUERTE RECLAMO",
-      "date": "2026-06-11T16:16:57+00:00"
     }
   ]
 }
