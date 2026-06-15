@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T13:28:16+00:00",
+  "updated": "2026-06-15T13:39:38+00:00",
   "posts": [
+    {
+      "id": "0f0abc73",
+      "image": "img/0f0abc73.png",
+      "image_sha": "79b0872a45e6afbce5d686fc71a975c8276484bb",
+      "url": "https://www.radiodos.com.ar/209577-gran-hermano-la-coreografia-de-wrecking-ball-fue-aprobada-por-el-publico-y-desato-festejos",
+      "title": "Gran Hermano: la coreografía de \"Wrecking Ball\" fue aprobada por el público y desató festejos",
+      "volanta": "UN ÉXITO",
+      "date": "2026-06-15T13:39:38+00:00"
+    },
     {
       "id": "6edd2646",
       "image": "img/6edd2646.png",
@@ -531,15 +540,6 @@
       "title": "Estiman el aporte del lapacho negro en la captura de carbono y remoción de contaminantes en la costanera de Corrientes",
       "volanta": "MEDIO AMBIENTE",
       "date": "2026-06-11T18:20:27+00:00"
-    },
-    {
-      "id": "690e6b8b",
-      "image": "img/690e6b8b.png",
-      "image_sha": "cab846729a3328e50ca142f88037e58df042d05e",
-      "url": "https://www.radiodos.com.ar/209444-denuncio-a-su-padre-por-abuso-sexual-pero-la-justicia-cerro-la-causa-porque-prescribio",
-      "title": "Denunció a su padre por abuso sexual, pero la Justicia cerró la causa porque \"prescribió\"",
-      "volanta": "Misiones",
-      "date": "2026-06-11T18:19:52+00:00"
     }
   ]
 }
