@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T11:19:34+00:00",
+  "updated": "2026-06-15T11:49:45+00:00",
   "posts": [
+    {
+      "id": "1f87e338",
+      "image": "img/1f87e338.png",
+      "image_sha": "0e9aedf940e88122ad3effa2fe218cf35bd538b5",
+      "url": "https://www.radiodos.com.ar/209559-corrientes-murio-un-profesor-victima-de-siniestro-vial-tras-cuatro-meses-de-agonia",
+      "title": "Corrientes: murió un profesor víctima de siniestro vial tras cuatro meses de agonía",
+      "volanta": "OCURRIÓ EN PASO DE LOS LIBRES",
+      "date": "2026-06-15T11:49:45+00:00"
+    },
     {
       "id": "830c6d14",
       "image": "img/830c6d14.png",
@@ -531,15 +540,6 @@
       "title": "Fue abusada y se encadenó frente a un tribunal de Catamarca: \"Hace ocho años que espero justicia\"",
       "volanta": "FUERTE RECLAMO",
       "date": "2026-06-11T16:16:57+00:00"
-    },
-    {
-      "id": "287fcb33",
-      "image": "img/287fcb33.png",
-      "image_sha": "4d3deaf64ee20aa16de11b1672c6a3ee69103f4f",
-      "url": "https://www.radiodos.com.ar/209441-recuperaron-una-moto-sustraida-y-demoraron-al-autor-del-hecho",
-      "title": "Recuperaron una moto sustraída y demoraron al autor del hecho",
-      "volanta": "TRABAJO EN CONJUNTO",
-      "date": "2026-06-11T15:05:14+00:00"
     }
   ]
 }
