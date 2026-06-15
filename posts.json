@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T13:39:38+00:00",
+  "updated": "2026-06-15T14:04:30+00:00",
   "posts": [
+    {
+      "id": "3dbc5d4a",
+      "image": "img/3dbc5d4a.png",
+      "image_sha": "43fd373ca36b6c2e7bae30eafd2f435c7b07be6c",
+      "url": "https://www.radiodos.com.ar/209583-la-emotiva-visita-de-la-mona-jimenez-a-la-seleccion-argentina-hubo-abrazos-y-regalos-especiales",
+      "title": "La emotiva visita de la Mona Jiménez a la Selección Argentina: hubo abrazos y regalos especiales",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-15T14:04:30+00:00"
+    },
     {
       "id": "0f0abc73",
       "image": "img/0f0abc73.png",
@@ -531,15 +540,6 @@
       "title": "Falleció el operario accidentado tras una presunta falla laboral",
       "volanta": "Tragedia",
       "date": "2026-06-11T21:00:30+00:00"
-    },
-    {
-      "id": "ceb98899",
-      "image": "img/ceb98899.png",
-      "image_sha": "4f3f693b255a66fb29be827f3b782cbc1e48db2b",
-      "url": "https://www.radiodos.com.ar/209448-estiman-el-aporte-del-lapacho-negro-en-la-captura-de-carbono-y-remocion-de-contaminantes-en-la-costanera-de-corrientes",
-      "title": "Estiman el aporte del lapacho negro en la captura de carbono y remoción de contaminantes en la costanera de Corrientes",
-      "volanta": "MEDIO AMBIENTE",
-      "date": "2026-06-11T18:20:27+00:00"
     }
   ]
 }
