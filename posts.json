@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T12:13:30+00:00",
+  "updated": "2026-06-15T12:34:04+00:00",
   "posts": [
+    {
+      "id": "1457ed86",
+      "image": "img/1457ed86.png",
+      "image_sha": "c98bd7979d0be6a890b87d7b9171ebf0a44ed090",
+      "url": "https://www.radiodos.com.ar/209570-la-agenda-del-mundial-2026-que-partidos-se-juegan-hoy-y-a-que-hora",
+      "title": "La agenda del Mundial 2026: qué partidos se juegan hoy y a qué hora",
+      "volanta": "Cronograma",
+      "date": "2026-06-15T12:34:04+00:00"
+    },
     {
       "id": "bf393d77",
       "image": "img/bf393d77.png",
@@ -531,15 +540,6 @@
       "title": "El Dr Carranza Torres presentó su visión sobre la IA, la libertad y la justicia",
       "volanta": "En Cámara de Diputados",
       "date": "2026-06-11T17:28:20+00:00"
-    },
-    {
-      "id": "f4f31e61",
-      "image": "img/f4f31e61.png",
-      "image_sha": "95ea23c88cdf75034a02ac6941854d10366a150c",
-      "url": "https://www.radiodos.com.ar/209439-un-conductor-bajo-de-su-auto-para-discutir-olvido-poner-el-freno-de-mano-y-provoco-un-choque",
-      "title": "Un conductor bajó de su auto para discutir, olvidó poner el freno de mano y provocó un choque",
-      "volanta": "Neuquén",
-      "date": "2026-06-11T16:17:27+00:00"
     }
   ]
 }
