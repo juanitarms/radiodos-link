@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T17:31:28+00:00",
+  "updated": "2026-06-15T19:51:41+00:00",
   "posts": [
+    {
+      "id": "7e67ad2c",
+      "image": "img/7e67ad2c.png",
+      "image_sha": "47e5b73e257bd75b7a3eec1338c6efaef8656c8f",
+      "url": "https://www.radiodos.com.ar/209593-corrientes-este-martes-reunion-de-gabinete-convocada-por-jp-valdes",
+      "title": "Corrientes: este martes, reunión de Gabinete convocada por JP Valdés",
+      "volanta": "A LAS 10",
+      "date": "2026-06-15T19:51:41+00:00"
+    },
     {
       "id": "c4bce452",
       "image": "img/c4bce452.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes presentó el Instituto de Abordaje y Prevención de Consumos Problemáticos",
       "volanta": "ACTO ENCABEZADO POR EL GOBERNADOR VALDÉS",
       "date": "2026-06-11T21:30:36+00:00"
-    },
-    {
-      "id": "1a4edb1e",
-      "image": "img/1a4edb1e.png",
-      "image_sha": "7bd4b14fa7fe5e84586c9d5fdcbc06f643079df6",
-      "url": "https://www.radiodos.com.ar/209452-senesi-sera-el-reemplazante-de-balerdi-en-la-lista-de-la-seleccion-argentina",
-      "title": "Senesi será el reemplazante de Balerdi en la lista de la Selección Argentina",
-      "volanta": "Mundial 2026",
-      "date": "2026-06-11T21:30:09+00:00"
     }
   ]
 }
