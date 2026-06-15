@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T12:54:17+00:00",
+  "updated": "2026-06-15T13:04:31+00:00",
   "posts": [
+    {
+      "id": "b0d54ce7",
+      "image": "img/b0d54ce7.png",
+      "image_sha": "ec12e7f1bb33ef8c7c9a047b1a0027e41c74f4f5",
+      "url": "https://www.radiodos.com.ar/209574-emiten-segundo-informe-de-seguimiento-del-escenario-del-fenomeno-del-nino-2026-para-chaco-y-la-region",
+      "title": "Emiten segundo informe de seguimiento del escenario del fenómeno del Niño 2026 para Chaco y la región",
+      "volanta": "ALERTA",
+      "date": "2026-06-15T13:04:31+00:00"
+    },
     {
       "id": "c83f0e7a",
       "image": "img/c83f0e7a.png",
@@ -531,15 +540,6 @@
       "title": "Rosario: recibió siete balazos para proteger a su hermana durante un asalto y sobrevivió de milagro",
       "volanta": "SANTA FE",
       "date": "2026-06-11T17:46:50+00:00"
-    },
-    {
-      "id": "e1ba599c",
-      "image": "img/e1ba599c.png",
-      "image_sha": "6e595f353f4f59c272101098132b9532161dd29e",
-      "url": "https://www.radiodos.com.ar/209447-vio-a-la-policia-y-tiro-la-moto-en-plena-calle-era-robada",
-      "title": "Vió a la Policía y tiró la moto en plena calle: era robada",
-      "volanta": "EFICAZ ACCIONAR",
-      "date": "2026-06-11T17:46:01+00:00"
     }
   ]
 }
