@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T17:30:50+00:00",
+  "updated": "2026-06-15T17:31:28+00:00",
   "posts": [
+    {
+      "id": "c4bce452",
+      "image": "img/c4bce452.png",
+      "image_sha": "17f19f8edaf2855ac3ab6fada07248d3f7b6d9ce",
+      "url": "https://www.radiodos.com.ar/209589-detuvieron-a-un-hombre-con-un-arma-de-fabricacion-casera-y-municiones",
+      "title": "Detuvieron a un hombre con un arma de fabricación casera y municiones",
+      "volanta": "CURUZÚ CUATIÁ",
+      "date": "2026-06-15T17:31:28+00:00"
+    },
     {
       "id": "b4078035",
       "image": "img/b4078035.png",
@@ -531,15 +540,6 @@
       "title": "Senesi será el reemplazante de Balerdi en la lista de la Selección Argentina",
       "volanta": "Mundial 2026",
       "date": "2026-06-11T21:30:09+00:00"
-    },
-    {
-      "id": "5095b544",
-      "image": "img/5095b544.png",
-      "image_sha": "782d5d3c9fd5f25d6d5b6668c762484031446f83",
-      "url": "https://www.radiodos.com.ar/209456-la-inflacion-de-mayo-fue-de-21-y-se-desacelero-por-segundo-mes-consecutivo",
-      "title": "La inflación de mayo fue de 2,1% y se desaceleró por segundo mes consecutivo",
-      "volanta": "Segun el Indec",
-      "date": "2026-06-11T21:28:56+00:00"
     }
   ]
 }
