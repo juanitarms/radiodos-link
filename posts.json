@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T14:04:30+00:00",
+  "updated": "2026-06-15T14:24:18+00:00",
   "posts": [
+    {
+      "id": "17fb5c41",
+      "image": "img/17fb5c41.png",
+      "image_sha": "619fc426036e025f8777dbac1748c8e2e059ea28",
+      "url": "https://www.radiodos.com.ar/209585-te-transformare-en-mi-motor-el-conmovedor-mensaje-de-juli-savioli-sobre-gaspi",
+      "title": "\"Te transformaré en mi motor\": el conmovedor mensaje de Juli Savioli sobre Gaspi",
+      "volanta": "TRISTEZA TOTAL",
+      "date": "2026-06-15T14:24:18+00:00"
+    },
     {
       "id": "3dbc5d4a",
       "image": "img/3dbc5d4a.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: chocó un caballo y llevaba el auto repleto de cigarrillos ilegales",
       "volanta": "RUTA 14",
       "date": "2026-06-11T21:25:44+00:00"
-    },
-    {
-      "id": "ad21771b",
-      "image": "img/ad21771b.png",
-      "image_sha": "22aede10106ad0b3a4982997f19d181deac21c41",
-      "url": "https://www.radiodos.com.ar/209450-fallecio-el-operario-accidentado-tras-una-presunta-falla-laboral",
-      "title": "Falleció el operario accidentado tras una presunta falla laboral",
-      "volanta": "Tragedia",
-      "date": "2026-06-11T21:00:30+00:00"
     }
   ]
 }
