@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T14:49:49+00:00",
+  "updated": "2026-06-15T17:30:50+00:00",
   "posts": [
+    {
+      "id": "b4078035",
+      "image": "img/b4078035.png",
+      "image_sha": "8a9ae6b6293e91ec02f86c9c37465447b8d7fb85",
+      "url": "https://www.radiodos.com.ar/209588-en-allanamientos-secuestraron-cocaina-y-detuvieron-a-un-hombre",
+      "title": "En allanamientos secuestraron cocaína y detuvieron a un hombre",
+      "volanta": "GOYA",
+      "date": "2026-06-15T17:30:50+00:00"
+    },
     {
       "id": "1ac998bc",
       "image": "img/1ac998bc.png",
@@ -531,15 +540,6 @@
       "title": "La inflación de mayo fue de 2,1% y se desaceleró por segundo mes consecutivo",
       "volanta": "Segun el Indec",
       "date": "2026-06-11T21:28:56+00:00"
-    },
-    {
-      "id": "ee8509f8",
-      "image": "img/ee8509f8.png",
-      "image_sha": "db8512874610f50b2d65b2e23b8cf33857d67963",
-      "url": "https://www.radiodos.com.ar/209457-con-26-el-nea-registro-el-nivel-mas-alto-de-inflacion-en-mayo",
-      "title": "Con 2,6%, el NEA registró el nivel más alto de inflación en mayo",
-      "volanta": "INTERANUAL",
-      "date": "2026-06-11T21:27:38+00:00"
     }
   ]
 }
