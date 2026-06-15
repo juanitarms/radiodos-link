@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T12:34:04+00:00",
+  "updated": "2026-06-15T12:54:17+00:00",
   "posts": [
+    {
+      "id": "c83f0e7a",
+      "image": "img/c83f0e7a.png",
+      "image_sha": "4827f65e6c9f6a40d21f63eb1968bd09fbd61106",
+      "url": "https://www.radiodos.com.ar/209573-condicionado-por-el-clima-la-economia-y-el-mundial-el-feriado-en-conmemoracion-de-guemes-genero-217-mil-millones",
+      "title": "Condicionado por el clima, la economía y el Mundial, el feriado en conmemoración de Güemes generó $ 217 mil millones",
+      "volanta": "ECONOMÍA",
+      "date": "2026-06-15T12:54:17+00:00"
+    },
     {
       "id": "1457ed86",
       "image": "img/1457ed86.png",
@@ -531,15 +540,6 @@
       "title": "Vió a la Policía y tiró la moto en plena calle: era robada",
       "volanta": "EFICAZ ACCIONAR",
       "date": "2026-06-11T17:46:01+00:00"
-    },
-    {
-      "id": "98855981",
-      "image": "img/98855981.png",
-      "image_sha": "74681bbd4a39f7c18b4dcac03e78ef2e584d9bf2",
-      "url": "https://www.radiodos.com.ar/209443-el-dr-carranza-torres-presento-su-vision-sobre-la-ia-la-libertad-y-la-justicia",
-      "title": "El Dr Carranza Torres presentó su visión sobre la IA, la libertad y la justicia",
-      "volanta": "En Cámara de Diputados",
-      "date": "2026-06-11T17:28:20+00:00"
     }
   ]
 }
