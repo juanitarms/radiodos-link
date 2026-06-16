@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T02:51:14+00:00",
+  "updated": "2026-06-16T10:34:32+00:00",
   "posts": [
+    {
+      "id": "ed66c6d3",
+      "image": "img/ed66c6d3.png",
+      "image_sha": "6f86f040303cfa2ef42c50a3dd1075714fea07bb",
+      "url": "https://www.radiodos.com.ar/209598-comienza-el-juicio-por-la-desaparicion-del-pequeno-loan-pena-el-caso-que-conmociono-al-pais",
+      "title": "Comienza el juicio por la desaparición del pequeño Loan Peña: el caso que conmocionó al país",
+      "volanta": "EN EL ESCUADRÓN 48",
+      "date": "2026-06-16T10:34:32+00:00"
+    },
     {
       "id": "6b4d1c1e",
       "image": "img/6b4d1c1e.png",
@@ -531,15 +540,6 @@
       "title": "El Dr Carranza Torres presentó su visión sobre la IA, la libertad y la justicia en la Cámara de Diputados",
       "volanta": "DEBATE NECESARIO",
       "date": "2026-06-11T21:43:38+00:00"
-    },
-    {
-      "id": "9cc8eb19",
-      "image": "img/9cc8eb19.png",
-      "image_sha": "0cedb44b383b618615d3d969d5030b1b1d274fe5",
-      "url": "https://www.radiodos.com.ar/209459-no-tiene-justificacion-el-pro-de-mauricio-macri-arremetio-contra-manuel-adorni",
-      "title": "\"No tiene justificación\": El PRO de Mauricio Macri arremetió contra Manuel Adorni",
-      "volanta": "ENRIQUECIMIENTO ILÍCITO",
-      "date": "2026-06-11T21:43:08+00:00"
     }
   ]
 }
