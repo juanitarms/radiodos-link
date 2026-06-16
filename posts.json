@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T14:47:40+00:00",
+  "updated": "2026-06-16T14:59:33+00:00",
   "posts": [
+    {
+      "id": "6bb9b426",
+      "image": "img/6bb9b426.png",
+      "image_sha": "be6e713d2a833e30628d8453a97118a88bee59c2",
+      "url": "https://www.radiodos.com.ar/209624-el-fuerte-mensaje-de-unidad-de-lionel-messi-de-cara-al-debut-de-la-seleccion-argentina-juntos",
+      "title": "El fuerte mensaje de unidad de Lionel Messi de cara al debut de la Selección Argentina: \"Juntos\"",
+      "volanta": "CAPITÁN",
+      "date": "2026-06-16T14:59:33+00:00"
+    },
     {
       "id": "459df039",
       "image": "img/459df039.png",
@@ -531,15 +540,6 @@
       "title": "Hacia los 70 años de la UNNE: flamante inauguración de la remodelación del edificio Rectorado y del vitreaux de la cúpula central",
       "volanta": "INFRAESTRUCTURA, ACCESIBILIDAD Y MODERNIZACIÓN",
       "date": "2026-06-12T13:37:50+00:00"
-    },
-    {
-      "id": "cfd4ef2f",
-      "image": "img/cfd4ef2f.png",
-      "image_sha": "9f99d69cdb16cd7b1dc00a33194c061eb24c2dab",
-      "url": "https://www.radiodos.com.ar/209476-convocan-a-adoptar-a-una-adolescente-de-17-anos-en-corrientes",
-      "title": "Convocan a adoptar a una adolescente de 17 años en Corrientes",
-      "volanta": "ENGOYA",
-      "date": "2026-06-12T12:56:26+00:00"
     }
   ]
 }
