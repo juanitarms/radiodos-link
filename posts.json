@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:40:16+00:00",
+  "updated": "2026-06-16T20:41:25+00:00",
   "posts": [
+    {
+      "id": "2c93469e",
+      "image": "img/2c93469e.png",
+      "image_sha": "0869e3fefe320dec714f7755d12fc487b29899d4",
+      "url": "https://www.radiodos.com.ar/209641-peligrosos-delincuentes-viajaron-desde-capital-para-robar-en-localidad-del-interior-de-corrientes",
+      "title": "Peligrosos delincuentes viajaron desde Capital para robar en localidad del interior de Corrientes",
+      "volanta": "CONOCIDOS LADRONES",
+      "date": "2026-06-16T20:41:25+00:00"
+    },
     {
       "id": "0931828b",
       "image": "img/0931828b.png",
@@ -531,15 +540,6 @@
       "title": "Histórico: el inédito cobro de Facundo Tello en el Mundial 2026",
       "volanta": "arbitro argentino",
       "date": "2026-06-12T22:08:12+00:00"
-    },
-    {
-      "id": "da815bed",
-      "image": "img/da815bed.png",
-      "image_sha": "ac4cb53c3b7b3750b7821792535dcb4b06a540ba",
-      "url": "https://www.radiodos.com.ar/209518-la-facultad-de-derecho-abre-las-inscripciones-para-las-carreras-del-segundo-cuatrimestre",
-      "title": "La Facultad de Derecho abre las inscripciones para las carreras del segundo cuatrimestre",
-      "volanta": "TRÁMITE ON LINE",
-      "date": "2026-06-12T22:05:33+00:00"
     }
   ]
 }
