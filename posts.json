@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T17:25:18+00:00",
+  "updated": "2026-06-16T20:05:34+00:00",
   "posts": [
+    {
+      "id": "989dd524",
+      "image": "img/989dd524.png",
+      "image_sha": "6a830c50301a33d29c07a9eb0d877d9722ab2f95",
+      "url": "https://www.radiodos.com.ar/209630-el-posteo-que-fue-una-despedida-la-estremecedora-ultima-publicacion-de-lucas-vignale",
+      "title": "El posteo que fue una despedida: la estremecedora última publicación de Lucas Vignale",
+      "volanta": "INCREÍBLE",
+      "date": "2026-06-16T20:05:34+00:00"
+    },
     {
       "id": "588e850b",
       "image": "img/588e850b.png",
@@ -531,15 +540,6 @@
       "title": "Cronograma de la Feria de Emprendedores de Desarrollo Social",
       "volanta": "Puntos Feriantes",
       "date": "2026-06-12T18:10:57+00:00"
-    },
-    {
-      "id": "77ee4d01",
-      "image": "img/77ee4d01.png",
-      "image_sha": "a42641558e35ec0e5893a9797c6af807197b1529",
-      "url": "https://www.radiodos.com.ar/209495-los-jovenes-acusados-de-matar-a-una-nutria-a-patadas-denunciaron-haber-recibido-amenazas",
-      "title": "Los jóvenes acusados de matar a una nutria a patadas denunciaron haber recibido amenazas",
-      "volanta": "Bahía Blanca",
-      "date": "2026-06-12T18:10:22+00:00"
     }
   ]
 }
