@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:09:01+00:00",
+  "updated": "2026-06-16T20:21:56+00:00",
   "posts": [
+    {
+      "id": "fb809c1a",
+      "image": "img/fb809c1a.png",
+      "image_sha": "b983419787397c6b67616db02577e2df62f2d1cf",
+      "url": "https://www.radiodos.com.ar/209639-juicio-por-loan-aparecio-el-imputado-que-no-se-habia-presentado-esta-manana-y-adujo-que-no-tenia-recursos-para-viajar",
+      "title": "Juicio por Loan: apareció el imputado que no se había presentado esta mañana y adujo que no tenía recursos para viajar",
+      "volanta": "JUSTICIA",
+      "date": "2026-06-16T20:21:56+00:00"
+    },
     {
       "id": "15acef92",
       "image": "img/15acef92.png",
@@ -531,15 +540,6 @@
       "title": "Tiene 17 años, le gusta cantar, cocinar y busca un hogar: \"Mi mayor deseo es dar y recibir afecto\"",
       "volanta": "CONVOCATORIA",
       "date": "2026-06-12T21:11:28+00:00"
-    },
-    {
-      "id": "55fc66d7",
-      "image": "img/55fc66d7.png",
-      "image_sha": "dc70182836918ed3b2d6bff5fd0de0206780b65b",
-      "url": "https://www.radiodos.com.ar/209514-corrientes-denuncian-falsas-ofertas-laborales-y-estafas-a-nombre-de-la-reina",
-      "title": "Corrientes: denuncian falsas ofertas laborales y estafas a nombre de \"La Reina\"",
-      "volanta": "ALERTA",
-      "date": "2026-06-12T21:09:51+00:00"
     }
   ]
 }
