@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:05:34+00:00",
+  "updated": "2026-06-16T20:07:07+00:00",
   "posts": [
+    {
+      "id": "ee410e2c",
+      "image": "img/ee410e2c.png",
+      "image_sha": "0db214a2913e82f891e65728fbcbb29bb586d998",
+      "url": "https://www.radiodos.com.ar/209634-robo-una-caja-registradora-y-fue-detenido-a-las-horas",
+      "title": "Robó una caja registradora y fue detenido a las horas",
+      "volanta": "DIRECCIÓN DE INVESTIGACIÓN CRIMINAL",
+      "date": "2026-06-16T20:07:07+00:00"
+    },
     {
       "id": "989dd524",
       "image": "img/989dd524.png",
@@ -531,15 +540,6 @@
       "title": "Falleció un exintendente del interior correntino",
       "volanta": "LAMENTABLE",
       "date": "2026-06-12T20:26:50+00:00"
-    },
-    {
-      "id": "e4d235e0",
-      "image": "img/e4d235e0.png",
-      "image_sha": "4cf6afe8468713e3b1af07a87f1dca2d5f3b4042",
-      "url": "https://www.radiodos.com.ar/209497-cronograma-de-la-feria-de-emprendedores-de-desarrollo-social",
-      "title": "Cronograma de la Feria de Emprendedores de Desarrollo Social",
-      "volanta": "Puntos Feriantes",
-      "date": "2026-06-12T18:10:57+00:00"
     }
   ]
 }
