@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:07:39+00:00",
+  "updated": "2026-06-16T20:09:01+00:00",
   "posts": [
+    {
+      "id": "15acef92",
+      "image": "img/15acef92.png",
+      "image_sha": "1813210f3ab914e4ce6bb9c0bab8788144e7b64b",
+      "url": "https://www.radiodos.com.ar/209635-ypf-y-tesla-firman-un-acuerdo-para-desarrollar-infraestructura-energetica-y-carga-rapida",
+      "title": "YPF y Tesla firman un acuerdo para desarrollar infraestructura energética y carga rápida",
+      "volanta": "Alianza estratégica",
+      "date": "2026-06-16T20:09:01+00:00"
+    },
     {
       "id": "4210c8f7",
       "image": "img/4210c8f7.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: denuncian falsas ofertas laborales y estafas a nombre de \"La Reina\"",
       "volanta": "ALERTA",
       "date": "2026-06-12T21:09:51+00:00"
-    },
-    {
-      "id": "e161bc85",
-      "image": "img/e161bc85.png",
-      "image_sha": "f840012510a5eca28b8ab277a9d5b59fae3aca05",
-      "url": "https://www.radiodos.com.ar/209509-el-planteo-del-pro-a-milei-queremos-que-usted-defienda-el-cambio-y-no-a-adorni",
-      "title": "El planteo del PRO a Milei: \"Queremos que usted defienda el cambio y no a Adorni\"",
-      "volanta": "INTERNA OFICIALISTA",
-      "date": "2026-06-12T21:08:16+00:00"
     }
   ]
 }
