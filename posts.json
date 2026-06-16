@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:21:56+00:00",
+  "updated": "2026-06-16T20:29:46+00:00",
   "posts": [
+    {
+      "id": "c14317d9",
+      "image": "img/c14317d9.png",
+      "image_sha": "cfd86fbd3d0a49f78ad11417bd5b54c11af725e1",
+      "url": "https://www.radiodos.com.ar/209640-tras-amenazas-buscaban-un-revolver-pero-encontraron-un-arma-larga",
+      "title": "Tras amenazas, buscaban un revolver pero encontraron un arma larga",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-06-16T20:29:46+00:00"
+    },
     {
       "id": "fb809c1a",
       "image": "img/fb809c1a.png",
@@ -531,15 +540,6 @@
       "title": "Futbolista de Newell’s involucrado en el accidente de tránsito en Chaco donde murió una persona",
       "volanta": "RUTA 11",
       "date": "2026-06-12T21:15:14+00:00"
-    },
-    {
-      "id": "d2daa02d",
-      "image": "img/d2daa02d.png",
-      "image_sha": "0ae8dc146c8396a6887804c3c1a9a3f958064552",
-      "url": "https://www.radiodos.com.ar/209510-tiene-17-anos-le-gusta-cantar-cocinar-y-busca-un-hogar-mi-mayor-deseo-es-dar-y-recibir-afecto",
-      "title": "Tiene 17 años, le gusta cantar, cocinar y busca un hogar: \"Mi mayor deseo es dar y recibir afecto\"",
-      "volanta": "CONVOCATORIA",
-      "date": "2026-06-12T21:11:28+00:00"
     }
   ]
 }
