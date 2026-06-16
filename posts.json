@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T16:13:01+00:00",
+  "updated": "2026-06-16T17:23:41+00:00",
   "posts": [
+    {
+      "id": "17bc5dcd",
+      "image": "img/17bc5dcd.png",
+      "image_sha": "e2d95c2a1a384ef664508d8e3ce1110a50c4f436",
+      "url": "https://www.radiodos.com.ar/209628-la-promesa-de-julian-alvarez-a-tom-holland-luego-de-que-lo-mencionara-en-una-entrevista",
+      "title": "La promesa de Julián Álvarez a Tom Holland luego de que lo mencionara en una entrevista",
+      "volanta": "SORPRESA",
+      "date": "2026-06-16T17:23:41+00:00"
+    },
     {
       "id": "e399cef7",
       "image": "img/e399cef7.png",
@@ -531,15 +540,6 @@
       "title": "Rosario: mataron a tiros a un efectivo de la Policía Federal en Villa Banana",
       "volanta": "CRIMEN",
       "date": "2026-06-12T17:00:14+00:00"
-    },
-    {
-      "id": "14c135c0",
-      "image": "img/14c135c0.png",
-      "image_sha": "70af552425c44c0fe0a9397d309071cb7f61d82a",
-      "url": "https://www.radiodos.com.ar/209491-la-oit-acordo-el-primer-convenio-para-trabajadores-de-plataformas-todos-los-detalles",
-      "title": "La OIT acordó el primer convenio para trabajadores de plataformas: todos los detalles",
-      "volanta": "NORMATIVA",
-      "date": "2026-06-12T16:59:40+00:00"
     }
   ]
 }
