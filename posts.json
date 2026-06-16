@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T17:24:46+00:00",
+  "updated": "2026-06-16T17:25:18+00:00",
   "posts": [
+    {
+      "id": "588e850b",
+      "image": "img/588e850b.png",
+      "image_sha": "842bdcd7c48b5ecb6366fb73035933a2d129798f",
+      "url": "https://www.radiodos.com.ar/209625-catarata-de-denuncias-contra-manuel-adorni-en-comodoro-py-tras-la-presentacion-de-su-declaracion-jurada",
+      "title": "Catarata de denuncias contra Manuel Adorni en Comodoro Py tras la presentación de su declaración jurada",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-06-16T17:25:18+00:00"
+    },
     {
       "id": "b323ed50",
       "image": "img/b323ed50.png",
@@ -531,15 +540,6 @@
       "title": "Los jóvenes acusados de matar a una nutria a patadas denunciaron haber recibido amenazas",
       "volanta": "Bahía Blanca",
       "date": "2026-06-12T18:10:22+00:00"
-    },
-    {
-      "id": "4dd80a20",
-      "image": "img/4dd80a20.png",
-      "image_sha": "fe07d1d2071147116eb3bee41e9b1d1e0fcbc227",
-      "url": "https://www.radiodos.com.ar/209493-murio-la-princesa-de-tailandia-tras-pasar-mas-de-tres-anos-en-coma",
-      "title": "Murió la princesa de Tailandia tras pasar más de tres años en coma",
-      "volanta": "LUTO",
-      "date": "2026-06-12T18:09:52+00:00"
     }
   ]
 }
