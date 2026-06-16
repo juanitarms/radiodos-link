@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:41:25+00:00",
+  "updated": "2026-06-16T20:51:55+00:00",
   "posts": [
+    {
+      "id": "d78fb4eb",
+      "image": "img/d78fb4eb.png",
+      "image_sha": "2aecf009f8777b84ca993df7a43edc3d352290ee",
+      "url": "https://www.radiodos.com.ar/209644-los-accesos-a-internet-en-corrientes-crecieron-41-en-el-primer-trimestre",
+      "title": "Los accesos a internet en Corrientes crecieron 4,1% en el primer trimestre",
+      "volanta": "CONECTIVIDAD",
+      "date": "2026-06-16T20:51:55+00:00"
+    },
     {
       "id": "2c93469e",
       "image": "img/2c93469e.png",
@@ -531,15 +540,6 @@
       "title": "Se presentó oficialmente el Torneo Argentino de Federaciones en Corrientes",
       "volanta": "BASQUET",
       "date": "2026-06-12T22:29:33+00:00"
-    },
-    {
-      "id": "4867cf66",
-      "image": "img/4867cf66.png",
-      "image_sha": "d65273316174c3dd6c0604647e862f13a5324687",
-      "url": "https://www.radiodos.com.ar/209517-historico-el-inedito-cobro-de-facundo-tello-en-el-mundial-2026",
-      "title": "Histórico: el inédito cobro de Facundo Tello en el Mundial 2026",
-      "volanta": "arbitro argentino",
-      "date": "2026-06-12T22:08:12+00:00"
     }
   ]
 }
