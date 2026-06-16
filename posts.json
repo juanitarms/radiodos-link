@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-15T22:48:52+00:00",
+  "updated": "2026-06-16T02:51:14+00:00",
   "posts": [
+    {
+      "id": "6b4d1c1e",
+      "image": "img/6b4d1c1e.png",
+      "image_sha": "7e7902e95323cfc5d5dbeabaaee40983b34a6c76",
+      "url": "https://www.radiodos.com.ar/209596-lionel-scaloni-revelo-como-estan-los-lesionados-antes-del-debut-de-la-seleccion-argentina",
+      "title": "Lionel Scaloni reveló cómo están los lesionados antes del debut de la Selección argentina",
+      "volanta": "Mundial 2026",
+      "date": "2026-06-16T02:51:14+00:00"
+    },
     {
       "id": "68936211",
       "image": "img/68936211.png",
@@ -531,15 +540,6 @@
       "title": "\"No tiene justificación\": El PRO de Mauricio Macri arremetió contra Manuel Adorni",
       "volanta": "ENRIQUECIMIENTO ILÍCITO",
       "date": "2026-06-11T21:43:08+00:00"
-    },
-    {
-      "id": "5f559d71",
-      "image": "img/5f559d71.png",
-      "image_sha": "599d9ff873795645570bf1bc35879d20ff95337a",
-      "url": "https://www.radiodos.com.ar/209460-ministro-jose-irigoyen-el-estado-no-puede-hacer-oidos-sordos-con-el-consumo-problematico",
-      "title": "Ministro José Irigoyen: \"El estado no puede hacer oídos sordos con el consumo problemático\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-06-11T21:42:38+00:00"
     }
   ]
 }
