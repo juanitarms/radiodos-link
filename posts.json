@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T13:23:06+00:00",
+  "updated": "2026-06-16T13:38:44+00:00",
   "posts": [
+    {
+      "id": "52de56cc",
+      "image": "img/52de56cc.png",
+      "image_sha": "4970c1bbe9f3c131ffc30b80e310527a59a4846e",
+      "url": "https://www.radiodos.com.ar/209609-caso-loan-defensores-de-los-imputados-afirman-que-son-inocentes-y-que-no-hay-pruebas",
+      "title": "Caso Loan: defensores de los imputados afirman que \"son inocentes\" y  que \"no hay pruebas\"",
+      "volanta": "JUICIO",
+      "date": "2026-06-16T13:38:44+00:00"
+    },
     {
       "id": "297981f7",
       "image": "img/297981f7.png",
@@ -531,15 +540,6 @@
       "title": "Desde este miércoles 17 se pagará aguinaldo y plus a municipales de la ciudad de Corrientes",
       "volanta": "PARA TODO EL PERSONAL",
       "date": "2026-06-12T12:28:04+00:00"
-    },
-    {
-      "id": "00945895",
-      "image": "img/00945895.png",
-      "image_sha": "7cd0a12de9afe751e85cfd8935487287f6f829c2",
-      "url": "https://www.radiodos.com.ar/209474-el-jefe-de-policia-de-corrientes-recibio-a-efectivos-que-culminaron-con-exito-distintos-cursos-de-especializacion-",
-      "title": "El Jefe de Policía de Corrientes recibió a efectivos que culminaron con éxito distintos cursos de especialización",
-      "volanta": "CAPACITACION POLICIAL",
-      "date": "2026-06-12T12:18:44+00:00"
     }
   ]
 }
