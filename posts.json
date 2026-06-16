@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T11:12:56+00:00",
+  "updated": "2026-06-16T11:22:18+00:00",
   "posts": [
+    {
+      "id": "ac1a4993",
+      "image": "img/ac1a4993.png",
+      "image_sha": "f4529c1badd719d226e6f366a4c47870357b4f2d",
+      "url": "https://www.radiodos.com.ar/209603-la-buscaban-en-santiago-del-estero-y-aparecio-sana-y-salva-en-el-interior-de-corrientes",
+      "title": "La buscaban en Santiago del Estero y apareció sana y salva en el interior de Corrientes",
+      "volanta": "GOYA",
+      "date": "2026-06-16T11:22:18+00:00"
+    },
     {
       "id": "123b7f91",
       "image": "img/123b7f91.png",
@@ -531,15 +540,6 @@
       "title": "Se postergó la reunión de Juan Pablo Valdés con su Gabinete",
       "volanta": "ADELANTO",
       "date": "2026-06-12T10:49:22+00:00"
-    },
-    {
-      "id": "4ea85240",
-      "image": "img/4ea85240.png",
-      "image_sha": "1792dfa45483cb0078d295525054f47633ac5975",
-      "url": "https://www.radiodos.com.ar/209461-canasta-basica-una-familia-necesito-casi-1500000-para-no-ser-pobre-en-mayo",
-      "title": "Canasta básica: una familia necesitó casi $1.500.000 para no ser pobre en mayo",
-      "volanta": "Datos oficiales",
-      "date": "2026-06-12T02:06:57+00:00"
     }
   ]
 }
