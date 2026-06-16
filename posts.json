@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T23:08:59+00:00",
+  "updated": "2026-06-16T23:13:10+00:00",
   "posts": [
+    {
+      "id": "70851879",
+      "image": "img/70851879.png",
+      "image_sha": "23f32325bd554cac0d40c00fea49f95efbd00968",
+      "url": "https://www.radiodos.com.ar/209650-grachot-anticipo-que-es-muy-probable-conseguir-financiamiento-para-el-puerto-de-lavalle",
+      "title": "Grachot anticipó que es \"muy probable\" conseguir financiamiento para el puerto de Lavalle",
+      "volanta": "EXCLUSIVO",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
     {
       "id": "69561658",
       "image": "img/69561658.png",
@@ -531,15 +540,6 @@
       "title": "A dos años de la desaparición de Loan: cómo fue el último día del pequeño en Corrientes",
       "volanta": "SIN JUSTICIA",
       "date": "2026-06-13T18:43:35+00:00"
-    },
-    {
-      "id": "88906cc0",
-      "image": "img/88906cc0.png",
-      "image_sha": "74870e2f107fde992e29ae15f0ef8c2c6bdda16f",
-      "url": "https://www.radiodos.com.ar/209524-inflacion-en-el-nea-los-alimentos-aumentaron-un-20-en-lo-que-va-del-ano",
-      "title": "Inflación en el NEA: los alimentos aumentaron un 20% en lo que va del año",
-      "volanta": "NUMEROS",
-      "date": "2026-06-13T13:36:23+00:00"
     }
   ]
 }
