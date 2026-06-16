@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T16:12:30+00:00",
+  "updated": "2026-06-16T16:13:01+00:00",
   "posts": [
+    {
+      "id": "e399cef7",
+      "image": "img/e399cef7.png",
+      "image_sha": "b3a247e486f9b4540e61c17201ed8cf82c09d2b3",
+      "url": "https://www.radiodos.com.ar/209629-la-despedida-de-nati-jota-a-gaspi-que-genero-polemica-y-la-volvio-tendencia-en-las-redes",
+      "title": "La despedida de Nati Jota a Gaspi que generó polémica y la volvió tendencia en las redes",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-06-16T16:13:01+00:00"
+    },
     {
       "id": "d804ba3d",
       "image": "img/d804ba3d.png",
@@ -531,15 +540,6 @@
       "title": "La OIT acordó el primer convenio para trabajadores de plataformas: todos los detalles",
       "volanta": "NORMATIVA",
       "date": "2026-06-12T16:59:40+00:00"
-    },
-    {
-      "id": "a7e85b03",
-      "image": "img/a7e85b03.png",
-      "image_sha": "a9db24544bd90ce227af9b3b193c7a43d5c9b31f",
-      "url": "https://www.radiodos.com.ar/209489-hazanas-que-prometi-furor-con-el-video-que-publico-lionel-messi-musicalizado-por-un-tema-de-indio-solari",
-      "title": "\"Hazañas que prometí\": furor con el video que publicó Lionel Messi musicalizado por un tema de Indio Solari",
-      "volanta": "RECUERDO",
-      "date": "2026-06-12T14:35:36+00:00"
     }
   ]
 }
