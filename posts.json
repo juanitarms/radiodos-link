@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T11:22:18+00:00",
+  "updated": "2026-06-16T12:04:02+00:00",
   "posts": [
+    {
+      "id": "8d764994",
+      "image": "img/8d764994.png",
+      "image_sha": "6899e9a493344c33f0fb45d5713653f22320ffba",
+      "url": "https://www.radiodos.com.ar/209604-corrientes-escaso-movimiento-turistico-en-el-feriado-xl",
+      "title": "Corrientes: escaso movimiento turístico en el feriado XL",
+      "volanta": "CRISIS",
+      "date": "2026-06-16T12:04:02+00:00"
+    },
     {
       "id": "ac1a4993",
       "image": "img/ac1a4993.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en Corrientes: dos efectivos de Prefectura fallecieron en el transcurso de pocas horas",
       "volanta": "EN CAPITAL E INTERIOR",
       "date": "2026-06-12T10:58:40+00:00"
-    },
-    {
-      "id": "f2ce5862",
-      "image": "img/f2ce5862.png",
-      "image_sha": "e2460ff7d95028be160d2323905298c3b07c6020",
-      "url": "https://www.radiodos.com.ar/209464-se-postergo-la-reunion-de-juan-pablo-valdes-con-su-gabinete",
-      "title": "Se postergó la reunión de Juan Pablo Valdés con su Gabinete",
-      "volanta": "ADELANTO",
-      "date": "2026-06-12T10:49:22+00:00"
     }
   ]
 }
