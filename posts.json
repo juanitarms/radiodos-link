@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:07:07+00:00",
+  "updated": "2026-06-16T20:07:39+00:00",
   "posts": [
+    {
+      "id": "4210c8f7",
+      "image": "img/4210c8f7.png",
+      "image_sha": "3df122acbd617f6efe7fd95041b38c529e91c0c4",
+      "url": "https://www.radiodos.com.ar/209637-jornada-de-sensibilizacion-de-la-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez",
+      "title": "Jornada de sensibilización de la Toma de Conciencia del Abuso y Maltrato en la Vejez",
+      "volanta": "GOBIERNO PROVINCIAL",
+      "date": "2026-06-16T20:07:39+00:00"
+    },
     {
       "id": "ee410e2c",
       "image": "img/ee410e2c.png",
@@ -531,15 +540,6 @@
       "title": "El planteo del PRO a Milei: \"Queremos que usted defienda el cambio y no a Adorni\"",
       "volanta": "INTERNA OFICIALISTA",
       "date": "2026-06-12T21:08:16+00:00"
-    },
-    {
-      "id": "d1f5d47d",
-      "image": "img/d1f5d47d.png",
-      "image_sha": "582b9e1987bdad120e7bcc09b0ed342e58f062a6",
-      "url": "https://www.radiodos.com.ar/209506-fallecio-un-exintendente-del-interior-correntino",
-      "title": "Falleció un exintendente del interior correntino",
-      "volanta": "LAMENTABLE",
-      "date": "2026-06-12T20:26:50+00:00"
     }
   ]
 }
