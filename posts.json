@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T17:23:41+00:00",
+  "updated": "2026-06-16T17:24:14+00:00",
   "posts": [
+    {
+      "id": "73380ea1",
+      "image": "img/73380ea1.png",
+      "image_sha": "5c6d0e16f6b7783d10306aaf713046926982bc02",
+      "url": "https://www.radiodos.com.ar/209627-como-y-cuando-sera-la-repatriacion-de-los-restos-de-gaspi",
+      "title": "Cómo y cuándo será la repatriación de los restos de Gaspi",
+      "volanta": "TRAS EL ACCIDENTE",
+      "date": "2026-06-16T17:24:14+00:00"
+    },
     {
       "id": "17bc5dcd",
       "image": "img/17bc5dcd.png",
@@ -531,15 +540,6 @@
       "title": "\"Corrientes Cerca\" llega al Barrio Virgen de los Dolores con un amplio operativo integral",
       "volanta": "DESPLIEGUE TERRITORIAL",
       "date": "2026-06-12T17:00:45+00:00"
-    },
-    {
-      "id": "d8e8b059",
-      "image": "img/d8e8b059.png",
-      "image_sha": "bda72b8d890c67a2cddf2b65404188de980ab22e",
-      "url": "https://www.radiodos.com.ar/209492-rosario-mataron-a-tiros-a-un-efectivo-de-la-policia-federal-en-villa-banana",
-      "title": "Rosario: mataron a tiros a un efectivo de la Policía Federal en Villa Banana",
-      "volanta": "CRIMEN",
-      "date": "2026-06-12T17:00:14+00:00"
     }
   ]
 }
