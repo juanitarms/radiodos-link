@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T16:11:58+00:00",
+  "updated": "2026-06-16T16:12:30+00:00",
   "posts": [
+    {
+      "id": "d804ba3d",
+      "image": "img/d804ba3d.png",
+      "image_sha": "b12e9668450d8030956e7dd0a725125563ff19cf",
+      "url": "https://www.radiodos.com.ar/209622-anses-los-jubilados-que-no-podran-cobrar-un-bono-de-70000-en-julio-2026",
+      "title": "ANSES: los jubilados que no podrán cobrar un bono de $70.000 en julio 2026",
+      "volanta": "ATENCIÓN",
+      "date": "2026-06-16T16:12:30+00:00"
+    },
     {
       "id": "1205dad0",
       "image": "img/1205dad0.png",
@@ -531,15 +540,6 @@
       "title": "\"Hazañas que prometí\": furor con el video que publicó Lionel Messi musicalizado por un tema de Indio Solari",
       "volanta": "RECUERDO",
       "date": "2026-06-12T14:35:36+00:00"
-    },
-    {
-      "id": "98634449",
-      "image": "img/98634449.png",
-      "image_sha": "9069eda52274c01b448167ccb723287ea66863be",
-      "url": "https://www.radiodos.com.ar/209488-anses-el-bono-de-hasta-450000-que-recibira-un-grupo-de-beneficiarios",
-      "title": "ANSES: el bono de hasta $450.000 que recibirá un grupo de beneficiarios",
-      "volanta": "ATENCIÓN",
-      "date": "2026-06-12T13:48:51+00:00"
     }
   ]
 }
