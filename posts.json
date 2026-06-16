@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T10:48:57+00:00",
+  "updated": "2026-06-16T11:12:56+00:00",
   "posts": [
+    {
+      "id": "123b7f91",
+      "image": "img/123b7f91.png",
+      "image_sha": "bfe79dea5c04fd2882f8af892d3b2d653e5a8796",
+      "url": "https://www.radiodos.com.ar/209600-corrientes-salio-a-tiempo-y-evito-el-robo-de-su-moto",
+      "title": "Corrientes: salió a tiempo y evitó el robo de su moto",
+      "volanta": "AYER POR LA TARDE",
+      "date": "2026-06-16T11:12:56+00:00"
+    },
     {
       "id": "66002b59",
       "image": "img/66002b59.png",
@@ -531,15 +540,6 @@
       "title": "Canasta básica: una familia necesitó casi $1.500.000 para no ser pobre en mayo",
       "volanta": "Datos oficiales",
       "date": "2026-06-12T02:06:57+00:00"
-    },
-    {
-      "id": "1b277065",
-      "image": "img/1b277065.png",
-      "image_sha": "3a0fa91dd15cb94ddcc33be6e49238fd545b9939",
-      "url": "https://www.radiodos.com.ar/209462-la-municipalidad-propone-un-fin-de-semana-largo-con-actividades-para-toda-la-familia",
-      "title": "La Municipalidad propone un fin de semana largo con actividades para toda la familia",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-11T22:38:05+00:00"
     }
   ]
 }
