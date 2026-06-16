@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T17:24:14+00:00",
+  "updated": "2026-06-16T17:24:46+00:00",
   "posts": [
+    {
+      "id": "b323ed50",
+      "image": "img/b323ed50.png",
+      "image_sha": "d541bd466db4710d192796bccb9e774c14c799d7",
+      "url": "https://www.radiodos.com.ar/209626-sorpresiva-nueva-eliminacion-en-gran-hermano-quien-dejo-la-casa",
+      "title": "Sorpresiva nueva eliminación en Gran Hermano: quién dejó la casa",
+      "volanta": "SIGUE EL JUEGO",
+      "date": "2026-06-16T17:24:46+00:00"
+    },
     {
       "id": "73380ea1",
       "image": "img/73380ea1.png",
@@ -531,15 +540,6 @@
       "title": "Murió la princesa de Tailandia tras pasar más de tres años en coma",
       "volanta": "LUTO",
       "date": "2026-06-12T18:09:52+00:00"
-    },
-    {
-      "id": "51a05ea0",
-      "image": "img/51a05ea0.png",
-      "image_sha": "efb0c13f3e42bdfba562c08d1c0c895c775801c0",
-      "url": "https://www.radiodos.com.ar/209494-corrientes-cerca-llega-al-barrio-virgen-de-los-dolores-con-un-amplio-operativo-integral",
-      "title": "\"Corrientes Cerca\" llega al Barrio Virgen de los Dolores con un amplio operativo integral",
-      "volanta": "DESPLIEGUE TERRITORIAL",
-      "date": "2026-06-12T17:00:45+00:00"
     }
   ]
 }
