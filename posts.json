@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T21:22:45+00:00",
+  "updated": "2026-06-16T22:05:22+00:00",
   "posts": [
+    {
+      "id": "24bd5529",
+      "image": "img/24bd5529.png",
+      "image_sha": "6b0cf4ac279130e657102b865f3fb87822144278",
+      "url": "https://www.radiodos.com.ar/209647-el-consumo-de-carne-de-vaca-en-argentina-registro-la-mayor-caida-en-dos-decadas",
+      "title": "El consumo de carne de vaca en Argentina registró la mayor caída en dos décadas",
+      "volanta": "CRISIS",
+      "date": "2026-06-16T22:05:22+00:00"
+    },
     {
       "id": "2283c497",
       "image": "img/2283c497.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que se fugó de un hogar de contención en Corrientes",
       "volanta": "PEDIDO DE COLABORACIÓN",
       "date": "2026-06-13T12:40:01+00:00"
-    },
-    {
-      "id": "2ff93460",
-      "image": "img/2ff93460.png",
-      "image_sha": "c877d9f5feb949e1bf11561913ba4a591a228305",
-      "url": "https://www.radiodos.com.ar/209520-provincia-paga-en-simultaneo-medio-aguinaldo-y-plus-de-refuerzo-de-junio",
-      "title": "Provincia paga en simultáneo medio aguinaldo y Plus de Refuerzo de junio",
-      "volanta": "POLÍTICA SALARIAL EN CORRIENTES",
-      "date": "2026-06-13T12:19:29+00:00"
     }
   ]
 }
