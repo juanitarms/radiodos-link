@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T13:38:44+00:00",
+  "updated": "2026-06-16T14:07:32+00:00",
   "posts": [
+    {
+      "id": "10161269",
+      "image": "img/10161269.png",
+      "image_sha": "8c3593695e22c86431df1ac4597733aead6759ba",
+      "url": "https://www.radiodos.com.ar/209615-abren-la-inscripcion-para-cubrir-dos-cargos-judiciales-en-corrientes-y-santo-tome",
+      "title": "Abren la inscripción para cubrir dos cargos judiciales en Corrientes y Santo Tomé",
+      "volanta": "PODER JUDICIAL",
+      "date": "2026-06-16T14:07:32+00:00"
+    },
     {
       "id": "52de56cc",
       "image": "img/52de56cc.png",
@@ -531,15 +540,6 @@
       "title": "Sprovieri impulsa una reforma para fortalecer la representación federal en ABAPPRA",
       "volanta": "BANCO DE CORRIENTES",
       "date": "2026-06-12T12:47:16+00:00"
-    },
-    {
-      "id": "379fbe18",
-      "image": "img/379fbe18.png",
-      "image_sha": "346dc80993bac338842d20bb5b073b62434a07ae",
-      "url": "https://www.radiodos.com.ar/209468-desde-este-miercoles-17-se-pagara-aguinaldo-y-plus-a-municipales-de-la-ciudad-de-corrientes",
-      "title": "Desde este miércoles 17 se pagará aguinaldo y plus a municipales de la ciudad de Corrientes",
-      "volanta": "PARA TODO EL PERSONAL",
-      "date": "2026-06-12T12:28:04+00:00"
     }
   ]
 }
