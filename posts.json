@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T14:07:32+00:00",
+  "updated": "2026-06-16T14:47:40+00:00",
   "posts": [
+    {
+      "id": "459df039",
+      "image": "img/459df039.png",
+      "image_sha": "250700eacc5a8cc50c0308c5ae8bad1861b40ccc",
+      "url": "https://www.radiodos.com.ar/209613-el-fan-fest-2026-de-la-municipalidad-tendra-multiples-sorteos-y-juegos-para-toda-la-familia",
+      "title": "El Fan Fest 2026 de la Municipalidad tendrá múltiples sorteos y juegos para toda la familia",
+      "volanta": "PARTIDO EN PANTALLA GIGANTE",
+      "date": "2026-06-16T14:47:40+00:00"
+    },
     {
       "id": "10161269",
       "image": "img/10161269.png",
@@ -531,15 +540,6 @@
       "title": "Convocan a adoptar a una adolescente de 17 años en Corrientes",
       "volanta": "ENGOYA",
       "date": "2026-06-12T12:56:26+00:00"
-    },
-    {
-      "id": "02cef9a7",
-      "image": "img/02cef9a7.png",
-      "image_sha": "7b17f9d511ae669127ed971190b5e13f7724364d",
-      "url": "https://www.radiodos.com.ar/209472-sprovieri-impulsa-una-reforma-para-fortalecer-la-representacion-federal-en-abappra",
-      "title": "Sprovieri impulsa una reforma para fortalecer la representación federal en ABAPPRA",
-      "volanta": "BANCO DE CORRIENTES",
-      "date": "2026-06-12T12:47:16+00:00"
     }
   ]
 }
