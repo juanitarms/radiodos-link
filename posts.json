@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T12:14:38+00:00",
+  "updated": "2026-06-16T12:36:35+00:00",
   "posts": [
+    {
+      "id": "b3eedbca",
+      "image": "img/b3eedbca.png",
+      "image_sha": "d6df7a7fb8be5460c05f20292829e697888af684",
+      "url": "https://www.radiodos.com.ar/209608-familia-del-empresario-chaqueno-fallecido-en-corrientes-aclara-sobre-dinero-secuestrado-y-denuncia-negligencia-vial",
+      "title": "Familia del empresario chaqueño fallecido en Corrientes aclara sobre dinero secuestrado y denuncia negligencia vial",
+      "volanta": "ACLARACIÓN",
+      "date": "2026-06-16T12:36:35+00:00"
+    },
     {
       "id": "d34e955f",
       "image": "img/d34e955f.png",
@@ -531,15 +540,6 @@
       "title": "Murió el chaqueño que protagonizó el choque contra una retroexcavadora en Ruta 12",
       "volanta": "OCURRIÓ CERCA DE ESQUINA",
       "date": "2026-06-12T11:29:06+00:00"
-    },
-    {
-      "id": "27d709f4",
-      "image": "img/27d709f4.png",
-      "image_sha": "914971facdc75e736bc9e1c846ebb5723f9ebca3",
-      "url": "https://www.radiodos.com.ar/209465-juicio-por-la-desaparicion-de-loan-habra-cambios-en-el-transito-y-recorridos-de-colectivos-en-corrientes",
-      "title": "Juicio por la desaparición de Loan: habrá cambios en el tránsito y recorridos de colectivos en Corrientes",
-      "volanta": "DESDE EL MARTES",
-      "date": "2026-06-12T11:13:03+00:00"
     }
   ]
 }
