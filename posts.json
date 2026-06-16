@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T20:51:55+00:00",
+  "updated": "2026-06-16T21:22:45+00:00",
   "posts": [
+    {
+      "id": "2283c497",
+      "image": "img/2283c497.png",
+      "image_sha": "aa501dae75fef85ae6eab3b9402dda3f642b38fb",
+      "url": "https://www.radiodos.com.ar/209646-nena-de-cinco-anos-anos-sufrio-graves-heridas-en-el-rostro-por-la-mordida-de-un-pitbull",
+      "title": "Nena de cinco años años sufrió graves heridas en el rostro por la mordida de un pitbull",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-16T21:22:45+00:00"
+    },
     {
       "id": "d78fb4eb",
       "image": "img/d78fb4eb.png",
@@ -531,15 +540,6 @@
       "title": "Provincia paga en simultáneo medio aguinaldo y Plus de Refuerzo de junio",
       "volanta": "POLÍTICA SALARIAL EN CORRIENTES",
       "date": "2026-06-13T12:19:29+00:00"
-    },
-    {
-      "id": "45bca74b",
-      "image": "img/45bca74b.png",
-      "image_sha": "7e80ed79b9ccefa54599abcec0ac0fdc414ddbcd",
-      "url": "https://www.radiodos.com.ar/209519-se-presento-oficialmente-el-torneo-argentino-de-federaciones-en-corrientes",
-      "title": "Se presentó oficialmente el Torneo Argentino de Federaciones en Corrientes",
-      "volanta": "BASQUET",
-      "date": "2026-06-12T22:29:33+00:00"
     }
   ]
 }
