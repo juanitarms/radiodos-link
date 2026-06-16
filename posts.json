@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T22:05:22+00:00",
+  "updated": "2026-06-16T22:26:05+00:00",
   "posts": [
+    {
+      "id": "e5b1ccc9",
+      "image": "img/e5b1ccc9.png",
+      "image_sha": "68a9634eeaea2199ebeba9cdaae866fb2350afde",
+      "url": "https://www.radiodos.com.ar/209648-juan-pablo-valdes-exigio-a-su-gabinete-restringir-los-gastos-corrientes",
+      "title": "Juan Pablo Valdés exigió a su Gabinete \"restringir los gastos corrientes\"",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-16T22:26:05+00:00"
+    },
     {
       "id": "24bd5529",
       "image": "img/24bd5529.png",
@@ -531,15 +540,6 @@
       "title": "Tres heridos y autos destruidos por choque frontal en RN 12 en el interior de Corrientes",
       "volanta": "ANOCHE",
       "date": "2026-06-13T13:14:04+00:00"
-    },
-    {
-      "id": "7238f704",
-      "image": "img/7238f704.png",
-      "image_sha": "f082a37a32041c73cffb8ca2240d37824f28e373",
-      "url": "https://www.radiodos.com.ar/209521-buscan-a-una-adolescente-que-se-fugo-de-un-hogar-de-contencion-en-corrientes",
-      "title": "Buscan a una adolescente que se fugó de un hogar de contención en Corrientes",
-      "volanta": "PEDIDO DE COLABORACIÓN",
-      "date": "2026-06-13T12:40:01+00:00"
     }
   ]
 }
