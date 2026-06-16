@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T12:04:02+00:00",
+  "updated": "2026-06-16T12:14:38+00:00",
   "posts": [
+    {
+      "id": "d34e955f",
+      "image": "img/d34e955f.png",
+      "image_sha": "f1526b114152845ddb146a0a5d2cd536c784ce07",
+      "url": "https://www.radiodos.com.ar/209606-schaefer-sobre-los-imputados-hay-un-pacto-cruel-de-silencio-esperamos-que-en-el-juicio-tengan-algo-de-humanidad",
+      "title": "Schaefer sobre los imputados: \"Hay un pacto cruel de silencio, esperamos que en el juicio tengan algo de humanidad\"",
+      "volanta": "FISCAL FEDERAL",
+      "date": "2026-06-16T12:14:38+00:00"
+    },
     {
       "id": "8d764994",
       "image": "img/8d764994.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición de Loan: habrá cambios en el tránsito y recorridos de colectivos en Corrientes",
       "volanta": "DESDE EL MARTES",
       "date": "2026-06-12T11:13:03+00:00"
-    },
-    {
-      "id": "4dcd0673",
-      "image": "img/4dcd0673.png",
-      "image_sha": "d47d18517730dfb4623e70083102f83c98db4753",
-      "url": "https://www.radiodos.com.ar/209463-conmocion-en-corrientes-dos-efectivos-de-prefectura-fallecieron-en-el-transcurso-de-pocas-horas",
-      "title": "Conmoción en Corrientes: dos efectivos de Prefectura fallecieron en el transcurso de pocas horas",
-      "volanta": "EN CAPITAL E INTERIOR",
-      "date": "2026-06-12T10:58:40+00:00"
     }
   ]
 }
