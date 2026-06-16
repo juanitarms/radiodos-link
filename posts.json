@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T22:26:05+00:00",
+  "updated": "2026-06-16T23:08:59+00:00",
   "posts": [
+    {
+      "id": "69561658",
+      "image": "img/69561658.png",
+      "image_sha": "100a370cc2dd27311ff3535004c7fa093921f9bf",
+      "url": "https://www.radiodos.com.ar/209649-cerraron-mas-de-2000-empresas-y-ya-son-14-mil-menos-en-un-ano",
+      "title": "Cerraron más de 2.000 empresas y ya son 14 mil menos en un año",
+      "volanta": "El peor marzo desde la pandemia",
+      "date": "2026-06-16T23:08:59+00:00"
+    },
     {
       "id": "e5b1ccc9",
       "image": "img/e5b1ccc9.png",
@@ -531,15 +540,6 @@
       "title": "Inflación en el NEA: los alimentos aumentaron un 20% en lo que va del año",
       "volanta": "NUMEROS",
       "date": "2026-06-13T13:36:23+00:00"
-    },
-    {
-      "id": "4bd4cb50",
-      "image": "img/4bd4cb50.png",
-      "image_sha": "b392b4ccb44bbaf9bcadab22dd28cba76e9ff3a7",
-      "url": "https://www.radiodos.com.ar/209522-tres-heridos-y-autos-destruidos-por-choque-frontal-en-rn-12-en-el-interior-de-corrientes",
-      "title": "Tres heridos y autos destruidos por choque frontal en RN 12 en el interior de Corrientes",
-      "volanta": "ANOCHE",
-      "date": "2026-06-13T13:14:04+00:00"
     }
   ]
 }
