@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T21:47:26+00:00",
+  "updated": "2026-06-17T22:49:56+00:00",
   "posts": [
+    {
+      "id": "53addd7d",
+      "image": "img/53addd7d.png",
+      "image_sha": "5a2f041cd1012a20f8619a7222cbf4937d23dcef",
+      "url": "https://www.radiodos.com.ar/209706-corrientes-se-esperan-tormentas-y-un-marcado-descenso-de-temperatura",
+      "title": "Corrientes: se esperan tormentas y un marcado descenso de temperatura",
+      "volanta": "ALERTA AMARILLA",
+      "date": "2026-06-17T22:49:56+00:00"
+    },
     {
       "id": "e126e095",
       "image": "img/e126e095.png",
@@ -531,15 +540,6 @@
       "title": "Postales del frío extremo en localidad del interior de Corrientes",
       "volanta": "PRIMERAS HELADAS",
       "date": "2026-06-16T12:55:21+00:00"
-    },
-    {
-      "id": "b3eedbca",
-      "image": "img/b3eedbca.png",
-      "image_sha": "d6df7a7fb8be5460c05f20292829e697888af684",
-      "url": "https://www.radiodos.com.ar/209608-familia-del-empresario-chaqueno-fallecido-en-corrientes-aclara-sobre-dinero-secuestrado-y-denuncia-negligencia-vial",
-      "title": "Familia del empresario chaqueño fallecido en Corrientes aclara sobre dinero secuestrado y denuncia negligencia vial",
-      "volanta": "ACLARACIÓN",
-      "date": "2026-06-16T12:36:35+00:00"
     }
   ]
 }
