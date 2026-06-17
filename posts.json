@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T14:51:26+00:00",
+  "updated": "2026-06-17T16:20:17+00:00",
   "posts": [
+    {
+      "id": "e5cae87b",
+      "image": "img/e5cae87b.png",
+      "image_sha": "1b65a8261d7fca65c5f1bf7e9a4ba21c87e25505",
+      "url": "https://www.radiodos.com.ar/209685-el-fogoso-beso-entre-mariela-prieto-y-emanuel-di-gioia-en-gran-hermano",
+      "title": "El fogoso beso entre Mariela Prieto y Emanuel Di Gioia en Gran Hermano",
+      "volanta": "Atento Turco García",
+      "date": "2026-06-17T16:20:17+00:00"
+    },
     {
       "id": "8f577cbe",
       "image": "img/8f577cbe.png",
@@ -531,15 +540,6 @@
       "title": "Tras el acuerdo entre Estados Unidos e Irán, se desploma el precio del petróleo y los mercados celebran",
       "volanta": "ECONOMÍA",
       "date": "2026-06-15T13:28:16+00:00"
-    },
-    {
-      "id": "b0d54ce7",
-      "image": "img/b0d54ce7.png",
-      "image_sha": "ec12e7f1bb33ef8c7c9a047b1a0027e41c74f4f5",
-      "url": "https://www.radiodos.com.ar/209574-emiten-segundo-informe-de-seguimiento-del-escenario-del-fenomeno-del-nino-2026-para-chaco-y-la-region",
-      "title": "Emiten segundo informe de seguimiento del escenario del fenómeno del Niño 2026 para Chaco y la región",
-      "volanta": "ALERTA",
-      "date": "2026-06-15T13:04:31+00:00"
     }
   ]
 }
