@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T18:39:30+00:00",
+  "updated": "2026-06-17T19:21:35+00:00",
   "posts": [
+    {
+      "id": "dbf60414",
+      "image": "img/dbf60414.png",
+      "image_sha": "3a24e1a0e1e99a5978ad594bcc3f0982e8b6973b",
+      "url": "https://www.radiodos.com.ar/209693-corrientes-reafirmo-su-compromiso-con-la-donacion-voluntaria-de-sangre",
+      "title": "Corrientes reafirmó su compromiso con la donación voluntaria de sangre",
+      "volanta": "DÍA MUNDIAL DEL DONANTE",
+      "date": "2026-06-17T19:21:35+00:00"
+    },
     {
       "id": "33c7dcdb",
       "image": "img/33c7dcdb.png",
@@ -531,15 +540,6 @@
       "title": "Ola de frío en Corrientes: se esperan mínimas de un dígito para los próximos días",
       "volanta": "Tiempo",
       "date": "2026-06-15T22:48:52+00:00"
-    },
-    {
-      "id": "7e67ad2c",
-      "image": "img/7e67ad2c.png",
-      "image_sha": "47e5b73e257bd75b7a3eec1338c6efaef8656c8f",
-      "url": "https://www.radiodos.com.ar/209593-corrientes-este-martes-reunion-de-gabinete-convocada-por-jp-valdes",
-      "title": "Corrientes: este martes, reunión de Gabinete convocada por JP Valdés",
-      "volanta": "A LAS 10",
-      "date": "2026-06-15T19:51:41+00:00"
     }
   ]
 }
