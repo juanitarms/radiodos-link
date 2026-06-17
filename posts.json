@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T13:18:40+00:00",
+  "updated": "2026-06-17T13:38:32+00:00",
   "posts": [
+    {
+      "id": "0ed7d497",
+      "image": "img/0ed7d497.png",
+      "image_sha": "89039a1e3b4daeea86027c09b4d20cabbccaaf50",
+      "url": "https://www.radiodos.com.ar/209674-manuel-adorni-confirmo-que-asistira-al-senado-el-proximo-2-de-julio",
+      "title": "Manuel Adorni confirmó que asistirá al Senado el próximo 2 de julio",
+      "volanta": "TRAS EL PEDIDO",
+      "date": "2026-06-17T13:38:32+00:00"
+    },
     {
       "id": "8e508356",
       "image": "img/8e508356.png",
@@ -531,15 +540,6 @@
       "title": "Otra \"batalla de pandillas\" en un barrio de Corrientes",
       "volanta": "VARIOS MENORES DEMORADOS",
       "date": "2026-06-15T11:19:34+00:00"
-    },
-    {
-      "id": "8adc3597",
-      "image": "img/8adc3597.png",
-      "image_sha": "cb1843c770ed5bd4d577518cabbd2a06e168f865",
-      "url": "https://www.radiodos.com.ar/209553-colapinto-termino-octavo-tras-una-gran-remontada-en-el-gp-de-espana",
-      "title": "Colapinto terminó octavo tras una gran remontada en el GP de España",
-      "volanta": "Fórmula 1",
-      "date": "2026-06-14T16:21:08+00:00"
     }
   ]
 }
