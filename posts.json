@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T19:22:11+00:00",
+  "updated": "2026-06-17T19:22:41+00:00",
   "posts": [
+    {
+      "id": "ab0ea56f",
+      "image": "img/ab0ea56f.png",
+      "image_sha": "74ce24e0f2a88497da63bafba6a9fe78ad8e15bb",
+      "url": "https://www.radiodos.com.ar/209695-por-primera-vez-el-hospital-garrahan-realizo-un-trasplante-renal-simultaneo",
+      "title": "Por primera vez, el Hospital Garrahan realizó un trasplante renal simultáneo",
+      "volanta": "ORGULLO",
+      "date": "2026-06-17T19:22:41+00:00"
+    },
     {
       "id": "c16a6a91",
       "image": "img/c16a6a91.png",
@@ -531,15 +540,6 @@
       "title": "Comienza el juicio por la desaparición del pequeño Loan Peña: el caso que conmocionó al país",
       "volanta": "EN EL ESCUADRÓN 48",
       "date": "2026-06-16T10:34:32+00:00"
-    },
-    {
-      "id": "6b4d1c1e",
-      "image": "img/6b4d1c1e.png",
-      "image_sha": "7e7902e95323cfc5d5dbeabaaee40983b34a6c76",
-      "url": "https://www.radiodos.com.ar/209596-lionel-scaloni-revelo-como-estan-los-lesionados-antes-del-debut-de-la-seleccion-argentina",
-      "title": "Lionel Scaloni reveló cómo están los lesionados antes del debut de la Selección argentina",
-      "volanta": "Mundial 2026",
-      "date": "2026-06-16T02:51:14+00:00"
     }
   ]
 }
