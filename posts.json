@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T17:04:55+00:00",
+  "updated": "2026-06-17T18:38:54+00:00",
   "posts": [
+    {
+      "id": "a1979348",
+      "image": "img/a1979348.png",
+      "image_sha": "79e0b255532613a99fcf5ff33d0ccf1c99316584",
+      "url": "https://www.radiodos.com.ar/209691-se-pone-en-marcha-el-plan-de-regularizacion-de-obras-con-importantes-beneficios",
+      "title": "Se pone en marcha el Plan de Regularización de Obras con importantes beneficios",
+      "volanta": "DISPOSICIÓN MUNICIPAL",
+      "date": "2026-06-17T18:38:54+00:00"
+    },
     {
       "id": "753171f4",
       "image": "img/753171f4.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un hombre con un arma de fabricación casera y municiones",
       "volanta": "CURUZÚ CUATIÁ",
       "date": "2026-06-15T17:31:28+00:00"
-    },
-    {
-      "id": "b4078035",
-      "image": "img/b4078035.png",
-      "image_sha": "8a9ae6b6293e91ec02f86c9c37465447b8d7fb85",
-      "url": "https://www.radiodos.com.ar/209588-en-allanamientos-secuestraron-cocaina-y-detuvieron-a-un-hombre",
-      "title": "En allanamientos secuestraron cocaína y detuvieron a un hombre",
-      "volanta": "GOYA",
-      "date": "2026-06-15T17:30:50+00:00"
     }
   ]
 }
