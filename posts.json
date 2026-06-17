@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T16:21:18+00:00",
+  "updated": "2026-06-17T17:03:53+00:00",
   "posts": [
+    {
+      "id": "99e61645",
+      "image": "img/99e61645.png",
+      "image_sha": "bbde3cd0734c677af7f5e28e2a7d46b131e6b89f",
+      "url": "https://www.radiodos.com.ar/209688-un-expolicia-condenado-por-abusar-de-una-nena-grabo-un-descargo-antes-de-quitarse-la-vida-no-tengo-salida",
+      "title": "Un expolicía condenado por abusar de una nena grabó un descargo antes de quitarse la vida: \"No tengo salida\"",
+      "volanta": "ENTRE RÍOS",
+      "date": "2026-06-17T17:03:53+00:00"
+    },
     {
       "id": "32f2cacc",
       "image": "img/32f2cacc.png",
@@ -531,15 +540,6 @@
       "title": "\"Te transformaré en mi motor\": el conmovedor mensaje de Juli Savioli sobre Gaspi",
       "volanta": "TRISTEZA TOTAL",
       "date": "2026-06-15T14:24:18+00:00"
-    },
-    {
-      "id": "3dbc5d4a",
-      "image": "img/3dbc5d4a.png",
-      "image_sha": "43fd373ca36b6c2e7bae30eafd2f435c7b07be6c",
-      "url": "https://www.radiodos.com.ar/209583-la-emotiva-visita-de-la-mona-jimenez-a-la-seleccion-argentina-hubo-abrazos-y-regalos-especiales",
-      "title": "La emotiva visita de la Mona Jiménez a la Selección Argentina: hubo abrazos y regalos especiales",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-15T14:04:30+00:00"
     }
   ]
 }
