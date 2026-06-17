@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T14:33:45+00:00",
+  "updated": "2026-06-17T14:51:26+00:00",
   "posts": [
+    {
+      "id": "8f577cbe",
+      "image": "img/8f577cbe.png",
+      "image_sha": "4f178082a81aba295f9f52a97947fb3933d9bc5f",
+      "url": "https://www.radiodos.com.ar/209682-anses-confirman-las-fechas-de-cobro-de-la-auh-y-tarjeta-alimentar-con-aumento-para-junio-2026",
+      "title": "ANSES: confirman las fechas de cobro de la AUH y Tarjeta Alimentar con aumento para junio 2026",
+      "volanta": "INFO ÚTIL",
+      "date": "2026-06-17T14:51:26+00:00"
+    },
     {
       "id": "272355ae",
       "image": "img/272355ae.png",
@@ -531,15 +540,6 @@
       "title": "Emiten segundo informe de seguimiento del escenario del fenómeno del Niño 2026 para Chaco y la región",
       "volanta": "ALERTA",
       "date": "2026-06-15T13:04:31+00:00"
-    },
-    {
-      "id": "c83f0e7a",
-      "image": "img/c83f0e7a.png",
-      "image_sha": "4827f65e6c9f6a40d21f63eb1968bd09fbd61106",
-      "url": "https://www.radiodos.com.ar/209573-condicionado-por-el-clima-la-economia-y-el-mundial-el-feriado-en-conmemoracion-de-guemes-genero-217-mil-millones",
-      "title": "Condicionado por el clima, la economía y el Mundial, el feriado en conmemoración de Güemes generó $ 217 mil millones",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-15T12:54:17+00:00"
     }
   ]
 }
