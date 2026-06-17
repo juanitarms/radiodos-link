@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T16:20:17+00:00",
+  "updated": "2026-06-17T16:20:47+00:00",
   "posts": [
+    {
+      "id": "3dce229e",
+      "image": "img/3dce229e.png",
+      "image_sha": "7332d0c06dd1146554e1e33c52947df98252f901",
+      "url": "https://www.radiodos.com.ar/209686-candelaria-tinelli-exploto-tras-el-escandalo-de-su-hermana-juanita-la-quiero-mucho-pero",
+      "title": "Candelaria Tinelli explotó tras el escándalo de su hermana Juanita: \"La quiero mucho, pero...\"",
+      "volanta": "PUSO LÍMITES",
+      "date": "2026-06-17T16:20:47+00:00"
+    },
     {
       "id": "e5cae87b",
       "image": "img/e5cae87b.png",
@@ -531,15 +540,6 @@
       "title": "Gran Hermano: la coreografía de \"Wrecking Ball\" fue aprobada por el público y desató festejos",
       "volanta": "UN ÉXITO",
       "date": "2026-06-15T13:39:38+00:00"
-    },
-    {
-      "id": "6edd2646",
-      "image": "img/6edd2646.png",
-      "image_sha": "8eef35978fc3841fe6cc875347da615704021fb3",
-      "url": "https://www.radiodos.com.ar/209576-tras-el-acuerdo-entre-estados-unidos-e-iran-se-desploma-el-precio-del-petroleo-y-los-mercados-celebran",
-      "title": "Tras el acuerdo entre Estados Unidos e Irán, se desploma el precio del petróleo y los mercados celebran",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-15T13:28:16+00:00"
     }
   ]
 }
