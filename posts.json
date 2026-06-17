@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T21:46:55+00:00",
+  "updated": "2026-06-17T21:47:26+00:00",
   "posts": [
+    {
+      "id": "e126e095",
+      "image": "img/e126e095.png",
+      "image_sha": "25d089b244da922be1990735ead893e211da7e4e",
+      "url": "https://www.radiodos.com.ar/209700-piden-juicio-politico-a-manuel-adorni",
+      "title": "Piden juicio político a Manuel Adorni",
+      "volanta": "jefe de Gabinete",
+      "date": "2026-06-17T21:47:26+00:00"
+    },
     {
       "id": "5a258c01",
       "image": "img/5a258c01.png",
@@ -531,15 +540,6 @@
       "title": "Familia del empresario chaqueño fallecido en Corrientes aclara sobre dinero secuestrado y denuncia negligencia vial",
       "volanta": "ACLARACIÓN",
       "date": "2026-06-16T12:36:35+00:00"
-    },
-    {
-      "id": "d34e955f",
-      "image": "img/d34e955f.png",
-      "image_sha": "f1526b114152845ddb146a0a5d2cd536c784ce07",
-      "url": "https://www.radiodos.com.ar/209606-schaefer-sobre-los-imputados-hay-un-pacto-cruel-de-silencio-esperamos-que-en-el-juicio-tengan-algo-de-humanidad",
-      "title": "Schaefer sobre los imputados: \"Hay un pacto cruel de silencio, esperamos que en el juicio tengan algo de humanidad\"",
-      "volanta": "FISCAL FEDERAL",
-      "date": "2026-06-16T12:14:38+00:00"
     }
   ]
 }
