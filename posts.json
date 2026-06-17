@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T10:18:23+00:00",
+  "updated": "2026-06-17T11:33:19+00:00",
   "posts": [
+    {
+      "id": "240e37e9",
+      "image": "img/240e37e9.png",
+      "image_sha": "563211ae56102440e06b521a9398d0951ee0ce00",
+      "url": "https://www.radiodos.com.ar/209652-conmocion-en-chaco-una-mujer-se-entrego-tras-asesinar-a-su-hija",
+      "title": "Conmoción en Chaco: una mujer se entregó tras asesinar a su hija",
+      "volanta": "TRES ISLETAS",
+      "date": "2026-06-17T11:33:19+00:00"
+    },
     {
       "id": "7a0ed748",
       "image": "img/7a0ed748.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes Anime: una nueva propuesta para los amantes de la cultura geek y otaku",
       "volanta": "CULTURA",
       "date": "2026-06-13T23:27:45+00:00"
-    },
-    {
-      "id": "87ccde4e",
-      "image": "img/87ccde4e.png",
-      "image_sha": "e9bf1566f7549e4c53684ec795525a43b6d34aa8",
-      "url": "https://www.radiodos.com.ar/209529-valdes-acompano-a-la-comunidad-de-mburucuya-en-su-fiesta-patronal-por-san-antonio-de-padua",
-      "title": "Valdés acompañó a la comunidad de Mburucuyá en su fiesta patronal por San Antonio de Padua",
-      "volanta": "SANTA MISA",
-      "date": "2026-06-13T22:22:18+00:00"
     }
   ]
 }
