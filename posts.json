@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T12:18:32+00:00",
+  "updated": "2026-06-17T12:34:46+00:00",
   "posts": [
+    {
+      "id": "3251c780",
+      "image": "img/3251c780.png",
+      "image_sha": "8e1bf85567fb359a376e26dfbdfd1301f882cdd4",
+      "url": "https://www.radiodos.com.ar/209659-una-nena-esta-internada-en-el-pediatrico-tras-ser-atacada-por-un-perro-en-el-interior-de-corrientes",
+      "title": "Una nena está internada en el Pediátrico tras ser atacada por un perro en el interior de Corrientes",
+      "volanta": "SEGUNDO CASO EN ESQUINA",
+      "date": "2026-06-17T12:34:46+00:00"
+    },
     {
       "id": "73ef2217",
       "image": "img/73ef2217.png",
@@ -531,15 +540,6 @@
       "title": "Día Mundial del Dengue: importancia de la prevención frente a una amenaza global en expansión",
       "volanta": "SALUD",
       "date": "2026-06-14T15:54:51+00:00"
-    },
-    {
-      "id": "85bdb24e",
-      "image": "img/85bdb24e.png",
-      "image_sha": "d7295c4298d5617927a8d2052ca3d2184062548f",
-      "url": "https://www.radiodos.com.ar/209552-la-unidad-transmitira-en-pantalla-gigante-todos-los-partidos-de-argentina",
-      "title": "La Unidad transmitirá en pantalla gigante todos los partidos de Argentina",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-14T15:34:52+00:00"
     }
   ]
 }
