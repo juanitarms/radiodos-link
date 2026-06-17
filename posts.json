@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-16T23:13:10+00:00",
+  "updated": "2026-06-17T10:18:23+00:00",
   "posts": [
+    {
+      "id": "7a0ed748",
+      "image": "img/7a0ed748.png",
+      "image_sha": "7b36fe9e0c9c7616b34ef93772226a19a1aeb12b",
+      "url": "https://www.radiodos.com.ar/209651-con-un-lionel-messi-historico-la-seleccion-argentina-goleo-a-argelia-en-su-debut-en-el-mundial-2026",
+      "title": "Con un Lionel Messi histórico, la Selección Argentina goleó a Argelia en su debut en el Mundial 2026",
+      "volanta": "3 a 0",
+      "date": "2026-06-17T10:18:23+00:00"
+    },
     {
       "id": "70851879",
       "image": "img/70851879.png",
@@ -531,15 +540,6 @@
       "title": "Valdés acompañó a la comunidad de Mburucuyá en su fiesta patronal por San Antonio de Padua",
       "volanta": "SANTA MISA",
       "date": "2026-06-13T22:22:18+00:00"
-    },
-    {
-      "id": "593fda1a",
-      "image": "img/593fda1a.png",
-      "image_sha": "7c1cfc1dc07c1019e7ab5e7f31cc614b52aa33de",
-      "url": "https://www.radiodos.com.ar/209525-a-dos-anos-de-la-desaparicion-de-loan-como-fue-el-ultimo-dia-del-pequeno-en-corrientes",
-      "title": "A dos años de la desaparición de Loan: cómo fue el último día del pequeño en Corrientes",
-      "volanta": "SIN JUSTICIA",
-      "date": "2026-06-13T18:43:35+00:00"
     }
   ]
 }
