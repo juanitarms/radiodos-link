@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T11:33:19+00:00",
+  "updated": "2026-06-17T11:50:18+00:00",
   "posts": [
+    {
+      "id": "fd1707d1",
+      "image": "img/fd1707d1.png",
+      "image_sha": "4285f83936cdf1ab767068b9f8fdde9659c735cb",
+      "url": "https://www.radiodos.com.ar/209653-juicio-por-loan-no-estamos-conformes-con-el-tratamiento-del-tribunal",
+      "title": "Juicio por Loan: \"No estamos conformes con el tratamiento del Tribunal\"",
+      "volanta": "FISCAL TAMARA POURCEL",
+      "date": "2026-06-17T11:50:18+00:00"
+    },
     {
       "id": "240e37e9",
       "image": "img/240e37e9.png",
@@ -531,15 +540,6 @@
       "title": "Sobre el final: Qatar rescató un empate por 1-1 ante Suiza por el Mundial 2026",
       "volanta": "GRUPO B",
       "date": "2026-06-14T00:40:44+00:00"
-    },
-    {
-      "id": "cefd920d",
-      "image": "img/cefd920d.png",
-      "image_sha": "ccb1aef8235e26413e2bfbcceb8134d315226efb",
-      "url": "https://www.radiodos.com.ar/209532-corrientes-anime-una-nueva-propuesta-para-los-amantes-de-la-cultura-geek-y-otaku",
-      "title": "Corrientes Anime: una nueva propuesta para los amantes de la cultura geek y otaku",
-      "volanta": "CULTURA",
-      "date": "2026-06-13T23:27:45+00:00"
     }
   ]
 }
