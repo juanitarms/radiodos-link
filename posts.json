@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T21:12:52+00:00",
+  "updated": "2026-06-17T21:46:55+00:00",
   "posts": [
+    {
+      "id": "5a258c01",
+      "image": "img/5a258c01.png",
+      "image_sha": "309c50cba1bddf911ea476043e212a7d7e565458",
+      "url": "https://www.radiodos.com.ar/209705-congo-sorprendio-y-le-saco-un-empate-a-la-portugal-de-cristiano-ronaldo",
+      "title": "Congo sorprendió y le sacó un empate a la Portugal de Cristiano Ronaldo",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-17T21:46:55+00:00"
+    },
     {
       "id": "bd0dc6a7",
       "image": "img/bd0dc6a7.png",
@@ -531,15 +540,6 @@
       "title": "Schaefer sobre los imputados: \"Hay un pacto cruel de silencio, esperamos que en el juicio tengan algo de humanidad\"",
       "volanta": "FISCAL FEDERAL",
       "date": "2026-06-16T12:14:38+00:00"
-    },
-    {
-      "id": "8d764994",
-      "image": "img/8d764994.png",
-      "image_sha": "6899e9a493344c33f0fb45d5713653f22320ffba",
-      "url": "https://www.radiodos.com.ar/209604-corrientes-escaso-movimiento-turistico-en-el-feriado-xl",
-      "title": "Corrientes: escaso movimiento turístico en el feriado XL",
-      "volanta": "CRISIS",
-      "date": "2026-06-16T12:04:02+00:00"
     }
   ]
 }
