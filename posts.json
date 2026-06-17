@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T20:31:51+00:00",
+  "updated": "2026-06-17T21:12:16+00:00",
   "posts": [
+    {
+      "id": "2d89643e",
+      "image": "img/2d89643e.png",
+      "image_sha": "93b3bdf3c147988e87c34434294c3288dbcc576c",
+      "url": "https://www.radiodos.com.ar/209702-martin-villagran-sera-el-nuevo-entrenador-de-regatas",
+      "title": "Martín Villagrán será el nuevo entrenador de Regatas",
+      "volanta": "LIGA NACIONAL",
+      "date": "2026-06-17T21:12:16+00:00"
+    },
     {
       "id": "d2ee7230",
       "image": "img/d2ee7230.png",
@@ -531,15 +540,6 @@
       "title": "La buscaban en Santiago del Estero y apareció sana y salva en el interior de Corrientes",
       "volanta": "GOYA",
       "date": "2026-06-16T11:22:18+00:00"
-    },
-    {
-      "id": "123b7f91",
-      "image": "img/123b7f91.png",
-      "image_sha": "bfe79dea5c04fd2882f8af892d3b2d653e5a8796",
-      "url": "https://www.radiodos.com.ar/209600-corrientes-salio-a-tiempo-y-evito-el-robo-de-su-moto",
-      "title": "Corrientes: salió a tiempo y evitó el robo de su moto",
-      "volanta": "AYER POR LA TARDE",
-      "date": "2026-06-16T11:12:56+00:00"
     }
   ]
 }
