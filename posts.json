@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T11:50:18+00:00",
+  "updated": "2026-06-17T11:59:01+00:00",
   "posts": [
+    {
+      "id": "3c545abe",
+      "image": "img/3c545abe.png",
+      "image_sha": "0051b9e1bc31f1f70c829a450e3a70272021717f",
+      "url": "https://www.radiodos.com.ar/209654-como-sigue-el-juicio-por-la-desaparicion-del-pequeno-loan-pena",
+      "title": "Cómo sigue el Juicio por la desaparición del pequeño Loan Peña",
+      "volanta": "Hoy a las 9:30",
+      "date": "2026-06-17T11:59:01+00:00"
+    },
     {
       "id": "fd1707d1",
       "image": "img/fd1707d1.png",
@@ -531,15 +540,6 @@
       "title": "Domingo de bicicletas y disfrute seguro: la ciudad será sede del Primer Encuentro Nacional de Stunt",
       "volanta": "ESPECIALIDAD CON FUERTE CRECIMIENTO",
       "date": "2026-06-14T03:38:05+00:00"
-    },
-    {
-      "id": "f1e281f6",
-      "image": "img/f1e281f6.png",
-      "image_sha": "6f8a008c9ee972a97855ae6f121f1b13aba67e20",
-      "url": "https://www.radiodos.com.ar/209548-sobre-el-final-qatar-rescato-un-empate-por-1-1-ante-suiza-por-el-mundial-2026",
-      "title": "Sobre el final: Qatar rescató un empate por 1-1 ante Suiza por el Mundial 2026",
-      "volanta": "GRUPO B",
-      "date": "2026-06-14T00:40:44+00:00"
     }
   ]
 }
