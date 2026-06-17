@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T19:23:14+00:00",
+  "updated": "2026-06-17T20:31:51+00:00",
   "posts": [
+    {
+      "id": "d2ee7230",
+      "image": "img/d2ee7230.png",
+      "image_sha": "a83677d65ace486f9bebe41d9a4bd6d1ba05f355",
+      "url": "https://www.radiodos.com.ar/209697-ponen-en-marcha-el-plan-de-regularizacion-de-obras-con-importantes-beneficios",
+      "title": "Ponen en marcha el Plan de Regularización de Obras con importantes beneficios",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-17T20:31:51+00:00"
+    },
     {
       "id": "1903ce0f",
       "image": "img/1903ce0f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: salió a tiempo y evitó el robo de su moto",
       "volanta": "AYER POR LA TARDE",
       "date": "2026-06-16T11:12:56+00:00"
-    },
-    {
-      "id": "66002b59",
-      "image": "img/66002b59.png",
-      "image_sha": "bb3d7ee8a139818349147f0ca08c302c0aab8447",
-      "url": "https://www.radiodos.com.ar/209601-argentina-debuta-el-mundial-las-fan-fest-en-corrientes-para-palpitar-el-partido-contra-argelia",
-      "title": "Argentina debuta el Mundial: las Fan Fest en Corrientes para palpitar el partido contra Argelia",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-16T10:48:57+00:00"
     }
   ]
 }
