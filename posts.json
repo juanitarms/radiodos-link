@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T19:21:35+00:00",
+  "updated": "2026-06-17T19:22:11+00:00",
   "posts": [
+    {
+      "id": "c16a6a91",
+      "image": "img/c16a6a91.png",
+      "image_sha": "c863e13070807f92853b2c1377e9d57d76290773",
+      "url": "https://www.radiodos.com.ar/209692-dpec-ofrece-un-plan-integral-de-regularizacion-comercial-con-importantes-beneficios",
+      "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
+      "volanta": "Comunicado",
+      "date": "2026-06-17T19:22:11+00:00"
+    },
     {
       "id": "dbf60414",
       "image": "img/dbf60414.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni reveló cómo están los lesionados antes del debut de la Selección argentina",
       "volanta": "Mundial 2026",
       "date": "2026-06-16T02:51:14+00:00"
-    },
-    {
-      "id": "68936211",
-      "image": "img/68936211.png",
-      "image_sha": "aa6e54b6641f39dd1128fe0901559be342e5aaaf",
-      "url": "https://www.radiodos.com.ar/209594-ola-de-frio-en-corrientes-se-esperan-minimas-de-un-digito-para-los-proximos-dias",
-      "title": "Ola de frío en Corrientes: se esperan mínimas de un dígito para los próximos días",
-      "volanta": "Tiempo",
-      "date": "2026-06-15T22:48:52+00:00"
     }
   ]
 }
