@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T17:03:53+00:00",
+  "updated": "2026-06-17T17:04:22+00:00",
   "posts": [
+    {
+      "id": "d1e8c506",
+      "image": "img/d1e8c506.png",
+      "image_sha": "4f2b95b924b5b1d16979e099295165badb909566",
+      "url": "https://www.radiodos.com.ar/209687-operativo-de-garrafa-social",
+      "title": "Operativo de Garrafa Social",
+      "volanta": "Cronograma Semanal",
+      "date": "2026-06-17T17:04:22+00:00"
+    },
     {
       "id": "99e61645",
       "image": "img/99e61645.png",
@@ -531,15 +540,6 @@
       "title": "\"El sacrificio de mis padres. Pero el sueño de mamá\": el emotivo mensaje del Flaco López",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-15T14:49:49+00:00"
-    },
-    {
-      "id": "17fb5c41",
-      "image": "img/17fb5c41.png",
-      "image_sha": "619fc426036e025f8777dbac1748c8e2e059ea28",
-      "url": "https://www.radiodos.com.ar/209585-te-transformare-en-mi-motor-el-conmovedor-mensaje-de-juli-savioli-sobre-gaspi",
-      "title": "\"Te transformaré en mi motor\": el conmovedor mensaje de Juli Savioli sobre Gaspi",
-      "volanta": "TRISTEZA TOTAL",
-      "date": "2026-06-15T14:24:18+00:00"
     }
   ]
 }
