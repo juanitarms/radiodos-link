@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T17:04:22+00:00",
+  "updated": "2026-06-17T17:04:55+00:00",
   "posts": [
+    {
+      "id": "753171f4",
+      "image": "img/753171f4.png",
+      "image_sha": "85cdf5d40394de05244a79834f6488ff9d9eec00",
+      "url": "https://www.radiodos.com.ar/209690-tini-stoessel-le-dedico-un-tierno-mensaje-a-rodrigo-de-paul-tras-la-victoria-de-argentina",
+      "title": "Tini Stoessel le dedicó un tierno mensaje a Rodrigo De Paul tras la victoria de Argentina",
+      "volanta": "ENAMORADA",
+      "date": "2026-06-17T17:04:55+00:00"
+    },
     {
       "id": "d1e8c506",
       "image": "img/d1e8c506.png",
@@ -531,15 +540,6 @@
       "title": "En allanamientos secuestraron cocaína y detuvieron a un hombre",
       "volanta": "GOYA",
       "date": "2026-06-15T17:30:50+00:00"
-    },
-    {
-      "id": "1ac998bc",
-      "image": "img/1ac998bc.png",
-      "image_sha": "06319247da45eb6193dcc9b6cec9023cde147385",
-      "url": "https://www.radiodos.com.ar/209586-el-sacrificio-de-mis-padres-pero-el-sueno-de-mama-el-emotivo-mensaje-del-flaco-lopez",
-      "title": "\"El sacrificio de mis padres. Pero el sueño de mamá\": el emotivo mensaje del Flaco López",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-15T14:49:49+00:00"
     }
   ]
 }
