@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T22:58:26+00:00",
+  "updated": "2026-06-17T22:58:59+00:00",
   "posts": [
+    {
+      "id": "ecfddeeb",
+      "image": "img/ecfddeeb.png",
+      "image_sha": "ac01ae9af05fdbfa3a609d4f625d00ca57b51956",
+      "url": "https://www.radiodos.com.ar/209709-tras-aprobar-una-garantia-de-us2000-millones-javier-milei-recibio-a-autoridades-del-banco-mundial",
+      "title": "Tras aprobar una garantía de u$s2.000 millones, Javier Milei recibió a autoridades del Banco Mundial",
+      "volanta": "EN QUINTA DE OLIVOS",
+      "date": "2026-06-17T22:58:59+00:00"
+    },
     {
       "id": "4fca7c83",
       "image": "img/4fca7c83.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: defensores de los imputados afirman que \"son inocentes\" y  que \"no hay pruebas\"",
       "volanta": "JUICIO",
       "date": "2026-06-16T13:38:44+00:00"
-    },
-    {
-      "id": "297981f7",
-      "image": "img/297981f7.png",
-      "image_sha": "67bf2b4bd420cd8aca87c3a3d54ba9e0d110af6f",
-      "url": "https://www.radiodos.com.ar/209611-la-municipalidad-de-corrientes-proceso-mas-de-99-mil-toneladas-de-residuos-en-los-primeros-seis-meses-de-gestion",
-      "title": "La Municipalidad de Corrientes procesó más de 99 mil toneladas de residuos en los primeros seis meses de gestión",
-      "volanta": "BALANCE",
-      "date": "2026-06-16T13:23:06+00:00"
     }
   ]
 }
