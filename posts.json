@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T19:22:41+00:00",
+  "updated": "2026-06-17T19:23:14+00:00",
   "posts": [
+    {
+      "id": "1903ce0f",
+      "image": "img/1903ce0f.png",
+      "image_sha": "1a3c3eca0e1b69ff7f9ed311aa3cadc13aa7336b",
+      "url": "https://www.radiodos.com.ar/209696-media-sancion-a-ley-que-instituye-la-semana-de-la-epilepsia-en-la-provincia-de-corrientes-",
+      "title": "Media sanción a ley que instituye la Semana de la Epilepsia en la provincia de Corrientes",
+      "volanta": "Sesión 10  -Cámara de Diputados",
+      "date": "2026-06-17T19:23:14+00:00"
+    },
     {
       "id": "ab0ea56f",
       "image": "img/ab0ea56f.png",
@@ -531,15 +540,6 @@
       "title": "Argentina debuta el Mundial: las Fan Fest en Corrientes para palpitar el partido contra Argelia",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-16T10:48:57+00:00"
-    },
-    {
-      "id": "ed66c6d3",
-      "image": "img/ed66c6d3.png",
-      "image_sha": "6f86f040303cfa2ef42c50a3dd1075714fea07bb",
-      "url": "https://www.radiodos.com.ar/209598-comienza-el-juicio-por-la-desaparicion-del-pequeno-loan-pena-el-caso-que-conmociono-al-pais",
-      "title": "Comienza el juicio por la desaparición del pequeño Loan Peña: el caso que conmocionó al país",
-      "volanta": "EN EL ESCUADRÓN 48",
-      "date": "2026-06-16T10:34:32+00:00"
     }
   ]
 }
