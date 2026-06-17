@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T21:12:16+00:00",
+  "updated": "2026-06-17T21:12:52+00:00",
   "posts": [
+    {
+      "id": "bd0dc6a7",
+      "image": "img/bd0dc6a7.png",
+      "image_sha": "ca6c638dd781cc5f656a008a168dc3a8cf2620d6",
+      "url": "https://www.radiodos.com.ar/209703-juicio-por-loan-pena-el-tribunal-suspendio-la-audiencia-prevista-para-manana-y-reprogramara-a-los-testigos",
+      "title": "Juicio por Loan Peña: el tribunal suspendió la audiencia prevista para mañana y reprogramará a los testigos",
+      "volanta": "AHORA",
+      "date": "2026-06-17T21:12:52+00:00"
+    },
     {
       "id": "2d89643e",
       "image": "img/2d89643e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: escaso movimiento turístico en el feriado XL",
       "volanta": "CRISIS",
       "date": "2026-06-16T12:04:02+00:00"
-    },
-    {
-      "id": "ac1a4993",
-      "image": "img/ac1a4993.png",
-      "image_sha": "f4529c1badd719d226e6f366a4c47870357b4f2d",
-      "url": "https://www.radiodos.com.ar/209603-la-buscaban-en-santiago-del-estero-y-aparecio-sana-y-salva-en-el-interior-de-corrientes",
-      "title": "La buscaban en Santiago del Estero y apareció sana y salva en el interior de Corrientes",
-      "volanta": "GOYA",
-      "date": "2026-06-16T11:22:18+00:00"
     }
   ]
 }
