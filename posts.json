@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T16:42:51+00:00",
+  "updated": "2026-06-18T17:28:12+00:00",
   "posts": [
+    {
+      "id": "b6b02fcc",
+      "image": "img/b6b02fcc.png",
+      "image_sha": "d673b70c475bd7621c78680b08067c7b788abc98",
+      "url": "https://www.radiodos.com.ar/209758-crece-la-preocupacion-por-la-salud-de-jorge-el-papa-de-lionel-messi",
+      "title": "Crece la preocupación por la salud de Jorge, el papá de Lionel Messi",
+      "volanta": "HORAS DECISIVAS",
+      "date": "2026-06-18T17:28:12+00:00"
+    },
     {
       "id": "9ed5e30f",
       "image": "img/9ed5e30f.png",
@@ -531,15 +540,6 @@
       "title": "Peligrosos delincuentes viajaron desde Capital para robar en localidad del interior de Corrientes",
       "volanta": "CONOCIDOS LADRONES",
       "date": "2026-06-16T20:41:25+00:00"
-    },
-    {
-      "id": "0931828b",
-      "image": "img/0931828b.png",
-      "image_sha": "04f4ce812fc4e13f4768a3f8db3536162d6cefe6",
-      "url": "https://www.radiodos.com.ar/209642-canasta-de-crianza-volvio-a-subir-y-ya-es-de-665950-por-mes",
-      "title": "Canasta de crianza: volvió a subir y ya es de $665.950 por mes",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-06-16T20:40:16+00:00"
     }
   ]
 }
