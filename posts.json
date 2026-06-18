@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T14:08:11+00:00",
+  "updated": "2026-06-18T14:25:44+00:00",
   "posts": [
+    {
+      "id": "4a44dc90",
+      "image": "img/4a44dc90.png",
+      "image_sha": "5f4d228422d2f350b14918fac50e34c10493bd16",
+      "url": "https://www.radiodos.com.ar/209741-rochi-igarzabal-revelo-las-duras-exigencias-que-sufrio-en-casi-angeles-me-empece-a-traumar",
+      "title": "Rochi Igarzábal reveló las duras exigencias que sufrió en Casi Ángeles: \"Me empecé a traumar\"",
+      "volanta": "SINCERA",
+      "date": "2026-06-18T14:25:44+00:00"
+    },
     {
       "id": "a684ebf9",
       "image": "img/a684ebf9.png",
@@ -531,15 +540,6 @@
       "title": "El posteo que fue una despedida: la estremecedora última publicación de Lucas Vignale",
       "volanta": "INCREÍBLE",
       "date": "2026-06-16T20:05:34+00:00"
-    },
-    {
-      "id": "588e850b",
-      "image": "img/588e850b.png",
-      "image_sha": "842bdcd7c48b5ecb6366fb73035933a2d129798f",
-      "url": "https://www.radiodos.com.ar/209625-catarata-de-denuncias-contra-manuel-adorni-en-comodoro-py-tras-la-presentacion-de-su-declaracion-jurada",
-      "title": "Catarata de denuncias contra Manuel Adorni en Comodoro Py tras la presentación de su declaración jurada",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-16T17:25:18+00:00"
     }
   ]
 }
