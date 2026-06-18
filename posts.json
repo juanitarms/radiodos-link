@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T21:19:18+00:00",
+  "updated": "2026-06-18T21:21:17+00:00",
   "posts": [
+    {
+      "id": "79ee03db",
+      "image": "img/79ee03db.png",
+      "image_sha": "bb7488f9bf477c6fe004f208c2b30f47e39b1be7",
+      "url": "https://www.radiodos.com.ar/209767-la-feria-provincial-del-libro-une-pasion-por-la-lectura-con-espiritu-mundialista",
+      "title": "La Feria Provincial del Libro une pasión por la lectura con espíritu mundialista",
+      "volanta": "\"Historias para alentar\"",
+      "date": "2026-06-18T21:21:17+00:00"
+    },
     {
       "id": "eaa94346",
       "image": "img/eaa94346.png",
@@ -531,15 +540,6 @@
       "title": "Una nena está internada en el Pediátrico tras ser atacada por un perro en el interior de Corrientes",
       "volanta": "SEGUNDO CASO EN ESQUINA",
       "date": "2026-06-17T12:34:46+00:00"
-    },
-    {
-      "id": "73ef2217",
-      "image": "img/73ef2217.png",
-      "image_sha": "f1cbc0837072cf90b3d4b1fff5ec32ece3a34372",
-      "url": "https://www.radiodos.com.ar/209658-antonela-roccuzzo-compartio-su-emocion-por-la-historica-noche-de-messi-en-el-mundial-2026",
-      "title": "Antonela Roccuzzo compartió su emoción por la histórica noche de Messi en el Mundial 2026",
-      "volanta": "GRAN COMPAÑERA",
-      "date": "2026-06-17T12:18:32+00:00"
     }
   ]
 }
