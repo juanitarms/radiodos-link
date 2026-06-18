@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T23:18:08+00:00",
+  "updated": "2026-06-18T23:19:48+00:00",
   "posts": [
+    {
+      "id": "e06904d6",
+      "image": "img/e06904d6.png",
+      "image_sha": "dc872a29951810986d364ff318d652c7d491f875",
+      "url": "https://www.radiodos.com.ar/209775-avanzan-las-obras-en-el-centro-de-transferencia-de-residuos-del-pirayui-para-optimizar-la-recoleccion",
+      "title": "Avanzan las obras en el Centro de Transferencia de Residuos del Pirayuí para optimizar la recolección",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-18T23:19:48+00:00"
+    },
     {
       "id": "5d74f631",
       "image": "img/5d74f631.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: confirman las fechas de cobro de la AUH y Tarjeta Alimentar con aumento para junio 2026",
       "volanta": "INFO ÚTIL",
       "date": "2026-06-17T14:51:26+00:00"
-    },
-    {
-      "id": "272355ae",
-      "image": "img/272355ae.png",
-      "image_sha": "8f2d56f48bf7dafdd2014a8737da604b3b1b0d9f",
-      "url": "https://www.radiodos.com.ar/209679-tiene-5-meses-y-lucha-por-su-vida-en-el-hospital-garrahan-el-desesperado-pedido-de-su-familia",
-      "title": "Tiene 5 meses y lucha por su vida en el Hospital Garrahan: el desesperado pedido de su familia",
-      "volanta": "SOLIDARIDAD",
-      "date": "2026-06-17T14:33:45+00:00"
     }
   ]
 }
