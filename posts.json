@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T21:21:17+00:00",
+  "updated": "2026-06-18T21:34:36+00:00",
   "posts": [
+    {
+      "id": "ba63e3fa",
+      "image": "img/ba63e3fa.png",
+      "image_sha": "e19a35a81db20eea41bb5b3f2890a80113fca9a2",
+      "url": "https://www.radiodos.com.ar/209769-tras-la-fake-news-de-jorge-messi-luzu-echo-a-todos-los-responsables-y-flor-pena-decidio-renunciar-al-programa",
+      "title": "Tras la fake news de Jorge Messi, Luzu echó a \"todos los responsables\" y Flor Peña decidió renunciar al programa",
+      "volanta": "ESCÁNDALO",
+      "date": "2026-06-18T21:34:36+00:00"
+    },
     {
       "id": "79ee03db",
       "image": "img/79ee03db.png",
@@ -531,15 +540,6 @@
       "title": "Una provincia decretó asueto administrativo tras la victoria de la Selección Argentina ante Argelia",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-17T12:53:49+00:00"
-    },
-    {
-      "id": "3251c780",
-      "image": "img/3251c780.png",
-      "image_sha": "8e1bf85567fb359a376e26dfbdfd1301f882cdd4",
-      "url": "https://www.radiodos.com.ar/209659-una-nena-esta-internada-en-el-pediatrico-tras-ser-atacada-por-un-perro-en-el-interior-de-corrientes",
-      "title": "Una nena está internada en el Pediátrico tras ser atacada por un perro en el interior de Corrientes",
-      "volanta": "SEGUNDO CASO EN ESQUINA",
-      "date": "2026-06-17T12:34:46+00:00"
     }
   ]
 }
