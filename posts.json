@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:29:55+00:00",
+  "updated": "2026-06-18T17:30:28+00:00",
   "posts": [
+    {
+      "id": "9d99abe7",
+      "image": "img/9d99abe7.png",
+      "image_sha": "adbbe18b883fd250932e9b42e0c6cf115c98b980",
+      "url": "https://www.radiodos.com.ar/209756-paso-de-los-libres-la-cnrt-participo-de-una-reunion-bilateral-con-brasil",
+      "title": "Paso de los Libres: La CNRT participó de una reunión bilateral con Brasil",
+      "volanta": "CONTROLES INTERNACIONALES",
+      "date": "2026-06-18T17:30:28+00:00"
+    },
     {
       "id": "06e733ed",
       "image": "img/06e733ed.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés exigió a su Gabinete \"restringir los gastos corrientes\"",
       "volanta": "CORRIENTES",
       "date": "2026-06-16T22:26:05+00:00"
-    },
-    {
-      "id": "24bd5529",
-      "image": "img/24bd5529.png",
-      "image_sha": "6b0cf4ac279130e657102b865f3fb87822144278",
-      "url": "https://www.radiodos.com.ar/209647-el-consumo-de-carne-de-vaca-en-argentina-registro-la-mayor-caida-en-dos-decadas",
-      "title": "El consumo de carne de vaca en Argentina registró la mayor caída en dos décadas",
-      "volanta": "CRISIS",
-      "date": "2026-06-16T22:05:22+00:00"
     }
   ]
 }
