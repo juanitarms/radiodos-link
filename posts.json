@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-17T22:58:59+00:00",
+  "updated": "2026-06-18T10:36:06+00:00",
   "posts": [
+    {
+      "id": "25667a67",
+      "image": "img/25667a67.png",
+      "image_sha": "f7e69c441144bba8efcde25819b9945a6f11bcee",
+      "url": "https://www.radiodos.com.ar/209714-alerta-para-corrientes-se-esperan-tormentas-fuertes",
+      "title": "Alerta para Corrientes: se esperan tormentas fuertes",
+      "volanta": "Pronóstico",
+      "date": "2026-06-18T10:36:06+00:00"
+    },
     {
       "id": "ecfddeeb",
       "image": "img/ecfddeeb.png",
@@ -531,15 +540,6 @@
       "title": "Abren la inscripción para cubrir dos cargos judiciales en Corrientes y Santo Tomé",
       "volanta": "PODER JUDICIAL",
       "date": "2026-06-16T14:07:32+00:00"
-    },
-    {
-      "id": "52de56cc",
-      "image": "img/52de56cc.png",
-      "image_sha": "4970c1bbe9f3c131ffc30b80e310527a59a4846e",
-      "url": "https://www.radiodos.com.ar/209609-caso-loan-defensores-de-los-imputados-afirman-que-son-inocentes-y-que-no-hay-pruebas",
-      "title": "Caso Loan: defensores de los imputados afirman que \"son inocentes\" y  que \"no hay pruebas\"",
-      "volanta": "JUICIO",
-      "date": "2026-06-16T13:38:44+00:00"
     }
   ]
 }
