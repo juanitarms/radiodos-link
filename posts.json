@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T19:25:42+00:00",
+  "updated": "2026-06-18T20:41:05+00:00",
   "posts": [
+    {
+      "id": "61bdec87",
+      "image": "img/61bdec87.png",
+      "image_sha": "a0ddf9a6ccc789c386e449bfeef84cebf666ff09",
+      "url": "https://www.radiodos.com.ar/209765-destacan-como-hito-historico-a-una-cirugia-realizada-en-un-hospital-del-interior-de-corrientes",
+      "title": "Destacan como \"hito histórico\" a una cirugía realizada en un hospital del interior de Corrientes",
+      "volanta": "ORGULLO",
+      "date": "2026-06-18T20:41:05+00:00"
+    },
     {
       "id": "ec4c6c87",
       "image": "img/ec4c6c87.png",
@@ -531,15 +540,6 @@
       "title": "Cómo sigue el Juicio por la desaparición del pequeño Loan Peña",
       "volanta": "Hoy a las 9:30",
       "date": "2026-06-17T11:59:01+00:00"
-    },
-    {
-      "id": "fd1707d1",
-      "image": "img/fd1707d1.png",
-      "image_sha": "4285f83936cdf1ab767068b9f8fdde9659c735cb",
-      "url": "https://www.radiodos.com.ar/209653-juicio-por-loan-no-estamos-conformes-con-el-tratamiento-del-tribunal",
-      "title": "Juicio por Loan: \"No estamos conformes con el tratamiento del Tribunal\"",
-      "volanta": "FISCAL TAMARA POURCEL",
-      "date": "2026-06-17T11:50:18+00:00"
     }
   ]
 }
