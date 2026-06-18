@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T13:09:35+00:00",
+  "updated": "2026-06-18T13:20:21+00:00",
   "posts": [
+    {
+      "id": "c8d6ba98",
+      "image": "img/c8d6ba98.png",
+      "image_sha": "459d280b31b47264d1bf73e5d43e46ef65a5db67",
+      "url": "https://www.radiodos.com.ar/209730-el-senado-suspendio-la-sesion-y-postergo-la-interpelacion-a-manuel-adorni",
+      "title": "El Senado suspendió la sesión y postergó la interpelación a Manuel Adorni",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-18T13:20:21+00:00"
+    },
     {
       "id": "b5c18f6d",
       "image": "img/b5c18f6d.png",
@@ -531,15 +540,6 @@
       "title": "La promesa de Julián Álvarez a Tom Holland luego de que lo mencionara en una entrevista",
       "volanta": "SORPRESA",
       "date": "2026-06-16T17:23:41+00:00"
-    },
-    {
-      "id": "e399cef7",
-      "image": "img/e399cef7.png",
-      "image_sha": "b3a247e486f9b4540e61c17201ed8cf82c09d2b3",
-      "url": "https://www.radiodos.com.ar/209629-la-despedida-de-nati-jota-a-gaspi-que-genero-polemica-y-la-volvio-tendencia-en-las-redes",
-      "title": "La despedida de Nati Jota a Gaspi que generó polémica y la volvió tendencia en las redes",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-06-16T16:13:01+00:00"
     }
   ]
 }
