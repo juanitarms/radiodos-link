@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T11:33:35+00:00",
+  "updated": "2026-06-18T11:50:21+00:00",
   "posts": [
+    {
+      "id": "ed30b019",
+      "image": "img/ed30b019.png",
+      "image_sha": "a943fc802a121b261c0b4bddc59ab4f9e0eb61cb",
+      "url": "https://www.radiodos.com.ar/209716-investigan-la-muerte-de-un-hombre-hallado-tirado-al-costado-de-ruta-nacional-12",
+      "title": "Investigan la muerte de un hombre hallado tirado al costado de Ruta Nacional 12.",
+      "volanta": "CERCA DE GOYA",
+      "date": "2026-06-18T11:50:21+00:00"
+    },
     {
       "id": "b66cfe4b",
       "image": "img/b66cfe4b.png",
@@ -531,15 +540,6 @@
       "title": "La Anmat prohibió la venta de un vinagre que se comercializaba sin autorización",
       "volanta": "OFICIAL",
       "date": "2026-06-16T16:11:58+00:00"
-    },
-    {
-      "id": "6bb9b426",
-      "image": "img/6bb9b426.png",
-      "image_sha": "be6e713d2a833e30628d8453a97118a88bee59c2",
-      "url": "https://www.radiodos.com.ar/209624-el-fuerte-mensaje-de-unidad-de-lionel-messi-de-cara-al-debut-de-la-seleccion-argentina-juntos",
-      "title": "El fuerte mensaje de unidad de Lionel Messi de cara al debut de la Selección Argentina: \"Juntos\"",
-      "volanta": "CAPITÁN",
-      "date": "2026-06-16T14:59:33+00:00"
     }
   ]
 }
