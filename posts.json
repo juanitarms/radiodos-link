@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T22:52:59+00:00",
+  "updated": "2026-06-18T22:53:52+00:00",
   "posts": [
+    {
+      "id": "b3c31612",
+      "image": "img/b3c31612.png",
+      "image_sha": "e921fdfcdc4afc6bc6d65aec8686a80357ba0e1a",
+      "url": "https://www.radiodos.com.ar/209771-feria-de-emprendedores-con-intercambio-y-sorteos-de-figuritas",
+      "title": "Feria de emprendedores con intercambio y sorteos de figuritas",
+      "volanta": "EN EL PARQUE MITRE",
+      "date": "2026-06-18T22:53:52+00:00"
+    },
     {
       "id": "ac31b914",
       "image": "img/ac31b914.png",
@@ -531,15 +540,6 @@
       "title": "El tremendo elogio de Ronaldo Nazario a Lionel Messi: \"Es el mejor de todos los tiempos\"",
       "volanta": "Respeto",
       "date": "2026-06-17T14:18:53+00:00"
-    },
-    {
-      "id": "f1de7d5c",
-      "image": "img/f1de7d5c.png",
-      "image_sha": "c5a2b3c671c9d995a5f41cd166811611fef76538",
-      "url": "https://www.radiodos.com.ar/209677-santiago-del-estero-un-adolescente-murio-tras-recibir-un-pelotazo-en-el-pecho-mientras-jugaba-al-futbol",
-      "title": "Santiago del Estero: un adolescente murió tras recibir un pelotazo en el pecho mientras jugaba al fútbol",
-      "volanta": "LAMENTABLE",
-      "date": "2026-06-17T14:06:45+00:00"
     }
   ]
 }
