@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:29:23+00:00",
+  "updated": "2026-06-18T17:29:55+00:00",
   "posts": [
+    {
+      "id": "06e733ed",
+      "image": "img/06e733ed.png",
+      "image_sha": "4bf04798a00ca5688531388e9fb5e85259a4bcb2",
+      "url": "https://www.radiodos.com.ar/209755-la-cabala-que-los-hinchas-le-pidieron-a-maxi-lopez-para-el-proximo-partido-de-la-seleccion",
+      "title": "La cábala que los hinchas le pidieron a Maxi López para el próximo partido de la Selección",
+      "volanta": "¿HARÁ LO MISMO?",
+      "date": "2026-06-18T17:29:55+00:00"
+    },
     {
       "id": "17d40c6a",
       "image": "img/17d40c6a.png",
@@ -531,15 +540,6 @@
       "title": "El consumo de carne de vaca en Argentina registró la mayor caída en dos décadas",
       "volanta": "CRISIS",
       "date": "2026-06-16T22:05:22+00:00"
-    },
-    {
-      "id": "2283c497",
-      "image": "img/2283c497.png",
-      "image_sha": "aa501dae75fef85ae6eab3b9402dda3f642b38fb",
-      "url": "https://www.radiodos.com.ar/209646-nena-de-cinco-anos-anos-sufrio-graves-heridas-en-el-rostro-por-la-mordida-de-un-pitbull",
-      "title": "Nena de cinco años años sufrió graves heridas en el rostro por la mordida de un pitbull",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-16T21:22:45+00:00"
     }
   ]
 }
