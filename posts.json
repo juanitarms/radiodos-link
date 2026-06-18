@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T22:53:52+00:00",
+  "updated": "2026-06-18T23:18:08+00:00",
   "posts": [
+    {
+      "id": "5d74f631",
+      "image": "img/5d74f631.png",
+      "image_sha": "d5b8afcb143d5437c4caf9292bc906fb9dd7ead2",
+      "url": "https://www.radiodos.com.ar/209774-boca-confirmo-la-llegada-de-arruabarrena-como-nuevo-entrenador",
+      "title": "Boca confirmó la llegada de Arruabarrena como nuevo entrenador",
+      "volanta": "OFICIAL",
+      "date": "2026-06-18T23:18:08+00:00"
+    },
     {
       "id": "b3c31612",
       "image": "img/b3c31612.png",
@@ -531,15 +540,6 @@
       "title": "Tiene 5 meses y lucha por su vida en el Hospital Garrahan: el desesperado pedido de su familia",
       "volanta": "SOLIDARIDAD",
       "date": "2026-06-17T14:33:45+00:00"
-    },
-    {
-      "id": "57413ee3",
-      "image": "img/57413ee3.png",
-      "image_sha": "d40a22f4de2a509e19e5f7409fb6f71a45d81d9a",
-      "url": "https://www.radiodos.com.ar/209680-el-tremendo-elogio-de-ronaldo-nazario-a-lionel-messi-es-el-mejor-de-todos-los-tiempos",
-      "title": "El tremendo elogio de Ronaldo Nazario a Lionel Messi: \"Es el mejor de todos los tiempos\"",
-      "volanta": "Respeto",
-      "date": "2026-06-17T14:18:53+00:00"
     }
   ]
 }
