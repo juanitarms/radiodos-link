@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:31:03+00:00",
+  "updated": "2026-06-18T17:31:44+00:00",
   "posts": [
+    {
+      "id": "48da8962",
+      "image": "img/48da8962.png",
+      "image_sha": "022ca26827c2342b6585451cbb2d504b08a333ef",
+      "url": "https://www.radiodos.com.ar/209757-corredor-belgrano-el-concejo-deliberante-acompana-las-acciones-administrativas-y-judiciales-del-municipio-y-la-provincia-",
+      "title": "Corredor Belgrano: El Concejo Deliberante acompaña las acciones administrativas y judiciales del Municipio y la Provincia",
+      "volanta": "SESIÓN ESTA MAÑANA",
+      "date": "2026-06-18T17:31:44+00:00"
+    },
     {
       "id": "9bb08dcb",
       "image": "img/9bb08dcb.png",
@@ -531,15 +540,6 @@
       "title": "Grachot anticipó que es \"muy probable\" conseguir financiamiento para el puerto de Lavalle",
       "volanta": "EXCLUSIVO",
       "date": "2026-06-16T23:13:10+00:00"
-    },
-    {
-      "id": "69561658",
-      "image": "img/69561658.png",
-      "image_sha": "100a370cc2dd27311ff3535004c7fa093921f9bf",
-      "url": "https://www.radiodos.com.ar/209649-cerraron-mas-de-2000-empresas-y-ya-son-14-mil-menos-en-un-ano",
-      "title": "Cerraron más de 2.000 empresas y ya son 14 mil menos en un año",
-      "volanta": "El peor marzo desde la pandemia",
-      "date": "2026-06-16T23:08:59+00:00"
     }
   ]
 }
