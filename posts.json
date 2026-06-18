@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T20:41:05+00:00",
+  "updated": "2026-06-18T21:19:18+00:00",
   "posts": [
+    {
+      "id": "eaa94346",
+      "image": "img/eaa94346.png",
+      "image_sha": "9a66146f49421c48a904961647dd87b42f39c7a6",
+      "url": "https://www.radiodos.com.ar/209766-corrientes-en-la-rural-2026-convocatoria-abierta-para-emprendedores-y-empresas",
+      "title": "Corrientes en la Rural 2026: convocatoria abierta para emprendedores y empresas",
+      "volanta": "FORTALECIMIENTO AL SECTOR",
+      "date": "2026-06-18T21:19:18+00:00"
+    },
     {
       "id": "61bdec87",
       "image": "img/61bdec87.png",
@@ -531,15 +540,6 @@
       "title": "Antonela Roccuzzo compartió su emoción por la histórica noche de Messi en el Mundial 2026",
       "volanta": "GRAN COMPAÑERA",
       "date": "2026-06-17T12:18:32+00:00"
-    },
-    {
-      "id": "3c545abe",
-      "image": "img/3c545abe.png",
-      "image_sha": "0051b9e1bc31f1f70c829a450e3a70272021717f",
-      "url": "https://www.radiodos.com.ar/209654-como-sigue-el-juicio-por-la-desaparicion-del-pequeno-loan-pena",
-      "title": "Cómo sigue el Juicio por la desaparición del pequeño Loan Peña",
-      "volanta": "Hoy a las 9:30",
-      "date": "2026-06-17T11:59:01+00:00"
     }
   ]
 }
