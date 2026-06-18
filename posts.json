@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T16:42:10+00:00",
+  "updated": "2026-06-18T16:42:51+00:00",
   "posts": [
+    {
+      "id": "9ed5e30f",
+      "image": "img/9ed5e30f.png",
+      "image_sha": "d0f84b35add14f0f1d6ab8ef709b9fd0d89991c7",
+      "url": "https://www.radiodos.com.ar/209754-intento-de-femicidio-discutio-con-su-novia-la-rocio-con-alcohol-e-intento-prenderla-fuego",
+      "title": "Intento de femicidio: discutió con su novia, la roció con alcohol e intentó prenderla fuego",
+      "volanta": "SAN JUAN",
+      "date": "2026-06-18T16:42:51+00:00"
+    },
     {
       "id": "366f16f3",
       "image": "img/366f16f3.png",
@@ -531,15 +540,6 @@
       "title": "Canasta de crianza: volvió a subir y ya es de $665.950 por mes",
       "volanta": "DATOS OFICIALES",
       "date": "2026-06-16T20:40:16+00:00"
-    },
-    {
-      "id": "c678c34a",
-      "image": "img/c678c34a.png",
-      "image_sha": "8c88df986566916ccd7c393c76ba97d749064212",
-      "url": "https://www.radiodos.com.ar/209643-se-recomienda-completar-el-calendario-de-vacunacion-y-antigripal-para-grupos-de-riesgo",
-      "title": "Se recomienda completar el calendario de vacunación y antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-06-16T20:38:53+00:00"
     }
   ]
 }
