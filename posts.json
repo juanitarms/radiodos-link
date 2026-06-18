@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T14:41:08+00:00",
+  "updated": "2026-06-18T15:07:07+00:00",
   "posts": [
+    {
+      "id": "d4d4c098",
+      "image": "img/d4d4c098.png",
+      "image_sha": "dab8d0a69fea6ff70e6eece941ef6bd6feff19ba",
+      "url": "https://www.radiodos.com.ar/209746-tras-la-denuncia-de-juana-marcelo-tinelli-hablo-con-el-padre-de-bautista-cuina-enojado",
+      "title": "Tras la denuncia de Juana, Marcelo Tinelli habló con el padre de Bautista Cuiña: \"Enojado\"",
+      "volanta": "POR VIOLENCIA DE GÉNERO",
+      "date": "2026-06-18T15:07:07+00:00"
+    },
     {
       "id": "99e76b75",
       "image": "img/99e76b75.png",
@@ -531,15 +540,6 @@
       "title": "Jornada de sensibilización de la Toma de Conciencia del Abuso y Maltrato en la Vejez",
       "volanta": "GOBIERNO PROVINCIAL",
       "date": "2026-06-16T20:07:39+00:00"
-    },
-    {
-      "id": "ee410e2c",
-      "image": "img/ee410e2c.png",
-      "image_sha": "0db214a2913e82f891e65728fbcbb29bb586d998",
-      "url": "https://www.radiodos.com.ar/209634-robo-una-caja-registradora-y-fue-detenido-a-las-horas",
-      "title": "Robó una caja registradora y fue detenido a las horas",
-      "volanta": "DIRECCIÓN DE INVESTIGACIÓN CRIMINAL",
-      "date": "2026-06-16T20:07:07+00:00"
     }
   ]
 }
