@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:32:18+00:00",
+  "updated": "2026-06-18T18:46:49+00:00",
   "posts": [
+    {
+      "id": "deae0b6f",
+      "image": "img/deae0b6f.png",
+      "image_sha": "e50a6f1a949e6dc2b30b9a75c5290dd08c060c00",
+      "url": "https://www.radiodos.com.ar/209761-congreso-otorgan-un-ano-de-plazo-para-declarar-armas-no-registradas-o-con-documentacion-irregular",
+      "title": "Congreso: otorgan un año de plazo para declarar armas no registradas o con documentación irregular",
+      "volanta": "NORMATIVA",
+      "date": "2026-06-18T18:46:49+00:00"
+    },
     {
       "id": "3900a4af",
       "image": "img/3900a4af.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en Chaco: una mujer se entregó tras asesinar a su hija",
       "volanta": "TRES ISLETAS",
       "date": "2026-06-17T11:33:19+00:00"
-    },
-    {
-      "id": "7a0ed748",
-      "image": "img/7a0ed748.png",
-      "image_sha": "7b36fe9e0c9c7616b34ef93772226a19a1aeb12b",
-      "url": "https://www.radiodos.com.ar/209651-con-un-lionel-messi-historico-la-seleccion-argentina-goleo-a-argelia-en-su-debut-en-el-mundial-2026",
-      "title": "Con un Lionel Messi histórico, la Selección Argentina goleó a Argelia en su debut en el Mundial 2026",
-      "volanta": "3 a 0",
-      "date": "2026-06-17T10:18:23+00:00"
     }
   ]
 }
