@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T16:40:59+00:00",
+  "updated": "2026-06-18T16:41:37+00:00",
   "posts": [
+    {
+      "id": "5004c8d1",
+      "image": "img/5004c8d1.png",
+      "image_sha": "7d2abc24c1899d3a89cfedceec2bba213df128cf",
+      "url": "https://www.radiodos.com.ar/209748-se-realizo-el-2°-encuentro-de-fortalecimiento-municipal",
+      "title": "Se realizó el 2° Encuentro de Fortalecimiento Municipal",
+      "volanta": "En Virasoro y La Cruz",
+      "date": "2026-06-18T16:41:37+00:00"
+    },
     {
       "id": "2550349f",
       "image": "img/2550349f.png",
@@ -531,15 +540,6 @@
       "title": "Tras amenazas, buscaban un revolver pero encontraron un arma larga",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-06-16T20:29:46+00:00"
-    },
-    {
-      "id": "fb809c1a",
-      "image": "img/fb809c1a.png",
-      "image_sha": "b983419787397c6b67616db02577e2df62f2d1cf",
-      "url": "https://www.radiodos.com.ar/209639-juicio-por-loan-aparecio-el-imputado-que-no-se-habia-presentado-esta-manana-y-adujo-que-no-tenia-recursos-para-viajar",
-      "title": "Juicio por Loan: apareció el imputado que no se había presentado esta mañana y adujo que no tenía recursos para viajar",
-      "volanta": "JUSTICIA",
-      "date": "2026-06-16T20:21:56+00:00"
     }
   ]
 }
