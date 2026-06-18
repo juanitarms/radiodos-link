@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T18:46:49+00:00",
+  "updated": "2026-06-18T19:25:42+00:00",
   "posts": [
+    {
+      "id": "ec4c6c87",
+      "image": "img/ec4c6c87.png",
+      "image_sha": "58875033c4c5c4161b67f8ebae20b2f6926eac7c",
+      "url": "https://www.radiodos.com.ar/209762-shakira-y-su-presunto-nuevo-amor-quien-es-manuel-garcia-rulfo-el-actor-que-quedo-en-el-runrun",
+      "title": "Shakira y su presunto nuevo amor: quién es Manuel García-Rulfo, el actor que quedó en el runrún",
+      "volanta": "SORPRESA",
+      "date": "2026-06-18T19:25:42+00:00"
+    },
     {
       "id": "deae0b6f",
       "image": "img/deae0b6f.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: \"No estamos conformes con el tratamiento del Tribunal\"",
       "volanta": "FISCAL TAMARA POURCEL",
       "date": "2026-06-17T11:50:18+00:00"
-    },
-    {
-      "id": "240e37e9",
-      "image": "img/240e37e9.png",
-      "image_sha": "563211ae56102440e06b521a9398d0951ee0ce00",
-      "url": "https://www.radiodos.com.ar/209652-conmocion-en-chaco-una-mujer-se-entrego-tras-asesinar-a-su-hija",
-      "title": "Conmoción en Chaco: una mujer se entregó tras asesinar a su hija",
-      "volanta": "TRES ISLETAS",
-      "date": "2026-06-17T11:33:19+00:00"
     }
   ]
 }
