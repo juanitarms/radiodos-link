@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:28:48+00:00",
+  "updated": "2026-06-18T17:29:23+00:00",
   "posts": [
+    {
+      "id": "17d40c6a",
+      "image": "img/17d40c6a.png",
+      "image_sha": "3059fc22549671f60ac2af7c67cffd06927217e2",
+      "url": "https://www.radiodos.com.ar/209753-quien-es-francisco-el-hermano-de-manuel-adorni-que-tambien-es-investigado-por-enriquecimiento-ilicito",
+      "title": "Quién es Francisco, el hermano de Manuel Adorni que también es investigado por enriquecimiento ilícito",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-06-18T17:29:23+00:00"
+    },
     {
       "id": "19173cac",
       "image": "img/19173cac.png",
@@ -531,15 +540,6 @@
       "title": "Nena de cinco años años sufrió graves heridas en el rostro por la mordida de un pitbull",
       "volanta": "CORRIENTES",
       "date": "2026-06-16T21:22:45+00:00"
-    },
-    {
-      "id": "d78fb4eb",
-      "image": "img/d78fb4eb.png",
-      "image_sha": "2aecf009f8777b84ca993df7a43edc3d352290ee",
-      "url": "https://www.radiodos.com.ar/209644-los-accesos-a-internet-en-corrientes-crecieron-41-en-el-primer-trimestre",
-      "title": "Los accesos a internet en Corrientes crecieron 4,1% en el primer trimestre",
-      "volanta": "CONECTIVIDAD",
-      "date": "2026-06-16T20:51:55+00:00"
     }
   ]
 }
