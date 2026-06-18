@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:28:12+00:00",
+  "updated": "2026-06-18T17:28:48+00:00",
   "posts": [
+    {
+      "id": "19173cac",
+      "image": "img/19173cac.png",
+      "image_sha": "f27ec498e1bdf39412108aabed88f6b7959baace",
+      "url": "https://www.radiodos.com.ar/209752-la-aduana-incauto-cuatro-autos-exclusivos-como-son-y-cuanto-cuestan",
+      "title": "La Aduana incautó cuatro autos exclusivos: cómo son y cuánto cuestan",
+      "volanta": "OPERATIVO",
+      "date": "2026-06-18T17:28:48+00:00"
+    },
     {
       "id": "b6b02fcc",
       "image": "img/b6b02fcc.png",
@@ -531,15 +540,6 @@
       "title": "Los accesos a internet en Corrientes crecieron 4,1% en el primer trimestre",
       "volanta": "CONECTIVIDAD",
       "date": "2026-06-16T20:51:55+00:00"
-    },
-    {
-      "id": "2c93469e",
-      "image": "img/2c93469e.png",
-      "image_sha": "0869e3fefe320dec714f7755d12fc487b29899d4",
-      "url": "https://www.radiodos.com.ar/209641-peligrosos-delincuentes-viajaron-desde-capital-para-robar-en-localidad-del-interior-de-corrientes",
-      "title": "Peligrosos delincuentes viajaron desde Capital para robar en localidad del interior de Corrientes",
-      "volanta": "CONOCIDOS LADRONES",
-      "date": "2026-06-16T20:41:25+00:00"
     }
   ]
 }
