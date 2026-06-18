@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T13:34:25+00:00",
+  "updated": "2026-06-18T13:51:53+00:00",
   "posts": [
+    {
+      "id": "74f2b28d",
+      "image": "img/74f2b28d.png",
+      "image_sha": "2bf0f2edd1f0e84732e60693a2a978fa2cf73f48",
+      "url": "https://www.radiodos.com.ar/209740-caso-agostina-vega-testigo-clave-lanzo-nuevas-acusaciones-contra-la-duena-del-ford-ka-y-claudio-barrelier",
+      "title": "Caso Agostina Vega: testigo clave lanzó nuevas acusaciones contra la dueña del Ford Ka y Claudio Barrelier",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-06-18T13:51:53+00:00"
+    },
     {
       "id": "e059ec83",
       "image": "img/e059ec83.png",
@@ -531,15 +540,6 @@
       "title": "Sorpresiva nueva eliminación en Gran Hermano: quién dejó la casa",
       "volanta": "SIGUE EL JUEGO",
       "date": "2026-06-16T17:24:46+00:00"
-    },
-    {
-      "id": "73380ea1",
-      "image": "img/73380ea1.png",
-      "image_sha": "5c6d0e16f6b7783d10306aaf713046926982bc02",
-      "url": "https://www.radiodos.com.ar/209627-como-y-cuando-sera-la-repatriacion-de-los-restos-de-gaspi",
-      "title": "Cómo y cuándo será la repatriación de los restos de Gaspi",
-      "volanta": "TRAS EL ACCIDENTE",
-      "date": "2026-06-16T17:24:14+00:00"
     }
   ]
 }
