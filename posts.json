@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T22:51:53+00:00",
+  "updated": "2026-06-18T22:52:59+00:00",
   "posts": [
+    {
+      "id": "ac31b914",
+      "image": "img/ac31b914.png",
+      "image_sha": "51c02d44f04ab5738b3a765da0238f8e4734febe",
+      "url": "https://www.radiodos.com.ar/209773-ramiro-marra-le-pidio-a-milei-la-renuncia-de-adorni-en-una-carta-abierta",
+      "title": "Ramiro Marra le pidió a Milei la renuncia de Adorni en una carta abierta",
+      "volanta": "INTERNA LIBERTARIA",
+      "date": "2026-06-18T22:52:59+00:00"
+    },
     {
       "id": "31a453e7",
       "image": "img/31a453e7.png",
@@ -531,15 +540,6 @@
       "title": "Santiago del Estero: un adolescente murió tras recibir un pelotazo en el pecho mientras jugaba al fútbol",
       "volanta": "LAMENTABLE",
       "date": "2026-06-17T14:06:45+00:00"
-    },
-    {
-      "id": "6cf710c1",
-      "image": "img/6cf710c1.png",
-      "image_sha": "2411385987ae6ff42c851360d880c282406586aa",
-      "url": "https://www.radiodos.com.ar/209672-fiscal-carlos-schaefer-desde-el-minuto-uno-hubo-entorpecimiento-en-esta-causa",
-      "title": "Fiscal Carlos Schaefer: \"Desde el minuto uno hubo entorpecimiento en esta causa\"",
-      "volanta": "JUICIO",
-      "date": "2026-06-17T13:50:08+00:00"
     }
   ]
 }
