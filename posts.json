@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T10:36:06+00:00",
+  "updated": "2026-06-18T10:48:22+00:00",
   "posts": [
+    {
+      "id": "80fa37c2",
+      "image": "img/80fa37c2.png",
+      "image_sha": "6d07ecb60e99a342a526359ef283788e1df6fa3d",
+      "url": "https://www.radiodos.com.ar/209715-detienen-a-integrantes-de-una-banda-que-estafo-a-ancianas-en-corrientes",
+      "title": "Detienen a  integrantes de una banda que estafó a ancianas en Corrientes",
+      "volanta": "POLICÍA DE ALVEAR",
+      "date": "2026-06-18T10:48:22+00:00"
+    },
     {
       "id": "25667a67",
       "image": "img/25667a67.png",
@@ -531,15 +540,6 @@
       "title": "El Fan Fest 2026 de la Municipalidad tendrá múltiples sorteos y juegos para toda la familia",
       "volanta": "PARTIDO EN PANTALLA GIGANTE",
       "date": "2026-06-16T14:47:40+00:00"
-    },
-    {
-      "id": "10161269",
-      "image": "img/10161269.png",
-      "image_sha": "8c3593695e22c86431df1ac4597733aead6759ba",
-      "url": "https://www.radiodos.com.ar/209615-abren-la-inscripcion-para-cubrir-dos-cargos-judiciales-en-corrientes-y-santo-tome",
-      "title": "Abren la inscripción para cubrir dos cargos judiciales en Corrientes y Santo Tomé",
-      "volanta": "PODER JUDICIAL",
-      "date": "2026-06-16T14:07:32+00:00"
     }
   ]
 }
