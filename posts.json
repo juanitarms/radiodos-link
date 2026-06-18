@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T13:51:53+00:00",
+  "updated": "2026-06-18T14:08:11+00:00",
   "posts": [
+    {
+      "id": "a684ebf9",
+      "image": "img/a684ebf9.png",
+      "image_sha": "6e58142650fbc2de45da33c831a3a06093af2823",
+      "url": "https://www.radiodos.com.ar/209731-controles-en-corrientes-en-seis-meses-1447-test-de-alcoholemia-58663-multas-por-alta-velocidad-y-17080-por-cruzar-en-rojo",
+      "title": "Controles en Corrientes: en seis meses, 1.447 test de alcoholemia, 58.663 multas por alta velocidad y 17.080 por cruzar en rojo",
+      "volanta": "POLÍTICA DE ESTADO",
+      "date": "2026-06-18T14:08:11+00:00"
+    },
     {
       "id": "74f2b28d",
       "image": "img/74f2b28d.png",
@@ -531,15 +540,6 @@
       "title": "Catarata de denuncias contra Manuel Adorni en Comodoro Py tras la presentación de su declaración jurada",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-16T17:25:18+00:00"
-    },
-    {
-      "id": "b323ed50",
-      "image": "img/b323ed50.png",
-      "image_sha": "d541bd466db4710d192796bccb9e774c14c799d7",
-      "url": "https://www.radiodos.com.ar/209626-sorpresiva-nueva-eliminacion-en-gran-hermano-quien-dejo-la-casa",
-      "title": "Sorpresiva nueva eliminación en Gran Hermano: quién dejó la casa",
-      "volanta": "SIGUE EL JUEGO",
-      "date": "2026-06-16T17:24:46+00:00"
     }
   ]
 }
