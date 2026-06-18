@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T17:30:28+00:00",
+  "updated": "2026-06-18T17:31:03+00:00",
   "posts": [
+    {
+      "id": "9bb08dcb",
+      "image": "img/9bb08dcb.png",
+      "image_sha": "943938f6dd79adb3482816263f15410b9248e63c",
+      "url": "https://www.radiodos.com.ar/209759-san-martin-participara-del-torneo-de-la-bandera",
+      "title": "San Martín participará del Torneo de la Bandera",
+      "volanta": "VOLEY",
+      "date": "2026-06-18T17:31:03+00:00"
+    },
     {
       "id": "9d99abe7",
       "image": "img/9d99abe7.png",
@@ -531,15 +540,6 @@
       "title": "Cerraron más de 2.000 empresas y ya son 14 mil menos en un año",
       "volanta": "El peor marzo desde la pandemia",
       "date": "2026-06-16T23:08:59+00:00"
-    },
-    {
-      "id": "e5b1ccc9",
-      "image": "img/e5b1ccc9.png",
-      "image_sha": "68a9634eeaea2199ebeba9cdaae866fb2350afde",
-      "url": "https://www.radiodos.com.ar/209648-juan-pablo-valdes-exigio-a-su-gabinete-restringir-los-gastos-corrientes",
-      "title": "Juan Pablo Valdés exigió a su Gabinete \"restringir los gastos corrientes\"",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-16T22:26:05+00:00"
     }
   ]
 }
