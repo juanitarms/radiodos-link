@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T15:07:07+00:00",
+  "updated": "2026-06-18T16:40:22+00:00",
   "posts": [
+    {
+      "id": "47810234",
+      "image": "img/47810234.png",
+      "image_sha": "7aa02266bc4af6f9d86d0889a6c6c91af149c27a",
+      "url": "https://www.radiodos.com.ar/209750-policia-rural-secuestro-ganado-sin-documentacion-correspondiente-para-su-traslado-",
+      "title": "Policía Rural secuestró ganado sin documentación correspondiente para su traslado",
+      "volanta": "EMPEDRADO",
+      "date": "2026-06-18T16:40:22+00:00"
+    },
     {
       "id": "d4d4c098",
       "image": "img/d4d4c098.png",
@@ -531,15 +540,6 @@
       "title": "YPF y Tesla firman un acuerdo para desarrollar infraestructura energética y carga rápida",
       "volanta": "Alianza estratégica",
       "date": "2026-06-16T20:09:01+00:00"
-    },
-    {
-      "id": "4210c8f7",
-      "image": "img/4210c8f7.png",
-      "image_sha": "3df122acbd617f6efe7fd95041b38c529e91c0c4",
-      "url": "https://www.radiodos.com.ar/209637-jornada-de-sensibilizacion-de-la-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez",
-      "title": "Jornada de sensibilización de la Toma de Conciencia del Abuso y Maltrato en la Vejez",
-      "volanta": "GOBIERNO PROVINCIAL",
-      "date": "2026-06-16T20:07:39+00:00"
     }
   ]
 }
