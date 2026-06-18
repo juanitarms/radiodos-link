@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T12:33:37+00:00",
+  "updated": "2026-06-18T13:09:35+00:00",
   "posts": [
+    {
+      "id": "b5c18f6d",
+      "image": "img/b5c18f6d.png",
+      "image_sha": "739c0176a3a537a6925fe59edb23a4a831938997",
+      "url": "https://www.radiodos.com.ar/209728-el-gobierno-de-corrientes-lanza-programa-de-formacion-en-inteligencia-artificial-generativa",
+      "title": "El Gobierno de Corrientes lanza programa de formación en Inteligencia Artificial Generativa",
+      "volanta": "PARA LA ADMINISTRACIÓN PÚBLICA",
+      "date": "2026-06-18T13:09:35+00:00"
+    },
     {
       "id": "63bcd371",
       "image": "img/63bcd371.png",
@@ -531,15 +540,6 @@
       "title": "La despedida de Nati Jota a Gaspi que generó polémica y la volvió tendencia en las redes",
       "volanta": "REDES SOCIALES",
       "date": "2026-06-16T16:13:01+00:00"
-    },
-    {
-      "id": "d804ba3d",
-      "image": "img/d804ba3d.png",
-      "image_sha": "b12e9668450d8030956e7dd0a725125563ff19cf",
-      "url": "https://www.radiodos.com.ar/209622-anses-los-jubilados-que-no-podran-cobrar-un-bono-de-70000-en-julio-2026",
-      "title": "ANSES: los jubilados que no podrán cobrar un bono de $70.000 en julio 2026",
-      "volanta": "ATENCIÓN",
-      "date": "2026-06-16T16:12:30+00:00"
     }
   ]
 }
