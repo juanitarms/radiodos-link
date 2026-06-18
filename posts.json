@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T11:50:21+00:00",
+  "updated": "2026-06-18T12:33:37+00:00",
   "posts": [
+    {
+      "id": "63bcd371",
+      "image": "img/63bcd371.png",
+      "image_sha": "c1e18f98f62b412276b6c320639e54db7e6830db",
+      "url": "https://www.radiodos.com.ar/209724-tres-hermanitas-un-mismo-sueno-encontrar-una-familia-que-las-adopte-juntas-",
+      "title": "Tres hermanitas, un mismo sueño: encontrar una familia que las adopte juntas",
+      "volanta": "CONVOCATORIA PÚBLICA",
+      "date": "2026-06-18T12:33:37+00:00"
+    },
     {
       "id": "ed30b019",
       "image": "img/ed30b019.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: los jubilados que no podrán cobrar un bono de $70.000 en julio 2026",
       "volanta": "ATENCIÓN",
       "date": "2026-06-16T16:12:30+00:00"
-    },
-    {
-      "id": "1205dad0",
-      "image": "img/1205dad0.png",
-      "image_sha": "94987428ac14e79d7bfa30e61fc9e4a9b541de07",
-      "url": "https://www.radiodos.com.ar/209623-la-anmat-prohibio-la-venta-de-un-vinagre-que-se-comercializaba-sin-autorizacion",
-      "title": "La Anmat prohibió la venta de un vinagre que se comercializaba sin autorización",
-      "volanta": "OFICIAL",
-      "date": "2026-06-16T16:11:58+00:00"
     }
   ]
 }
