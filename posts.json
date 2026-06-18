@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18T14:25:44+00:00",
+  "updated": "2026-06-18T14:41:08+00:00",
   "posts": [
+    {
+      "id": "99e76b75",
+      "image": "img/99e76b75.png",
+      "image_sha": "cef30a23d7868d4073a0239a4a9cb171d9d02563",
+      "url": "https://www.radiodos.com.ar/209745-nuevamente-preocupa-la-salud-de-luis-miguel-la-cirugia-que-enfrento-el-sol-de-mexico",
+      "title": "Nuevamente, preocupa la salud de Luis Miguel: la cirugía que enfrentó el Sol de México",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-06-18T14:41:08+00:00"
+    },
     {
       "id": "4a44dc90",
       "image": "img/4a44dc90.png",
@@ -531,15 +540,6 @@
       "title": "Robó una caja registradora y fue detenido a las horas",
       "volanta": "DIRECCIÓN DE INVESTIGACIÓN CRIMINAL",
       "date": "2026-06-16T20:07:07+00:00"
-    },
-    {
-      "id": "989dd524",
-      "image": "img/989dd524.png",
-      "image_sha": "6a830c50301a33d29c07a9eb0d877d9722ab2f95",
-      "url": "https://www.radiodos.com.ar/209630-el-posteo-que-fue-una-despedida-la-estremecedora-ultima-publicacion-de-lucas-vignale",
-      "title": "El posteo que fue una despedida: la estremecedora última publicación de Lucas Vignale",
-      "volanta": "INCREÍBLE",
-      "date": "2026-06-16T20:05:34+00:00"
     }
   ]
 }
