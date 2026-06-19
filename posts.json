@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T19:26:10+00:00",
+  "updated": "2026-06-19T20:49:11+00:00",
   "posts": [
+    {
+      "id": "5f08ceb1",
+      "image": "img/5f08ceb1.png",
+      "image_sha": "c770db82a02882f9909106308fa72b8b0adfce6a",
+      "url": "https://www.radiodos.com.ar/209815-corrientes-escapo-de-un-control-de-gendarmeria-y-termino-volcando-con-cargamento-de-cigarrillos-ilegales",
+      "title": "Corrientes: escapó de un control de Gendarmería y terminó volcando con cargamento de cigarrillos ilegales",
+      "volanta": "RUTA 12",
+      "date": "2026-06-19T20:49:11+00:00"
+    },
     {
       "id": "74138e96",
       "image": "img/74138e96.png",
@@ -531,15 +540,6 @@
       "title": "El Senado suspendió la sesión y postergó la interpelación a Manuel Adorni",
       "volanta": "POLÉMICA",
       "date": "2026-06-18T13:20:21+00:00"
-    },
-    {
-      "id": "b5c18f6d",
-      "image": "img/b5c18f6d.png",
-      "image_sha": "739c0176a3a537a6925fe59edb23a4a831938997",
-      "url": "https://www.radiodos.com.ar/209728-el-gobierno-de-corrientes-lanza-programa-de-formacion-en-inteligencia-artificial-generativa",
-      "title": "El Gobierno de Corrientes lanza programa de formación en Inteligencia Artificial Generativa",
-      "volanta": "PARA LA ADMINISTRACIÓN PÚBLICA",
-      "date": "2026-06-18T13:09:35+00:00"
     }
   ]
 }
