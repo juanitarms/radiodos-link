@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T12:08:54+00:00",
+  "updated": "2026-06-19T12:21:30+00:00",
   "posts": [
+    {
+      "id": "df25f048",
+      "image": "img/df25f048.png",
+      "image_sha": "b55701057ca7678bd342c2315e1546ef317994c6",
+      "url": "https://www.radiodos.com.ar/209782-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-paso-de-la-patria",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y Paso de la Patria",
+      "volanta": "ESTE VIERNES",
+      "date": "2026-06-19T12:21:30+00:00"
+    },
     {
       "id": "660e47b4",
       "image": "img/660e47b4.png",
@@ -531,15 +540,6 @@
       "title": "Operativo de Garrafa Social",
       "volanta": "Cronograma Semanal",
       "date": "2026-06-17T17:04:22+00:00"
-    },
-    {
-      "id": "99e61645",
-      "image": "img/99e61645.png",
-      "image_sha": "bbde3cd0734c677af7f5e28e2a7d46b131e6b89f",
-      "url": "https://www.radiodos.com.ar/209688-un-expolicia-condenado-por-abusar-de-una-nena-grabo-un-descargo-antes-de-quitarse-la-vida-no-tengo-salida",
-      "title": "Un expolicía condenado por abusar de una nena grabó un descargo antes de quitarse la vida: \"No tengo salida\"",
-      "volanta": "ENTRE RÍOS",
-      "date": "2026-06-17T17:03:53+00:00"
     }
   ]
 }
