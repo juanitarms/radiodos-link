@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T21:03:43+00:00",
+  "updated": "2026-06-19T21:05:30+00:00",
   "posts": [
+    {
+      "id": "1b849f26",
+      "image": "img/1b849f26.png",
+      "image_sha": "2f1cc09070e413936bbababea21cf938a99ac238",
+      "url": "https://www.radiodos.com.ar/209819-florencia-pena-hablo-tras-el-escandalo-en-luzu-y-apunto-contra-occhiato-no-tuvo-empatia",
+      "title": "Florencia Peña habló tras el escándalo en Luzu y apuntó contra Occhiato: \"No tuvo empatía\"",
+      "volanta": "Continúa el escándalo",
+      "date": "2026-06-19T21:05:30+00:00"
+    },
     {
       "id": "6588d1fb",
       "image": "img/6588d1fb.png",
@@ -531,15 +540,6 @@
       "title": "Rochi Igarzábal reveló las duras exigencias que sufrió en Casi Ángeles: \"Me empecé a traumar\"",
       "volanta": "SINCERA",
       "date": "2026-06-18T14:25:44+00:00"
-    },
-    {
-      "id": "a684ebf9",
-      "image": "img/a684ebf9.png",
-      "image_sha": "6e58142650fbc2de45da33c831a3a06093af2823",
-      "url": "https://www.radiodos.com.ar/209731-controles-en-corrientes-en-seis-meses-1447-test-de-alcoholemia-58663-multas-por-alta-velocidad-y-17080-por-cruzar-en-rojo",
-      "title": "Controles en Corrientes: en seis meses, 1.447 test de alcoholemia, 58.663 multas por alta velocidad y 17.080 por cruzar en rojo",
-      "volanta": "POLÍTICA DE ESTADO",
-      "date": "2026-06-18T14:08:11+00:00"
     }
   ]
 }
