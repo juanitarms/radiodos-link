@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T22:15:41+00:00",
+  "updated": "2026-06-19T22:17:21+00:00",
   "posts": [
+    {
+      "id": "65eae6da",
+      "image": "img/65eae6da.png",
+      "image_sha": "706e0a7da0c31c0aa6b7c4fe28abde55daa7ed1f",
+      "url": "https://www.radiodos.com.ar/209824-responsabilidad-fiscal-corrientes-participo-de-la-reunion-encabezada-por-el-ministro-caputo",
+      "title": "Responsabilidad Fiscal: Corrientes participó de la reunión encabezada por el ministro Caputo",
+      "volanta": "En ENTRE RÍOS",
+      "date": "2026-06-19T22:17:21+00:00"
+    },
     {
       "id": "503213e3",
       "image": "img/503213e3.png",
@@ -531,15 +540,6 @@
       "title": "Policía Rural secuestró ganado sin documentación correspondiente para su traslado",
       "volanta": "EMPEDRADO",
       "date": "2026-06-18T16:40:22+00:00"
-    },
-    {
-      "id": "d4d4c098",
-      "image": "img/d4d4c098.png",
-      "image_sha": "dab8d0a69fea6ff70e6eece941ef6bd6feff19ba",
-      "url": "https://www.radiodos.com.ar/209746-tras-la-denuncia-de-juana-marcelo-tinelli-hablo-con-el-padre-de-bautista-cuina-enojado",
-      "title": "Tras la denuncia de Juana, Marcelo Tinelli habló con el padre de Bautista Cuiña: \"Enojado\"",
-      "volanta": "POR VIOLENCIA DE GÉNERO",
-      "date": "2026-06-18T15:07:07+00:00"
     }
   ]
 }
