@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T17:18:39+00:00",
+  "updated": "2026-06-19T18:45:10+00:00",
   "posts": [
+    {
+      "id": "b70fd246",
+      "image": "img/b70fd246.png",
+      "image_sha": "944ffb9f877dfbe6e368137d043831e8eaeb7da0",
+      "url": "https://www.radiodos.com.ar/209805-un-nene-de-dos-anos-murio-por-una-fractura-de-craneo-detuvieron-a-su-madre-y-padrastro",
+      "title": "Un nene de dos años murió por una fractura de cráneo: detuvieron a su madre y padrastro",
+      "volanta": "MERLO",
+      "date": "2026-06-19T18:45:10+00:00"
+    },
     {
       "id": "8e0cd7fe",
       "image": "img/8e0cd7fe.png",
@@ -531,15 +540,6 @@
       "title": "Alerta para Corrientes: se esperan tormentas fuertes",
       "volanta": "Pronóstico",
       "date": "2026-06-18T10:36:06+00:00"
-    },
-    {
-      "id": "ecfddeeb",
-      "image": "img/ecfddeeb.png",
-      "image_sha": "ac01ae9af05fdbfa3a609d4f625d00ca57b51956",
-      "url": "https://www.radiodos.com.ar/209709-tras-aprobar-una-garantia-de-us2000-millones-javier-milei-recibio-a-autoridades-del-banco-mundial",
-      "title": "Tras aprobar una garantía de u$s2.000 millones, Javier Milei recibió a autoridades del Banco Mundial",
-      "volanta": "EN QUINTA DE OLIVOS",
-      "date": "2026-06-17T22:58:59+00:00"
     }
   ]
 }
