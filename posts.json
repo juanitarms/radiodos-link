@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T18:45:10+00:00",
+  "updated": "2026-06-19T18:45:49+00:00",
   "posts": [
+    {
+      "id": "3a08d81d",
+      "image": "img/3a08d81d.png",
+      "image_sha": "b22a37fe18918a6a7ac265af5918c887bbab0eaa",
+      "url": "https://www.radiodos.com.ar/209807-la-municipalidad-propone-un-fin-de-semana-con-festejos-y-actividades-en-honor-a-papa",
+      "title": "La Municipalidad propone un fin de semana con festejos y actividades en honor a Papá",
+      "volanta": "PROPUESTAS GRATUITAS PARA DISFRUTAR EN LA CIUDAD",
+      "date": "2026-06-19T18:45:49+00:00"
+    },
     {
       "id": "b70fd246",
       "image": "img/b70fd246.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a  integrantes de una banda que estafó a ancianas en Corrientes",
       "volanta": "POLICÍA DE ALVEAR",
       "date": "2026-06-18T10:48:22+00:00"
-    },
-    {
-      "id": "25667a67",
-      "image": "img/25667a67.png",
-      "image_sha": "f7e69c441144bba8efcde25819b9945a6f11bcee",
-      "url": "https://www.radiodos.com.ar/209714-alerta-para-corrientes-se-esperan-tormentas-fuertes",
-      "title": "Alerta para Corrientes: se esperan tormentas fuertes",
-      "volanta": "Pronóstico",
-      "date": "2026-06-18T10:36:06+00:00"
     }
   ]
 }
