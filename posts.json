@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T18:45:49+00:00",
+  "updated": "2026-06-19T18:46:22+00:00",
   "posts": [
+    {
+      "id": "ff0a445c",
+      "image": "img/ff0a445c.png",
+      "image_sha": "8f1ea3fc4024d046d0545c0cd36e16c2f8c4f0af",
+      "url": "https://www.radiodos.com.ar/209810-responsabilidad-fiscal-corrientes-participo-de-la-reunion-encabezada-por-el-ministro-caputo",
+      "title": "Responsabilidad Fiscal: Corrientes participó de la reunión encabezada por el ministro Caputo",
+      "volanta": "ENCUENTRO EN PARANÁ, ENTRE RÍOS",
+      "date": "2026-06-19T18:46:22+00:00"
+    },
     {
       "id": "3a08d81d",
       "image": "img/3a08d81d.png",
@@ -531,15 +540,6 @@
       "title": "Misteriosa desaparición de un jóven en Corrientes: lo busca intensamente",
       "volanta": "DESDE AYER",
       "date": "2026-06-18T11:33:35+00:00"
-    },
-    {
-      "id": "80fa37c2",
-      "image": "img/80fa37c2.png",
-      "image_sha": "6d07ecb60e99a342a526359ef283788e1df6fa3d",
-      "url": "https://www.radiodos.com.ar/209715-detienen-a-integrantes-de-una-banda-que-estafo-a-ancianas-en-corrientes",
-      "title": "Detienen a  integrantes de una banda que estafó a ancianas en Corrientes",
-      "volanta": "POLICÍA DE ALVEAR",
-      "date": "2026-06-18T10:48:22+00:00"
     }
   ]
 }
