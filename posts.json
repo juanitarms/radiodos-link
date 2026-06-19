@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T16:19:58+00:00",
+  "updated": "2026-06-19T16:20:29+00:00",
   "posts": [
+    {
+      "id": "a8daedaf",
+      "image": "img/a8daedaf.png",
+      "image_sha": "696cc7d63ab37712ee2f1a86a964bee2e15e8b38",
+      "url": "https://www.radiodos.com.ar/209802-nico-occhiato-rompio-el-silencio-tras-el-escandalo-en-luzu-tv-y-se-quejo-de-la-divulgacion-de-mas-fake-news",
+      "title": "Nico Occhiato rompió el silencio tras el escándalo en Luzu TV y se quejó de \"la divulgación de más fake news\"",
+      "volanta": "MOLESTO",
+      "date": "2026-06-19T16:20:29+00:00"
+    },
     {
       "id": "df052032",
       "image": "img/df052032.png",
@@ -531,15 +540,6 @@
       "title": "Piden juicio político a Manuel Adorni",
       "volanta": "jefe de Gabinete",
       "date": "2026-06-17T21:47:26+00:00"
-    },
-    {
-      "id": "5a258c01",
-      "image": "img/5a258c01.png",
-      "image_sha": "309c50cba1bddf911ea476043e212a7d7e565458",
-      "url": "https://www.radiodos.com.ar/209705-congo-sorprendio-y-le-saco-un-empate-a-la-portugal-de-cristiano-ronaldo",
-      "title": "Congo sorprendió y le sacó un empate a la Portugal de Cristiano Ronaldo",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-17T21:46:55+00:00"
     }
   ]
 }
