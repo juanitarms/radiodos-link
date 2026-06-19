@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T20:49:11+00:00",
+  "updated": "2026-06-19T20:50:36+00:00",
   "posts": [
+    {
+      "id": "d76fa0ea",
+      "image": "img/d76fa0ea.png",
+      "image_sha": "e29aa6eb9d8cdca0b3bc439d5ec8479ba04835a0",
+      "url": "https://www.radiodos.com.ar/209817-quien-es-el-nuevo-vocero-presidencial-del-gobierno-nacional",
+      "title": "Quién es el nuevo vocero presidencial del Gobierno nacional",
+      "volanta": "Diputado libertario",
+      "date": "2026-06-19T20:50:36+00:00"
+    },
     {
       "id": "5f08ceb1",
       "image": "img/5f08ceb1.png",
@@ -531,15 +540,6 @@
       "title": "Celia Messi rompió el silencio tras el emotivo partido de Lionel Messi: \"Estamos muy felices\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-06-18T13:34:25+00:00"
-    },
-    {
-      "id": "c8d6ba98",
-      "image": "img/c8d6ba98.png",
-      "image_sha": "459d280b31b47264d1bf73e5d43e46ef65a5db67",
-      "url": "https://www.radiodos.com.ar/209730-el-senado-suspendio-la-sesion-y-postergo-la-interpelacion-a-manuel-adorni",
-      "title": "El Senado suspendió la sesión y postergó la interpelación a Manuel Adorni",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-18T13:20:21+00:00"
     }
   ]
 }
