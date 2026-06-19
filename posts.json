@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T13:04:21+00:00",
+  "updated": "2026-06-19T13:19:32+00:00",
   "posts": [
+    {
+      "id": "d01fb12a",
+      "image": "img/d01fb12a.png",
+      "image_sha": "76bd17e94d8b9f0a9b503c78e2ee4cf1ac10669c",
+      "url": "https://www.radiodos.com.ar/209787-si-te-metes-con-messi-javier-milei-reaparece-en-redes-por-el-escandalo-de-luzu",
+      "title": "\"Si te metés con Messi...\": Javier Milei reaparece en redes por el escándalo de Luzu",
+      "volanta": "EN REDES SOCIALES",
+      "date": "2026-06-19T13:19:32+00:00"
+    },
     {
       "id": "f1898b67",
       "image": "img/f1898b67.png",
@@ -531,15 +540,6 @@
       "title": "Se pone en marcha el Plan de Regularización de Obras con importantes beneficios",
       "volanta": "DISPOSICIÓN MUNICIPAL",
       "date": "2026-06-17T18:38:54+00:00"
-    },
-    {
-      "id": "753171f4",
-      "image": "img/753171f4.png",
-      "image_sha": "85cdf5d40394de05244a79834f6488ff9d9eec00",
-      "url": "https://www.radiodos.com.ar/209690-tini-stoessel-le-dedico-un-tierno-mensaje-a-rodrigo-de-paul-tras-la-victoria-de-argentina",
-      "title": "Tini Stoessel le dedicó un tierno mensaje a Rodrigo De Paul tras la victoria de Argentina",
-      "volanta": "ENAMORADA",
-      "date": "2026-06-17T17:04:55+00:00"
     }
   ]
 }
