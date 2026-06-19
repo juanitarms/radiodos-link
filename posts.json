@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T13:48:46+00:00",
+  "updated": "2026-06-19T14:03:54+00:00",
   "posts": [
+    {
+      "id": "c894a1c2",
+      "image": "img/c894a1c2.png",
+      "image_sha": "2dc89383800513deeb9faa582470b817f199b94b",
+      "url": "https://www.radiodos.com.ar/209794-el-inesperado-mensaje-de-celia-la-mama-de-messi-a-florencia-pena-tras-su-error",
+      "title": "El inesperado mensaje de Celia, la mamá de Messi, a Florencia Peña tras su error",
+      "volanta": "TRAS EL ESCÁNDALO",
+      "date": "2026-06-19T14:03:54+00:00"
+    },
     {
       "id": "077fdce4",
       "image": "img/077fdce4.png",
@@ -531,15 +540,6 @@
       "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
       "volanta": "Comunicado",
       "date": "2026-06-17T19:22:11+00:00"
-    },
-    {
-      "id": "dbf60414",
-      "image": "img/dbf60414.png",
-      "image_sha": "3a24e1a0e1e99a5978ad594bcc3f0982e8b6973b",
-      "url": "https://www.radiodos.com.ar/209693-corrientes-reafirmo-su-compromiso-con-la-donacion-voluntaria-de-sangre",
-      "title": "Corrientes reafirmó su compromiso con la donación voluntaria de sangre",
-      "volanta": "DÍA MUNDIAL DEL DONANTE",
-      "date": "2026-06-17T19:21:35+00:00"
     }
   ]
 }
