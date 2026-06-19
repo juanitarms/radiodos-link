@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T22:13:59+00:00",
+  "updated": "2026-06-19T22:15:41+00:00",
   "posts": [
+    {
+      "id": "503213e3",
+      "image": "img/503213e3.png",
+      "image_sha": "907ec101fe76187928bb12c621f06848dbc7d294",
+      "url": "https://www.radiodos.com.ar/209822-corrientes-evadio-un-control-y-termino-detenido-con-una-camioneta-robada-en-buenos-aires",
+      "title": "Corrientes: evadió un control y terminó detenido con una camioneta robada en Buenos Aires",
+      "volanta": "CERCA DE VIRASORO",
+      "date": "2026-06-19T22:15:41+00:00"
+    },
     {
       "id": "9caf2728",
       "image": "img/9caf2728.png",
@@ -531,15 +540,6 @@
       "title": "Tras la denuncia de Juana, Marcelo Tinelli habló con el padre de Bautista Cuiña: \"Enojado\"",
       "volanta": "POR VIOLENCIA DE GÉNERO",
       "date": "2026-06-18T15:07:07+00:00"
-    },
-    {
-      "id": "99e76b75",
-      "image": "img/99e76b75.png",
-      "image_sha": "cef30a23d7868d4073a0239a4a9cb171d9d02563",
-      "url": "https://www.radiodos.com.ar/209745-nuevamente-preocupa-la-salud-de-luis-miguel-la-cirugia-que-enfrento-el-sol-de-mexico",
-      "title": "Nuevamente, preocupa la salud de Luis Miguel: la cirugía que enfrentó el Sol de México",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-06-18T14:41:08+00:00"
     }
   ]
 }
