@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T13:19:32+00:00",
+  "updated": "2026-06-19T13:32:05+00:00",
   "posts": [
+    {
+      "id": "b8fc88a9",
+      "image": "img/b8fc88a9.png",
+      "image_sha": "ea316e258ffb69c9c4840e48c651b74bd27c283e",
+      "url": "https://www.radiodos.com.ar/209788-el-consumo-cayo-por-sexto-mes-consecutivo",
+      "title": "El consumo cayó por sexto mes consecutivo",
+      "volanta": "ECONOMÍA",
+      "date": "2026-06-19T13:32:05+00:00"
+    },
     {
       "id": "d01fb12a",
       "image": "img/d01fb12a.png",
@@ -531,15 +540,6 @@
       "title": "La emoción hasta las lágrimas de Lionel Scaloni al abrazar a Lionel Messi en el banco de suplentes",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-17T18:39:30+00:00"
-    },
-    {
-      "id": "a1979348",
-      "image": "img/a1979348.png",
-      "image_sha": "79e0b255532613a99fcf5ff33d0ccf1c99316584",
-      "url": "https://www.radiodos.com.ar/209691-se-pone-en-marcha-el-plan-de-regularizacion-de-obras-con-importantes-beneficios",
-      "title": "Se pone en marcha el Plan de Regularización de Obras con importantes beneficios",
-      "volanta": "DISPOSICIÓN MUNICIPAL",
-      "date": "2026-06-17T18:38:54+00:00"
     }
   ]
 }
