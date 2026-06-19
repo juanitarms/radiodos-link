@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T14:23:29+00:00",
+  "updated": "2026-06-19T14:37:38+00:00",
   "posts": [
+    {
+      "id": "6a5aa020",
+      "image": "img/6a5aa020.png",
+      "image_sha": "a72aa16091afa3c1ebeb7927ffeb9d31b1c97b73",
+      "url": "https://www.radiodos.com.ar/209795-javier-milei-actualizo-un-21-el-nomenclador-nacional-de-discapacidad-pero-sigue-sin-cumplir-con-la-ley",
+      "title": "Javier Milei actualizó un 2,1% el nomenclador nacional de discapacidad pero sigue sin cumplir con la ley",
+      "volanta": "NOVEDAD",
+      "date": "2026-06-19T14:37:38+00:00"
+    },
     {
       "id": "78f9e648",
       "image": "img/78f9e648.png",
@@ -531,15 +540,6 @@
       "title": "Media sanción a ley que instituye la Semana de la Epilepsia en la provincia de Corrientes",
       "volanta": "Sesión 10  -Cámara de Diputados",
       "date": "2026-06-17T19:23:14+00:00"
-    },
-    {
-      "id": "ab0ea56f",
-      "image": "img/ab0ea56f.png",
-      "image_sha": "74ce24e0f2a88497da63bafba6a9fe78ad8e15bb",
-      "url": "https://www.radiodos.com.ar/209695-por-primera-vez-el-hospital-garrahan-realizo-un-trasplante-renal-simultaneo",
-      "title": "Por primera vez, el Hospital Garrahan realizó un trasplante renal simultáneo",
-      "volanta": "ORGULLO",
-      "date": "2026-06-17T19:22:41+00:00"
     }
   ]
 }
