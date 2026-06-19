@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T14:03:54+00:00",
+  "updated": "2026-06-19T14:23:29+00:00",
   "posts": [
+    {
+      "id": "78f9e648",
+      "image": "img/78f9e648.png",
+      "image_sha": "4a74c76e39dae67d7f6de8260be36fd20d51ccab",
+      "url": "https://www.radiodos.com.ar/209796-demoledora-encuesta-hunde-la-imagen-de-manuel-adorni-8-de-cada-10-argentinos-lo-quieren-fuera-del-gobierno",
+      "title": "Demoledora encuesta hunde la imagen de Manuel Adorni: 8 de cada 10 argentinos lo quieren fuera del Gobierno",
+      "volanta": "DATOS",
+      "date": "2026-06-19T14:23:29+00:00"
+    },
     {
       "id": "c894a1c2",
       "image": "img/c894a1c2.png",
@@ -531,15 +540,6 @@
       "title": "Por primera vez, el Hospital Garrahan realizó un trasplante renal simultáneo",
       "volanta": "ORGULLO",
       "date": "2026-06-17T19:22:41+00:00"
-    },
-    {
-      "id": "c16a6a91",
-      "image": "img/c16a6a91.png",
-      "image_sha": "c863e13070807f92853b2c1377e9d57d76290773",
-      "url": "https://www.radiodos.com.ar/209692-dpec-ofrece-un-plan-integral-de-regularizacion-comercial-con-importantes-beneficios",
-      "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
-      "volanta": "Comunicado",
-      "date": "2026-06-17T19:22:11+00:00"
     }
   ]
 }
