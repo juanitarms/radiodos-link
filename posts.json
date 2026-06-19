@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T19:25:31+00:00",
+  "updated": "2026-06-19T19:26:10+00:00",
   "posts": [
+    {
+      "id": "74138e96",
+      "image": "img/74138e96.png",
+      "image_sha": "6077b54763aa1b8ede17161ae36bd663d90ade7b",
+      "url": "https://www.radiodos.com.ar/209813-la-corte-suprema-ratifico-la-competencia-material-de-la-justicia-de-corrientes-en-el-caso-generacion-zoe",
+      "title": "La Corte Suprema ratificó la competencia material de la Justicia de Corrientes en el caso Generación Zoe",
+      "volanta": "FALLO DE LA CORTE",
+      "date": "2026-06-19T19:26:10+00:00"
+    },
     {
       "id": "52140cdd",
       "image": "img/52140cdd.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes lanza programa de formación en Inteligencia Artificial Generativa",
       "volanta": "PARA LA ADMINISTRACIÓN PÚBLICA",
       "date": "2026-06-18T13:09:35+00:00"
-    },
-    {
-      "id": "63bcd371",
-      "image": "img/63bcd371.png",
-      "image_sha": "c1e18f98f62b412276b6c320639e54db7e6830db",
-      "url": "https://www.radiodos.com.ar/209724-tres-hermanitas-un-mismo-sueno-encontrar-una-familia-que-las-adopte-juntas-",
-      "title": "Tres hermanitas, un mismo sueño: encontrar una familia que las adopte juntas",
-      "volanta": "CONVOCATORIA PÚBLICA",
-      "date": "2026-06-18T12:33:37+00:00"
     }
   ]
 }
