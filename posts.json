@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T13:32:05+00:00",
+  "updated": "2026-06-19T13:48:46+00:00",
   "posts": [
+    {
+      "id": "077fdce4",
+      "image": "img/077fdce4.png",
+      "image_sha": "d1fbd6b0a371e593a32aec2adaae560f6ebd7c2c",
+      "url": "https://www.radiodos.com.ar/209792-el-gobierno-creo-un-nuevo-programa-de-seguridad-para-reforzar-los-controles-migratorios",
+      "title": "El Gobierno creó un nuevo programa de seguridad para reforzar los controles migratorios",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-06-19T13:48:46+00:00"
+    },
     {
       "id": "b8fc88a9",
       "image": "img/b8fc88a9.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes reafirmó su compromiso con la donación voluntaria de sangre",
       "volanta": "DÍA MUNDIAL DEL DONANTE",
       "date": "2026-06-17T19:21:35+00:00"
-    },
-    {
-      "id": "33c7dcdb",
-      "image": "img/33c7dcdb.png",
-      "image_sha": "dd0edc76e29e0884019ed862cb8c23d4f207a743",
-      "url": "https://www.radiodos.com.ar/209694-la-emocion-hasta-las-lagrimas-de-lionel-scaloni-al-abrazar-a-lionel-messi-en-el-banco-de-suplentes",
-      "title": "La emoción hasta las lágrimas de Lionel Scaloni al abrazar a Lionel Messi en el banco de suplentes",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-17T18:39:30+00:00"
     }
   ]
 }
