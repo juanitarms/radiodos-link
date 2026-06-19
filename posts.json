@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T11:04:57+00:00",
+  "updated": "2026-06-19T11:32:16+00:00",
   "posts": [
+    {
+      "id": "c7ef9bd4",
+      "image": "img/c7ef9bd4.png",
+      "image_sha": "fc996d095455bee27df8a5759081b48beac24e12",
+      "url": "https://www.radiodos.com.ar/209778-eduardo-vischi-adorni-no-solo-debe-renunciar-sino-que-el-presidente-deberia-sacarlo-del-cargo",
+      "title": "Eduardo Vischi: \"Adorni no solo debe renunciar, sino que el Presidente debería sacarlo del cargo\"",
+      "volanta": "POLÉMICA NACIONAL",
+      "date": "2026-06-19T11:32:16+00:00"
+    },
     {
       "id": "df8ce57f",
       "image": "img/df8ce57f.png",
@@ -531,15 +540,6 @@
       "title": "Drama en Villa La Angostura: un incendio destruyó un ex motel y dejó a 14 familias sin hogar",
       "volanta": "NEUQUEN",
       "date": "2026-06-17T16:21:18+00:00"
-    },
-    {
-      "id": "3dce229e",
-      "image": "img/3dce229e.png",
-      "image_sha": "7332d0c06dd1146554e1e33c52947df98252f901",
-      "url": "https://www.radiodos.com.ar/209686-candelaria-tinelli-exploto-tras-el-escandalo-de-su-hermana-juanita-la-quiero-mucho-pero",
-      "title": "Candelaria Tinelli explotó tras el escándalo de su hermana Juanita: \"La quiero mucho, pero...\"",
-      "volanta": "PUSO LÍMITES",
-      "date": "2026-06-17T16:20:47+00:00"
     }
   ]
 }
