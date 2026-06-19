@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T16:40:07+00:00",
+  "updated": "2026-06-19T17:18:05+00:00",
   "posts": [
+    {
+      "id": "46c3e920",
+      "image": "img/46c3e920.png",
+      "image_sha": "903c1f58faa451d90600a19545f2708fab94211f",
+      "url": "https://www.radiodos.com.ar/209804-ronda-de-negocios-para-potenciar-las-industrias-creativas-de-todo-el-pais",
+      "title": "Ronda de Negocios para potenciar las industrias creativas de todo el país",
+      "volanta": "ACOMPAÑAMIENTO",
+      "date": "2026-06-19T17:18:05+00:00"
+    },
     {
       "id": "7dac2e6b",
       "image": "img/7dac2e6b.png",
@@ -531,15 +540,6 @@
       "title": "Día del Padre: habrá misas especiales y operativos de tránsito en los cementerios",
       "volanta": "CORRIENTES",
       "date": "2026-06-17T22:58:26+00:00"
-    },
-    {
-      "id": "53addd7d",
-      "image": "img/53addd7d.png",
-      "image_sha": "5a2f041cd1012a20f8619a7222cbf4937d23dcef",
-      "url": "https://www.radiodos.com.ar/209706-corrientes-se-esperan-tormentas-y-un-marcado-descenso-de-temperatura",
-      "title": "Corrientes: se esperan tormentas y un marcado descenso de temperatura",
-      "volanta": "ALERTA AMARILLA",
-      "date": "2026-06-17T22:49:56+00:00"
     }
   ]
 }
