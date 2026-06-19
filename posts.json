@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T11:32:16+00:00",
+  "updated": "2026-06-19T12:08:54+00:00",
   "posts": [
+    {
+      "id": "660e47b4",
+      "image": "img/660e47b4.png",
+      "image_sha": "4a693328c21e30c30c49bded09a7106d9727f991",
+      "url": "https://www.radiodos.com.ar/209780-con-apoyo-del-gobierno-provincial-corrientes-recibira-el-raid-nautico-de-las-americas",
+      "title": "Con apoyo del Gobierno provincial, Corrientes recibirá el Raid Náutico de las Américas",
+      "volanta": "TURISMO Y DEPORTE",
+      "date": "2026-06-19T12:08:54+00:00"
+    },
     {
       "id": "c7ef9bd4",
       "image": "img/c7ef9bd4.png",
@@ -531,15 +540,6 @@
       "title": "Un expolicía condenado por abusar de una nena grabó un descargo antes de quitarse la vida: \"No tengo salida\"",
       "volanta": "ENTRE RÍOS",
       "date": "2026-06-17T17:03:53+00:00"
-    },
-    {
-      "id": "32f2cacc",
-      "image": "img/32f2cacc.png",
-      "image_sha": "6ab0d6a39348081b4b6acb539624a1d06e812a45",
-      "url": "https://www.radiodos.com.ar/209689-drama-en-villa-la-angostura-un-incendio-destruyo-un-ex-motel-y-dejo-a-14-familias-sin-hogar",
-      "title": "Drama en Villa La Angostura: un incendio destruyó un ex motel y dejó a 14 familias sin hogar",
-      "volanta": "NEUQUEN",
-      "date": "2026-06-17T16:21:18+00:00"
     }
   ]
 }
