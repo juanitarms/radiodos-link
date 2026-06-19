@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T20:50:36+00:00",
+  "updated": "2026-06-19T20:52:00+00:00",
   "posts": [
+    {
+      "id": "172a5ef9",
+      "image": "img/172a5ef9.png",
+      "image_sha": "37f6ab90c9353bf8e2a85c80d4e8122789bd411b",
+      "url": "https://www.radiodos.com.ar/209816-en-ruta-de-corrientes-incautaron-millonaria-carga-de-contrabando",
+      "title": "En ruta de Corrientes, incautaron millonaria carga de contrabando",
+      "volanta": "SEGURIDAD",
+      "date": "2026-06-19T20:52:00+00:00"
+    },
     {
       "id": "d76fa0ea",
       "image": "img/d76fa0ea.png",
@@ -531,15 +540,6 @@
       "title": "Caso Agostina Vega: testigo clave lanzó nuevas acusaciones contra la dueña del Ford Ka y Claudio Barrelier",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-18T13:51:53+00:00"
-    },
-    {
-      "id": "e059ec83",
-      "image": "img/e059ec83.png",
-      "image_sha": "072dfa6f52412b927a5bc2c5519b09750ff08318",
-      "url": "https://www.radiodos.com.ar/209737-celia-messi-rompio-el-silencio-tras-el-emotivo-partido-de-lionel-messi-estamos-muy-felices",
-      "title": "Celia Messi rompió el silencio tras el emotivo partido de Lionel Messi: \"Estamos muy felices\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-06-18T13:34:25+00:00"
     }
   ]
 }
