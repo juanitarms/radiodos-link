@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T16:19:27+00:00",
+  "updated": "2026-06-19T16:19:58+00:00",
   "posts": [
+    {
+      "id": "df052032",
+      "image": "img/df052032.png",
+      "image_sha": "3e3dc39e137e0d829647fb84c2333980674b51e4",
+      "url": "https://www.radiodos.com.ar/209803-a-nosotros-no-nos-paso-nada-migue-granados-opino-sobre-el-escandalo-de-luzu-tv",
+      "title": "\"A nosotros no nos pasó nada\": Migue Granados opinó sobre el escándalo de Luzu TV",
+      "volanta": "TRAS LA FAKE NEWS",
+      "date": "2026-06-19T16:19:58+00:00"
+    },
     {
       "id": "0ed386ab",
       "image": "img/0ed386ab.png",
@@ -531,15 +540,6 @@
       "title": "Congo sorprendió y le sacó un empate a la Portugal de Cristiano Ronaldo",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-17T21:46:55+00:00"
-    },
-    {
-      "id": "bd0dc6a7",
-      "image": "img/bd0dc6a7.png",
-      "image_sha": "ca6c638dd781cc5f656a008a168dc3a8cf2620d6",
-      "url": "https://www.radiodos.com.ar/209703-juicio-por-loan-pena-el-tribunal-suspendio-la-audiencia-prevista-para-manana-y-reprogramara-a-los-testigos",
-      "title": "Juicio por Loan Peña: el tribunal suspendió la audiencia prevista para mañana y reprogramará a los testigos",
-      "volanta": "AHORA",
-      "date": "2026-06-17T21:12:52+00:00"
     }
   ]
 }
