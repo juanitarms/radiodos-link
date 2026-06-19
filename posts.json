@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T20:52:00+00:00",
+  "updated": "2026-06-19T21:03:43+00:00",
   "posts": [
+    {
+      "id": "6588d1fb",
+      "image": "img/6588d1fb.png",
+      "image_sha": "b24973ec6659b0cd33068d95d5017bca9a25c0aa",
+      "url": "https://www.radiodos.com.ar/209820-nuevas-oficinas-de-la-dpec-polich-acompano-a-valdes-y-destaco-la-descentralizacion-de-servicios",
+      "title": "Nuevas oficinas de la DPEC: Polich acompañó a Valdés y destacó la descentralización de servicios",
+      "volanta": "Modernización",
+      "date": "2026-06-19T21:03:43+00:00"
+    },
     {
       "id": "172a5ef9",
       "image": "img/172a5ef9.png",
@@ -531,15 +540,6 @@
       "title": "Controles en Corrientes: en seis meses, 1.447 test de alcoholemia, 58.663 multas por alta velocidad y 17.080 por cruzar en rojo",
       "volanta": "POLÍTICA DE ESTADO",
       "date": "2026-06-18T14:08:11+00:00"
-    },
-    {
-      "id": "74f2b28d",
-      "image": "img/74f2b28d.png",
-      "image_sha": "2bf0f2edd1f0e84732e60693a2a978fa2cf73f48",
-      "url": "https://www.radiodos.com.ar/209740-caso-agostina-vega-testigo-clave-lanzo-nuevas-acusaciones-contra-la-duena-del-ford-ka-y-claudio-barrelier",
-      "title": "Caso Agostina Vega: testigo clave lanzó nuevas acusaciones contra la dueña del Ford Ka y Claudio Barrelier",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-18T13:51:53+00:00"
     }
   ]
 }
