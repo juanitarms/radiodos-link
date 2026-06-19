@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T12:21:30+00:00",
+  "updated": "2026-06-19T13:04:21+00:00",
   "posts": [
+    {
+      "id": "f1898b67",
+      "image": "img/f1898b67.png",
+      "image_sha": "db11ef6705f5dca6d5c93aadb434e248b27f3d0d",
+      "url": "https://www.radiodos.com.ar/209785-corrientes-fortalece-la-integracion-regional-con-paraguay-a-traves-de-una-alianza-estrategica",
+      "title": "Corrientes fortalece la integración regional con Paraguay a través de una alianza estratégica",
+      "volanta": "Innovación y el comercio digital",
+      "date": "2026-06-19T13:04:21+00:00"
+    },
     {
       "id": "df25f048",
       "image": "img/df25f048.png",
@@ -531,15 +540,6 @@
       "title": "Tini Stoessel le dedicó un tierno mensaje a Rodrigo De Paul tras la victoria de Argentina",
       "volanta": "ENAMORADA",
       "date": "2026-06-17T17:04:55+00:00"
-    },
-    {
-      "id": "d1e8c506",
-      "image": "img/d1e8c506.png",
-      "image_sha": "4f2b95b924b5b1d16979e099295165badb909566",
-      "url": "https://www.radiodos.com.ar/209687-operativo-de-garrafa-social",
-      "title": "Operativo de Garrafa Social",
-      "volanta": "Cronograma Semanal",
-      "date": "2026-06-17T17:04:22+00:00"
     }
   ]
 }
