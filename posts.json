@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T17:18:03+00:00",
+  "updated": "2026-06-20T21:05:31+00:00",
   "posts": [
+    {
+      "id": "f4b2e814",
+      "image": "img/f4b2e814.png",
+      "image_sha": "01ca594c24ea7fd65bd36481075a174bf1cb583c",
+      "url": "https://www.radiodos.com.ar/209833-valdes-encabezo-el-acto-por-el-dia-de-la-bandera-y-tomo-la-promesa-a-3-mil-estudiantes",
+      "title": "Valdés encabezó el acto por el Día de la Bandera y tomó la promesa a 3 mil estudiantes",
+      "volanta": "ACTO CENTRAL EN LA COSTANERA",
+      "date": "2026-06-20T21:05:31+00:00"
+    },
     {
       "id": "41c1d2aa",
       "image": "img/41c1d2aa.png",
@@ -531,15 +540,6 @@
       "title": "Quién es Francisco, el hermano de Manuel Adorni que también es investigado por enriquecimiento ilícito",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-18T17:29:23+00:00"
-    },
-    {
-      "id": "19173cac",
-      "image": "img/19173cac.png",
-      "image_sha": "f27ec498e1bdf39412108aabed88f6b7959baace",
-      "url": "https://www.radiodos.com.ar/209752-la-aduana-incauto-cuatro-autos-exclusivos-como-son-y-cuanto-cuestan",
-      "title": "La Aduana incautó cuatro autos exclusivos: cómo son y cuánto cuestan",
-      "volanta": "OPERATIVO",
-      "date": "2026-06-18T17:28:48+00:00"
     }
   ]
 }
