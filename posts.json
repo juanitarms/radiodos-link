@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T15:51:27+00:00",
+  "updated": "2026-06-20T17:18:03+00:00",
   "posts": [
+    {
+      "id": "41c1d2aa",
+      "image": "img/41c1d2aa.png",
+      "image_sha": "9b044f3e01b692ae4987ec65e36d1378822f9d42",
+      "url": "https://www.radiodos.com.ar/209828-buscan-a-una-joven-que-esta-desaparecida-en-el-interior-de-corrientes",
+      "title": "Buscan a una joven que está desaparecida en el interior de Corrientes",
+      "volanta": "CASI UNA SEMANA",
+      "date": "2026-06-20T17:18:03+00:00"
+    },
     {
       "id": "c2078a72",
       "image": "img/c2078a72.png",
@@ -531,15 +540,6 @@
       "title": "La Aduana incautó cuatro autos exclusivos: cómo son y cuánto cuestan",
       "volanta": "OPERATIVO",
       "date": "2026-06-18T17:28:48+00:00"
-    },
-    {
-      "id": "b6b02fcc",
-      "image": "img/b6b02fcc.png",
-      "image_sha": "d673b70c475bd7621c78680b08067c7b788abc98",
-      "url": "https://www.radiodos.com.ar/209758-crece-la-preocupacion-por-la-salud-de-jorge-el-papa-de-lionel-messi",
-      "title": "Crece la preocupación por la salud de Jorge, el papá de Lionel Messi",
-      "volanta": "HORAS DECISIVAS",
-      "date": "2026-06-18T17:28:12+00:00"
     }
   ]
 }
