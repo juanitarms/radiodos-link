@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T14:52:07+00:00",
+  "updated": "2026-06-20T15:12:45+00:00",
   "posts": [
+    {
+      "id": "ef5d3c26",
+      "image": "img/ef5d3c26.png",
+      "image_sha": "36323ac4c4a8aac5ba9775c50e2c49552a9aa215",
+      "url": "https://www.radiodos.com.ar/209826-corrientes-la-mayoria-de-los-comercios-abriran-en-el-feriado-del-dia-de-la-bandera",
+      "title": "Corrientes: la mayoría de los comercios abrirán en el feriado del Día de la Bandera",
+      "volanta": "MUCHOS DE CORRIDO",
+      "date": "2026-06-20T15:12:45+00:00"
+    },
     {
       "id": "d07de0cc",
       "image": "img/d07de0cc.png",
@@ -531,15 +540,6 @@
       "title": "Intento de femicidio: discutió con su novia, la roció con alcohol e intentó prenderla fuego",
       "volanta": "SAN JUAN",
       "date": "2026-06-18T16:42:51+00:00"
-    },
-    {
-      "id": "366f16f3",
-      "image": "img/366f16f3.png",
-      "image_sha": "31a4abbb0e16b7fbe4df2928897e7f600a05ca05",
-      "url": "https://www.radiodos.com.ar/209751-regatas-presento-su-renovado-gimnasio-de-potencia",
-      "title": "Regatas presentó su renovado gimnasio de potencia",
-      "volanta": "Institucional",
-      "date": "2026-06-18T16:42:10+00:00"
     }
   ]
 }
