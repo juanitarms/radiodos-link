@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T14:48:16+00:00",
+  "updated": "2026-06-20T14:52:07+00:00",
   "posts": [
+    {
+      "id": "d07de0cc",
+      "image": "img/d07de0cc.png",
+      "image_sha": "a56f6efdfe7285804ca1f013aed8f7be21013cbe",
+      "url": "https://www.radiodos.com.ar/209831-claudio-polich-belgrano-debe-servir-como-elemento-de-inspiracion-para-quienes-tenemos-responsabilidades-publicas",
+      "title": "\"BELGRANO DEBE SERVIR COMO ELEMENTO DE INSPIRACIÓN PARA QUIENES TENEMOS RESPONSABILIDADES PÚBLICAS\"",
+      "volanta": "claudio polich",
+      "date": "2026-06-20T14:52:07+00:00"
+    },
     {
       "id": "ee523d96",
       "image": "img/ee523d96.png",
@@ -531,15 +540,6 @@
       "title": "Regatas presentó su renovado gimnasio de potencia",
       "volanta": "Institucional",
       "date": "2026-06-18T16:42:10+00:00"
-    },
-    {
-      "id": "5004c8d1",
-      "image": "img/5004c8d1.png",
-      "image_sha": "7d2abc24c1899d3a89cfedceec2bba213df128cf",
-      "url": "https://www.radiodos.com.ar/209748-se-realizo-el-2°-encuentro-de-fortalecimiento-municipal",
-      "title": "Se realizó el 2° Encuentro de Fortalecimiento Municipal",
-      "volanta": "En Virasoro y La Cruz",
-      "date": "2026-06-18T16:41:37+00:00"
     }
   ]
 }
