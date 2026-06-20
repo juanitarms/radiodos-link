@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T15:12:45+00:00",
+  "updated": "2026-06-20T15:51:27+00:00",
   "posts": [
+    {
+      "id": "c2078a72",
+      "image": "img/c2078a72.png",
+      "image_sha": "fbf4faaf6b8177fdb963dcc1516121d21a2137ed",
+      "url": "https://www.radiodos.com.ar/209829-mas-de-3000-alumnos-prometeran-lealtad-a-la-bandera-en-corrientes",
+      "title": "Mas de 3.000 alumnos prometerán lealtad a la Bandera en Corrientes",
+      "volanta": "COSTANERA SUR",
+      "date": "2026-06-20T15:51:27+00:00"
+    },
     {
       "id": "ef5d3c26",
       "image": "img/ef5d3c26.png",
@@ -531,15 +540,6 @@
       "title": "Crece la preocupación por la salud de Jorge, el papá de Lionel Messi",
       "volanta": "HORAS DECISIVAS",
       "date": "2026-06-18T17:28:12+00:00"
-    },
-    {
-      "id": "9ed5e30f",
-      "image": "img/9ed5e30f.png",
-      "image_sha": "d0f84b35add14f0f1d6ab8ef709b9fd0d89991c7",
-      "url": "https://www.radiodos.com.ar/209754-intento-de-femicidio-discutio-con-su-novia-la-rocio-con-alcohol-e-intento-prenderla-fuego",
-      "title": "Intento de femicidio: discutió con su novia, la roció con alcohol e intentó prenderla fuego",
-      "volanta": "SAN JUAN",
-      "date": "2026-06-18T16:42:51+00:00"
     }
   ]
 }
