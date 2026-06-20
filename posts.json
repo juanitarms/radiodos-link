@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-19T22:18:24+00:00",
+  "updated": "2026-06-20T14:48:16+00:00",
   "posts": [
+    {
+      "id": "ee523d96",
+      "image": "img/ee523d96.png",
+      "image_sha": "4345728fea56885cdb65136cfc9fdfae2a0e99d5",
+      "url": "https://www.radiodos.com.ar/209832-un-muerto-tras-choque-entre-motos-en-el-interior-de-corrientes",
+      "title": "Un muerto tras choque entre motos en el interior de Corrientes",
+      "volanta": "3 DE ABRIL",
+      "date": "2026-06-20T14:48:16+00:00"
+    },
     {
       "id": "eeae7947",
       "image": "img/eeae7947.png",
@@ -531,15 +540,6 @@
       "title": "Se realizó el 2° Encuentro de Fortalecimiento Municipal",
       "volanta": "En Virasoro y La Cruz",
       "date": "2026-06-18T16:41:37+00:00"
-    },
-    {
-      "id": "2550349f",
-      "image": "img/2550349f.png",
-      "image_sha": "1886440fe70c4f4189f699c2560b7157794470b9",
-      "url": "https://www.radiodos.com.ar/209749-tres-hombres-demorados-por-trasladar-en-un-freezer-un-ciervo-axis-y-un-chancho-salvaje-sin-autorizacion",
-      "title": "Tres hombres demorados por trasladar en un freezer un ciervo axis y un chancho salvaje sin autorización",
-      "volanta": "SAUCE",
-      "date": "2026-06-18T16:40:59+00:00"
     }
   ]
 }
