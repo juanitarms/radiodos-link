@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T13:33:34+00:00",
+  "updated": "2026-06-21T17:21:17+00:00",
   "posts": [
+    {
+      "id": "ddd1f0a7",
+      "image": "img/ddd1f0a7.png",
+      "image_sha": "be5a518dabab124187adcdfda11abbdbc73d75dc",
+      "url": "https://www.radiodos.com.ar/209852-juanita-tinelli-y-una-contundente-respuesta-a-amalia-granata-la-reaccion-de-paula-robles",
+      "title": "Juanita Tinelli y una contundente respuesta a Amalia Granata: la reacción de Paula Robles",
+      "volanta": "PUSO LÌMITES",
+      "date": "2026-06-21T17:21:17+00:00"
+    },
     {
       "id": "4558ecd1",
       "image": "img/4558ecd1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes en la Rural 2026: convocatoria abierta para emprendedores y empresas",
       "volanta": "FORTALECIMIENTO AL SECTOR",
       "date": "2026-06-18T21:19:18+00:00"
-    },
-    {
-      "id": "61bdec87",
-      "image": "img/61bdec87.png",
-      "image_sha": "a0ddf9a6ccc789c386e449bfeef84cebf666ff09",
-      "url": "https://www.radiodos.com.ar/209765-destacan-como-hito-historico-a-una-cirugia-realizada-en-un-hospital-del-interior-de-corrientes",
-      "title": "Destacan como \"hito histórico\" a una cirugía realizada en un hospital del interior de Corrientes",
-      "volanta": "ORGULLO",
-      "date": "2026-06-18T20:41:05+00:00"
     }
   ]
 }
