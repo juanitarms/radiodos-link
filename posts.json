@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T18:40:07+00:00",
+  "updated": "2026-06-21T19:10:54+00:00",
   "posts": [
+    {
+      "id": "a579c6c1",
+      "image": "img/a579c6c1.png",
+      "image_sha": "414ccbfed0fb13e9f9d7fcfe3b1029a3b7498b86",
+      "url": "https://www.radiodos.com.ar/209862-historico-cerundolo-primer-argentino-campeon-en-queen’s-y-ganador-de-su-primer-atp-500",
+      "title": "Histórico: Cerúndolo, primer argentino campeón en Queen’s y ganador de su primer ATP 500",
+      "volanta": "Tenis",
+      "date": "2026-06-21T19:10:54+00:00"
+    },
     {
       "id": "48ae3bf1",
       "image": "img/48ae3bf1.png",
@@ -531,15 +540,6 @@
       "title": "Quiénes podrían reemplazar a Adorni si deja el Gobierno",
       "volanta": "FUNCIONARIO INVESTIGADO",
       "date": "2026-06-18T21:50:11+00:00"
-    },
-    {
-      "id": "b0ffe597",
-      "image": "img/b0ffe597.png",
-      "image_sha": "375d1166e8a040cd53dec9c1f55618b553b8cb13",
-      "url": "https://www.radiodos.com.ar/209768-fotomultas-en-corrientes-detectaron-mas-de-58-mil-excesos-de-velocidad-en-seis-meses",
-      "title": "Fotomultas en Corrientes: detectaron más de 58 mil excesos de velocidad en seis meses",
-      "volanta": "CONTROL VÍAL",
-      "date": "2026-06-18T21:46:26+00:00"
     }
   ]
 }
