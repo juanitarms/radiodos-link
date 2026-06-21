@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T01:24:03+00:00",
+  "updated": "2026-06-21T01:26:05+00:00",
   "posts": [
+    {
+      "id": "b988bc46",
+      "image": "img/b988bc46.png",
+      "image_sha": "512b5ce03b3c5c0a9bf94fde6c4edc2a6836ba98",
+      "url": "https://www.radiodos.com.ar/209845-murio-roberto-garcia-referente-del-periodismo-politico-y-economico",
+      "title": "Murió Roberto García, referente del periodismo político y económico",
+      "volanta": "LUTO",
+      "date": "2026-06-21T01:26:05+00:00"
+    },
     {
       "id": "f1b245fc",
       "image": "img/f1b245fc.png",
@@ -531,15 +540,6 @@
       "title": "Corredor Belgrano: El Concejo Deliberante acompaña las acciones administrativas y judiciales del Municipio y la Provincia",
       "volanta": "SESIÓN ESTA MAÑANA",
       "date": "2026-06-18T17:31:44+00:00"
-    },
-    {
-      "id": "9bb08dcb",
-      "image": "img/9bb08dcb.png",
-      "image_sha": "943938f6dd79adb3482816263f15410b9248e63c",
-      "url": "https://www.radiodos.com.ar/209759-san-martin-participara-del-torneo-de-la-bandera",
-      "title": "San Martín participará del Torneo de la Bandera",
-      "volanta": "VOLEY",
-      "date": "2026-06-18T17:31:03+00:00"
     }
   ]
 }
