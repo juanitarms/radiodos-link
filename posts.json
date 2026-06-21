@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T19:10:54+00:00",
+  "updated": "2026-06-21T21:23:10+00:00",
   "posts": [
+    {
+      "id": "428f161a",
+      "image": "img/428f161a.png",
+      "image_sha": "a395ba8e0e79b889b84526c484b5c40a762f54bf",
+      "url": "https://www.radiodos.com.ar/209863-dia-del-padre-2026-las-ventas-volvieron-a-caer-y-acumulan-cuatro-anos-consecutivos-en-baja",
+      "title": "Día del Padre 2026: las ventas volvieron a caer y acumulan cuatro años consecutivos en baja",
+      "volanta": "Crisis",
+      "date": "2026-06-21T21:23:10+00:00"
+    },
     {
       "id": "a579c6c1",
       "image": "img/a579c6c1.png",
@@ -531,15 +540,6 @@
       "title": "La pérdida económica que sufrió Luzu TV por la fake news sobre Messi",
       "volanta": "ESCÁNDALO",
       "date": "2026-06-18T22:51:53+00:00"
-    },
-    {
-      "id": "12bf0689",
-      "image": "img/12bf0689.png",
-      "image_sha": "3f92f1372451dd95ebd30b261769d55de0c3a8df",
-      "url": "https://www.radiodos.com.ar/209770-quienes-podrian-reemplazar-a-adorni-si-deja-el-gobierno",
-      "title": "Quiénes podrían reemplazar a Adorni si deja el Gobierno",
-      "volanta": "FUNCIONARIO INVESTIGADO",
-      "date": "2026-06-18T21:50:11+00:00"
     }
   ]
 }
