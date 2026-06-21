@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T13:17:46+00:00",
+  "updated": "2026-06-21T13:23:27+00:00",
   "posts": [
+    {
+      "id": "1b05644e",
+      "image": "img/1b05644e.png",
+      "image_sha": "3d99f44f0fc41def7d993f73333bbf44e0638e7d",
+      "url": "https://www.radiodos.com.ar/209857-exconvicto-detenido-por-llevar-droga-desde-corrientes-hacia-chaco",
+      "title": "Exconvicto detenido por llevar droga desde Corrientes hacia Chaco",
+      "volanta": "ORIUNDO DE FORMOSA",
+      "date": "2026-06-21T13:23:27+00:00"
+    },
     {
       "id": "bf283bd0",
       "image": "img/bf283bd0.png",
@@ -531,15 +540,6 @@
       "title": "Shakira y su presunto nuevo amor: quién es Manuel García-Rulfo, el actor que quedó en el runrún",
       "volanta": "SORPRESA",
       "date": "2026-06-18T19:25:42+00:00"
-    },
-    {
-      "id": "deae0b6f",
-      "image": "img/deae0b6f.png",
-      "image_sha": "e50a6f1a949e6dc2b30b9a75c5290dd08c060c00",
-      "url": "https://www.radiodos.com.ar/209761-congreso-otorgan-un-ano-de-plazo-para-declarar-armas-no-registradas-o-con-documentacion-irregular",
-      "title": "Congreso: otorgan un año de plazo para declarar armas no registradas o con documentación irregular",
-      "volanta": "NORMATIVA",
-      "date": "2026-06-18T18:46:49+00:00"
     }
   ]
 }
