@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T21:35:24+00:00",
+  "updated": "2026-06-21T23:33:48+00:00",
   "posts": [
+    {
+      "id": "db32482f",
+      "image": "img/db32482f.png",
+      "image_sha": "b8f4d98b9177db0c7b509b5965d72b8b405c41ed",
+      "url": "https://www.radiodos.com.ar/209866-14-detenidos-tras-un-allanamiento-con-tiroteo-y-secuestro-de-drogas",
+      "title": "14 detenidos tras un allanamiento con tiroteo y secuestro de drogas",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-21T23:33:48+00:00"
+    },
     {
       "id": "74cb6804",
       "image": "img/74cb6804.png",
@@ -531,15 +540,6 @@
       "title": "Feria de emprendedores con intercambio y sorteos de figuritas",
       "volanta": "EN EL PARQUE MITRE",
       "date": "2026-06-18T22:53:52+00:00"
-    },
-    {
-      "id": "ac31b914",
-      "image": "img/ac31b914.png",
-      "image_sha": "51c02d44f04ab5738b3a765da0238f8e4734febe",
-      "url": "https://www.radiodos.com.ar/209773-ramiro-marra-le-pidio-a-milei-la-renuncia-de-adorni-en-una-carta-abierta",
-      "title": "Ramiro Marra le pidió a Milei la renuncia de Adorni en una carta abierta",
-      "volanta": "INTERNA LIBERTARIA",
-      "date": "2026-06-18T22:52:59+00:00"
     }
   ]
 }
