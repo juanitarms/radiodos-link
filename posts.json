@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T17:21:54+00:00",
+  "updated": "2026-06-21T17:22:28+00:00",
   "posts": [
+    {
+      "id": "13d59f50",
+      "image": "img/13d59f50.png",
+      "image_sha": "4cc2a16760d36a0e46ce8a9bafadc845235cd9a0",
+      "url": "https://www.radiodos.com.ar/209850-que-dice-el-primer-parte-medico-de-fernando-gago-infarto-agudo-al-miocardio",
+      "title": "Qué dice el primer parte médico de Fernando Gago: \"Infarto agudo al miocardio\"",
+      "volanta": "CHILE",
+      "date": "2026-06-21T17:22:28+00:00"
+    },
     {
       "id": "ade1c30f",
       "image": "img/ade1c30f.png",
@@ -531,15 +540,6 @@
       "title": "Tras la fake news de Jorge Messi, Luzu echó a \"todos los responsables\" y Flor Peña decidió renunciar al programa",
       "volanta": "ESCÁNDALO",
       "date": "2026-06-18T21:34:36+00:00"
-    },
-    {
-      "id": "79ee03db",
-      "image": "img/79ee03db.png",
-      "image_sha": "bb7488f9bf477c6fe004f208c2b30f47e39b1be7",
-      "url": "https://www.radiodos.com.ar/209767-la-feria-provincial-del-libro-une-pasion-por-la-lectura-con-espiritu-mundialista",
-      "title": "La Feria Provincial del Libro une pasión por la lectura con espíritu mundialista",
-      "volanta": "\"Historias para alentar\"",
-      "date": "2026-06-18T21:21:17+00:00"
     }
   ]
 }
