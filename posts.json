@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T01:23:05+00:00",
+  "updated": "2026-06-21T01:24:03+00:00",
   "posts": [
+    {
+      "id": "f1b245fc",
+      "image": "img/f1b245fc.png",
+      "image_sha": "6d1ca1a91ca187b7d784b49437d4b770b3f15b03",
+      "url": "https://www.radiodos.com.ar/209838-gonzalo-montiel-se-lesiono-y-no-podria-jugar-ante-austria",
+      "title": "Gonzalo Montiel se lesionó y no podría jugar ante Austria",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-21T01:24:03+00:00"
+    },
     {
       "id": "47d6a0e2",
       "image": "img/47d6a0e2.png",
@@ -531,15 +540,6 @@
       "title": "San Martín participará del Torneo de la Bandera",
       "volanta": "VOLEY",
       "date": "2026-06-18T17:31:03+00:00"
-    },
-    {
-      "id": "9d99abe7",
-      "image": "img/9d99abe7.png",
-      "image_sha": "adbbe18b883fd250932e9b42e0c6cf115c98b980",
-      "url": "https://www.radiodos.com.ar/209756-paso-de-los-libres-la-cnrt-participo-de-una-reunion-bilateral-con-brasil",
-      "title": "Paso de los Libres: La CNRT participó de una reunión bilateral con Brasil",
-      "volanta": "CONTROLES INTERNACIONALES",
-      "date": "2026-06-18T17:30:28+00:00"
     }
   ]
 }
