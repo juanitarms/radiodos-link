@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T01:10:54+00:00",
+  "updated": "2026-06-21T01:23:05+00:00",
   "posts": [
+    {
+      "id": "47d6a0e2",
+      "image": "img/47d6a0e2.png",
+      "image_sha": "70a9dfe5dfd6ee9a0d70639670604527a2092f97",
+      "url": "https://www.radiodos.com.ar/209834-victoria-villarruel-no-hay-nadie-mas-peleado-con-los-valores-de-belgrano-que-adorni",
+      "title": "“no hay nadie más peleado con los valores de belgrano que adorni”",
+      "volanta": "victoria villaruel",
+      "date": "2026-06-21T01:23:05+00:00"
+    },
     {
       "id": "343f0521",
       "image": "img/343f0521.png",
@@ -531,15 +540,6 @@
       "title": "Paso de los Libres: La CNRT participó de una reunión bilateral con Brasil",
       "volanta": "CONTROLES INTERNACIONALES",
       "date": "2026-06-18T17:30:28+00:00"
-    },
-    {
-      "id": "06e733ed",
-      "image": "img/06e733ed.png",
-      "image_sha": "4bf04798a00ca5688531388e9fb5e85259a4bcb2",
-      "url": "https://www.radiodos.com.ar/209755-la-cabala-que-los-hinchas-le-pidieron-a-maxi-lopez-para-el-proximo-partido-de-la-seleccion",
-      "title": "La cábala que los hinchas le pidieron a Maxi López para el próximo partido de la Selección",
-      "volanta": "¿HARÁ LO MISMO?",
-      "date": "2026-06-18T17:29:55+00:00"
     }
   ]
 }
