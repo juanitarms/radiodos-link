@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T21:23:10+00:00",
+  "updated": "2026-06-21T21:35:24+00:00",
   "posts": [
+    {
+      "id": "74cb6804",
+      "image": "img/74cb6804.png",
+      "image_sha": "00eb2e83fb1c487e3757bbf30410be90d656c233",
+      "url": "https://www.radiodos.com.ar/209864-leon-xiv-en-argentina-crece-la-expectativa-por-una-visita-historica-y-ya-analizan-posibles-recorridos",
+      "title": "León XIV en Argentina: crece la expectativa por una visita histórica y ya analizan posibles recorridos",
+      "volanta": "Catolicismo",
+      "date": "2026-06-21T21:35:24+00:00"
+    },
     {
       "id": "428f161a",
       "image": "img/428f161a.png",
@@ -531,15 +540,6 @@
       "title": "Ramiro Marra le pidió a Milei la renuncia de Adorni en una carta abierta",
       "volanta": "INTERNA LIBERTARIA",
       "date": "2026-06-18T22:52:59+00:00"
-    },
-    {
-      "id": "31a453e7",
-      "image": "img/31a453e7.png",
-      "image_sha": "31990107886a2e13e51057921be337cae0f84bcf",
-      "url": "https://www.radiodos.com.ar/209772-la-perdida-economica-que-sufrio-luzu-tv-por-la-fake-news-sobre-messi",
-      "title": "La pérdida económica que sufrió Luzu TV por la fake news sobre Messi",
-      "volanta": "ESCÁNDALO",
-      "date": "2026-06-18T22:51:53+00:00"
     }
   ]
 }
