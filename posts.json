@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T17:22:28+00:00",
+  "updated": "2026-06-21T18:40:07+00:00",
   "posts": [
+    {
+      "id": "48ae3bf1",
+      "image": "img/48ae3bf1.png",
+      "image_sha": "521ec8575dba1e56e540d933763e64585e41a44c",
+      "url": "https://www.radiodos.com.ar/209861-corrientes-se-viene-un-inicio-de-semana-inestable-y-un-marcado-descenso-de-temperatura",
+      "title": "Corrientes: Se viene un inicio de semana inestable y un marcado descenso de temperatura",
+      "volanta": "Pronóstico",
+      "date": "2026-06-21T18:40:07+00:00"
+    },
     {
       "id": "13d59f50",
       "image": "img/13d59f50.png",
@@ -531,15 +540,6 @@
       "title": "Fotomultas en Corrientes: detectaron más de 58 mil excesos de velocidad en seis meses",
       "volanta": "CONTROL VÍAL",
       "date": "2026-06-18T21:46:26+00:00"
-    },
-    {
-      "id": "ba63e3fa",
-      "image": "img/ba63e3fa.png",
-      "image_sha": "e19a35a81db20eea41bb5b3f2890a80113fca9a2",
-      "url": "https://www.radiodos.com.ar/209769-tras-la-fake-news-de-jorge-messi-luzu-echo-a-todos-los-responsables-y-flor-pena-decidio-renunciar-al-programa",
-      "title": "Tras la fake news de Jorge Messi, Luzu echó a \"todos los responsables\" y Flor Peña decidió renunciar al programa",
-      "volanta": "ESCÁNDALO",
-      "date": "2026-06-18T21:34:36+00:00"
     }
   ]
 }
