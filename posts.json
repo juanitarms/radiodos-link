@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T17:21:17+00:00",
+  "updated": "2026-06-21T17:21:54+00:00",
   "posts": [
+    {
+      "id": "ade1c30f",
+      "image": "img/ade1c30f.png",
+      "image_sha": "846cebcd5a9336b4a7e30d0e6cb93a69dd58617d",
+      "url": "https://www.radiodos.com.ar/209851-mario-pergolini-reflexiono-sobre-lo-sucedido-entre-flor-pena-y-sus-productores-yo-tambien-los-entrego",
+      "title": "Mario Pergolini reflexionó sobre lo sucedido entre Flor Peña y sus productores: \"Yo también los entrego\"",
+      "volanta": "FAKE NEWS",
+      "date": "2026-06-21T17:21:54+00:00"
+    },
     {
       "id": "ddd1f0a7",
       "image": "img/ddd1f0a7.png",
@@ -531,15 +540,6 @@
       "title": "La Feria Provincial del Libro une pasión por la lectura con espíritu mundialista",
       "volanta": "\"Historias para alentar\"",
       "date": "2026-06-18T21:21:17+00:00"
-    },
-    {
-      "id": "eaa94346",
-      "image": "img/eaa94346.png",
-      "image_sha": "9a66146f49421c48a904961647dd87b42f39c7a6",
-      "url": "https://www.radiodos.com.ar/209766-corrientes-en-la-rural-2026-convocatoria-abierta-para-emprendedores-y-empresas",
-      "title": "Corrientes en la Rural 2026: convocatoria abierta para emprendedores y empresas",
-      "volanta": "FORTALECIMIENTO AL SECTOR",
-      "date": "2026-06-18T21:19:18+00:00"
     }
   ]
 }
