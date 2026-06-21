@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T13:10:32+00:00",
+  "updated": "2026-06-21T13:17:46+00:00",
   "posts": [
+    {
+      "id": "bf283bd0",
+      "image": "img/bf283bd0.png",
+      "image_sha": "fa035330f9ef169af82081ea5a49bc19873ff948",
+      "url": "https://www.radiodos.com.ar/209856-corrientes-valdes-recibira-a-funcionarios-nacionales-para-recorrer-la-autovia",
+      "title": "Corrientes: Valdés recibirá a funcionarios nacionales para recorrer la autovía",
+      "volanta": "POLÍTICA",
+      "date": "2026-06-21T13:17:46+00:00"
+    },
     {
       "id": "9583cb81",
       "image": "img/9583cb81.png",
@@ -531,15 +540,6 @@
       "title": "Congreso: otorgan un año de plazo para declarar armas no registradas o con documentación irregular",
       "volanta": "NORMATIVA",
       "date": "2026-06-18T18:46:49+00:00"
-    },
-    {
-      "id": "3900a4af",
-      "image": "img/3900a4af.png",
-      "image_sha": "544608f2a7fa7920bffb53a9c630e527571982bb",
-      "url": "https://www.radiodos.com.ar/209763-el-comunicado-de-la-familia-messi-sobre-el-estado-de-salud-de-jorge",
-      "title": "El comunicado de la familia Messi sobre el estado de salud de Jorge",
-      "volanta": "TRAS RUMORES",
-      "date": "2026-06-18T17:32:18+00:00"
     }
   ]
 }
