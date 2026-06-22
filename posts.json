@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T12:55:15+00:00",
+  "updated": "2026-06-22T13:16:58+00:00",
   "posts": [
+    {
+      "id": "c283efa5",
+      "image": "img/c283efa5.png",
+      "image_sha": "47a3bb0135962c5e97f447d028e005d726b47199",
+      "url": "https://www.radiodos.com.ar/209873-denuncia-por-desaparicion-buscan-a-una-joven-de-17-anos",
+      "title": "Denuncia por desaparición: buscan a una joven de 17 años",
+      "volanta": "Capital",
+      "date": "2026-06-22T13:16:58+00:00"
+    },
     {
       "id": "08ccafc0",
       "image": "img/08ccafc0.png",
@@ -531,15 +540,6 @@
       "title": "El consumo cayó por sexto mes consecutivo",
       "volanta": "ECONOMÍA",
       "date": "2026-06-19T13:32:05+00:00"
-    },
-    {
-      "id": "d01fb12a",
-      "image": "img/d01fb12a.png",
-      "image_sha": "76bd17e94d8b9f0a9b503c78e2ee4cf1ac10669c",
-      "url": "https://www.radiodos.com.ar/209787-si-te-metes-con-messi-javier-milei-reaparece-en-redes-por-el-escandalo-de-luzu",
-      "title": "\"Si te metés con Messi...\": Javier Milei reaparece en redes por el escándalo de Luzu",
-      "volanta": "EN REDES SOCIALES",
-      "date": "2026-06-19T13:19:32+00:00"
     }
   ]
 }
