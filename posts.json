@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T14:57:59+00:00",
+  "updated": "2026-06-22T19:44:37+00:00",
   "posts": [
+    {
+      "id": "ee755e1c",
+      "image": "img/ee755e1c.png",
+      "image_sha": "2f7f0fa4385df9b8845d82c5aaa6da2a5ad7b9ed",
+      "url": "https://www.radiodos.com.ar/209910-argentina-vs-austria-doblete-de-lionel-messi-para-el-2-0",
+      "title": "Argentina vs. Austria: doblete de Lionel Messi para el 2-0",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-22T19:44:37+00:00"
+    },
     {
       "id": "f53d1a71",
       "image": "img/f53d1a71.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés sobre regalías: \"Si a todos le pagan la Coca Cola por qué a nosotros nos pagan menos\"",
       "volanta": "RECLAMO CONTINUO",
       "date": "2026-06-19T16:19:27+00:00"
-    },
-    {
-      "id": "0e5d2df3",
-      "image": "img/0e5d2df3.png",
-      "image_sha": "12921581179f4552bb265de707c7173831534d09",
-      "url": "https://www.radiodos.com.ar/209798-hablo-jorge-el-papa-de-lionel-messi-que-quilombo-que-arme",
-      "title": "Habló Jorge, el papá de Lionel Messi: \"Qué quilombo que armé\"",
-      "volanta": "TRAS LA FAKE NEWS",
-      "date": "2026-06-19T16:18:50+00:00"
     }
   ]
 }
