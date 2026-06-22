@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T12:05:03+00:00",
+  "updated": "2026-06-22T12:21:47+00:00",
   "posts": [
+    {
+      "id": "d6eb0c58",
+      "image": "img/d6eb0c58.png",
+      "image_sha": "d95d592b168d76865d4d31cce7b24679e99d8160",
+      "url": "https://www.radiodos.com.ar/209875-ingeniera-agronoma-estudia-como-los-incendios-afectan-al-suelo-y-su-capacidad-de-recuperacion",
+      "title": "Ingeniera Agrónoma estudia cómo los incendios afectan al suelo y su capacidad de recuperación",
+      "volanta": "Nuevos Conocimientos",
+      "date": "2026-06-22T12:21:47+00:00"
+    },
     {
       "id": "1ecef25e",
       "image": "img/1ecef25e.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y Paso de la Patria",
       "volanta": "ESTE VIERNES",
       "date": "2026-06-19T12:21:30+00:00"
-    },
-    {
-      "id": "660e47b4",
-      "image": "img/660e47b4.png",
-      "image_sha": "4a693328c21e30c30c49bded09a7106d9727f991",
-      "url": "https://www.radiodos.com.ar/209780-con-apoyo-del-gobierno-provincial-corrientes-recibira-el-raid-nautico-de-las-americas",
-      "title": "Con apoyo del Gobierno provincial, Corrientes recibirá el Raid Náutico de las Américas",
-      "volanta": "TURISMO Y DEPORTE",
-      "date": "2026-06-19T12:08:54+00:00"
     }
   ]
 }
