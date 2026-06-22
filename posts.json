@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T11:19:43+00:00",
+  "updated": "2026-06-22T11:36:33+00:00",
   "posts": [
+    {
+      "id": "b9f53574",
+      "image": "img/b9f53574.png",
+      "image_sha": "4920d36a486c8c6ede9e03769460c5e88b8a372b",
+      "url": "https://www.radiodos.com.ar/209871-manana-comienza-el-pago-del-plus-especial-a-empleados-municipales",
+      "title": "Mañana comienza el pago del Plus Especial a empleados municipales",
+      "volanta": "HASTA EL JUEVES 25",
+      "date": "2026-06-22T11:36:33+00:00"
+    },
     {
       "id": "691f88ae",
       "image": "img/691f88ae.png",
@@ -531,15 +540,6 @@
       "title": "Eduardo Vischi: \"Adorni no solo debe renunciar, sino que el Presidente debería sacarlo del cargo\"",
       "volanta": "POLÉMICA NACIONAL",
       "date": "2026-06-19T11:32:16+00:00"
-    },
-    {
-      "id": "df8ce57f",
-      "image": "img/df8ce57f.png",
-      "image_sha": "8075b8e580ad012ad45f6e227230923990252223",
-      "url": "https://www.radiodos.com.ar/209779-cayeron-dos-hermanos-que-distribuian-droga-en-un-barrio-de-corrientes",
-      "title": "Cayeron dos hermanos que distribuían droga en un barrio de Corrientes",
-      "volanta": "OTRO KIOSCO NARCO",
-      "date": "2026-06-19T11:04:57+00:00"
     }
   ]
 }
