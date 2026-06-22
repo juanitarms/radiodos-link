@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T23:03:32+00:00",
+  "updated": "2026-06-22T23:05:08+00:00",
   "posts": [
+    {
+      "id": "8f97926f",
+      "image": "img/8f97926f.png",
+      "image_sha": "5dde3e71238e7bcd84f98d925b80021da45221a4",
+      "url": "https://www.radiodos.com.ar/209926-las-economias-regionales-de-corrientes-no-logran-salir-de-la-crisis",
+      "title": "Las economías regionales de Corrientes no logran salir de la crisis",
+      "volanta": "informe de CONINAGRO",
+      "date": "2026-06-22T23:05:08+00:00"
+    },
     {
       "id": "c2fd3549",
       "image": "img/c2fd3549.png",
@@ -531,15 +540,6 @@
       "title": "Responsabilidad Fiscal: Corrientes participó de la reunión encabezada por el ministro Caputo",
       "volanta": "ENCUENTRO EN PARANÁ, ENTRE RÍOS",
       "date": "2026-06-19T18:46:22+00:00"
-    },
-    {
-      "id": "3a08d81d",
-      "image": "img/3a08d81d.png",
-      "image_sha": "b22a37fe18918a6a7ac265af5918c887bbab0eaa",
-      "url": "https://www.radiodos.com.ar/209807-la-municipalidad-propone-un-fin-de-semana-con-festejos-y-actividades-en-honor-a-papa",
-      "title": "La Municipalidad propone un fin de semana con festejos y actividades en honor a Papá",
-      "volanta": "PROPUESTAS GRATUITAS PARA DISFRUTAR EN LA CIUDAD",
-      "date": "2026-06-19T18:45:49+00:00"
     }
   ]
 }
