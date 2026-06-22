@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T23:33:48+00:00",
+  "updated": "2026-06-22T00:26:22+00:00",
   "posts": [
+    {
+      "id": "c42bef77",
+      "image": "img/c42bef77.png",
+      "image_sha": "43b0c8a27297a83a8b1a3537a88e26f753f213ca",
+      "url": "https://www.radiodos.com.ar/209867-corrientes-registra-una-de-las-mayores-brechas-de-internet-rural-del-pais",
+      "title": "Corrientes registra una de las mayores brechas de internet rural del país",
+      "volanta": "Informe",
+      "date": "2026-06-22T00:26:22+00:00"
+    },
     {
       "id": "db32482f",
       "image": "img/db32482f.png",
@@ -531,15 +540,6 @@
       "title": "Boca confirmó la llegada de Arruabarrena como nuevo entrenador",
       "volanta": "OFICIAL",
       "date": "2026-06-18T23:18:08+00:00"
-    },
-    {
-      "id": "b3c31612",
-      "image": "img/b3c31612.png",
-      "image_sha": "e921fdfcdc4afc6bc6d65aec8686a80357ba0e1a",
-      "url": "https://www.radiodos.com.ar/209771-feria-de-emprendedores-con-intercambio-y-sorteos-de-figuritas",
-      "title": "Feria de emprendedores con intercambio y sorteos de figuritas",
-      "volanta": "EN EL PARQUE MITRE",
-      "date": "2026-06-18T22:53:52+00:00"
     }
   ]
 }
