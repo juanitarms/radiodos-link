@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T13:16:58+00:00",
+  "updated": "2026-06-22T13:28:45+00:00",
   "posts": [
+    {
+      "id": "37f6b57f",
+      "image": "img/37f6b57f.png",
+      "image_sha": "dca27a99a3ee1bf3fd8622f9dc1e84028b363e98",
+      "url": "https://www.radiodos.com.ar/209884-javier-milei-abrio-las-puertas-a-una-nueva-toma-de-deuda-por-hasta-5-mil-millones-de-dolares-adicionales",
+      "title": "Javier Milei abrió las puertas a una nueva toma de deuda por hasta 5 mil millones de dólares adicionales",
+      "volanta": "ECONOMÍA",
+      "date": "2026-06-22T13:28:45+00:00"
+    },
     {
       "id": "c283efa5",
       "image": "img/c283efa5.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno creó un nuevo programa de seguridad para reforzar los controles migratorios",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-06-19T13:48:46+00:00"
-    },
-    {
-      "id": "b8fc88a9",
-      "image": "img/b8fc88a9.png",
-      "image_sha": "ea316e258ffb69c9c4840e48c651b74bd27c283e",
-      "url": "https://www.radiodos.com.ar/209788-el-consumo-cayo-por-sexto-mes-consecutivo",
-      "title": "El consumo cayó por sexto mes consecutivo",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-19T13:32:05+00:00"
     }
   ]
 }
