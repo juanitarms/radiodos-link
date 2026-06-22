@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T22:56:37+00:00",
+  "updated": "2026-06-22T22:57:18+00:00",
   "posts": [
+    {
+      "id": "87418ee2",
+      "image": "img/87418ee2.png",
+      "image_sha": "3d3ec701c3173ccaa60a0eb6c5d66148b7a7915c",
+      "url": "https://www.radiodos.com.ar/209923-la-justicia-intimo-a-jesica-cirio-a-que-entregue-su-celular-por-la-causa-que-involucra-a-insaurralde",
+      "title": "La Justicia intimó a Jésica Cirio a que entregue su celular por la causa que involucra a Insaurralde",
+      "volanta": "presunto enriquecimiento ilícito",
+      "date": "2026-06-22T22:57:18+00:00"
+    },
     {
       "id": "26149d96",
       "image": "img/26149d96.png",
@@ -531,15 +540,6 @@
       "title": "Un nene de dos años murió por una fractura de cráneo: detuvieron a su madre y padrastro",
       "volanta": "MERLO",
       "date": "2026-06-19T18:45:10+00:00"
-    },
-    {
-      "id": "8e0cd7fe",
-      "image": "img/8e0cd7fe.png",
-      "image_sha": "ae39e53282562854e28130be4fd407c63b0b47c0",
-      "url": "https://www.radiodos.com.ar/209806-este-martes-23-se-inicia-el-pago-del-plus-especial-a-municipales",
-      "title": "Este martes 23 se inicia el pago del plus especial a municipales",
-      "volanta": "CRONOGRAMA",
-      "date": "2026-06-19T17:18:39+00:00"
     }
   ]
 }
