@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T13:28:45+00:00",
+  "updated": "2026-06-22T13:38:49+00:00",
   "posts": [
+    {
+      "id": "62e91ab1",
+      "image": "img/62e91ab1.png",
+      "image_sha": "932ef0977b6a0575df67bc35e1ce410a7c5a8d57",
+      "url": "https://www.radiodos.com.ar/209876-el-fan-fest-municipal-llega-al-barrio-17-de-agosto-tras-una-exitosa-primera-edicion",
+      "title": "El Fan Fest municipal llega al barrio 17 de Agosto tras una exitosa primera edición",
+      "volanta": "TODOS A ALENTAR A LA SELECCIÓN",
+      "date": "2026-06-22T13:38:49+00:00"
+    },
     {
       "id": "37f6b57f",
       "image": "img/37f6b57f.png",
@@ -531,15 +540,6 @@
       "title": "El inesperado mensaje de Celia, la mamá de Messi, a Florencia Peña tras su error",
       "volanta": "TRAS EL ESCÁNDALO",
       "date": "2026-06-19T14:03:54+00:00"
-    },
-    {
-      "id": "077fdce4",
-      "image": "img/077fdce4.png",
-      "image_sha": "d1fbd6b0a371e593a32aec2adaae560f6ebd7c2c",
-      "url": "https://www.radiodos.com.ar/209792-el-gobierno-creo-un-nuevo-programa-de-seguridad-para-reforzar-los-controles-migratorios",
-      "title": "El Gobierno creó un nuevo programa de seguridad para reforzar los controles migratorios",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-06-19T13:48:46+00:00"
     }
   ]
 }
