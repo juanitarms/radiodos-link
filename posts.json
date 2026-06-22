@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T11:36:33+00:00",
+  "updated": "2026-06-22T12:05:03+00:00",
   "posts": [
+    {
+      "id": "1ecef25e",
+      "image": "img/1ecef25e.png",
+      "image_sha": "715a67c44647dffd913443d26699e394b8b50b95",
+      "url": "https://www.radiodos.com.ar/209874-corrientes-fue-clave-en-el-record-de-donacion-de-organos-del-pais",
+      "title": "Corrientes fue clave en el récord de donación de órganos del país",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-06-22T12:05:03+00:00"
+    },
     {
       "id": "b9f53574",
       "image": "img/b9f53574.png",
@@ -531,15 +540,6 @@
       "title": "Con apoyo del Gobierno provincial, Corrientes recibirá el Raid Náutico de las Américas",
       "volanta": "TURISMO Y DEPORTE",
       "date": "2026-06-19T12:08:54+00:00"
-    },
-    {
-      "id": "c7ef9bd4",
-      "image": "img/c7ef9bd4.png",
-      "image_sha": "fc996d095455bee27df8a5759081b48beac24e12",
-      "url": "https://www.radiodos.com.ar/209778-eduardo-vischi-adorni-no-solo-debe-renunciar-sino-que-el-presidente-deberia-sacarlo-del-cargo",
-      "title": "Eduardo Vischi: \"Adorni no solo debe renunciar, sino que el Presidente debería sacarlo del cargo\"",
-      "volanta": "POLÉMICA NACIONAL",
-      "date": "2026-06-19T11:32:16+00:00"
     }
   ]
 }
