@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T20:20:38+00:00",
+  "updated": "2026-06-22T21:42:41+00:00",
   "posts": [
+    {
+      "id": "e593ec8c",
+      "image": "img/e593ec8c.png",
+      "image_sha": "8f8c4551075110f2c29b9fd765e8cd67953771a3",
+      "url": "https://www.radiodos.com.ar/209917-scaloni-a-los-pies-de-messi-es-impresionante-ya-no-se-que-decir",
+      "title": "Scaloni, a los pies de Messi: \"Es impresionante; ya no sé qué decir\"",
+      "volanta": "mundial 2026",
+      "date": "2026-06-22T21:42:41+00:00"
+    },
     {
       "id": "394e84b1",
       "image": "img/394e84b1.png",
@@ -531,15 +540,6 @@
       "title": "Nico Occhiato rompió el silencio tras el escándalo en Luzu TV y se quejó de \"la divulgación de más fake news\"",
       "volanta": "MOLESTO",
       "date": "2026-06-19T16:20:29+00:00"
-    },
-    {
-      "id": "df052032",
-      "image": "img/df052032.png",
-      "image_sha": "3e3dc39e137e0d829647fb84c2333980674b51e4",
-      "url": "https://www.radiodos.com.ar/209803-a-nosotros-no-nos-paso-nada-migue-granados-opino-sobre-el-escandalo-de-luzu-tv",
-      "title": "\"A nosotros no nos pasó nada\": Migue Granados opinó sobre el escándalo de Luzu TV",
-      "volanta": "TRAS LA FAKE NEWS",
-      "date": "2026-06-19T16:19:58+00:00"
     }
   ]
 }
