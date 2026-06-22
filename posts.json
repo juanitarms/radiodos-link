@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T12:21:47+00:00",
+  "updated": "2026-06-22T12:46:38+00:00",
   "posts": [
+    {
+      "id": "4ba68bff",
+      "image": "img/4ba68bff.png",
+      "image_sha": "7000b222bc23e9fc0015b45a53cda1eb11aefe9f",
+      "url": "https://www.radiodos.com.ar/209880-scaloni-bajo-la-tension-y-respaldo-a-ancelotti-tras-sus-dichos-sobre-la-seleccion-argentina",
+      "title": "Scaloni bajó la tensión y respaldó a Ancelotti tras sus dichos sobre la Selección Argentina",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-22T12:46:38+00:00"
+    },
     {
       "id": "d6eb0c58",
       "image": "img/d6eb0c58.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fortalece la integración regional con Paraguay a través de una alianza estratégica",
       "volanta": "Innovación y el comercio digital",
       "date": "2026-06-19T13:04:21+00:00"
-    },
-    {
-      "id": "df25f048",
-      "image": "img/df25f048.png",
-      "image_sha": "b55701057ca7678bd342c2315e1546ef317994c6",
-      "url": "https://www.radiodos.com.ar/209782-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-paso-de-la-patria",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y Paso de la Patria",
-      "volanta": "ESTE VIERNES",
-      "date": "2026-06-19T12:21:30+00:00"
     }
   ]
 }
