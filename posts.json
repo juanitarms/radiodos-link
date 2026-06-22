@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T14:12:42+00:00",
+  "updated": "2026-06-22T14:26:17+00:00",
   "posts": [
+    {
+      "id": "0b7d91a7",
+      "image": "img/0b7d91a7.png",
+      "image_sha": "b988a0f295bb47f4f8987db1e671a61b3a7fdba7",
+      "url": "https://www.radiodos.com.ar/209885-la-anmat-prohibio-una-serie-de-cremas-humectantes-y-autobronceantes-cuales-no-comprar",
+      "title": "La ANMAT prohibió una serie de cremas humectantes y autobronceantes: cuáles no comprar",
+      "volanta": "OFICIAL",
+      "date": "2026-06-22T14:26:17+00:00"
+    },
     {
       "id": "9f594605",
       "image": "img/9f594605.png",
@@ -531,15 +540,6 @@
       "title": "Cayó en Chaco una joven acusada por estafas millonarias contra jubilados de Corrientes",
       "volanta": "BUSCADA HACE TIEMPO",
       "date": "2026-06-19T15:04:20+00:00"
-    },
-    {
-      "id": "6a5aa020",
-      "image": "img/6a5aa020.png",
-      "image_sha": "a72aa16091afa3c1ebeb7927ffeb9d31b1c97b73",
-      "url": "https://www.radiodos.com.ar/209795-javier-milei-actualizo-un-21-el-nomenclador-nacional-de-discapacidad-pero-sigue-sin-cumplir-con-la-ley",
-      "title": "Javier Milei actualizó un 2,1% el nomenclador nacional de discapacidad pero sigue sin cumplir con la ley",
-      "volanta": "NOVEDAD",
-      "date": "2026-06-19T14:37:38+00:00"
     }
   ]
 }
