@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T12:46:38+00:00",
+  "updated": "2026-06-22T12:55:15+00:00",
   "posts": [
+    {
+      "id": "08ccafc0",
+      "image": "img/08ccafc0.png",
+      "image_sha": "93629592efc9549882ae7aa55f8bdcb9708a3a51",
+      "url": "https://www.radiodos.com.ar/209881-el-dt-de-austria-elogio-a-argentina-tenemos-que-mostrar-la-mejor-actuacion-de-mi-ciclo",
+      "title": "El DT de Austria elogió a Argentina: \"Tenemos que mostrar la mejor actuación de mi ciclo\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-22T12:55:15+00:00"
+    },
     {
       "id": "4ba68bff",
       "image": "img/4ba68bff.png",
@@ -531,15 +540,6 @@
       "title": "\"Si te metés con Messi...\": Javier Milei reaparece en redes por el escándalo de Luzu",
       "volanta": "EN REDES SOCIALES",
       "date": "2026-06-19T13:19:32+00:00"
-    },
-    {
-      "id": "f1898b67",
-      "image": "img/f1898b67.png",
-      "image_sha": "db11ef6705f5dca6d5c93aadb434e248b27f3d0d",
-      "url": "https://www.radiodos.com.ar/209785-corrientes-fortalece-la-integracion-regional-con-paraguay-a-traves-de-una-alianza-estrategica",
-      "title": "Corrientes fortalece la integración regional con Paraguay a través de una alianza estratégica",
-      "volanta": "Innovación y el comercio digital",
-      "date": "2026-06-19T13:04:21+00:00"
     }
   ]
 }
