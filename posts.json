@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T21:55:09+00:00",
+  "updated": "2026-06-22T22:56:37+00:00",
   "posts": [
+    {
+      "id": "26149d96",
+      "image": "img/26149d96.png",
+      "image_sha": "ac3bc80a9e631b5d23656cf80c83321a327df17e",
+      "url": "https://www.radiodos.com.ar/209922-regatas-oficializo-a-su-nuevo-entrenador-para-la-liga-nacional",
+      "title": "Regatas oficializó a su nuevo entrenador para la Liga Nacional",
+      "volanta": "ARMADO DEL EQUIPO",
+      "date": "2026-06-22T22:56:37+00:00"
+    },
     {
       "id": "3d669538",
       "image": "img/3d669538.png",
@@ -531,15 +540,6 @@
       "title": "Este martes 23 se inicia el pago del plus especial a municipales",
       "volanta": "CRONOGRAMA",
       "date": "2026-06-19T17:18:39+00:00"
-    },
-    {
-      "id": "46c3e920",
-      "image": "img/46c3e920.png",
-      "image_sha": "903c1f58faa451d90600a19545f2708fab94211f",
-      "url": "https://www.radiodos.com.ar/209804-ronda-de-negocios-para-potenciar-las-industrias-creativas-de-todo-el-pais",
-      "title": "Ronda de Negocios para potenciar las industrias creativas de todo el país",
-      "volanta": "ACOMPAÑAMIENTO",
-      "date": "2026-06-19T17:18:05+00:00"
     }
   ]
 }
