@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T10:33:38+00:00",
+  "updated": "2026-06-22T11:03:34+00:00",
   "posts": [
+    {
+      "id": "69a210f7",
+      "image": "img/69a210f7.png",
+      "image_sha": "f3503fa02969624388bdd369bc9b30780eb564cd",
+      "url": "https://www.radiodos.com.ar/209869-mundial-2026-argentina-enfrenta-a-austria-y-busca-su-pasaje-a-16vos",
+      "title": "Mundial  2026: Argentina enfrenta a Austria y busca su pasaje a 16vos",
+      "volanta": "A LAS 14",
+      "date": "2026-06-22T11:03:34+00:00"
+    },
     {
       "id": "460486dc",
       "image": "img/460486dc.png",
@@ -531,15 +540,6 @@
       "title": "Allanaron hogar de ancianos tras la muerte de un adulto mayor en el interior de Corrientes",
       "volanta": "SAUCE",
       "date": "2026-06-19T10:55:34+00:00"
-    },
-    {
-      "id": "e06904d6",
-      "image": "img/e06904d6.png",
-      "image_sha": "dc872a29951810986d364ff318d652c7d491f875",
-      "url": "https://www.radiodos.com.ar/209775-avanzan-las-obras-en-el-centro-de-transferencia-de-residuos-del-pirayui-para-optimizar-la-recoleccion",
-      "title": "Avanzan las obras en el Centro de Transferencia de Residuos del Pirayuí para optimizar la recolección",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-18T23:19:48+00:00"
     }
   ]
 }
