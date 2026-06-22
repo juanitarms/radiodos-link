@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T11:03:34+00:00",
+  "updated": "2026-06-22T11:19:43+00:00",
   "posts": [
+    {
+      "id": "691f88ae",
+      "image": "img/691f88ae.png",
+      "image_sha": "fcda5c0e31b838ae2ee1f32cdc3a08b0604658c4",
+      "url": "https://www.radiodos.com.ar/209872-confuso-episodio-en-una-plaza-de-corrientes-una-discusion-termino-a-los-tiros",
+      "title": "Confuso episodio en una plaza de Corrientes: una discusión terminó a los tiros",
+      "volanta": "ZONA CALIENTE",
+      "date": "2026-06-22T11:19:43+00:00"
+    },
     {
       "id": "69a210f7",
       "image": "img/69a210f7.png",
@@ -531,15 +540,6 @@
       "title": "Cayeron dos hermanos que distribuían droga en un barrio de Corrientes",
       "volanta": "OTRO KIOSCO NARCO",
       "date": "2026-06-19T11:04:57+00:00"
-    },
-    {
-      "id": "4bd7bff9",
-      "image": "img/4bd7bff9.png",
-      "image_sha": "b05a4912ca5598266d8c8ce6f17b388697ccc882",
-      "url": "https://www.radiodos.com.ar/209777-allanaron-hogar-de-ancianos-tras-la-muerte-de-un-adulto-mayor-en-el-interior-de-corrientes",
-      "title": "Allanaron hogar de ancianos tras la muerte de un adulto mayor en el interior de Corrientes",
-      "volanta": "SAUCE",
-      "date": "2026-06-19T10:55:34+00:00"
     }
   ]
 }
