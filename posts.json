@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T13:55:56+00:00",
+  "updated": "2026-06-22T14:12:42+00:00",
   "posts": [
+    {
+      "id": "9f594605",
+      "image": "img/9f594605.png",
+      "image_sha": "ef3f79095dfb64bf94f47e029393f9a5a7ddd198",
+      "url": "https://www.radiodos.com.ar/209888-el-gesto-de-diego-godin-que-sacude-a-uruguay-en-pleno-mundial-2026",
+      "title": "El gesto de Diego Godín que sacude a Uruguay en pleno Mundial 2026",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-22T14:12:42+00:00"
+    },
     {
       "id": "fe36349d",
       "image": "img/fe36349d.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei actualizó un 2,1% el nomenclador nacional de discapacidad pero sigue sin cumplir con la ley",
       "volanta": "NOVEDAD",
       "date": "2026-06-19T14:37:38+00:00"
-    },
-    {
-      "id": "78f9e648",
-      "image": "img/78f9e648.png",
-      "image_sha": "4a74c76e39dae67d7f6de8260be36fd20d51ccab",
-      "url": "https://www.radiodos.com.ar/209796-demoledora-encuesta-hunde-la-imagen-de-manuel-adorni-8-de-cada-10-argentinos-lo-quieren-fuera-del-gobierno",
-      "title": "Demoledora encuesta hunde la imagen de Manuel Adorni: 8 de cada 10 argentinos lo quieren fuera del Gobierno",
-      "volanta": "DATOS",
-      "date": "2026-06-19T14:23:29+00:00"
     }
   ]
 }
