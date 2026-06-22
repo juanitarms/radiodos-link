@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T00:26:22+00:00",
+  "updated": "2026-06-22T10:33:38+00:00",
   "posts": [
+    {
+      "id": "460486dc",
+      "image": "img/460486dc.png",
+      "image_sha": "303578f3352f5e8157513a378533daa134ead696",
+      "url": "https://www.radiodos.com.ar/209868-dos-detenidos-en-plena-distribucion-de-drogas-en-localidad-del-interior-de-corrientes",
+      "title": "Dos detenidos en plena distribución de drogas en localidad del interior de Corrientes",
+      "volanta": "EN EL PASO",
+      "date": "2026-06-22T10:33:38+00:00"
+    },
     {
       "id": "c42bef77",
       "image": "img/c42bef77.png",
@@ -531,15 +540,6 @@
       "title": "Avanzan las obras en el Centro de Transferencia de Residuos del Pirayuí para optimizar la recolección",
       "volanta": "CORRIENTES",
       "date": "2026-06-18T23:19:48+00:00"
-    },
-    {
-      "id": "5d74f631",
-      "image": "img/5d74f631.png",
-      "image_sha": "d5b8afcb143d5437c4caf9292bc906fb9dd7ead2",
-      "url": "https://www.radiodos.com.ar/209774-boca-confirmo-la-llegada-de-arruabarrena-como-nuevo-entrenador",
-      "title": "Boca confirmó la llegada de Arruabarrena como nuevo entrenador",
-      "volanta": "OFICIAL",
-      "date": "2026-06-18T23:18:08+00:00"
     }
   ]
 }
