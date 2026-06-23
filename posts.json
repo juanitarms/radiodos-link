@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:31:51+00:00",
+  "updated": "2026-06-23T18:32:30+00:00",
   "posts": [
+    {
+      "id": "d242c43e",
+      "image": "img/d242c43e.png",
+      "image_sha": "a80538854d00f854d69dd83b497eec4ed53d04a6",
+      "url": "https://www.radiodos.com.ar/209967-la-justicia-federal-ordeno-la-remocion-partidaria-de-un-ex-legislador-del-pj",
+      "title": "La Justicia Federal ordeno la remoción partidaria de un ex legislador del PJ",
+      "volanta": "FALLO",
+      "date": "2026-06-23T18:32:30+00:00"
+    },
     {
       "id": "5cbd0179",
       "image": "img/5cbd0179.png",
@@ -531,15 +540,6 @@
       "title": "Valdés encabezó el acto por el Día de la Bandera y tomó la promesa a 3 mil estudiantes",
       "volanta": "ACTO CENTRAL EN LA COSTANERA",
       "date": "2026-06-20T21:05:31+00:00"
-    },
-    {
-      "id": "41c1d2aa",
-      "image": "img/41c1d2aa.png",
-      "image_sha": "9b044f3e01b692ae4987ec65e36d1378822f9d42",
-      "url": "https://www.radiodos.com.ar/209828-buscan-a-una-joven-que-esta-desaparecida-en-el-interior-de-corrientes",
-      "title": "Buscan a una joven que está desaparecida en el interior de Corrientes",
-      "volanta": "CASI UNA SEMANA",
-      "date": "2026-06-20T17:18:03+00:00"
     }
   ]
 }
