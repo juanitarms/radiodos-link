@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:56:57+00:00",
+  "updated": "2026-06-23T19:35:25+00:00",
   "posts": [
+    {
+      "id": "8a2e5d08",
+      "image": "img/8a2e5d08.png",
+      "image_sha": "c38d13a72de5209489beb6c32039d6ceafb7d1ba",
+      "url": "https://www.radiodos.com.ar/209971-violento-ataque-de-una-mujer-a-otra-senora-que-caminaba-con-su-hija-en-un-barrio-de-corrientes",
+      "title": "Violento ataque de una mujer a otra señora que caminaba con su hija en un barrio de Corrientes",
+      "volanta": "TAMBIEN AGREDIO A UNA MUJER POLICIA",
+      "date": "2026-06-23T19:35:25+00:00"
+    },
     {
       "id": "942fa815",
       "image": "img/942fa815.png",
@@ -531,15 +540,6 @@
       "title": "Exconvicto detenido por llevar droga desde Corrientes hacia Chaco",
       "volanta": "ORIUNDO DE FORMOSA",
       "date": "2026-06-21T13:23:27+00:00"
-    },
-    {
-      "id": "bf283bd0",
-      "image": "img/bf283bd0.png",
-      "image_sha": "fa035330f9ef169af82081ea5a49bc19873ff948",
-      "url": "https://www.radiodos.com.ar/209856-corrientes-valdes-recibira-a-funcionarios-nacionales-para-recorrer-la-autovia",
-      "title": "Corrientes: Valdés recibirá a funcionarios nacionales para recorrer la autovía",
-      "volanta": "POLÍTICA",
-      "date": "2026-06-21T13:17:46+00:00"
     }
   ]
 }
