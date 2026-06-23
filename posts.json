@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T16:12:26+00:00",
+  "updated": "2026-06-23T16:13:02+00:00",
   "posts": [
+    {
+      "id": "125b81da",
+      "image": "img/125b81da.png",
+      "image_sha": "58182574b354279d96e58211793eb4c9c83fe3fa",
+      "url": "https://www.radiodos.com.ar/209945-ara-san-juan-pidieron-condenas-de-hasta-5-anos-de-carcel-para-exjefes-de-la-armada",
+      "title": "ARA San Juan: pidieron condenas de hasta 5 años de cárcel para exjefes de la Armada",
+      "volanta": "JUICIO",
+      "date": "2026-06-23T16:13:02+00:00"
+    },
     {
       "id": "ac718c45",
       "image": "img/ac718c45.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: la mayoría de los comercios abrirán en el feriado del Día de la Bandera",
       "volanta": "MUCHOS DE CORRIDO",
       "date": "2026-06-20T15:12:45+00:00"
-    },
-    {
-      "id": "d07de0cc",
-      "image": "img/d07de0cc.png",
-      "image_sha": "a56f6efdfe7285804ca1f013aed8f7be21013cbe",
-      "url": "https://www.radiodos.com.ar/209831-claudio-polich-belgrano-debe-servir-como-elemento-de-inspiracion-para-quienes-tenemos-responsabilidades-publicas",
-      "title": "\"BELGRANO DEBE SERVIR COMO ELEMENTO DE INSPIRACIÓN PARA QUIENES TENEMOS RESPONSABILIDADES PÚBLICAS\"",
-      "volanta": "claudio polich",
-      "date": "2026-06-20T14:52:07+00:00"
     }
   ]
 }
