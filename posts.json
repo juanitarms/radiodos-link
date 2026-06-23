@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T11:19:17+00:00",
+  "updated": "2026-06-23T12:18:21+00:00",
   "posts": [
+    {
+      "id": "b47e3b90",
+      "image": "img/b47e3b90.png",
+      "image_sha": "2883bd357802542b202c9db55eeb05ff1a7fa58a",
+      "url": "https://www.radiodos.com.ar/209937-secuestraron-cuatro-telefonos-celulares-de-alta-gama-y-buscan-a-sus-propietarios",
+      "title": "Secuestraron cuatro teléfonos celulares de alta gama y buscan a sus propietarios",
+      "volanta": "COMISARIA 14° URBANA",
+      "date": "2026-06-23T12:18:21+00:00"
+    },
     {
       "id": "b92e9971",
       "image": "img/b92e9971.png",
@@ -531,15 +540,6 @@
       "title": "Quién es el nuevo vocero presidencial del Gobierno nacional",
       "volanta": "Diputado libertario",
       "date": "2026-06-19T20:50:36+00:00"
-    },
-    {
-      "id": "5f08ceb1",
-      "image": "img/5f08ceb1.png",
-      "image_sha": "c770db82a02882f9909106308fa72b8b0adfce6a",
-      "url": "https://www.radiodos.com.ar/209815-corrientes-escapo-de-un-control-de-gendarmeria-y-termino-volcando-con-cargamento-de-cigarrillos-ilegales",
-      "title": "Corrientes: escapó de un control de Gendarmería y terminó volcando con cargamento de cigarrillos ilegales",
-      "volanta": "RUTA 12",
-      "date": "2026-06-19T20:49:11+00:00"
     }
   ]
 }
