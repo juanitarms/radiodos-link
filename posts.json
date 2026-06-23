@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T14:07:40+00:00",
+  "updated": "2026-06-23T14:42:45+00:00",
   "posts": [
+    {
+      "id": "744c4b0e",
+      "image": "img/744c4b0e.png",
+      "image_sha": "7e730e1715f11dd7281dfe16793cd0db5c2bf3df",
+      "url": "https://www.radiodos.com.ar/209959-la-emocion-de-antonela-roccuzzo-y-sus-hijos-en-el-segundo-gol-de-lionel-messi-ante-austria",
+      "title": "La emoción de Antonela Roccuzzo y sus hijos en el segundo gol de Lionel Messi ante Austria",
+      "volanta": "GRAN APOYO",
+      "date": "2026-06-23T14:42:45+00:00"
+    },
     {
       "id": "f611a912",
       "image": "img/f611a912.png",
@@ -531,15 +540,6 @@
       "title": "Prestadores del PAMI suspendieron nuevos turnos y advirtieron que podrían profundizar medidas de fuerza",
       "volanta": "POR FALTA DE PAGO",
       "date": "2026-06-19T22:18:24+00:00"
-    },
-    {
-      "id": "65eae6da",
-      "image": "img/65eae6da.png",
-      "image_sha": "706e0a7da0c31c0aa6b7c4fe28abde55daa7ed1f",
-      "url": "https://www.radiodos.com.ar/209824-responsabilidad-fiscal-corrientes-participo-de-la-reunion-encabezada-por-el-ministro-caputo",
-      "title": "Responsabilidad Fiscal: Corrientes participó de la reunión encabezada por el ministro Caputo",
-      "volanta": "En ENTRE RÍOS",
-      "date": "2026-06-19T22:17:21+00:00"
     }
   ]
 }
