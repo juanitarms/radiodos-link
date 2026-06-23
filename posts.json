@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-22T23:13:02+00:00",
+  "updated": "2026-06-23T10:33:57+00:00",
   "posts": [
+    {
+      "id": "dca09f03",
+      "image": "img/dca09f03.png",
+      "image_sha": "6db4d0d00af3bd17bd121f3aa26d31e910bbb42d",
+      "url": "https://www.radiodos.com.ar/209927-un-baile-por-el-dia-del-padre-termino-a-las-pinas-y-con-un-auto-quemado",
+      "title": "Un baile por el Día del Padre terminó a las piñas y con un auto quemado",
+      "volanta": "GOBERNADOR VIRASORO",
+      "date": "2026-06-23T10:33:57+00:00"
+    },
     {
       "id": "78139169",
       "image": "img/78139169.png",
@@ -531,15 +540,6 @@
       "title": "Sorprendente giro en el caso del hombre apuñalado en Balvanera: detuvieron a su hermano",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-19T19:25:31+00:00"
-    },
-    {
-      "id": "0f20e2ad",
-      "image": "img/0f20e2ad.png",
-      "image_sha": "489df6a95ea632c96a07bd89feeb3d6a2af08a33",
-      "url": "https://www.radiodos.com.ar/209809-en-el-barrio-17-de-agosto-valdes-inauguro-oficinas-de-la-dpec-y-entrego-nuevos-vehiculos-para-optimizar-la-atencion",
-      "title": "En el Barrio 17 de Agosto, Valdés inauguró oficinas de la DPEC y entregó nuevos vehículos para optimizar la atención",
-      "volanta": "DESCENTRALIZACIÓN",
-      "date": "2026-06-19T18:46:54+00:00"
     }
   ]
 }
