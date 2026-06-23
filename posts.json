@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T12:18:21+00:00",
+  "updated": "2026-06-23T12:25:37+00:00",
   "posts": [
+    {
+      "id": "3bf83229",
+      "image": "img/3bf83229.png",
+      "image_sha": "706552f5142d2045588e496d496e354c75f2e2d2",
+      "url": "https://www.radiodos.com.ar/209933-la-dpec-realizara-trabajos-de-mejoras-en-el-interior",
+      "title": "La DPEC realizará trabajos de mejoras en el interior",
+      "volanta": "MARTES 23",
+      "date": "2026-06-23T12:25:37+00:00"
+    },
     {
       "id": "b47e3b90",
       "image": "img/b47e3b90.png",
@@ -531,15 +540,6 @@
       "title": "En ruta de Corrientes, incautaron millonaria carga de contrabando",
       "volanta": "SEGURIDAD",
       "date": "2026-06-19T20:52:00+00:00"
-    },
-    {
-      "id": "d76fa0ea",
-      "image": "img/d76fa0ea.png",
-      "image_sha": "e29aa6eb9d8cdca0b3bc439d5ec8479ba04835a0",
-      "url": "https://www.radiodos.com.ar/209817-quien-es-el-nuevo-vocero-presidencial-del-gobierno-nacional",
-      "title": "Quién es el nuevo vocero presidencial del Gobierno nacional",
-      "volanta": "Diputado libertario",
-      "date": "2026-06-19T20:50:36+00:00"
     }
   ]
 }
