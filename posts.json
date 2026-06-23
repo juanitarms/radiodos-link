@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T10:54:37+00:00",
+  "updated": "2026-06-23T11:19:17+00:00",
   "posts": [
+    {
+      "id": "b92e9971",
+      "image": "img/b92e9971.png",
+      "image_sha": "e046aabbff2b5f214b76cf8b66a3ef4c107b9bbd",
+      "url": "https://www.radiodos.com.ar/209930-comienza-manana-el-pago-de-salarios-a-empleados-estatales",
+      "title": "Comienza mañana el pago de salarios a empleados estatales",
+      "volanta": "HASTA EL MARTES 30",
+      "date": "2026-06-23T11:19:17+00:00"
+    },
     {
       "id": "4edfc97d",
       "image": "img/4edfc97d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: escapó de un control de Gendarmería y terminó volcando con cargamento de cigarrillos ilegales",
       "volanta": "RUTA 12",
       "date": "2026-06-19T20:49:11+00:00"
-    },
-    {
-      "id": "74138e96",
-      "image": "img/74138e96.png",
-      "image_sha": "6077b54763aa1b8ede17161ae36bd663d90ade7b",
-      "url": "https://www.radiodos.com.ar/209813-la-corte-suprema-ratifico-la-competencia-material-de-la-justicia-de-corrientes-en-el-caso-generacion-zoe",
-      "title": "La Corte Suprema ratificó la competencia material de la Justicia de Corrientes en el caso Generación Zoe",
-      "volanta": "FALLO DE LA CORTE",
-      "date": "2026-06-19T19:26:10+00:00"
     }
   ]
 }
