@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T16:13:35+00:00",
+  "updated": "2026-06-23T18:31:51+00:00",
   "posts": [
+    {
+      "id": "5cbd0179",
+      "image": "img/5cbd0179.png",
+      "image_sha": "6ac97fe1858f588964d32ab67e6cc42e5a978f44",
+      "url": "https://www.radiodos.com.ar/209968-regatas-sumo-dos-titulos-en-el-apertura-del-avore",
+      "title": "Regatas sumó dos títulos en el Apertura del A.Vo.Re.",
+      "volanta": "Voley",
+      "date": "2026-06-23T18:31:51+00:00"
+    },
     {
       "id": "75a2cb6b",
       "image": "img/75a2cb6b.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una joven que está desaparecida en el interior de Corrientes",
       "volanta": "CASI UNA SEMANA",
       "date": "2026-06-20T17:18:03+00:00"
-    },
-    {
-      "id": "c2078a72",
-      "image": "img/c2078a72.png",
-      "image_sha": "fbf4faaf6b8177fdb963dcc1516121d21a2137ed",
-      "url": "https://www.radiodos.com.ar/209829-mas-de-3000-alumnos-prometeran-lealtad-a-la-bandera-en-corrientes",
-      "title": "Mas de 3.000 alumnos prometerán lealtad a la Bandera en Corrientes",
-      "volanta": "COSTANERA SUR",
-      "date": "2026-06-20T15:51:27+00:00"
     }
   ]
 }
