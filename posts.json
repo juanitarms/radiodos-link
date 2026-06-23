@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T14:59:27+00:00",
+  "updated": "2026-06-23T16:12:26+00:00",
   "posts": [
+    {
+      "id": "ac718c45",
+      "image": "img/ac718c45.png",
+      "image_sha": "b97e4f79598eb95b640bb6641f0646b0390c15b8",
+      "url": "https://www.radiodos.com.ar/209943-se-inauguro-un-segundo-mural-en-el-club-guarani-de-paso-de-los-libres-",
+      "title": "Se inauguró un segundo mural en el Club Guaraní de Paso de los Libres",
+      "volanta": "𝟠𝟘 𝕒𝕟𝕚𝕧𝕖𝕣𝕤𝕒𝕣𝕚𝕠",
+      "date": "2026-06-23T16:12:26+00:00"
+    },
     {
       "id": "a7b6ee51",
       "image": "img/a7b6ee51.png",
@@ -531,15 +540,6 @@
       "title": "\"BELGRANO DEBE SERVIR COMO ELEMENTO DE INSPIRACIÓN PARA QUIENES TENEMOS RESPONSABILIDADES PÚBLICAS\"",
       "volanta": "claudio polich",
       "date": "2026-06-20T14:52:07+00:00"
-    },
-    {
-      "id": "ee523d96",
-      "image": "img/ee523d96.png",
-      "image_sha": "4345728fea56885cdb65136cfc9fdfae2a0e99d5",
-      "url": "https://www.radiodos.com.ar/209832-un-muerto-tras-choque-entre-motos-en-el-interior-de-corrientes",
-      "title": "Un muerto tras choque entre motos en el interior de Corrientes",
-      "volanta": "3 DE ABRIL",
-      "date": "2026-06-20T14:48:16+00:00"
     }
   ]
 }
