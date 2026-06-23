@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T13:25:10+00:00",
+  "updated": "2026-06-23T13:48:27+00:00",
   "posts": [
+    {
+      "id": "de73e188",
+      "image": "img/de73e188.png",
+      "image_sha": "b79a4b5fea3db640c45598c9b65f3527ac02040c",
+      "url": "https://www.radiodos.com.ar/209954-argentina-ya-tiene-fecha-horario-y-estadio-confirmados-para-16avos-de-final",
+      "title": "Argentina ya tiene fecha, horario y estadio confirmados para 16avos de final",
+      "volanta": "Solo falta conocer al rival",
+      "date": "2026-06-23T13:48:27+00:00"
+    },
     {
       "id": "1599c575",
       "image": "img/1599c575.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: evadió un control y terminó detenido con una camioneta robada en Buenos Aires",
       "volanta": "CERCA DE VIRASORO",
       "date": "2026-06-19T22:15:41+00:00"
-    },
-    {
-      "id": "9caf2728",
-      "image": "img/9caf2728.png",
-      "image_sha": "c808f43614c3e29b65519a7694ae28e83800ff6f",
-      "url": "https://www.radiodos.com.ar/209821-el-atraso-en-creditos-ya-golpea-el-bolsillo-121-de-las-familias-no-paga",
-      "title": "El atraso en créditos ya golpea el bolsillo: 12,1% de las familias no paga",
-      "volanta": "Crisis",
-      "date": "2026-06-19T22:13:59+00:00"
     }
   ]
 }
