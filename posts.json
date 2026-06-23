@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:32:30+00:00",
+  "updated": "2026-06-23T18:33:04+00:00",
   "posts": [
+    {
+      "id": "be1414c2",
+      "image": "img/be1414c2.png",
+      "image_sha": "9cf88b1d61010b733aa49f64fef707d5b64a3afd",
+      "url": "https://www.radiodos.com.ar/209947-en-noviembre-corrientes-sera-sede-del-concurso-emprendimiento-argentino",
+      "title": "En noviembre, Corrientes será sede del Concurso Emprendimiento Argentino",
+      "volanta": "VISITA NACIONAL",
+      "date": "2026-06-23T18:33:04+00:00"
+    },
     {
       "id": "d242c43e",
       "image": "img/d242c43e.png",
@@ -531,15 +540,6 @@
       "title": "Persecución nocturna: pareja demorada por ser presuntos cuatreros en Alvear",
       "volanta": "EN BOLSAS OCULTABAN CARNE FAENADA",
       "date": "2026-06-21T01:10:54+00:00"
-    },
-    {
-      "id": "f4b2e814",
-      "image": "img/f4b2e814.png",
-      "image_sha": "01ca594c24ea7fd65bd36481075a174bf1cb583c",
-      "url": "https://www.radiodos.com.ar/209833-valdes-encabezo-el-acto-por-el-dia-de-la-bandera-y-tomo-la-promesa-a-3-mil-estudiantes",
-      "title": "Valdés encabezó el acto por el Día de la Bandera y tomó la promesa a 3 mil estudiantes",
-      "volanta": "ACTO CENTRAL EN LA COSTANERA",
-      "date": "2026-06-20T21:05:31+00:00"
     }
   ]
 }
