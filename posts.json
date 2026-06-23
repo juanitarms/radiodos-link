@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T19:35:25+00:00",
+  "updated": "2026-06-23T20:15:59+00:00",
   "posts": [
+    {
+      "id": "eddb2699",
+      "image": "img/eddb2699.png",
+      "image_sha": "6832a7aff005a5e12a14fa6fb4900a55c22c8b57",
+      "url": "https://www.radiodos.com.ar/209972-caso-loan-apuntan-a-las-maniobras-de-laudelina-pena-para-tapar-la-desaparicion-de-su-sobrino",
+      "title": "Caso Loan: apuntan a las maniobras de Laudelina Peña para tapar la desaparición de su sobrino",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-06-23T20:15:59+00:00"
+    },
     {
       "id": "8a2e5d08",
       "image": "img/8a2e5d08.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Messi busca seguir haciendo historia: los récords que puede alcanzar frente a Austria",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-21T13:33:34+00:00"
-    },
-    {
-      "id": "1b05644e",
-      "image": "img/1b05644e.png",
-      "image_sha": "3d99f44f0fc41def7d993f73333bbf44e0638e7d",
-      "url": "https://www.radiodos.com.ar/209857-exconvicto-detenido-por-llevar-droga-desde-corrientes-hacia-chaco",
-      "title": "Exconvicto detenido por llevar droga desde Corrientes hacia Chaco",
-      "volanta": "ORIUNDO DE FORMOSA",
-      "date": "2026-06-21T13:23:27+00:00"
     }
   ]
 }
