@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T12:25:37+00:00",
+  "updated": "2026-06-23T12:33:27+00:00",
   "posts": [
+    {
+      "id": "4e801426",
+      "image": "img/4e801426.png",
+      "image_sha": "b181efd9695efd4a042f911e092299e3e5aa87c1",
+      "url": "https://www.radiodos.com.ar/209932-adopcion-adolescente-de-15-anos-espera-una-oportunidad-para-encontrar-una-familia",
+      "title": "Adopción: adolescente de 15 años espera una oportunidad para encontrar una familia",
+      "volanta": "CONVOCATORIA PÚBLICA",
+      "date": "2026-06-23T12:33:27+00:00"
+    },
     {
       "id": "3bf83229",
       "image": "img/3bf83229.png",
@@ -531,15 +540,6 @@
       "title": "Nuevas oficinas de la DPEC: Polich acompañó a Valdés y destacó la descentralización de servicios",
       "volanta": "Modernización",
       "date": "2026-06-19T21:03:43+00:00"
-    },
-    {
-      "id": "172a5ef9",
-      "image": "img/172a5ef9.png",
-      "image_sha": "37f6ab90c9353bf8e2a85c80d4e8122789bd411b",
-      "url": "https://www.radiodos.com.ar/209816-en-ruta-de-corrientes-incautaron-millonaria-carga-de-contrabando",
-      "title": "En ruta de Corrientes, incautaron millonaria carga de contrabando",
-      "volanta": "SEGURIDAD",
-      "date": "2026-06-19T20:52:00+00:00"
     }
   ]
 }
