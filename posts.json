@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:34:50+00:00",
+  "updated": "2026-06-23T18:35:23+00:00",
   "posts": [
+    {
+      "id": "b2fb3150",
+      "image": "img/b2fb3150.png",
+      "image_sha": "6dd7505fc68316c6d0e996a7de773566d254b891",
+      "url": "https://www.radiodos.com.ar/209957-quien-dejo-la-casa-de-gran-hermano-generacion-dorada-en-la-ultima-gala-de-eliminacion",
+      "title": "Quién dejó la casa de Gran Hermano Generación Dorada en la última gala de eliminación",
+      "volanta": "GALA DE ELIMINACIÓN",
+      "date": "2026-06-23T18:35:23+00:00"
+    },
     {
       "id": "76ecada4",
       "image": "img/76ecada4.png",
@@ -531,15 +540,6 @@
       "title": "Día del Padre: por qué se celebra el tercer domingo de junio en la Argentina",
       "volanta": "felíz día",
       "date": "2026-06-21T13:10:32+00:00"
-    },
-    {
-      "id": "b988bc46",
-      "image": "img/b988bc46.png",
-      "image_sha": "512b5ce03b3c5c0a9bf94fde6c4edc2a6836ba98",
-      "url": "https://www.radiodos.com.ar/209845-murio-roberto-garcia-referente-del-periodismo-politico-y-economico",
-      "title": "Murió Roberto García, referente del periodismo político y económico",
-      "volanta": "LUTO",
-      "date": "2026-06-21T01:26:05+00:00"
     }
   ]
 }
