@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T21:28:27+00:00",
+  "updated": "2026-06-23T21:57:37+00:00",
   "posts": [
+    {
+      "id": "bd0c21e1",
+      "image": "img/bd0c21e1.png",
+      "image_sha": "86445dd22a0a950ecfacc19b92d9143ca4c91edd",
+      "url": "https://www.radiodos.com.ar/209977-firman-un-convenio-para-la-capacitacion-y-reinsercion-laboral-de-personas-privadas-de-la-libertad",
+      "title": "Firman un convenio para la capacitación y reinserción laboral de personas privadas de la libertad",
+      "volanta": "POLÍTICAS DE INCLUSIÓN",
+      "date": "2026-06-23T21:57:37+00:00"
+    },
     {
       "id": "19cc4be6",
       "image": "img/19cc4be6.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: Se viene un inicio de semana inestable y un marcado descenso de temperatura",
       "volanta": "Pronóstico",
       "date": "2026-06-21T18:40:07+00:00"
-    },
-    {
-      "id": "13d59f50",
-      "image": "img/13d59f50.png",
-      "image_sha": "4cc2a16760d36a0e46ce8a9bafadc845235cd9a0",
-      "url": "https://www.radiodos.com.ar/209850-que-dice-el-primer-parte-medico-de-fernando-gago-infarto-agudo-al-miocardio",
-      "title": "Qué dice el primer parte médico de Fernando Gago: \"Infarto agudo al miocardio\"",
-      "volanta": "CHILE",
-      "date": "2026-06-21T17:22:28+00:00"
     }
   ]
 }
