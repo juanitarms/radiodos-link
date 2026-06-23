@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T10:33:57+00:00",
+  "updated": "2026-06-23T10:54:37+00:00",
   "posts": [
+    {
+      "id": "4edfc97d",
+      "image": "img/4edfc97d.png",
+      "image_sha": "df0b435819d66aedd78b0388e9ea3dce01793042",
+      "url": "https://www.radiodos.com.ar/209928-alerta-para-corrientes-por-frio-extremo-y-termicas-debajo-de-5c-toda-la-semana",
+      "title": "Alerta para Corrientes por frío extremo y térmicas debajo de 5ºC  toda la semana",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-06-23T10:54:37+00:00"
+    },
     {
       "id": "dca09f03",
       "image": "img/dca09f03.png",
@@ -531,15 +540,6 @@
       "title": "La Corte Suprema ratificó la competencia material de la Justicia de Corrientes en el caso Generación Zoe",
       "volanta": "FALLO DE LA CORTE",
       "date": "2026-06-19T19:26:10+00:00"
-    },
-    {
-      "id": "52140cdd",
-      "image": "img/52140cdd.png",
-      "image_sha": "68fdc3896c65e9776f5e5e980430c9efad70e346",
-      "url": "https://www.radiodos.com.ar/209808-sorprendente-giro-en-el-caso-del-hombre-apunalado-en-balvanera-detuvieron-a-su-hermano",
-      "title": "Sorprendente giro en el caso del hombre apuñalado en Balvanera: detuvieron a su hermano",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-19T19:25:31+00:00"
     }
   ]
 }
