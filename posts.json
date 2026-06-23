@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:33:04+00:00",
+  "updated": "2026-06-23T18:33:39+00:00",
   "posts": [
+    {
+      "id": "4d657f59",
+      "image": "img/4d657f59.png",
+      "image_sha": "3083f0531e600e9916bb2d22b80ba6cf0df6cd19",
+      "url": "https://www.radiodos.com.ar/209948-manuel-adorni-anuncio-a-fabian-fernandez-como-nuevo-secretario-de-comunicacion-y-prensa",
+      "title": "Manuel Adorni anunció a Fabián Fernández como nuevo secretario de Comunicación y Prensa",
+      "volanta": "CAMBIOS",
+      "date": "2026-06-23T18:33:39+00:00"
+    },
     {
       "id": "be1414c2",
       "image": "img/be1414c2.png",
@@ -531,15 +540,6 @@
       "title": "“no hay nadie más peleado con los valores de belgrano que adorni”",
       "volanta": "victoria villaruel",
       "date": "2026-06-21T01:23:05+00:00"
-    },
-    {
-      "id": "343f0521",
-      "image": "img/343f0521.png",
-      "image_sha": "953761f0d48b9a8ca8b309957d197a519b29a6e0",
-      "url": "https://www.radiodos.com.ar/209835-persecucion-nocturna-pareja-demorada-por-ser-presuntos-cuatreros-en-alvear",
-      "title": "Persecución nocturna: pareja demorada por ser presuntos cuatreros en Alvear",
-      "volanta": "EN BOLSAS OCULTABAN CARNE FAENADA",
-      "date": "2026-06-21T01:10:54+00:00"
     }
   ]
 }
