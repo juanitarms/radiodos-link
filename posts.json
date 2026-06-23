@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T14:42:45+00:00",
+  "updated": "2026-06-23T14:59:27+00:00",
   "posts": [
+    {
+      "id": "a7b6ee51",
+      "image": "img/a7b6ee51.png",
+      "image_sha": "f968590c521e6425131ba8160451ddf78470bf01",
+      "url": "https://www.radiodos.com.ar/209958-shakira-se-rindio-ante-lionel-messi-tras-otra-historica-actuacion-muy-orgullosa-de-ti",
+      "title": "Shakira se rindió ante Lionel Messi tras otra histórica actuación: \"Muy orgullosa de ti\"",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-06-23T14:59:27+00:00"
+    },
     {
       "id": "744c4b0e",
       "image": "img/744c4b0e.png",
@@ -531,15 +540,6 @@
       "title": "Un muerto tras choque entre motos en el interior de Corrientes",
       "volanta": "3 DE ABRIL",
       "date": "2026-06-20T14:48:16+00:00"
-    },
-    {
-      "id": "eeae7947",
-      "image": "img/eeae7947.png",
-      "image_sha": "c961e7615964e69237d03020e96be211b4a3d4b3",
-      "url": "https://www.radiodos.com.ar/209818-prestadores-del-pami-suspendieron-nuevos-turnos-y-advirtieron-que-podrian-profundizar-medidas-de-fuerza",
-      "title": "Prestadores del PAMI suspendieron nuevos turnos y advirtieron que podrían profundizar medidas de fuerza",
-      "volanta": "POR FALTA DE PAGO",
-      "date": "2026-06-19T22:18:24+00:00"
     }
   ]
 }
