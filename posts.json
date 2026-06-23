@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T21:27:43+00:00",
+  "updated": "2026-06-23T21:28:27+00:00",
   "posts": [
+    {
+      "id": "19cc4be6",
+      "image": "img/19cc4be6.png",
+      "image_sha": "6ba049de84a7961d6a5294388b37a28cb7b7fbff",
+      "url": "https://www.radiodos.com.ar/209974-los-salarios-subieron-35-en-abril-y-le-ganaron-a-la-inflacion-segun-el-indec",
+      "title": "Los salarios subieron 3,5% en abril y le ganaron a la inflación, según el INDEC",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-06-23T21:28:27+00:00"
+    },
     {
       "id": "2612740e",
       "image": "img/2612740e.png",
@@ -531,15 +540,6 @@
       "title": "Qué dice el primer parte médico de Fernando Gago: \"Infarto agudo al miocardio\"",
       "volanta": "CHILE",
       "date": "2026-06-21T17:22:28+00:00"
-    },
-    {
-      "id": "ade1c30f",
-      "image": "img/ade1c30f.png",
-      "image_sha": "846cebcd5a9336b4a7e30d0e6cb93a69dd58617d",
-      "url": "https://www.radiodos.com.ar/209851-mario-pergolini-reflexiono-sobre-lo-sucedido-entre-flor-pena-y-sus-productores-yo-tambien-los-entrego",
-      "title": "Mario Pergolini reflexionó sobre lo sucedido entre Flor Peña y sus productores: \"Yo también los entrego\"",
-      "volanta": "FAKE NEWS",
-      "date": "2026-06-21T17:21:54+00:00"
     }
   ]
 }
