@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T21:10:02+00:00",
+  "updated": "2026-06-23T21:27:43+00:00",
   "posts": [
+    {
+      "id": "2612740e",
+      "image": "img/2612740e.png",
+      "image_sha": "ad0b59ee93be294b8c45e9673766266e979659d7",
+      "url": "https://www.radiodos.com.ar/209975-con-el-pro-y-la-ucr-como-salvavidas-adorni-esquivo-la-interpelacion-en-diputados",
+      "title": "Con el PRO y la UCR como salvavidas, Adorni esquivó la interpelación en Diputados",
+      "volanta": "falta de quórum",
+      "date": "2026-06-23T21:27:43+00:00"
+    },
     {
       "id": "2031c9b2",
       "image": "img/2031c9b2.png",
@@ -531,15 +540,6 @@
       "title": "Mario Pergolini reflexionó sobre lo sucedido entre Flor Peña y sus productores: \"Yo también los entrego\"",
       "volanta": "FAKE NEWS",
       "date": "2026-06-21T17:21:54+00:00"
-    },
-    {
-      "id": "ddd1f0a7",
-      "image": "img/ddd1f0a7.png",
-      "image_sha": "be5a518dabab124187adcdfda11abbdbc73d75dc",
-      "url": "https://www.radiodos.com.ar/209852-juanita-tinelli-y-una-contundente-respuesta-a-amalia-granata-la-reaccion-de-paula-robles",
-      "title": "Juanita Tinelli y una contundente respuesta a Amalia Granata: la reacción de Paula Robles",
-      "volanta": "PUSO LÌMITES",
-      "date": "2026-06-21T17:21:17+00:00"
     }
   ]
 }
