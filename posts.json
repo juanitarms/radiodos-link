@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T13:48:27+00:00",
+  "updated": "2026-06-23T14:07:40+00:00",
   "posts": [
+    {
+      "id": "f611a912",
+      "image": "img/f611a912.png",
+      "image_sha": "5a74e6c6ed56dcb754849b25c0654356453bbf97",
+      "url": "https://www.radiodos.com.ar/209951-la-libertad-avanza-convoco-a-una-sesion-especial-en-diputados-para-debatir-el-super-rigi-a-quien-afectara",
+      "title": "La Libertad Avanza convocó a una sesión especial en Diputados para debatir el Súper RIGI: a quién afectará",
+      "volanta": "CONGRESO",
+      "date": "2026-06-23T14:07:40+00:00"
+    },
     {
       "id": "de73e188",
       "image": "img/de73e188.png",
@@ -531,15 +540,6 @@
       "title": "Responsabilidad Fiscal: Corrientes participó de la reunión encabezada por el ministro Caputo",
       "volanta": "En ENTRE RÍOS",
       "date": "2026-06-19T22:17:21+00:00"
-    },
-    {
-      "id": "503213e3",
-      "image": "img/503213e3.png",
-      "image_sha": "907ec101fe76187928bb12c621f06848dbc7d294",
-      "url": "https://www.radiodos.com.ar/209822-corrientes-evadio-un-control-y-termino-detenido-con-una-camioneta-robada-en-buenos-aires",
-      "title": "Corrientes: evadió un control y terminó detenido con una camioneta robada en Buenos Aires",
-      "volanta": "CERCA DE VIRASORO",
-      "date": "2026-06-19T22:15:41+00:00"
     }
   ]
 }
