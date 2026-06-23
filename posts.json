@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T18:34:14+00:00",
+  "updated": "2026-06-23T18:34:50+00:00",
   "posts": [
+    {
+      "id": "76ecada4",
+      "image": "img/76ecada4.png",
+      "image_sha": "be5a9d22128ae4eac98e68336194ef1ce995372f",
+      "url": "https://www.radiodos.com.ar/209956-las-imagenes-que-confirman-el-apasionado-reencuentro-de-rodrigo-de-paul-y-tini-stoessel-tras-el-triunfo-de-argentina",
+      "title": "Las imágenes que confirman el apasionado reencuentro de Rodrigo de Paul y Tini Stoessel tras el triunfo de Argentina",
+      "volanta": "Puro amor",
+      "date": "2026-06-23T18:34:50+00:00"
+    },
     {
       "id": "89bb5436",
       "image": "img/89bb5436.png",
@@ -531,15 +540,6 @@
       "title": "Murió Roberto García, referente del periodismo político y económico",
       "volanta": "LUTO",
       "date": "2026-06-21T01:26:05+00:00"
-    },
-    {
-      "id": "f1b245fc",
-      "image": "img/f1b245fc.png",
-      "image_sha": "6d1ca1a91ca187b7d784b49437d4b770b3f15b03",
-      "url": "https://www.radiodos.com.ar/209838-gonzalo-montiel-se-lesiono-y-no-podria-jugar-ante-austria",
-      "title": "Gonzalo Montiel se lesionó y no podría jugar ante Austria",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-21T01:24:03+00:00"
     }
   ]
 }
