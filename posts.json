@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T12:33:27+00:00",
+  "updated": "2026-06-23T12:58:45+00:00",
   "posts": [
+    {
+      "id": "2e7dd53c",
+      "image": "img/2e7dd53c.png",
+      "image_sha": "03b9b080da1d515f095767cdb498671b53887e5e",
+      "url": "https://www.radiodos.com.ar/209938--dia-de-san-juan-bautista-asi-seran-las-prestaciones-municipales-para-este-24-de-junio",
+      "title": "Día de San Juan Bautista: así serán las prestaciones municipales para este 24 de junio",
+      "volanta": "FERIADO",
+      "date": "2026-06-23T12:58:45+00:00"
+    },
     {
       "id": "4e801426",
       "image": "img/4e801426.png",
@@ -531,15 +540,6 @@
       "title": "Florencia Peña habló tras el escándalo en Luzu y apuntó contra Occhiato: \"No tuvo empatía\"",
       "volanta": "Continúa el escándalo",
       "date": "2026-06-19T21:05:30+00:00"
-    },
-    {
-      "id": "6588d1fb",
-      "image": "img/6588d1fb.png",
-      "image_sha": "b24973ec6659b0cd33068d95d5017bca9a25c0aa",
-      "url": "https://www.radiodos.com.ar/209820-nuevas-oficinas-de-la-dpec-polich-acompano-a-valdes-y-destaco-la-descentralizacion-de-servicios",
-      "title": "Nuevas oficinas de la DPEC: Polich acompañó a Valdés y destacó la descentralización de servicios",
-      "volanta": "Modernización",
-      "date": "2026-06-19T21:03:43+00:00"
     }
   ]
 }
