@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T10:38:53+00:00",
+  "updated": "2026-06-24T11:02:33+00:00",
   "posts": [
+    {
+      "id": "e2a74f51",
+      "image": "img/e2a74f51.png",
+      "image_sha": "66eb1b5c3efbe9788bb4e0e7dc21983045b4ee27",
+      "url": "https://www.radiodos.com.ar/209985-un-nuevo-afortunado-gano-mas-de-140-millones-en-la-poceada-correntina",
+      "title": "Un nuevo afortunado ganó más de $140 millones en la Poceada Correntina",
+      "volanta": "DE CAPITAL",
+      "date": "2026-06-24T11:02:33+00:00"
+    },
     {
       "id": "aa369a6e",
       "image": "img/aa369a6e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes registra una de las mayores brechas de internet rural del país",
       "volanta": "Informe",
       "date": "2026-06-22T00:26:22+00:00"
-    },
-    {
-      "id": "db32482f",
-      "image": "img/db32482f.png",
-      "image_sha": "b8f4d98b9177db0c7b509b5965d72b8b405c41ed",
-      "url": "https://www.radiodos.com.ar/209866-14-detenidos-tras-un-allanamiento-con-tiroteo-y-secuestro-de-drogas",
-      "title": "14 detenidos tras un allanamiento con tiroteo y secuestro de drogas",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-21T23:33:48+00:00"
     }
   ]
 }
