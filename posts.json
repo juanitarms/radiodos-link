@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T13:18:29+00:00",
+  "updated": "2026-06-24T13:38:02+00:00",
   "posts": [
+    {
+      "id": "d6c567d4",
+      "image": "img/d6c567d4.png",
+      "image_sha": "419f0946fa0efeb26024d3840dae2087952c5c3b",
+      "url": "https://www.radiodos.com.ar/209993-detuvieron-a-un-dealer-con-varias-dosis-de-cocaina-en-localidad-del-interior-de-corrientes",
+      "title": "Detuvieron a un \"dealer\" con varias dosis de cocaína en localidad del interior de Corrientes",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-06-24T13:38:02+00:00"
+    },
     {
       "id": "d1a94b02",
       "image": "img/d1a94b02.png",
@@ -531,15 +540,6 @@
       "title": "Ingeniera Agrónoma estudia cómo los incendios afectan al suelo y su capacidad de recuperación",
       "volanta": "Nuevos Conocimientos",
       "date": "2026-06-22T12:21:47+00:00"
-    },
-    {
-      "id": "1ecef25e",
-      "image": "img/1ecef25e.png",
-      "image_sha": "715a67c44647dffd913443d26699e394b8b50b95",
-      "url": "https://www.radiodos.com.ar/209874-corrientes-fue-clave-en-el-record-de-donacion-de-organos-del-pais",
-      "title": "Corrientes fue clave en el récord de donación de órganos del país",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-06-22T12:05:03+00:00"
     }
   ]
 }
