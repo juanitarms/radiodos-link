@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T13:03:52+00:00",
+  "updated": "2026-06-24T13:18:29+00:00",
   "posts": [
+    {
+      "id": "d1a94b02",
+      "image": "img/d1a94b02.png",
+      "image_sha": "b0b1d5e82dda1e5990eec8029cc8cb65133fec15",
+      "url": "https://www.radiodos.com.ar/209987-comenzo-el-pago-de-salarios-a-empleados-estatales",
+      "title": "Comenzó el pago de salarios a empleados estatales",
+      "volanta": "HASTA EL MARTES 30",
+      "date": "2026-06-24T13:18:29+00:00"
+    },
     {
       "id": "891932e4",
       "image": "img/891932e4.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fue clave en el récord de donación de órganos del país",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-06-22T12:05:03+00:00"
-    },
-    {
-      "id": "b9f53574",
-      "image": "img/b9f53574.png",
-      "image_sha": "4920d36a486c8c6ede9e03769460c5e88b8a372b",
-      "url": "https://www.radiodos.com.ar/209871-manana-comienza-el-pago-del-plus-especial-a-empleados-municipales",
-      "title": "Mañana comienza el pago del Plus Especial a empleados municipales",
-      "volanta": "HASTA EL JUEVES 25",
-      "date": "2026-06-22T11:36:33+00:00"
     }
   ]
 }
