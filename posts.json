@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T16:35:30+00:00",
+  "updated": "2026-06-24T16:36:04+00:00",
   "posts": [
+    {
+      "id": "ca41dc2e",
+      "image": "img/ca41dc2e.png",
+      "image_sha": "80839102fab38ec937b964a47e06d62197d6faa0",
+      "url": "https://www.radiodos.com.ar/210013-el-regalo-que-le-hizo-la-seleccion-argentina-a-lionel-messi-por-su-cumpleanos-en-la-concentracion",
+      "title": "El regalo que le hizo la Selección Argentina a Lionel Messi por su cumpleaños en la concentración",
+      "volanta": "FESTEJO",
+      "date": "2026-06-24T16:36:04+00:00"
+    },
     {
       "id": "f99d7b4d",
       "image": "img/f99d7b4d.png",
@@ -531,15 +540,6 @@
       "title": "Un correntino en el Mundial: sigue a la Selección con la camiseta de Mandiyú",
       "volanta": "Hoy en Dallas",
       "date": "2026-06-22T14:57:59+00:00"
-    },
-    {
-      "id": "0b7d91a7",
-      "image": "img/0b7d91a7.png",
-      "image_sha": "b988a0f295bb47f4f8987db1e671a61b3a7fdba7",
-      "url": "https://www.radiodos.com.ar/209885-la-anmat-prohibio-una-serie-de-cremas-humectantes-y-autobronceantes-cuales-no-comprar",
-      "title": "La ANMAT prohibió una serie de cremas humectantes y autobronceantes: cuáles no comprar",
-      "volanta": "OFICIAL",
-      "date": "2026-06-22T14:26:17+00:00"
     }
   ]
 }
