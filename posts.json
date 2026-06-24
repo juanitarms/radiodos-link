@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T14:25:05+00:00",
+  "updated": "2026-06-24T15:03:21+00:00",
   "posts": [
+    {
+      "id": "d24e2b08",
+      "image": "img/d24e2b08.png",
+      "image_sha": "2b8efbeb3fd5218853032b165dd268903751c36d",
+      "url": "https://www.radiodos.com.ar/210006-cruje-la-interna-en-el-gobierno-manuel-adorni-desmintio-a-patricia-bullrich",
+      "title": "Cruje la interna en el Gobierno: Manuel Adorni desmintió a Patricia Bullrich",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-24T15:03:21+00:00"
+    },
     {
       "id": "5fc72321",
       "image": "img/5fc72321.png",
@@ -531,15 +540,6 @@
       "title": "Denuncia por desaparición: buscan a una joven de 17 años",
       "volanta": "Capital",
       "date": "2026-06-22T13:16:58+00:00"
-    },
-    {
-      "id": "08ccafc0",
-      "image": "img/08ccafc0.png",
-      "image_sha": "93629592efc9549882ae7aa55f8bdcb9708a3a51",
-      "url": "https://www.radiodos.com.ar/209881-el-dt-de-austria-elogio-a-argentina-tenemos-que-mostrar-la-mejor-actuacion-de-mi-ciclo",
-      "title": "El DT de Austria elogió a Argentina: \"Tenemos que mostrar la mejor actuación de mi ciclo\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-22T12:55:15+00:00"
     }
   ]
 }
