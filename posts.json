@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T18:47:57+00:00",
+  "updated": "2026-06-24T18:48:31+00:00",
   "posts": [
+    {
+      "id": "408a7244",
+      "image": "img/408a7244.png",
+      "image_sha": "71348fc5cd94835413bcc34ed15737f3fa94dd56",
+      "url": "https://www.radiodos.com.ar/210018-licencia-de-conducir-quienes-ya-no-podran-renovar-mas-el-registro",
+      "title": "Licencia de conducir: quiénes ya no podrán renovar más el registro",
+      "volanta": "NOVEDAD",
+      "date": "2026-06-24T18:48:31+00:00"
+    },
     {
       "id": "3ebc2d3f",
       "image": "img/3ebc2d3f.png",
@@ -531,15 +540,6 @@
       "title": "Santa Catalina se consolida como un polo deportivo: el Municipio articula infraestructura con los clubes",
       "volanta": "CORRIENTES",
       "date": "2026-06-22T21:47:41+00:00"
-    },
-    {
-      "id": "e593ec8c",
-      "image": "img/e593ec8c.png",
-      "image_sha": "8f8c4551075110f2c29b9fd765e8cd67953771a3",
-      "url": "https://www.radiodos.com.ar/209917-scaloni-a-los-pies-de-messi-es-impresionante-ya-no-se-que-decir",
-      "title": "Scaloni, a los pies de Messi: \"Es impresionante; ya no sé qué decir\"",
-      "volanta": "mundial 2026",
-      "date": "2026-06-22T21:42:41+00:00"
     }
   ]
 }
