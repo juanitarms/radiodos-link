@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T16:34:55+00:00",
+  "updated": "2026-06-24T16:35:30+00:00",
   "posts": [
+    {
+      "id": "f99d7b4d",
+      "image": "img/f99d7b4d.png",
+      "image_sha": "551df6eb24c6fde15a673edf760dba4f18d35112",
+      "url": "https://www.radiodos.com.ar/210010-el-saludo-de-javier-milei-a-lionel-messi-por-su-cumpleanos-vamos-argentina-carajo",
+      "title": "El saludo de Javier Milei a Lionel Messi por su cumpleaños: \"¡VAMOS ARGENTINA CARAJO!\"",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-06-24T16:35:30+00:00"
+    },
     {
       "id": "6b31f2a7",
       "image": "img/6b31f2a7.png",
@@ -531,15 +540,6 @@
       "title": "La ANMAT prohibió una serie de cremas humectantes y autobronceantes: cuáles no comprar",
       "volanta": "OFICIAL",
       "date": "2026-06-22T14:26:17+00:00"
-    },
-    {
-      "id": "9f594605",
-      "image": "img/9f594605.png",
-      "image_sha": "ef3f79095dfb64bf94f47e029393f9a5a7ddd198",
-      "url": "https://www.radiodos.com.ar/209888-el-gesto-de-diego-godin-que-sacude-a-uruguay-en-pleno-mundial-2026",
-      "title": "El gesto de Diego Godín que sacude a Uruguay en pleno Mundial 2026",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-22T14:12:42+00:00"
     }
   ]
 }
