@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T22:14:20+00:00",
+  "updated": "2026-06-24T22:15:35+00:00",
   "posts": [
+    {
+      "id": "c2a2adb5",
+      "image": "img/c2a2adb5.png",
+      "image_sha": "6b1609cacebb80d0e6e155e37934a257505ef59b",
+      "url": "https://www.radiodos.com.ar/210031-rige-una-alerta-amarilla-por-frio-extremo-en-corrientes",
+      "title": "Rige una alerta amarilla por frío extremo en Corrientes",
+      "volanta": "INVIERNO",
+      "date": "2026-06-24T22:15:35+00:00"
+    },
     {
       "id": "452b37da",
       "image": "img/452b37da.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior",
       "volanta": "MARTES 23",
       "date": "2026-06-23T12:25:37+00:00"
-    },
-    {
-      "id": "b47e3b90",
-      "image": "img/b47e3b90.png",
-      "image_sha": "2883bd357802542b202c9db55eeb05ff1a7fa58a",
-      "url": "https://www.radiodos.com.ar/209937-secuestraron-cuatro-telefonos-celulares-de-alta-gama-y-buscan-a-sus-propietarios",
-      "title": "Secuestraron cuatro teléfonos celulares de alta gama y buscan a sus propietarios",
-      "volanta": "COMISARIA 14° URBANA",
-      "date": "2026-06-23T12:18:21+00:00"
     }
   ]
 }
