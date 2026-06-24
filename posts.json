@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T22:55:44+00:00",
+  "updated": "2026-06-24T22:59:17+00:00",
   "posts": [
+    {
+      "id": "5f50d0ab",
+      "image": "img/5f50d0ab.png",
+      "image_sha": "5a34b6f0c236b3d1ad3b02c9046d03f1c5c94c03",
+      "url": "https://www.radiodos.com.ar/210035-anticipan-que-la-privatizacion-del-rio-parana-sera-anulada-por-la-justicia",
+      "title": "Anticipan que la privatización del río Paraná \"será anulada por la justicia\"",
+      "volanta": "ESCANDALO",
+      "date": "2026-06-24T22:59:17+00:00"
+    },
     {
       "id": "8aaf4ebc",
       "image": "img/8aaf4ebc.png",
@@ -531,15 +540,6 @@
       "title": "Día de San Juan Bautista: así serán las prestaciones municipales para este 24 de junio",
       "volanta": "FERIADO",
       "date": "2026-06-23T12:58:45+00:00"
-    },
-    {
-      "id": "4e801426",
-      "image": "img/4e801426.png",
-      "image_sha": "b181efd9695efd4a042f911e092299e3e5aa87c1",
-      "url": "https://www.radiodos.com.ar/209932-adopcion-adolescente-de-15-anos-espera-una-oportunidad-para-encontrar-una-familia",
-      "title": "Adopción: adolescente de 15 años espera una oportunidad para encontrar una familia",
-      "volanta": "CONVOCATORIA PÚBLICA",
-      "date": "2026-06-23T12:33:27+00:00"
     }
   ]
 }
