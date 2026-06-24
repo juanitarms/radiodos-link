@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T21:07:23+00:00",
+  "updated": "2026-06-24T21:09:15+00:00",
   "posts": [
+    {
+      "id": "293d7ed3",
+      "image": "img/293d7ed3.png",
+      "image_sha": "85f7a05530d6949e42ef2c86414426969cfc5678",
+      "url": "https://www.radiodos.com.ar/210030-un-nene-de-9-anos-ataco-con-un-cuchillo-a-sus-companeros-en-una-escuela-de-corrientes",
+      "title": "Un nene de 9 años atacó con un cuchillo a sus compañeros en una escuela de Corrientes",
+      "volanta": "BARRIO  17 DE AGOSTO",
+      "date": "2026-06-24T21:09:15+00:00"
+    },
     {
       "id": "5cd07fb3",
       "image": "img/5cd07fb3.png",
@@ -531,15 +540,6 @@
       "title": "Alerta para Corrientes por frío extremo y térmicas debajo de 5ºC  toda la semana",
       "volanta": "PRONÓSTICO",
       "date": "2026-06-23T10:54:37+00:00"
-    },
-    {
-      "id": "dca09f03",
-      "image": "img/dca09f03.png",
-      "image_sha": "6db4d0d00af3bd17bd121f3aa26d31e910bbb42d",
-      "url": "https://www.radiodos.com.ar/209927-un-baile-por-el-dia-del-padre-termino-a-las-pinas-y-con-un-auto-quemado",
-      "title": "Un baile por el Día del Padre terminó a las piñas y con un auto quemado",
-      "volanta": "GOBERNADOR VIRASORO",
-      "date": "2026-06-23T10:33:57+00:00"
     }
   ]
 }
