@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T16:33:52+00:00",
+  "updated": "2026-06-24T16:34:25+00:00",
   "posts": [
+    {
+      "id": "c3fb9155",
+      "image": "img/c3fb9155.png",
+      "image_sha": "8659670eb2104e5a64b037a7c206c79083e3c2d9",
+      "url": "https://www.radiodos.com.ar/210009-se-filtro-la-propuesta-que-recibio-una-de-las-periodistas-deportivas-mas-reconocidas",
+      "title": "Se filtró la propuesta que recibió una de las periodistas deportivas más reconocidas",
+      "volanta": "SORPRESA",
+      "date": "2026-06-24T16:34:25+00:00"
+    },
     {
       "id": "45982a5b",
       "image": "img/45982a5b.png",
@@ -531,15 +540,6 @@
       "title": "El empleo formal volvió a caer y el salario mínimo ya perdió casi 40% frente a la inflación",
       "volanta": "ECONOMÍA",
       "date": "2026-06-22T13:55:56+00:00"
-    },
-    {
-      "id": "62e91ab1",
-      "image": "img/62e91ab1.png",
-      "image_sha": "932ef0977b6a0575df67bc35e1ce410a7c5a8d57",
-      "url": "https://www.radiodos.com.ar/209876-el-fan-fest-municipal-llega-al-barrio-17-de-agosto-tras-una-exitosa-primera-edicion",
-      "title": "El Fan Fest municipal llega al barrio 17 de Agosto tras una exitosa primera edición",
-      "volanta": "TODOS A ALENTAR A LA SELECCIÓN",
-      "date": "2026-06-22T13:38:49+00:00"
     }
   ]
 }
