@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T15:25:39+00:00",
+  "updated": "2026-06-24T16:33:52+00:00",
   "posts": [
+    {
+      "id": "45982a5b",
+      "image": "img/45982a5b.png",
+      "image_sha": "f5e50370f7a64dcd88605338129fe9abeb88d6c8",
+      "url": "https://www.radiodos.com.ar/210007-arca-lo-que-deberan-pagar-los-monotributistas-en-julio-2026",
+      "title": "ARCA: lo que deberán pagar los monotributistas en julio 2026",
+      "volanta": "TRIBUTO",
+      "date": "2026-06-24T16:33:52+00:00"
+    },
     {
       "id": "b4df816c",
       "image": "img/b4df816c.png",
@@ -531,15 +540,6 @@
       "title": "El Fan Fest municipal llega al barrio 17 de Agosto tras una exitosa primera edición",
       "volanta": "TODOS A ALENTAR A LA SELECCIÓN",
       "date": "2026-06-22T13:38:49+00:00"
-    },
-    {
-      "id": "37f6b57f",
-      "image": "img/37f6b57f.png",
-      "image_sha": "dca27a99a3ee1bf3fd8622f9dc1e84028b363e98",
-      "url": "https://www.radiodos.com.ar/209884-javier-milei-abrio-las-puertas-a-una-nueva-toma-de-deuda-por-hasta-5-mil-millones-de-dolares-adicionales",
-      "title": "Javier Milei abrió las puertas a una nueva toma de deuda por hasta 5 mil millones de dólares adicionales",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-22T13:28:45+00:00"
     }
   ]
 }
