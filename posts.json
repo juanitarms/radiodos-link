@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T14:04:00+00:00",
+  "updated": "2026-06-24T14:25:05+00:00",
   "posts": [
+    {
+      "id": "5fc72321",
+      "image": "img/5fc72321.png",
+      "image_sha": "9ebb331ef3fbd82c5bcc75c07c5dceb161be81df",
+      "url": "https://www.radiodos.com.ar/210004-javier-milei-aseguro-que-aumento-el-salario-real-y-subiran-las-jubilaciones-y-el-consumo",
+      "title": "Javier Milei aseguró que aumentó el salario real y subirán las jubilaciones y el consumo",
+      "volanta": "EXPOSICIÓN",
+      "date": "2026-06-24T14:25:05+00:00"
+    },
     {
       "id": "a1520ca5",
       "image": "img/a1520ca5.png",
@@ -531,15 +540,6 @@
       "title": "El DT de Austria elogió a Argentina: \"Tenemos que mostrar la mejor actuación de mi ciclo\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-22T12:55:15+00:00"
-    },
-    {
-      "id": "4ba68bff",
-      "image": "img/4ba68bff.png",
-      "image_sha": "7000b222bc23e9fc0015b45a53cda1eb11aefe9f",
-      "url": "https://www.radiodos.com.ar/209880-scaloni-bajo-la-tension-y-respaldo-a-ancelotti-tras-sus-dichos-sobre-la-seleccion-argentina",
-      "title": "Scaloni bajó la tensión y respaldó a Ancelotti tras sus dichos sobre la Selección Argentina",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-22T12:46:38+00:00"
     }
   ]
 }
