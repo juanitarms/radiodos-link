@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T22:15:35+00:00",
+  "updated": "2026-06-24T22:55:44+00:00",
   "posts": [
+    {
+      "id": "8aaf4ebc",
+      "image": "img/8aaf4ebc.png",
+      "image_sha": "a9f03d9fde2bde36c0baea61d6a8bb766b8e2d30",
+      "url": "https://www.radiodos.com.ar/210034-corona-instrumentamos-una-ingenieria-mental-permanente-para-mantener-programas-de-salud-desfinanciados-por-nacion",
+      "title": "Corona: \"Instrumentamos una ingeniería mental permanente para mantener programas de salud desfinanciados por Nación\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-06-24T22:55:44+00:00"
+    },
     {
       "id": "c2a2adb5",
       "image": "img/c2a2adb5.png",
@@ -531,15 +540,6 @@
       "title": "Adopción: adolescente de 15 años espera una oportunidad para encontrar una familia",
       "volanta": "CONVOCATORIA PÚBLICA",
       "date": "2026-06-23T12:33:27+00:00"
-    },
-    {
-      "id": "3bf83229",
-      "image": "img/3bf83229.png",
-      "image_sha": "706552f5142d2045588e496d496e354c75f2e2d2",
-      "url": "https://www.radiodos.com.ar/209933-la-dpec-realizara-trabajos-de-mejoras-en-el-interior",
-      "title": "La DPEC realizará trabajos de mejoras en el interior",
-      "volanta": "MARTES 23",
-      "date": "2026-06-23T12:25:37+00:00"
     }
   ]
 }
