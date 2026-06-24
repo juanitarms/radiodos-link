@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T20:56:27+00:00",
+  "updated": "2026-06-24T21:07:23+00:00",
   "posts": [
+    {
+      "id": "5cd07fb3",
+      "image": "img/5cd07fb3.png",
+      "image_sha": "1f602f6e601d9a1892551bd46e4bf5ce89e76d75",
+      "url": "https://www.radiodos.com.ar/210029-citan-a-elisa-carrio-a-declarar-en-el-juicio-por-la-desaparicion-de-loan-pena",
+      "title": "Citan a Elisa Carrió a declarar en el juicio por la desaparición de Loan Peña",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-24T21:07:23+00:00"
+    },
     {
       "id": "64060c03",
       "image": "img/64060c03.png",
@@ -531,15 +540,6 @@
       "title": "Un baile por el Día del Padre terminó a las piñas y con un auto quemado",
       "volanta": "GOBERNADOR VIRASORO",
       "date": "2026-06-23T10:33:57+00:00"
-    },
-    {
-      "id": "78139169",
-      "image": "img/78139169.png",
-      "image_sha": "499473fe60b7d0f8c69b348f7e9b458d2f8d8959",
-      "url": "https://www.radiodos.com.ar/209924-fiesta-mundialista-en-el-17-de-agosto-una-multitud-alento-a-la-seleccion-en-el-fan-fest-municipal",
-      "title": "Fiesta mundialista en el 17 de Agosto: una multitud alentó a la Selección en el Fan Fest municipal",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-22T23:13:02+00:00"
     }
   ]
 }
