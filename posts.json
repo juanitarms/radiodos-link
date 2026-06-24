@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T10:23:16+00:00",
+  "updated": "2026-06-24T10:38:53+00:00",
   "posts": [
+    {
+      "id": "aa369a6e",
+      "image": "img/aa369a6e.png",
+      "image_sha": "af77546a96284a51c51b799a228bfa0dd49be2a4",
+      "url": "https://www.radiodos.com.ar/209984-los-gobernadores-valdes-zdero-y-pullaro-coordinan-una-agenda-regional-ante-nacion",
+      "title": "Los gobernadores Valdés, Zdero y Pullaro coordinan una agenda regional ante Nación",
+      "volanta": "REUNIÓN EN RESISTENCIA",
+      "date": "2026-06-24T10:38:53+00:00"
+    },
     {
       "id": "9adb97f2",
       "image": "img/9adb97f2.png",
@@ -531,15 +540,6 @@
       "title": "14 detenidos tras un allanamiento con tiroteo y secuestro de drogas",
       "volanta": "CORRIENTES",
       "date": "2026-06-21T23:33:48+00:00"
-    },
-    {
-      "id": "74cb6804",
-      "image": "img/74cb6804.png",
-      "image_sha": "00eb2e83fb1c487e3757bbf30410be90d656c233",
-      "url": "https://www.radiodos.com.ar/209864-leon-xiv-en-argentina-crece-la-expectativa-por-una-visita-historica-y-ya-analizan-posibles-recorridos",
-      "title": "León XIV en Argentina: crece la expectativa por una visita histórica y ya analizan posibles recorridos",
-      "volanta": "Catolicismo",
-      "date": "2026-06-21T21:35:24+00:00"
     }
   ]
 }
