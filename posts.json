@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T20:49:24+00:00",
+  "updated": "2026-06-24T20:53:12+00:00",
   "posts": [
+    {
+      "id": "1b829832",
+      "image": "img/1b829832.png",
+      "image_sha": "fb71d9fa8ca2ae5885d51d9f5dd60cc7b9a74525",
+      "url": "https://www.radiodos.com.ar/210026-se-reactivaron-los-trabajos-de-la-autovia-de-la-ruta-nacional-n-12",
+      "title": "Se reactivaron los trabajos de la Autovía de la Ruta Nacional Nº 12",
+      "volanta": "VIALIDAD NACIONAL",
+      "date": "2026-06-24T20:53:12+00:00"
+    },
     {
       "id": "e71a736e",
       "image": "img/e71a736e.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno designó a Fabián Fernández como nuevo Secretario de Comunicación y Prensa",
       "volanta": "MÁS CAMBIOS",
       "date": "2026-06-22T23:03:32+00:00"
-    },
-    {
-      "id": "87418ee2",
-      "image": "img/87418ee2.png",
-      "image_sha": "3d3ec701c3173ccaa60a0eb6c5d66148b7a7915c",
-      "url": "https://www.radiodos.com.ar/209923-la-justicia-intimo-a-jesica-cirio-a-que-entregue-su-celular-por-la-causa-que-involucra-a-insaurralde",
-      "title": "La Justicia intimó a Jésica Cirio a que entregue su celular por la causa que involucra a Insaurralde",
-      "volanta": "presunto enriquecimiento ilícito",
-      "date": "2026-06-22T22:57:18+00:00"
     }
   ]
 }
