@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T22:12:18+00:00",
+  "updated": "2026-06-24T22:14:20+00:00",
   "posts": [
+    {
+      "id": "452b37da",
+      "image": "img/452b37da.png",
+      "image_sha": "eeb303ee1ea03b474177c3c3e2907d50996d20ee",
+      "url": "https://www.radiodos.com.ar/210033-crecio-un-369-la-venta-de-carne-argentina-a-los-estados-unidos",
+      "title": "Creció un 369% la venta de carne argentina a los Estados Unidos",
+      "volanta": "EXPORTACIÓN",
+      "date": "2026-06-24T22:14:20+00:00"
+    },
     {
       "id": "9b2871c7",
       "image": "img/9b2871c7.png",
@@ -531,15 +540,6 @@
       "title": "Secuestraron cuatro teléfonos celulares de alta gama y buscan a sus propietarios",
       "volanta": "COMISARIA 14° URBANA",
       "date": "2026-06-23T12:18:21+00:00"
-    },
-    {
-      "id": "b92e9971",
-      "image": "img/b92e9971.png",
-      "image_sha": "e046aabbff2b5f214b76cf8b66a3ef4c107b9bbd",
-      "url": "https://www.radiodos.com.ar/209930-comienza-manana-el-pago-de-salarios-a-empleados-estatales",
-      "title": "Comienza mañana el pago de salarios a empleados estatales",
-      "volanta": "HASTA EL MARTES 30",
-      "date": "2026-06-23T11:19:17+00:00"
     }
   ]
 }
