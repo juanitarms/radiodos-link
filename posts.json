@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T11:02:33+00:00",
+  "updated": "2026-06-24T11:17:19+00:00",
   "posts": [
+    {
+      "id": "0573601d",
+      "image": "img/0573601d.png",
+      "image_sha": "fc93ecd86f55009739a51ad249e54eaf2aa1f6b8",
+      "url": "https://www.radiodos.com.ar/209986-san-juan-bautista-celebra-su-fiesta-patronal-con-procesiones-y-antorchas",
+      "title": "San Juan Bautista celebra su fiesta patronal con procesiones y antorchas",
+      "volanta": "DESDE HOY Y HASTA EL FIN DE SEMANA",
+      "date": "2026-06-24T11:17:19+00:00"
+    },
     {
       "id": "e2a74f51",
       "image": "img/e2a74f51.png",
@@ -531,15 +540,6 @@
       "title": "Dos detenidos en plena distribución de drogas en localidad del interior de Corrientes",
       "volanta": "EN EL PASO",
       "date": "2026-06-22T10:33:38+00:00"
-    },
-    {
-      "id": "c42bef77",
-      "image": "img/c42bef77.png",
-      "image_sha": "43b0c8a27297a83a8b1a3537a88e26f753f213ca",
-      "url": "https://www.radiodos.com.ar/209867-corrientes-registra-una-de-las-mayores-brechas-de-internet-rural-del-pais",
-      "title": "Corrientes registra una de las mayores brechas de internet rural del país",
-      "volanta": "Informe",
-      "date": "2026-06-22T00:26:22+00:00"
     }
   ]
 }
