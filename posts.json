@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T16:36:04+00:00",
+  "updated": "2026-06-24T18:46:33+00:00",
   "posts": [
+    {
+      "id": "dcf6d5e4",
+      "image": "img/dcf6d5e4.png",
+      "image_sha": "a3a02b4a92ee26e41049d6b784ad288c071786e5",
+      "url": "https://www.radiodos.com.ar/210012-puerto-valle-hotel-de-esteros-se-incorpora-a-small-luxury-hotels-of-the-world-y-posiciona-al-ibera-entre-los-destinos-de-lujo-sustentable-del-mundo",
+      "title": "Puerto Valle Hotel de Esteros se incorpora a Small Luxury Hotels of the World y posiciona al Iberá entre los destinos de lujo sustentable del mundo",
+      "volanta": "UNO DE LOS EXCLUSIVOS DEL PAIS",
+      "date": "2026-06-24T18:46:33+00:00"
+    },
     {
       "id": "ca41dc2e",
       "image": "img/ca41dc2e.png",
@@ -531,15 +540,6 @@
       "title": "Argentina vs. Austria: doblete de Lionel Messi para el 2-0",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-22T19:44:37+00:00"
-    },
-    {
-      "id": "f53d1a71",
-      "image": "img/f53d1a71.png",
-      "image_sha": "c27a8790a10282a64d0a7f71fd56ccca100f5b10",
-      "url": "https://www.radiodos.com.ar/209890-un-correntino-en-el-mundial-sigue-a-la-seleccion-con-la-camiseta-de-mandiyu",
-      "title": "Un correntino en el Mundial: sigue a la Selección con la camiseta de Mandiyú",
-      "volanta": "Hoy en Dallas",
-      "date": "2026-06-22T14:57:59+00:00"
     }
   ]
 }
