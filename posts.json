@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-23T22:20:54+00:00",
+  "updated": "2026-06-24T10:23:16+00:00",
   "posts": [
+    {
+      "id": "9adb97f2",
+      "image": "img/9adb97f2.png",
+      "image_sha": "9a4bc061004b5dabe54638c1300149ec058932bc",
+      "url": "https://www.radiodos.com.ar/209983-se-reanuda-el-juicio-por-loan-tras-largo-cuarto-intermedio",
+      "title": "Se reanuda el juicio por Loan tras largo cuarto intermedio",
+      "volanta": "EN GENDARMERIA",
+      "date": "2026-06-24T10:23:16+00:00"
+    },
     {
       "id": "2452b44d",
       "image": "img/2452b44d.png",
@@ -531,15 +540,6 @@
       "title": "León XIV en Argentina: crece la expectativa por una visita histórica y ya analizan posibles recorridos",
       "volanta": "Catolicismo",
       "date": "2026-06-21T21:35:24+00:00"
-    },
-    {
-      "id": "428f161a",
-      "image": "img/428f161a.png",
-      "image_sha": "a395ba8e0e79b889b84526c484b5c40a762f54bf",
-      "url": "https://www.radiodos.com.ar/209863-dia-del-padre-2026-las-ventas-volvieron-a-caer-y-acumulan-cuatro-anos-consecutivos-en-baja",
-      "title": "Día del Padre 2026: las ventas volvieron a caer y acumulan cuatro años consecutivos en baja",
-      "volanta": "Crisis",
-      "date": "2026-06-21T21:23:10+00:00"
     }
   ]
 }
