@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T15:03:21+00:00",
+  "updated": "2026-06-24T15:25:39+00:00",
   "posts": [
+    {
+      "id": "b4df816c",
+      "image": "img/b4df816c.png",
+      "image_sha": "fbf7c242f7f5830a2333109baa35976fa98f47b8",
+      "url": "https://www.radiodos.com.ar/210008-macabro-hallazgo-en-salta-encontraron-muerta-a-una-ninera-de-19-anos-que-estaba-desaparecida",
+      "title": "Macabro hallazgo en Salta: encontraron muerta a una niñera de 19 años que estaba desaparecida",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-06-24T15:25:39+00:00"
+    },
     {
       "id": "d24e2b08",
       "image": "img/d24e2b08.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei abrió las puertas a una nueva toma de deuda por hasta 5 mil millones de dólares adicionales",
       "volanta": "ECONOMÍA",
       "date": "2026-06-22T13:28:45+00:00"
-    },
-    {
-      "id": "c283efa5",
-      "image": "img/c283efa5.png",
-      "image_sha": "47a3bb0135962c5e97f447d028e005d726b47199",
-      "url": "https://www.radiodos.com.ar/209873-denuncia-por-desaparicion-buscan-a-una-joven-de-17-anos",
-      "title": "Denuncia por desaparición: buscan a una joven de 17 años",
-      "volanta": "Capital",
-      "date": "2026-06-22T13:16:58+00:00"
     }
   ]
 }
