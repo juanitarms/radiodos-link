@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T13:38:02+00:00",
+  "updated": "2026-06-24T14:04:00+00:00",
   "posts": [
+    {
+      "id": "a1520ca5",
+      "image": "img/a1520ca5.png",
+      "image_sha": "7f50782336910c92575c16f1c2e6849b9dc28f18",
+      "url": "https://www.radiodos.com.ar/209998-condenaron-a-un-policia-de-corrientes-por-cobrar-una-falsa-multa-de-transito-",
+      "title": "Condenaron a un policía de Corrientes por cobrar una \"falsa multa\" de tránsito",
+      "volanta": "JUICIO ABREVIADO",
+      "date": "2026-06-24T14:04:00+00:00"
+    },
     {
       "id": "d6c567d4",
       "image": "img/d6c567d4.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni bajó la tensión y respaldó a Ancelotti tras sus dichos sobre la Selección Argentina",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-22T12:46:38+00:00"
-    },
-    {
-      "id": "d6eb0c58",
-      "image": "img/d6eb0c58.png",
-      "image_sha": "d95d592b168d76865d4d31cce7b24679e99d8160",
-      "url": "https://www.radiodos.com.ar/209875-ingeniera-agronoma-estudia-como-los-incendios-afectan-al-suelo-y-su-capacidad-de-recuperacion",
-      "title": "Ingeniera Agrónoma estudia cómo los incendios afectan al suelo y su capacidad de recuperación",
-      "volanta": "Nuevos Conocimientos",
-      "date": "2026-06-22T12:21:47+00:00"
     }
   ]
 }
