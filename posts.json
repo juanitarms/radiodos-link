@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T21:09:15+00:00",
+  "updated": "2026-06-24T22:12:18+00:00",
   "posts": [
+    {
+      "id": "9b2871c7",
+      "image": "img/9b2871c7.png",
+      "image_sha": "f935dfe6be3744f1efc8872633623071b8928d65",
+      "url": "https://www.radiodos.com.ar/210032-detienen-a-una-pasajera-que-llevaba-mas-de-dos-kilos-de-cocaina-adosados-al-cuerpo",
+      "title": "Detienen a una pasajera que llevaba más de dos kilos de cocaína adosados al cuerpo",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-24T22:12:18+00:00"
+    },
     {
       "id": "293d7ed3",
       "image": "img/293d7ed3.png",
@@ -531,15 +540,6 @@
       "title": "Comienza mañana el pago de salarios a empleados estatales",
       "volanta": "HASTA EL MARTES 30",
       "date": "2026-06-23T11:19:17+00:00"
-    },
-    {
-      "id": "4edfc97d",
-      "image": "img/4edfc97d.png",
-      "image_sha": "df0b435819d66aedd78b0388e9ea3dce01793042",
-      "url": "https://www.radiodos.com.ar/209928-alerta-para-corrientes-por-frio-extremo-y-termicas-debajo-de-5c-toda-la-semana",
-      "title": "Alerta para Corrientes por frío extremo y térmicas debajo de 5ºC  toda la semana",
-      "volanta": "PRONÓSTICO",
-      "date": "2026-06-23T10:54:37+00:00"
     }
   ]
 }
