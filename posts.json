@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T18:49:16+00:00",
+  "updated": "2026-06-24T18:49:52+00:00",
   "posts": [
+    {
+      "id": "51546d90",
+      "image": "img/51546d90.png",
+      "image_sha": "f74a762f0b258d40a7dcc24c88d93d88b241ac29",
+      "url": "https://www.radiodos.com.ar/210016-el-24-de-junio-es-el-dia-mas-argentino-la-fecha-que-une-a-lionel-messi-con-gardel-riquelme-sabato-y-mas",
+      "title": "El 24 de junio es el día más argentino: la fecha que une a Lionel Messi con Gardel, Riquelme, Sábato y más",
+      "volanta": "GRAN DÍA",
+      "date": "2026-06-24T18:49:52+00:00"
+    },
     {
       "id": "7f25b09a",
       "image": "img/7f25b09a.png",
@@ -531,15 +540,6 @@
       "title": "Regatas oficializó a su nuevo entrenador para la Liga Nacional",
       "volanta": "ARMADO DEL EQUIPO",
       "date": "2026-06-22T22:56:37+00:00"
-    },
-    {
-      "id": "3d669538",
-      "image": "img/3d669538.png",
-      "image_sha": "8d3de99600e3da1c80599c11c240aec9977f09af",
-      "url": "https://www.radiodos.com.ar/209919-estados-unidos-levanto-las-sanciones-al-petroleo-de-iran",
-      "title": "Estados Unidos levantó las sanciones al petróleo de Irán",
-      "volanta": "MEDIO ORIENTE",
-      "date": "2026-06-22T21:55:09+00:00"
     }
   ]
 }
