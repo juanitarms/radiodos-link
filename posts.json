@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T22:59:17+00:00",
+  "updated": "2026-06-24T23:00:36+00:00",
   "posts": [
+    {
+      "id": "18b1af35",
+      "image": "img/18b1af35.png",
+      "image_sha": "51db16927fcdc75b122cdc14bbf6ce3aed27240e",
+      "url": "https://www.radiodos.com.ar/210036-expectativa-por-la-visita-del-papa-leon-xiv-a-la-argentina-seria-en-noviembre-y-duraria-tres-dias",
+      "title": "Expectativa por la visita del papa León XIV a la Argentina: sería en noviembre y duraría tres días",
+      "volanta": "Iglesia Católica",
+      "date": "2026-06-24T23:00:36+00:00"
+    },
     {
       "id": "5f50d0ab",
       "image": "img/5f50d0ab.png",
@@ -531,15 +540,6 @@
       "title": "¿Quién es la abuela de 100 años fanática de Lionel Messi que es récord Guinness y sorprendió en el Mundial?",
       "volanta": "SORPRESA",
       "date": "2026-06-23T13:25:10+00:00"
-    },
-    {
-      "id": "2e7dd53c",
-      "image": "img/2e7dd53c.png",
-      "image_sha": "03b9b080da1d515f095767cdb498671b53887e5e",
-      "url": "https://www.radiodos.com.ar/209938--dia-de-san-juan-bautista-asi-seran-las-prestaciones-municipales-para-este-24-de-junio",
-      "title": "Día de San Juan Bautista: así serán las prestaciones municipales para este 24 de junio",
-      "volanta": "FERIADO",
-      "date": "2026-06-23T12:58:45+00:00"
     }
   ]
 }
