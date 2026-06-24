@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T16:34:25+00:00",
+  "updated": "2026-06-24T16:34:55+00:00",
   "posts": [
+    {
+      "id": "6b31f2a7",
+      "image": "img/6b31f2a7.png",
+      "image_sha": "7bce93f5602e1b3a88992f1e90e3e4250a81371e",
+      "url": "https://www.radiodos.com.ar/210011-recuperan-mas-de-200-documentos-vinculados-a-san-martin-y-otros-proceres-valuados-en-100-mil-dolares",
+      "title": "Recuperan más de 200 documentos vinculados a San Martín y otros próceres valuados en 100 mil dólares",
+      "volanta": "INCREIBLE",
+      "date": "2026-06-24T16:34:55+00:00"
+    },
     {
       "id": "c3fb9155",
       "image": "img/c3fb9155.png",
@@ -531,15 +540,6 @@
       "title": "El gesto de Diego Godín que sacude a Uruguay en pleno Mundial 2026",
       "volanta": "POLÉMICA",
       "date": "2026-06-22T14:12:42+00:00"
-    },
-    {
-      "id": "fe36349d",
-      "image": "img/fe36349d.png",
-      "image_sha": "c78698778b7c35d34da93fdfd3f3695c0fddf029",
-      "url": "https://www.radiodos.com.ar/209887-el-empleo-formal-volvio-a-caer-y-el-salario-minimo-ya-perdio-casi-40-frente-a-la-inflacion",
-      "title": "El empleo formal volvió a caer y el salario mínimo ya perdió casi 40% frente a la inflación",
-      "volanta": "ECONOMÍA",
-      "date": "2026-06-22T13:55:56+00:00"
     }
   ]
 }
