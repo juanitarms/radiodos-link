@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T18:48:31+00:00",
+  "updated": "2026-06-24T18:49:16+00:00",
   "posts": [
+    {
+      "id": "7f25b09a",
+      "image": "img/7f25b09a.png",
+      "image_sha": "52a47278a2daa68d980a9f620ee6b92eed3e32af",
+      "url": "https://www.radiodos.com.ar/210017-conmocion-en-un-pueblo-de-santa-fe-por-el-colapso-de-una-financiera-su-presidente-se-quito-la-vida",
+      "title": "Conmoción en un pueblo de Santa Fe por el colapso de una financiera: su presidente se quitó la vida",
+      "volanta": "NELSON",
+      "date": "2026-06-24T18:49:16+00:00"
+    },
     {
       "id": "408a7244",
       "image": "img/408a7244.png",
@@ -531,15 +540,6 @@
       "title": "Estados Unidos levantó las sanciones al petróleo de Irán",
       "volanta": "MEDIO ORIENTE",
       "date": "2026-06-22T21:55:09+00:00"
-    },
-    {
-      "id": "de15af75",
-      "image": "img/de15af75.png",
-      "image_sha": "15fc30a511563390864ccbc50f9a14f4a19f8389",
-      "url": "https://www.radiodos.com.ar/209915-santa-catalina-se-consolida-como-un-polo-deportivo-el-municipio-articula-infraestructura-con-los-clubes",
-      "title": "Santa Catalina se consolida como un polo deportivo: el Municipio articula infraestructura con los clubes",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-22T21:47:41+00:00"
     }
   ]
 }
