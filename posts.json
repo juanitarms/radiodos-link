@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T20:53:12+00:00",
+  "updated": "2026-06-24T20:55:17+00:00",
   "posts": [
+    {
+      "id": "90d45975",
+      "image": "img/90d45975.png",
+      "image_sha": "5c14ab5bbefa59878d6fa112bf2b0da739da286b",
+      "url": "https://www.radiodos.com.ar/210025-juicio-por-loan-los-siete-imputados-acusados-de-la-sustraccion-del-pequeno-se-negaron-a-declarar",
+      "title": "Juicio por Loan: los siete imputados acusados de la sustracción del pequeño se negaron a declarar",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-06-24T20:55:17+00:00"
+    },
     {
       "id": "1b829832",
       "image": "img/1b829832.png",
@@ -531,15 +540,6 @@
       "title": "Las economías regionales de Corrientes no logran salir de la crisis",
       "volanta": "informe de CONINAGRO",
       "date": "2026-06-22T23:05:08+00:00"
-    },
-    {
-      "id": "c2fd3549",
-      "image": "img/c2fd3549.png",
-      "image_sha": "c8a63db32308ef477504d86d52340867e129212a",
-      "url": "https://www.radiodos.com.ar/209925-el-gobierno-designo-a-fabian-fernandez-como-nuevo-secretario-de-comunicacion-y-prensa",
-      "title": "El Gobierno designó a Fabián Fernández como nuevo Secretario de Comunicación y Prensa",
-      "volanta": "MÁS CAMBIOS",
-      "date": "2026-06-22T23:03:32+00:00"
     }
   ]
 }
