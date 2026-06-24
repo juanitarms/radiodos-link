@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-24T12:34:13+00:00",
+  "updated": "2026-06-24T13:03:52+00:00",
   "posts": [
+    {
+      "id": "891932e4",
+      "image": "img/891932e4.png",
+      "image_sha": "d537ebd33901842ccb1bb290310a62b9998e2483",
+      "url": "https://www.radiodos.com.ar/209995-corrientes-robo-una-moto-en-la-puerta-de-una-iglesia-pero-fue-rapidamente-capturado-por-la-policia",
+      "title": "Corrientes: robó una moto en la puerta de una iglesia, pero fue rápidamente capturado por la Policía",
+      "volanta": "COMISARÍA 9",
+      "date": "2026-06-24T13:03:52+00:00"
+    },
     {
       "id": "1f73965a",
       "image": "img/1f73965a.png",
@@ -531,15 +540,6 @@
       "title": "Mañana comienza el pago del Plus Especial a empleados municipales",
       "volanta": "HASTA EL JUEVES 25",
       "date": "2026-06-22T11:36:33+00:00"
-    },
-    {
-      "id": "691f88ae",
-      "image": "img/691f88ae.png",
-      "image_sha": "fcda5c0e31b838ae2ee1f32cdc3a08b0604658c4",
-      "url": "https://www.radiodos.com.ar/209872-confuso-episodio-en-una-plaza-de-corrientes-una-discusion-termino-a-los-tiros",
-      "title": "Confuso episodio en una plaza de Corrientes: una discusión terminó a los tiros",
-      "volanta": "ZONA CALIENTE",
-      "date": "2026-06-22T11:19:43+00:00"
     }
   ]
 }
