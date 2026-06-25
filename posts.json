@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T17:49:45+00:00",
+  "updated": "2026-06-25T17:50:19+00:00",
   "posts": [
+    {
+      "id": "4154ef79",
+      "image": "img/4154ef79.png",
+      "image_sha": "18f45312843bef6d0c25028485f146ebec80031f",
+      "url": "https://www.radiodos.com.ar/210074-el-mentalista-del-momento-llega-a-corrientes",
+      "title": "El mentalista del momento llega a Corrientes",
+      "volanta": "ÚNICO SHOW",
+      "date": "2026-06-25T17:50:19+00:00"
+    },
     {
       "id": "e60cb50d",
       "image": "img/e60cb50d.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: apuntan a las maniobras de Laudelina Peña para tapar la desaparición de su sobrino",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-06-23T20:15:59+00:00"
-    },
-    {
-      "id": "8a2e5d08",
-      "image": "img/8a2e5d08.png",
-      "image_sha": "c38d13a72de5209489beb6c32039d6ceafb7d1ba",
-      "url": "https://www.radiodos.com.ar/209971-violento-ataque-de-una-mujer-a-otra-senora-que-caminaba-con-su-hija-en-un-barrio-de-corrientes",
-      "title": "Violento ataque de una mujer a otra señora que caminaba con su hija en un barrio de Corrientes",
-      "volanta": "TAMBIEN AGREDIO A UNA MUJER POLICIA",
-      "date": "2026-06-23T19:35:25+00:00"
     }
   ]
 }
