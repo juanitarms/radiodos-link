@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T11:35:14+00:00",
+  "updated": "2026-06-25T12:03:43+00:00",
   "posts": [
+    {
+      "id": "dbb321b6",
+      "image": "img/dbb321b6.png",
+      "image_sha": "6dd65c45967a48418adccaaadd46ec999818d386",
+      "url": "https://www.radiodos.com.ar/210047-identificaron-que-procesos-ayudan-al-maiz-a-sostener-el-rendimiento-frente-al-calor-y-la-sequia",
+      "title": "Identificaron qué procesos ayudan al maíz a sostener el rendimiento frente al calor y la sequía",
+      "volanta": "NUEVOS CONOCIMIENTOS",
+      "date": "2026-06-25T12:03:43+00:00"
+    },
     {
       "id": "35ff8baf",
       "image": "img/35ff8baf.png",
@@ -531,15 +540,6 @@
       "title": "La Libertad Avanza convocó a una sesión especial en Diputados para debatir el Súper RIGI: a quién afectará",
       "volanta": "CONGRESO",
       "date": "2026-06-23T14:07:40+00:00"
-    },
-    {
-      "id": "de73e188",
-      "image": "img/de73e188.png",
-      "image_sha": "b79a4b5fea3db640c45598c9b65f3527ac02040c",
-      "url": "https://www.radiodos.com.ar/209954-argentina-ya-tiene-fecha-horario-y-estadio-confirmados-para-16avos-de-final",
-      "title": "Argentina ya tiene fecha, horario y estadio confirmados para 16avos de final",
-      "volanta": "Solo falta conocer al rival",
-      "date": "2026-06-23T13:48:27+00:00"
     }
   ]
 }
