@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T13:35:37+00:00",
+  "updated": "2026-06-25T13:57:39+00:00",
   "posts": [
+    {
+      "id": "f60fad11",
+      "image": "img/f60fad11.png",
+      "image_sha": "aabce402e32aed0b6a5ff1b9ce533b0edaf281e0",
+      "url": "https://www.radiodos.com.ar/210059-desesperada-busqueda-de-la-familia-de-lucas-trejo-tras-los-dos-terremotos-que-azotaron-a-venezuela",
+      "title": "Desesperada búsqueda de la familia de Lucas Trejo tras los dos terremotos que azotaron a Venezuela",
+      "volanta": "DRAMÁTICO",
+      "date": "2026-06-25T13:57:39+00:00"
+    },
     {
       "id": "6aaa8ffa",
       "image": "img/6aaa8ffa.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia en Mar del Plata: el parte médico oficial de los seis heridos tras el grave accidente",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-23T16:13:35+00:00"
-    },
-    {
-      "id": "125b81da",
-      "image": "img/125b81da.png",
-      "image_sha": "58182574b354279d96e58211793eb4c9c83fe3fa",
-      "url": "https://www.radiodos.com.ar/209945-ara-san-juan-pidieron-condenas-de-hasta-5-anos-de-carcel-para-exjefes-de-la-armada",
-      "title": "ARA San Juan: pidieron condenas de hasta 5 años de cárcel para exjefes de la Armada",
-      "volanta": "JUICIO",
-      "date": "2026-06-23T16:13:02+00:00"
     }
   ]
 }
