@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T22:22:25+00:00",
+  "updated": "2026-06-25T22:26:24+00:00",
   "posts": [
+    {
+      "id": "09029417",
+      "image": "img/09029417.png",
+      "image_sha": "7a516e8ddb5be1a0a4f52e95bb68be3ad4e6c079",
+      "url": "https://www.radiodos.com.ar/210100-cine-nae-abre-convocatoria-para-cortometrajes-y-videoclips-de-realizadores-del-nea",
+      "title": "Cine Naé abre convocatoria para cortometrajes y videoclips de realizadores del NEA",
+      "volanta": "audiovisual regional",
+      "date": "2026-06-25T22:26:24+00:00"
+    },
     {
       "id": "9f058b69",
       "image": "img/9f058b69.png",
@@ -531,15 +540,6 @@
       "title": "Un nuevo afortunado ganó más de $140 millones en la Poceada Correntina",
       "volanta": "DE CAPITAL",
       "date": "2026-06-24T11:02:33+00:00"
-    },
-    {
-      "id": "aa369a6e",
-      "image": "img/aa369a6e.png",
-      "image_sha": "af77546a96284a51c51b799a228bfa0dd49be2a4",
-      "url": "https://www.radiodos.com.ar/209984-los-gobernadores-valdes-zdero-y-pullaro-coordinan-una-agenda-regional-ante-nacion",
-      "title": "Los gobernadores Valdés, Zdero y Pullaro coordinan una agenda regional ante Nación",
-      "volanta": "REUNIÓN EN RESISTENCIA",
-      "date": "2026-06-24T10:38:53+00:00"
     }
   ]
 }
