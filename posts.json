@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T22:21:05+00:00",
+  "updated": "2026-06-25T22:22:25+00:00",
   "posts": [
+    {
+      "id": "9f058b69",
+      "image": "img/9f058b69.png",
+      "image_sha": "5a25a9e93e0685c43113f083f737fac1d58d337a",
+      "url": "https://www.radiodos.com.ar/210097-la-ministra-de-educacion-de-corrientes-desmintio-hecho-de-violencia-en-escuela-pero-admitio-un-error-del-supervisor",
+      "title": "La Ministra de Educación de Corrientes desmintió hecho de violencia en escuela pero admitió \"un error\" del supervisor",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-06-25T22:22:25+00:00"
+    },
     {
       "id": "f3ec0729",
       "image": "img/f3ec0729.png",
@@ -531,15 +540,6 @@
       "title": "Los gobernadores Valdés, Zdero y Pullaro coordinan una agenda regional ante Nación",
       "volanta": "REUNIÓN EN RESISTENCIA",
       "date": "2026-06-24T10:38:53+00:00"
-    },
-    {
-      "id": "9adb97f2",
-      "image": "img/9adb97f2.png",
-      "image_sha": "9a4bc061004b5dabe54638c1300149ec058932bc",
-      "url": "https://www.radiodos.com.ar/209983-se-reanuda-el-juicio-por-loan-tras-largo-cuarto-intermedio",
-      "title": "Se reanuda el juicio por Loan tras largo cuarto intermedio",
-      "volanta": "EN GENDARMERIA",
-      "date": "2026-06-24T10:23:16+00:00"
     }
   ]
 }
