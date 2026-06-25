@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T16:20:50+00:00",
+  "updated": "2026-06-25T16:21:28+00:00",
   "posts": [
+    {
+      "id": "44e4346e",
+      "image": "img/44e4346e.png",
+      "image_sha": "787fadc8de54161cd75240a0ae71e9989641503b",
+      "url": "https://www.radiodos.com.ar/210067-filtraron-un-adelanto-de-shakira-interpretando-dai-dai-en-espanol",
+      "title": "Filtraron un adelanto de Shakira interpretando \"Dai Dai\" en español",
+      "volanta": "ESTRENO",
+      "date": "2026-06-25T16:21:28+00:00"
+    },
     {
       "id": "788b87db",
       "image": "img/788b87db.png",
@@ -531,15 +540,6 @@
       "title": "Quién dejó la casa de Gran Hermano Generación Dorada en la última gala de eliminación",
       "volanta": "GALA DE ELIMINACIÓN",
       "date": "2026-06-23T18:35:23+00:00"
-    },
-    {
-      "id": "76ecada4",
-      "image": "img/76ecada4.png",
-      "image_sha": "be5a9d22128ae4eac98e68336194ef1ce995372f",
-      "url": "https://www.radiodos.com.ar/209956-las-imagenes-que-confirman-el-apasionado-reencuentro-de-rodrigo-de-paul-y-tini-stoessel-tras-el-triunfo-de-argentina",
-      "title": "Las imágenes que confirman el apasionado reencuentro de Rodrigo de Paul y Tini Stoessel tras el triunfo de Argentina",
-      "volanta": "Puro amor",
-      "date": "2026-06-23T18:34:50+00:00"
     }
   ]
 }
