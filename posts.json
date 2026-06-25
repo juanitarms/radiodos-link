@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T17:50:53+00:00",
+  "updated": "2026-06-25T20:33:53+00:00",
   "posts": [
+    {
+      "id": "1c0eec46",
+      "image": "img/1c0eec46.png",
+      "image_sha": "fa8651f65183ba5323accc2fd24ef5bfb5777c13",
+      "url": "https://www.radiodos.com.ar/210090-excombatiente-de-corrientes-esta-desaparecido-desde-el-22-de-junio-",
+      "title": "Excombatiente de Corrientes está desaparecido desde el 22 de junio",
+      "volanta": "ALERTA",
+      "date": "2026-06-25T20:33:53+00:00"
+    },
     {
       "id": "0ea7320e",
       "image": "img/0ea7320e.png",
@@ -531,15 +540,6 @@
       "title": "Con el PRO y la UCR como salvavidas, Adorni esquivó la interpelación en Diputados",
       "volanta": "falta de quórum",
       "date": "2026-06-23T21:27:43+00:00"
-    },
-    {
-      "id": "2031c9b2",
-      "image": "img/2031c9b2.png",
-      "image_sha": "d42080f04495f5f786292266ebf8e45469763a2d",
-      "url": "https://www.radiodos.com.ar/209973-hallan-sin-vida-al-peon-rural-que-era-intensamente-buscado-en-un-arroyo",
-      "title": "Hallan sin vida al peón rural que era intensamente buscado en un arroyo",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-23T21:10:02+00:00"
     }
   ]
 }
