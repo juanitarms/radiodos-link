@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T20:52:04+00:00",
+  "updated": "2026-06-25T20:53:51+00:00",
   "posts": [
+    {
+      "id": "9190d07d",
+      "image": "img/9190d07d.png",
+      "image_sha": "56c16cc79dece2ce4f3125ba1da55e99ea4bfaee",
+      "url": "https://www.radiodos.com.ar/210093-aprobaron-una-ordenanza-para-mejorar-la-circulacion-vial-en-el-barrio-concepcion",
+      "title": "Aprobaron una ordenanza para mejorar la circulación vial en el barrio Concepción",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-25T20:53:51+00:00"
+    },
     {
       "id": "da475379",
       "image": "img/da475379.png",
@@ -531,15 +540,6 @@
       "title": "Recuperan más de 200 documentos de San Martín y Rosas que iban a ser subastados ilegalmente",
       "volanta": "LEY 15.930",
       "date": "2026-06-23T22:08:57+00:00"
-    },
-    {
-      "id": "bd0c21e1",
-      "image": "img/bd0c21e1.png",
-      "image_sha": "86445dd22a0a950ecfacc19b92d9143ca4c91edd",
-      "url": "https://www.radiodos.com.ar/209977-firman-un-convenio-para-la-capacitacion-y-reinsercion-laboral-de-personas-privadas-de-la-libertad",
-      "title": "Firman un convenio para la capacitación y reinserción laboral de personas privadas de la libertad",
-      "volanta": "POLÍTICAS DE INCLUSIÓN",
-      "date": "2026-06-23T21:57:37+00:00"
     }
   ]
 }
