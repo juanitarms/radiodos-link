@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T23:51:58+00:00",
+  "updated": "2026-06-25T23:52:41+00:00",
   "posts": [
+    {
+      "id": "839bf4dd",
+      "image": "img/839bf4dd.png",
+      "image_sha": "cbb5bd0f8959b99b440de899061e019b68d6acc1",
+      "url": "https://www.radiodos.com.ar/210102-la-cgt-anuncio-un-plan-de-accion-que-concluira-en-un-paro-y-una-marcha-nacional",
+      "title": "La CGT anunció un plan de acción que concluirá en un paro y una marcha nacional",
+      "volanta": "contra las políticas del Gobierno",
+      "date": "2026-06-25T23:52:41+00:00"
+    },
     {
       "id": "aa06b1ab",
       "image": "img/aa06b1ab.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés acompañó al pueblo de Ituzaingó en la fiesta patronal por San Juan Bautista",
       "volanta": "TRADICIÓN",
       "date": "2026-06-24T12:34:13+00:00"
-    },
-    {
-      "id": "1198c7e0",
-      "image": "img/1198c7e0.png",
-      "image_sha": "fcb1cb1cff8bfff4c82e27698f39c84c7102372a",
-      "url": "https://www.radiodos.com.ar/209988-corrientes-el-depravado-del-17-de-agosto-siguio-a-la-joven-desde-varias-cuadras-antes",
-      "title": "Corrientes: el \"depravado del 17 de Agosto\" siguió a la joven desde varias cuadras antes",
-      "volanta": "NUEVAS IMAGENES",
-      "date": "2026-06-24T11:48:17+00:00"
     }
   ]
 }
