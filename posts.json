@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T14:46:23+00:00",
+  "updated": "2026-06-25T14:57:21+00:00",
   "posts": [
+    {
+      "id": "7374f933",
+      "image": "img/7374f933.png",
+      "image_sha": "d6fc814d26bd8780ecc8da4872cd3672ee612f83",
+      "url": "https://www.radiodos.com.ar/210070-wanda-nara-revelo-que-mauro-icardi-no-se-queria-separar-lo-que-derivo-en-acoso-me-ha-llamado-300-veces",
+      "title": "Wanda Nara reveló que Mauro Icardi no se quería separar, lo que derivó en acoso: \"Me ha llamado 300 veces...\"",
+      "volanta": "UNA LOCURA",
+      "date": "2026-06-25T14:57:21+00:00"
+    },
     {
       "id": "3cd4a3c2",
       "image": "img/3cd4a3c2.png",
@@ -531,15 +540,6 @@
       "title": "Manuel Adorni anunció a Fabián Fernández como nuevo secretario de Comunicación y Prensa",
       "volanta": "CAMBIOS",
       "date": "2026-06-23T18:33:39+00:00"
-    },
-    {
-      "id": "be1414c2",
-      "image": "img/be1414c2.png",
-      "image_sha": "9cf88b1d61010b733aa49f64fef707d5b64a3afd",
-      "url": "https://www.radiodos.com.ar/209947-en-noviembre-corrientes-sera-sede-del-concurso-emprendimiento-argentino",
-      "title": "En noviembre, Corrientes será sede del Concurso Emprendimiento Argentino",
-      "volanta": "VISITA NACIONAL",
-      "date": "2026-06-23T18:33:04+00:00"
     }
   ]
 }
