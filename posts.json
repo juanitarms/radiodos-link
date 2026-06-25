@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T13:13:05+00:00",
+  "updated": "2026-06-25T13:35:37+00:00",
   "posts": [
+    {
+      "id": "6aaa8ffa",
+      "image": "img/6aaa8ffa.png",
+      "image_sha": "85bdcfb02245f1306510b4e38df04185ece1e655",
+      "url": "https://www.radiodos.com.ar/210052-se-viene-el-tercer-fan-fest-la-rotonda-poncho-verde-sera-el-lugar-para-alentar-a-la-seleccion",
+      "title": "Se viene el tercer Fan Fest: la rotonda Poncho Verde será el lugar para alentar a la Selección",
+      "volanta": "MUNICIPALIDAD DE CORRIENTES",
+      "date": "2026-06-25T13:35:37+00:00"
+    },
     {
       "id": "821e5e44",
       "image": "img/821e5e44.png",
@@ -531,15 +540,6 @@
       "title": "ARA San Juan: pidieron condenas de hasta 5 años de cárcel para exjefes de la Armada",
       "volanta": "JUICIO",
       "date": "2026-06-23T16:13:02+00:00"
-    },
-    {
-      "id": "ac718c45",
-      "image": "img/ac718c45.png",
-      "image_sha": "b97e4f79598eb95b640bb6641f0646b0390c15b8",
-      "url": "https://www.radiodos.com.ar/209943-se-inauguro-un-segundo-mural-en-el-club-guarani-de-paso-de-los-libres-",
-      "title": "Se inauguró un segundo mural en el Club Guaraní de Paso de los Libres",
-      "volanta": "𝟠𝟘 𝕒𝕟𝕚𝕧𝕖𝕣𝕤𝕒𝕣𝕚𝕠",
-      "date": "2026-06-23T16:12:26+00:00"
     }
   ]
 }
