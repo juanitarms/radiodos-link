@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T13:57:39+00:00",
+  "updated": "2026-06-25T14:17:41+00:00",
   "posts": [
+    {
+      "id": "8d82a172",
+      "image": "img/8d82a172.png",
+      "image_sha": "07527c4b0094d66288db2712983e82869d7a0ac7",
+      "url": "https://www.radiodos.com.ar/210062-paraguay-vs-australia-por-el-mundial-2026-horario-formaciones-y-tv",
+      "title": "Paraguay vs. Australia por el Mundial 2026: horario, formaciones y TV",
+      "volanta": "GRUPO D",
+      "date": "2026-06-25T14:17:41+00:00"
+    },
     {
       "id": "f60fad11",
       "image": "img/f60fad11.png",
@@ -531,15 +540,6 @@
       "title": "Regatas sumó dos títulos en el Apertura del A.Vo.Re.",
       "volanta": "Voley",
       "date": "2026-06-23T18:31:51+00:00"
-    },
-    {
-      "id": "75a2cb6b",
-      "image": "img/75a2cb6b.png",
-      "image_sha": "97006a7cbeca8101d337d7c046e45d25f212c8c1",
-      "url": "https://www.radiodos.com.ar/209952-tragedia-en-mar-del-plata-el-parte-medico-oficial-de-los-seis-heridos-tras-el-grave-accidente",
-      "title": "Tragedia en Mar del Plata: el parte médico oficial de los seis heridos tras el grave accidente",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-23T16:13:35+00:00"
     }
   ]
 }
