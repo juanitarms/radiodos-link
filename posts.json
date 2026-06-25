@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T14:17:41+00:00",
+  "updated": "2026-06-25T14:35:40+00:00",
   "posts": [
+    {
+      "id": "c69ad35e",
+      "image": "img/c69ad35e.png",
+      "image_sha": "3a899d6b3750479cce41cb53384998fd23ed43b9",
+      "url": "https://www.radiodos.com.ar/210066-terremotos-en-venezuela-el-aeropuerto-de-caracas-ya-no-existe",
+      "title": "Terremotos en Venezuela: \"El aeropuerto de Caracas ya no existe\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-06-25T14:35:40+00:00"
+    },
     {
       "id": "8d82a172",
       "image": "img/8d82a172.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia Federal ordeno la remoción partidaria de un ex legislador del PJ",
       "volanta": "FALLO",
       "date": "2026-06-23T18:32:30+00:00"
-    },
-    {
-      "id": "5cbd0179",
-      "image": "img/5cbd0179.png",
-      "image_sha": "6ac97fe1858f588964d32ab67e6cc42e5a978f44",
-      "url": "https://www.radiodos.com.ar/209968-regatas-sumo-dos-titulos-en-el-apertura-del-avore",
-      "title": "Regatas sumó dos títulos en el Apertura del A.Vo.Re.",
-      "volanta": "Voley",
-      "date": "2026-06-23T18:31:51+00:00"
     }
   ]
 }
