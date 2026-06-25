@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T16:21:28+00:00",
+  "updated": "2026-06-25T17:49:08+00:00",
   "posts": [
+    {
+      "id": "7965390d",
+      "image": "img/7965390d.png",
+      "image_sha": "75ae33a081aaec0d0abc2ee23bff550426677d34",
+      "url": "https://www.radiodos.com.ar/210071-el-pa-reconocera-a-referentes-de-la-historia-politica-de-goya",
+      "title": "El PA reconocerá a referentes de la historia política de Goya",
+      "volanta": "DESTACADOS",
+      "date": "2026-06-25T17:49:08+00:00"
+    },
     {
       "id": "44e4346e",
       "image": "img/44e4346e.png",
@@ -531,15 +540,6 @@
       "title": "Hinchas del Atlético de Madrid quemaron la camiseta de Julián Álvarez tras su pedido de transferencia",
       "volanta": "DEPORTES",
       "date": "2026-06-23T18:56:57+00:00"
-    },
-    {
-      "id": "b2fb3150",
-      "image": "img/b2fb3150.png",
-      "image_sha": "6dd7505fc68316c6d0e996a7de773566d254b891",
-      "url": "https://www.radiodos.com.ar/209957-quien-dejo-la-casa-de-gran-hermano-generacion-dorada-en-la-ultima-gala-de-eliminacion",
-      "title": "Quién dejó la casa de Gran Hermano Generación Dorada en la última gala de eliminación",
-      "volanta": "GALA DE ELIMINACIÓN",
-      "date": "2026-06-23T18:35:23+00:00"
     }
   ]
 }
