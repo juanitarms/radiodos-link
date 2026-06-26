@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T11:32:43+00:00",
+  "updated": "2026-06-26T12:31:46+00:00",
   "posts": [
+    {
+      "id": "222803d6",
+      "image": "img/222803d6.png",
+      "image_sha": "e477bf87f651c3d9972f88d7bf6c773ec96e2533",
+      "url": "https://www.radiodos.com.ar/210110-un-obispo-en-corrientes-alerto-sobre-el-aumento-de-apuestas-on-line-durante-el-mundial",
+      "title": "Un Obispo en Corrientes alertó sobre \"el aumento de apuestas on line durante el Mundial\"",
+      "volanta": "GOYA",
+      "date": "2026-06-26T12:31:46+00:00"
+    },
     {
       "id": "0ee3cdb3",
       "image": "img/0ee3cdb3.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei aseguró que aumentó el salario real y subirán las jubilaciones y el consumo",
       "volanta": "EXPOSICIÓN",
       "date": "2026-06-24T14:25:05+00:00"
-    },
-    {
-      "id": "a1520ca5",
-      "image": "img/a1520ca5.png",
-      "image_sha": "7f50782336910c92575c16f1c2e6849b9dc28f18",
-      "url": "https://www.radiodos.com.ar/209998-condenaron-a-un-policia-de-corrientes-por-cobrar-una-falsa-multa-de-transito-",
-      "title": "Condenaron a un policía de Corrientes por cobrar una \"falsa multa\" de tránsito",
-      "volanta": "JUICIO ABREVIADO",
-      "date": "2026-06-24T14:04:00+00:00"
     }
   ]
 }
