@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T18:45:59+00:00",
+  "updated": "2026-06-26T20:22:12+00:00",
   "posts": [
+    {
+      "id": "7c874d8b",
+      "image": "img/7c874d8b.png",
+      "image_sha": "11b049ee7ad91dbc340260ea7a15f166e5bd87f7",
+      "url": "https://www.radiodos.com.ar/210151-el-arzobispo-de-corrientes-participo-de-una-invocacion-religiosa-por-la-vida-la-libertad-y-la-esperanza",
+      "title": "El Arzobispo de Corrientes participó de una invocación religiosa por la vida, la libertad y la esperanza",
+      "volanta": "DÍA INTERNACIONAL DE LA LUCHA CONTRA EL USO INDEBIDO Y EL TRÁFICO ILÍCITO DE DROGAS",
+      "date": "2026-06-26T20:22:12+00:00"
+    },
     {
       "id": "ac459cae",
       "image": "img/ac459cae.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: los siete imputados acusados de la sustracción del pequeño se negaron a declarar",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-06-24T20:55:17+00:00"
-    },
-    {
-      "id": "1b829832",
-      "image": "img/1b829832.png",
-      "image_sha": "fb71d9fa8ca2ae5885d51d9f5dd60cc7b9a74525",
-      "url": "https://www.radiodos.com.ar/210026-se-reactivaron-los-trabajos-de-la-autovia-de-la-ruta-nacional-n-12",
-      "title": "Se reactivaron los trabajos de la Autovía de la Ruta Nacional Nº 12",
-      "volanta": "VIALIDAD NACIONAL",
-      "date": "2026-06-24T20:53:12+00:00"
     }
   ]
 }
