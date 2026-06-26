@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T21:43:57+00:00",
+  "updated": "2026-06-26T21:44:54+00:00",
   "posts": [
+    {
+      "id": "10a09405",
+      "image": "img/10a09405.png",
+      "image_sha": "27bc05a1ea7040a1ce6c70d96fdb78b343cb0430",
+      "url": "https://www.radiodos.com.ar/210159-detienen-a-un-hombre-y-secuestran-droga-lista-para-la-venta-en-goya",
+      "title": "Detienen a un hombre y secuestran droga lista para la venta en Goya",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-26T21:44:54+00:00"
+    },
     {
       "id": "34e62370",
       "image": "img/34e62370.png",
@@ -531,15 +540,6 @@
       "title": "Anticipan que la privatización del río Paraná \"será anulada por la justicia\"",
       "volanta": "ESCANDALO",
       "date": "2026-06-24T22:59:17+00:00"
-    },
-    {
-      "id": "8aaf4ebc",
-      "image": "img/8aaf4ebc.png",
-      "image_sha": "a9f03d9fde2bde36c0baea61d6a8bb766b8e2d30",
-      "url": "https://www.radiodos.com.ar/210034-corona-instrumentamos-una-ingenieria-mental-permanente-para-mantener-programas-de-salud-desfinanciados-por-nacion",
-      "title": "Corona: \"Instrumentamos una ingeniería mental permanente para mantener programas de salud desfinanciados por Nación\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-06-24T22:55:44+00:00"
     }
   ]
 }
