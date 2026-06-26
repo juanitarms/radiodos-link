@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T11:03:38+00:00",
+  "updated": "2026-06-26T11:17:57+00:00",
   "posts": [
+    {
+      "id": "63180d57",
+      "image": "img/63180d57.png",
+      "image_sha": "1b02d62bfab17d8417d451deb9fdc96be2b036c7",
+      "url": "https://www.radiodos.com.ar/210105-advierten-que-por-la-fuerte-competencia-cayo-15-la-demanda-de-remises-en-corrientes",
+      "title": "Advierten que por la fuerte competencia cayó 15% la demanda de remises en Corrientes",
+      "volanta": "TIEMPOS COMPLICADOS",
+      "date": "2026-06-26T11:17:57+00:00"
+    },
     {
       "id": "896f63d1",
       "image": "img/896f63d1.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un \"dealer\" con varias dosis de cocaína en localidad del interior de Corrientes",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-06-24T13:38:02+00:00"
-    },
-    {
-      "id": "d1a94b02",
-      "image": "img/d1a94b02.png",
-      "image_sha": "b0b1d5e82dda1e5990eec8029cc8cb65133fec15",
-      "url": "https://www.radiodos.com.ar/209987-comenzo-el-pago-de-salarios-a-empleados-estatales",
-      "title": "Comenzó el pago de salarios a empleados estatales",
-      "volanta": "HASTA EL MARTES 30",
-      "date": "2026-06-24T13:18:29+00:00"
     }
   ]
 }
