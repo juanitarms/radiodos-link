@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T20:35:11+00:00",
+  "updated": "2026-06-26T20:37:27+00:00",
   "posts": [
+    {
+      "id": "02e8ecc9",
+      "image": "img/02e8ecc9.png",
+      "image_sha": "e1d0a09382579cd0917487fa7fc6bef5a05e6b76",
+      "url": "https://www.radiodos.com.ar/210156-tragedia-en-el-interior-de-corrientes-un-hombre-murio-calcinado-al-incendiarse-su-vivienda",
+      "title": "Tragedia en el interior de Corrientes: un hombre murió calcinado al incendiarse su vivienda",
+      "volanta": "ANOCHE",
+      "date": "2026-06-26T20:37:27+00:00"
+    },
     {
       "id": "1fce566b",
       "image": "img/1fce566b.png",
@@ -531,15 +540,6 @@
       "title": "Citan a Elisa Carrió a declarar en el juicio por la desaparición de Loan Peña",
       "volanta": "CORRIENTES",
       "date": "2026-06-24T21:07:23+00:00"
-    },
-    {
-      "id": "64060c03",
-      "image": "img/64060c03.png",
-      "image_sha": "2738966da431c0481b4e34826c01624ca1a20521",
-      "url": "https://www.radiodos.com.ar/210028-chaco-regulara-por-ley-el-uso-de-celulares-en-las-escuelas",
-      "title": "Chaco regulará por ley el uso de celulares en las escuelas",
-      "volanta": "histórico",
-      "date": "2026-06-24T20:56:27+00:00"
     }
   ]
 }
