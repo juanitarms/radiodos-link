@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T14:59:10+00:00",
+  "updated": "2026-06-26T15:10:47+00:00",
   "posts": [
+    {
+      "id": "8bc52998",
+      "image": "img/8bc52998.png",
+      "image_sha": "84ccb4d3f9d84c6a2fddf6267e5bf55e2e10faf0",
+      "url": "https://www.radiodos.com.ar/210132-sebastian-beccacece-cito-a-indio-solari-tras-la-historica-clasificacion-de-ecuador-el-rock-me-dio-fuerzas",
+      "title": "Sebastián Beccacece citó a Indio Solari tras la histórica clasificación de Ecuador: \"El rock me dio fuerzas\"",
+      "volanta": "GRAN FAN",
+      "date": "2026-06-26T15:10:47+00:00"
+    },
     {
       "id": "bd8ce7cd",
       "image": "img/bd8ce7cd.png",
@@ -531,15 +540,6 @@
       "title": "El regalo que le hizo la Selección Argentina a Lionel Messi por su cumpleaños en la concentración",
       "volanta": "FESTEJO",
       "date": "2026-06-24T16:36:04+00:00"
-    },
-    {
-      "id": "f99d7b4d",
-      "image": "img/f99d7b4d.png",
-      "image_sha": "551df6eb24c6fde15a673edf760dba4f18d35112",
-      "url": "https://www.radiodos.com.ar/210010-el-saludo-de-javier-milei-a-lionel-messi-por-su-cumpleanos-vamos-argentina-carajo",
-      "title": "El saludo de Javier Milei a Lionel Messi por su cumpleaños: \"¡VAMOS ARGENTINA CARAJO!\"",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-06-24T16:35:30+00:00"
     }
   ]
 }
