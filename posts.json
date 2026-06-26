@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T13:50:01+00:00",
+  "updated": "2026-06-26T14:09:13+00:00",
   "posts": [
+    {
+      "id": "e72c7c01",
+      "image": "img/e72c7c01.png",
+      "image_sha": "936dab78ca051e7f81af63b0c12513b829cd3592",
+      "url": "https://www.radiodos.com.ar/210123-santa-fe-entro-a-robar-a-un-negocio-y-termino-escrachada-en-camara-desnuda-de-la-cintura-para-arriba",
+      "title": "Santa Fe: entró a robar a un negocio y terminó escrachada en cámara, desnuda de la cintura para arriba",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-06-26T14:09:13+00:00"
+    },
     {
       "id": "210f0233",
       "image": "img/210f0233.png",
@@ -531,15 +540,6 @@
       "title": "Se filtró la propuesta que recibió una de las periodistas deportivas más reconocidas",
       "volanta": "SORPRESA",
       "date": "2026-06-24T16:34:25+00:00"
-    },
-    {
-      "id": "45982a5b",
-      "image": "img/45982a5b.png",
-      "image_sha": "f5e50370f7a64dcd88605338129fe9abeb88d6c8",
-      "url": "https://www.radiodos.com.ar/210007-arca-lo-que-deberan-pagar-los-monotributistas-en-julio-2026",
-      "title": "ARCA: lo que deberán pagar los monotributistas en julio 2026",
-      "volanta": "TRIBUTO",
-      "date": "2026-06-24T16:33:52+00:00"
     }
   ]
 }
