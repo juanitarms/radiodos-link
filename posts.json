@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-25T23:52:41+00:00",
+  "updated": "2026-06-26T10:44:41+00:00",
   "posts": [
+    {
+      "id": "a796e487",
+      "image": "img/a796e487.png",
+      "image_sha": "410c07a9fd33863fafafe4ab44dcde7fd6e47884",
+      "url": "https://www.radiodos.com.ar/210104-demoraron-a-dos-menores-armados-con-gomeras-en-pleno-centro-de-corrientes",
+      "title": "Demoraron a dos menores armados con \"gomeras\" en pleno centro de Corrientes",
+      "volanta": "ZONA DEL PUERTO",
+      "date": "2026-06-26T10:44:41+00:00"
+    },
     {
       "id": "839bf4dd",
       "image": "img/839bf4dd.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: robó una moto en la puerta de una iglesia, pero fue rápidamente capturado por la Policía",
       "volanta": "COMISARÍA 9",
       "date": "2026-06-24T13:03:52+00:00"
-    },
-    {
-      "id": "1f73965a",
-      "image": "img/1f73965a.png",
-      "image_sha": "7c1131b741c79061874cdbb686b4b6bbd1a1fd79",
-      "url": "https://www.radiodos.com.ar/209994-juan-pablo-valdes-acompano-al-pueblo-de-ituzaingo-en-la-fiesta-patronal-por-san-juan-bautista",
-      "title": "Juan Pablo Valdés acompañó al pueblo de Ituzaingó en la fiesta patronal por San Juan Bautista",
-      "volanta": "TRADICIÓN",
-      "date": "2026-06-24T12:34:13+00:00"
     }
   ]
 }
