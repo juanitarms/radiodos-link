@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T11:17:57+00:00",
+  "updated": "2026-06-26T11:32:43+00:00",
   "posts": [
+    {
+      "id": "0ee3cdb3",
+      "image": "img/0ee3cdb3.png",
+      "image_sha": "55a82a0442927ecc6c119dae83fbf56e58385c8c",
+      "url": "https://www.radiodos.com.ar/210107-hubo-un-principio-de-incendio-en-un-hotel-en-el-microcentro-de-corrientes",
+      "title": "Hubo un principio de incendio en un hotel en el microcentro de Corrientes",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-06-26T11:32:43+00:00"
+    },
     {
       "id": "63180d57",
       "image": "img/63180d57.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a un policía de Corrientes por cobrar una \"falsa multa\" de tránsito",
       "volanta": "JUICIO ABREVIADO",
       "date": "2026-06-24T14:04:00+00:00"
-    },
-    {
-      "id": "d6c567d4",
-      "image": "img/d6c567d4.png",
-      "image_sha": "419f0946fa0efeb26024d3840dae2087952c5c3b",
-      "url": "https://www.radiodos.com.ar/209993-detuvieron-a-un-dealer-con-varias-dosis-de-cocaina-en-localidad-del-interior-de-corrientes",
-      "title": "Detuvieron a un \"dealer\" con varias dosis de cocaína en localidad del interior de Corrientes",
-      "volanta": "SAN LUIS DEL PALMAR",
-      "date": "2026-06-24T13:38:02+00:00"
     }
   ]
 }
