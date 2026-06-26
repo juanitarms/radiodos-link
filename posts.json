@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T22:17:05+00:00",
+  "updated": "2026-06-26T22:17:39+00:00",
   "posts": [
+    {
+      "id": "93a35495",
+      "image": "img/93a35495.png",
+      "image_sha": "924773fbef06870f92eb3d98e0fdc9a677d70c8f",
+      "url": "https://www.radiodos.com.ar/210162-alerta-por-lluvias-como-estara-el-clima-en-corrientes-este-fin-de-semana",
+      "title": "Alerta por lluvias: cómo estará el clima en Corrientes este fin de semana",
+      "volanta": "Pronóstico",
+      "date": "2026-06-26T22:17:39+00:00"
+    },
     {
       "id": "e26a6603",
       "image": "img/e26a6603.png",
@@ -531,15 +540,6 @@
       "title": "Menor de 15 años en moto terminó herida tras chocar contra un patrullero",
       "volanta": "AVENIDA INDEPENDENCIA",
       "date": "2026-06-25T11:35:14+00:00"
-    },
-    {
-      "id": "18b1af35",
-      "image": "img/18b1af35.png",
-      "image_sha": "51db16927fcdc75b122cdc14bbf6ce3aed27240e",
-      "url": "https://www.radiodos.com.ar/210036-expectativa-por-la-visita-del-papa-leon-xiv-a-la-argentina-seria-en-noviembre-y-duraria-tres-dias",
-      "title": "Expectativa por la visita del papa León XIV a la Argentina: sería en noviembre y duraría tres días",
-      "volanta": "Iglesia Católica",
-      "date": "2026-06-24T23:00:36+00:00"
     }
   ]
 }
