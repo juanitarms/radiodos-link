@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T20:40:25+00:00",
+  "updated": "2026-06-26T21:01:19+00:00",
   "posts": [
+    {
+      "id": "c8c61df7",
+      "image": "img/c8c61df7.png",
+      "image_sha": "47460afa45aa3cf829c5ee116f83a03264b5a402",
+      "url": "https://www.radiodos.com.ar/210157-terremotos-en-venezuela-ascienden-a-920-los-muertos",
+      "title": "Terremotos en Venezuela: ascienden a 920 los muertos",
+      "volanta": "Tragedia",
+      "date": "2026-06-26T21:01:19+00:00"
+    },
     {
       "id": "018276ca",
       "image": "img/018276ca.png",
@@ -531,15 +540,6 @@
       "title": "Creció un 369% la venta de carne argentina a los Estados Unidos",
       "volanta": "EXPORTACIÓN",
       "date": "2026-06-24T22:14:20+00:00"
-    },
-    {
-      "id": "9b2871c7",
-      "image": "img/9b2871c7.png",
-      "image_sha": "f935dfe6be3744f1efc8872633623071b8928d65",
-      "url": "https://www.radiodos.com.ar/210032-detienen-a-una-pasajera-que-llevaba-mas-de-dos-kilos-de-cocaina-adosados-al-cuerpo",
-      "title": "Detienen a una pasajera que llevaba más de dos kilos de cocaína adosados al cuerpo",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-24T22:12:18+00:00"
     }
   ]
 }
