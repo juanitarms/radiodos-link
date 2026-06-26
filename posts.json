@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T21:44:54+00:00",
+  "updated": "2026-06-26T22:17:05+00:00",
   "posts": [
+    {
+      "id": "e26a6603",
+      "image": "img/e26a6603.png",
+      "image_sha": "cf790f48bd6740de474a53f54b5d1bb62dd9bf44",
+      "url": "https://www.radiodos.com.ar/210161-martin-ascua-se-retracto-publicamente-y-le-pidio-disculpas-formales-al-exgobernador-valdes",
+      "title": "Martín Ascúa se retractó públicamente y le pidió disculpas formales al exgobernador Valdés",
+      "volanta": "A TRAVES DE UN COMUNICADO",
+      "date": "2026-06-26T22:17:05+00:00"
+    },
     {
       "id": "10a09405",
       "image": "img/10a09405.png",
@@ -531,15 +540,6 @@
       "title": "Expectativa por la visita del papa León XIV a la Argentina: sería en noviembre y duraría tres días",
       "volanta": "Iglesia Católica",
       "date": "2026-06-24T23:00:36+00:00"
-    },
-    {
-      "id": "5f50d0ab",
-      "image": "img/5f50d0ab.png",
-      "image_sha": "5a34b6f0c236b3d1ad3b02c9046d03f1c5c94c03",
-      "url": "https://www.radiodos.com.ar/210035-anticipan-que-la-privatizacion-del-rio-parana-sera-anulada-por-la-justicia",
-      "title": "Anticipan que la privatización del río Paraná \"será anulada por la justicia\"",
-      "volanta": "ESCANDALO",
-      "date": "2026-06-24T22:59:17+00:00"
     }
   ]
 }
