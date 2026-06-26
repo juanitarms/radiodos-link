@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T21:40:02+00:00",
+  "updated": "2026-06-26T21:43:57+00:00",
   "posts": [
+    {
+      "id": "34e62370",
+      "image": "img/34e62370.png",
+      "image_sha": "d6616a94335a9080cde735f26f685282d7e24569",
+      "url": "https://www.radiodos.com.ar/210160-confirmaron-el-procesamiento-de-claudio-chiqui-tapia-y-pablo-toviggino",
+      "title": "Confirmaron el procesamiento de Claudio \"Chiqui\" Tapia y Pablo Toviggino",
+      "volanta": "Afa",
+      "date": "2026-06-26T21:43:57+00:00"
+    },
     {
       "id": "4f58c228",
       "image": "img/4f58c228.png",
@@ -531,15 +540,6 @@
       "title": "Corona: \"Instrumentamos una ingeniería mental permanente para mantener programas de salud desfinanciados por Nación\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-06-24T22:55:44+00:00"
-    },
-    {
-      "id": "c2a2adb5",
-      "image": "img/c2a2adb5.png",
-      "image_sha": "6b1609cacebb80d0e6e155e37934a257505ef59b",
-      "url": "https://www.radiodos.com.ar/210031-rige-una-alerta-amarilla-por-frio-extremo-en-corrientes",
-      "title": "Rige una alerta amarilla por frío extremo en Corrientes",
-      "volanta": "INVIERNO",
-      "date": "2026-06-24T22:15:35+00:00"
     }
   ]
 }
