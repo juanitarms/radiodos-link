@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T17:22:10+00:00",
+  "updated": "2026-06-26T18:44:43+00:00",
   "posts": [
+    {
+      "id": "ee0858d4",
+      "image": "img/ee0858d4.png",
+      "image_sha": "cfe27cb1338623b78fbd71b49f7ff4e23715b51b",
+      "url": "https://www.radiodos.com.ar/210138-legisladores-de-corrientes-lograron-el-apoyo-unanime-del-parlamento-norte-grande",
+      "title": "Legisladores de Corrientes lograron el apoyo unánime del Parlamento Norte Grande",
+      "volanta": "En Santiago del Estero",
+      "date": "2026-06-26T18:44:43+00:00"
+    },
     {
       "id": "2be573f2",
       "image": "img/2be573f2.png",
@@ -531,15 +540,6 @@
       "title": "El 24 de junio es el día más argentino: la fecha que une a Lionel Messi con Gardel, Riquelme, Sábato y más",
       "volanta": "GRAN DÍA",
       "date": "2026-06-24T18:49:52+00:00"
-    },
-    {
-      "id": "7f25b09a",
-      "image": "img/7f25b09a.png",
-      "image_sha": "52a47278a2daa68d980a9f620ee6b92eed3e32af",
-      "url": "https://www.radiodos.com.ar/210017-conmocion-en-un-pueblo-de-santa-fe-por-el-colapso-de-una-financiera-su-presidente-se-quito-la-vida",
-      "title": "Conmoción en un pueblo de Santa Fe por el colapso de una financiera: su presidente se quitó la vida",
-      "volanta": "NELSON",
-      "date": "2026-06-24T18:49:16+00:00"
     }
   ]
 }
