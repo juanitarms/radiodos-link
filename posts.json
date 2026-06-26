@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T17:21:35+00:00",
+  "updated": "2026-06-26T17:22:10+00:00",
   "posts": [
+    {
+      "id": "2be573f2",
+      "image": "img/2be573f2.png",
+      "image_sha": "9785887c5abfdfc078b4e0477b2ecbfc95d567cc",
+      "url": "https://www.radiodos.com.ar/210139-este-sabado-con-variedad-de-propuestas-se-presenta-la-marca-goya",
+      "title": "Este sábado con variedad de propuestas se presenta la marca Goya",
+      "volanta": "Paseo Puerto Interior",
+      "date": "2026-06-26T17:22:10+00:00"
+    },
     {
       "id": "86c09dc2",
       "image": "img/86c09dc2.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en un pueblo de Santa Fe por el colapso de una financiera: su presidente se quitó la vida",
       "volanta": "NELSON",
       "date": "2026-06-24T18:49:16+00:00"
-    },
-    {
-      "id": "408a7244",
-      "image": "img/408a7244.png",
-      "image_sha": "71348fc5cd94835413bcc34ed15737f3fa94dd56",
-      "url": "https://www.radiodos.com.ar/210018-licencia-de-conducir-quienes-ya-no-podran-renovar-mas-el-registro",
-      "title": "Licencia de conducir: quiénes ya no podrán renovar más el registro",
-      "volanta": "NOVEDAD",
-      "date": "2026-06-24T18:48:31+00:00"
     }
   ]
 }
