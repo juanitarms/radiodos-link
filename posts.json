@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T13:23:16+00:00",
+  "updated": "2026-06-26T13:50:01+00:00",
   "posts": [
+    {
+      "id": "210f0233",
+      "image": "img/210f0233.png",
+      "image_sha": "564f1884bba43c8fdef3aab98790ea2686986ccf",
+      "url": "https://www.radiodos.com.ar/210122-formosa-murio-un-nene-de-7-anos-e-investigan-un-posible-caso-de-maltrato",
+      "title": "Formosa: murió un nene de 7 años e investigan un posible caso de maltrato",
+      "volanta": "TERRIBLE",
+      "date": "2026-06-26T13:50:01+00:00"
+    },
     {
       "id": "8f338132",
       "image": "img/8f338132.png",
@@ -531,15 +540,6 @@
       "title": "ARCA: lo que deberán pagar los monotributistas en julio 2026",
       "volanta": "TRIBUTO",
       "date": "2026-06-24T16:33:52+00:00"
-    },
-    {
-      "id": "b4df816c",
-      "image": "img/b4df816c.png",
-      "image_sha": "fbf7c242f7f5830a2333109baa35976fa98f47b8",
-      "url": "https://www.radiodos.com.ar/210008-macabro-hallazgo-en-salta-encontraron-muerta-a-una-ninera-de-19-anos-que-estaba-desaparecida",
-      "title": "Macabro hallazgo en Salta: encontraron muerta a una niñera de 19 años que estaba desaparecida",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-06-24T15:25:39+00:00"
     }
   ]
 }
