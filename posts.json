@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T18:45:25+00:00",
+  "updated": "2026-06-26T18:45:59+00:00",
   "posts": [
+    {
+      "id": "ac459cae",
+      "image": "img/ac459cae.png",
+      "image_sha": "057e9888d38c407ea9958fb5dc9566a2395de1e4",
+      "url": "https://www.radiodos.com.ar/210144-zulma-lobato-implora-ayuda-tras-ser-desalojada-si-pierdo-a-la-perra-termino-con-mi-vida",
+      "title": "Zulma Lobato implora ayuda tras ser desalojada: \"Si pierdo a la perra, termino con mi vida\"",
+      "volanta": "DESESPERADA",
+      "date": "2026-06-26T18:45:59+00:00"
+    },
     {
       "id": "debd2f56",
       "image": "img/debd2f56.png",
@@ -531,15 +540,6 @@
       "title": "Se reactivaron los trabajos de la Autovía de la Ruta Nacional Nº 12",
       "volanta": "VIALIDAD NACIONAL",
       "date": "2026-06-24T20:53:12+00:00"
-    },
-    {
-      "id": "e71a736e",
-      "image": "img/e71a736e.png",
-      "image_sha": "a441df517ea88132edbe20816e6f5fca2e20b778",
-      "url": "https://www.radiodos.com.ar/210021-el-emotivo-mensaje-de-antonela-roccuzzo-para-lionel-messi-en-su-cumpleanos-que-conmovio-a-todos",
-      "title": "El emotivo mensaje de Antonela Roccuzzo para Lionel Messi en su cumpleaños que conmovió a todos",
-      "volanta": "GRAN COMPAÑERA",
-      "date": "2026-06-24T20:49:24+00:00"
     }
   ]
 }
