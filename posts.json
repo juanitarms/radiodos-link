@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T16:35:11+00:00",
+  "updated": "2026-06-26T17:21:00+00:00",
   "posts": [
+    {
+      "id": "b7e812f7",
+      "image": "img/b7e812f7.png",
+      "image_sha": "2bb6e0fae6939b83c6221d6a385b403b9e9e13dc",
+      "url": "https://www.radiodos.com.ar/210134-el-comunicado-de-blender-luego-de-que-se-levantara-un-programa-en-vivo",
+      "title": "El comunicado de Blender luego de que se levantara un programa en vivo",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-06-26T17:21:00+00:00"
+    },
     {
       "id": "1b01feef",
       "image": "img/1b01feef.png",
@@ -531,15 +540,6 @@
       "title": "Confirman que Florencia Peña no le hará juicio a Nicolás Occhiato ni a Luzu TV",
       "volanta": "CAMBIO DE OPINIÓN",
       "date": "2026-06-24T18:47:57+00:00"
-    },
-    {
-      "id": "2469ce9e",
-      "image": "img/2469ce9e.png",
-      "image_sha": "dcb57bf215a4d0bb25dad240f2aea3d3082aa696",
-      "url": "https://www.radiodos.com.ar/210014-wanda-nara-conto-que-intento-acercar-a-icardi-a-river-y-sorprendio-con-una-revelacion",
-      "title": "Wanda Nara contó que intentó acercar a Icardi a River y sorprendió con una revelación",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-06-24T18:47:16+00:00"
     }
   ]
 }
