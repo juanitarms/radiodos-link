@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T13:07:02+00:00",
+  "updated": "2026-06-26T13:23:16+00:00",
   "posts": [
+    {
+      "id": "8f338132",
+      "image": "img/8f338132.png",
+      "image_sha": "ec578a68c09587d0dfa6594ae1c91ff51cf77242",
+      "url": "https://www.radiodos.com.ar/210116-javier-milei-si-a-manuel-adorni-lo-consideran-culpable-lo-eyecto-de-una-patada",
+      "title": "Javier Milei: \"Si a Manuel Adorni lo consideran culpable, lo eyecto de una patada\"",
+      "volanta": "INVESTIGADO",
+      "date": "2026-06-26T13:23:16+00:00"
+    },
     {
       "id": "bb3afbf3",
       "image": "img/bb3afbf3.png",
@@ -531,15 +540,6 @@
       "title": "Macabro hallazgo en Salta: encontraron muerta a una niñera de 19 años que estaba desaparecida",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-06-24T15:25:39+00:00"
-    },
-    {
-      "id": "d24e2b08",
-      "image": "img/d24e2b08.png",
-      "image_sha": "2b8efbeb3fd5218853032b165dd268903751c36d",
-      "url": "https://www.radiodos.com.ar/210006-cruje-la-interna-en-el-gobierno-manuel-adorni-desmintio-a-patricia-bullrich",
-      "title": "Cruje la interna en el Gobierno: Manuel Adorni desmintió a Patricia Bullrich",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-24T15:03:21+00:00"
     }
   ]
 }
