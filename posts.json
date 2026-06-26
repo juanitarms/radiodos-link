@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T12:31:46+00:00",
+  "updated": "2026-06-26T13:07:02+00:00",
   "posts": [
+    {
+      "id": "bb3afbf3",
+      "image": "img/bb3afbf3.png",
+      "image_sha": "46e0fa63e44f8f3a95497696ab658a7c14fb9080",
+      "url": "https://www.radiodos.com.ar/210115-juegos-correntinos-2026-se-completo-la-etapa-clasificatoria-en-la-zona-3",
+      "title": "\"Juegos Correntinos 2026\": Se completó la etapa clasificatoria en la Zona 3",
+      "volanta": "EL DEPORTE COMO POLÍTICA DE ESTADO",
+      "date": "2026-06-26T13:07:02+00:00"
+    },
     {
       "id": "222803d6",
       "image": "img/222803d6.png",
@@ -531,15 +540,6 @@
       "title": "Cruje la interna en el Gobierno: Manuel Adorni desmintió a Patricia Bullrich",
       "volanta": "POLÉMICA",
       "date": "2026-06-24T15:03:21+00:00"
-    },
-    {
-      "id": "5fc72321",
-      "image": "img/5fc72321.png",
-      "image_sha": "9ebb331ef3fbd82c5bcc75c07c5dceb161be81df",
-      "url": "https://www.radiodos.com.ar/210004-javier-milei-aseguro-que-aumento-el-salario-real-y-subiran-las-jubilaciones-y-el-consumo",
-      "title": "Javier Milei aseguró que aumentó el salario real y subirán las jubilaciones y el consumo",
-      "volanta": "EXPOSICIÓN",
-      "date": "2026-06-24T14:25:05+00:00"
     }
   ]
 }
