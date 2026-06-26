@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T20:22:12+00:00",
+  "updated": "2026-06-26T20:35:11+00:00",
   "posts": [
+    {
+      "id": "1fce566b",
+      "image": "img/1fce566b.png",
+      "image_sha": "c13466d83d8817635ceca32e208c9e8cc2566822",
+      "url": "https://www.radiodos.com.ar/210155-piden-la-detencion-de-martin-insaurralde-por-la-causa-de-presunto-enriquecimiento-ilicito-y-lavado-de-dinero",
+      "title": "Piden la detención de Martín Insaurralde por la causa de presunto enriquecimiento ilícito y lavado de dinero",
+      "volanta": "Corrupción",
+      "date": "2026-06-26T20:35:11+00:00"
+    },
     {
       "id": "7c874d8b",
       "image": "img/7c874d8b.png",
@@ -531,15 +540,6 @@
       "title": "Chaco regulará por ley el uso de celulares en las escuelas",
       "volanta": "histórico",
       "date": "2026-06-24T20:56:27+00:00"
-    },
-    {
-      "id": "90d45975",
-      "image": "img/90d45975.png",
-      "image_sha": "5c14ab5bbefa59878d6fa112bf2b0da739da286b",
-      "url": "https://www.radiodos.com.ar/210025-juicio-por-loan-los-siete-imputados-acusados-de-la-sustraccion-del-pequeno-se-negaron-a-declarar",
-      "title": "Juicio por Loan: los siete imputados acusados de la sustracción del pequeño se negaron a declarar",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-06-24T20:55:17+00:00"
     }
   ]
 }
