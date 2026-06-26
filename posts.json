@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T15:10:47+00:00",
+  "updated": "2026-06-26T16:34:34+00:00",
   "posts": [
+    {
+      "id": "beffaaef",
+      "image": "img/beffaaef.png",
+      "image_sha": "94dfbc137dce7dfaf40d04e440668f9b0510c36f",
+      "url": "https://www.radiodos.com.ar/210131-pilar-un-hombre-ataco-a-su-expareja-con-una-espada-y-amenazo-con-prenderla-fuego",
+      "title": "Pilar: un hombre atacó a su expareja con una espada y amenazó con prenderla fuego",
+      "volanta": "VIOLENCIA DE GÉNERO",
+      "date": "2026-06-26T16:34:34+00:00"
+    },
     {
       "id": "8bc52998",
       "image": "img/8bc52998.png",
@@ -531,15 +540,6 @@
       "title": "Puerto Valle Hotel de Esteros se incorpora a Small Luxury Hotels of the World y posiciona al Iberá entre los destinos de lujo sustentable del mundo",
       "volanta": "UNO DE LOS EXCLUSIVOS DEL PAIS",
       "date": "2026-06-24T18:46:33+00:00"
-    },
-    {
-      "id": "ca41dc2e",
-      "image": "img/ca41dc2e.png",
-      "image_sha": "80839102fab38ec937b964a47e06d62197d6faa0",
-      "url": "https://www.radiodos.com.ar/210013-el-regalo-que-le-hizo-la-seleccion-argentina-a-lionel-messi-por-su-cumpleanos-en-la-concentracion",
-      "title": "El regalo que le hizo la Selección Argentina a Lionel Messi por su cumpleaños en la concentración",
-      "volanta": "FESTEJO",
-      "date": "2026-06-24T16:36:04+00:00"
     }
   ]
 }
