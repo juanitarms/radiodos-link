@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T17:21:00+00:00",
+  "updated": "2026-06-26T17:21:35+00:00",
   "posts": [
+    {
+      "id": "86c09dc2",
+      "image": "img/86c09dc2.png",
+      "image_sha": "3c13ec4976c9bed6b357c40dce7db4a5e5c94608",
+      "url": "https://www.radiodos.com.ar/210136-terremotos-en-venezuela-desesperado-pedido-de-lucas-trejo-para-encontrar-a-su-familia",
+      "title": "Terremotos en Venezuela: desesperado pedido de Lucas Trejo para encontrar a su familia",
+      "volanta": "TRAGEDIA",
+      "date": "2026-06-26T17:21:35+00:00"
+    },
     {
       "id": "b7e812f7",
       "image": "img/b7e812f7.png",
@@ -531,15 +540,6 @@
       "title": "Licencia de conducir: quiénes ya no podrán renovar más el registro",
       "volanta": "NOVEDAD",
       "date": "2026-06-24T18:48:31+00:00"
-    },
-    {
-      "id": "3ebc2d3f",
-      "image": "img/3ebc2d3f.png",
-      "image_sha": "57a824369ca51d66fef4d48fcfc1a306dfc15759",
-      "url": "https://www.radiodos.com.ar/210015-confirman-que-florencia-pena-no-le-hara-juicio-a-nicolas-occhiato-ni-a-luzu-tv",
-      "title": "Confirman que Florencia Peña no le hará juicio a Nicolás Occhiato ni a Luzu TV",
-      "volanta": "CAMBIO DE OPINIÓN",
-      "date": "2026-06-24T18:47:57+00:00"
     }
   ]
 }
