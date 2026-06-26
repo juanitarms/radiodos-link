@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T10:44:41+00:00",
+  "updated": "2026-06-26T11:03:38+00:00",
   "posts": [
+    {
+      "id": "896f63d1",
+      "image": "img/896f63d1.png",
+      "image_sha": "069e05a11ab230d1b204324c1139192e2d63b058",
+      "url": "https://www.radiodos.com.ar/210106-corrientes-logro-respaldo-a-tres-reclamos-regionales-estrategicos-en-el-parlamento-del-norte-grande",
+      "title": "Corrientes logró respaldo a tres reclamos regionales estratégicos en el Parlamento del Norte Grande",
+      "volanta": "EN SANTIAGO",
+      "date": "2026-06-26T11:03:38+00:00"
+    },
     {
       "id": "a796e487",
       "image": "img/a796e487.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el pago de salarios a empleados estatales",
       "volanta": "HASTA EL MARTES 30",
       "date": "2026-06-24T13:18:29+00:00"
-    },
-    {
-      "id": "891932e4",
-      "image": "img/891932e4.png",
-      "image_sha": "d537ebd33901842ccb1bb290310a62b9998e2483",
-      "url": "https://www.radiodos.com.ar/209995-corrientes-robo-una-moto-en-la-puerta-de-una-iglesia-pero-fue-rapidamente-capturado-por-la-policia",
-      "title": "Corrientes: robó una moto en la puerta de una iglesia, pero fue rápidamente capturado por la Policía",
-      "volanta": "COMISARÍA 9",
-      "date": "2026-06-24T13:03:52+00:00"
     }
   ]
 }
