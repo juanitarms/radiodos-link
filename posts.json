@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T21:01:19+00:00",
+  "updated": "2026-06-26T21:40:02+00:00",
   "posts": [
+    {
+      "id": "4f58c228",
+      "image": "img/4f58c228.png",
+      "image_sha": "09ee674a4f35cfc954c3db86420148d8b8ff045c",
+      "url": "https://www.radiodos.com.ar/210158-jorge-meza-trabajamos-en-obras-esenciales-para-que-el-impacto-de-el-nino-sea-el-menor-posible",
+      "title": "Jorge Meza: \"Trabajamos en obras esenciales para que el impacto de El Niño sea el menor posible\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-06-26T21:40:02+00:00"
+    },
     {
       "id": "c8c61df7",
       "image": "img/c8c61df7.png",
@@ -531,15 +540,6 @@
       "title": "Rige una alerta amarilla por frío extremo en Corrientes",
       "volanta": "INVIERNO",
       "date": "2026-06-24T22:15:35+00:00"
-    },
-    {
-      "id": "452b37da",
-      "image": "img/452b37da.png",
-      "image_sha": "eeb303ee1ea03b474177c3c3e2907d50996d20ee",
-      "url": "https://www.radiodos.com.ar/210033-crecio-un-369-la-venta-de-carne-argentina-a-los-estados-unidos",
-      "title": "Creció un 369% la venta de carne argentina a los Estados Unidos",
-      "volanta": "EXPORTACIÓN",
-      "date": "2026-06-24T22:14:20+00:00"
     }
   ]
 }
