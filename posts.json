@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T22:17:39+00:00",
+  "updated": "2026-06-27T12:53:17+00:00",
   "posts": [
+    {
+      "id": "f4513444",
+      "image": "img/f4513444.png",
+      "image_sha": "cb25d9c2bf5240f0f19f7d7c6c05bea1a73c980c",
+      "url": "https://www.radiodos.com.ar/210163-la-seleccion-argentina-cierra-la-fase-de-grupos-ante-jordania",
+      "title": "La Selección Argentina cierra la fase de grupos ante Jordania",
+      "volanta": "EN DALLAS",
+      "date": "2026-06-27T12:53:17+00:00"
+    },
     {
       "id": "93a35495",
       "image": "img/93a35495.png",
@@ -531,15 +540,6 @@
       "title": "Identificaron qué procesos ayudan al maíz a sostener el rendimiento frente al calor y la sequía",
       "volanta": "NUEVOS CONOCIMIENTOS",
       "date": "2026-06-25T12:03:43+00:00"
-    },
-    {
-      "id": "35ff8baf",
-      "image": "img/35ff8baf.png",
-      "image_sha": "91c120c537a92f6e216d5528fc3a3ce7339fea88",
-      "url": "https://www.radiodos.com.ar/210043-menor-de-15-anos-en-moto-termino-herida-tras-chocar-contra-un-patrullero",
-      "title": "Menor de 15 años en moto terminó herida tras chocar contra un patrullero",
-      "volanta": "AVENIDA INDEPENDENCIA",
-      "date": "2026-06-25T11:35:14+00:00"
     }
   ]
 }
