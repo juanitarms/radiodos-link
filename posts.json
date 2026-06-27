@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-27T12:53:17+00:00",
+  "updated": "2026-06-27T18:40:49+00:00",
   "posts": [
+    {
+      "id": "43ad2fe0",
+      "image": "img/43ad2fe0.png",
+      "image_sha": "1eb9ecdf34d05f793102b4681b200ef542440a90",
+      "url": "https://www.radiodos.com.ar/210167-lionel-scaloni-reflexiones-sobre-estrategia-identidad-ambicion-y-confirmo-que-messi-sera-suplente",
+      "title": "Lionel Scaloni: Reflexiones sobre estrategia, identidad, ambición y confirmó que Messi será suplente",
+      "volanta": "Antes de Jordania",
+      "date": "2026-06-27T18:40:49+00:00"
+    },
     {
       "id": "f4513444",
       "image": "img/f4513444.png",
@@ -531,15 +540,6 @@
       "title": "En Goya, Valdés encabezó entrega de asistencia financiera a cooperativas agropecuarias",
       "volanta": "EN EL PREDIO COSTA SURUBÍ",
       "date": "2026-06-25T12:18:24+00:00"
-    },
-    {
-      "id": "dbb321b6",
-      "image": "img/dbb321b6.png",
-      "image_sha": "6dd65c45967a48418adccaaadd46ec999818d386",
-      "url": "https://www.radiodos.com.ar/210047-identificaron-que-procesos-ayudan-al-maiz-a-sostener-el-rendimiento-frente-al-calor-y-la-sequia",
-      "title": "Identificaron qué procesos ayudan al maíz a sostener el rendimiento frente al calor y la sequía",
-      "volanta": "NUEVOS CONOCIMIENTOS",
-      "date": "2026-06-25T12:03:43+00:00"
     }
   ]
 }
