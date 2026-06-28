@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T16:43:11+00:00",
+  "updated": "2026-06-28T16:43:50+00:00",
   "posts": [
+    {
+      "id": "0b177f89",
+      "image": "img/0b177f89.png",
+      "image_sha": "6f0a6b30e5d21384dd3ebc2fb422554a3a320db1",
+      "url": "https://www.radiodos.com.ar/210203-juicio-por-loan-como-es-el-esquema-especial-que-usaran-para-proteger-la-declaracion-de-los-padres",
+      "title": "Juicio por Loan: cómo es el esquema especial que usarán para proteger la declaración de los padres",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-28T16:43:50+00:00"
+    },
     {
       "id": "6c4ec99c",
       "image": "img/6c4ec99c.png",
@@ -531,15 +540,6 @@
       "title": "Tensión total en Gran Hermano: Yanina Zilli estalló contra Manuel y le gritó: \"¡Pará un poco loco!\"",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-06-25T16:20:15+00:00"
-    },
-    {
-      "id": "7374f933",
-      "image": "img/7374f933.png",
-      "image_sha": "d6fc814d26bd8780ecc8da4872cd3672ee612f83",
-      "url": "https://www.radiodos.com.ar/210070-wanda-nara-revelo-que-mauro-icardi-no-se-queria-separar-lo-que-derivo-en-acoso-me-ha-llamado-300-veces",
-      "title": "Wanda Nara reveló que Mauro Icardi no se quería separar, lo que derivó en acoso: \"Me ha llamado 300 veces...\"",
-      "volanta": "UNA LOCURA",
-      "date": "2026-06-25T14:57:21+00:00"
     }
   ]
 }
