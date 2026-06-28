@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T18:05:07+00:00",
+  "updated": "2026-06-28T22:03:29+00:00",
   "posts": [
+    {
+      "id": "1184f2e1",
+      "image": "img/1184f2e1.png",
+      "image_sha": "76f80305913a2d679664bd805545188ece669278",
+      "url": "https://www.radiodos.com.ar/210209-la-grave-ola-de-calor-en-europa-dejo-mas-de-1000-muertos-en-una-semana",
+      "title": "La grave ola de calor en Europa dejó más de 1.000 muertos en una semana",
+      "volanta": "Cambio climático",
+      "date": "2026-06-28T22:03:29+00:00"
+    },
     {
       "id": "e18a13ce",
       "image": "img/e18a13ce.png",
@@ -531,15 +540,6 @@
       "title": "El PA reconocerá a referentes de la historia política de Goya",
       "volanta": "DESTACADOS",
       "date": "2026-06-25T17:49:08+00:00"
-    },
-    {
-      "id": "44e4346e",
-      "image": "img/44e4346e.png",
-      "image_sha": "787fadc8de54161cd75240a0ae71e9989641503b",
-      "url": "https://www.radiodos.com.ar/210067-filtraron-un-adelanto-de-shakira-interpretando-dai-dai-en-espanol",
-      "title": "Filtraron un adelanto de Shakira interpretando \"Dai Dai\" en español",
-      "volanta": "ESTRENO",
-      "date": "2026-06-25T16:21:28+00:00"
     }
   ]
 }
