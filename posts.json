@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T13:19:44+00:00",
+  "updated": "2026-06-28T13:30:53+00:00",
   "posts": [
+    {
+      "id": "d80593ef",
+      "image": "img/d80593ef.png",
+      "image_sha": "30a6ac750633d38d2c3a596a393fc9d4824540d3",
+      "url": "https://www.radiodos.com.ar/210199-el-gobierno-anunciaria-hoy-a-diego-santilli-como-nuevo-jefe-de-gabinete",
+      "title": "El Gobierno anunciaría hoy a Diego Santilli como nuevo jefe de Gabinete",
+      "volanta": "absorbería funciones clave",
+      "date": "2026-06-28T13:30:53+00:00"
+    },
     {
       "id": "0942d41f",
       "image": "img/0942d41f.png",
@@ -531,15 +540,6 @@
       "title": "Desesperada búsqueda de la familia de Lucas Trejo tras los dos terremotos que azotaron a Venezuela",
       "volanta": "DRAMÁTICO",
       "date": "2026-06-25T13:57:39+00:00"
-    },
-    {
-      "id": "6aaa8ffa",
-      "image": "img/6aaa8ffa.png",
-      "image_sha": "85bdcfb02245f1306510b4e38df04185ece1e655",
-      "url": "https://www.radiodos.com.ar/210052-se-viene-el-tercer-fan-fest-la-rotonda-poncho-verde-sera-el-lugar-para-alentar-a-la-seleccion",
-      "title": "Se viene el tercer Fan Fest: la rotonda Poncho Verde será el lugar para alentar a la Selección",
-      "volanta": "MUNICIPALIDAD DE CORRIENTES",
-      "date": "2026-06-25T13:35:37+00:00"
     }
   ]
 }
