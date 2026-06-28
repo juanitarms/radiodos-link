@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T13:30:53+00:00",
+  "updated": "2026-06-28T14:01:59+00:00",
   "posts": [
+    {
+      "id": "40123422",
+      "image": "img/40123422.png",
+      "image_sha": "2ab301578a121508a0ca84c989b131c840b5dfac",
+      "url": "https://www.radiodos.com.ar/210201-encontraron-sin-vida-a-la-familia-del-futbolista-argentino-lucas-trejo",
+      "title": "Encontraron sin vida a la familia del futbolista argentino Lucas Trejo",
+      "volanta": "tras una intensa búsqueda en Venezuela",
+      "date": "2026-06-28T14:01:59+00:00"
+    },
     {
       "id": "d80593ef",
       "image": "img/d80593ef.png",
@@ -531,15 +540,6 @@
       "title": "Paraguay vs. Australia por el Mundial 2026: horario, formaciones y TV",
       "volanta": "GRUPO D",
       "date": "2026-06-25T14:17:41+00:00"
-    },
-    {
-      "id": "f60fad11",
-      "image": "img/f60fad11.png",
-      "image_sha": "aabce402e32aed0b6a5ff1b9ce533b0edaf281e0",
-      "url": "https://www.radiodos.com.ar/210059-desesperada-busqueda-de-la-familia-de-lucas-trejo-tras-los-dos-terremotos-que-azotaron-a-venezuela",
-      "title": "Desesperada búsqueda de la familia de Lucas Trejo tras los dos terremotos que azotaron a Venezuela",
-      "volanta": "DRAMÁTICO",
-      "date": "2026-06-25T13:57:39+00:00"
     }
   ]
 }
