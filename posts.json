@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T16:16:29+00:00",
+  "updated": "2026-06-28T16:43:11+00:00",
   "posts": [
+    {
+      "id": "6c4ec99c",
+      "image": "img/6c4ec99c.png",
+      "image_sha": "ad9c289f963c00b4a88c88bb13ab794fbc67f9f8",
+      "url": "https://www.radiodos.com.ar/210204-el-trabajador-municipal-es-neuralgico-para-el-avance-de-la-ciudad",
+      "title": "\"El trabajador municipal es neurálgico para el avance de la ciudad\"",
+      "volanta": "rodolfo medina- aoem",
+      "date": "2026-06-28T16:43:11+00:00"
+    },
     {
       "id": "80e2ba53",
       "image": "img/80e2ba53.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara reveló que Mauro Icardi no se quería separar, lo que derivó en acoso: \"Me ha llamado 300 veces...\"",
       "volanta": "UNA LOCURA",
       "date": "2026-06-25T14:57:21+00:00"
-    },
-    {
-      "id": "3cd4a3c2",
-      "image": "img/3cd4a3c2.png",
-      "image_sha": "38f1c345b407b7f32b9fb29ce4a946ac22a4db20",
-      "url": "https://www.radiodos.com.ar/210065-marley-freno-a-nico-occhiato-y-lanzo-una-contundente-advertencia-por-florencia-pena",
-      "title": "Marley frenó a Nico Occhiato y lanzó una contundente advertencia por Florencia Peña",
-      "volanta": "PUSO LÍMITES",
-      "date": "2026-06-25T14:46:23+00:00"
     }
   ]
 }
