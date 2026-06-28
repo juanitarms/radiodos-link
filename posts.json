@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-27T19:58:49+00:00",
+  "updated": "2026-06-28T05:14:32+00:00",
   "posts": [
+    {
+      "id": "f99186e4",
+      "image": "img/f99186e4.png",
+      "image_sha": "4ccac6a867425738ea946128e4f45e9d9843f9cb",
+      "url": "https://www.radiodos.com.ar/210196-con-otro-gol-de-messi-la-seleccion-le-gano-3-1-a-jordania-y-armo-una-fiesta-en-dallas",
+      "title": "Con otro gol de Messi, la selección le ganó 3-1 a Jordania y armó una fiesta en Dallas",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-28T05:14:32+00:00"
+    },
     {
       "id": "17ee4f35",
       "image": "img/17ee4f35.png",
@@ -531,15 +540,6 @@
       "title": "Nació el día en que Lionel Messi cumplió 39 años y la anotaron con un inédito nombre en su honor",
       "volanta": "SORPRESA",
       "date": "2026-06-25T13:13:05+00:00"
-    },
-    {
-      "id": "dcd3f4b2",
-      "image": "img/dcd3f4b2.png",
-      "image_sha": "574bd410b9be393a85baebf0ef5be5ded9963338",
-      "url": "https://www.radiodos.com.ar/210044-juicio-por-loan-hoy-declaran-tres-imputados-y-la-semana-que-viene-los-padres-del-nino",
-      "title": "Juicio por Loan: hoy declaran tres imputados y la semana que viene los padres del niño",
-      "volanta": "FISCAL TAMARA POURCEL",
-      "date": "2026-06-25T12:58:39+00:00"
     }
   ]
 }
