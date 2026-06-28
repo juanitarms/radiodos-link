@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T15:46:48+00:00",
+  "updated": "2026-06-28T16:16:29+00:00",
   "posts": [
+    {
+      "id": "80e2ba53",
+      "image": "img/80e2ba53.png",
+      "image_sha": "df414fffc70ab1dd3494fc9fce01627dedc72df6",
+      "url": "https://www.radiodos.com.ar/210202-messi-llego-a-los-19-y-se-consolido-como-el-maximo-goleador-de-los-mundiales",
+      "title": "Messi llegó a los 19 y se consolidó como el máximo goleador de los Mundiales",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-28T16:16:29+00:00"
+    },
     {
       "id": "1ae2a47a",
       "image": "img/1ae2a47a.png",
@@ -531,15 +540,6 @@
       "title": "Marley frenó a Nico Occhiato y lanzó una contundente advertencia por Florencia Peña",
       "volanta": "PUSO LÍMITES",
       "date": "2026-06-25T14:46:23+00:00"
-    },
-    {
-      "id": "c69ad35e",
-      "image": "img/c69ad35e.png",
-      "image_sha": "3a899d6b3750479cce41cb53384998fd23ed43b9",
-      "url": "https://www.radiodos.com.ar/210066-terremotos-en-venezuela-el-aeropuerto-de-caracas-ya-no-existe",
-      "title": "Terremotos en Venezuela: \"El aeropuerto de Caracas ya no existe\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-06-25T14:35:40+00:00"
     }
   ]
 }
