@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T16:43:50+00:00",
+  "updated": "2026-06-28T17:48:19+00:00",
   "posts": [
+    {
+      "id": "7c90877e",
+      "image": "img/7c90877e.png",
+      "image_sha": "4d2e52534e0fcaab7cc3c8527604f338b073c58e",
+      "url": "https://www.radiodos.com.ar/210205-el-flaco-lopez-tras-su-estreno-mundialista-scaloni-me-dijo-que-disfrute-que-me-lo-merecia",
+      "title": "El \"Flaco\" López, tras su estreno mundialista: \"Scaloni me dijo que disfrute, que me lo merecía\"",
+      "volanta": "Mundial 2026",
+      "date": "2026-06-28T17:48:19+00:00"
+    },
     {
       "id": "0b177f89",
       "image": "img/0b177f89.png",
@@ -531,15 +540,6 @@
       "title": "Habló la chica que Icardi quiso conquistar a espaldas de la China Suárez: \"No lo dejé que me besara\"",
       "volanta": "ESCÁNDALO",
       "date": "2026-06-25T16:20:50+00:00"
-    },
-    {
-      "id": "90c81e86",
-      "image": "img/90c81e86.png",
-      "image_sha": "a34c65c001bf5e5c4f23d5329a0d8a51911a69c3",
-      "url": "https://www.radiodos.com.ar/210069-tension-total-en-gran-hermano-yanina-zilli-estallo-contra-manuel-y-le-grito-para-un-poco-loco",
-      "title": "Tensión total en Gran Hermano: Yanina Zilli estalló contra Manuel y le gritó: \"¡Pará un poco loco!\"",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-06-25T16:20:15+00:00"
     }
   ]
 }
