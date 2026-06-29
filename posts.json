@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T13:46:13+00:00",
+  "updated": "2026-06-29T14:05:20+00:00",
   "posts": [
+    {
+      "id": "bf55e554",
+      "image": "img/bf55e554.png",
+      "image_sha": "06ceb5884c1d2b70432808814c92616399a986c2",
+      "url": "https://www.radiodos.com.ar/210243-las-ferias-de-la-ciudad-renuevan-su-recorrido-semanal",
+      "title": "Las Ferias de la Ciudad renuevan su recorrido semanal",
+      "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
+      "date": "2026-06-29T14:05:20+00:00"
+    },
     {
       "id": "14b7396d",
       "image": "img/14b7396d.png",
@@ -531,15 +540,6 @@
       "title": "La Ministra de Educación de Corrientes desmintió hecho de violencia en escuela pero admitió \"un error\" del supervisor",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-06-25T22:22:25+00:00"
-    },
-    {
-      "id": "f3ec0729",
-      "image": "img/f3ec0729.png",
-      "image_sha": "a657084a5e3b7cad97751492e245042e02bf79f5",
-      "url": "https://www.radiodos.com.ar/210101-maquinaria-de-vialidad-provincial-ya-trabaja-en-la-nueva-fosa-del-basural-de-mercedes",
-      "title": "Maquinaria de Vialidad Provincial ya trabaja en la nueva fosa del basural de Mercedes",
-      "volanta": "saneamiento ambiental",
-      "date": "2026-06-25T22:21:05+00:00"
     }
   ]
 }
