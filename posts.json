@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T20:35:59+00:00",
+  "updated": "2026-06-29T20:37:19+00:00",
   "posts": [
+    {
+      "id": "b47f7b4c",
+      "image": "img/b47f7b4c.png",
+      "image_sha": "5ebb9b62af78b1f68d0a395fe1968318e94bdb72",
+      "url": "https://www.radiodos.com.ar/210269-mundial-2026-la-canarinha-supero-el-orden-de-los-samurais",
+      "title": "Mundial 2026: La Canarinha superó el orden de los Samurais",
+      "volanta": "En Houston",
+      "date": "2026-06-29T20:37:19+00:00"
+    },
     {
       "id": "51f68e73",
       "image": "img/51f68e73.png",
@@ -531,15 +540,6 @@
       "title": "Noruega vs. Francia por el Mundial 2026: horario, formaciones y TV",
       "volanta": "GRUPO I",
       "date": "2026-06-26T14:59:10+00:00"
-    },
-    {
-      "id": "3204c371",
-      "image": "img/3204c371.png",
-      "image_sha": "baf23b2c9875290dbd7e809ca12bd043d2ea0638",
-      "url": "https://www.radiodos.com.ar/210125-franco-colapinto-termino-octavo-la-practica-libre-1-del-gran-premio-de-austria",
-      "title": "Franco Colapinto terminó octavo la Práctica Libre 1 del Gran Premio de Austria",
-      "volanta": "FORMULA 1",
-      "date": "2026-06-26T14:37:18+00:00"
     }
   ]
 }
