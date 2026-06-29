@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T17:02:10+00:00",
+  "updated": "2026-06-29T17:02:38+00:00",
   "posts": [
+    {
+      "id": "2bac887d",
+      "image": "img/2bac887d.png",
+      "image_sha": "fb164c56635127f0ab4d3eafc523b5429d6e383c",
+      "url": "https://www.radiodos.com.ar/210257-el-superior-tribunal-de-justicia-fijo-criterio-sobre-el-plazo-maximo-de-duracion-del-proceso-penal-y-ordeno-continuar-una-causa-por-abuso-sexual",
+      "title": "El Superior Tribunal de Justicia fijó criterio sobre el plazo máximo de duración del proceso penal y ordenó continuar una causa por abuso sexual",
+      "volanta": "SENTENCIA PENAL",
+      "date": "2026-06-29T17:02:38+00:00"
+    },
     {
       "id": "383fde56",
       "image": "img/383fde56.png",
@@ -531,15 +540,6 @@
       "title": "Advierten que por la fuerte competencia cayó 15% la demanda de remises en Corrientes",
       "volanta": "TIEMPOS COMPLICADOS",
       "date": "2026-06-26T11:17:57+00:00"
-    },
-    {
-      "id": "896f63d1",
-      "image": "img/896f63d1.png",
-      "image_sha": "069e05a11ab230d1b204324c1139192e2d63b058",
-      "url": "https://www.radiodos.com.ar/210106-corrientes-logro-respaldo-a-tres-reclamos-regionales-estrategicos-en-el-parlamento-del-norte-grande",
-      "title": "Corrientes logró respaldo a tres reclamos regionales estratégicos en el Parlamento del Norte Grande",
-      "volanta": "EN SANTIAGO",
-      "date": "2026-06-26T11:03:38+00:00"
     }
   ]
 }
