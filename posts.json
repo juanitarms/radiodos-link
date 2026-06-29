@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T10:25:56+00:00",
+  "updated": "2026-06-29T11:11:36+00:00",
   "posts": [
+    {
+      "id": "34dce2ba",
+      "image": "img/34dce2ba.png",
+      "image_sha": "46d4fb5d0028a55204f09e02f146bfce41f8f005",
+      "url": "https://www.radiodos.com.ar/210213-hombres-armados-fueron-sorprendidos-en-la-oscuridad-intentaron-fugarse-pero-fueron-detenidos",
+      "title": "Hombres armados fueron sorprendidos en la oscuridad, intentaron fugarse, pero fueron detenidos",
+      "volanta": "TENÍAN ANTECEDENTES",
+      "date": "2026-06-29T11:11:36+00:00"
+    },
     {
       "id": "43c0c164",
       "image": "img/43c0c164.png",
@@ -531,15 +540,6 @@
       "title": "El mentalista del momento llega a Corrientes",
       "volanta": "ÚNICO SHOW",
       "date": "2026-06-25T17:50:19+00:00"
-    },
-    {
-      "id": "e60cb50d",
-      "image": "img/e60cb50d.png",
-      "image_sha": "f4f3a03a811a272c6880c4d2bc901532cd6021e3",
-      "url": "https://www.radiodos.com.ar/210072-en-el-aniversario-de-prefectura-braillard-poccard-resalto-su-compromiso-con-la-seguridad-y-la-navegacion",
-      "title": "En el aniversario de Prefectura, Braillard Poccard resaltó su compromiso con la seguridad y la navegación",
-      "volanta": "CELEBRACIÓN",
-      "date": "2026-06-25T17:49:45+00:00"
     }
   ]
 }
