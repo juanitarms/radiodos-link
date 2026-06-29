@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T14:05:20+00:00",
+  "updated": "2026-06-29T14:22:06+00:00",
   "posts": [
+    {
+      "id": "c9bd6cb6",
+      "image": "img/c9bd6cb6.png",
+      "image_sha": "3dca40ac636c14535ee60e7adec6bab2bda3f957",
+      "url": "https://www.radiodos.com.ar/210247-la-ciudad-vivio-una-exitosa-fecha-del-raid-nautico-de-las-americas-y-del-encuentro-de-motonautica-del-nea",
+      "title": "La Ciudad vivió una exitosa fecha del Raid Náutico de las Américas y del Encuentro de Motonáutica del NEA",
+      "volanta": "PLAYA ARAZATY",
+      "date": "2026-06-29T14:22:06+00:00"
+    },
     {
       "id": "bf55e554",
       "image": "img/bf55e554.png",
@@ -531,15 +540,6 @@
       "title": "Cine Naé abre convocatoria para cortometrajes y videoclips de realizadores del NEA",
       "volanta": "audiovisual regional",
       "date": "2026-06-25T22:26:24+00:00"
-    },
-    {
-      "id": "9f058b69",
-      "image": "img/9f058b69.png",
-      "image_sha": "5a25a9e93e0685c43113f083f737fac1d58d337a",
-      "url": "https://www.radiodos.com.ar/210097-la-ministra-de-educacion-de-corrientes-desmintio-hecho-de-violencia-en-escuela-pero-admitio-un-error-del-supervisor",
-      "title": "La Ministra de Educación de Corrientes desmintió hecho de violencia en escuela pero admitió \"un error\" del supervisor",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-06-25T22:22:25+00:00"
     }
   ]
 }
