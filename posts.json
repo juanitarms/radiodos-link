@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T23:20:52+00:00",
+  "updated": "2026-06-29T23:25:19+00:00",
   "posts": [
+    {
+      "id": "d55a18f4",
+      "image": "img/d55a18f4.png",
+      "image_sha": "a54bc38b7764b18ecdbe7fe6016a9527af2b8932",
+      "url": "https://www.radiodos.com.ar/210282-desarrollo-social-acuerdan-el-pago-de-un-plus-extraordinario-para-los-trabajadores-del-sector",
+      "title": "Desarrollo Social: acuerdan el pago de un plus extraordinario para los trabajadores del sector",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-29T23:25:19+00:00"
+    },
     {
       "id": "2e1bba22",
       "image": "img/2e1bba22.png",
@@ -531,15 +540,6 @@
       "title": "Zulma Lobato implora ayuda tras ser desalojada: \"Si pierdo a la perra, termino con mi vida\"",
       "volanta": "DESESPERADA",
       "date": "2026-06-26T18:45:59+00:00"
-    },
-    {
-      "id": "debd2f56",
-      "image": "img/debd2f56.png",
-      "image_sha": "38bf07e9059583ddfba0ebc2d3a93ae68ac3c6ce",
-      "url": "https://www.radiodos.com.ar/210137-andres-ravier-debuto-como-vocero-en-lugar-de-manuel-adorni-y-ya-se-nego-a-responder-preguntas",
-      "title": "Andrés Ravier debutó como vocero en lugar de Manuel Adorni y ya se negó a responder preguntas",
-      "volanta": "PAPELÓN",
-      "date": "2026-06-26T18:45:25+00:00"
     }
   ]
 }
