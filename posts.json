@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T21:54:44+00:00",
+  "updated": "2026-06-29T21:56:39+00:00",
   "posts": [
+    {
+      "id": "a51dd0b8",
+      "image": "img/a51dd0b8.png",
+      "image_sha": "1cceb27f532c265d77f8fa939e742b3a42214eb7",
+      "url": "https://www.radiodos.com.ar/210270-denuncian-presunto-abuso-sexual-grupal-a-una-persona-con-discapacidad-en-el-interior-de-corrientes",
+      "title": "Denuncian presunto abuso sexual grupal a una persona con discapacidad en el interior de Corrientes",
+      "volanta": "HORRENDO",
+      "date": "2026-06-29T21:56:39+00:00"
+    },
     {
       "id": "016f2803",
       "image": "img/016f2803.png",
@@ -531,15 +540,6 @@
       "title": "Pilar: un hombre atacó a su expareja con una espada y amenazó con prenderla fuego",
       "volanta": "VIOLENCIA DE GÉNERO",
       "date": "2026-06-26T16:34:34+00:00"
-    },
-    {
-      "id": "8bc52998",
-      "image": "img/8bc52998.png",
-      "image_sha": "84ccb4d3f9d84c6a2fddf6267e5bf55e2e10faf0",
-      "url": "https://www.radiodos.com.ar/210132-sebastian-beccacece-cito-a-indio-solari-tras-la-historica-clasificacion-de-ecuador-el-rock-me-dio-fuerzas",
-      "title": "Sebastián Beccacece citó a Indio Solari tras la histórica clasificación de Ecuador: \"El rock me dio fuerzas\"",
-      "volanta": "GRAN FAN",
-      "date": "2026-06-26T15:10:47+00:00"
     }
   ]
 }
