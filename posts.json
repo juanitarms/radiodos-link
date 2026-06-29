@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T15:04:56+00:00",
+  "updated": "2026-06-29T17:01:36+00:00",
   "posts": [
+    {
+      "id": "77b8fcf1",
+      "image": "img/77b8fcf1.png",
+      "image_sha": "8674d60bf9a1adbcfe2b502381b19dbab27cdd4f",
+      "url": "https://www.radiodos.com.ar/210254-miryam-bregman-advirtio-sobre-el-riesgo-adorni-de-que-se-trata",
+      "title": "Miryam Bregman advirtió sobre el \"riesgo Adorni\": ¿de qué se trata?",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-29T17:01:36+00:00"
+    },
     {
       "id": "1150440e",
       "image": "img/1150440e.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a dos menores armados con \"gomeras\" en pleno centro de Corrientes",
       "volanta": "ZONA DEL PUERTO",
       "date": "2026-06-26T10:44:41+00:00"
-    },
-    {
-      "id": "839bf4dd",
-      "image": "img/839bf4dd.png",
-      "image_sha": "cbb5bd0f8959b99b440de899061e019b68d6acc1",
-      "url": "https://www.radiodos.com.ar/210102-la-cgt-anuncio-un-plan-de-accion-que-concluira-en-un-paro-y-una-marcha-nacional",
-      "title": "La CGT anunció un plan de acción que concluirá en un paro y una marcha nacional",
-      "volanta": "contra las políticas del Gobierno",
-      "date": "2026-06-25T23:52:41+00:00"
     }
   ]
 }
