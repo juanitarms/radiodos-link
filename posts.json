@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T22:00:39+00:00",
+  "updated": "2026-06-29T22:44:54+00:00",
   "posts": [
+    {
+      "id": "76a10747",
+      "image": "img/76a10747.png",
+      "image_sha": "fb26bb38e756721e14e20166c60fc3225a270909",
+      "url": "https://www.radiodos.com.ar/210281-sube-a-1719-el-numero-de-muertos-por-los-sismos-en-venezuela-y-ya-son-mas-de-5000-los-heridos",
+      "title": "Sube a 1719 el número de muertos por los sismos en Venezuela y ya son más de 5000 los heridos",
+      "volanta": "catastrofe",
+      "date": "2026-06-29T22:44:54+00:00"
+    },
     {
       "id": "81279bac",
       "image": "img/81279bac.png",
@@ -531,15 +540,6 @@
       "title": "Este sábado con variedad de propuestas se presenta la marca Goya",
       "volanta": "Paseo Puerto Interior",
       "date": "2026-06-26T17:22:10+00:00"
-    },
-    {
-      "id": "86c09dc2",
-      "image": "img/86c09dc2.png",
-      "image_sha": "3c13ec4976c9bed6b357c40dce7db4a5e5c94608",
-      "url": "https://www.radiodos.com.ar/210136-terremotos-en-venezuela-desesperado-pedido-de-lucas-trejo-para-encontrar-a-su-familia",
-      "title": "Terremotos en Venezuela: desesperado pedido de Lucas Trejo para encontrar a su familia",
-      "volanta": "TRAGEDIA",
-      "date": "2026-06-26T17:21:35+00:00"
     }
   ]
 }
