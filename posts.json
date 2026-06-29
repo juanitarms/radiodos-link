@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T22:00:03+00:00",
+  "updated": "2026-06-29T22:00:39+00:00",
   "posts": [
+    {
+      "id": "81279bac",
+      "image": "img/81279bac.png",
+      "image_sha": "0c407a7bf3fbc616c1605b8edf0533424711d4c9",
+      "url": "https://www.radiodos.com.ar/210272-intensifican-la-busqueda-de-la-joven-que-habria-caido-desde-el-puente-corrientes-chaco",
+      "title": "Intensifican la búsqueda de la joven que habría caído desde el puente Corrientes-Chaco",
+      "volanta": "SIN NOVEDADES",
+      "date": "2026-06-29T22:00:39+00:00"
+    },
     {
       "id": "d455c459",
       "image": "img/d455c459.png",
@@ -531,15 +540,6 @@
       "title": "Terremotos en Venezuela: desesperado pedido de Lucas Trejo para encontrar a su familia",
       "volanta": "TRAGEDIA",
       "date": "2026-06-26T17:21:35+00:00"
-    },
-    {
-      "id": "b7e812f7",
-      "image": "img/b7e812f7.png",
-      "image_sha": "2bb6e0fae6939b83c6221d6a385b403b9e9e13dc",
-      "url": "https://www.radiodos.com.ar/210134-el-comunicado-de-blender-luego-de-que-se-levantara-un-programa-en-vivo",
-      "title": "El comunicado de Blender luego de que se levantara un programa en vivo",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-06-26T17:21:00+00:00"
     }
   ]
 }
