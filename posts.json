@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T12:35:58+00:00",
+  "updated": "2026-06-29T12:59:29+00:00",
   "posts": [
+    {
+      "id": "6453405c",
+      "image": "img/6453405c.png",
+      "image_sha": "225ef1bd12f9f34a044b9ad3c9e5914101ff9160",
+      "url": "https://www.radiodos.com.ar/210232-terremotos-en-venezuela-una-fuerte-replica-en-caracas-volvio-a-sacudir-al-pais",
+      "title": "Terremotos en Venezuela: una fuerte réplica en Caracas volvió a sacudir al país",
+      "volanta": "EMERGENCIA",
+      "date": "2026-06-29T12:59:29+00:00"
+    },
     {
       "id": "9dd5635f",
       "image": "img/9dd5635f.png",
@@ -531,15 +540,6 @@
       "title": "Estudiantes de parajes rurales recorren el Centro Cultural Sanmartiniano",
       "volanta": "La emoción de tocar la historia",
       "date": "2026-06-25T21:00:12+00:00"
-    },
-    {
-      "id": "9190d07d",
-      "image": "img/9190d07d.png",
-      "image_sha": "56c16cc79dece2ce4f3125ba1da55e99ea4bfaee",
-      "url": "https://www.radiodos.com.ar/210093-aprobaron-una-ordenanza-para-mejorar-la-circulacion-vial-en-el-barrio-concepcion",
-      "title": "Aprobaron una ordenanza para mejorar la circulación vial en el barrio Concepción",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-25T20:53:51+00:00"
     }
   ]
 }
