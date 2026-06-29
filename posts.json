@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T22:46:26+00:00",
+  "updated": "2026-06-29T23:20:52+00:00",
   "posts": [
+    {
+      "id": "2e1bba22",
+      "image": "img/2e1bba22.png",
+      "image_sha": "0aa267921c113314809820065076e2fae6fdc61e",
+      "url": "https://www.radiodos.com.ar/210283-javier-milei-critico-a-parte-de-la-corporacion-politica-son-los-verdaderos-enemigos-del-pais",
+      "title": "Javier Milei criticó a \"parte de la corporación política\": \"Son los verdaderos enemigos del país\"",
+      "volanta": "DURAS PALABRAS",
+      "date": "2026-06-29T23:20:52+00:00"
+    },
     {
       "id": "66d85439",
       "image": "img/66d85439.png",
@@ -531,15 +540,6 @@
       "title": "Andrés Ravier debutó como vocero en lugar de Manuel Adorni y ya se negó a responder preguntas",
       "volanta": "PAPELÓN",
       "date": "2026-06-26T18:45:25+00:00"
-    },
-    {
-      "id": "ee0858d4",
-      "image": "img/ee0858d4.png",
-      "image_sha": "cfe27cb1338623b78fbd71b49f7ff4e23715b51b",
-      "url": "https://www.radiodos.com.ar/210138-legisladores-de-corrientes-lograron-el-apoyo-unanime-del-parlamento-norte-grande",
-      "title": "Legisladores de Corrientes lograron el apoyo unánime del Parlamento Norte Grande",
-      "volanta": "En Santiago del Estero",
-      "date": "2026-06-26T18:44:43+00:00"
     }
   ]
 }
