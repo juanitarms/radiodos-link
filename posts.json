@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T11:35:48+00:00",
+  "updated": "2026-06-29T11:48:43+00:00",
   "posts": [
+    {
+      "id": "88e68f42",
+      "image": "img/88e68f42.png",
+      "image_sha": "962796e0fa1215d7d68c70fe05e75dad6c36c078",
+      "url": "https://www.radiodos.com.ar/210219-la-16-feria-provincial-del-libro-invita-a-alentar-las-historias-de-grandes-autores-correntinos",
+      "title": "La 16ª Feria Provincial del Libro invita a alentar las historias de grandes autores correntinos",
+      "volanta": "GOBIERNO DE CORRIENTES",
+      "date": "2026-06-29T11:48:43+00:00"
+    },
     {
       "id": "0141e5dc",
       "image": "img/0141e5dc.png",
@@ -531,15 +540,6 @@
       "title": "La Corte dejó firme el fallo que obligó a aumentar salarios y becas por la ley de financiamiento universitario",
       "volanta": "GOLPE PARA EL GOBIERNO",
       "date": "2026-06-25T20:36:20+00:00"
-    },
-    {
-      "id": "1c0eec46",
-      "image": "img/1c0eec46.png",
-      "image_sha": "fa8651f65183ba5323accc2fd24ef5bfb5777c13",
-      "url": "https://www.radiodos.com.ar/210090-excombatiente-de-corrientes-esta-desaparecido-desde-el-22-de-junio-",
-      "title": "Excombatiente de Corrientes está desaparecido desde el 22 de junio",
-      "volanta": "ALERTA",
-      "date": "2026-06-25T20:33:53+00:00"
     }
   ]
 }
