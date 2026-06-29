@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T21:56:39+00:00",
+  "updated": "2026-06-29T21:58:34+00:00",
   "posts": [
+    {
+      "id": "62073cc3",
+      "image": "img/62073cc3.png",
+      "image_sha": "ac142d6105267dad7fea3a15ef577b2bca2a012c",
+      "url": "https://www.radiodos.com.ar/210274-una-funcionaria-declaro-que-le-presto-su-tarjeta-a-adorni-para-que-compre-un-monitor-de-videojuegos",
+      "title": "Una funcionaria declaró que le prestó su tarjeta a Adorni para que compre un monitor de videojuegos",
+      "volanta": "nuevo escándalo",
+      "date": "2026-06-29T21:58:34+00:00"
+    },
     {
       "id": "a51dd0b8",
       "image": "img/a51dd0b8.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un joven que abandono un hogar de contención en Corrientes",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-06-26T16:35:11+00:00"
-    },
-    {
-      "id": "beffaaef",
-      "image": "img/beffaaef.png",
-      "image_sha": "94dfbc137dce7dfaf40d04e440668f9b0510c36f",
-      "url": "https://www.radiodos.com.ar/210131-pilar-un-hombre-ataco-a-su-expareja-con-una-espada-y-amenazo-con-prenderla-fuego",
-      "title": "Pilar: un hombre atacó a su expareja con una espada y amenazó con prenderla fuego",
-      "volanta": "VIOLENCIA DE GÉNERO",
-      "date": "2026-06-26T16:34:34+00:00"
     }
   ]
 }
