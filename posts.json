@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T18:10:52+00:00",
+  "updated": "2026-06-29T18:11:24+00:00",
   "posts": [
+    {
+      "id": "2821a518",
+      "image": "img/2821a518.png",
+      "image_sha": "262759189d63e3033e7c2368ea829b10e8c7f926",
+      "url": "https://www.radiodos.com.ar/210261-tras-un-allanamiento-por-narcomenudeo-secuestran-cocaina-y-varios-elementos",
+      "title": "Tras un allanamiento por narcomenudeo, secuestran cocaína y varios elementos",
+      "volanta": "CURUZÚ CUATIÁ",
+      "date": "2026-06-29T18:11:24+00:00"
+    },
     {
       "id": "d583321e",
       "image": "img/d583321e.png",
@@ -531,15 +540,6 @@
       "title": "Formosa: murió un nene de 7 años e investigan un posible caso de maltrato",
       "volanta": "TERRIBLE",
       "date": "2026-06-26T13:50:01+00:00"
-    },
-    {
-      "id": "8f338132",
-      "image": "img/8f338132.png",
-      "image_sha": "ec578a68c09587d0dfa6594ae1c91ff51cf77242",
-      "url": "https://www.radiodos.com.ar/210116-javier-milei-si-a-manuel-adorni-lo-consideran-culpable-lo-eyecto-de-una-patada",
-      "title": "Javier Milei: \"Si a Manuel Adorni lo consideran culpable, lo eyecto de una patada\"",
-      "volanta": "INVESTIGADO",
-      "date": "2026-06-26T13:23:16+00:00"
     }
   ]
 }
