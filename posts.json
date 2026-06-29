@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T23:25:19+00:00",
+  "updated": "2026-06-29T23:31:02+00:00",
   "posts": [
+    {
+      "id": "0c487f83",
+      "image": "img/0c487f83.png",
+      "image_sha": "24f641fcea323f29a348f0f065256f9960182819",
+      "url": "https://www.radiodos.com.ar/210280-la-actividad-economica-crecio-16-interanual-en-abril-pero-cayo-frente-a-marzo",
+      "title": "La actividad económica creció 1,6% interanual en abril, pero cayó frente a marzo",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-06-29T23:31:02+00:00"
+    },
     {
       "id": "d55a18f4",
       "image": "img/d55a18f4.png",
@@ -531,15 +540,6 @@
       "title": "El Arzobispo de Corrientes participó de una invocación religiosa por la vida, la libertad y la esperanza",
       "volanta": "DÍA INTERNACIONAL DE LA LUCHA CONTRA EL USO INDEBIDO Y EL TRÁFICO ILÍCITO DE DROGAS",
       "date": "2026-06-26T20:22:12+00:00"
-    },
-    {
-      "id": "ac459cae",
-      "image": "img/ac459cae.png",
-      "image_sha": "057e9888d38c407ea9958fb5dc9566a2395de1e4",
-      "url": "https://www.radiodos.com.ar/210144-zulma-lobato-implora-ayuda-tras-ser-desalojada-si-pierdo-a-la-perra-termino-con-mi-vida",
-      "title": "Zulma Lobato implora ayuda tras ser desalojada: \"Si pierdo a la perra, termino con mi vida\"",
-      "volanta": "DESESPERADA",
-      "date": "2026-06-26T18:45:59+00:00"
     }
   ]
 }
