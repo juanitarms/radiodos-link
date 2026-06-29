@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T23:31:02+00:00",
+  "updated": "2026-06-29T23:31:36+00:00",
   "posts": [
+    {
+      "id": "b2a92564",
+      "image": "img/b2a92564.png",
+      "image_sha": "f2dda077a2f90aea073a6bac5a027619675003d9",
+      "url": "https://www.radiodos.com.ar/210276-confirmaron-la-llegada-de-el-nino-y-anticiparon-que-podria-fortalecerse-en-los-proximos-meses",
+      "title": "Confirmaron la llegada de El Niño y anticiparon que podría fortalecerse en los próximos meses",
+      "volanta": "Fenómeno climático",
+      "date": "2026-06-29T23:31:36+00:00"
+    },
     {
       "id": "0c487f83",
       "image": "img/0c487f83.png",
@@ -531,15 +540,6 @@
       "title": "Piden la detención de Martín Insaurralde por la causa de presunto enriquecimiento ilícito y lavado de dinero",
       "volanta": "Corrupción",
       "date": "2026-06-26T20:35:11+00:00"
-    },
-    {
-      "id": "7c874d8b",
-      "image": "img/7c874d8b.png",
-      "image_sha": "11b049ee7ad91dbc340260ea7a15f166e5bd87f7",
-      "url": "https://www.radiodos.com.ar/210151-el-arzobispo-de-corrientes-participo-de-una-invocacion-religiosa-por-la-vida-la-libertad-y-la-esperanza",
-      "title": "El Arzobispo de Corrientes participó de una invocación religiosa por la vida, la libertad y la esperanza",
-      "volanta": "DÍA INTERNACIONAL DE LA LUCHA CONTRA EL USO INDEBIDO Y EL TRÁFICO ILÍCITO DE DROGAS",
-      "date": "2026-06-26T20:22:12+00:00"
     }
   ]
 }
