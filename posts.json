@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T17:01:36+00:00",
+  "updated": "2026-06-29T17:02:10+00:00",
   "posts": [
+    {
+      "id": "383fde56",
+      "image": "img/383fde56.png",
+      "image_sha": "b08bd0468394928a49fd0688279c1cfc50d234ab",
+      "url": "https://www.radiodos.com.ar/210256-boca-unidos-no-contara-con-seis-jugadores-del-plantel-profesional",
+      "title": "Boca Unidos no contará con seis jugadores del plantel profesional",
+      "volanta": "COMUNICADO",
+      "date": "2026-06-29T17:02:10+00:00"
+    },
     {
       "id": "77b8fcf1",
       "image": "img/77b8fcf1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes logró respaldo a tres reclamos regionales estratégicos en el Parlamento del Norte Grande",
       "volanta": "EN SANTIAGO",
       "date": "2026-06-26T11:03:38+00:00"
-    },
-    {
-      "id": "a796e487",
-      "image": "img/a796e487.png",
-      "image_sha": "410c07a9fd33863fafafe4ab44dcde7fd6e47884",
-      "url": "https://www.radiodos.com.ar/210104-demoraron-a-dos-menores-armados-con-gomeras-en-pleno-centro-de-corrientes",
-      "title": "Demoraron a dos menores armados con \"gomeras\" en pleno centro de Corrientes",
-      "volanta": "ZONA DEL PUERTO",
-      "date": "2026-06-26T10:44:41+00:00"
     }
   ]
 }
