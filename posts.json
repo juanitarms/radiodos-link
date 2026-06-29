@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T14:51:46+00:00",
+  "updated": "2026-06-29T15:04:56+00:00",
   "posts": [
+    {
+      "id": "1150440e",
+      "image": "img/1150440e.png",
+      "image_sha": "ef7df5af0b609fb37660d0a9968dc10d57a8b75b",
+      "url": "https://www.radiodos.com.ar/210255-la-municipalidad-inicio-una-obra-estrategica-de-desagues-pluviales-en-villa-chiquita",
+      "title": "La Municipalidad inició una obra estratégica de desagües pluviales en Villa Chiquita",
+      "volanta": "INFRAESTRUCTURA URBANA Y PREVENCIÓN HÍDRICA",
+      "date": "2026-06-29T15:04:56+00:00"
+    },
     {
       "id": "80e4ed85",
       "image": "img/80e4ed85.png",
@@ -531,15 +540,6 @@
       "title": "La CGT anunció un plan de acción que concluirá en un paro y una marcha nacional",
       "volanta": "contra las políticas del Gobierno",
       "date": "2026-06-25T23:52:41+00:00"
-    },
-    {
-      "id": "aa06b1ab",
-      "image": "img/aa06b1ab.png",
-      "image_sha": "8a7c72ae933404018301e3bdaf845bab8dd6e039",
-      "url": "https://www.radiodos.com.ar/210103-lisandro-almiron-el-super-rigi-es-el-motor-que-va-a-transformar-el-potencial-de-nuestros-recursos-en-realidades-industriales",
-      "title": "Lisandro Almirón: \"El Super Rigi es el motor que va a transformar el potencial de nuestros recursos en realidades industriales\"",
-      "volanta": "Diputado nacional",
-      "date": "2026-06-25T23:51:58+00:00"
     }
   ]
 }
