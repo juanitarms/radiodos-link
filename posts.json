@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T18:10:18+00:00",
+  "updated": "2026-06-29T18:10:52+00:00",
   "posts": [
+    {
+      "id": "d583321e",
+      "image": "img/d583321e.png",
+      "image_sha": "063b519b20ef75f3e1344e6d92385ed58a77c070",
+      "url": "https://www.radiodos.com.ar/210262-diego-santilli-alineado-hable-con-mauricio-macri-pero-el-liderazgo-hoy-es-de-javier-milei",
+      "title": "Diego Santilli, alineado: \"Hablé con Mauricio Macri, pero el liderazgo hoy es de Javier Milei\"",
+      "volanta": "NUEVO GABINETE",
+      "date": "2026-06-29T18:10:52+00:00"
+    },
     {
       "id": "b03d1b59",
       "image": "img/b03d1b59.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei: \"Si a Manuel Adorni lo consideran culpable, lo eyecto de una patada\"",
       "volanta": "INVESTIGADO",
       "date": "2026-06-26T13:23:16+00:00"
-    },
-    {
-      "id": "bb3afbf3",
-      "image": "img/bb3afbf3.png",
-      "image_sha": "46e0fa63e44f8f3a95497696ab658a7c14fb9080",
-      "url": "https://www.radiodos.com.ar/210115-juegos-correntinos-2026-se-completo-la-etapa-clasificatoria-en-la-zona-3",
-      "title": "\"Juegos Correntinos 2026\": Se completó la etapa clasificatoria en la Zona 3",
-      "volanta": "EL DEPORTE COMO POLÍTICA DE ESTADO",
-      "date": "2026-06-26T13:07:02+00:00"
     }
   ]
 }
