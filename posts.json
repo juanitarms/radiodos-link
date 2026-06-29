@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T11:11:36+00:00",
+  "updated": "2026-06-29T11:34:44+00:00",
   "posts": [
+    {
+      "id": "f72c8c3c",
+      "image": "img/f72c8c3c.png",
+      "image_sha": "a69a19027f89ab571bcbb8966d94ebec588d7bec",
+      "url": "https://www.radiodos.com.ar/210214-tras-designar-a-santilli-como-jefe-de-gabinete-milei-volvio-a-defender-a-manuel-adorni",
+      "title": "Tras designar a Santilli como Jefe de Gabinete, Milei volvió a defender a Manuel Adorni",
+      "volanta": "DECLARACIONES DEL PRESIDENTE",
+      "date": "2026-06-29T11:34:44+00:00"
+    },
     {
       "id": "34dce2ba",
       "image": "img/34dce2ba.png",
@@ -531,15 +540,6 @@
       "title": "Un pueblo de Italia busca vecinos y ofrece ayuda económica para mudarse: de cuál se trata",
       "volanta": "MIGRACIÓN",
       "date": "2026-06-25T17:50:53+00:00"
-    },
-    {
-      "id": "4154ef79",
-      "image": "img/4154ef79.png",
-      "image_sha": "18f45312843bef6d0c25028485f146ebec80031f",
-      "url": "https://www.radiodos.com.ar/210074-el-mentalista-del-momento-llega-a-corrientes",
-      "title": "El mentalista del momento llega a Corrientes",
-      "volanta": "ÚNICO SHOW",
-      "date": "2026-06-25T17:50:19+00:00"
     }
   ]
 }
