@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T23:32:52+00:00",
+  "updated": "2026-06-29T23:34:53+00:00",
   "posts": [
+    {
+      "id": "d4feb29d",
+      "image": "img/d4feb29d.png",
+      "image_sha": "4770f74b0238a13ed2a358782a1cf82c4cd3f77b",
+      "url": "https://www.radiodos.com.ar/210274-una-funcionaria-declaro-que-le-presto-su-tarjeta-a-adorni-para-que-compre-un-monitor-de-videojuegos",
+      "title": "Una funcionaria declaró que le prestó su tarjeta a Adorni para que compre un monitor de videojuegos",
+      "volanta": "POLÍTICA",
+      "date": "2026-06-29T23:34:53+00:00"
+    },
     {
       "id": "03f30b76",
       "image": "img/03f30b76.png",
@@ -531,15 +540,6 @@
       "title": "Claudio Polich: \"Hay que cuidar el \"mango\" y buscar la forma de hacer rendir la plata\"",
       "volanta": "FINANZAS MUNICIPALES",
       "date": "2026-06-26T20:39:16+00:00"
-    },
-    {
-      "id": "02e8ecc9",
-      "image": "img/02e8ecc9.png",
-      "image_sha": "e1d0a09382579cd0917487fa7fc6bef5a05e6b76",
-      "url": "https://www.radiodos.com.ar/210156-tragedia-en-el-interior-de-corrientes-un-hombre-murio-calcinado-al-incendiarse-su-vivienda",
-      "title": "Tragedia en el interior de Corrientes: un hombre murió calcinado al incendiarse su vivienda",
-      "volanta": "ANOCHE",
-      "date": "2026-06-26T20:37:27+00:00"
     }
   ]
 }
