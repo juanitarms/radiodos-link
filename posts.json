@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T17:03:46+00:00",
+  "updated": "2026-06-29T18:10:18+00:00",
   "posts": [
+    {
+      "id": "b03d1b59",
+      "image": "img/b03d1b59.png",
+      "image_sha": "376e34447b6b88996b66fa6f2e299ba8acaa4e29",
+      "url": "https://www.radiodos.com.ar/210260-buscan-a-un-adolescente-que-se-ausento-del-hogar-miguel-magone",
+      "title": "Buscan a un adolescente que se ausentó del Hogar Miguel Magone",
+      "volanta": "HACE UNA SEMANA",
+      "date": "2026-06-29T18:10:18+00:00"
+    },
     {
       "id": "05f00273",
       "image": "img/05f00273.png",
@@ -531,15 +540,6 @@
       "title": "\"Juegos Correntinos 2026\": Se completó la etapa clasificatoria en la Zona 3",
       "volanta": "EL DEPORTE COMO POLÍTICA DE ESTADO",
       "date": "2026-06-26T13:07:02+00:00"
-    },
-    {
-      "id": "222803d6",
-      "image": "img/222803d6.png",
-      "image_sha": "e477bf87f651c3d9972f88d7bf6c773ec96e2533",
-      "url": "https://www.radiodos.com.ar/210110-un-obispo-en-corrientes-alerto-sobre-el-aumento-de-apuestas-on-line-durante-el-mundial",
-      "title": "Un Obispo en Corrientes alertó sobre \"el aumento de apuestas on line durante el Mundial\"",
-      "volanta": "GOYA",
-      "date": "2026-06-26T12:31:46+00:00"
     }
   ]
 }
