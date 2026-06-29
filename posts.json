@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T11:34:44+00:00",
+  "updated": "2026-06-29T11:35:48+00:00",
   "posts": [
+    {
+      "id": "0141e5dc",
+      "image": "img/0141e5dc.png",
+      "image_sha": "89ad0b155d7871f1bab6db888b5b28994c3360ac",
+      "url": "https://www.radiodos.com.ar/210217-corrientes-estafo-a-varias-financieras-por-alrededor-de-30-millones-de-pesos",
+      "title": "Corrientes: estafó a varias financieras por alrededor de 30 millones de pesos",
+      "volanta": "CAYÓ EN CAPITAL",
+      "date": "2026-06-29T11:35:48+00:00"
+    },
     {
       "id": "f72c8c3c",
       "image": "img/f72c8c3c.png",
@@ -531,15 +540,6 @@
       "title": "Excombatiente de Corrientes está desaparecido desde el 22 de junio",
       "volanta": "ALERTA",
       "date": "2026-06-25T20:33:53+00:00"
-    },
-    {
-      "id": "0ea7320e",
-      "image": "img/0ea7320e.png",
-      "image_sha": "b5c2c60012f558844c82fa4901a59fe95af271c1",
-      "url": "https://www.radiodos.com.ar/210073-un-pueblo-de-italia-busca-vecinos-y-ofrece-ayuda-economica-para-mudarse-de-cual-se-trata",
-      "title": "Un pueblo de Italia busca vecinos y ofrece ayuda económica para mudarse: de cuál se trata",
-      "volanta": "MIGRACIÓN",
-      "date": "2026-06-25T17:50:53+00:00"
     }
   ]
 }
