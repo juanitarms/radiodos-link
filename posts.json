@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T12:18:59+00:00",
+  "updated": "2026-06-29T12:35:58+00:00",
   "posts": [
+    {
+      "id": "9dd5635f",
+      "image": "img/9dd5635f.png",
+      "image_sha": "531092bcc03e283026b11990f26752ab69395dad",
+      "url": "https://www.radiodos.com.ar/210225-la-policia-de-corrientes-desarticulo-banda-dedicada-al-narcomenudeo-en-santa-lucia",
+      "title": "La Policía de Corrientes desarticuló banda dedicada al narcomenudeo en Santa Lucía",
+      "volanta": "4 DETENIDOS",
+      "date": "2026-06-29T12:35:58+00:00"
+    },
     {
       "id": "a9c592b5",
       "image": "img/a9c592b5.png",
@@ -531,15 +540,6 @@
       "title": "Aprobaron una ordenanza para mejorar la circulación vial en el barrio Concepción",
       "volanta": "CORRIENTES",
       "date": "2026-06-25T20:53:51+00:00"
-    },
-    {
-      "id": "da475379",
-      "image": "img/da475379.png",
-      "image_sha": "473080a921f6db6b93d4c80f884c0a5e40935971",
-      "url": "https://www.radiodos.com.ar/210088-los-suicidios-superaron-a-los-homicidios-y-las-muertes-por-accidentes-de-transito-en-argentina",
-      "title": "Los suicidios superaron a los homicidios y las muertes por accidentes de tránsito en Argentina",
-      "volanta": "LUEGO DE MUCHOS AÑOS",
-      "date": "2026-06-25T20:52:04+00:00"
     }
   ]
 }
