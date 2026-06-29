@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T17:02:38+00:00",
+  "updated": "2026-06-29T17:03:09+00:00",
   "posts": [
+    {
+      "id": "dc0aad40",
+      "image": "img/dc0aad40.png",
+      "image_sha": "8869f4226c25fdcf83d25d771ec3e6bb974fa867",
+      "url": "https://www.radiodos.com.ar/210259-el-gobierno-entrego-equipamiento-a-centros-de-salud-de-la-provincia",
+      "title": "El Gobierno entregó equipamiento a centros de salud de la provincia",
+      "volanta": "REFUERZO EN LA ATENCIÓN PRIMARIA",
+      "date": "2026-06-29T17:03:09+00:00"
+    },
     {
       "id": "2bac887d",
       "image": "img/2bac887d.png",
@@ -531,15 +540,6 @@
       "title": "Hubo un principio de incendio en un hotel en el microcentro de Corrientes",
       "volanta": "ESTA MADRUGADA",
       "date": "2026-06-26T11:32:43+00:00"
-    },
-    {
-      "id": "63180d57",
-      "image": "img/63180d57.png",
-      "image_sha": "1b02d62bfab17d8417d451deb9fdc96be2b036c7",
-      "url": "https://www.radiodos.com.ar/210105-advierten-que-por-la-fuerte-competencia-cayo-15-la-demanda-de-remises-en-corrientes",
-      "title": "Advierten que por la fuerte competencia cayó 15% la demanda de remises en Corrientes",
-      "volanta": "TIEMPOS COMPLICADOS",
-      "date": "2026-06-26T11:17:57+00:00"
     }
   ]
 }
