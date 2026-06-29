@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-28T22:03:29+00:00",
+  "updated": "2026-06-29T10:25:56+00:00",
   "posts": [
+    {
+      "id": "43c0c164",
+      "image": "img/43c0c164.png",
+      "image_sha": "7ff547f26203ef2e4fce663a7d922aa9fa79a203",
+      "url": "https://www.radiodos.com.ar/210212-la-joven-oriunda-de-monte-caseros-que-era-buscada-en-corrientes-se-habria-arrojado-desde-el-puente",
+      "title": "La joven oriunda de Monte Caseros que era buscada en Corrientes se habría arrojado desde el puente",
+      "volanta": "EL PEOR FINAL",
+      "date": "2026-06-29T10:25:56+00:00"
+    },
     {
       "id": "1184f2e1",
       "image": "img/1184f2e1.png",
@@ -531,15 +540,6 @@
       "title": "En el aniversario de Prefectura, Braillard Poccard resaltó su compromiso con la seguridad y la navegación",
       "volanta": "CELEBRACIÓN",
       "date": "2026-06-25T17:49:45+00:00"
-    },
-    {
-      "id": "7965390d",
-      "image": "img/7965390d.png",
-      "image_sha": "75ae33a081aaec0d0abc2ee23bff550426677d34",
-      "url": "https://www.radiodos.com.ar/210071-el-pa-reconocera-a-referentes-de-la-historia-politica-de-goya",
-      "title": "El PA reconocerá a referentes de la historia política de Goya",
-      "volanta": "DESTACADOS",
-      "date": "2026-06-25T17:49:08+00:00"
     }
   ]
 }
