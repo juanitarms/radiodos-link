@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T17:03:09+00:00",
+  "updated": "2026-06-29T17:03:46+00:00",
   "posts": [
+    {
+      "id": "05f00273",
+      "image": "img/05f00273.png",
+      "image_sha": "7cf5587a9253d3af5b344a36d25a0e347af35c5b",
+      "url": "https://www.radiodos.com.ar/210258-el-gobierno-de-corrientes-confirmo-los-periodos-de-la-feria-administrativa-de-invierno",
+      "title": "El Gobierno de Corrientes confirmó los periodos de la feria administrativa de invierno",
+      "volanta": "DECRETO N° 1544",
+      "date": "2026-06-29T17:03:46+00:00"
+    },
     {
       "id": "dc0aad40",
       "image": "img/dc0aad40.png",
@@ -531,15 +540,6 @@
       "title": "Un Obispo en Corrientes alertó sobre \"el aumento de apuestas on line durante el Mundial\"",
       "volanta": "GOYA",
       "date": "2026-06-26T12:31:46+00:00"
-    },
-    {
-      "id": "0ee3cdb3",
-      "image": "img/0ee3cdb3.png",
-      "image_sha": "55a82a0442927ecc6c119dae83fbf56e58385c8c",
-      "url": "https://www.radiodos.com.ar/210107-hubo-un-principio-de-incendio-en-un-hotel-en-el-microcentro-de-corrientes",
-      "title": "Hubo un principio de incendio en un hotel en el microcentro de Corrientes",
-      "volanta": "ESTA MADRUGADA",
-      "date": "2026-06-26T11:32:43+00:00"
     }
   ]
 }
