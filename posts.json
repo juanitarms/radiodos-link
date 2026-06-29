@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T14:22:06+00:00",
+  "updated": "2026-06-29T14:37:24+00:00",
   "posts": [
+    {
+      "id": "62642940",
+      "image": "img/62642940.png",
+      "image_sha": "9d848958a4de96ee7641f8cf8f405d865e90f8e5",
+      "url": "https://www.radiodos.com.ar/210245-alemania-vs-paraguay-por-los-16avos-de-final-del-mundial-2026-horario-formaciones-y-tv",
+      "title": "Alemania vs. Paraguay por los 16avos de final del Mundial 2026: horario, formaciones y TV",
+      "volanta": "IMPERDIBLE",
+      "date": "2026-06-29T14:37:24+00:00"
+    },
     {
       "id": "c9bd6cb6",
       "image": "img/c9bd6cb6.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes registró exportaciones por 148 millones de dólares entre enero y mayo",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-06-25T22:30:44+00:00"
-    },
-    {
-      "id": "09029417",
-      "image": "img/09029417.png",
-      "image_sha": "7a516e8ddb5be1a0a4f52e95bb68be3ad4e6c079",
-      "url": "https://www.radiodos.com.ar/210100-cine-nae-abre-convocatoria-para-cortometrajes-y-videoclips-de-realizadores-del-nea",
-      "title": "Cine Naé abre convocatoria para cortometrajes y videoclips de realizadores del NEA",
-      "volanta": "audiovisual regional",
-      "date": "2026-06-25T22:26:24+00:00"
     }
   ]
 }
