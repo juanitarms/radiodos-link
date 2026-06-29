@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T20:37:19+00:00",
+  "updated": "2026-06-29T21:54:44+00:00",
   "posts": [
+    {
+      "id": "016f2803",
+      "image": "img/016f2803.png",
+      "image_sha": "1a99394be1cbc4e2c3ba79483231f224b7fea7b2",
+      "url": "https://www.radiodos.com.ar/210271-un-operario-forestal-sufrio-graves-heridas-tras-ser-aplastado-por-un-pino",
+      "title": "Un operario forestal sufrió graves heridas tras ser aplastado por un pino",
+      "volanta": "CORRIENTES",
+      "date": "2026-06-29T21:54:44+00:00"
+    },
     {
       "id": "b47f7b4c",
       "image": "img/b47f7b4c.png",
@@ -531,15 +540,6 @@
       "title": "Sebastián Beccacece citó a Indio Solari tras la histórica clasificación de Ecuador: \"El rock me dio fuerzas\"",
       "volanta": "GRAN FAN",
       "date": "2026-06-26T15:10:47+00:00"
-    },
-    {
-      "id": "bd8ce7cd",
-      "image": "img/bd8ce7cd.png",
-      "image_sha": "8ad986a6932e6a827c1d37a815eba2dd7f3c5574",
-      "url": "https://www.radiodos.com.ar/210129-noruega-vs-francia-por-el-mundial-2026-horario-formaciones-y-tv",
-      "title": "Noruega vs. Francia por el Mundial 2026: horario, formaciones y TV",
-      "volanta": "GRUPO I",
-      "date": "2026-06-26T14:59:10+00:00"
     }
   ]
 }
