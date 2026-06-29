@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T21:58:34+00:00",
+  "updated": "2026-06-29T22:00:03+00:00",
   "posts": [
+    {
+      "id": "d455c459",
+      "image": "img/d455c459.png",
+      "image_sha": "6129cbe016bb3a4de860e68b5812e7a652153ee7",
+      "url": "https://www.radiodos.com.ar/210273-mas-de-400-corredores-participaron-de-una-nueva-fecha-de-las-maratones-barriales-en-corrientes",
+      "title": "Más de 400 corredores participaron de una nueva fecha de las Maratones Barriales en Corrientes",
+      "volanta": "DEPORTES",
+      "date": "2026-06-29T22:00:03+00:00"
+    },
     {
       "id": "62073cc3",
       "image": "img/62073cc3.png",
@@ -531,15 +540,6 @@
       "title": "El comunicado de Blender luego de que se levantara un programa en vivo",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-06-26T17:21:00+00:00"
-    },
-    {
-      "id": "1b01feef",
-      "image": "img/1b01feef.png",
-      "image_sha": "249961c9453645d6574e580e57126522f07986b5",
-      "url": "https://www.radiodos.com.ar/210130-buscan-a-un-joven-que-abandono-un-hogar-de-contencion-en-corrientes",
-      "title": "Buscan a un joven que abandono un hogar de contención en Corrientes",
-      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
-      "date": "2026-06-26T16:35:11+00:00"
     }
   ]
 }
