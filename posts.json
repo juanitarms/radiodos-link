@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T11:15:20+00:00",
+  "updated": "2026-06-30T11:33:33+00:00",
   "posts": [
+    {
+      "id": "a716b7b0",
+      "image": "img/a716b7b0.png",
+      "image_sha": "dc3d0f21d530573e8b4d99df018ddf6e093ae2e8",
+      "url": "https://www.radiodos.com.ar/210286-comenzo-el-pago-de-salarios-a-empleados-municipales-capitalinos-con-aumento",
+      "title": "Comenzó el pago de salarios a empleados municipales capitalinos: con aumento",
+      "volanta": "JUNIO",
+      "date": "2026-06-30T11:33:33+00:00"
+    },
     {
       "id": "09a52994",
       "image": "img/09a52994.png",
@@ -531,15 +540,6 @@
       "title": "Jorge Meza: \"Trabajamos en obras esenciales para que el impacto de El Niño sea el menor posible\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-06-26T21:40:02+00:00"
-    },
-    {
-      "id": "c8c61df7",
-      "image": "img/c8c61df7.png",
-      "image_sha": "47460afa45aa3cf829c5ee116f83a03264b5a402",
-      "url": "https://www.radiodos.com.ar/210157-terremotos-en-venezuela-ascienden-a-920-los-muertos",
-      "title": "Terremotos en Venezuela: ascienden a 920 los muertos",
-      "volanta": "Tragedia",
-      "date": "2026-06-26T21:01:19+00:00"
     }
   ]
 }
