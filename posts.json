@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T12:45:42+00:00",
+  "updated": "2026-06-30T12:59:08+00:00",
   "posts": [
+    {
+      "id": "97e85152",
+      "image": "img/97e85152.png",
+      "image_sha": "f03c0fa708bdd7b08fb4e44c717d7341543d56cb",
+      "url": "https://www.radiodos.com.ar/210297-de-la-tierra-colorada-a-leyendas-las-mejores-frases-de-gustavo-alfaro-tras-la-hazana-de-paraguay",
+      "title": "De la \"tierra colorada\" a \"leyendas\": las mejores frases de Gustavo Alfaro tras la hazaña de Paraguay",
+      "volanta": "Conferencia de prensa",
+      "date": "2026-06-30T12:59:08+00:00"
+    },
     {
       "id": "d1e343b4",
       "image": "img/d1e343b4.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por lluvias: cómo estará el clima en Corrientes este fin de semana",
       "volanta": "Pronóstico",
       "date": "2026-06-26T22:17:39+00:00"
-    },
-    {
-      "id": "e26a6603",
-      "image": "img/e26a6603.png",
-      "image_sha": "cf790f48bd6740de474a53f54b5d1bb62dd9bf44",
-      "url": "https://www.radiodos.com.ar/210161-martin-ascua-se-retracto-publicamente-y-le-pidio-disculpas-formales-al-exgobernador-valdes",
-      "title": "Martín Ascúa se retractó públicamente y le pidió disculpas formales al exgobernador Valdés",
-      "volanta": "A TRAVES DE UN COMUNICADO",
-      "date": "2026-06-26T22:17:05+00:00"
     }
   ]
 }
