@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T14:22:11+00:00",
+  "updated": "2026-06-30T14:36:00+00:00",
   "posts": [
+    {
+      "id": "e645c936",
+      "image": "img/e645c936.png",
+      "image_sha": "5c39e44e1b1a735aafc1f822226a958937d69262",
+      "url": "https://www.radiodos.com.ar/210317-nagelsmann-tras-la-eliminacion-de-alemania-si-te-saca-paraguay-no-sos-un-equipo-de-elite",
+      "title": "Nagelsmann, tras la eliminación de Alemania: \"Si te saca Paraguay, no sos un equipo de élite\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-06-30T14:36:00+00:00"
+    },
     {
       "id": "21511329",
       "image": "img/21511329.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno anunciaría hoy a Diego Santilli como nuevo jefe de Gabinete",
       "volanta": "absorbería funciones clave",
       "date": "2026-06-28T13:30:53+00:00"
-    },
-    {
-      "id": "0942d41f",
-      "image": "img/0942d41f.png",
-      "image_sha": "b805e918c871f79bf2d781b6def93d7982c7aa66",
-      "url": "https://www.radiodos.com.ar/210198-cayo-en-corrientes-por-sustraccion-de-joyas-en-la-capital-chaquena",
-      "title": "Cayó en Corrientes por sustracción de joyas en la capital chaqueña",
-      "volanta": "ROBO",
-      "date": "2026-06-28T13:19:44+00:00"
     }
   ]
 }
