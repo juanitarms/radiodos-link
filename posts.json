@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T18:58:19+00:00",
+  "updated": "2026-06-30T20:35:28+00:00",
   "posts": [
+    {
+      "id": "ca65d635",
+      "image": "img/ca65d635.png",
+      "image_sha": "1e3fc1588c4eecc6ed7db1c4fa841b06d94f1b3b",
+      "url": "https://www.radiodos.com.ar/210331-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunacion",
+      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunación",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-06-30T20:35:28+00:00"
+    },
     {
       "id": "b1085b3f",
       "image": "img/b1085b3f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: estafó a varias financieras por alrededor de 30 millones de pesos",
       "volanta": "CAYÓ EN CAPITAL",
       "date": "2026-06-29T11:35:48+00:00"
-    },
-    {
-      "id": "f72c8c3c",
-      "image": "img/f72c8c3c.png",
-      "image_sha": "a69a19027f89ab571bcbb8966d94ebec588d7bec",
-      "url": "https://www.radiodos.com.ar/210214-tras-designar-a-santilli-como-jefe-de-gabinete-milei-volvio-a-defender-a-manuel-adorni",
-      "title": "Tras designar a Santilli como Jefe de Gabinete, Milei volvió a defender a Manuel Adorni",
-      "volanta": "DECLARACIONES DEL PRESIDENTE",
-      "date": "2026-06-29T11:34:44+00:00"
     }
   ]
 }
