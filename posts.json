@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T12:03:45+00:00",
+  "updated": "2026-06-30T12:33:46+00:00",
   "posts": [
+    {
+      "id": "3230b813",
+      "image": "img/3230b813.png",
+      "image_sha": "134a82c89a020c6ef7499eb36f8a139255dc2f96",
+      "url": "https://www.radiodos.com.ar/210294-marruecos-vencio-por-penales-a-paises-bajos-y-paso-a-octavos-de-final-del-mundial-2026",
+      "title": "Marruecos venció por penales a Países Bajos y pasó a octavos de final del Mundial 2026",
+      "volanta": "Infartante",
+      "date": "2026-06-30T12:33:46+00:00"
+    },
     {
       "id": "1398f546",
       "image": "img/1398f546.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a un hombre y secuestran droga lista para la venta en Goya",
       "volanta": "CORRIENTES",
       "date": "2026-06-26T21:44:54+00:00"
-    },
-    {
-      "id": "34e62370",
-      "image": "img/34e62370.png",
-      "image_sha": "d6616a94335a9080cde735f26f685282d7e24569",
-      "url": "https://www.radiodos.com.ar/210160-confirmaron-el-procesamiento-de-claudio-chiqui-tapia-y-pablo-toviggino",
-      "title": "Confirmaron el procesamiento de Claudio \"Chiqui\" Tapia y Pablo Toviggino",
-      "volanta": "Afa",
-      "date": "2026-06-26T21:43:57+00:00"
     }
   ]
 }
