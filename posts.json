@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T13:15:36+00:00",
+  "updated": "2026-06-30T13:29:37+00:00",
   "posts": [
+    {
+      "id": "a9e5f9da",
+      "image": "img/a9e5f9da.png",
+      "image_sha": "63310ffd1354ab3d25e9be0cc71e14d32f767d01",
+      "url": "https://www.radiodos.com.ar/210300-javier-milei-prepara-una-cumbre-con-legisladores-en-casa-rosada-para-reordenar-la-estrategia-libertaria",
+      "title": "Javier Milei prepara una cumbre con legisladores en Casa Rosada para reordenar la estrategia libertaria",
+      "volanta": "TRAS LA SALIDA DE ADORNI",
+      "date": "2026-06-30T13:29:37+00:00"
+    },
     {
       "id": "175a4f4a",
       "image": "img/175a4f4a.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni: Reflexiones sobre estrategia, identidad, ambición y confirmó que Messi será suplente",
       "volanta": "Antes de Jordania",
       "date": "2026-06-27T18:40:49+00:00"
-    },
-    {
-      "id": "f4513444",
-      "image": "img/f4513444.png",
-      "image_sha": "cb25d9c2bf5240f0f19f7d7c6c05bea1a73c980c",
-      "url": "https://www.radiodos.com.ar/210163-la-seleccion-argentina-cierra-la-fase-de-grupos-ante-jordania",
-      "title": "La Selección Argentina cierra la fase de grupos ante Jordania",
-      "volanta": "EN DALLAS",
-      "date": "2026-06-27T12:53:17+00:00"
     }
   ]
 }
