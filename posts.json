@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T20:35:28+00:00",
+  "updated": "2026-06-30T20:38:33+00:00",
   "posts": [
+    {
+      "id": "0e24c1dc",
+      "image": "img/0e24c1dc.png",
+      "image_sha": "624ed62fbfe139c656c3ff5334062b24cafa0663",
+      "url": "https://www.radiodos.com.ar/210330-curuzu-cuatia-presento-la-5°-fiesta-provincial-del-locro",
+      "title": "Curuzú Cuatiá presentó la 5° Fiesta Provincial del Locro",
+      "volanta": "EN CASA DE GOBIERNO",
+      "date": "2026-06-30T20:38:33+00:00"
+    },
     {
       "id": "ca65d635",
       "image": "img/ca65d635.png",
@@ -531,15 +540,6 @@
       "title": "La 16ª Feria Provincial del Libro invita a alentar las historias de grandes autores correntinos",
       "volanta": "GOBIERNO DE CORRIENTES",
       "date": "2026-06-29T11:48:43+00:00"
-    },
-    {
-      "id": "0141e5dc",
-      "image": "img/0141e5dc.png",
-      "image_sha": "89ad0b155d7871f1bab6db888b5b28994c3360ac",
-      "url": "https://www.radiodos.com.ar/210217-corrientes-estafo-a-varias-financieras-por-alrededor-de-30-millones-de-pesos",
-      "title": "Corrientes: estafó a varias financieras por alrededor de 30 millones de pesos",
-      "volanta": "CAYÓ EN CAPITAL",
-      "date": "2026-06-29T11:35:48+00:00"
     }
   ]
 }
