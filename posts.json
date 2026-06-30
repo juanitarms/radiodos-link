@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T23:33:22+00:00",
+  "updated": "2026-06-30T23:45:12+00:00",
   "posts": [
+    {
+      "id": "1d59b0f7",
+      "image": "img/1d59b0f7.png",
+      "image_sha": "23d693f8a8145b503e047fbe4cfdbdedd6098580",
+      "url": "https://www.radiodos.com.ar/210333-whatsapp-sin-numero-de-telefono-como-registrar-tu-nombre-de-usuario",
+      "title": "WhatsApp sin número de teléfono: cómo registrar tu nombre de usuario",
+      "volanta": "NOVEDAD",
+      "date": "2026-06-30T23:45:12+00:00"
+    },
     {
       "id": "c3962dc3",
       "image": "img/c3962dc3.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad inició una obra estratégica de desagües pluviales en Villa Chiquita",
       "volanta": "INFRAESTRUCTURA URBANA Y PREVENCIÓN HÍDRICA",
       "date": "2026-06-29T15:04:56+00:00"
-    },
-    {
-      "id": "80e4ed85",
-      "image": "img/80e4ed85.png",
-      "image_sha": "5cf735f399bbae82e7f4bfc0f5892904fefdc91a",
-      "url": "https://www.radiodos.com.ar/210250-tamara-paganini-rompio-en-llanto-frente-a-santiago-del-moro-y-pidio-irse-de-gran-hermano",
-      "title": "Tamara Paganini rompió en llanto frente a Santiago del Moro y pidió irse de Gran Hermano",
-      "volanta": "DEBILITADA",
-      "date": "2026-06-29T14:51:46+00:00"
     }
   ]
 }
