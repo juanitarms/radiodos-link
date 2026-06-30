@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T16:37:40+00:00",
+  "updated": "2026-06-30T16:38:16+00:00",
   "posts": [
+    {
+      "id": "b7ced843",
+      "image": "img/b7ced843.png",
+      "image_sha": "71655f9027dc0c51bf65d36bd9af0a2d4f039b6b",
+      "url": "https://www.radiodos.com.ar/210321-el-equipo-de-judo-regatense-brillo-en-tierra-del-sol",
+      "title": "El equipo de judo regatense brilló en Tierra del Sol",
+      "volanta": "Judo",
+      "date": "2026-06-30T16:38:16+00:00"
+    },
     {
       "id": "8b5860b5",
       "image": "img/8b5860b5.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: cómo es el esquema especial que usarán para proteger la declaración de los padres",
       "volanta": "CORRIENTES",
       "date": "2026-06-28T16:43:50+00:00"
-    },
-    {
-      "id": "6c4ec99c",
-      "image": "img/6c4ec99c.png",
-      "image_sha": "ad9c289f963c00b4a88c88bb13ab794fbc67f9f8",
-      "url": "https://www.radiodos.com.ar/210204-el-trabajador-municipal-es-neuralgico-para-el-avance-de-la-ciudad",
-      "title": "\"El trabajador municipal es neurálgico para el avance de la ciudad\"",
-      "volanta": "rodolfo medina- aoem",
-      "date": "2026-06-28T16:43:11+00:00"
     }
   ]
 }
