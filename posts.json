@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T23:04:04+00:00",
+  "updated": "2026-06-30T23:07:07+00:00",
   "posts": [
+    {
+      "id": "e19d5466",
+      "image": "img/e19d5466.png",
+      "image_sha": "5ad14bb851972ea4527b0c38ca7f40f0714c9cc9",
+      "url": "https://www.radiodos.com.ar/210340-asciende-a-1943-la-cifra-de-muertos-y-a-10571-los-heridos-por-los-terremotos-en-venezuela",
+      "title": "Asciende a 1.943 la cifra de muertos y a 10.571 los heridos por los terremotos en Venezuela",
+      "volanta": "catastrofe",
+      "date": "2026-06-30T23:07:07+00:00"
+    },
     {
       "id": "2ff573a3",
       "image": "img/2ff573a3.png",
@@ -531,15 +540,6 @@
       "title": "La Ciudad vivió una exitosa fecha del Raid Náutico de las Américas y del Encuentro de Motonáutica del NEA",
       "volanta": "PLAYA ARAZATY",
       "date": "2026-06-29T14:22:06+00:00"
-    },
-    {
-      "id": "bf55e554",
-      "image": "img/bf55e554.png",
-      "image_sha": "06ceb5884c1d2b70432808814c92616399a986c2",
-      "url": "https://www.radiodos.com.ar/210243-las-ferias-de-la-ciudad-renuevan-su-recorrido-semanal",
-      "title": "Las Ferias de la Ciudad renuevan su recorrido semanal",
-      "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
-      "date": "2026-06-29T14:05:20+00:00"
     }
   ]
 }
