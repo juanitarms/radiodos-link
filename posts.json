@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T20:38:33+00:00",
+  "updated": "2026-06-30T21:18:46+00:00",
   "posts": [
+    {
+      "id": "82178ed7",
+      "image": "img/82178ed7.png",
+      "image_sha": "23fa14d669d9b60096074ee3c2233f8718aed00a",
+      "url": "https://www.radiodos.com.ar/210338-tras-el-escandalo-con-manuel-adorni-diego-santilli-juro-como-jefe-de-gabinete",
+      "title": "Tras el escándalo con Manuel Adorni, Diego Santilli juró como jefe de Gabinete",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-06-30T21:18:46+00:00"
+    },
     {
       "id": "0e24c1dc",
       "image": "img/0e24c1dc.png",
@@ -531,15 +540,6 @@
       "title": "Otro masivo Fan Fest municipal: la Poncho Verde ya es cábala para alentar a la Selección",
       "volanta": "CORRIENTES MUNDIALISTA",
       "date": "2026-06-29T12:18:59+00:00"
-    },
-    {
-      "id": "88e68f42",
-      "image": "img/88e68f42.png",
-      "image_sha": "962796e0fa1215d7d68c70fe05e75dad6c36c078",
-      "url": "https://www.radiodos.com.ar/210219-la-16-feria-provincial-del-libro-invita-a-alentar-las-historias-de-grandes-autores-correntinos",
-      "title": "La 16ª Feria Provincial del Libro invita a alentar las historias de grandes autores correntinos",
-      "volanta": "GOBIERNO DE CORRIENTES",
-      "date": "2026-06-29T11:48:43+00:00"
     }
   ]
 }
