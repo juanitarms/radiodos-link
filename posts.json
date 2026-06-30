@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T16:38:52+00:00",
+  "updated": "2026-06-30T18:28:18+00:00",
   "posts": [
+    {
+      "id": "ac1c8c65",
+      "image": "img/ac1c8c65.png",
+      "image_sha": "db2714ab44665cc330e9727494a30a5ac92021dd",
+      "url": "https://www.radiodos.com.ar/210326-egresada-de-la-unne-investiga-en-europa-sobre-agroecologia-y-agricultura-sostenible",
+      "title": "Egresada de la UNNE investiga en Europa sobre agroecología y agricultura sostenible",
+      "volanta": "FORMACIÓN DOCTORAL",
+      "date": "2026-06-30T18:28:18+00:00"
+    },
     {
       "id": "e8a8e96e",
       "image": "img/e8a8e96e.png",
@@ -531,15 +540,6 @@
       "title": "Un joven bajo el efecto de sustancias fue detenido tras destrozar la casa de su hermana",
       "volanta": "Barrio Esperanza",
       "date": "2026-06-28T18:05:07+00:00"
-    },
-    {
-      "id": "7c90877e",
-      "image": "img/7c90877e.png",
-      "image_sha": "4d2e52534e0fcaab7cc3c8527604f338b073c58e",
-      "url": "https://www.radiodos.com.ar/210205-el-flaco-lopez-tras-su-estreno-mundialista-scaloni-me-dijo-que-disfrute-que-me-lo-merecia",
-      "title": "El \"Flaco\" López, tras su estreno mundialista: \"Scaloni me dijo que disfrute, que me lo merecía\"",
-      "volanta": "Mundial 2026",
-      "date": "2026-06-28T17:48:19+00:00"
     }
   ]
 }
