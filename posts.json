@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T16:37:06+00:00",
+  "updated": "2026-06-30T16:37:40+00:00",
   "posts": [
+    {
+      "id": "8b5860b5",
+      "image": "img/8b5860b5.png",
+      "image_sha": "6955d6a1107738fc4e91c0d51c95e8a80524e647",
+      "url": "https://www.radiodos.com.ar/210319-la-eby-avanza-con-una-nueva-etapa-del-plan-de-renovacion-de-activos-de-generacion",
+      "title": "La EBY avanza con una nueva etapa del Plan de Renovación de Activos de Generación",
+      "volanta": "NOVEDADES",
+      "date": "2026-06-30T16:37:40+00:00"
+    },
     {
       "id": "27bb6d6a",
       "image": "img/27bb6d6a.png",
@@ -531,15 +540,6 @@
       "title": "\"El trabajador municipal es neurálgico para el avance de la ciudad\"",
       "volanta": "rodolfo medina- aoem",
       "date": "2026-06-28T16:43:11+00:00"
-    },
-    {
-      "id": "80e2ba53",
-      "image": "img/80e2ba53.png",
-      "image_sha": "df414fffc70ab1dd3494fc9fce01627dedc72df6",
-      "url": "https://www.radiodos.com.ar/210202-messi-llego-a-los-19-y-se-consolido-como-el-maximo-goleador-de-los-mundiales",
-      "title": "Messi llegó a los 19 y se consolidó como el máximo goleador de los Mundiales",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-28T16:16:29+00:00"
     }
   ]
 }
