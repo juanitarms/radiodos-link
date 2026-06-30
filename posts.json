@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T16:38:16+00:00",
+  "updated": "2026-06-30T16:38:52+00:00",
   "posts": [
+    {
+      "id": "e8a8e96e",
+      "image": "img/e8a8e96e.png",
+      "image_sha": "5799739711f259c1426df8a28954e659702a9ee3",
+      "url": "https://www.radiodos.com.ar/210323-juicio-loan-pena-abogados-defensores-insisten-en-que-no-hubo-un-plan",
+      "title": "Juicio Loan Peña: Abogados defensores insisten en que \"no hubo un plan\"",
+      "volanta": "CUARTO INTERMEDIO",
+      "date": "2026-06-30T16:38:52+00:00"
+    },
     {
       "id": "b7ced843",
       "image": "img/b7ced843.png",
@@ -531,15 +540,6 @@
       "title": "El \"Flaco\" López, tras su estreno mundialista: \"Scaloni me dijo que disfrute, que me lo merecía\"",
       "volanta": "Mundial 2026",
       "date": "2026-06-28T17:48:19+00:00"
-    },
-    {
-      "id": "0b177f89",
-      "image": "img/0b177f89.png",
-      "image_sha": "6f0a6b30e5d21384dd3ebc2fb422554a3a320db1",
-      "url": "https://www.radiodos.com.ar/210203-juicio-por-loan-como-es-el-esquema-especial-que-usaran-para-proteger-la-declaracion-de-los-padres",
-      "title": "Juicio por Loan: cómo es el esquema especial que usarán para proteger la declaración de los padres",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-28T16:43:50+00:00"
     }
   ]
 }
