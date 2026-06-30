@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T21:48:34+00:00",
+  "updated": "2026-06-30T21:49:10+00:00",
   "posts": [
+    {
+      "id": "f7e03a10",
+      "image": "img/f7e03a10.png",
+      "image_sha": "03fa342d536c6e23c93c7ce1ddf8863266f75246",
+      "url": "https://www.radiodos.com.ar/210339-el-frio-no-afloja-asi-estara-el-clima-este-miercoles-en-corrientes",
+      "title": "El frío no afloja: así estará el clima este miércoles en Corrientes",
+      "volanta": "TIEMPO",
+      "date": "2026-06-30T21:49:10+00:00"
+    },
     {
       "id": "23c4f5ce",
       "image": "img/23c4f5ce.png",
@@ -531,15 +540,6 @@
       "title": "Terremotos en Venezuela: una fuerte réplica en Caracas volvió a sacudir al país",
       "volanta": "EMERGENCIA",
       "date": "2026-06-29T12:59:29+00:00"
-    },
-    {
-      "id": "9dd5635f",
-      "image": "img/9dd5635f.png",
-      "image_sha": "531092bcc03e283026b11990f26752ab69395dad",
-      "url": "https://www.radiodos.com.ar/210225-la-policia-de-corrientes-desarticulo-banda-dedicada-al-narcomenudeo-en-santa-lucia",
-      "title": "La Policía de Corrientes desarticuló banda dedicada al narcomenudeo en Santa Lucía",
-      "volanta": "4 DETENIDOS",
-      "date": "2026-06-29T12:35:58+00:00"
     }
   ]
 }
