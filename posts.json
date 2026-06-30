@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T21:49:44+00:00",
+  "updated": "2026-06-30T23:04:04+00:00",
   "posts": [
+    {
+      "id": "2ff573a3",
+      "image": "img/2ff573a3.png",
+      "image_sha": "0f2f78ae17c1431c6de6e5fb1e54a95c8a119ad7",
+      "url": "https://www.radiodos.com.ar/210341-desde-que-asumio-milei-ya-se-recortaron-70-mil-empleos-en-la-administracion-publica",
+      "title": "Desde que asumió Milei ya se recortaron 70 mil empleos en la administración pública",
+      "volanta": "PLAN MOTOSIERRA",
+      "date": "2026-06-30T23:04:04+00:00"
+    },
     {
       "id": "55ef8e1b",
       "image": "img/55ef8e1b.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad renuevan su recorrido semanal",
       "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
       "date": "2026-06-29T14:05:20+00:00"
-    },
-    {
-      "id": "14b7396d",
-      "image": "img/14b7396d.png",
-      "image_sha": "e89b332fd89a278963b2bc7af4b296f4c5421e7c",
-      "url": "https://www.radiodos.com.ar/210244-se-encuentran-habilitadas-las-tarjetas-sapucay",
-      "title": "Se encuentran habilitadas las Tarjetas Sapucay",
-      "volanta": "Desarrollo Social",
-      "date": "2026-06-29T13:46:13+00:00"
     }
   ]
 }
