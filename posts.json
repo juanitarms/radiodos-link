@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-29T23:36:53+00:00",
+  "updated": "2026-06-30T11:15:20+00:00",
   "posts": [
+    {
+      "id": "09a52994",
+      "image": "img/09a52994.png",
+      "image_sha": "dbbb4dfb3707b4e763860698f47d27b8b82322ee",
+      "url": "https://www.radiodos.com.ar/210285-juicio-por-la-desaparicion-de-loan-los-papas-del-nene-de-5-anos-hablaran-como-testigos-y-luego-podran-presenciar-todo-el-debate-oral",
+      "title": "Juicio por la desaparición de Loan: los papás del nene de 5 años hablarán como testigos y luego podrán presenciar todo el debate oral",
+      "volanta": "SE RETOMA EL DEBATE",
+      "date": "2026-06-30T11:15:20+00:00"
+    },
     {
       "id": "0e0e41b9",
       "image": "img/0e0e41b9.png",
@@ -531,15 +540,6 @@
       "title": "Terremotos en Venezuela: ascienden a 920 los muertos",
       "volanta": "Tragedia",
       "date": "2026-06-26T21:01:19+00:00"
-    },
-    {
-      "id": "018276ca",
-      "image": "img/018276ca.png",
-      "image_sha": "923e6c458899a4ea9a51f1cbc16dbe62dce9f960",
-      "url": "https://www.radiodos.com.ar/210152-la-policia-confirmo-que-se-activo-un-protocolo-por-amenaza-de-bomba-en-el-aeropuerto-de-corrientes",
-      "title": "La Policía confirmó que se activó un protocolo por amenaza de bomba en el aeropuerto de Corrientes",
-      "volanta": "MOMENTOS DE TENSION",
-      "date": "2026-06-26T20:40:25+00:00"
     }
   ]
 }
