@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T21:18:46+00:00",
+  "updated": "2026-06-30T21:48:34+00:00",
   "posts": [
+    {
+      "id": "23c4f5ce",
+      "image": "img/23c4f5ce.png",
+      "image_sha": "d44104581d336d372645411068259c2c530a6556",
+      "url": "https://www.radiodos.com.ar/210334-segun-el-papa-de-loan-laudelina-dijo-que-habia-ocurrido-un-accidente",
+      "title": "Según el papá de Loan: \"Laudelina dijo que había ocurrido un accidente\"",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-06-30T21:48:34+00:00"
+    },
     {
       "id": "82178ed7",
       "image": "img/82178ed7.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes desarticuló banda dedicada al narcomenudeo en Santa Lucía",
       "volanta": "4 DETENIDOS",
       "date": "2026-06-29T12:35:58+00:00"
-    },
-    {
-      "id": "a9c592b5",
-      "image": "img/a9c592b5.png",
-      "image_sha": "f80932ef7073d5f0a6fea7e62adaae6c91e4a713",
-      "url": "https://www.radiodos.com.ar/210223-otro-masivo-fan-fest-municipal-la-poncho-verde-ya-es-cabala-para-alentar-a-la-seleccion",
-      "title": "Otro masivo Fan Fest municipal: la Poncho Verde ya es cábala para alentar a la Selección",
-      "volanta": "CORRIENTES MUNDIALISTA",
-      "date": "2026-06-29T12:18:59+00:00"
     }
   ]
 }
