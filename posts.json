@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T23:07:41+00:00",
+  "updated": "2026-06-30T23:33:22+00:00",
   "posts": [
+    {
+      "id": "c3962dc3",
+      "image": "img/c3962dc3.png",
+      "image_sha": "94dac732a1f4adeef4857cd83eb7a01c90179e95",
+      "url": "https://www.radiodos.com.ar/210344-mundial-2026-haaland-y-el-sueno-de-noruega-llegan-a-octavos-de-final",
+      "title": "Mundial 2026: Haaland y el sueño de Noruega llegan a octavos de final",
+      "volanta": "En Dallas",
+      "date": "2026-06-30T23:33:22+00:00"
+    },
     {
       "id": "cb0f580c",
       "image": "img/cb0f580c.png",
@@ -531,15 +540,6 @@
       "title": "Tamara Paganini rompió en llanto frente a Santiago del Moro y pidió irse de Gran Hermano",
       "volanta": "DEBILITADA",
       "date": "2026-06-29T14:51:46+00:00"
-    },
-    {
-      "id": "62642940",
-      "image": "img/62642940.png",
-      "image_sha": "9d848958a4de96ee7641f8cf8f405d865e90f8e5",
-      "url": "https://www.radiodos.com.ar/210245-alemania-vs-paraguay-por-los-16avos-de-final-del-mundial-2026-horario-formaciones-y-tv",
-      "title": "Alemania vs. Paraguay por los 16avos de final del Mundial 2026: horario, formaciones y TV",
-      "volanta": "IMPERDIBLE",
-      "date": "2026-06-29T14:37:24+00:00"
     }
   ]
 }
