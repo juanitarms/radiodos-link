@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T11:33:33+00:00",
+  "updated": "2026-06-30T12:03:45+00:00",
   "posts": [
+    {
+      "id": "1398f546",
+      "image": "img/1398f546.png",
+      "image_sha": "e7152789875d40011ad45670295cced9dd5fdd9f",
+      "url": "https://www.radiodos.com.ar/210291-destacada-actuacion-de-san-martin-en-el-torneo-de-la-bandera",
+      "title": "Destacada Actuación de San Martín en el Torneo de la Bandera",
+      "volanta": "VOLEY",
+      "date": "2026-06-30T12:03:45+00:00"
+    },
     {
       "id": "a716b7b0",
       "image": "img/a716b7b0.png",
@@ -531,15 +540,6 @@
       "title": "Confirmaron el procesamiento de Claudio \"Chiqui\" Tapia y Pablo Toviggino",
       "volanta": "Afa",
       "date": "2026-06-26T21:43:57+00:00"
-    },
-    {
-      "id": "4f58c228",
-      "image": "img/4f58c228.png",
-      "image_sha": "09ee674a4f35cfc954c3db86420148d8b8ff045c",
-      "url": "https://www.radiodos.com.ar/210158-jorge-meza-trabajamos-en-obras-esenciales-para-que-el-impacto-de-el-nino-sea-el-menor-posible",
-      "title": "Jorge Meza: \"Trabajamos en obras esenciales para que el impacto de El Niño sea el menor posible\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-06-26T21:40:02+00:00"
     }
   ]
 }
