@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T18:57:15+00:00",
+  "updated": "2026-06-30T18:58:19+00:00",
   "posts": [
+    {
+      "id": "b1085b3f",
+      "image": "img/b1085b3f.png",
+      "image_sha": "81f47eb5e13c8abcedfc707f833d103f0fd6ff70",
+      "url": "https://www.radiodos.com.ar/210328-marcela-tauro-pidio-honrar-a-padres-que-violan-a-sus-hijos-y-genero-en-un-tenso-momento-en-vivo",
+      "title": "Marcela Tauro pidió \"honrar\" a \"padres que violan a sus hijos\" y generó en un tenso momento en vivo",
+      "volanta": "POLÉMICA",
+      "date": "2026-06-30T18:58:19+00:00"
+    },
     {
       "id": "352640d8",
       "image": "img/352640d8.png",
@@ -531,15 +540,6 @@
       "title": "Tras designar a Santilli como Jefe de Gabinete, Milei volvió a defender a Manuel Adorni",
       "volanta": "DECLARACIONES DEL PRESIDENTE",
       "date": "2026-06-29T11:34:44+00:00"
-    },
-    {
-      "id": "34dce2ba",
-      "image": "img/34dce2ba.png",
-      "image_sha": "46d4fb5d0028a55204f09e02f146bfce41f8f005",
-      "url": "https://www.radiodos.com.ar/210213-hombres-armados-fueron-sorprendidos-en-la-oscuridad-intentaron-fugarse-pero-fueron-detenidos",
-      "title": "Hombres armados fueron sorprendidos en la oscuridad, intentaron fugarse, pero fueron detenidos",
-      "volanta": "TENÍAN ANTECEDENTES",
-      "date": "2026-06-29T11:11:36+00:00"
     }
   ]
 }
