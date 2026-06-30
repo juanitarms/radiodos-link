@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T12:59:08+00:00",
+  "updated": "2026-06-30T13:15:36+00:00",
   "posts": [
+    {
+      "id": "175a4f4a",
+      "image": "img/175a4f4a.png",
+      "image_sha": "6228c29b1156b77e6289201a14c200986b33f14a",
+      "url": "https://www.radiodos.com.ar/210289-crece-el-rio-uruguay-pero-descartan-riesgos-inminentes-en-costas-de-corrientes",
+      "title": "Crece el río Uruguay pero descartan \"riesgos inminentes\" en costas de Corrientes",
+      "volanta": "EL NIÑO",
+      "date": "2026-06-30T13:15:36+00:00"
+    },
     {
       "id": "97e85152",
       "image": "img/97e85152.png",
@@ -531,15 +540,6 @@
       "title": "La Selección Argentina cierra la fase de grupos ante Jordania",
       "volanta": "EN DALLAS",
       "date": "2026-06-27T12:53:17+00:00"
-    },
-    {
-      "id": "93a35495",
-      "image": "img/93a35495.png",
-      "image_sha": "924773fbef06870f92eb3d98e0fdc9a677d70c8f",
-      "url": "https://www.radiodos.com.ar/210162-alerta-por-lluvias-como-estara-el-clima-en-corrientes-este-fin-de-semana",
-      "title": "Alerta por lluvias: cómo estará el clima en Corrientes este fin de semana",
-      "volanta": "Pronóstico",
-      "date": "2026-06-26T22:17:39+00:00"
     }
   ]
 }
