@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T18:29:45+00:00",
+  "updated": "2026-06-30T18:57:15+00:00",
   "posts": [
+    {
+      "id": "352640d8",
+      "image": "img/352640d8.png",
+      "image_sha": "af332277a7a50b596aa5e0e68d43c113aa888ba6",
+      "url": "https://www.radiodos.com.ar/210327-recuperaron-22-animales-vacunos-de-una-camioneta-doble-fondo",
+      "title": "Recuperaron 22 animales vacunos de una camioneta \"doble fondo\"",
+      "volanta": "MERCEDES – LA CRUZ",
+      "date": "2026-06-30T18:57:15+00:00"
+    },
     {
       "id": "3bb992be",
       "image": "img/3bb992be.png",
@@ -531,15 +540,6 @@
       "title": "Hombres armados fueron sorprendidos en la oscuridad, intentaron fugarse, pero fueron detenidos",
       "volanta": "TENÍAN ANTECEDENTES",
       "date": "2026-06-29T11:11:36+00:00"
-    },
-    {
-      "id": "43c0c164",
-      "image": "img/43c0c164.png",
-      "image_sha": "7ff547f26203ef2e4fce663a7d922aa9fa79a203",
-      "url": "https://www.radiodos.com.ar/210212-la-joven-oriunda-de-monte-caseros-que-era-buscada-en-corrientes-se-habria-arrojado-desde-el-puente",
-      "title": "La joven oriunda de Monte Caseros que era buscada en Corrientes se habría arrojado desde el puente",
-      "volanta": "EL PEOR FINAL",
-      "date": "2026-06-29T10:25:56+00:00"
     }
   ]
 }
