@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T12:33:46+00:00",
+  "updated": "2026-06-30T12:45:42+00:00",
   "posts": [
+    {
+      "id": "d1e343b4",
+      "image": "img/d1e343b4.png",
+      "image_sha": "16898c10af0c1aa53f56261d054a5ba80ce76f9d",
+      "url": "https://www.radiodos.com.ar/210293-partidos-del-martes-30-de-junio-agenda-horario-y-tv-para-ver-en-vivo-el-mundial-2026",
+      "title": "Partidos del martes 30 de junio: agenda, horario y TV para ver en vivo el Mundial 2026",
+      "volanta": "16 AVOS",
+      "date": "2026-06-30T12:45:42+00:00"
+    },
     {
       "id": "3230b813",
       "image": "img/3230b813.png",
@@ -531,15 +540,6 @@
       "title": "Martín Ascúa se retractó públicamente y le pidió disculpas formales al exgobernador Valdés",
       "volanta": "A TRAVES DE UN COMUNICADO",
       "date": "2026-06-26T22:17:05+00:00"
-    },
-    {
-      "id": "10a09405",
-      "image": "img/10a09405.png",
-      "image_sha": "27bc05a1ea7040a1ce6c70d96fdb78b343cb0430",
-      "url": "https://www.radiodos.com.ar/210159-detienen-a-un-hombre-y-secuestran-droga-lista-para-la-venta-en-goya",
-      "title": "Detienen a un hombre y secuestran droga lista para la venta en Goya",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-26T21:44:54+00:00"
     }
   ]
 }
