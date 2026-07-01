@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T17:57:14+00:00",
+  "updated": "2026-07-01T17:57:48+00:00",
   "posts": [
+    {
+      "id": "abb7de66",
+      "image": "img/abb7de66.png",
+      "image_sha": "71d20fbac94e02a3fa85cbfa483db6b89e985734",
+      "url": "https://www.radiodos.com.ar/210391-valdes-y-zdero-acompanaron-el-acto-de-asuncion-de-larroza-en-la-unne",
+      "title": "Valdés y Zdero acompañaron el acto de asunción de Larroza en la UNNE",
+      "volanta": "DEFENSA DE LA EDUCACIÓN PÚBLICA",
+      "date": "2026-07-01T17:57:48+00:00"
+    },
     {
       "id": "2ca08499",
       "image": "img/2ca08499.png",
@@ -531,15 +540,6 @@
       "title": "Gramajo es la primera ficha confirmada de Regatas Corrientes",
       "volanta": "Liga Nacional",
       "date": "2026-06-29T22:46:26+00:00"
-    },
-    {
-      "id": "76a10747",
-      "image": "img/76a10747.png",
-      "image_sha": "fb26bb38e756721e14e20166c60fc3225a270909",
-      "url": "https://www.radiodos.com.ar/210281-sube-a-1719-el-numero-de-muertos-por-los-sismos-en-venezuela-y-ya-son-mas-de-5000-los-heridos",
-      "title": "Sube a 1719 el número de muertos por los sismos en Venezuela y ya son más de 5000 los heridos",
-      "volanta": "catastrofe",
-      "date": "2026-06-29T22:44:54+00:00"
     }
   ]
 }
