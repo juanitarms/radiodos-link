@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T20:43:30+00:00",
+  "updated": "2026-07-01T20:46:55+00:00",
   "posts": [
+    {
+      "id": "39ea4737",
+      "image": "img/39ea4737.png",
+      "image_sha": "99a8c5a3d58d2660ce40c4873ebe1a15447bb9dd",
+      "url": "https://www.radiodos.com.ar/210395-funcionarios-complicaron-mas-adorni-confirmaron-compras-millonarias-con-tarjetas-de-credito",
+      "title": "Funcionarios complicaron más Adorni: confirmaron compras millonarias con tarjetas de crédito",
+      "volanta": "AVANZA LA INVESTIGACIÓN",
+      "date": "2026-07-01T20:46:55+00:00"
+    },
     {
       "id": "6ee09876",
       "image": "img/6ee09876.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición de Loan: los papás del nene de 5 años hablarán como testigos y luego podrán presenciar todo el debate oral",
       "volanta": "SE RETOMA EL DEBATE",
       "date": "2026-06-30T11:15:20+00:00"
-    },
-    {
-      "id": "0e0e41b9",
-      "image": "img/0e0e41b9.png",
-      "image_sha": "8528d9e31d879a957abeb8629176ebf19ff21d11",
-      "url": "https://www.radiodos.com.ar/210275-esperaban-el-semaforo-y-fueron-chocados-desde-atras-dos-heridos",
-      "title": "Esperaban el semáforo y fueron chocados desde atrás: dos heridos",
-      "volanta": "ESTE MEDIODÍA",
-      "date": "2026-06-29T23:36:53+00:00"
     }
   ]
 }
