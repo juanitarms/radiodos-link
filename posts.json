@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T23:36:07+00:00",
+  "updated": "2026-07-01T23:36:53+00:00",
   "posts": [
+    {
+      "id": "a149ff6a",
+      "image": "img/a149ff6a.png",
+      "image_sha": "ad9cfd98e36e2ee94a0b2d1dd233eadb4d9d79e2",
+      "url": "https://www.radiodos.com.ar/210405-edinson-cavani-rescindio-su-contrato-y-dejo-de-ser-jugador-de-boca",
+      "title": "Edinson Cavani rescindió su contrato y dejó de ser jugador de Boca",
+      "volanta": "Final de ciclo",
+      "date": "2026-07-01T23:36:53+00:00"
+    },
     {
       "id": "3e128a24",
       "image": "img/3e128a24.png",
@@ -531,15 +540,6 @@
       "title": "Crece el río Uruguay pero descartan \"riesgos inminentes\" en costas de Corrientes",
       "volanta": "EL NIÑO",
       "date": "2026-06-30T13:15:36+00:00"
-    },
-    {
-      "id": "97e85152",
-      "image": "img/97e85152.png",
-      "image_sha": "f03c0fa708bdd7b08fb4e44c717d7341543d56cb",
-      "url": "https://www.radiodos.com.ar/210297-de-la-tierra-colorada-a-leyendas-las-mejores-frases-de-gustavo-alfaro-tras-la-hazana-de-paraguay",
-      "title": "De la \"tierra colorada\" a \"leyendas\": las mejores frases de Gustavo Alfaro tras la hazaña de Paraguay",
-      "volanta": "Conferencia de prensa",
-      "date": "2026-06-30T12:59:08+00:00"
     }
   ]
 }
