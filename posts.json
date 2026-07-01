@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T20:39:38+00:00",
+  "updated": "2026-07-01T20:42:34+00:00",
   "posts": [
+    {
+      "id": "502972cc",
+      "image": "img/502972cc.png",
+      "image_sha": "e564aa657580e638d4a4bcbce850239b925b21ac",
+      "url": "https://www.radiodos.com.ar/210397-inicio-el-programa-sello-correntino-de-calidad-turistica-para-alojamientos-en-empedrado",
+      "title": "Inició el programa \"Sello Correntino de Calidad Turística\" para alojamientos en Empedrado",
+      "volanta": "EN LA PERLA DEL PARANÁ",
+      "date": "2026-07-01T20:42:34+00:00"
+    },
     {
       "id": "8e766e73",
       "image": "img/8e766e73.png",
@@ -531,15 +540,6 @@
       "title": "Una funcionaria declaró que le prestó su tarjeta a Adorni para que compre un monitor de videojuegos",
       "volanta": "POLÍTICA",
       "date": "2026-06-29T23:34:53+00:00"
-    },
-    {
-      "id": "03f30b76",
-      "image": "img/03f30b76.png",
-      "image_sha": "b01a3f6b9e650ca089d8c297d54c95ea67c9c7d6",
-      "url": "https://www.radiodos.com.ar/210278-para-lisandro-almiron-la-ida-de-adorni-descomprime-las-cosas-por-el-alcance-mediatico-que-tuvo-el-tema",
-      "title": "Para Lisandro Almirón, la ida de Adorni \"descomprime las cosas por el alcance mediático que tuvo el tema\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-06-29T23:32:52+00:00"
     }
   ]
 }
