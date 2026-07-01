@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T22:29:13+00:00",
+  "updated": "2026-07-01T22:29:46+00:00",
   "posts": [
+    {
+      "id": "e7caca98",
+      "image": "img/e7caca98.png",
+      "image_sha": "2d5bcad463af2e65beace80206ca11dea5b3354d",
+      "url": "https://www.radiodos.com.ar/210402-desaparecio-un-embarcadizo-correntino-tras-caer-al-mar-desde-un-buque-pesquero",
+      "title": "Desapareció un embarcadizo correntino tras caer al mar desde un buque pesquero",
+      "volanta": "INTENSA BUSQUEDA",
+      "date": "2026-07-01T22:29:46+00:00"
+    },
     {
       "id": "34283d25",
       "image": "img/34283d25.png",
@@ -531,15 +540,6 @@
       "title": "Partidos del martes 30 de junio: agenda, horario y TV para ver en vivo el Mundial 2026",
       "volanta": "16 AVOS",
       "date": "2026-06-30T12:45:42+00:00"
-    },
-    {
-      "id": "3230b813",
-      "image": "img/3230b813.png",
-      "image_sha": "134a82c89a020c6ef7499eb36f8a139255dc2f96",
-      "url": "https://www.radiodos.com.ar/210294-marruecos-vencio-por-penales-a-paises-bajos-y-paso-a-octavos-de-final-del-mundial-2026",
-      "title": "Marruecos venció por penales a Países Bajos y pasó a octavos de final del Mundial 2026",
-      "volanta": "Infartante",
-      "date": "2026-06-30T12:33:46+00:00"
     }
   ]
 }
