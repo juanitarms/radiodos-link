@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T17:57:48+00:00",
+  "updated": "2026-07-01T17:58:26+00:00",
   "posts": [
+    {
+      "id": "a4813bb2",
+      "image": "img/a4813bb2.png",
+      "image_sha": "3d111e2c5a8cb1f6cb864f637eb6d561746d5e58",
+      "url": "https://www.radiodos.com.ar/210390-desarrollo-social-fortalecio-el-trabajo-articulado-con-municipios",
+      "title": "Desarrollo Social fortaleció el trabajo articulado con municipios",
+      "volanta": "CAPACITACIÓN REGIONAL",
+      "date": "2026-07-01T17:58:26+00:00"
+    },
     {
       "id": "abb7de66",
       "image": "img/abb7de66.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei criticó a \"parte de la corporación política\": \"Son los verdaderos enemigos del país\"",
       "volanta": "DURAS PALABRAS",
       "date": "2026-06-29T23:20:52+00:00"
-    },
-    {
-      "id": "66d85439",
-      "image": "img/66d85439.png",
-      "image_sha": "33536e614b1cf369a281fb0c1d18a0198877900b",
-      "url": "https://www.radiodos.com.ar/210279-gramajo-es-la-primera-ficha-confirmada-de-regatas-corrientes",
-      "title": "Gramajo es la primera ficha confirmada de Regatas Corrientes",
-      "volanta": "Liga Nacional",
-      "date": "2026-06-29T22:46:26+00:00"
     }
   ]
 }
