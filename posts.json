@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T11:38:07+00:00",
+  "updated": "2026-07-01T12:03:50+00:00",
   "posts": [
+    {
+      "id": "a04ba875",
+      "image": "img/a04ba875.png",
+      "image_sha": "959790a291774f6b777c66ddca3907451524949e",
+      "url": "https://www.radiodos.com.ar/210348-mundial-2026-mexico-supero-a-ecuador-y-avanzo-a-octavos-de-final",
+      "title": "Mundial 2026: México superó a Ecuador y avanzó a octavos de final",
+      "volanta": "2 a 0",
+      "date": "2026-07-01T12:03:50+00:00"
+    },
     {
       "id": "7734f91a",
       "image": "img/7734f91a.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno entregó equipamiento a centros de salud de la provincia",
       "volanta": "REFUERZO EN LA ATENCIÓN PRIMARIA",
       "date": "2026-06-29T17:03:09+00:00"
-    },
-    {
-      "id": "2bac887d",
-      "image": "img/2bac887d.png",
-      "image_sha": "fb164c56635127f0ab4d3eafc523b5429d6e383c",
-      "url": "https://www.radiodos.com.ar/210257-el-superior-tribunal-de-justicia-fijo-criterio-sobre-el-plazo-maximo-de-duracion-del-proceso-penal-y-ordeno-continuar-una-causa-por-abuso-sexual",
-      "title": "El Superior Tribunal de Justicia fijó criterio sobre el plazo máximo de duración del proceso penal y ordenó continuar una causa por abuso sexual",
-      "volanta": "SENTENCIA PENAL",
-      "date": "2026-06-29T17:02:38+00:00"
     }
   ]
 }
