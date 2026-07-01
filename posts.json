@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T14:50:28+00:00",
+  "updated": "2026-07-01T14:59:01+00:00",
   "posts": [
+    {
+      "id": "1794b38e",
+      "image": "img/1794b38e.png",
+      "image_sha": "60b091f2765545dbd6c0c513577d98c30ad3b302",
+      "url": "https://www.radiodos.com.ar/210383-asi-fue-el-violento-desalojo-de-trabajadores-en-la-cnea-por-parte-de-la-gendarmeria",
+      "title": "Así fue el violento desalojo de trabajadores en la CNEA por parte de la Gendarmería",
+      "volanta": "AJUSTE",
+      "date": "2026-07-01T14:59:01+00:00"
+    },
     {
       "id": "1f61f61e",
       "image": "img/1f61f61e.png",
@@ -531,15 +540,6 @@
       "title": "Un operario forestal sufrió graves heridas tras ser aplastado por un pino",
       "volanta": "CORRIENTES",
       "date": "2026-06-29T21:54:44+00:00"
-    },
-    {
-      "id": "b47f7b4c",
-      "image": "img/b47f7b4c.png",
-      "image_sha": "5ebb9b62af78b1f68d0a395fe1968318e94bdb72",
-      "url": "https://www.radiodos.com.ar/210269-mundial-2026-la-canarinha-supero-el-orden-de-los-samurais",
-      "title": "Mundial 2026: La Canarinha superó el orden de los Samurais",
-      "volanta": "En Houston",
-      "date": "2026-06-29T20:37:19+00:00"
     }
   ]
 }
