@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T21:40:06+00:00",
+  "updated": "2026-07-01T22:29:13+00:00",
   "posts": [
+    {
+      "id": "34283d25",
+      "image": "img/34283d25.png",
+      "image_sha": "aba8aee7dac10b9a789bfc44df34a0399faac80a",
+      "url": "https://www.radiodos.com.ar/210404-murio-el-actor-santiago-rios-conocido-por-sus-papeles-en-los-simuladores-y-los-roldan",
+      "title": "Murió el actor Santiago Ríos, conocido por sus papeles en \"Los Simuladores\" y \"Los Roldán\"",
+      "volanta": "TRISTE NOTICIA",
+      "date": "2026-07-01T22:29:13+00:00"
+    },
     {
       "id": "9c4e9c4f",
       "image": "img/9c4e9c4f.png",
@@ -531,15 +540,6 @@
       "title": "Marruecos venció por penales a Países Bajos y pasó a octavos de final del Mundial 2026",
       "volanta": "Infartante",
       "date": "2026-06-30T12:33:46+00:00"
-    },
-    {
-      "id": "1398f546",
-      "image": "img/1398f546.png",
-      "image_sha": "e7152789875d40011ad45670295cced9dd5fdd9f",
-      "url": "https://www.radiodos.com.ar/210291-destacada-actuacion-de-san-martin-en-el-torneo-de-la-bandera",
-      "title": "Destacada Actuación de San Martín en el Torneo de la Bandera",
-      "volanta": "VOLEY",
-      "date": "2026-06-30T12:03:45+00:00"
     }
   ]
 }
