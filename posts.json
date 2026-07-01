@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T18:40:47+00:00",
+  "updated": "2026-07-01T18:41:25+00:00",
   "posts": [
+    {
+      "id": "378b2d39",
+      "image": "img/378b2d39.png",
+      "image_sha": "e6d8a52364ea3820c76a294de58942162e35fe66",
+      "url": "https://www.radiodos.com.ar/210393-mburucuya-impulsa-la-produccion-avicola-para-aumentar-la-oferta-de-alimentos",
+      "title": "Mburucuyá impulsa la producción avícola para aumentar la oferta de alimentos",
+      "volanta": "ACTIVIDAD",
+      "date": "2026-07-01T18:41:25+00:00"
+    },
     {
       "id": "6de7e00c",
       "image": "img/6de7e00c.png",
@@ -531,15 +540,6 @@
       "title": "La actividad económica creció 1,6% interanual en abril, pero cayó frente a marzo",
       "volanta": "DATOS OFICIALES",
       "date": "2026-06-29T23:31:02+00:00"
-    },
-    {
-      "id": "d55a18f4",
-      "image": "img/d55a18f4.png",
-      "image_sha": "a54bc38b7764b18ecdbe7fe6016a9527af2b8932",
-      "url": "https://www.radiodos.com.ar/210282-desarrollo-social-acuerdan-el-pago-de-un-plus-extraordinario-para-los-trabajadores-del-sector",
-      "title": "Desarrollo Social: acuerdan el pago de un plus extraordinario para los trabajadores del sector",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-29T23:25:19+00:00"
     }
   ]
 }
