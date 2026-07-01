@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T20:37:48+00:00",
+  "updated": "2026-07-01T20:39:38+00:00",
   "posts": [
+    {
+      "id": "8e766e73",
+      "image": "img/8e766e73.png",
+      "image_sha": "722d00351a4ae655ede4bb6151ed9632bc9ce013",
+      "url": "https://www.radiodos.com.ar/210398-venezuela-confirman-2295-muertes-y-declaran-siete-dias-de-duelo-nacional",
+      "title": "Venezuela: confirman 2295 muertes y declaran siete días de duelo nacional",
+      "volanta": "CATASTROFE",
+      "date": "2026-07-01T20:39:38+00:00"
+    },
     {
       "id": "65e8412d",
       "image": "img/65e8412d.png",
@@ -531,15 +540,6 @@
       "title": "Para Lisandro Almirón, la ida de Adorni \"descomprime las cosas por el alcance mediático que tuvo el tema\"",
       "volanta": "NOTA EXCLUSIVA",
       "date": "2026-06-29T23:32:52+00:00"
-    },
-    {
-      "id": "b2a92564",
-      "image": "img/b2a92564.png",
-      "image_sha": "f2dda077a2f90aea073a6bac5a027619675003d9",
-      "url": "https://www.radiodos.com.ar/210276-confirmaron-la-llegada-de-el-nino-y-anticiparon-que-podria-fortalecerse-en-los-proximos-meses",
-      "title": "Confirmaron la llegada de El Niño y anticiparon que podría fortalecerse en los próximos meses",
-      "volanta": "Fenómeno climático",
-      "date": "2026-06-29T23:31:36+00:00"
     }
   ]
 }
