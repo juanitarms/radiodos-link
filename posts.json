@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T12:49:25+00:00",
+  "updated": "2026-07-01T13:11:46+00:00",
   "posts": [
+    {
+      "id": "227a73e2",
+      "image": "img/227a73e2.png",
+      "image_sha": "32fe7c80a51620d6d2d8e30df96aabd183ec9c16",
+      "url": "https://www.radiodos.com.ar/210353-poesia-chamame-cultura-guarani-y-homenajes-seran-protagonistas-de-la-16-feria-provincial-del-libro",
+      "title": "Poesía, chamamé, cultura guaraní y homenajes serán protagonistas de la 16ª Feria Provincial del Libro",
+      "volanta": "DEL 7 AL 18 DE JULIO",
+      "date": "2026-07-01T13:11:46+00:00"
+    },
     {
       "id": "7176aabd",
       "image": "img/7176aabd.png",
@@ -531,15 +540,6 @@
       "title": "Diego Santilli, alineado: \"Hablé con Mauricio Macri, pero el liderazgo hoy es de Javier Milei\"",
       "volanta": "NUEVO GABINETE",
       "date": "2026-06-29T18:10:52+00:00"
-    },
-    {
-      "id": "b03d1b59",
-      "image": "img/b03d1b59.png",
-      "image_sha": "376e34447b6b88996b66fa6f2e299ba8acaa4e29",
-      "url": "https://www.radiodos.com.ar/210260-buscan-a-un-adolescente-que-se-ausento-del-hogar-miguel-magone",
-      "title": "Buscan a un adolescente que se ausentó del Hogar Miguel Magone",
-      "volanta": "HACE UNA SEMANA",
-      "date": "2026-06-29T18:10:18+00:00"
     }
   ]
 }
