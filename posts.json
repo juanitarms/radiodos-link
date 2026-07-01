@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T21:37:44+00:00",
+  "updated": "2026-07-01T21:40:06+00:00",
   "posts": [
+    {
+      "id": "9c4e9c4f",
+      "image": "img/9c4e9c4f.png",
+      "image_sha": "3483d0229b3d76ec4595f9e8fffeefd8fbe0b678",
+      "url": "https://www.radiodos.com.ar/210400-detienen-a-cuatro-personas-por-depredacion-de-fauna-en-corrientes",
+      "title": "Detienen a cuatro personas por depredación de fauna en Corrientes",
+      "volanta": "Operativo en Ruta 117",
+      "date": "2026-07-01T21:40:06+00:00"
+    },
     {
       "id": "cdeb1bd4",
       "image": "img/cdeb1bd4.png",
@@ -531,15 +540,6 @@
       "title": "Destacada Actuación de San Martín en el Torneo de la Bandera",
       "volanta": "VOLEY",
       "date": "2026-06-30T12:03:45+00:00"
-    },
-    {
-      "id": "a716b7b0",
-      "image": "img/a716b7b0.png",
-      "image_sha": "dc3d0f21d530573e8b4d99df018ddf6e093ae2e8",
-      "url": "https://www.radiodos.com.ar/210286-comenzo-el-pago-de-salarios-a-empleados-municipales-capitalinos-con-aumento",
-      "title": "Comenzó el pago de salarios a empleados municipales capitalinos: con aumento",
-      "volanta": "JUNIO",
-      "date": "2026-06-30T11:33:33+00:00"
     }
   ]
 }
