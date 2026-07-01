@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T14:59:01+00:00",
+  "updated": "2026-07-01T16:29:44+00:00",
   "posts": [
+    {
+      "id": "5e493d33",
+      "image": "img/5e493d33.png",
+      "image_sha": "da68dbbf25dc441dd9c9aba72a7d9bab66e390ba",
+      "url": "https://www.radiodos.com.ar/210384-procesaron-con-prision-preventiva-a-la-presunta-viuda-negra-acusada-de-asesinar-al-socio-de-martin-menem",
+      "title": "Procesaron con prisión preventiva a la presunta viuda negra acusada de asesinar al socio de Martín Menem",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-01T16:29:44+00:00"
+    },
     {
       "id": "1794b38e",
       "image": "img/1794b38e.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian presunto abuso sexual grupal a una persona con discapacidad en el interior de Corrientes",
       "volanta": "HORRENDO",
       "date": "2026-06-29T21:56:39+00:00"
-    },
-    {
-      "id": "016f2803",
-      "image": "img/016f2803.png",
-      "image_sha": "1a99394be1cbc4e2c3ba79483231f224b7fea7b2",
-      "url": "https://www.radiodos.com.ar/210271-un-operario-forestal-sufrio-graves-heridas-tras-ser-aplastado-por-un-pino",
-      "title": "Un operario forestal sufrió graves heridas tras ser aplastado por un pino",
-      "volanta": "CORRIENTES",
-      "date": "2026-06-29T21:54:44+00:00"
     }
   ]
 }
