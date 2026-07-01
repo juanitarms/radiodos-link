@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T12:33:43+00:00",
+  "updated": "2026-07-01T12:49:25+00:00",
   "posts": [
+    {
+      "id": "7176aabd",
+      "image": "img/7176aabd.png",
+      "image_sha": "7084d5f3eeddfce39555ecd2e80db07e12f70de6",
+      "url": "https://www.radiodos.com.ar/210364-dpec-ofrece-un-plan-integral-de-regularizacion-comercial-con-importantes-beneficios",
+      "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
+      "volanta": "DE INTERES",
+      "date": "2026-07-01T12:49:25+00:00"
+    },
     {
       "id": "12210e45",
       "image": "img/12210e45.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un adolescente que se ausentó del Hogar Miguel Magone",
       "volanta": "HACE UNA SEMANA",
       "date": "2026-06-29T18:10:18+00:00"
-    },
-    {
-      "id": "05f00273",
-      "image": "img/05f00273.png",
-      "image_sha": "7cf5587a9253d3af5b344a36d25a0e347af35c5b",
-      "url": "https://www.radiodos.com.ar/210258-el-gobierno-de-corrientes-confirmo-los-periodos-de-la-feria-administrativa-de-invierno",
-      "title": "El Gobierno de Corrientes confirmó los periodos de la feria administrativa de invierno",
-      "volanta": "DECRETO N° 1544",
-      "date": "2026-06-29T17:03:46+00:00"
     }
   ]
 }
