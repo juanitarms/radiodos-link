@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T16:29:44+00:00",
+  "updated": "2026-07-01T16:30:18+00:00",
   "posts": [
+    {
+      "id": "48dd596e",
+      "image": "img/48dd596e.png",
+      "image_sha": "dd80b8d2ba3695fdfe4202015d06c3f079182b6e",
+      "url": "https://www.radiodos.com.ar/210386-el-gobierno-dispuso-nuevas-subas-en-las-tarifas-de-luz-y-gas-y-prorrogo-beneficios-para-morigerar-el-impacto",
+      "title": "El Gobierno dispuso nuevas subas en las tarifas de luz y gas y prorrogó beneficios para morigerar el impacto",
+      "volanta": "MÁS AJUSTES",
+      "date": "2026-07-01T16:30:18+00:00"
+    },
     {
       "id": "5e493d33",
       "image": "img/5e493d33.png",
@@ -531,15 +540,6 @@
       "title": "Una funcionaria declaró que le prestó su tarjeta a Adorni para que compre un monitor de videojuegos",
       "volanta": "nuevo escándalo",
       "date": "2026-06-29T21:58:34+00:00"
-    },
-    {
-      "id": "a51dd0b8",
-      "image": "img/a51dd0b8.png",
-      "image_sha": "1cceb27f532c265d77f8fa939e742b3a42214eb7",
-      "url": "https://www.radiodos.com.ar/210270-denuncian-presunto-abuso-sexual-grupal-a-una-persona-con-discapacidad-en-el-interior-de-corrientes",
-      "title": "Denuncian presunto abuso sexual grupal a una persona con discapacidad en el interior de Corrientes",
-      "volanta": "HORRENDO",
-      "date": "2026-06-29T21:56:39+00:00"
     }
   ]
 }
