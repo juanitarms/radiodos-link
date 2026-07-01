@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T16:30:18+00:00",
+  "updated": "2026-07-01T16:30:53+00:00",
   "posts": [
+    {
+      "id": "c09ad59c",
+      "image": "img/c09ad59c.png",
+      "image_sha": "e5e6dcdbc63388920efd0c0304d9e29d20be6e1b",
+      "url": "https://www.radiodos.com.ar/210389-dijo-que-habia-tomado-un-remedio-pero-estaba-totalmente-borracho",
+      "title": "Dijo que había tomado un remedio, pero estaba totalmente borracho",
+      "volanta": "CHUBUT",
+      "date": "2026-07-01T16:30:53+00:00"
+    },
     {
       "id": "48dd596e",
       "image": "img/48dd596e.png",
@@ -531,15 +540,6 @@
       "title": "Más de 400 corredores participaron de una nueva fecha de las Maratones Barriales en Corrientes",
       "volanta": "DEPORTES",
       "date": "2026-06-29T22:00:03+00:00"
-    },
-    {
-      "id": "62073cc3",
-      "image": "img/62073cc3.png",
-      "image_sha": "ac142d6105267dad7fea3a15ef577b2bca2a012c",
-      "url": "https://www.radiodos.com.ar/210274-una-funcionaria-declaro-que-le-presto-su-tarjeta-a-adorni-para-que-compre-un-monitor-de-videojuegos",
-      "title": "Una funcionaria declaró que le prestó su tarjeta a Adorni para que compre un monitor de videojuegos",
-      "volanta": "nuevo escándalo",
-      "date": "2026-06-29T21:58:34+00:00"
     }
   ]
 }
