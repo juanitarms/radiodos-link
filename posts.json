@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T17:56:37+00:00",
+  "updated": "2026-07-01T17:57:14+00:00",
   "posts": [
+    {
+      "id": "2ca08499",
+      "image": "img/2ca08499.png",
+      "image_sha": "368ef5a8b6787a2e0599a69cd5f7214e84409bf4",
+      "url": "https://www.radiodos.com.ar/210387-un-sismo-sacudio-varias-ciudades-de-cordoba-en-plena-madrugada",
+      "title": "Un sismo sacudió varias ciudades de Córdoba en plena madrugada",
+      "volanta": "ALERTA",
+      "date": "2026-07-01T17:57:14+00:00"
+    },
     {
       "id": "eae34add",
       "image": "img/eae34add.png",
@@ -531,15 +540,6 @@
       "title": "Sube a 1719 el número de muertos por los sismos en Venezuela y ya son más de 5000 los heridos",
       "volanta": "catastrofe",
       "date": "2026-06-29T22:44:54+00:00"
-    },
-    {
-      "id": "81279bac",
-      "image": "img/81279bac.png",
-      "image_sha": "0c407a7bf3fbc616c1605b8edf0533424711d4c9",
-      "url": "https://www.radiodos.com.ar/210272-intensifican-la-busqueda-de-la-joven-que-habria-caido-desde-el-puente-corrientes-chaco",
-      "title": "Intensifican la búsqueda de la joven que habría caído desde el puente Corrientes-Chaco",
-      "volanta": "SIN NOVEDADES",
-      "date": "2026-06-29T22:00:39+00:00"
     }
   ]
 }
