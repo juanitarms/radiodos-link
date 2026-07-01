@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T20:46:55+00:00",
+  "updated": "2026-07-01T21:37:44+00:00",
   "posts": [
+    {
+      "id": "cdeb1bd4",
+      "image": "img/cdeb1bd4.png",
+      "image_sha": "dec9533717451533059de802c67e60c039bcd1eb",
+      "url": "https://www.radiodos.com.ar/210399-el-gobierno-y-las-consultoras-proyectan-que-la-inflacion-de-junio-se-ubico-debajo-del-2",
+      "title": "El Gobierno y las consultoras proyectan que la inflación de junio se ubicó debajo del 2%",
+      "volanta": "EXPECTATIVA",
+      "date": "2026-07-01T21:37:44+00:00"
+    },
     {
       "id": "39ea4737",
       "image": "img/39ea4737.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el pago de salarios a empleados municipales capitalinos: con aumento",
       "volanta": "JUNIO",
       "date": "2026-06-30T11:33:33+00:00"
-    },
-    {
-      "id": "09a52994",
-      "image": "img/09a52994.png",
-      "image_sha": "dbbb4dfb3707b4e763860698f47d27b8b82322ee",
-      "url": "https://www.radiodos.com.ar/210285-juicio-por-la-desaparicion-de-loan-los-papas-del-nene-de-5-anos-hablaran-como-testigos-y-luego-podran-presenciar-todo-el-debate-oral",
-      "title": "Juicio por la desaparición de Loan: los papás del nene de 5 años hablarán como testigos y luego podrán presenciar todo el debate oral",
-      "volanta": "SE RETOMA EL DEBATE",
-      "date": "2026-06-30T11:15:20+00:00"
     }
   ]
 }
