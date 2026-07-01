@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T13:34:54+00:00",
+  "updated": "2026-07-01T14:09:33+00:00",
   "posts": [
+    {
+      "id": "9e87c616",
+      "image": "img/9e87c616.png",
+      "image_sha": "7b5f0ea7ee81b6ac20cdc2ebe9f77f25c7464d28",
+      "url": "https://www.radiodos.com.ar/210361-en-cabo-verde-suenan-con-el-gran-batacazo-frente-a-argentina-vamos-a-ganar-1-0",
+      "title": "En Cabo Verde sueñan con el gran batacazo frente a Argentina: \"Vamos a ganar 1-0\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-01T14:09:33+00:00"
+    },
     {
       "id": "c5b4c42e",
       "image": "img/c5b4c42e.png",
@@ -531,15 +540,6 @@
       "title": "Insólito intento de robo: quiso entrar a una casa y quedó colgado de una reja",
       "volanta": "Mar del Plata",
       "date": "2026-06-29T18:11:56+00:00"
-    },
-    {
-      "id": "2821a518",
-      "image": "img/2821a518.png",
-      "image_sha": "262759189d63e3033e7c2368ea829b10e8c7f926",
-      "url": "https://www.radiodos.com.ar/210261-tras-un-allanamiento-por-narcomenudeo-secuestran-cocaina-y-varios-elementos",
-      "title": "Tras un allanamiento por narcomenudeo, secuestran cocaína y varios elementos",
-      "volanta": "CURUZÚ CUATIÁ",
-      "date": "2026-06-29T18:11:24+00:00"
     }
   ]
 }
