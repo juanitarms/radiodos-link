@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T10:54:00+00:00",
+  "updated": "2026-07-01T11:38:07+00:00",
   "posts": [
+    {
+      "id": "7734f91a",
+      "image": "img/7734f91a.png",
+      "image_sha": "f47d10b60d0f11cd2f6ffdb7f4a1b58fec66038f",
+      "url": "https://www.radiodos.com.ar/210345-revelaron-con-que-famosa-hablo-ernestina-pais-25-minutos-antes-de-su-tragica-muerte",
+      "title": "Revelaron con qué famosa habló Ernestina Pais 25 minutos antes de su trágica muerte",
+      "volanta": "Estremecedor",
+      "date": "2026-07-01T11:38:07+00:00"
+    },
     {
       "id": "f5d8e337",
       "image": "img/f5d8e337.png",
@@ -531,15 +540,6 @@
       "title": "El Superior Tribunal de Justicia fijó criterio sobre el plazo máximo de duración del proceso penal y ordenó continuar una causa por abuso sexual",
       "volanta": "SENTENCIA PENAL",
       "date": "2026-06-29T17:02:38+00:00"
-    },
-    {
-      "id": "383fde56",
-      "image": "img/383fde56.png",
-      "image_sha": "b08bd0468394928a49fd0688279c1cfc50d234ab",
-      "url": "https://www.radiodos.com.ar/210256-boca-unidos-no-contara-con-seis-jugadores-del-plantel-profesional",
-      "title": "Boca Unidos no contará con seis jugadores del plantel profesional",
-      "volanta": "COMUNICADO",
-      "date": "2026-06-29T17:02:10+00:00"
     }
   ]
 }
