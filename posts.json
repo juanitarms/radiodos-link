@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30T23:45:12+00:00",
+  "updated": "2026-07-01T10:33:55+00:00",
   "posts": [
+    {
+      "id": "a49e7ba2",
+      "image": "img/a49e7ba2.png",
+      "image_sha": "754946821fdfa6b3beedd1df17880535a0cfba0d",
+      "url": "https://www.radiodos.com.ar/210346-mundial-2026-francia-es-cosa-seria-y-goleo-mientras-que-mbappe-es-goleador",
+      "title": "Mundial 2026: Francia es cosa seria y goleó mientras que Mbappé es goleador",
+      "volanta": "En New Jersey",
+      "date": "2026-07-01T10:33:55+00:00"
+    },
     {
       "id": "1d59b0f7",
       "image": "img/1d59b0f7.png",
@@ -531,15 +540,6 @@
       "title": "Miryam Bregman advirtió sobre el \"riesgo Adorni\": ¿de qué se trata?",
       "volanta": "POLÉMICA",
       "date": "2026-06-29T17:01:36+00:00"
-    },
-    {
-      "id": "1150440e",
-      "image": "img/1150440e.png",
-      "image_sha": "ef7df5af0b609fb37660d0a9968dc10d57a8b75b",
-      "url": "https://www.radiodos.com.ar/210255-la-municipalidad-inicio-una-obra-estrategica-de-desagues-pluviales-en-villa-chiquita",
-      "title": "La Municipalidad inició una obra estratégica de desagües pluviales en Villa Chiquita",
-      "volanta": "INFRAESTRUCTURA URBANA Y PREVENCIÓN HÍDRICA",
-      "date": "2026-06-29T15:04:56+00:00"
     }
   ]
 }
