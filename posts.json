@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T12:03:50+00:00",
+  "updated": "2026-07-01T12:33:43+00:00",
   "posts": [
+    {
+      "id": "12210e45",
+      "image": "img/12210e45.png",
+      "image_sha": "a64ebde098599ada30ea9303037d4d7b5c3d2f98",
+      "url": "https://www.radiodos.com.ar/210359-mundial-2026-posiciones-cuadro-de-16vos-de-final-y-clasificados-a-octavos-de-final",
+      "title": "Mundial 2026: posiciones, cuadro de 16vos de final y clasificados a octavos de final",
+      "volanta": "Minuto a minuto",
+      "date": "2026-07-01T12:33:43+00:00"
+    },
     {
       "id": "a04ba875",
       "image": "img/a04ba875.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes confirmó los periodos de la feria administrativa de invierno",
       "volanta": "DECRETO N° 1544",
       "date": "2026-06-29T17:03:46+00:00"
-    },
-    {
-      "id": "dc0aad40",
-      "image": "img/dc0aad40.png",
-      "image_sha": "8869f4226c25fdcf83d25d771ec3e6bb974fa867",
-      "url": "https://www.radiodos.com.ar/210259-el-gobierno-entrego-equipamiento-a-centros-de-salud-de-la-provincia",
-      "title": "El Gobierno entregó equipamiento a centros de salud de la provincia",
-      "volanta": "REFUERZO EN LA ATENCIÓN PRIMARIA",
-      "date": "2026-06-29T17:03:09+00:00"
     }
   ]
 }
