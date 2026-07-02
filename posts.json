@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T20:39:26+00:00",
+  "updated": "2026-07-02T21:41:44+00:00",
   "posts": [
+    {
+      "id": "bcf1d077",
+      "image": "img/bcf1d077.png",
+      "image_sha": "a64fc955a9a8e2c8dd918590fa43fac63e10f1bf",
+      "url": "https://www.radiodos.com.ar/210456-la-advertencia-de-scaloni-sobre-cabo-verde-es-un-buen-equipo-no-va-a-ser-facil",
+      "title": "La advertencia de Scaloni sobre Cabo Verde: \"Es un buen equipo, no va a ser fácil\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-02T21:41:44+00:00"
+    },
     {
       "id": "cbf6f3a0",
       "image": "img/cbf6f3a0.png",
@@ -531,15 +540,6 @@
       "title": "El frío no afloja: así estará el clima este miércoles en Corrientes",
       "volanta": "TIEMPO",
       "date": "2026-06-30T21:49:10+00:00"
-    },
-    {
-      "id": "23c4f5ce",
-      "image": "img/23c4f5ce.png",
-      "image_sha": "d44104581d336d372645411068259c2c530a6556",
-      "url": "https://www.radiodos.com.ar/210334-segun-el-papa-de-loan-laudelina-dijo-que-habia-ocurrido-un-accidente",
-      "title": "Según el papá de Loan: \"Laudelina dijo que había ocurrido un accidente\"",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-06-30T21:48:34+00:00"
     }
   ]
 }
