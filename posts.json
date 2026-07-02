@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-01T23:36:53+00:00",
+  "updated": "2026-07-02T10:33:25+00:00",
   "posts": [
+    {
+      "id": "c868bb60",
+      "image": "img/c868bb60.png",
+      "image_sha": "440c2d53197271e07be16e8bf0e78d646fbd6665",
+      "url": "https://www.radiodos.com.ar/210409-juicio-por-loan-hoy-declara-la-abuela-del-nino-y-una-hija-de-laudelina",
+      "title": "Juicio por Loan: hoy declara la abuela del niño y una hija de Laudelina",
+      "volanta": "TESTIMONIOS",
+      "date": "2026-07-02T10:33:25+00:00"
+    },
     {
       "id": "a149ff6a",
       "image": "img/a149ff6a.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei prepara una cumbre con legisladores en Casa Rosada para reordenar la estrategia libertaria",
       "volanta": "TRAS LA SALIDA DE ADORNI",
       "date": "2026-06-30T13:29:37+00:00"
-    },
-    {
-      "id": "175a4f4a",
-      "image": "img/175a4f4a.png",
-      "image_sha": "6228c29b1156b77e6289201a14c200986b33f14a",
-      "url": "https://www.radiodos.com.ar/210289-crece-el-rio-uruguay-pero-descartan-riesgos-inminentes-en-costas-de-corrientes",
-      "title": "Crece el río Uruguay pero descartan \"riesgos inminentes\" en costas de Corrientes",
-      "volanta": "EL NIÑO",
-      "date": "2026-06-30T13:15:36+00:00"
     }
   ]
 }
