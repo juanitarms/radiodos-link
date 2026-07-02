@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T21:41:44+00:00",
+  "updated": "2026-07-02T22:45:19+00:00",
   "posts": [
+    {
+      "id": "602b289f",
+      "image": "img/602b289f.png",
+      "image_sha": "36afbe3e4b68b6e1a95b2611be7ba5fef62c9203",
+      "url": "https://www.radiodos.com.ar/210459-espana-golea-3-0-a-austria-y-avanza-a-octavos",
+      "title": "España golea 3-0 a Austria y avanza a octavos",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-02T22:45:19+00:00"
+    },
     {
       "id": "bcf1d077",
       "image": "img/bcf1d077.png",
@@ -531,15 +540,6 @@
       "title": "Sebastián Orresta llega a Regatas Corrientes",
       "volanta": "Liga Nacional",
       "date": "2026-06-30T21:49:44+00:00"
-    },
-    {
-      "id": "f7e03a10",
-      "image": "img/f7e03a10.png",
-      "image_sha": "03fa342d536c6e23c93c7ce1ddf8863266f75246",
-      "url": "https://www.radiodos.com.ar/210339-el-frio-no-afloja-asi-estara-el-clima-este-miercoles-en-corrientes",
-      "title": "El frío no afloja: así estará el clima este miércoles en Corrientes",
-      "volanta": "TIEMPO",
-      "date": "2026-06-30T21:49:10+00:00"
     }
   ]
 }
