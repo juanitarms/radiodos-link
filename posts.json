@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T16:52:26+00:00",
+  "updated": "2026-07-02T16:53:01+00:00",
   "posts": [
+    {
+      "id": "04933f93",
+      "image": "img/04933f93.png",
+      "image_sha": "3809b106f9e731a3f87b7ac64e21063406adad90",
+      "url": "https://www.radiodos.com.ar/210440-hallaron-ilesa-a-la-adolescente-que-faltaba-de-su-hogar",
+      "title": "Hallaron ilesa a la adolescente que faltaba de su hogar",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-07-02T16:53:01+00:00"
+    },
     {
       "id": "ddacbb4a",
       "image": "img/ddacbb4a.png",
@@ -531,15 +540,6 @@
       "title": "Investigadores del LIBIM avanzan en el estudio del cáncer de colon en pacientes del Nordeste Argentino",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-06-30T18:29:06+00:00"
-    },
-    {
-      "id": "ac1c8c65",
-      "image": "img/ac1c8c65.png",
-      "image_sha": "db2714ab44665cc330e9727494a30a5ac92021dd",
-      "url": "https://www.radiodos.com.ar/210326-egresada-de-la-unne-investiga-en-europa-sobre-agroecologia-y-agricultura-sostenible",
-      "title": "Egresada de la UNNE investiga en Europa sobre agroecología y agricultura sostenible",
-      "volanta": "FORMACIÓN DOCTORAL",
-      "date": "2026-06-30T18:28:18+00:00"
     }
   ]
 }
