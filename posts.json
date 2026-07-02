@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T22:45:19+00:00",
+  "updated": "2026-07-02T22:46:46+00:00",
   "posts": [
+    {
+      "id": "46492f25",
+      "image": "img/46492f25.png",
+      "image_sha": "8b471a7afe48ee1219602324216c7fcfff51fb82",
+      "url": "https://www.radiodos.com.ar/210460-coty-romero-confeso-que-hay-alguien-que-le-interesa-y-revoluciono-las-redes",
+      "title": "Coty Romero confesó que hay alguien que le interesa y revolucionó las redes",
+      "volanta": "BOMBA",
+      "date": "2026-07-02T22:46:46+00:00"
+    },
     {
       "id": "602b289f",
       "image": "img/602b289f.png",
@@ -531,15 +540,6 @@
       "title": "Desde que asumió Milei ya se recortaron 70 mil empleos en la administración pública",
       "volanta": "PLAN MOTOSIERRA",
       "date": "2026-06-30T23:04:04+00:00"
-    },
-    {
-      "id": "55ef8e1b",
-      "image": "img/55ef8e1b.png",
-      "image_sha": "6b3c5110698013a4a7c73496350979e120159390",
-      "url": "https://www.radiodos.com.ar/210332-sebastian-orresta-llega-a-regatas-corrientes",
-      "title": "Sebastián Orresta llega a Regatas Corrientes",
-      "volanta": "Liga Nacional",
-      "date": "2026-06-30T21:49:44+00:00"
     }
   ]
 }
