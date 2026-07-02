@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T16:53:33+00:00",
+  "updated": "2026-07-02T17:41:40+00:00",
   "posts": [
+    {
+      "id": "6813f80c",
+      "image": "img/6813f80c.png",
+      "image_sha": "3a268ecc68b25ee9e4bd275dbfd69547178d3761",
+      "url": "https://www.radiodos.com.ar/210443-olga-le-cumple-el-sueno-al-nene-que-escribio-una-carta-a-lionel-messi-se-va-al-mundial-2026",
+      "title": "Olga le cumple el sueño al nene que escribió una carta a Lionel Messi: se va al Mundial 2026",
+      "volanta": "GRAN SORPRESA",
+      "date": "2026-07-02T17:41:40+00:00"
+    },
     {
       "id": "b47876ed",
       "image": "img/b47876ed.png",
@@ -531,15 +540,6 @@
       "title": "Recuperaron 22 animales vacunos de una camioneta \"doble fondo\"",
       "volanta": "MERCEDES – LA CRUZ",
       "date": "2026-06-30T18:57:15+00:00"
-    },
-    {
-      "id": "3bb992be",
-      "image": "img/3bb992be.png",
-      "image_sha": "acdbd880e36798e4c484652e16f36b8aee61504e",
-      "url": "https://www.radiodos.com.ar/210324-sebastian-orresta-llega-a-regatas",
-      "title": "Sebastián Orresta llega a Regatas",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-06-30T18:29:45+00:00"
     }
   ]
 }
