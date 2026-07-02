@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T17:41:40+00:00",
+  "updated": "2026-07-02T17:42:18+00:00",
   "posts": [
+    {
+      "id": "36cabb8a",
+      "image": "img/36cabb8a.png",
+      "image_sha": "3864d59bb2622e296ce33bf8d2e8e1d80eeb0201",
+      "url": "https://www.radiodos.com.ar/210442-la-arriesgada-propuesta-de-brian-sarmiento-a-santiago-del-moro-tras-el-escandalo-con-catalina-gorostidi",
+      "title": "La arriesgada propuesta de Brian Sarmiento a Santiago del Moro tras el escándalo con Catalina Gorostidi",
+      "volanta": "SE LA JUGARON",
+      "date": "2026-07-02T17:42:18+00:00"
+    },
     {
       "id": "6813f80c",
       "image": "img/6813f80c.png",
@@ -531,15 +540,6 @@
       "title": "Marcela Tauro pidió \"honrar\" a \"padres que violan a sus hijos\" y generó en un tenso momento en vivo",
       "volanta": "POLÉMICA",
       "date": "2026-06-30T18:58:19+00:00"
-    },
-    {
-      "id": "352640d8",
-      "image": "img/352640d8.png",
-      "image_sha": "af332277a7a50b596aa5e0e68d43c113aa888ba6",
-      "url": "https://www.radiodos.com.ar/210327-recuperaron-22-animales-vacunos-de-una-camioneta-doble-fondo",
-      "title": "Recuperaron 22 animales vacunos de una camioneta \"doble fondo\"",
-      "volanta": "MERCEDES – LA CRUZ",
-      "date": "2026-06-30T18:57:15+00:00"
     }
   ]
 }
