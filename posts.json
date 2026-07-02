@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T20:37:15+00:00",
+  "updated": "2026-07-02T20:39:26+00:00",
   "posts": [
+    {
+      "id": "cbf6f3a0",
+      "image": "img/cbf6f3a0.png",
+      "image_sha": "d37382994c175a123b18541a2abecf846cd01863",
+      "url": "https://www.radiodos.com.ar/210455-corrientes-se-reunio-la-junta-provincial-de-defensa-civil-ante-los-pronosticos-de-el-nino",
+      "title": "Corrientes: se reunió la Junta Provincial de Defensa Civil ante los pronósticos de El Niño",
+      "volanta": "ACCIONES PREVENTIVAS",
+      "date": "2026-07-02T20:39:26+00:00"
+    },
     {
       "id": "dfb60a88",
       "image": "img/dfb60a88.png",
@@ -531,15 +540,6 @@
       "title": "Según el papá de Loan: \"Laudelina dijo que había ocurrido un accidente\"",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-06-30T21:48:34+00:00"
-    },
-    {
-      "id": "82178ed7",
-      "image": "img/82178ed7.png",
-      "image_sha": "23fa14d669d9b60096074ee3c2233f8718aed00a",
-      "url": "https://www.radiodos.com.ar/210338-tras-el-escandalo-con-manuel-adorni-diego-santilli-juro-como-jefe-de-gabinete",
-      "title": "Tras el escándalo con Manuel Adorni, Diego Santilli juró como jefe de Gabinete",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-06-30T21:18:46+00:00"
     }
   ]
 }
