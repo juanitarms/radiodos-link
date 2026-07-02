@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T15:04:33+00:00",
+  "updated": "2026-07-02T16:52:26+00:00",
   "posts": [
+    {
+      "id": "ddacbb4a",
+      "image": "img/ddacbb4a.png",
+      "image_sha": "9082555d953f7daca676ea94c7887744eb04e1a7",
+      "url": "https://www.radiodos.com.ar/210441-jose-maria-muscari-explico-por-que-fue-citado-a-declarar-tras-la-muerte-de-ernestina-pais",
+      "title": "José María Muscari explicó por qué fue citado a declarar tras la muerte de Ernestina Pais",
+      "volanta": "SINCERO",
+      "date": "2026-07-02T16:52:26+00:00"
+    },
     {
       "id": "c9463d1a",
       "image": "img/c9463d1a.png",
@@ -531,15 +540,6 @@
       "title": "Egresada de la UNNE investiga en Europa sobre agroecología y agricultura sostenible",
       "volanta": "FORMACIÓN DOCTORAL",
       "date": "2026-06-30T18:28:18+00:00"
-    },
-    {
-      "id": "e8a8e96e",
-      "image": "img/e8a8e96e.png",
-      "image_sha": "5799739711f259c1426df8a28954e659702a9ee3",
-      "url": "https://www.radiodos.com.ar/210323-juicio-loan-pena-abogados-defensores-insisten-en-que-no-hubo-un-plan",
-      "title": "Juicio Loan Peña: Abogados defensores insisten en que \"no hubo un plan\"",
-      "volanta": "CUARTO INTERMEDIO",
-      "date": "2026-06-30T16:38:52+00:00"
     }
   ]
 }
