@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T17:42:18+00:00",
+  "updated": "2026-07-02T17:42:52+00:00",
   "posts": [
+    {
+      "id": "80d85a75",
+      "image": "img/80d85a75.png",
+      "image_sha": "b3efa2c4c8c66713eb5e13361ac303f3c007dc21",
+      "url": "https://www.radiodos.com.ar/210444-la-amenaza-de-los-arcangeles-el-engano-con-el-que-una-falsa-vidente-robo-miles-de-dolares-y-millones-de-pesos",
+      "title": "La amenaza de los arcángeles: el engaño con el que una falsa vidente robó miles de dólares y millones de pesos",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-02T17:42:52+00:00"
+    },
     {
       "id": "36cabb8a",
       "image": "img/36cabb8a.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insta a completar esquemas de vacunación",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-06-30T20:35:28+00:00"
-    },
-    {
-      "id": "b1085b3f",
-      "image": "img/b1085b3f.png",
-      "image_sha": "81f47eb5e13c8abcedfc707f833d103f0fd6ff70",
-      "url": "https://www.radiodos.com.ar/210328-marcela-tauro-pidio-honrar-a-padres-que-violan-a-sus-hijos-y-genero-en-un-tenso-momento-en-vivo",
-      "title": "Marcela Tauro pidió \"honrar\" a \"padres que violan a sus hijos\" y generó en un tenso momento en vivo",
-      "volanta": "POLÉMICA",
-      "date": "2026-06-30T18:58:19+00:00"
     }
   ]
 }
