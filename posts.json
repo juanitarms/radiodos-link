@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T16:53:01+00:00",
+  "updated": "2026-07-02T16:53:33+00:00",
   "posts": [
+    {
+      "id": "b47876ed",
+      "image": "img/b47876ed.png",
+      "image_sha": "cdd11005cf7714f2122fca9f55ace9e09d00a2c9",
+      "url": "https://www.radiodos.com.ar/210439-cuanto-dinero-le-reclama-florencia-pena-a-luzu-tv-barby-franco-revelo-la-millonaria-cifra",
+      "title": "Cuánto dinero le reclama Florencia Peña a Luzu TV: Barby Franco reveló la millonaria cifra",
+      "volanta": "SIGUE LA POLÉMICA",
+      "date": "2026-07-02T16:53:33+00:00"
+    },
     {
       "id": "04933f93",
       "image": "img/04933f93.png",
@@ -531,15 +540,6 @@
       "title": "Sebastián Orresta llega a Regatas",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-06-30T18:29:45+00:00"
-    },
-    {
-      "id": "df4556c1",
-      "image": "img/df4556c1.png",
-      "image_sha": "57765a5a469c10dc679293c12d29604c9de59aed",
-      "url": "https://www.radiodos.com.ar/210325-investigadores-del-libim-avanzan-en-el-estudio-del-cancer-de-colon-en-pacientes-del-nordeste-argentino",
-      "title": "Investigadores del LIBIM avanzan en el estudio del cáncer de colon en pacientes del Nordeste Argentino",
-      "volanta": "RECONOCIMIENTO",
-      "date": "2026-06-30T18:29:06+00:00"
     }
   ]
 }
