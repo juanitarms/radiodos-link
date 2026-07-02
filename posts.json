@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T12:04:57+00:00",
+  "updated": "2026-07-02T12:18:30+00:00",
   "posts": [
+    {
+      "id": "b4478d68",
+      "image": "img/b4478d68.png",
+      "image_sha": "0422e73e1e9d852906bd252c2af5492e8933b8b5",
+      "url": "https://www.radiodos.com.ar/210414-la-feria-administrativa-de-invierno-para-agentes-de-la-municipalidad-de-corrientes-sera-del-13-al-24-de-julio",
+      "title": "La feria administrativa de invierno para agentes de la Municipalidad de Corrientes será del 13 al 24 de julio",
+      "volanta": "DE INTERÉS",
+      "date": "2026-07-02T12:18:30+00:00"
+    },
     {
       "id": "e1634f95",
       "image": "img/e1634f95.png",
@@ -531,15 +540,6 @@
       "title": "La Muni en tu barrio inicia su recorrida de julio en el Independencia",
       "volanta": "SERVICIOS PARA LOS VECINOS",
       "date": "2026-06-30T14:56:38+00:00"
-    },
-    {
-      "id": "e645c936",
-      "image": "img/e645c936.png",
-      "image_sha": "5c39e44e1b1a735aafc1f822226a958937d69262",
-      "url": "https://www.radiodos.com.ar/210317-nagelsmann-tras-la-eliminacion-de-alemania-si-te-saca-paraguay-no-sos-un-equipo-de-elite",
-      "title": "Nagelsmann, tras la eliminación de Alemania: \"Si te saca Paraguay, no sos un equipo de élite\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-06-30T14:36:00+00:00"
     }
   ]
 }
