@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T22:46:46+00:00",
+  "updated": "2026-07-02T22:47:53+00:00",
   "posts": [
+    {
+      "id": "36998e91",
+      "image": "img/36998e91.png",
+      "image_sha": "fb7e71c8de569d87f4d5ec11c188aebc8a40cb1d",
+      "url": "https://www.radiodos.com.ar/210461-polich-sobre-el-fenomeno-de-el-nino-estamos-tomando-todas-las-previsiones-posibles",
+      "title": "\"Polich sobre el fenómeno de \"El Niño\": \"Estamos tomando todas las previsiones posibles\"\"",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-02T22:47:53+00:00"
+    },
     {
       "id": "46492f25",
       "image": "img/46492f25.png",
@@ -531,15 +540,6 @@
       "title": "Asciende a 1.943 la cifra de muertos y a 10.571 los heridos por los terremotos en Venezuela",
       "volanta": "catastrofe",
       "date": "2026-06-30T23:07:07+00:00"
-    },
-    {
-      "id": "2ff573a3",
-      "image": "img/2ff573a3.png",
-      "image_sha": "0f2f78ae17c1431c6de6e5fb1e54a95c8a119ad7",
-      "url": "https://www.radiodos.com.ar/210341-desde-que-asumio-milei-ya-se-recortaron-70-mil-empleos-en-la-administracion-publica",
-      "title": "Desde que asumió Milei ya se recortaron 70 mil empleos en la administración pública",
-      "volanta": "PLAN MOTOSIERRA",
-      "date": "2026-06-30T23:04:04+00:00"
     }
   ]
 }
