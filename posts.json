@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T13:33:12+00:00",
+  "updated": "2026-07-02T14:10:31+00:00",
   "posts": [
+    {
+      "id": "db27664e",
+      "image": "img/db27664e.png",
+      "image_sha": "397ba0255c926b9af77bdaa76cdaff5da3bdaed1",
+      "url": "https://www.radiodos.com.ar/210431-mundial-2026-como-esta-la-llave-y-los-partidos-de-hoy",
+      "title": "Mundial 2026: cómo está la llave y los partidos de hoy",
+      "volanta": "EEUU, CANADÁ, MÉXICO",
+      "date": "2026-07-02T14:10:31+00:00"
+    },
     {
       "id": "1ee499cf",
       "image": "img/1ee499cf.png",
@@ -531,15 +540,6 @@
       "title": "El equipo de judo regatense brilló en Tierra del Sol",
       "volanta": "Judo",
       "date": "2026-06-30T16:38:16+00:00"
-    },
-    {
-      "id": "8b5860b5",
-      "image": "img/8b5860b5.png",
-      "image_sha": "6955d6a1107738fc4e91c0d51c95e8a80524e647",
-      "url": "https://www.radiodos.com.ar/210319-la-eby-avanza-con-una-nueva-etapa-del-plan-de-renovacion-de-activos-de-generacion",
-      "title": "La EBY avanza con una nueva etapa del Plan de Renovación de Activos de Generación",
-      "volanta": "NOVEDADES",
-      "date": "2026-06-30T16:37:40+00:00"
     }
   ]
 }
