@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T22:48:54+00:00",
+  "updated": "2026-07-02T23:33:53+00:00",
   "posts": [
+    {
+      "id": "3c1b0bef",
+      "image": "img/3c1b0bef.png",
+      "image_sha": "cc8669b743978460868caa73ef374c2bd6c33a4c",
+      "url": "https://www.radiodos.com.ar/210465-traidores-a-la-patria-lula-da-silva-critico-a-la-familia-bolsonaro-por-su-actitud-servil-para-con-eeuu",
+      "title": "\"Traidores a la Patria\": Lula da Silva criticó a la familia Bolsonaro por su \"actitud servil\" para con EEUU",
+      "volanta": "BRASIL",
+      "date": "2026-07-02T23:33:53+00:00"
+    },
     {
       "id": "9ade8d69",
       "image": "img/9ade8d69.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Haaland y el sueño de Noruega llegan a octavos de final",
       "volanta": "En Dallas",
       "date": "2026-06-30T23:33:22+00:00"
-    },
-    {
-      "id": "cb0f580c",
-      "image": "img/cb0f580c.png",
-      "image_sha": "fdc8b4382d0884aa160f0109b1a359e6188000e0",
-      "url": "https://www.radiodos.com.ar/210342-cuanto-cobro-lionel-messi-por-el-trailer-de-spider-man",
-      "title": "Cuánto cobró Lionel Messi por el tráiler de \"Spider-Man\"",
-      "volanta": "CIFRAS MILLONARIAS",
-      "date": "2026-06-30T23:07:41+00:00"
     }
   ]
 }
