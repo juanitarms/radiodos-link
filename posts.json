@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T11:18:47+00:00",
+  "updated": "2026-07-02T11:53:19+00:00",
   "posts": [
+    {
+      "id": "8659e59d",
+      "image": "img/8659e59d.png",
+      "image_sha": "1ccdd8f43dc5152fca40c49be31fb236a2eb4406",
+      "url": "https://www.radiodos.com.ar/210413-juan-pablo-valdes-saludo-la-llegada-de-santilli-a-la-jefatura-de-gobierno",
+      "title": "Juan Pablo Valdés saludó la llegada de Santilli a la Jefatura de Gobierno",
+      "volanta": "EXPECTATIVAS",
+      "date": "2026-07-02T11:53:19+00:00"
+    },
     {
       "id": "75d61f2d",
       "image": "img/75d61f2d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: la familia de Melanie confirmó su muerte y acusó a su exnovio",
       "volanta": "SIGUEN BUSCANDO SU CUERPO",
       "date": "2026-06-30T14:22:11+00:00"
-    },
-    {
-      "id": "70479aee",
-      "image": "img/70479aee.png",
-      "image_sha": "638f4a2e0bec1751899847a28ad71c935440c347",
-      "url": "https://www.radiodos.com.ar/210305-declaracion-jose-pena-papa-del-nino-quiero-saber-la-verdad-loan-era-mi-vida",
-      "title": "Declaración José Peña, papá del niño: \"Quiero saber la verdad, Loan era mi vida\"",
-      "volanta": "JUICIO",
-      "date": "2026-06-30T14:04:01+00:00"
     }
   ]
 }
