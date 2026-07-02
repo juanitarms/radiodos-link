@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T12:18:30+00:00",
+  "updated": "2026-07-02T12:48:21+00:00",
   "posts": [
+    {
+      "id": "352711d6",
+      "image": "img/352711d6.png",
+      "image_sha": "72d6badf81050cc33280fdcad2db7c094a50368a",
+      "url": "https://www.radiodos.com.ar/210416-buscan-a-una-adolescente-que-se-ausento-de-su-hogar",
+      "title": "Buscan a una adolescente que se ausentó de su hogar",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-07-02T12:48:21+00:00"
+    },
     {
       "id": "b4478d68",
       "image": "img/b4478d68.png",
@@ -531,15 +540,6 @@
       "title": "Buscan una familia para un adolescente de 14 años que espera una oportunidad para crecer en un hogar",
       "volanta": "CONVOCATORIA NACIONAL",
       "date": "2026-06-30T15:04:32+00:00"
-    },
-    {
-      "id": "e63ede85",
-      "image": "img/e63ede85.png",
-      "image_sha": "28bbca65c3cdf1f1eeedafb5a1cbefe59e4949ad",
-      "url": "https://www.radiodos.com.ar/210318-la-muni-en-tu-barrio-inicia-su-recorrida-de-julio-en-el-independencia",
-      "title": "La Muni en tu barrio inicia su recorrida de julio en el Independencia",
-      "volanta": "SERVICIOS PARA LOS VECINOS",
-      "date": "2026-06-30T14:56:38+00:00"
     }
   ]
 }
