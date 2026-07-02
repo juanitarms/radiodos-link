@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T20:36:40+00:00",
+  "updated": "2026-07-02T20:37:15+00:00",
   "posts": [
+    {
+      "id": "dfb60a88",
+      "image": "img/dfb60a88.png",
+      "image_sha": "d74cf308691db19b5951f3da1862cf9dfccbae7d",
+      "url": "https://www.radiodos.com.ar/210454-jp-valdes-confirmo-que-un-inversor-extranjero-esta-interesado-en-financiar-el-segundo-puente-chaco-corrientes",
+      "title": "JP Valdés confirmó que un inversor extranjero está interesado en financiar el segundo puente Chaco-Corrientes",
+      "volanta": "ADELANTO DE RADIO DOS",
+      "date": "2026-07-02T20:37:15+00:00"
+    },
     {
       "id": "c2014d3f",
       "image": "img/c2014d3f.png",
@@ -531,15 +540,6 @@
       "title": "Tras el escándalo con Manuel Adorni, Diego Santilli juró como jefe de Gabinete",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-06-30T21:18:46+00:00"
-    },
-    {
-      "id": "0e24c1dc",
-      "image": "img/0e24c1dc.png",
-      "image_sha": "624ed62fbfe139c656c3ff5334062b24cafa0663",
-      "url": "https://www.radiodos.com.ar/210330-curuzu-cuatia-presento-la-5°-fiesta-provincial-del-locro",
-      "title": "Curuzú Cuatiá presentó la 5° Fiesta Provincial del Locro",
-      "volanta": "EN CASA DE GOBIERNO",
-      "date": "2026-06-30T20:38:33+00:00"
     }
   ]
 }
