@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T11:53:19+00:00",
+  "updated": "2026-07-02T12:04:57+00:00",
   "posts": [
+    {
+      "id": "e1634f95",
+      "image": "img/e1634f95.png",
+      "image_sha": "ec5b07fe77c0d04a5ebcfdf23ce579b050eb5e51",
+      "url": "https://www.radiodos.com.ar/210412-somu-cuestiono-a-los-capitanes-por-mas-pesca-desprecian-el-valor-de-la-vida",
+      "title": "SOMU cuestionó a los capitanes: \"Por más pesca, desprecian el valor de la vida\"",
+      "volanta": "EMBARCADIZO CAYÓ AL MAR",
+      "date": "2026-07-02T12:04:57+00:00"
+    },
     {
       "id": "8659e59d",
       "image": "img/8659e59d.png",
@@ -531,15 +540,6 @@
       "title": "Nagelsmann, tras la eliminación de Alemania: \"Si te saca Paraguay, no sos un equipo de élite\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-06-30T14:36:00+00:00"
-    },
-    {
-      "id": "21511329",
-      "image": "img/21511329.png",
-      "image_sha": "3ec079e50142729f06d3c0509835398e430f1760",
-      "url": "https://www.radiodos.com.ar/210312-corrientes-la-familia-de-melanie-confirmo-su-muerte-y-acuso-a-su-exnovio",
-      "title": "Corrientes: la familia de Melanie confirmó su muerte y acusó a su exnovio",
-      "volanta": "SIGUEN BUSCANDO SU CUERPO",
-      "date": "2026-06-30T14:22:11+00:00"
     }
   ]
 }
