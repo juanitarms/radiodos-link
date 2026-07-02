@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T13:14:03+00:00",
+  "updated": "2026-07-02T13:33:12+00:00",
   "posts": [
+    {
+      "id": "1ee499cf",
+      "image": "img/1ee499cf.png",
+      "image_sha": "d7577456f805c308e03f0b4772bc441da145f1a1",
+      "url": "https://www.radiodos.com.ar/210425-manuel-adorni-completo-su-salida-del-estado-presento-su-renuncia-al-directorio-de-ypf",
+      "title": "Manuel Adorni completó su salida del Estado: presentó su renuncia al directorio de YPF",
+      "volanta": "TRAS LA INVESTIGACIÓN",
+      "date": "2026-07-02T13:33:12+00:00"
+    },
     {
       "id": "8e151eb6",
       "image": "img/8e151eb6.png",
@@ -531,15 +540,6 @@
       "title": "La EBY avanza con una nueva etapa del Plan de Renovación de Activos de Generación",
       "volanta": "NOVEDADES",
       "date": "2026-06-30T16:37:40+00:00"
-    },
-    {
-      "id": "27bb6d6a",
-      "image": "img/27bb6d6a.png",
-      "image_sha": "6a3d623d61ff298851030a1afe65fb86e623e5ef",
-      "url": "https://www.radiodos.com.ar/210316-de-no-creer-se-cayo-lo-de-muniain-y-pipo-gorosito-quedo-a-un-paso-de-regresar-a-san-lorenzo",
-      "title": "De no creer: se cayó lo de Muniain y Pipo Gorosito quedó a un paso de regresar a San Lorenzo",
-      "volanta": "FÚTBOL ARGENTINO",
-      "date": "2026-06-30T16:37:06+00:00"
     }
   ]
 }
