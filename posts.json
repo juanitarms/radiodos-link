@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T20:35:35+00:00",
+  "updated": "2026-07-03T20:36:51+00:00",
   "posts": [
+    {
+      "id": "847a729a",
+      "image": "img/847a729a.png",
+      "image_sha": "87e3d3cd425a30305ff9e96b24e8b787a1b3edd5",
+      "url": "https://www.radiodos.com.ar/210508-​un-operario-de-la-dpec-resulto-herido-tras-ser-atacado-por-un-usuario",
+      "title": "​Un operario de la DPEC resultó herido tras ser atacado por un usuario",
+      "volanta": "En Lomas de Vallejos",
+      "date": "2026-07-03T20:36:51+00:00"
+    },
     {
       "id": "33498ddf",
       "image": "img/33498ddf.png",
@@ -531,15 +540,6 @@
       "title": "Inició el programa \"Sello Correntino de Calidad Turística\" para alojamientos en Empedrado",
       "volanta": "EN LA PERLA DEL PARANÁ",
       "date": "2026-07-01T20:42:34+00:00"
-    },
-    {
-      "id": "8e766e73",
-      "image": "img/8e766e73.png",
-      "image_sha": "722d00351a4ae655ede4bb6151ed9632bc9ce013",
-      "url": "https://www.radiodos.com.ar/210398-venezuela-confirman-2295-muertes-y-declaran-siete-dias-de-duelo-nacional",
-      "title": "Venezuela: confirman 2295 muertes y declaran siete días de duelo nacional",
-      "volanta": "CATASTROFE",
-      "date": "2026-07-01T20:39:38+00:00"
     }
   ]
 }
