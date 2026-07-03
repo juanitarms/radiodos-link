@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T16:41:45+00:00",
+  "updated": "2026-07-03T16:42:23+00:00",
   "posts": [
+    {
+      "id": "365cf7f8",
+      "image": "img/365cf7f8.png",
+      "image_sha": "64a858d93d1664c71c88d0540667ff0ce3bc07c0",
+      "url": "https://www.radiodos.com.ar/210484-la-desgarradora-carta-del-padre-de-agostina-vega-se-trata-del-femicidio-de-mi-hija",
+      "title": "La desgarradora carta del padre de Agostina Vega: \"Se trata del femicidio de mi hija\"",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-07-03T16:42:23+00:00"
+    },
     {
       "id": "3525f608",
       "image": "img/3525f608.png",
@@ -531,15 +540,6 @@
       "title": "Procesaron con prisión preventiva a la presunta viuda negra acusada de asesinar al socio de Martín Menem",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-01T16:29:44+00:00"
-    },
-    {
-      "id": "1794b38e",
-      "image": "img/1794b38e.png",
-      "image_sha": "60b091f2765545dbd6c0c513577d98c30ad3b302",
-      "url": "https://www.radiodos.com.ar/210383-asi-fue-el-violento-desalojo-de-trabajadores-en-la-cnea-por-parte-de-la-gendarmeria",
-      "title": "Así fue el violento desalojo de trabajadores en la CNEA por parte de la Gendarmería",
-      "volanta": "AJUSTE",
-      "date": "2026-07-01T14:59:01+00:00"
     }
   ]
 }
