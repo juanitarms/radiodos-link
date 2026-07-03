@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T16:42:23+00:00",
+  "updated": "2026-07-03T16:42:55+00:00",
   "posts": [
+    {
+      "id": "512bfdf5",
+      "image": "img/512bfdf5.png",
+      "image_sha": "a748c7395d4befb45bf726f7bc53381c1fab9252",
+      "url": "https://www.radiodos.com.ar/210489-axel-kicillof-con-gustavo-sylvestre-la-gestion-libertaria-esta-en-una-embestida-contra-la-provincia-de-buenos-aires",
+      "title": "Axel Kicillof con Gustavo Sylvestre: la gestión libertaria \"está en una embestida contra la provincia de Buenos Aires\"",
+      "volanta": "ANÁLISIS",
+      "date": "2026-07-03T16:42:55+00:00"
+    },
     {
       "id": "365cf7f8",
       "image": "img/365cf7f8.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno dispuso nuevas subas en las tarifas de luz y gas y prorrogó beneficios para morigerar el impacto",
       "volanta": "MÁS AJUSTES",
       "date": "2026-07-01T16:30:18+00:00"
-    },
-    {
-      "id": "5e493d33",
-      "image": "img/5e493d33.png",
-      "image_sha": "da68dbbf25dc441dd9c9aba72a7d9bab66e390ba",
-      "url": "https://www.radiodos.com.ar/210384-procesaron-con-prision-preventiva-a-la-presunta-viuda-negra-acusada-de-asesinar-al-socio-de-martin-menem",
-      "title": "Procesaron con prisión preventiva a la presunta viuda negra acusada de asesinar al socio de Martín Menem",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-01T16:29:44+00:00"
     }
   ]
 }
