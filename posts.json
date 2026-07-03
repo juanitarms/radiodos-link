@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T14:55:33+00:00",
+  "updated": "2026-07-03T15:04:14+00:00",
   "posts": [
+    {
+      "id": "a2c11afa",
+      "image": "img/a2c11afa.png",
+      "image_sha": "dc9d8025d975d8a80603634f4f3622bf583e745a",
+      "url": "https://www.radiodos.com.ar/210485-causa-libra-la-justicia-aparto-a-los-querellantes",
+      "title": "Causa $LIBRA: la Justicia apartó a los querellantes",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-03T15:04:14+00:00"
+    },
     {
       "id": "22361579",
       "image": "img/22361579.png",
@@ -531,15 +540,6 @@
       "title": "La desafortunada frase de Santiago del Moro sobre Laura Ubfal: \"Si fuera 90-60-90...\"",
       "volanta": "INDIGNANTE",
       "date": "2026-07-01T14:50:28+00:00"
-    },
-    {
-      "id": "d1002b29",
-      "image": "img/d1002b29.png",
-      "image_sha": "68c035a0fc2bf314605610fc28c48a4b0623c637",
-      "url": "https://www.radiodos.com.ar/210367-citaron-como-testigos-a-dos-funcionarios-que-compraron-bienes-para-manuel-adorni",
-      "title": "Citaron como testigos a dos funcionarios que compraron bienes para Manuel Adorni",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-07-01T14:34:09+00:00"
     }
   ]
 }
