@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T14:38:49+00:00",
+  "updated": "2026-07-03T14:55:33+00:00",
   "posts": [
+    {
+      "id": "22361579",
+      "image": "img/22361579.png",
+      "image_sha": "8edb5a0fcc8aaca5aab83ac33ef1eba50e969b4d",
+      "url": "https://www.radiodos.com.ar/210474-juan-pablo-valdes-esperamos-recuperar-un-poco-la-recaudacion-para-analizar-el-tercer-anuncio-salarial-del-ano",
+      "title": "Juan Pablo Valdés: \"Esperamos recuperar un poco la recaudación para analizar el tercer anuncio salarial del año\"",
+      "volanta": "RONDA DE PRENSA",
+      "date": "2026-07-03T14:55:33+00:00"
+    },
     {
       "id": "1df0e594",
       "image": "img/1df0e594.png",
@@ -531,15 +540,6 @@
       "title": "Citaron como testigos a dos funcionarios que compraron bienes para Manuel Adorni",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-07-01T14:34:09+00:00"
-    },
-    {
-      "id": "9e87c616",
-      "image": "img/9e87c616.png",
-      "image_sha": "7b5f0ea7ee81b6ac20cdc2ebe9f77f25c7464d28",
-      "url": "https://www.radiodos.com.ar/210361-en-cabo-verde-suenan-con-el-gran-batacazo-frente-a-argentina-vamos-a-ganar-1-0",
-      "title": "En Cabo Verde sueñan con el gran batacazo frente a Argentina: \"Vamos a ganar 1-0\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-01T14:09:33+00:00"
     }
   ]
 }
