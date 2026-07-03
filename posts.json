@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-02T23:33:53+00:00",
+  "updated": "2026-07-03T10:29:25+00:00",
   "posts": [
+    {
+      "id": "fce273c2",
+      "image": "img/fce273c2.png",
+      "image_sha": "6c5ac248eeab1a1271a7b3558388456bc25e3867",
+      "url": "https://www.radiodos.com.ar/210466-se-cumple-la-alerta-amarilla-por-frio-extremo-en-corrientes",
+      "title": "Se cumple la Alerta Amarilla por frío extremo en Corrientes",
+      "volanta": "AHORA",
+      "date": "2026-07-03T10:29:25+00:00"
+    },
     {
       "id": "3c1b0bef",
       "image": "img/3c1b0bef.png",
@@ -531,15 +540,6 @@
       "title": "WhatsApp sin número de teléfono: cómo registrar tu nombre de usuario",
       "volanta": "NOVEDAD",
       "date": "2026-06-30T23:45:12+00:00"
-    },
-    {
-      "id": "c3962dc3",
-      "image": "img/c3962dc3.png",
-      "image_sha": "94dac732a1f4adeef4857cd83eb7a01c90179e95",
-      "url": "https://www.radiodos.com.ar/210344-mundial-2026-haaland-y-el-sueno-de-noruega-llegan-a-octavos-de-final",
-      "title": "Mundial 2026: Haaland y el sueño de Noruega llegan a octavos de final",
-      "volanta": "En Dallas",
-      "date": "2026-06-30T23:33:22+00:00"
     }
   ]
 }
