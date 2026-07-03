@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T15:04:14+00:00",
+  "updated": "2026-07-03T16:41:45+00:00",
   "posts": [
+    {
+      "id": "3525f608",
+      "image": "img/3525f608.png",
+      "image_sha": "1656001eaaa09d83b807953cca3896fda1ccb3f2",
+      "url": "https://www.radiodos.com.ar/210486-un-delincuente-le-apunto-con-un-arma-a-una-mujer-mientras-estaba-detenida-en-un-semaforo",
+      "title": "Un delincuente le apuntó con un arma a una mujer mientras estaba detenida en un semáforo",
+      "volanta": "Video",
+      "date": "2026-07-03T16:41:45+00:00"
+    },
     {
       "id": "a2c11afa",
       "image": "img/a2c11afa.png",
@@ -531,15 +540,6 @@
       "title": "Así fue el violento desalojo de trabajadores en la CNEA por parte de la Gendarmería",
       "volanta": "AJUSTE",
       "date": "2026-07-01T14:59:01+00:00"
-    },
-    {
-      "id": "1f61f61e",
-      "image": "img/1f61f61e.png",
-      "image_sha": "b0a7f2e49a1c90050ccb116781289f3ad9ac83ce",
-      "url": "https://www.radiodos.com.ar/210379-la-desafortunada-frase-de-santiago-del-moro-sobre-laura-ubfal-si-fuera-90-60-90",
-      "title": "La desafortunada frase de Santiago del Moro sobre Laura Ubfal: \"Si fuera 90-60-90...\"",
-      "volanta": "INDIGNANTE",
-      "date": "2026-07-01T14:50:28+00:00"
     }
   ]
 }
