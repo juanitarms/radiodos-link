@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T20:36:51+00:00",
+  "updated": "2026-07-03T21:57:30+00:00",
   "posts": [
+    {
+      "id": "41fc2c9e",
+      "image": "img/41fc2c9e.png",
+      "image_sha": "fd1bc53557fed7046cf2c24dfa7b14a863037616",
+      "url": "https://www.radiodos.com.ar/210511-prefectura-desarticula-una-banda-detiene-a-dos-personas-y-secuestra-bienes-por-69-millones",
+      "title": "Prefectura desarticula una banda, detiene a dos personas y secuestra bienes por $69 millones",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-03T21:57:30+00:00"
+    },
     {
       "id": "847a729a",
       "image": "img/847a729a.png",
@@ -531,15 +540,6 @@
       "title": "El río Uruguay sigue en ascenso en la costa de Corrientes: sube cuatro centímetro por hora",
       "volanta": "ALERTA",
       "date": "2026-07-01T20:43:30+00:00"
-    },
-    {
-      "id": "502972cc",
-      "image": "img/502972cc.png",
-      "image_sha": "e564aa657580e638d4a4bcbce850239b925b21ac",
-      "url": "https://www.radiodos.com.ar/210397-inicio-el-programa-sello-correntino-de-calidad-turistica-para-alojamientos-en-empedrado",
-      "title": "Inició el programa \"Sello Correntino de Calidad Turística\" para alojamientos en Empedrado",
-      "volanta": "EN LA PERLA DEL PARANÁ",
-      "date": "2026-07-01T20:42:34+00:00"
     }
   ]
 }
