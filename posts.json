@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T17:49:34+00:00",
+  "updated": "2026-07-03T18:50:50+00:00",
   "posts": [
+    {
+      "id": "ed556aad",
+      "image": "img/ed556aad.png",
+      "image_sha": "cd79fae74858e94d8f389cd9ab2da7ebc9385233",
+      "url": "https://www.radiodos.com.ar/210491-ciro-martinez-hizo-delirar-a-los-hinchas-argentinos-con-el-himno-hasta-que-llego-la-policia-de-miami",
+      "title": "Ciro Martínez hizo delirar a los hinchas argentinos con el Himno, hasta que llegó la Policía de Miami",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-03T18:50:50+00:00"
+    },
     {
       "id": "cc6877f9",
       "image": "img/cc6877f9.png",
@@ -531,15 +540,6 @@
       "title": "Valdés y Zdero acompañaron el acto de asunción de Larroza en la UNNE",
       "volanta": "DEFENSA DE LA EDUCACIÓN PÚBLICA",
       "date": "2026-07-01T17:57:48+00:00"
-    },
-    {
-      "id": "2ca08499",
-      "image": "img/2ca08499.png",
-      "image_sha": "368ef5a8b6787a2e0599a69cd5f7214e84409bf4",
-      "url": "https://www.radiodos.com.ar/210387-un-sismo-sacudio-varias-ciudades-de-cordoba-en-plena-madrugada",
-      "title": "Un sismo sacudió varias ciudades de Córdoba en plena madrugada",
-      "volanta": "ALERTA",
-      "date": "2026-07-01T17:57:14+00:00"
     }
   ]
 }
