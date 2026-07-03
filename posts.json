@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T10:29:25+00:00",
+  "updated": "2026-07-03T11:03:38+00:00",
   "posts": [
+    {
+      "id": "b6a9f735",
+      "image": "img/b6a9f735.png",
+      "image_sha": "a84de8f35ac59c301bcac882f63cc256dea7849f",
+      "url": "https://www.radiodos.com.ar/210467-corrientes-le-prendieron-fuego-el-auto-por-denunciar-a-pandillas-de-violentos",
+      "title": "Corrientes: le prendieron fuego el auto por denunciar a pandillas de violentos",
+      "volanta": "VIOLENCIA URBANA",
+      "date": "2026-07-03T11:03:38+00:00"
+    },
     {
       "id": "fce273c2",
       "image": "img/fce273c2.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Francia es cosa seria y goleó mientras que Mbappé es goleador",
       "volanta": "En New Jersey",
       "date": "2026-07-01T10:33:55+00:00"
-    },
-    {
-      "id": "1d59b0f7",
-      "image": "img/1d59b0f7.png",
-      "image_sha": "23d693f8a8145b503e047fbe4cfdbdedd6098580",
-      "url": "https://www.radiodos.com.ar/210333-whatsapp-sin-numero-de-telefono-como-registrar-tu-nombre-de-usuario",
-      "title": "WhatsApp sin número de teléfono: cómo registrar tu nombre de usuario",
-      "volanta": "NOVEDAD",
-      "date": "2026-06-30T23:45:12+00:00"
     }
   ]
 }
