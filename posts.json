@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T18:51:55+00:00",
+  "updated": "2026-07-03T20:30:03+00:00",
   "posts": [
+    {
+      "id": "2daa1873",
+      "image": "img/2daa1873.png",
+      "image_sha": "67e489ee5269f57582a0afd06fb242cc27afffe0",
+      "url": "https://www.radiodos.com.ar/210505-el-gobierno-de-corrientes-otorga-subsidios-a-60-cuarteles-de-bomberos-ante-la-emergencia-climatica",
+      "title": "El Gobierno de Corrientes otorga subsidios a 60 cuarteles de bomberos ante la emergencia climática",
+      "volanta": "APOYO ESTATAL",
+      "date": "2026-07-03T20:30:03+00:00"
+    },
     {
       "id": "84bcfb88",
       "image": "img/84bcfb88.png",
@@ -531,15 +540,6 @@
       "title": "Mburucuyá impulsa la producción avícola para aumentar la oferta de alimentos",
       "volanta": "ACTIVIDAD",
       "date": "2026-07-01T18:41:25+00:00"
-    },
-    {
-      "id": "6de7e00c",
-      "image": "img/6de7e00c.png",
-      "image_sha": "adbbbf3dd1d4ea3f4c7d4211bd5c5313b09f9dd9",
-      "url": "https://www.radiodos.com.ar/210392-mandarinas-al-sol-celebra-15-anos",
-      "title": "\"Mandarinas al Sol\" celebra 15 años",
-      "volanta": "TEATRO",
-      "date": "2026-07-01T18:40:47+00:00"
     }
   ]
 }
