@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T12:51:38+00:00",
+  "updated": "2026-07-03T13:04:35+00:00",
   "posts": [
+    {
+      "id": "ab2c143b",
+      "image": "img/ab2c143b.png",
+      "image_sha": "d5c07b07d73f357eb926dfeefadf941931800d8c",
+      "url": "https://www.radiodos.com.ar/210475-corrientes-cerca-regresa-a-capital-con-un-amplio-operativo-integral",
+      "title": "\"Corrientes Cerca\" regresa a Capital con un amplio operativo integral",
+      "volanta": "DESPLIEGUE TERRITORIAL",
+      "date": "2026-07-03T13:04:35+00:00"
+    },
     {
       "id": "49d50979",
       "image": "img/49d50979.png",
@@ -531,15 +540,6 @@
       "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
       "volanta": "DE INTERES",
       "date": "2026-07-01T12:49:25+00:00"
-    },
-    {
-      "id": "12210e45",
-      "image": "img/12210e45.png",
-      "image_sha": "a64ebde098599ada30ea9303037d4d7b5c3d2f98",
-      "url": "https://www.radiodos.com.ar/210359-mundial-2026-posiciones-cuadro-de-16vos-de-final-y-clasificados-a-octavos-de-final",
-      "title": "Mundial 2026: posiciones, cuadro de 16vos de final y clasificados a octavos de final",
-      "volanta": "Minuto a minuto",
-      "date": "2026-07-01T12:33:43+00:00"
     }
   ]
 }
