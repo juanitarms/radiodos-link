@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T17:49:00+00:00",
+  "updated": "2026-07-03T17:49:34+00:00",
   "posts": [
+    {
+      "id": "cc6877f9",
+      "image": "img/cc6877f9.png",
+      "image_sha": "69d65f184e4d205b99253bf7ea2fb6e520e3c37c",
+      "url": "https://www.radiodos.com.ar/210490-pincoya-estallo-en-llanto-y-furia-tras-la-visita-de-su-hermana-en-gran-hermano-por-que-no-me-lo-trajiste",
+      "title": "Pincoya estalló en llanto y furia tras la visita de su hermana en Gran Hermano: \"¿Por qué no me lo trajiste?\"",
+      "volanta": "ENOJADA",
+      "date": "2026-07-03T17:49:34+00:00"
+    },
     {
       "id": "3a4f8f6e",
       "image": "img/3a4f8f6e.png",
@@ -531,15 +540,6 @@
       "title": "Un sismo sacudió varias ciudades de Córdoba en plena madrugada",
       "volanta": "ALERTA",
       "date": "2026-07-01T17:57:14+00:00"
-    },
-    {
-      "id": "eae34add",
-      "image": "img/eae34add.png",
-      "image_sha": "7d27eaf8dec8f941903dbac15547d4a5d1acb127",
-      "url": "https://www.radiodos.com.ar/210388-neuquen-un-chico-de-13-anos-fue-herido-de-bala-por-un-companero-en-una-escuela",
-      "title": "Neuquén: un chico de 13 años fue herido de bala por un compañero en una escuela",
-      "volanta": "TERRIBLE",
-      "date": "2026-07-01T17:56:37+00:00"
     }
   ]
 }
