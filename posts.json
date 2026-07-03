@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T20:30:03+00:00",
+  "updated": "2026-07-03T20:33:22+00:00",
   "posts": [
+    {
+      "id": "e31d706f",
+      "image": "img/e31d706f.png",
+      "image_sha": "2be4da5e9aae4383a667c3211975582f8967a8e7",
+      "url": "https://www.radiodos.com.ar/210507-este-martes-7-de-julio-inicia-el-pago-del-plus-municipal",
+      "title": "Este martes 7 de julio inicia el pago del plus municipal",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-03T20:33:22+00:00"
+    },
     {
       "id": "2daa1873",
       "image": "img/2daa1873.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: uno de los hermanos reveló un llamado donde le ofrecían \"negociar por el nene\"",
       "volanta": "SEXTA AUDIENCIA",
       "date": "2026-07-01T20:37:48+00:00"
-    },
-    {
-      "id": "378b2d39",
-      "image": "img/378b2d39.png",
-      "image_sha": "e6d8a52364ea3820c76a294de58942162e35fe66",
-      "url": "https://www.radiodos.com.ar/210393-mburucuya-impulsa-la-produccion-avicola-para-aumentar-la-oferta-de-alimentos",
-      "title": "Mburucuyá impulsa la producción avícola para aumentar la oferta de alimentos",
-      "volanta": "ACTIVIDAD",
-      "date": "2026-07-01T18:41:25+00:00"
     }
   ]
 }
