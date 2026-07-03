@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T11:03:38+00:00",
+  "updated": "2026-07-03T11:19:03+00:00",
   "posts": [
+    {
+      "id": "40f9375f",
+      "image": "img/40f9375f.png",
+      "image_sha": "38f2472051210689fbb1487857d8c6be91d19e35",
+      "url": "https://www.radiodos.com.ar/210468-investigan-si-los-tratamientos-para-la-psoriasis-alteran-la-presencia-de-un-acaro-que-vive-en-la-piel",
+      "title": "Investigan si los tratamientos para la psoriasis alteran la presencia de un ácaro que vive en la piel",
+      "volanta": "UNNE",
+      "date": "2026-07-03T11:19:03+00:00"
+    },
     {
       "id": "b6a9f735",
       "image": "img/b6a9f735.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan Peña: continúa hoy la ronda de testimonios de familiares del niño",
       "volanta": "SEXTA JORNADA",
       "date": "2026-07-01T10:54:00+00:00"
-    },
-    {
-      "id": "a49e7ba2",
-      "image": "img/a49e7ba2.png",
-      "image_sha": "754946821fdfa6b3beedd1df17880535a0cfba0d",
-      "url": "https://www.radiodos.com.ar/210346-mundial-2026-francia-es-cosa-seria-y-goleo-mientras-que-mbappe-es-goleador",
-      "title": "Mundial 2026: Francia es cosa seria y goleó mientras que Mbappé es goleador",
-      "volanta": "En New Jersey",
-      "date": "2026-07-01T10:33:55+00:00"
     }
   ]
 }
