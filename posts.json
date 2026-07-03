@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T23:00:33+00:00",
+  "updated": "2026-07-03T23:01:07+00:00",
   "posts": [
+    {
+      "id": "0920a8b1",
+      "image": "img/0920a8b1.png",
+      "image_sha": "0a798e5390abac5dfd910f2c0acdfdfbd40ad5f0",
+      "url": "https://www.radiodos.com.ar/210512-mundial-2026-egipto-gano-por-penales-y-espera-por-argentina-o-cabo-verde",
+      "title": "Mundial 2026: Egipto ganó por penales y espera por Argentina o Cabo Verde",
+      "volanta": "En Dallas",
+      "date": "2026-07-03T23:01:07+00:00"
+    },
     {
       "id": "c28b6c47",
       "image": "img/c28b6c47.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno y las consultoras proyectan que la inflación de junio se ubicó debajo del 2%",
       "volanta": "EXPECTATIVA",
       "date": "2026-07-01T21:37:44+00:00"
-    },
-    {
-      "id": "39ea4737",
-      "image": "img/39ea4737.png",
-      "image_sha": "99a8c5a3d58d2660ce40c4873ebe1a15447bb9dd",
-      "url": "https://www.radiodos.com.ar/210395-funcionarios-complicaron-mas-adorni-confirmaron-compras-millonarias-con-tarjetas-de-credito",
-      "title": "Funcionarios complicaron más Adorni: confirmaron compras millonarias con tarjetas de crédito",
-      "volanta": "AVANZA LA INVESTIGACIÓN",
-      "date": "2026-07-01T20:46:55+00:00"
     }
   ]
 }
