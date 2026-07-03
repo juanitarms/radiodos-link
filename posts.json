@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T11:19:03+00:00",
+  "updated": "2026-07-03T11:53:21+00:00",
   "posts": [
+    {
+      "id": "c637d28f",
+      "image": "img/c637d28f.png",
+      "image_sha": "4aa980f4a438108a5ddef3365c3fe3687e505004",
+      "url": "https://www.radiodos.com.ar/210469-camau-por-las-paso-hay-que-analizar-que-le-conviene-a-corrientes",
+      "title": "Camau, por las PASO: \"Hay que analizar qué le conviene a Corrientes\"",
+      "volanta": "POSTURA INDEFINIDA",
+      "date": "2026-07-03T11:53:21+00:00"
+    },
     {
       "id": "40f9375f",
       "image": "img/40f9375f.png",
@@ -531,15 +540,6 @@
       "title": "Revelaron con qué famosa habló Ernestina Pais 25 minutos antes de su trágica muerte",
       "volanta": "Estremecedor",
       "date": "2026-07-01T11:38:07+00:00"
-    },
-    {
-      "id": "f5d8e337",
-      "image": "img/f5d8e337.png",
-      "image_sha": "e59a90603a498358e5c7bdbdc6d3c9b632018546",
-      "url": "https://www.radiodos.com.ar/210349-juicio-por-loan-pena-continua-hoy-la-ronda-de-testimonios-de-familiares-del-nino",
-      "title": "Juicio por Loan Peña: continúa hoy la ronda de testimonios de familiares del niño",
-      "volanta": "SEXTA JORNADA",
-      "date": "2026-07-01T10:54:00+00:00"
     }
   ]
 }
