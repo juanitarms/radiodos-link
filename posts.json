@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T11:53:21+00:00",
+  "updated": "2026-07-03T12:09:35+00:00",
   "posts": [
+    {
+      "id": "f77c5926",
+      "image": "img/f77c5926.png",
+      "image_sha": "686117abd12e2171f190105c0875640826d9c3f2",
+      "url": "https://www.radiodos.com.ar/210470-la-municipalidad-de-corrientes-incorpora-mas-de-40-vehiculos-0-km-para-fortalecer-y-ampliar-los-servicios-a-los-vecinos",
+      "title": "La Municipalidad de Corrientes incorpora más de 40 vehículos 0 km para fortalecer y ampliar los servicios a los vecinos",
+      "volanta": "PRESENCIA INSTITUCIONAL",
+      "date": "2026-07-03T12:09:35+00:00"
+    },
     {
       "id": "c637d28f",
       "image": "img/c637d28f.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: México superó a Ecuador y avanzó a octavos de final",
       "volanta": "2 a 0",
       "date": "2026-07-01T12:03:50+00:00"
-    },
-    {
-      "id": "7734f91a",
-      "image": "img/7734f91a.png",
-      "image_sha": "f47d10b60d0f11cd2f6ffdb7f4a1b58fec66038f",
-      "url": "https://www.radiodos.com.ar/210345-revelaron-con-que-famosa-hablo-ernestina-pais-25-minutos-antes-de-su-tragica-muerte",
-      "title": "Revelaron con qué famosa habló Ernestina Pais 25 minutos antes de su trágica muerte",
-      "volanta": "Estremecedor",
-      "date": "2026-07-01T11:38:07+00:00"
     }
   ]
 }
