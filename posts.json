@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T13:04:35+00:00",
+  "updated": "2026-07-03T13:54:54+00:00",
   "posts": [
+    {
+      "id": "14bec049",
+      "image": "img/14bec049.png",
+      "image_sha": "620c227d5d1b14cd80edf31f4e877f04e2f8f478",
+      "url": "https://www.radiodos.com.ar/210479-jornada-de-capacitacion-del-programa-detectar-dengue",
+      "title": "Jornada de capacitación del Programa Detectar Dengue",
+      "volanta": "Paso de los Libres",
+      "date": "2026-07-03T13:54:54+00:00"
+    },
     {
       "id": "ab2c143b",
       "image": "img/ab2c143b.png",
@@ -531,15 +540,6 @@
       "title": "Poesía, chamamé, cultura guaraní y homenajes serán protagonistas de la 16ª Feria Provincial del Libro",
       "volanta": "DEL 7 AL 18 DE JULIO",
       "date": "2026-07-01T13:11:46+00:00"
-    },
-    {
-      "id": "7176aabd",
-      "image": "img/7176aabd.png",
-      "image_sha": "7084d5f3eeddfce39555ecd2e80db07e12f70de6",
-      "url": "https://www.radiodos.com.ar/210364-dpec-ofrece-un-plan-integral-de-regularizacion-comercial-con-importantes-beneficios",
-      "title": "DPEC ofrece un plan integral de regularización comercial con importantes beneficios",
-      "volanta": "DE INTERES",
-      "date": "2026-07-01T12:49:25+00:00"
     }
   ]
 }
