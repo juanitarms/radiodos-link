@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T17:48:23+00:00",
+  "updated": "2026-07-03T17:49:00+00:00",
   "posts": [
+    {
+      "id": "3a4f8f6e",
+      "image": "img/3a4f8f6e.png",
+      "image_sha": "f2753aec22e4e5260095c0ea2d41e0bb34eaa96f",
+      "url": "https://www.radiodos.com.ar/210487-el-gobierno-elimino-el-ministerio-interior-y-diego-santilli-asume-mas-responsabilidades",
+      "title": "El Gobierno eliminó el Ministerio Interior y Diego Santilli asume más responsabilidades",
+      "volanta": "CAMBIOS",
+      "date": "2026-07-03T17:49:00+00:00"
+    },
     {
       "id": "908c8542",
       "image": "img/908c8542.png",
@@ -531,15 +540,6 @@
       "title": "Neuquén: un chico de 13 años fue herido de bala por un compañero en una escuela",
       "volanta": "TERRIBLE",
       "date": "2026-07-01T17:56:37+00:00"
-    },
-    {
-      "id": "c09ad59c",
-      "image": "img/c09ad59c.png",
-      "image_sha": "e5e6dcdbc63388920efd0c0304d9e29d20be6e1b",
-      "url": "https://www.radiodos.com.ar/210389-dijo-que-habia-tomado-un-remedio-pero-estaba-totalmente-borracho",
-      "title": "Dijo que había tomado un remedio, pero estaba totalmente borracho",
-      "volanta": "CHUBUT",
-      "date": "2026-07-01T16:30:53+00:00"
     }
   ]
 }
