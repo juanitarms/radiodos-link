@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T21:57:30+00:00",
+  "updated": "2026-07-03T23:00:33+00:00",
   "posts": [
+    {
+      "id": "c28b6c47",
+      "image": "img/c28b6c47.png",
+      "image_sha": "45c0d966acdc0a3dc0a067a32431579e5849f2c1",
+      "url": "https://www.radiodos.com.ar/210510-elevan-a-2645-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela",
+      "title": "Elevan a 2.645 la cifra de muertos por el doble terremoto en Venezuela",
+      "volanta": "Catástrofe",
+      "date": "2026-07-03T23:00:33+00:00"
+    },
     {
       "id": "41fc2c9e",
       "image": "img/41fc2c9e.png",
@@ -531,15 +540,6 @@
       "title": "Funcionarios complicaron más Adorni: confirmaron compras millonarias con tarjetas de crédito",
       "volanta": "AVANZA LA INVESTIGACIÓN",
       "date": "2026-07-01T20:46:55+00:00"
-    },
-    {
-      "id": "6ee09876",
-      "image": "img/6ee09876.png",
-      "image_sha": "d3abda0aa0de48fba0adc0b5dff34e99130c3ad5",
-      "url": "https://www.radiodos.com.ar/210396-el-rio-uruguay-sigue-en-ascenso-en-la-costa-de-corrientes-sube-cuatro-centimetro-por-hora",
-      "title": "El río Uruguay sigue en ascenso en la costa de Corrientes: sube cuatro centímetro por hora",
-      "volanta": "ALERTA",
-      "date": "2026-07-01T20:43:30+00:00"
     }
   ]
 }
