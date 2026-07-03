@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T12:09:35+00:00",
+  "updated": "2026-07-03T12:51:38+00:00",
   "posts": [
+    {
+      "id": "49d50979",
+      "image": "img/49d50979.png",
+      "image_sha": "0773f2ee74ca621d28d036afa8ab7753aba515ca",
+      "url": "https://www.radiodos.com.ar/210472-corrientes-violento-ataque-de-motochorros-a-una-joven-para-robarle-una-mochila",
+      "title": "Corrientes: violento ataque de motochorros a una joven para robarle una mochila",
+      "volanta": "BARRIO JARDIN",
+      "date": "2026-07-03T12:51:38+00:00"
+    },
     {
       "id": "f77c5926",
       "image": "img/f77c5926.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: posiciones, cuadro de 16vos de final y clasificados a octavos de final",
       "volanta": "Minuto a minuto",
       "date": "2026-07-01T12:33:43+00:00"
-    },
-    {
-      "id": "a04ba875",
-      "image": "img/a04ba875.png",
-      "image_sha": "959790a291774f6b777c66ddca3907451524949e",
-      "url": "https://www.radiodos.com.ar/210348-mundial-2026-mexico-supero-a-ecuador-y-avanzo-a-octavos-de-final",
-      "title": "Mundial 2026: México superó a Ecuador y avanzó a octavos de final",
-      "volanta": "2 a 0",
-      "date": "2026-07-01T12:03:50+00:00"
     }
   ]
 }
