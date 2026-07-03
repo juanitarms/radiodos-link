@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T13:54:54+00:00",
+  "updated": "2026-07-03T14:05:20+00:00",
   "posts": [
+    {
+      "id": "c0ed40d4",
+      "image": "img/c0ed40d4.png",
+      "image_sha": "0ccfb47fe81fef7b643a8d2394c0e29981260225",
+      "url": "https://www.radiodos.com.ar/210481-rodrigo-de-paul-diafano-scaloni-nos-enseno-que-no-somos-jugadores-de-futbol",
+      "title": "Rodrigo de Paul, diáfano: \"Scaloni nos enseñó que no somos jugadores de fútbol\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-03T14:05:20+00:00"
+    },
     {
       "id": "14bec049",
       "image": "img/14bec049.png",
@@ -531,15 +540,6 @@
       "title": "Los 11 de Lionel Scaloni para los 16avos de final ante Cabo Verde",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-01T13:34:54+00:00"
-    },
-    {
-      "id": "227a73e2",
-      "image": "img/227a73e2.png",
-      "image_sha": "32fe7c80a51620d6d2d8e30df96aabd183ec9c16",
-      "url": "https://www.radiodos.com.ar/210353-poesia-chamame-cultura-guarani-y-homenajes-seran-protagonistas-de-la-16-feria-provincial-del-libro",
-      "title": "Poesía, chamamé, cultura guaraní y homenajes serán protagonistas de la 16ª Feria Provincial del Libro",
-      "volanta": "DEL 7 AL 18 DE JULIO",
-      "date": "2026-07-01T13:11:46+00:00"
     }
   ]
 }
