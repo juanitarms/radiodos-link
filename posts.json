@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-04T00:09:15+00:00",
+  "updated": "2026-07-04T01:17:25+00:00",
   "posts": [
+    {
+      "id": "e3248e1f",
+      "image": "img/e3248e1f.png",
+      "image_sha": "f13ce2acb90d91a140c9094cdf015fd0b1221d9b",
+      "url": "https://www.radiodos.com.ar/210514-mundial-2026-argentina-sufrio-mucho-pero-pudo-superar-el-escollo-de-los-tiburones-azules",
+      "title": "Mundial 2026: Argentina sufrió mucho, pero pudo superar el escollo de los Tiburones Azules",
+      "volanta": "En Miami",
+      "date": "2026-07-04T01:17:25+00:00"
+    },
     {
       "id": "de40dfc6",
       "image": "img/de40dfc6.png",
@@ -531,15 +540,6 @@
       "title": "Murió el actor Santiago Ríos, conocido por sus papeles en \"Los Simuladores\" y \"Los Roldán\"",
       "volanta": "TRISTE NOTICIA",
       "date": "2026-07-01T22:29:13+00:00"
-    },
-    {
-      "id": "9c4e9c4f",
-      "image": "img/9c4e9c4f.png",
-      "image_sha": "3483d0229b3d76ec4595f9e8fffeefd8fbe0b678",
-      "url": "https://www.radiodos.com.ar/210400-detienen-a-cuatro-personas-por-depredacion-de-fauna-en-corrientes",
-      "title": "Detienen a cuatro personas por depredación de fauna en Corrientes",
-      "volanta": "Operativo en Ruta 117",
-      "date": "2026-07-01T21:40:06+00:00"
     }
   ]
 }
