@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T23:01:07+00:00",
+  "updated": "2026-07-04T00:09:15+00:00",
   "posts": [
+    {
+      "id": "de40dfc6",
+      "image": "img/de40dfc6.png",
+      "image_sha": "47188451e9e27eaea9fd82b94531bb3824e75640",
+      "url": "https://www.radiodos.com.ar/210513-mundial-2026-messi-anoto-su-20°-gol-en-mundiales-y-la-scaloneta-enfrentara-a-egipto",
+      "title": "Mundial 2026: Messi anotó su 20° gol en mundiales y la Scaloneta enfrentará a Egipto",
+      "volanta": "En Miami",
+      "date": "2026-07-04T00:09:15+00:00"
+    },
     {
       "id": "0920a8b1",
       "image": "img/0920a8b1.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a cuatro personas por depredación de fauna en Corrientes",
       "volanta": "Operativo en Ruta 117",
       "date": "2026-07-01T21:40:06+00:00"
-    },
-    {
-      "id": "cdeb1bd4",
-      "image": "img/cdeb1bd4.png",
-      "image_sha": "dec9533717451533059de802c67e60c039bcd1eb",
-      "url": "https://www.radiodos.com.ar/210399-el-gobierno-y-las-consultoras-proyectan-que-la-inflacion-de-junio-se-ubico-debajo-del-2",
-      "title": "El Gobierno y las consultoras proyectan que la inflación de junio se ubicó debajo del 2%",
-      "volanta": "EXPECTATIVA",
-      "date": "2026-07-01T21:37:44+00:00"
     }
   ]
 }
