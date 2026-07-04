@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-04T12:06:53+00:00",
+  "updated": "2026-07-04T15:28:00+00:00",
   "posts": [
+    {
+      "id": "b7acfb14",
+      "image": "img/b7acfb14.png",
+      "image_sha": "a1dd62b9fd4e886bfb4ef3d2c4b0fe604abf2f30",
+      "url": "https://www.radiodos.com.ar/210520-otro-gran-exito-del-fan-fest-municipal-una-multitud-alento-a-la-seleccion-y-le-puso-calor-al-invierno",
+      "title": "Otro gran éxito del Fan Fest municipal: una multitud alentó a la Selección y le puso calor al invierno",
+      "volanta": "FERVOR CORRENTINO",
+      "date": "2026-07-04T15:28:00+00:00"
+    },
     {
       "id": "b1f82345",
       "image": "img/b1f82345.png",
@@ -531,15 +540,6 @@
       "title": "Casi la mitad de los estudiantes argentinos tiene niveles medios y altos de estrés en relación a su futuro profesional",
       "volanta": "PREOCUPANTE",
       "date": "2026-07-01T23:36:07+00:00"
-    },
-    {
-      "id": "e7caca98",
-      "image": "img/e7caca98.png",
-      "image_sha": "2d5bcad463af2e65beace80206ca11dea5b3354d",
-      "url": "https://www.radiodos.com.ar/210402-desaparecio-un-embarcadizo-correntino-tras-caer-al-mar-desde-un-buque-pesquero",
-      "title": "Desapareció un embarcadizo correntino tras caer al mar desde un buque pesquero",
-      "volanta": "INTENSA BUSQUEDA",
-      "date": "2026-07-01T22:29:46+00:00"
     }
   ]
 }
