@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T14:23:53+00:00",
+  "updated": "2026-07-05T14:39:53+00:00",
   "posts": [
+    {
+      "id": "7a2c0185",
+      "image": "img/7a2c0185.png",
+      "image_sha": "89a0cf5c2ca569645e565c695b2e751ea12b0313",
+      "url": "https://www.radiodos.com.ar/210547-corrientes-descarta-prohibir-el-uso-de-los-celulares-en-las-aulas",
+      "title": "Corrientes descarta prohibir el uso de los celulares en las aulas",
+      "volanta": "TECNOLOGÍA",
+      "date": "2026-07-05T14:39:53+00:00"
+    },
     {
       "id": "ebe92269",
       "image": "img/ebe92269.png",
@@ -531,15 +540,6 @@
       "title": "Manuel Adorni completó su salida del Estado: presentó su renuncia al directorio de YPF",
       "volanta": "TRAS LA INVESTIGACIÓN",
       "date": "2026-07-02T13:33:12+00:00"
-    },
-    {
-      "id": "8e151eb6",
-      "image": "img/8e151eb6.png",
-      "image_sha": "bc1866b9b3ebb5b208baec1d93c93d570b80b74c",
-      "url": "https://www.radiodos.com.ar/210428-ara-san-juan-querellantes-denuncian-presion-mediatica-a-los-jueces-en-la-previa-al-veredicto",
-      "title": "ARA San Juan: querellantes denuncian \"presión mediática\" a los jueces en la previa al veredicto",
-      "volanta": "JUICIO",
-      "date": "2026-07-02T13:14:03+00:00"
     }
   ]
 }
