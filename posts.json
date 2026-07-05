@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T15:33:48+00:00",
+  "updated": "2026-07-05T23:18:19+00:00",
   "posts": [
+    {
+      "id": "6528125b",
+      "image": "img/6528125b.png",
+      "image_sha": "de1b9d700f34af132769c94fd9839d249061ed5d",
+      "url": "https://www.radiodos.com.ar/210554-un-joven-motociclista-murio-tras-chocar-contra-una-columna-de-alumbrado",
+      "title": "Un joven motociclista murió tras chocar contra una columna de alumbrado",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-05T23:18:19+00:00"
+    },
     {
       "id": "8d37dcfa",
       "image": "img/8d37dcfa.png",
@@ -531,15 +540,6 @@
       "title": "José María Muscari explicó por qué fue citado a declarar tras la muerte de Ernestina Pais",
       "volanta": "SINCERO",
       "date": "2026-07-02T16:52:26+00:00"
-    },
-    {
-      "id": "c9463d1a",
-      "image": "img/c9463d1a.png",
-      "image_sha": "611ea8c99c0372ebf31c07868364893b6b97d3f1",
-      "url": "https://www.radiodos.com.ar/210438-morena-rial-fue-condenada-a-tres-anos-de-prision-por-robar-donde-cumplira-su-sentencia",
-      "title": "Morena Rial fue condenada a tres años de prisión por robar: dónde cumplirá su sentencia",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-07-02T15:04:33+00:00"
     }
   ]
 }
