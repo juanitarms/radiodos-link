@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-04T18:41:32+00:00",
+  "updated": "2026-07-05T00:25:21+00:00",
   "posts": [
+    {
+      "id": "1c29e409",
+      "image": "img/1c29e409.png",
+      "image_sha": "e132552a3aa5078f3d47e1f70a1e0223a3d570ee",
+      "url": "https://www.radiodos.com.ar/210545-francia-le-gano-a-paraguay-en-una-autentica-batalla-y-sigue-en-carrera-en-el-mundial",
+      "title": "Francia le ganó a Paraguay en una auténtica batalla y sigue en carrera en el Mundial",
+      "volanta": "PASÓ A OCTAVOS",
+      "date": "2026-07-05T00:25:21+00:00"
+    },
     {
       "id": "f6e7787d",
       "image": "img/f6e7787d.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés saludó la llegada de Santilli a la Jefatura de Gobierno",
       "volanta": "EXPECTATIVAS",
       "date": "2026-07-02T11:53:19+00:00"
-    },
-    {
-      "id": "75d61f2d",
-      "image": "img/75d61f2d.png",
-      "image_sha": "22f946f9c9ed5e0186dfcb14efa600d51c3f861c",
-      "url": "https://www.radiodos.com.ar/210411-policia-de-franco-persiguio-y-atrapo-a-ladron-que-quiso-robar-una-moto",
-      "title": "Policía de franco persiguió y atrapó a ladrón que quiso robar una moto",
-      "volanta": "CERCA DE LA PLAZA CABRAL",
-      "date": "2026-07-02T11:18:47+00:00"
     }
   ]
 }
