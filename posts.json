@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T13:57:56+00:00",
+  "updated": "2026-07-05T14:05:25+00:00",
   "posts": [
+    {
+      "id": "d6d2a2e0",
+      "image": "img/d6d2a2e0.png",
+      "image_sha": "266d6beba196af63075b0c60413129e969ba80a1",
+      "url": "https://www.radiodos.com.ar/210550-encontraron-37-kilos-de-cocaina-en-un-bunker-narco-en-corrientes",
+      "title": "Encontraron 37 kilos de cocaína en un búnker narco en Corrientes",
+      "volanta": "Fuerte golpe al crimen organizado",
+      "date": "2026-07-05T14:05:25+00:00"
+    },
     {
       "id": "f25ecc5f",
       "image": "img/f25ecc5f.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que se ausentó de su hogar",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-02T12:48:21+00:00"
-    },
-    {
-      "id": "b4478d68",
-      "image": "img/b4478d68.png",
-      "image_sha": "0422e73e1e9d852906bd252c2af5492e8933b8b5",
-      "url": "https://www.radiodos.com.ar/210414-la-feria-administrativa-de-invierno-para-agentes-de-la-municipalidad-de-corrientes-sera-del-13-al-24-de-julio",
-      "title": "La feria administrativa de invierno para agentes de la Municipalidad de Corrientes será del 13 al 24 de julio",
-      "volanta": "DE INTERÉS",
-      "date": "2026-07-02T12:18:30+00:00"
     }
   ]
 }
