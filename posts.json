@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T14:05:25+00:00",
+  "updated": "2026-07-05T14:23:53+00:00",
   "posts": [
+    {
+      "id": "ebe92269",
+      "image": "img/ebe92269.png",
+      "image_sha": "13e40c1580b2113ddd8a87cffec3b2ca0514d798",
+      "url": "https://www.radiodos.com.ar/210549-garcia-cuerva-pidio-mayor-compromiso-ante-la-falta-de-trabajo-y-la-pobreza",
+      "title": "García Cuerva pidió mayor compromiso ante la falta de trabajo y la pobreza",
+      "volanta": "IGLESIA CATOLICA",
+      "date": "2026-07-05T14:23:53+00:00"
+    },
     {
       "id": "d6d2a2e0",
       "image": "img/d6d2a2e0.png",
@@ -531,15 +540,6 @@
       "title": "ARA San Juan: querellantes denuncian \"presión mediática\" a los jueces en la previa al veredicto",
       "volanta": "JUICIO",
       "date": "2026-07-02T13:14:03+00:00"
-    },
-    {
-      "id": "352711d6",
-      "image": "img/352711d6.png",
-      "image_sha": "72d6badf81050cc33280fdcad2db7c094a50368a",
-      "url": "https://www.radiodos.com.ar/210416-buscan-a-una-adolescente-que-se-ausento-de-su-hogar",
-      "title": "Buscan a una adolescente que se ausentó de su hogar",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-07-02T12:48:21+00:00"
     }
   ]
 }
