@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T13:28:53+00:00",
+  "updated": "2026-07-05T13:57:56+00:00",
   "posts": [
+    {
+      "id": "f25ecc5f",
+      "image": "img/f25ecc5f.png",
+      "image_sha": "5d3fc5b9d5cbc8ed2ed250e88698fc5f2642f45f",
+      "url": "https://www.radiodos.com.ar/210548-mbappe-durisimo-con-paraguay-tambien-podemos-jugar-al-futbol-sucio",
+      "title": "Mbappé, durísimo con Paraguay: \"También podemos jugar al fútbol sucio\"",
+      "volanta": "mundial 2026",
+      "date": "2026-07-05T13:57:56+00:00"
+    },
     {
       "id": "9d0aa2fd",
       "image": "img/9d0aa2fd.png",
@@ -531,15 +540,6 @@
       "title": "La feria administrativa de invierno para agentes de la Municipalidad de Corrientes será del 13 al 24 de julio",
       "volanta": "DE INTERÉS",
       "date": "2026-07-02T12:18:30+00:00"
-    },
-    {
-      "id": "e1634f95",
-      "image": "img/e1634f95.png",
-      "image_sha": "ec5b07fe77c0d04a5ebcfdf23ce579b050eb5e51",
-      "url": "https://www.radiodos.com.ar/210412-somu-cuestiono-a-los-capitanes-por-mas-pesca-desprecian-el-valor-de-la-vida",
-      "title": "SOMU cuestionó a los capitanes: \"Por más pesca, desprecian el valor de la vida\"",
-      "volanta": "EMBARCADIZO CAYÓ AL MAR",
-      "date": "2026-07-02T12:04:57+00:00"
     }
   ]
 }
