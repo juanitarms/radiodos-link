@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T23:18:19+00:00",
+  "updated": "2026-07-05T23:18:52+00:00",
   "posts": [
+    {
+      "id": "5b1ba339",
+      "image": "img/5b1ba339.png",
+      "image_sha": "902214abff1b9c0191882e6219e4542c395b5c15",
+      "url": "https://www.radiodos.com.ar/210556-casi-la-mitad-de-los-argentinos-ya-ve-a-la-corrupcion-como-el-mayor-problema-de-la-argentina",
+      "title": "Casi la mitad de los argentinos ya ve a la corrupción como el mayor problema de la Argentina",
+      "volanta": "Informe privado",
+      "date": "2026-07-05T23:18:52+00:00"
+    },
     {
       "id": "6528125b",
       "image": "img/6528125b.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron ilesa a la adolescente que faltaba de su hogar",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-02T16:53:01+00:00"
-    },
-    {
-      "id": "ddacbb4a",
-      "image": "img/ddacbb4a.png",
-      "image_sha": "9082555d953f7daca676ea94c7887744eb04e1a7",
-      "url": "https://www.radiodos.com.ar/210441-jose-maria-muscari-explico-por-que-fue-citado-a-declarar-tras-la-muerte-de-ernestina-pais",
-      "title": "José María Muscari explicó por qué fue citado a declarar tras la muerte de Ernestina Pais",
-      "volanta": "SINCERO",
-      "date": "2026-07-02T16:52:26+00:00"
     }
   ]
 }
