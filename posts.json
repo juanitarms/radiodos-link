@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T15:18:22+00:00",
+  "updated": "2026-07-05T15:33:48+00:00",
   "posts": [
+    {
+      "id": "8d37dcfa",
+      "image": "img/8d37dcfa.png",
+      "image_sha": "f330f3d05eafa62a12c8a94a2408d7b528c02e7b",
+      "url": "https://www.radiodos.com.ar/210551-paso-de-los-libres-un-motociclista-murio-tras-un-choque-con-un-automovil",
+      "title": "Paso de los Libres: un motociclista murió tras un choque con un automóvil",
+      "volanta": "ACCIDENTE",
+      "date": "2026-07-05T15:33:48+00:00"
+    },
     {
       "id": "37149b78",
       "image": "img/37149b78.png",
@@ -531,15 +540,6 @@
       "title": "Morena Rial fue condenada a tres años de prisión por robar: dónde cumplirá su sentencia",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-07-02T15:04:33+00:00"
-    },
-    {
-      "id": "db27664e",
-      "image": "img/db27664e.png",
-      "image_sha": "397ba0255c926b9af77bdaa76cdaff5da3bdaed1",
-      "url": "https://www.radiodos.com.ar/210431-mundial-2026-como-esta-la-llave-y-los-partidos-de-hoy",
-      "title": "Mundial 2026: cómo está la llave y los partidos de hoy",
-      "volanta": "EEUU, CANADÁ, MÉXICO",
-      "date": "2026-07-02T14:10:31+00:00"
     }
   ]
 }
