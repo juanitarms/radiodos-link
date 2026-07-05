@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T14:39:53+00:00",
+  "updated": "2026-07-05T15:18:22+00:00",
   "posts": [
+    {
+      "id": "37149b78",
+      "image": "img/37149b78.png",
+      "image_sha": "463ae86abb0f8c8c8ce7e7db01d4a120d92007a6",
+      "url": "https://www.radiodos.com.ar/210552-emilio-lanari-estamos-comprometidos-en-mejorar-la-salud-publica-de-corrientes",
+      "title": "Emilio Lanari: \"Estamos comprometidos en mejorar la salud pública de Corrientes\"",
+      "volanta": "EN LO BUENO, LO MALO Y LO FEO",
+      "date": "2026-07-05T15:18:22+00:00"
+    },
     {
       "id": "7a2c0185",
       "image": "img/7a2c0185.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: cómo está la llave y los partidos de hoy",
       "volanta": "EEUU, CANADÁ, MÉXICO",
       "date": "2026-07-02T14:10:31+00:00"
-    },
-    {
-      "id": "1ee499cf",
-      "image": "img/1ee499cf.png",
-      "image_sha": "d7577456f805c308e03f0b4772bc441da145f1a1",
-      "url": "https://www.radiodos.com.ar/210425-manuel-adorni-completo-su-salida-del-estado-presento-su-renuncia-al-directorio-de-ypf",
-      "title": "Manuel Adorni completó su salida del Estado: presentó su renuncia al directorio de YPF",
-      "volanta": "TRAS LA INVESTIGACIÓN",
-      "date": "2026-07-02T13:33:12+00:00"
     }
   ]
 }
