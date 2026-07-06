@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T12:42:22+00:00",
+  "updated": "2026-07-06T13:02:56+00:00",
   "posts": [
+    {
+      "id": "fd2bb5b4",
+      "image": "img/fd2bb5b4.png",
+      "image_sha": "d27fd27b1c11fe2ba91f9fec87be4748e6d2b3d5",
+      "url": "https://www.radiodos.com.ar/210574-con-gran-acompanamiento-del-publico-culmino-con-exito-el-1er-encuentro-de-bandas-militares-del-nordeste",
+      "title": "Con gran acompañamiento del público, culminó con éxito el 1er. Encuentro de Bandas Militares del Nordeste",
+      "volanta": "AGENDA PATRIÓTICA",
+      "date": "2026-07-06T13:02:56+00:00"
+    },
     {
       "id": "590220c5",
       "image": "img/590220c5.png",
@@ -531,15 +540,6 @@
       "title": "La advertencia de Scaloni sobre Cabo Verde: \"Es un buen equipo, no va a ser fácil\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-02T21:41:44+00:00"
-    },
-    {
-      "id": "cbf6f3a0",
-      "image": "img/cbf6f3a0.png",
-      "image_sha": "d37382994c175a123b18541a2abecf846cd01863",
-      "url": "https://www.radiodos.com.ar/210455-corrientes-se-reunio-la-junta-provincial-de-defensa-civil-ante-los-pronosticos-de-el-nino",
-      "title": "Corrientes: se reunió la Junta Provincial de Defensa Civil ante los pronósticos de El Niño",
-      "volanta": "ACCIONES PREVENTIVAS",
-      "date": "2026-07-02T20:39:26+00:00"
     }
   ]
 }
