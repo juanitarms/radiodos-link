@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T12:04:03+00:00",
+  "updated": "2026-07-06T12:42:22+00:00",
   "posts": [
+    {
+      "id": "590220c5",
+      "image": "img/590220c5.png",
+      "image_sha": "664902bf3c2fc9815d006eda9a3fadd671a98dc7",
+      "url": "https://www.radiodos.com.ar/210573-buscan-a-un-adolescente-que-no-volvio-a-su-hogar",
+      "title": "Buscan a un adolescente que no volvió a su hogar",
+      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
+      "date": "2026-07-06T12:42:22+00:00"
+    },
     {
       "id": "dc966b48",
       "image": "img/dc966b48.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: se reunió la Junta Provincial de Defensa Civil ante los pronósticos de El Niño",
       "volanta": "ACCIONES PREVENTIVAS",
       "date": "2026-07-02T20:39:26+00:00"
-    },
-    {
-      "id": "dfb60a88",
-      "image": "img/dfb60a88.png",
-      "image_sha": "d74cf308691db19b5951f3da1862cf9dfccbae7d",
-      "url": "https://www.radiodos.com.ar/210454-jp-valdes-confirmo-que-un-inversor-extranjero-esta-interesado-en-financiar-el-segundo-puente-chaco-corrientes",
-      "title": "JP Valdés confirmó que un inversor extranjero está interesado en financiar el segundo puente Chaco-Corrientes",
-      "volanta": "ADELANTO DE RADIO DOS",
-      "date": "2026-07-02T20:37:15+00:00"
     }
   ]
 }
