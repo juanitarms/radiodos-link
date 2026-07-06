@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T20:09:08+00:00",
+  "updated": "2026-07-06T20:58:49+00:00",
   "posts": [
+    {
+      "id": "c2cbac8b",
+      "image": "img/c2cbac8b.png",
+      "image_sha": "e705597087bee51ec65beb12941315797bf40942",
+      "url": "https://www.radiodos.com.ar/210611-fuerte-respuesta-de-mbappe-a-la-senadora-paraguaya-racista-es-usted-una-mujer-despreciable",
+      "title": "Fuerte respuesta de Mbappe a la senadora paraguaya racista: \"Es usted una mujer despreciable\"",
+      "volanta": "MENSAJE POR REDES",
+      "date": "2026-07-06T20:58:49+00:00"
+    },
     {
       "id": "0e54f4ad",
       "image": "img/0e54f4ad.png",
@@ -531,15 +540,6 @@
       "title": "Causa $LIBRA: la Justicia apartó a los querellantes",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-03T15:04:14+00:00"
-    },
-    {
-      "id": "22361579",
-      "image": "img/22361579.png",
-      "image_sha": "8edb5a0fcc8aaca5aab83ac33ef1eba50e969b4d",
-      "url": "https://www.radiodos.com.ar/210474-juan-pablo-valdes-esperamos-recuperar-un-poco-la-recaudacion-para-analizar-el-tercer-anuncio-salarial-del-ano",
-      "title": "Juan Pablo Valdés: \"Esperamos recuperar un poco la recaudación para analizar el tercer anuncio salarial del año\"",
-      "volanta": "RONDA DE PRENSA",
-      "date": "2026-07-03T14:55:33+00:00"
     }
   ]
 }
