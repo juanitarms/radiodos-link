@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T16:09:35+00:00",
+  "updated": "2026-07-06T17:20:29+00:00",
   "posts": [
+    {
+      "id": "60303e33",
+      "image": "img/60303e33.png",
+      "image_sha": "a53b029a3518bb75651d194aef9b87830429fa29",
+      "url": "https://www.radiodos.com.ar/210587-franco-colapinto-brillo-en-silverstone-termino-9°-en-el-gp-de-gran-bretana-y-sumo-puntos-para-alpine",
+      "title": "Franco Colapinto brilló en Silverstone: terminó 9° en el GP de Gran Bretaña y sumó puntos para Alpine",
+      "volanta": "FÓRMULA 1",
+      "date": "2026-07-06T17:20:29+00:00"
+    },
     {
       "id": "7372cb4c",
       "image": "img/7372cb4c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: le prendieron fuego el auto por denunciar a pandillas de violentos",
       "volanta": "VIOLENCIA URBANA",
       "date": "2026-07-03T11:03:38+00:00"
-    },
-    {
-      "id": "fce273c2",
-      "image": "img/fce273c2.png",
-      "image_sha": "6c5ac248eeab1a1271a7b3558388456bc25e3867",
-      "url": "https://www.radiodos.com.ar/210466-se-cumple-la-alerta-amarilla-por-frio-extremo-en-corrientes",
-      "title": "Se cumple la Alerta Amarilla por frío extremo en Corrientes",
-      "volanta": "AHORA",
-      "date": "2026-07-03T10:29:25+00:00"
     }
   ]
 }
