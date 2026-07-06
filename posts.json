@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T11:43:01+00:00",
+  "updated": "2026-07-06T12:04:03+00:00",
   "posts": [
+    {
+      "id": "dc966b48",
+      "image": "img/dc966b48.png",
+      "image_sha": "cc07011037103a5c6d54cf3ed68aa5b2cbfb0b13",
+      "url": "https://www.radiodos.com.ar/210564-chaco-un-camionero-muerto-tras-chocar-un-puente-peatonal-sobre-ruta-16",
+      "title": "Chaco: un camionero muerto tras chocar un puente peatonal sobre ruta 16",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-07-06T12:04:03+00:00"
+    },
     {
       "id": "1efff779",
       "image": "img/1efff779.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés confirmó que un inversor extranjero está interesado en financiar el segundo puente Chaco-Corrientes",
       "volanta": "ADELANTO DE RADIO DOS",
       "date": "2026-07-02T20:37:15+00:00"
-    },
-    {
-      "id": "c2014d3f",
-      "image": "img/c2014d3f.png",
-      "image_sha": "5a9ad7d73c0f538801f26eca9c30c57ba74761c2",
-      "url": "https://www.radiodos.com.ar/210451-la-emotiva-historia-de-piru-el-nuevo-integrante-de-la-policia-de-corrientes",
-      "title": "La emotiva historia de \"Pirú\", el nuevo \"integrante\" de la Policía de Corrientes",
-      "volanta": "ESTABA ABANDONADO AL COSTADO DE LA RUTA",
-      "date": "2026-07-02T20:36:40+00:00"
     }
   ]
 }
