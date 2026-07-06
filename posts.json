@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T18:44:05+00:00",
+  "updated": "2026-07-06T18:44:40+00:00",
   "posts": [
+    {
+      "id": "e47e0dc8",
+      "image": "img/e47e0dc8.png",
+      "image_sha": "bb632148270afd0d849e432a4736a189df002f8f",
+      "url": "https://www.radiodos.com.ar/210595-incendio-en-loma-de-zamora-una-mujer-murio-y-tres-personas-resultaron-heridas",
+      "title": "Incendio en Loma de Zamora: una mujer murió y tres personas resultaron heridas",
+      "volanta": "TRAGEDIA",
+      "date": "2026-07-06T18:44:40+00:00"
+    },
     {
       "id": "ef5ca876",
       "image": "img/ef5ca876.png",
@@ -531,15 +540,6 @@
       "title": "\"Corrientes Cerca\" regresa a Capital con un amplio operativo integral",
       "volanta": "DESPLIEGUE TERRITORIAL",
       "date": "2026-07-03T13:04:35+00:00"
-    },
-    {
-      "id": "49d50979",
-      "image": "img/49d50979.png",
-      "image_sha": "0773f2ee74ca621d28d036afa8ab7753aba515ca",
-      "url": "https://www.radiodos.com.ar/210472-corrientes-violento-ataque-de-motochorros-a-una-joven-para-robarle-una-mochila",
-      "title": "Corrientes: violento ataque de motochorros a una joven para robarle una mochila",
-      "volanta": "BARRIO JARDIN",
-      "date": "2026-07-03T12:51:38+00:00"
     }
   ]
 }
