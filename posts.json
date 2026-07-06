@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T17:20:29+00:00",
+  "updated": "2026-07-06T17:21:04+00:00",
   "posts": [
+    {
+      "id": "ac87a292",
+      "image": "img/ac87a292.png",
+      "image_sha": "77b16848afe197682c98d1558d1fc3d8b95790e7",
+      "url": "https://www.radiodos.com.ar/210589-las-ferias-de-la-ciudad-renuevan-la-oferta-semanal-con-sus-propuestas-de-productos-frescos-regionales-y-artesanales",
+      "title": "Las Ferias de la Ciudad renuevan la oferta semanal con sus propuestas de productos frescos, regionales y artesanales",
+      "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
+      "date": "2026-07-06T17:21:04+00:00"
+    },
     {
       "id": "60303e33",
       "image": "img/60303e33.png",
@@ -531,15 +540,6 @@
       "title": "Investigan si los tratamientos para la psoriasis alteran la presencia de un ácaro que vive en la piel",
       "volanta": "UNNE",
       "date": "2026-07-03T11:19:03+00:00"
-    },
-    {
-      "id": "b6a9f735",
-      "image": "img/b6a9f735.png",
-      "image_sha": "a84de8f35ac59c301bcac882f63cc256dea7849f",
-      "url": "https://www.radiodos.com.ar/210467-corrientes-le-prendieron-fuego-el-auto-por-denunciar-a-pandillas-de-violentos",
-      "title": "Corrientes: le prendieron fuego el auto por denunciar a pandillas de violentos",
-      "volanta": "VIOLENCIA URBANA",
-      "date": "2026-07-03T11:03:38+00:00"
     }
   ]
 }
