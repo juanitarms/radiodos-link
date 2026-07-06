@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T20:07:43+00:00",
+  "updated": "2026-07-06T20:09:08+00:00",
   "posts": [
+    {
+      "id": "0e54f4ad",
+      "image": "img/0e54f4ad.png",
+      "image_sha": "6622a6d49c431d8815fd4bf76541cfdcf30e24f6",
+      "url": "https://www.radiodos.com.ar/210608-femicidio-de-una-docente-en-mendoza-investigan-si-fue-un-crimen-planificado",
+      "title": "Femicidio de una docente en Mendoza: investigan si fue un crimen planificado",
+      "volanta": "UN DETENIDO",
+      "date": "2026-07-06T20:09:08+00:00"
+    },
     {
       "id": "e7d63f98",
       "image": "img/e7d63f98.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés: \"Esperamos recuperar un poco la recaudación para analizar el tercer anuncio salarial del año\"",
       "volanta": "RONDA DE PRENSA",
       "date": "2026-07-03T14:55:33+00:00"
-    },
-    {
-      "id": "1df0e594",
-      "image": "img/1df0e594.png",
-      "image_sha": "c49269b5805a6327903b7d34c18b823aa5a23873",
-      "url": "https://www.radiodos.com.ar/210482-la-conmovedora-reflexion-de-fernando-gago-tras-sufrir-un-infarto-segunda-oportunidad",
-      "title": "La conmovedora reflexión de Fernando Gago tras sufrir un infarto: \"Segunda oportunidad\"",
-      "volanta": "SINCERO",
-      "date": "2026-07-03T14:38:49+00:00"
     }
   ]
 }
