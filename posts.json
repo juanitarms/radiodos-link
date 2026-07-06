@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T18:45:15+00:00",
+  "updated": "2026-07-06T18:45:49+00:00",
   "posts": [
+    {
+      "id": "c604a782",
+      "image": "img/c604a782.png",
+      "image_sha": "36e7e80c9ac460b4e23ad292bedac9395150f49b",
+      "url": "https://www.radiodos.com.ar/210593-orgullo-guarani-paraguay-volvio-a-casa-entre-aplausos-y-emocion-tras-su-mundial-2026",
+      "title": "Orgullo guaraní: Paraguay volvió a casa entre aplausos y emoción tras su Mundial 2026",
+      "volanta": "RECONOCIDOS",
+      "date": "2026-07-06T18:45:49+00:00"
+    },
     {
       "id": "182396cd",
       "image": "img/182396cd.png",
@@ -531,15 +540,6 @@
       "title": "Rodrigo de Paul, diáfano: \"Scaloni nos enseñó que no somos jugadores de fútbol\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-03T14:05:20+00:00"
-    },
-    {
-      "id": "14bec049",
-      "image": "img/14bec049.png",
-      "image_sha": "620c227d5d1b14cd80edf31f4e877f04e2f8f478",
-      "url": "https://www.radiodos.com.ar/210479-jornada-de-capacitacion-del-programa-detectar-dengue",
-      "title": "Jornada de capacitación del Programa Detectar Dengue",
-      "volanta": "Paso de los Libres",
-      "date": "2026-07-03T13:54:54+00:00"
     }
   ]
 }
