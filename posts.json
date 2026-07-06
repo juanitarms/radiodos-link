@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T23:02:03+00:00",
+  "updated": "2026-07-06T23:45:23+00:00",
   "posts": [
+    {
+      "id": "9314a964",
+      "image": "img/9314a964.png",
+      "image_sha": "770cadfb2f3e27af88f64e6374b1837ddf4cb482",
+      "url": "https://www.radiodos.com.ar/210625-lionel-scaloni-reflexiona-sobre-la-estrategia-de-argentina-antes-del-partido-contra-egipto",
+      "title": "Lionel Scaloni reflexiona sobre la estrategia de Argentina antes del partido contra Egipto",
+      "volanta": "Afirmó que Paredes será titular",
+      "date": "2026-07-06T23:45:23+00:00"
+    },
     {
       "id": "94a65c12",
       "image": "img/94a65c12.png",
@@ -531,15 +540,6 @@
       "title": "Rosalía y Penélope Cruz, presentes y sonrientes en el triunfo de España ante Austria",
       "volanta": "FESTEJOS",
       "date": "2026-07-03T18:51:55+00:00"
-    },
-    {
-      "id": "feb23140",
-      "image": "img/feb23140.png",
-      "image_sha": "41ad97b6278b5d95b7dae826a302e916765e94a3",
-      "url": "https://www.radiodos.com.ar/210494-malena-guinzburg-hablo-del-video-con-ia-de-su-papa-con-ernestina-pais",
-      "title": "Malena Guinzburg habló del video con IA de su papá con Ernestina Pais",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-07-03T18:51:22+00:00"
     }
   ]
 }
