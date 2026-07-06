@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T14:15:37+00:00",
+  "updated": "2026-07-06T14:44:31+00:00",
   "posts": [
+    {
+      "id": "b58e801b",
+      "image": "img/b58e801b.png",
+      "image_sha": "18cff103b06f4c00b4f2b0bc4a3d05baf1a64b22",
+      "url": "https://www.radiodos.com.ar/210586-milei-se-hunde-en-las-encuestas-la-desaprobacion-llega-al-58-con-la-corrupcion-como-problema-principal",
+      "title": "Milei se hunde en las encuestas: la desaprobación llega al 58%, con la \"corrupción\" como problema principal",
+      "volanta": "DATOS",
+      "date": "2026-07-06T14:44:31+00:00"
+    },
     {
       "id": "14ac7b76",
       "image": "img/14ac7b76.png",
@@ -531,15 +540,6 @@
       "title": "Se inauguró la ampliación del Servicio de Emergencia del Hospital Llano",
       "volanta": "SALUD PUBLICA",
       "date": "2026-07-02T22:48:54+00:00"
-    },
-    {
-      "id": "36998e91",
-      "image": "img/36998e91.png",
-      "image_sha": "fb7e71c8de569d87f4d5ec11c188aebc8a40cb1d",
-      "url": "https://www.radiodos.com.ar/210461-polich-sobre-el-fenomeno-de-el-nino-estamos-tomando-todas-las-previsiones-posibles",
-      "title": "\"Polich sobre el fenómeno de \"El Niño\": \"Estamos tomando todas las previsiones posibles\"\"",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-02T22:47:53+00:00"
     }
   ]
 }
