@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T20:59:54+00:00",
+  "updated": "2026-07-06T21:42:37+00:00",
   "posts": [
+    {
+      "id": "e598fd56",
+      "image": "img/e598fd56.png",
+      "image_sha": "684f32a10ccdc2752a884dfb7a2398e2ad748864",
+      "url": "https://www.radiodos.com.ar/210617-el-yacht-club-corrientes-arraso-en-el-cierre-del-campeonato-provincial",
+      "title": "El Yacht Club Corrientes arrasó en el cierre del campeonato provincial",
+      "volanta": "VELA LIGERA",
+      "date": "2026-07-06T21:42:37+00:00"
+    },
     {
       "id": "f306a0ad",
       "image": "img/f306a0ad.png",
@@ -531,15 +540,6 @@
       "title": "La desgarradora carta del padre de Agostina Vega: \"Se trata del femicidio de mi hija\"",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-07-03T16:42:23+00:00"
-    },
-    {
-      "id": "3525f608",
-      "image": "img/3525f608.png",
-      "image_sha": "1656001eaaa09d83b807953cca3896fda1ccb3f2",
-      "url": "https://www.radiodos.com.ar/210486-un-delincuente-le-apunto-con-un-arma-a-una-mujer-mientras-estaba-detenida-en-un-semaforo",
-      "title": "Un delincuente le apuntó con un arma a una mujer mientras estaba detenida en un semáforo",
-      "volanta": "Video",
-      "date": "2026-07-03T16:41:45+00:00"
     }
   ]
 }
