@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T21:45:51+00:00",
+  "updated": "2026-07-06T22:59:28+00:00",
   "posts": [
+    {
+      "id": "c276c59e",
+      "image": "img/c276c59e.png",
+      "image_sha": "1150312b2d6dbb7a10fd74fc8c285d31be74483f",
+      "url": "https://www.radiodos.com.ar/210620-a-12-dias-del-terremoto-en-venezuela-rescataron-con-vida-a-una-mujer-y-tres-menores-atrapados-por-los-escombros",
+      "title": "A 12 días del terremoto en Venezuela: rescataron con vida a una mujer y tres menores atrapados por los escombros",
+      "volanta": "MILAGRO",
+      "date": "2026-07-06T22:59:28+00:00"
+    },
     {
       "id": "7b8b18e0",
       "image": "img/7b8b18e0.png",
@@ -531,15 +540,6 @@
       "title": "Pincoya estalló en llanto y furia tras la visita de su hermana en Gran Hermano: \"¿Por qué no me lo trajiste?\"",
       "volanta": "ENOJADA",
       "date": "2026-07-03T17:49:34+00:00"
-    },
-    {
-      "id": "3a4f8f6e",
-      "image": "img/3a4f8f6e.png",
-      "image_sha": "f2753aec22e4e5260095c0ea2d41e0bb34eaa96f",
-      "url": "https://www.radiodos.com.ar/210487-el-gobierno-elimino-el-ministerio-interior-y-diego-santilli-asume-mas-responsabilidades",
-      "title": "El Gobierno eliminó el Ministerio Interior y Diego Santilli asume más responsabilidades",
-      "volanta": "CAMBIOS",
-      "date": "2026-07-03T17:49:00+00:00"
     }
   ]
 }
