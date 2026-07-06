@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05T23:18:52+00:00",
+  "updated": "2026-07-06T10:55:10+00:00",
   "posts": [
+    {
+      "id": "53064972",
+      "image": "img/53064972.png",
+      "image_sha": "d1311af127ef38b514407e5af3797e04ab497978",
+      "url": "https://www.radiodos.com.ar/210560-mundial-2026-en-un-partidazo-inglaterra-elimino-al-tri-segundo-anfitrion-del-torneo",
+      "title": "Mundial 2026: En un partidazo Inglaterra eliminó al Tri, segundo anfitrión del torneo",
+      "volanta": "En México",
+      "date": "2026-07-06T10:55:10+00:00"
+    },
     {
       "id": "5b1ba339",
       "image": "img/5b1ba339.png",
@@ -531,15 +540,6 @@
       "title": "Cuánto dinero le reclama Florencia Peña a Luzu TV: Barby Franco reveló la millonaria cifra",
       "volanta": "SIGUE LA POLÉMICA",
       "date": "2026-07-02T16:53:33+00:00"
-    },
-    {
-      "id": "04933f93",
-      "image": "img/04933f93.png",
-      "image_sha": "3809b106f9e731a3f87b7ac64e21063406adad90",
-      "url": "https://www.radiodos.com.ar/210440-hallaron-ilesa-a-la-adolescente-que-faltaba-de-su-hogar",
-      "title": "Hallaron ilesa a la adolescente que faltaba de su hogar",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-07-02T16:53:01+00:00"
     }
   ]
 }
