@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T20:58:49+00:00",
+  "updated": "2026-07-06T20:59:54+00:00",
   "posts": [
+    {
+      "id": "f306a0ad",
+      "image": "img/f306a0ad.png",
+      "image_sha": "526c9bd82624fb087b98c2c04dee544000629758",
+      "url": "https://www.radiodos.com.ar/210612-la-reserva-natural-santa-catalina-se-consolida-como-un-atractivo-del-ecoturismo",
+      "title": "La Reserva Natural Santa Catalina se consolida como un atractivo del ecoturismo",
+      "volanta": "MEDIO AMBIENTE",
+      "date": "2026-07-06T20:59:54+00:00"
+    },
     {
       "id": "c2cbac8b",
       "image": "img/c2cbac8b.png",
@@ -531,15 +540,6 @@
       "title": "Un delincuente le apuntó con un arma a una mujer mientras estaba detenida en un semáforo",
       "volanta": "Video",
       "date": "2026-07-03T16:41:45+00:00"
-    },
-    {
-      "id": "a2c11afa",
-      "image": "img/a2c11afa.png",
-      "image_sha": "dc9d8025d975d8a80603634f4f3622bf583e745a",
-      "url": "https://www.radiodos.com.ar/210485-causa-libra-la-justicia-aparto-a-los-querellantes",
-      "title": "Causa $LIBRA: la Justicia apartó a los querellantes",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-03T15:04:14+00:00"
     }
   ]
 }
