@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T23:00:43+00:00",
+  "updated": "2026-07-06T23:02:03+00:00",
   "posts": [
+    {
+      "id": "94a65c12",
+      "image": "img/94a65c12.png",
+      "image_sha": "341db62c81092c5c9f8ffe7d87578e7accb4c154",
+      "url": "https://www.radiodos.com.ar/210623-nico-occhiato-hablo-sobre-su-conflicto-legal-con-flor-pena-esta-judicializado",
+      "title": "Nico Occhiato habló sobre su conflicto legal con Flor Peña: \"Está judicializado\"",
+      "volanta": "CASO LUZU TV",
+      "date": "2026-07-06T23:02:03+00:00"
+    },
     {
       "id": "d00330e4",
       "image": "img/d00330e4.png",
@@ -531,15 +540,6 @@
       "title": "Malena Guinzburg habló del video con IA de su papá con Ernestina Pais",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-07-03T18:51:22+00:00"
-    },
-    {
-      "id": "ed556aad",
-      "image": "img/ed556aad.png",
-      "image_sha": "cd79fae74858e94d8f389cd9ab2da7ebc9385233",
-      "url": "https://www.radiodos.com.ar/210491-ciro-martinez-hizo-delirar-a-los-hinchas-argentinos-con-el-himno-hasta-que-llego-la-policia-de-miami",
-      "title": "Ciro Martínez hizo delirar a los hinchas argentinos con el Himno, hasta que llegó la Policía de Miami",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-03T18:50:50+00:00"
     }
   ]
 }
