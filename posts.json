@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T18:44:40+00:00",
+  "updated": "2026-07-06T18:45:15+00:00",
   "posts": [
+    {
+      "id": "182396cd",
+      "image": "img/182396cd.png",
+      "image_sha": "31187af509f9058f79620e609647d0cb3219cd8c",
+      "url": "https://www.radiodos.com.ar/210594-javier-milei-celebro-la-eliminacion-de-brasil-y-le-dedico-un-mensaje-a-haaland",
+      "title": "Javier Milei celebró la eliminación de Brasil y le dedicó un mensaje a Haaland",
+      "volanta": "POR REDES SOCIALES",
+      "date": "2026-07-06T18:45:15+00:00"
+    },
     {
       "id": "e47e0dc8",
       "image": "img/e47e0dc8.png",
@@ -531,15 +540,6 @@
       "title": "Jornada de capacitación del Programa Detectar Dengue",
       "volanta": "Paso de los Libres",
       "date": "2026-07-03T13:54:54+00:00"
-    },
-    {
-      "id": "ab2c143b",
-      "image": "img/ab2c143b.png",
-      "image_sha": "d5c07b07d73f357eb926dfeefadf941931800d8c",
-      "url": "https://www.radiodos.com.ar/210475-corrientes-cerca-regresa-a-capital-con-un-amplio-operativo-integral",
-      "title": "\"Corrientes Cerca\" regresa a Capital con un amplio operativo integral",
-      "volanta": "DESPLIEGUE TERRITORIAL",
-      "date": "2026-07-03T13:04:35+00:00"
     }
   ]
 }
