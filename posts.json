@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T11:16:31+00:00",
+  "updated": "2026-07-06T11:28:30+00:00",
   "posts": [
+    {
+      "id": "8841deb2",
+      "image": "img/8841deb2.png",
+      "image_sha": "2b3b0354cd34dade3b552124ef8d02c83c7708f5",
+      "url": "https://www.radiodos.com.ar/210562-el-gobernador-juan-pablo-valdes-anuncio-obras-para-el-interior-con-inversion-provincial",
+      "title": "El gobernador Juan Pablo Valdés anunció obras para el interior con inversión provincial",
+      "volanta": "ANIVERSARIO DE MERCEDES",
+      "date": "2026-07-06T11:28:30+00:00"
+    },
     {
       "id": "50fc6433",
       "image": "img/50fc6433.png",
@@ -531,15 +540,6 @@
       "title": "La arriesgada propuesta de Brian Sarmiento a Santiago del Moro tras el escándalo con Catalina Gorostidi",
       "volanta": "SE LA JUGARON",
       "date": "2026-07-02T17:42:18+00:00"
-    },
-    {
-      "id": "6813f80c",
-      "image": "img/6813f80c.png",
-      "image_sha": "3a268ecc68b25ee9e4bd275dbfd69547178d3761",
-      "url": "https://www.radiodos.com.ar/210443-olga-le-cumple-el-sueno-al-nene-que-escribio-una-carta-a-lionel-messi-se-va-al-mundial-2026",
-      "title": "Olga le cumple el sueño al nene que escribió una carta a Lionel Messi: se va al Mundial 2026",
-      "volanta": "GRAN SORPRESA",
-      "date": "2026-07-02T17:41:40+00:00"
     }
   ]
 }
