@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T18:43:27+00:00",
+  "updated": "2026-07-06T18:44:05+00:00",
   "posts": [
+    {
+      "id": "ef5ca876",
+      "image": "img/ef5ca876.png",
+      "image_sha": "af0c9336c30cd479272c94d56ffb44bf8bd33a49",
+      "url": "https://www.radiodos.com.ar/210590-san-martin-inicia-la-renovacion-de-su-cancha-principal",
+      "title": "San Martín inicia la renovación de su cancha principal",
+      "volanta": "CAMBIO",
+      "date": "2026-07-06T18:44:05+00:00"
+    },
     {
       "id": "00567b13",
       "image": "img/00567b13.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: violento ataque de motochorros a una joven para robarle una mochila",
       "volanta": "BARRIO JARDIN",
       "date": "2026-07-03T12:51:38+00:00"
-    },
-    {
-      "id": "f77c5926",
-      "image": "img/f77c5926.png",
-      "image_sha": "686117abd12e2171f190105c0875640826d9c3f2",
-      "url": "https://www.radiodos.com.ar/210470-la-municipalidad-de-corrientes-incorpora-mas-de-40-vehiculos-0-km-para-fortalecer-y-ampliar-los-servicios-a-los-vecinos",
-      "title": "La Municipalidad de Corrientes incorpora más de 40 vehículos 0 km para fortalecer y ampliar los servicios a los vecinos",
-      "volanta": "PRESENCIA INSTITUCIONAL",
-      "date": "2026-07-03T12:09:35+00:00"
     }
   ]
 }
