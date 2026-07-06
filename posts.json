@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T10:55:10+00:00",
+  "updated": "2026-07-06T11:16:31+00:00",
   "posts": [
+    {
+      "id": "50fc6433",
+      "image": "img/50fc6433.png",
+      "image_sha": "820cf847c1297964d055b1f24d5f9d6823800bdf",
+      "url": "https://www.radiodos.com.ar/210561-tragico-accidente-en-chaco-murio-un-joven-futbolista-de-18-anos",
+      "title": "Trágico accidente en Chaco: murió un joven futbolista de 18 años",
+      "volanta": "Iba en moto",
+      "date": "2026-07-06T11:16:31+00:00"
+    },
     {
       "id": "53064972",
       "image": "img/53064972.png",
@@ -531,15 +540,6 @@
       "title": "Olga le cumple el sueño al nene que escribió una carta a Lionel Messi: se va al Mundial 2026",
       "volanta": "GRAN SORPRESA",
       "date": "2026-07-02T17:41:40+00:00"
-    },
-    {
-      "id": "b47876ed",
-      "image": "img/b47876ed.png",
-      "image_sha": "cdd11005cf7714f2122fca9f55ace9e09d00a2c9",
-      "url": "https://www.radiodos.com.ar/210439-cuanto-dinero-le-reclama-florencia-pena-a-luzu-tv-barby-franco-revelo-la-millonaria-cifra",
-      "title": "Cuánto dinero le reclama Florencia Peña a Luzu TV: Barby Franco reveló la millonaria cifra",
-      "volanta": "SIGUE LA POLÉMICA",
-      "date": "2026-07-02T16:53:33+00:00"
     }
   ]
 }
