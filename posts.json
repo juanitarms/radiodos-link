@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T15:10:05+00:00",
+  "updated": "2026-07-06T16:09:35+00:00",
   "posts": [
+    {
+      "id": "7372cb4c",
+      "image": "img/7372cb4c.png",
+      "image_sha": "d83b5dc8715a25710a2830a1cd3d0820c9accdce",
+      "url": "https://www.radiodos.com.ar/210588-salud-vapeadores-tabaco-calentado-y-bolsitas-de-nicotina-deberan-incluir-advertencias",
+      "title": "Salud: vapeadores, tabaco calentado y bolsitas de nicotina deberán incluir advertencias",
+      "volanta": "OFICIAL",
+      "date": "2026-07-06T16:09:35+00:00"
+    },
     {
       "id": "3dc5f1fc",
       "image": "img/3dc5f1fc.png",
@@ -531,15 +540,6 @@
       "title": "Se cumple la Alerta Amarilla por frío extremo en Corrientes",
       "volanta": "AHORA",
       "date": "2026-07-03T10:29:25+00:00"
-    },
-    {
-      "id": "3c1b0bef",
-      "image": "img/3c1b0bef.png",
-      "image_sha": "cc8669b743978460868caa73ef374c2bd6c33a4c",
-      "url": "https://www.radiodos.com.ar/210465-traidores-a-la-patria-lula-da-silva-critico-a-la-familia-bolsonaro-por-su-actitud-servil-para-con-eeuu",
-      "title": "\"Traidores a la Patria\": Lula da Silva criticó a la familia Bolsonaro por su \"actitud servil\" para con EEUU",
-      "volanta": "BRASIL",
-      "date": "2026-07-02T23:33:53+00:00"
     }
   ]
 }
