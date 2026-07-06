@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T11:29:18+00:00",
+  "updated": "2026-07-06T11:43:01+00:00",
   "posts": [
+    {
+      "id": "1efff779",
+      "image": "img/1efff779.png",
+      "image_sha": "e52640a2bdc3687bae2eddb123cb25b51a0b4586",
+      "url": "https://www.radiodos.com.ar/210565-federal-a-boca-unidos-consiguio-un-triunfo-clave-ante-sarmiento-",
+      "title": "Federal A: Boca Unidos consiguió un triunfo clave ante Sarmiento",
+      "volanta": "EN EL LEONCIO BENITEZ",
+      "date": "2026-07-06T11:43:01+00:00"
+    },
     {
       "id": "b0cb8279",
       "image": "img/b0cb8279.png",
@@ -531,15 +540,6 @@
       "title": "La emotiva historia de \"Pirú\", el nuevo \"integrante\" de la Policía de Corrientes",
       "volanta": "ESTABA ABANDONADO AL COSTADO DE LA RUTA",
       "date": "2026-07-02T20:36:40+00:00"
-    },
-    {
-      "id": "80d85a75",
-      "image": "img/80d85a75.png",
-      "image_sha": "b3efa2c4c8c66713eb5e13361ac303f3c007dc21",
-      "url": "https://www.radiodos.com.ar/210444-la-amenaza-de-los-arcangeles-el-engano-con-el-que-una-falsa-vidente-robo-miles-de-dolares-y-millones-de-pesos",
-      "title": "La amenaza de los arcángeles: el engaño con el que una falsa vidente robó miles de dólares y millones de pesos",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-02T17:42:52+00:00"
     }
   ]
 }
