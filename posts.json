@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T13:13:33+00:00",
+  "updated": "2026-07-06T13:56:09+00:00",
   "posts": [
+    {
+      "id": "14b50cbd",
+      "image": "img/14b50cbd.png",
+      "image_sha": "02613597f24c8e58302a13c334da9515580a8e7f",
+      "url": "https://www.radiodos.com.ar/210585-argentina-envio-un-nuevo-contingente-de-rescatistas-a-venezuela",
+      "title": "Argentina envió un nuevo contingente de rescatistas a Venezuela",
+      "volanta": "TRAS LOS TERREMOTOS",
+      "date": "2026-07-06T13:56:09+00:00"
+    },
     {
       "id": "691f486b",
       "image": "img/691f486b.png",
@@ -531,15 +540,6 @@
       "title": "Coty Romero confesó que hay alguien que le interesa y revolucionó las redes",
       "volanta": "BOMBA",
       "date": "2026-07-02T22:46:46+00:00"
-    },
-    {
-      "id": "602b289f",
-      "image": "img/602b289f.png",
-      "image_sha": "36afbe3e4b68b6e1a95b2611be7ba5fef62c9203",
-      "url": "https://www.radiodos.com.ar/210459-espana-golea-3-0-a-austria-y-avanza-a-octavos",
-      "title": "España golea 3-0 a Austria y avanza a octavos",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-02T22:45:19+00:00"
     }
   ]
 }
