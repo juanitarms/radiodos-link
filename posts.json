@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T11:18:47+00:00",
+  "updated": "2026-07-07T11:28:42+00:00",
   "posts": [
+    {
+      "id": "3c782057",
+      "image": "img/3c782057.png",
+      "image_sha": "3de4ccb8f4da9defd1e006f4b8d0d9e0a3c393de",
+      "url": "https://www.radiodos.com.ar/210631-fan-fest-el-aliento-a-la-seleccion-argentina-sera-nuevamente-en-la-rotonda-poncho-verde",
+      "title": "Fan Fest: el aliento a la Selección Argentina será nuevamente en la Rotonda Poncho Verde",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-07T11:28:42+00:00"
+    },
     {
       "id": "f2a8b589",
       "image": "img/f2a8b589.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a un hombre que violó la perimetral e invadió la casa de su expareja en el barrio Dr. Montaña",
       "volanta": "CORRIENTES",
       "date": "2026-07-03T20:35:35+00:00"
-    },
-    {
-      "id": "e31d706f",
-      "image": "img/e31d706f.png",
-      "image_sha": "2be4da5e9aae4383a667c3211975582f8967a8e7",
-      "url": "https://www.radiodos.com.ar/210507-este-martes-7-de-julio-inicia-el-pago-del-plus-municipal",
-      "title": "Este martes 7 de julio inicia el pago del plus municipal",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-03T20:33:22+00:00"
     }
   ]
 }
