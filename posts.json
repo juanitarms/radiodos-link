@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T15:14:22+00:00",
+  "updated": "2026-07-07T16:45:10+00:00",
   "posts": [
+    {
+      "id": "939cef03",
+      "image": "img/939cef03.png",
+      "image_sha": "de15a122161f27a4368e14eb6d104bd8e03924ae",
+      "url": "https://www.radiodos.com.ar/210666-la-sorpresiva-declaracion-de-fiorella-gimenez-tras-su-separacion-definitiva-de-agustin-cachete-sierra-",
+      "title": "La sorpresiva declaración de Fiorella Giménez tras su separación definitiva de Agustín \"Cachete\" Sierra",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-07-07T16:45:10+00:00"
+    },
     {
       "id": "1a19cc40",
       "image": "img/1a19cc40.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: cayó conocido arrebatador tras robar un celular",
       "volanta": "RAPIDO ACCIONAR",
       "date": "2026-07-04T18:41:32+00:00"
-    },
-    {
-      "id": "fe990cae",
-      "image": "img/fe990cae.png",
-      "image_sha": "5f7f02a1531833909358816fd85b680fa1dc2fc2",
-      "url": "https://www.radiodos.com.ar/210517-corrientes-con-cuchillo-y-a-golpes-le-roban-a-un-joven-en-la-vereda-de-un-kiosco",
-      "title": "Corrientes: con cuchillo y a  golpes le roban a un joven en la vereda de un kiosco",
-      "volanta": "LA POLICÍA RECUPERÓ EL CELULAR",
-      "date": "2026-07-04T17:05:37+00:00"
     }
   ]
 }
