@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T20:35:14+00:00",
+  "updated": "2026-07-07T20:36:42+00:00",
   "posts": [
+    {
+      "id": "8c6579e4",
+      "image": "img/8c6579e4.png",
+      "image_sha": "f38ad0d08bf6789af0423a2c9c8df16e5a78c8b1",
+      "url": "https://www.radiodos.com.ar/210675-trabajadores-de-un-aserradero-denuncian-incumplimiento-salarial",
+      "title": "Trabajadores de un aserradero denuncian incumplimiento salarial",
+      "volanta": "CONFLICTO",
+      "date": "2026-07-07T20:36:42+00:00"
+    },
     {
       "id": "cd484987",
       "image": "img/cd484987.png",
@@ -531,15 +540,6 @@
       "title": "Un joven motociclista murió tras chocar contra una columna de alumbrado",
       "volanta": "CORRIENTES",
       "date": "2026-07-05T23:18:19+00:00"
-    },
-    {
-      "id": "8d37dcfa",
-      "image": "img/8d37dcfa.png",
-      "image_sha": "f330f3d05eafa62a12c8a94a2408d7b528c02e7b",
-      "url": "https://www.radiodos.com.ar/210551-paso-de-los-libres-un-motociclista-murio-tras-un-choque-con-un-automovil",
-      "title": "Paso de los Libres: un motociclista murió tras un choque con un automóvil",
-      "volanta": "ACCIDENTE",
-      "date": "2026-07-05T15:33:48+00:00"
     }
   ]
 }
