@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T15:06:12+00:00",
+  "updated": "2026-07-07T15:14:22+00:00",
   "posts": [
+    {
+      "id": "1a19cc40",
+      "image": "img/1a19cc40.png",
+      "image_sha": "329e6fb837b5795c1dbbe635723b8c6edf04ae3c",
+      "url": "https://www.radiodos.com.ar/210667-corrientes-prepara-un-gran-desfile-para-celebrar-el-dia-de-la-independencia",
+      "title": "Corrientes prepara un gran desfile para celebrar el Día de la Independencia",
+      "volanta": "9 DE JULIO",
+      "date": "2026-07-07T15:14:22+00:00"
+    },
     {
       "id": "9c9bc561",
       "image": "img/9c9bc561.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: con cuchillo y a  golpes le roban a un joven en la vereda de un kiosco",
       "volanta": "LA POLICÍA RECUPERÓ EL CELULAR",
       "date": "2026-07-04T17:05:37+00:00"
-    },
-    {
-      "id": "9215d7e6",
-      "image": "img/9215d7e6.png",
-      "image_sha": "6f184b9992a26c126f3eee2a7bdf2fb14ed9af42",
-      "url": "https://www.radiodos.com.ar/210518-corrientes-policias-rescataron-a-un-adulto-mayor-y-a-una-persona-con-sindrome-de-down-de-una-vivienda-en-llamas",
-      "title": "RESCATARON A UN ADULTO MAYOR Y A UNA PERSONA CON SÍNDROME DE DOWN DE UNA VIVIENDA EN LLAMAS",
-      "volanta": "BARRIO COLOMBIA GRANADEROS",
-      "date": "2026-07-04T15:50:51+00:00"
     }
   ]
 }
