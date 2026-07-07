@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T20:30:19+00:00",
+  "updated": "2026-07-07T20:30:53+00:00",
   "posts": [
+    {
+      "id": "afd92a35",
+      "image": "img/afd92a35.png",
+      "image_sha": "279b453095295ae2a3abcaa9811068a2cd2199ad",
+      "url": "https://www.radiodos.com.ar/210672-scaloni-este-equipo-nunca-va-a-dejar-tirada-a-su-gente",
+      "title": "Scaloni: \"Este equipo nunca va a dejar tirada a su gente\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-07T20:30:53+00:00"
+    },
     {
       "id": "35b52c9e",
       "image": "img/35b52c9e.png",
@@ -531,15 +540,6 @@
       "title": "Emilio Lanari: \"Estamos comprometidos en mejorar la salud pública de Corrientes\"",
       "volanta": "EN LO BUENO, LO MALO Y LO FEO",
       "date": "2026-07-05T15:18:22+00:00"
-    },
-    {
-      "id": "7a2c0185",
-      "image": "img/7a2c0185.png",
-      "image_sha": "89a0cf5c2ca569645e565c695b2e751ea12b0313",
-      "url": "https://www.radiodos.com.ar/210547-corrientes-descarta-prohibir-el-uso-de-los-celulares-en-las-aulas",
-      "title": "Corrientes descarta prohibir el uso de los celulares en las aulas",
-      "volanta": "TECNOLOGÍA",
-      "date": "2026-07-05T14:39:53+00:00"
     }
   ]
 }
