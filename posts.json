@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T13:21:42+00:00",
+  "updated": "2026-07-07T13:35:44+00:00",
   "posts": [
+    {
+      "id": "444fda7e",
+      "image": "img/444fda7e.png",
+      "image_sha": "318160bb3414abef9148049ff65ae925f91a8cec",
+      "url": "https://www.radiodos.com.ar/210648-luto-en-el-periodismo-de-corrientes-por-el-fallecimiento-de-cronista-de-tv",
+      "title": "Luto en el periodismo de Corrientes por el fallecimiento de cronista de TV",
+      "volanta": "DUELO",
+      "date": "2026-07-07T13:35:44+00:00"
+    },
     {
       "id": "5b80e452",
       "image": "img/5b80e452.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Messi anotó su 20° gol en mundiales y la Scaloneta enfrentará a Egipto",
       "volanta": "En Miami",
       "date": "2026-07-04T00:09:15+00:00"
-    },
-    {
-      "id": "0920a8b1",
-      "image": "img/0920a8b1.png",
-      "image_sha": "0a798e5390abac5dfd910f2c0acdfdfbd40ad5f0",
-      "url": "https://www.radiodos.com.ar/210512-mundial-2026-egipto-gano-por-penales-y-espera-por-argentina-o-cabo-verde",
-      "title": "Mundial 2026: Egipto ganó por penales y espera por Argentina o Cabo Verde",
-      "volanta": "En Dallas",
-      "date": "2026-07-03T23:01:07+00:00"
     }
   ]
 }
