@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T11:49:12+00:00",
+  "updated": "2026-07-07T12:23:06+00:00",
   "posts": [
+    {
+      "id": "4ee0f45c",
+      "image": "img/4ee0f45c.png",
+      "image_sha": "56d570187d84b019609acdefd3e852320e134af4",
+      "url": "https://www.radiodos.com.ar/210634-salarios-en-corrientes-jp-valdes-subrayo-que-si-mejora-la-recaudacion-podremos-evaluar-un-tercer-y-cuarto-aumento-en-el-ano",
+      "title": "Salarios en Corrientes: JP Valdés subrayó que \"si mejora la recaudación podremos evaluar un tercer y cuarto aumento en el año\"",
+      "volanta": "EL GOBERNADOR INSISTE EN TENER CAUTELA",
+      "date": "2026-07-07T12:23:06+00:00"
+    },
     {
       "id": "aab52d96",
       "image": "img/aab52d96.png",
@@ -531,15 +540,6 @@
       "title": "Prefectura desarticula una banda, detiene a dos personas y secuestra bienes por $69 millones",
       "volanta": "CORRIENTES",
       "date": "2026-07-03T21:57:30+00:00"
-    },
-    {
-      "id": "847a729a",
-      "image": "img/847a729a.png",
-      "image_sha": "87e3d3cd425a30305ff9e96b24e8b787a1b3edd5",
-      "url": "https://www.radiodos.com.ar/210508-​un-operario-de-la-dpec-resulto-herido-tras-ser-atacado-por-un-usuario",
-      "title": "​Un operario de la DPEC resultó herido tras ser atacado por un usuario",
-      "volanta": "En Lomas de Vallejos",
-      "date": "2026-07-03T20:36:51+00:00"
     }
   ]
 }
