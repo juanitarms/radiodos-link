@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T16:47:33+00:00",
+  "updated": "2026-07-07T17:47:17+00:00",
   "posts": [
+    {
+      "id": "6efdd1aa",
+      "image": "img/6efdd1aa.png",
+      "image_sha": "844271bd46f18b3738adfa25f8eab73cfe72f973",
+      "url": "https://www.radiodos.com.ar/210671-mundial-2026-egipto-sorprende-a-la-scaloneta",
+      "title": "Mundial 2026: Egipto sorprende a La Scaloneta",
+      "volanta": "En Atlanta",
+      "date": "2026-07-07T17:47:17+00:00"
+    },
     {
       "id": "72291d8c",
       "image": "img/72291d8c.png",
@@ -531,15 +540,6 @@
       "title": "García Cuerva pidió mayor compromiso ante la falta de trabajo y la pobreza",
       "volanta": "IGLESIA CATOLICA",
       "date": "2026-07-05T14:23:53+00:00"
-    },
-    {
-      "id": "d6d2a2e0",
-      "image": "img/d6d2a2e0.png",
-      "image_sha": "266d6beba196af63075b0c60413129e969ba80a1",
-      "url": "https://www.radiodos.com.ar/210550-encontraron-37-kilos-de-cocaina-en-un-bunker-narco-en-corrientes",
-      "title": "Encontraron 37 kilos de cocaína en un búnker narco en Corrientes",
-      "volanta": "Fuerte golpe al crimen organizado",
-      "date": "2026-07-05T14:05:25+00:00"
     }
   ]
 }
