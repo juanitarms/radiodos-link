@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T14:49:38+00:00",
+  "updated": "2026-07-07T15:06:12+00:00",
   "posts": [
+    {
+      "id": "9c9bc561",
+      "image": "img/9c9bc561.png",
+      "image_sha": "50c1a5e97e29d268e680c18d6f1fb37db91e988e",
+      "url": "https://www.radiodos.com.ar/210661-la-academia-nacional-de-ciencias-exactas-expreso-su-preocupacion-por-la-situacion-del-sistema-cientifico",
+      "title": "La Academia Nacional de Ciencias Exactas expresó su preocupación por la situación del sistema científico",
+      "volanta": "CRISIS",
+      "date": "2026-07-07T15:06:12+00:00"
+    },
     {
       "id": "6440ead1",
       "image": "img/6440ead1.png",
@@ -531,15 +540,6 @@
       "title": "RESCATARON A UN ADULTO MAYOR Y A UNA PERSONA CON SÍNDROME DE DOWN DE UNA VIVIENDA EN LLAMAS",
       "volanta": "BARRIO COLOMBIA GRANADEROS",
       "date": "2026-07-04T15:50:51+00:00"
-    },
-    {
-      "id": "56fabec9",
-      "image": "img/56fabec9.png",
-      "image_sha": "01c9b0ae526dcd9e5ff898cd95140c76378ccad7",
-      "url": "https://www.radiodos.com.ar/210516-scaloni-este-equipo-nunca-se-rinde",
-      "title": "Scaloni: \"Este equipo nunca se rinde\"",
-      "volanta": "CLASIFICACIÓN AGÓNICA",
-      "date": "2026-07-04T15:28:42+00:00"
     }
   ]
 }
