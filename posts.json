@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T20:30:53+00:00",
+  "updated": "2026-07-07T20:35:14+00:00",
   "posts": [
+    {
+      "id": "cd484987",
+      "image": "img/cd484987.png",
+      "image_sha": "e852e351ff103a8ddf638070c8e1805cbcabd91f",
+      "url": "https://www.radiodos.com.ar/210676-remontada-para-el-recuerdo-centenares-de-correntinos-desataron-su-alegria-en-el-quinto-fan-fest-municipal",
+      "title": "Remontada para el recuerdo: centenares de correntinos desataron su alegría en el quinto Fan Fest municipal",
+      "volanta": "EL MUNDIAL SE VIVE A PLENO EN LA CIUDAD",
+      "date": "2026-07-07T20:35:14+00:00"
+    },
     {
       "id": "afd92a35",
       "image": "img/afd92a35.png",
@@ -531,15 +540,6 @@
       "title": "Paso de los Libres: un motociclista murió tras un choque con un automóvil",
       "volanta": "ACCIDENTE",
       "date": "2026-07-05T15:33:48+00:00"
-    },
-    {
-      "id": "37149b78",
-      "image": "img/37149b78.png",
-      "image_sha": "463ae86abb0f8c8c8ce7e7db01d4a120d92007a6",
-      "url": "https://www.radiodos.com.ar/210552-emilio-lanari-estamos-comprometidos-en-mejorar-la-salud-publica-de-corrientes",
-      "title": "Emilio Lanari: \"Estamos comprometidos en mejorar la salud pública de Corrientes\"",
-      "volanta": "EN LO BUENO, LO MALO Y LO FEO",
-      "date": "2026-07-05T15:18:22+00:00"
     }
   ]
 }
