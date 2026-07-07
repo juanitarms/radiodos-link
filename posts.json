@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T23:45:23+00:00",
+  "updated": "2026-07-07T10:33:32+00:00",
   "posts": [
+    {
+      "id": "bdddacce",
+      "image": "img/bdddacce.png",
+      "image_sha": "d43c679c9da986001e789924bf687aeb8407e3e9",
+      "url": "https://www.radiodos.com.ar/210629-juicio-por-la-desaparicion-de-loan-hoy-declaran-un-primo-un-tio-y-un-testigo",
+      "title": "Juicio por la desaparición de Loan: hoy declaran un primo, un tío y un testigo",
+      "volanta": "OCTAVA AUDIENCIA",
+      "date": "2026-07-07T10:33:32+00:00"
+    },
     {
       "id": "9314a964",
       "image": "img/9314a964.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes otorga subsidios a 60 cuarteles de bomberos ante la emergencia climática",
       "volanta": "APOYO ESTATAL",
       "date": "2026-07-03T20:30:03+00:00"
-    },
-    {
-      "id": "84bcfb88",
-      "image": "img/84bcfb88.png",
-      "image_sha": "2e1d06db1ccd0547ee794027624655fae941df50",
-      "url": "https://www.radiodos.com.ar/210493-rosalia-y-penelope-cruz-presentes-y-sonrientes-en-el-triunfo-de-espana-ante-austria",
-      "title": "Rosalía y Penélope Cruz, presentes y sonrientes en el triunfo de España ante Austria",
-      "volanta": "FESTEJOS",
-      "date": "2026-07-03T18:51:55+00:00"
     }
   ]
 }
