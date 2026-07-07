@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T16:45:10+00:00",
+  "updated": "2026-07-07T16:45:47+00:00",
   "posts": [
+    {
+      "id": "4255fd73",
+      "image": "img/4255fd73.png",
+      "image_sha": "95362583f8d12ee7bad0b117213049fdbac518ee",
+      "url": "https://www.radiodos.com.ar/210665-eva-bargiela-vivio-un-momento-desesperante-durante-el-mundial-2026",
+      "title": "Eva Bargiela vivió un momento desesperante durante el Mundial 2026",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-07-07T16:45:47+00:00"
+    },
     {
       "id": "939cef03",
       "image": "img/939cef03.png",
@@ -531,15 +540,6 @@
       "title": "Francia le ganó a Paraguay en una auténtica batalla y sigue en carrera en el Mundial",
       "volanta": "PASÓ A OCTAVOS",
       "date": "2026-07-05T00:25:21+00:00"
-    },
-    {
-      "id": "f6e7787d",
-      "image": "img/f6e7787d.png",
-      "image_sha": "0722d41f753cac7dac11045e7440d08270e61f3e",
-      "url": "https://www.radiodos.com.ar/210521-corrientes-cayo-conocido-arrebatador-tras-robar-un-celular",
-      "title": "Corrientes: cayó conocido arrebatador tras robar un celular",
-      "volanta": "RAPIDO ACCIONAR",
-      "date": "2026-07-04T18:41:32+00:00"
     }
   ]
 }
