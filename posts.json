@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T13:35:44+00:00",
+  "updated": "2026-07-07T14:01:54+00:00",
   "posts": [
+    {
+      "id": "979c86fc",
+      "image": "img/979c86fc.png",
+      "image_sha": "fc00e893c9bde89192a8d1ade6faf50c5e8a44b4",
+      "url": "https://www.radiodos.com.ar/210645-cambios-en-el-ministerio-de-salud-renuncio-guido-giana-y-ya-tiene-reemplazante",
+      "title": "Cambios en el Ministerio de Salud: renunció Guido Giana y ya tiene reemplazante",
+      "volanta": "NOVEDAD",
+      "date": "2026-07-07T14:01:54+00:00"
+    },
     {
       "id": "444fda7e",
       "image": "img/444fda7e.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Argentina sufrió mucho, pero pudo superar el escollo de los Tiburones Azules",
       "volanta": "En Miami",
       "date": "2026-07-04T01:17:25+00:00"
-    },
-    {
-      "id": "de40dfc6",
-      "image": "img/de40dfc6.png",
-      "image_sha": "47188451e9e27eaea9fd82b94531bb3824e75640",
-      "url": "https://www.radiodos.com.ar/210513-mundial-2026-messi-anoto-su-20°-gol-en-mundiales-y-la-scaloneta-enfrentara-a-egipto",
-      "title": "Mundial 2026: Messi anotó su 20° gol en mundiales y la Scaloneta enfrentará a Egipto",
-      "volanta": "En Miami",
-      "date": "2026-07-04T00:09:15+00:00"
     }
   ]
 }
