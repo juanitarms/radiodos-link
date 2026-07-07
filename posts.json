@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T10:33:32+00:00",
+  "updated": "2026-07-07T11:18:47+00:00",
   "posts": [
+    {
+      "id": "f2a8b589",
+      "image": "img/f2a8b589.png",
+      "image_sha": "d4df5455c0d63fb2c88d32e805bdb04f452e5f9d",
+      "url": "https://www.radiodos.com.ar/210630-hoy-juega-argentina-y-las-escuelas-correntinas-tendran-horario-reducido",
+      "title": "Hoy juega Argentina y las escuelas correntinas tendrán horario reducido",
+      "volanta": "COMUNICADO OFICIAL",
+      "date": "2026-07-07T11:18:47+00:00"
+    },
     {
       "id": "bdddacce",
       "image": "img/bdddacce.png",
@@ -531,15 +540,6 @@
       "title": "Este martes 7 de julio inicia el pago del plus municipal",
       "volanta": "CORRIENTES",
       "date": "2026-07-03T20:33:22+00:00"
-    },
-    {
-      "id": "2daa1873",
-      "image": "img/2daa1873.png",
-      "image_sha": "67e489ee5269f57582a0afd06fb242cc27afffe0",
-      "url": "https://www.radiodos.com.ar/210505-el-gobierno-de-corrientes-otorga-subsidios-a-60-cuarteles-de-bomberos-ante-la-emergencia-climatica",
-      "title": "El Gobierno de Corrientes otorga subsidios a 60 cuarteles de bomberos ante la emergencia climática",
-      "volanta": "APOYO ESTATAL",
-      "date": "2026-07-03T20:30:03+00:00"
     }
   ]
 }
