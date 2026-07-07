@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T21:15:04+00:00",
+  "updated": "2026-07-07T21:33:23+00:00",
   "posts": [
+    {
+      "id": "9525cfdc",
+      "image": "img/9525cfdc.png",
+      "image_sha": "dea0248e7cbd4b75ac0832a776a614b7b7484cf2",
+      "url": "https://www.radiodos.com.ar/210680-valdes-y-passalacqua-apostaron-a-la-union-entre-misiones-y-corrientes",
+      "title": "Valdés y Passalacqua apostaron a la unión entre Misiones y Corrientes",
+      "volanta": "ENCUENTRO EN POSADAS",
+      "date": "2026-07-07T21:33:23+00:00"
+    },
     {
       "id": "24591faf",
       "image": "img/24591faf.png",
@@ -531,15 +540,6 @@
       "title": "Trágico accidente en Chaco: murió un joven futbolista de 18 años",
       "volanta": "Iba en moto",
       "date": "2026-07-06T11:16:31+00:00"
-    },
-    {
-      "id": "53064972",
-      "image": "img/53064972.png",
-      "image_sha": "d1311af127ef38b514407e5af3797e04ab497978",
-      "url": "https://www.radiodos.com.ar/210560-mundial-2026-en-un-partidazo-inglaterra-elimino-al-tri-segundo-anfitrion-del-torneo",
-      "title": "Mundial 2026: En un partidazo Inglaterra eliminó al Tri, segundo anfitrión del torneo",
-      "volanta": "En México",
-      "date": "2026-07-06T10:55:10+00:00"
     }
   ]
 }
