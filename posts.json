@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T17:47:17+00:00",
+  "updated": "2026-07-07T20:30:19+00:00",
   "posts": [
+    {
+      "id": "35b52c9e",
+      "image": "img/35b52c9e.png",
+      "image_sha": "d60ab25dd2ca0201c5d693a42ef2deacc2616431",
+      "url": "https://www.radiodos.com.ar/210673-hubo-factores-externos-querian-dejar-a-messi-dijo-el-dt-de-egipto-tras-la-derrota-con-argentina",
+      "title": "\"Hubo factores externos; querían dejar a Messi\", dijo el DT de Egipto tras la derrota con Argentina",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-07T20:30:19+00:00"
+    },
     {
       "id": "6efdd1aa",
       "image": "img/6efdd1aa.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes descarta prohibir el uso de los celulares en las aulas",
       "volanta": "TECNOLOGÍA",
       "date": "2026-07-05T14:39:53+00:00"
-    },
-    {
-      "id": "ebe92269",
-      "image": "img/ebe92269.png",
-      "image_sha": "13e40c1580b2113ddd8a87cffec3b2ca0514d798",
-      "url": "https://www.radiodos.com.ar/210549-garcia-cuerva-pidio-mayor-compromiso-ante-la-falta-de-trabajo-y-la-pobreza",
-      "title": "García Cuerva pidió mayor compromiso ante la falta de trabajo y la pobreza",
-      "volanta": "IGLESIA CATOLICA",
-      "date": "2026-07-05T14:23:53+00:00"
     }
   ]
 }
