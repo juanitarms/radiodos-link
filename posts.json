@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T14:01:54+00:00",
+  "updated": "2026-07-07T14:16:25+00:00",
   "posts": [
+    {
+      "id": "c42a5f8f",
+      "image": "img/c42a5f8f.png",
+      "image_sha": "6c33b5c3b2cf418d55b5c08534cb282ea010ba21",
+      "url": "https://www.radiodos.com.ar/210651-se-conocieron-detalles-del-crimen-del-joven-que-fue-encontrado-enterrado-en-santa-fe",
+      "title": "Se conocieron detalles del crimen del joven que fue encontrado enterrado en Santa Fe",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-07T14:16:25+00:00"
+    },
     {
       "id": "979c86fc",
       "image": "img/979c86fc.png",
@@ -531,15 +540,6 @@
       "title": "Messi, tras la sufrida clasificación: \"Esta Selección Argentina compite y va a competir hasta el final\"",
       "volanta": "PASO CABO VERDE",
       "date": "2026-07-04T12:06:53+00:00"
-    },
-    {
-      "id": "e3248e1f",
-      "image": "img/e3248e1f.png",
-      "image_sha": "f13ce2acb90d91a140c9094cdf015fd0b1221d9b",
-      "url": "https://www.radiodos.com.ar/210514-mundial-2026-argentina-sufrio-mucho-pero-pudo-superar-el-escollo-de-los-tiburones-azules",
-      "title": "Mundial 2026: Argentina sufrió mucho, pero pudo superar el escollo de los Tiburones Azules",
-      "volanta": "En Miami",
-      "date": "2026-07-04T01:17:25+00:00"
     }
   ]
 }
