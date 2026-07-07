@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T16:45:47+00:00",
+  "updated": "2026-07-07T16:46:24+00:00",
   "posts": [
+    {
+      "id": "32c4b78d",
+      "image": "img/32c4b78d.png",
+      "image_sha": "c362f328462819bc425e60375a22c05c0005ee0b",
+      "url": "https://www.radiodos.com.ar/210664-quien-quedo-eliminado-de-gran-hermano-generacion-dorada-este-lunes",
+      "title": "Quién quedó eliminado de Gran Hermano Generación Dorada este lunes",
+      "volanta": "SIGUE EL JUEGO",
+      "date": "2026-07-07T16:46:24+00:00"
+    },
     {
       "id": "4255fd73",
       "image": "img/4255fd73.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: Tras allanamientos secuestran elementos por presunta tenencia y distribución de pornografía infantil",
       "volanta": "CURUZÚ CUATIÁ",
       "date": "2026-07-05T13:28:53+00:00"
-    },
-    {
-      "id": "1c29e409",
-      "image": "img/1c29e409.png",
-      "image_sha": "e132552a3aa5078f3d47e1f70a1e0223a3d570ee",
-      "url": "https://www.radiodos.com.ar/210545-francia-le-gano-a-paraguay-en-una-autentica-batalla-y-sigue-en-carrera-en-el-mundial",
-      "title": "Francia le ganó a Paraguay en una auténtica batalla y sigue en carrera en el Mundial",
-      "volanta": "PASÓ A OCTAVOS",
-      "date": "2026-07-05T00:25:21+00:00"
     }
   ]
 }
