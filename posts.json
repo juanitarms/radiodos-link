@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T21:33:23+00:00",
+  "updated": "2026-07-07T21:33:55+00:00",
   "posts": [
+    {
+      "id": "55800af6",
+      "image": "img/55800af6.png",
+      "image_sha": "128f778b4cd0750cff3065538de8251c1bac21e4",
+      "url": "https://www.radiodos.com.ar/210681-el-teatro-vera-lanza-un-ciclo-de-clases-de-musica-gratuitas-para-ninos",
+      "title": "El Teatro Vera lanza un ciclo de clases de música gratuitas para niños",
+      "volanta": "FORMACIÓN ARTÍSTICA",
+      "date": "2026-07-07T21:33:55+00:00"
+    },
     {
       "id": "9525cfdc",
       "image": "img/9525cfdc.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador Juan Pablo Valdés anunció obras para el interior con inversión provincial",
       "volanta": "ANIVERSARIO DE MERCEDES",
       "date": "2026-07-06T11:28:30+00:00"
-    },
-    {
-      "id": "50fc6433",
-      "image": "img/50fc6433.png",
-      "image_sha": "820cf847c1297964d055b1f24d5f9d6823800bdf",
-      "url": "https://www.radiodos.com.ar/210561-tragico-accidente-en-chaco-murio-un-joven-futbolista-de-18-anos",
-      "title": "Trágico accidente en Chaco: murió un joven futbolista de 18 años",
-      "volanta": "Iba en moto",
-      "date": "2026-07-06T11:16:31+00:00"
     }
   ]
 }
