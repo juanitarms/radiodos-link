@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T11:28:42+00:00",
+  "updated": "2026-07-07T11:49:12+00:00",
   "posts": [
+    {
+      "id": "aab52d96",
+      "image": "img/aab52d96.png",
+      "image_sha": "6a08dc31418f619bab3f5d11607cc2a5cae33af9",
+      "url": "https://www.radiodos.com.ar/210635-corrientes-imprudente-maniobra-en-una-avenida-termino-con-un-motociclista-herido",
+      "title": "Corrientes: imprudente maniobra en una avenida terminó con un motociclista herido",
+      "volanta": "MAIPÚ Y 13 DE JUNIO",
+      "date": "2026-07-07T11:49:12+00:00"
+    },
     {
       "id": "3c782057",
       "image": "img/3c782057.png",
@@ -531,15 +540,6 @@
       "title": "​Un operario de la DPEC resultó herido tras ser atacado por un usuario",
       "volanta": "En Lomas de Vallejos",
       "date": "2026-07-03T20:36:51+00:00"
-    },
-    {
-      "id": "33498ddf",
-      "image": "img/33498ddf.png",
-      "image_sha": "f5454877492621d769374996ca3452c2bf263475",
-      "url": "https://www.radiodos.com.ar/210509-detienen-a-un-hombre-que-violo-la-perimetral-e-invadio-la-casa-de-su-expareja-en-el-barrio-dr-montana",
-      "title": "Detienen a un hombre que violó la perimetral e invadió la casa de su expareja en el barrio Dr. Montaña",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-03T20:35:35+00:00"
     }
   ]
 }
