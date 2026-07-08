@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T12:34:04+00:00",
+  "updated": "2026-07-08T13:00:16+00:00",
   "posts": [
+    {
+      "id": "5a8322ea",
+      "image": "img/5a8322ea.png",
+      "image_sha": "903161e51b0b65beaad6958e09b0c905af6e5b05",
+      "url": "https://www.radiodos.com.ar/210702-festejos-en-corrientes-un-policia-termino-herido-tras-una-persecucion",
+      "title": "Festejos en Corrientes: un policía terminó herido tras una persecución",
+      "volanta": "VIOLENCIA",
+      "date": "2026-07-08T13:00:16+00:00"
+    },
     {
       "id": "770a9518",
       "image": "img/770a9518.png",
@@ -531,15 +540,6 @@
       "title": "Mañana comienza la 16° Feria Provincial del Libro: más de 200 actividades para disfrutar",
       "volanta": "EN LA UNIDAD",
       "date": "2026-07-06T14:15:37+00:00"
-    },
-    {
-      "id": "14b50cbd",
-      "image": "img/14b50cbd.png",
-      "image_sha": "02613597f24c8e58302a13c334da9515580a8e7f",
-      "url": "https://www.radiodos.com.ar/210585-argentina-envio-un-nuevo-contingente-de-rescatistas-a-venezuela",
-      "title": "Argentina envió un nuevo contingente de rescatistas a Venezuela",
-      "volanta": "TRAS LOS TERREMOTOS",
-      "date": "2026-07-06T13:56:09+00:00"
     }
   ]
 }
