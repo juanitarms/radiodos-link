@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:41:47+00:00",
+  "updated": "2026-07-08T19:08:44+00:00",
   "posts": [
+    {
+      "id": "f636c742",
+      "image": "img/f636c742.png",
+      "image_sha": "316a1e11a9cbf92e27b974e909b4a85579fce70c",
+      "url": "https://www.radiodos.com.ar/210735-paso-de-la-patria-se-alista-para-la-edicion-61°-de-la-fiesta-nacional-del-dorado",
+      "title": "Paso de la Patria se alista para la edición 61° de la Fiesta Nacional del Dorado",
+      "volanta": "LANZAMIENTO EN CASA DE GOBIERNO",
+      "date": "2026-07-08T19:08:44+00:00"
+    },
     {
       "id": "57e4d0a2",
       "image": "img/57e4d0a2.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes separó de la fuerza a la oficial detenida vinculada a banda narco",
       "volanta": "ADELANTO",
       "date": "2026-07-06T21:43:13+00:00"
-    },
-    {
-      "id": "e598fd56",
-      "image": "img/e598fd56.png",
-      "image_sha": "684f32a10ccdc2752a884dfb7a2398e2ad748864",
-      "url": "https://www.radiodos.com.ar/210617-el-yacht-club-corrientes-arraso-en-el-cierre-del-campeonato-provincial",
-      "title": "El Yacht Club Corrientes arrasó en el cierre del campeonato provincial",
-      "volanta": "VELA LIGERA",
-      "date": "2026-07-06T21:42:37+00:00"
     }
   ]
 }
