@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T14:52:30+00:00",
+  "updated": "2026-07-08T15:01:10+00:00",
   "posts": [
+    {
+      "id": "ab77c638",
+      "image": "img/ab77c638.png",
+      "image_sha": "75ad49324e55a077bd0c4e9b6223f375022f9fb2",
+      "url": "https://www.radiodos.com.ar/210716-un-cirujano-de-un-hospital-publico-le-exigio-250000-a-un-paciente-para-operarlo",
+      "title": "Un cirujano de un hospital público le exigió $250.000 a un paciente para operarlo",
+      "volanta": "SAN JUAN",
+      "date": "2026-07-08T15:01:10+00:00"
+    },
     {
       "id": "4ddd2030",
       "image": "img/4ddd2030.png",
@@ -531,15 +540,6 @@
       "title": "La insólita lesión de Jordan Henderson: festejaba el pase de Inglaterra y terminó en el hospital",
       "volanta": "De no creer",
       "date": "2026-07-06T17:21:42+00:00"
-    },
-    {
-      "id": "ac87a292",
-      "image": "img/ac87a292.png",
-      "image_sha": "77b16848afe197682c98d1558d1fc3d8b95790e7",
-      "url": "https://www.radiodos.com.ar/210589-las-ferias-de-la-ciudad-renuevan-la-oferta-semanal-con-sus-propuestas-de-productos-frescos-regionales-y-artesanales",
-      "title": "Las Ferias de la Ciudad renuevan la oferta semanal con sus propuestas de productos frescos, regionales y artesanales",
-      "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
-      "date": "2026-07-06T17:21:04+00:00"
     }
   ]
 }
