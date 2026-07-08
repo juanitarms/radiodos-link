@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T13:00:16+00:00",
+  "updated": "2026-07-08T13:36:59+00:00",
   "posts": [
+    {
+      "id": "b5467a88",
+      "image": "img/b5467a88.png",
+      "image_sha": "e852e351ff103a8ddf638070c8e1805cbcabd91f",
+      "url": "https://www.radiodos.com.ar/210697-remontada-para-el-recuerdo-centenares-de-correntinos-desataron-su-alegria-en-el-quinto-fan-fest-municipal",
+      "title": "Remontada para el recuerdo: centenares de correntinos desataron su alegría en el quinto Fan Fest municipal",
+      "volanta": "EL MUNDIAL SE VIVE A PLENO EN LA CIUDAD",
+      "date": "2026-07-08T13:36:59+00:00"
+    },
     {
       "id": "5a8322ea",
       "image": "img/5a8322ea.png",
@@ -531,15 +540,6 @@
       "title": "Milei se hunde en las encuestas: la desaprobación llega al 58%, con la \"corrupción\" como problema principal",
       "volanta": "DATOS",
       "date": "2026-07-06T14:44:31+00:00"
-    },
-    {
-      "id": "14ac7b76",
-      "image": "img/14ac7b76.png",
-      "image_sha": "87de67f0fc08182b27e1c37fb991bcf2137bb772",
-      "url": "https://www.radiodos.com.ar/210583-manana-comienza-la-16°-feria-provincial-del-libro-mas-de-200-actividades-para-disfrutar",
-      "title": "Mañana comienza la 16° Feria Provincial del Libro: más de 200 actividades para disfrutar",
-      "volanta": "EN LA UNIDAD",
-      "date": "2026-07-06T14:15:37+00:00"
     }
   ]
 }
