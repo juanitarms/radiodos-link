@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T21:19:32+00:00",
+  "updated": "2026-07-08T22:38:35+00:00",
   "posts": [
+    {
+      "id": "101c9709",
+      "image": "img/101c9709.png",
+      "image_sha": "275a96cedbbf25c9756642efa1f6dc13c7417c64",
+      "url": "https://www.radiodos.com.ar/210746-impactante-vuelco-en-la-investigacion-de-un-incendio-fatal-en-corrientes-seria-intencional-y-murio-una-amiga-que-estaba-de-visita",
+      "title": "Impactante vuelco en la investigación de un incendio fatal en Corrientes: sería intencional y murió una amiga que estaba de visita",
+      "volanta": "UN DETENIDO",
+      "date": "2026-07-08T22:38:35+00:00"
+    },
     {
       "id": "77308dec",
       "image": "img/77308dec.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni reflexiona sobre la estrategia de Argentina antes del partido contra Egipto",
       "volanta": "Afirmó que Paredes será titular",
       "date": "2026-07-06T23:45:23+00:00"
-    },
-    {
-      "id": "94a65c12",
-      "image": "img/94a65c12.png",
-      "image_sha": "341db62c81092c5c9f8ffe7d87578e7accb4c154",
-      "url": "https://www.radiodos.com.ar/210623-nico-occhiato-hablo-sobre-su-conflicto-legal-con-flor-pena-esta-judicializado",
-      "title": "Nico Occhiato habló sobre su conflicto legal con Flor Peña: \"Está judicializado\"",
-      "volanta": "CASO LUZU TV",
-      "date": "2026-07-06T23:02:03+00:00"
     }
   ]
 }
