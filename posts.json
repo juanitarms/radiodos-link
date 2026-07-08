@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T20:48:59+00:00",
+  "updated": "2026-07-08T20:49:32+00:00",
   "posts": [
+    {
+      "id": "3ab4df97",
+      "image": "img/3ab4df97.png",
+      "image_sha": "52e0a6e5d0d5e65527511f127c466fff6fc08365",
+      "url": "https://www.radiodos.com.ar/210742-exdiputado-correntino-choco-contra-un-camion-por-esquivar-a-una-moto-que-huyo-del-lugar",
+      "title": "Exdiputado correntino chocó contra un camión por esquivar a una moto que huyó del lugar",
+      "volanta": "EN CHACO",
+      "date": "2026-07-08T20:49:32+00:00"
+    },
     {
       "id": "9b72c07a",
       "image": "img/9b72c07a.png",
@@ -531,15 +540,6 @@
       "title": "A 12 días del terremoto en Venezuela: rescataron con vida a una mujer y tres menores atrapados por los escombros",
       "volanta": "MILAGRO",
       "date": "2026-07-06T22:59:28+00:00"
-    },
-    {
-      "id": "7b8b18e0",
-      "image": "img/7b8b18e0.png",
-      "image_sha": "6e5a592fbc72cbda85a64fa0ac7781b43338ff69",
-      "url": "https://www.radiodos.com.ar/210618-se-viene-el-gran-desfile-patrio-de-los-centros-de-desarrollo-infantil",
-      "title": "Se viene el Gran Desfile Patrio de los Centros de Desarrollo Infantil",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-06T21:45:51+00:00"
     }
   ]
 }
