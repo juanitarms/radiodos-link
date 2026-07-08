@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T12:18:24+00:00",
+  "updated": "2026-07-08T12:34:04+00:00",
   "posts": [
+    {
+      "id": "770a9518",
+      "image": "img/770a9518.png",
+      "image_sha": "80f3e0a9d344920e7cb8db196fb9019d056e45b2",
+      "url": "https://www.radiodos.com.ar/210704-una-joven-murio-tras-el-incendio-de-su-vivienda-en-el-interior-de-corrientes",
+      "title": "Una joven murió tras el incendio de su vivienda en el interior de Corrientes",
+      "volanta": "SAN ROQUE",
+      "date": "2026-07-08T12:34:04+00:00"
+    },
     {
       "id": "f2e32b74",
       "image": "img/f2e32b74.png",
@@ -531,15 +540,6 @@
       "title": "Argentina envió un nuevo contingente de rescatistas a Venezuela",
       "volanta": "TRAS LOS TERREMOTOS",
       "date": "2026-07-06T13:56:09+00:00"
-    },
-    {
-      "id": "691f486b",
-      "image": "img/691f486b.png",
-      "image_sha": "d6923d2d247383233858b1bda0920d38d00e3733",
-      "url": "https://www.radiodos.com.ar/210579-valdes-encabezo-el-113°-aniversario-de-colonia-libertad-y-anuncio-nuevas-obras-para-impulsar-el-desarrollo-local",
-      "title": "Valdés encabezó el 113° aniversario de Colonia Libertad y anunció nuevas obras para impulsar el desarrollo local",
-      "volanta": "TAMBIÉN ENTREGÓ VIVIENDAS",
-      "date": "2026-07-06T13:13:33+00:00"
     }
   ]
 }
