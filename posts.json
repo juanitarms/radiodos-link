@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:14:29+00:00",
+  "updated": "2026-07-08T17:15:04+00:00",
   "posts": [
+    {
+      "id": "60dd2a72",
+      "image": "img/60dd2a72.png",
+      "image_sha": "a02abd4be8a10dda05aac8a6557abda93295dc29",
+      "url": "https://www.radiodos.com.ar/210731-el-poder-judicial-firmo-un-convenio-con-el-instituto-superior-carmen-molina-de-llano-para-impulsar-practicas-profesionalizantes",
+      "title": "El Poder Judicial firmó un convenio con el Instituto Superior \"Carmen Molina de Llano\" para impulsar prácticas profesionalizantes",
+      "volanta": "FORMACIÓN Y VINCULACIÓN INSTITUCIONAL",
+      "date": "2026-07-08T17:15:04+00:00"
+    },
     {
       "id": "2b033a52",
       "image": "img/2b033a52.png",
@@ -531,15 +540,6 @@
       "title": "Preocupa en la Costa Atlántica el derrumbe de las reservas para las vacaciones de invierno",
       "volanta": "ECONOMÍA",
       "date": "2026-07-06T20:07:43+00:00"
-    },
-    {
-      "id": "c604a782",
-      "image": "img/c604a782.png",
-      "image_sha": "36e7e80c9ac460b4e23ad292bedac9395150f49b",
-      "url": "https://www.radiodos.com.ar/210593-orgullo-guarani-paraguay-volvio-a-casa-entre-aplausos-y-emocion-tras-su-mundial-2026",
-      "title": "Orgullo guaraní: Paraguay volvió a casa entre aplausos y emoción tras su Mundial 2026",
-      "volanta": "RECONOCIDOS",
-      "date": "2026-07-06T18:45:49+00:00"
     }
   ]
 }
