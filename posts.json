@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T19:08:44+00:00",
+  "updated": "2026-07-08T19:09:19+00:00",
   "posts": [
+    {
+      "id": "827d7053",
+      "image": "img/827d7053.png",
+      "image_sha": "96dd3db5e4f39cafb80e225f91c463a27b083faf",
+      "url": "https://www.radiodos.com.ar/210736-ratificaron-al-ingeniero-jose-basterra-como-vicerrector-de-la-unne",
+      "title": "Ratificaron al Ingeniero José Basterra como Vicerrector de la UNNE",
+      "volanta": "Designaron autoridades del Gabinete",
+      "date": "2026-07-08T19:09:19+00:00"
+    },
     {
       "id": "f636c742",
       "image": "img/f636c742.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni duda: la probable formación de Argentina ante Egipto por octavos de final",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-06T21:44:42+00:00"
-    },
-    {
-      "id": "3fec1ee0",
-      "image": "img/3fec1ee0.png",
-      "image_sha": "650063d1dd702d982b8c7403976bb2fb09e3199a",
-      "url": "https://www.radiodos.com.ar/210616-la-policia-de-corrientes-separo-de-la-fuerza-a-la-oficial-detenida-vinculada-a-banda-narco",
-      "title": "La Policía de Corrientes separó de la fuerza a la oficial detenida vinculada a banda narco",
-      "volanta": "ADELANTO",
-      "date": "2026-07-06T21:43:13+00:00"
     }
   ]
 }
