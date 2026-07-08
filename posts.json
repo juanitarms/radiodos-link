@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T11:49:02+00:00",
+  "updated": "2026-07-08T12:18:24+00:00",
   "posts": [
+    {
+      "id": "f2e32b74",
+      "image": "img/f2e32b74.png",
+      "image_sha": "28cea292cd8b9e40d13a54d77f3f79253199c5db",
+      "url": "https://www.radiodos.com.ar/210693-corrientes-en-los-festejos-por-la-seleccion-una-bala-perdida-perforo-un-techo-y-casi-impacta-a-un-nene",
+      "title": "Corrientes: en los festejos por la Selección, una bala perdida perforó un techo y casi impacta a un nene",
+      "volanta": "IRRACIONAL",
+      "date": "2026-07-08T12:18:24+00:00"
+    },
     {
       "id": "0141812c",
       "image": "img/0141812c.png",
@@ -531,15 +540,6 @@
       "title": "Valdés encabezó el 113° aniversario de Colonia Libertad y anunció nuevas obras para impulsar el desarrollo local",
       "volanta": "TAMBIÉN ENTREGÓ VIVIENDAS",
       "date": "2026-07-06T13:13:33+00:00"
-    },
-    {
-      "id": "fd2bb5b4",
-      "image": "img/fd2bb5b4.png",
-      "image_sha": "d27fd27b1c11fe2ba91f9fec87be4748e6d2b3d5",
-      "url": "https://www.radiodos.com.ar/210574-con-gran-acompanamiento-del-publico-culmino-con-exito-el-1er-encuentro-de-bandas-militares-del-nordeste",
-      "title": "Con gran acompañamiento del público, culminó con éxito el 1er. Encuentro de Bandas Militares del Nordeste",
-      "volanta": "AGENDA PATRIÓTICA",
-      "date": "2026-07-06T13:02:56+00:00"
     }
   ]
 }
