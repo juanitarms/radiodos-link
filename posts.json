@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T22:38:35+00:00",
+  "updated": "2026-07-08T22:41:21+00:00",
   "posts": [
+    {
+      "id": "7876de3f",
+      "image": "img/7876de3f.png",
+      "image_sha": "951da237fec7bea58f1b9080bda40dc85ca71408",
+      "url": "https://www.radiodos.com.ar/210748-hallaron-el-cuerpo-del-nene-argentino-desaparecido-en-venezuela",
+      "title": "Hallaron el cuerpo del nene argentino desaparecido en Venezuela",
+      "volanta": "tras los terremotos",
+      "date": "2026-07-08T22:41:21+00:00"
+    },
     {
       "id": "101c9709",
       "image": "img/101c9709.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición de Loan: hoy declaran un primo, un tío y un testigo",
       "volanta": "OCTAVA AUDIENCIA",
       "date": "2026-07-07T10:33:32+00:00"
-    },
-    {
-      "id": "9314a964",
-      "image": "img/9314a964.png",
-      "image_sha": "770cadfb2f3e27af88f64e6374b1837ddf4cb482",
-      "url": "https://www.radiodos.com.ar/210625-lionel-scaloni-reflexiona-sobre-la-estrategia-de-argentina-antes-del-partido-contra-egipto",
-      "title": "Lionel Scaloni reflexiona sobre la estrategia de Argentina antes del partido contra Egipto",
-      "volanta": "Afirmó que Paredes será titular",
-      "date": "2026-07-06T23:45:23+00:00"
     }
   ]
 }
