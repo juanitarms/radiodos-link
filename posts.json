@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T16:30:26+00:00",
+  "updated": "2026-07-08T16:31:04+00:00",
   "posts": [
+    {
+      "id": "cd4282ff",
+      "image": "img/cd4282ff.png",
+      "image_sha": "cef0782b427f6e6078fca143968a00a21dbc781e",
+      "url": "https://www.radiodos.com.ar/210726-salud-publica-fortalece-el-registro-de-notificacion-de-intentos-de-suicidio",
+      "title": "Salud Pública fortalece el registro de notificación de intentos de suicidio",
+      "volanta": "PROVINCIA",
+      "date": "2026-07-08T16:31:04+00:00"
+    },
     {
       "id": "4595c979",
       "image": "img/4595c979.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei celebró la eliminación de Brasil y le dedicó un mensaje a Haaland",
       "volanta": "POR REDES SOCIALES",
       "date": "2026-07-06T18:45:15+00:00"
-    },
-    {
-      "id": "e47e0dc8",
-      "image": "img/e47e0dc8.png",
-      "image_sha": "bb632148270afd0d849e432a4736a189df002f8f",
-      "url": "https://www.radiodos.com.ar/210595-incendio-en-loma-de-zamora-una-mujer-murio-y-tres-personas-resultaron-heridas",
-      "title": "Incendio en Loma de Zamora: una mujer murió y tres personas resultaron heridas",
-      "volanta": "TRAGEDIA",
-      "date": "2026-07-06T18:44:40+00:00"
     }
   ]
 }
