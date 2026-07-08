@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T20:50:33+00:00",
+  "updated": "2026-07-08T21:19:32+00:00",
   "posts": [
+    {
+      "id": "77308dec",
+      "image": "img/77308dec.png",
+      "image_sha": "f4a8e1de446e1591890dd147ff2504782629798c",
+      "url": "https://www.radiodos.com.ar/210744-salud-publica-de-corrientes-fortalece-el-registro-de-notificacion-de-intentos-de-suicidio",
+      "title": "Salud Pública de Corrientes fortalece el registro de notificación de intentos de suicidio",
+      "volanta": "PROTOCOLOS",
+      "date": "2026-07-08T21:19:32+00:00"
+    },
     {
       "id": "10003c32",
       "image": "img/10003c32.png",
@@ -531,15 +540,6 @@
       "title": "Nico Occhiato habló sobre su conflicto legal con Flor Peña: \"Está judicializado\"",
       "volanta": "CASO LUZU TV",
       "date": "2026-07-06T23:02:03+00:00"
-    },
-    {
-      "id": "d00330e4",
-      "image": "img/d00330e4.png",
-      "image_sha": "a837362af57a62933de9505ce52340ed650cc0c8",
-      "url": "https://www.radiodos.com.ar/210622-podia-quedar-libre-pero-pidio-seguir-en-la-carcel-para-salir-limpio",
-      "title": "Podía quedar libre pero pidió seguir en la cárcel para \"salir limpio\"",
-      "volanta": "Insólito",
-      "date": "2026-07-06T23:00:43+00:00"
     }
   ]
 }
