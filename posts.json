@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:15:04+00:00",
+  "updated": "2026-07-08T17:15:37+00:00",
   "posts": [
+    {
+      "id": "fe2aaf4d",
+      "image": "img/fe2aaf4d.png",
+      "image_sha": "bad4561bb05909a86c553cd6eb924c1f9861724f",
+      "url": "https://www.radiodos.com.ar/210730-manu-un-nino-de-12-anos-espera-una-familia-que-lo-acompane-a-crecer",
+      "title": "\"Manu\", un niño de 12 años, espera una familia que lo acompañe a crecer",
+      "volanta": "CONVOCATORIA PÚBLICA",
+      "date": "2026-07-08T17:15:37+00:00"
+    },
     {
       "id": "60dd2a72",
       "image": "img/60dd2a72.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de una docente en Mendoza: investigan si fue un crimen planificado",
       "volanta": "UN DETENIDO",
       "date": "2026-07-06T20:09:08+00:00"
-    },
-    {
-      "id": "e7d63f98",
-      "image": "img/e7d63f98.png",
-      "image_sha": "bc89f7bea7b41b891433f4284177fd7d172d96c1",
-      "url": "https://www.radiodos.com.ar/210610-preocupa-en-la-costa-atlantica-el-derrumbe-de-las-reservas-para-las-vacaciones-de-invierno",
-      "title": "Preocupa en la Costa Atlántica el derrumbe de las reservas para las vacaciones de invierno",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-06T20:07:43+00:00"
     }
   ]
 }
