@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T20:49:32+00:00",
+  "updated": "2026-07-08T20:50:33+00:00",
   "posts": [
+    {
+      "id": "10003c32",
+      "image": "img/10003c32.png",
+      "image_sha": "cb8dd3227bce3ace262c3d3ecce1fa2907e317d2",
+      "url": "https://www.radiodos.com.ar/210741-la-duena-de-musimundo-volvio-a-pedir-el-concurso-y-acumula-una-deuda-de-mas-de-63500-millones",
+      "title": "La dueña de Musimundo volvió a pedir el concurso y acumula una deuda de más de $ 63.500 millones",
+      "volanta": "CRISIS",
+      "date": "2026-07-08T20:50:33+00:00"
+    },
     {
       "id": "3ab4df97",
       "image": "img/3ab4df97.png",
@@ -531,15 +540,6 @@
       "title": "Podía quedar libre pero pidió seguir en la cárcel para \"salir limpio\"",
       "volanta": "Insólito",
       "date": "2026-07-06T23:00:43+00:00"
-    },
-    {
-      "id": "c276c59e",
-      "image": "img/c276c59e.png",
-      "image_sha": "1150312b2d6dbb7a10fd74fc8c285d31be74483f",
-      "url": "https://www.radiodos.com.ar/210620-a-12-dias-del-terremoto-en-venezuela-rescataron-con-vida-a-una-mujer-y-tres-menores-atrapados-por-los-escombros",
-      "title": "A 12 días del terremoto en Venezuela: rescataron con vida a una mujer y tres menores atrapados por los escombros",
-      "volanta": "MILAGRO",
-      "date": "2026-07-06T22:59:28+00:00"
     }
   ]
 }
