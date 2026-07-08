@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:41:12+00:00",
+  "updated": "2026-07-08T17:41:47+00:00",
   "posts": [
+    {
+      "id": "57e4d0a2",
+      "image": "img/57e4d0a2.png",
+      "image_sha": "255d18881932bba8a8e4aca0113af6ca0c980dc4",
+      "url": "https://www.radiodos.com.ar/210734-desarrollo-social-abrio-la-convocatoria-a-instituciones-para-sumarse-al-programa-centros-de-familia",
+      "title": "Desarrollo Social abrió la convocatoria a instituciones para sumarse al Programa Centros de Familia",
+      "volanta": "DEPORTES, CULTURA Y EDUCACIÓN",
+      "date": "2026-07-08T17:41:47+00:00"
+    },
     {
       "id": "7e8126b6",
       "image": "img/7e8126b6.png",
@@ -531,15 +540,6 @@
       "title": "El Yacht Club Corrientes arrasó en el cierre del campeonato provincial",
       "volanta": "VELA LIGERA",
       "date": "2026-07-06T21:42:37+00:00"
-    },
-    {
-      "id": "f306a0ad",
-      "image": "img/f306a0ad.png",
-      "image_sha": "526c9bd82624fb087b98c2c04dee544000629758",
-      "url": "https://www.radiodos.com.ar/210612-la-reserva-natural-santa-catalina-se-consolida-como-un-atractivo-del-ecoturismo",
-      "title": "La Reserva Natural Santa Catalina se consolida como un atractivo del ecoturismo",
-      "volanta": "MEDIO AMBIENTE",
-      "date": "2026-07-06T20:59:54+00:00"
     }
   ]
 }
