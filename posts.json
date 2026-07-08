@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T14:29:15+00:00",
+  "updated": "2026-07-08T14:52:30+00:00",
   "posts": [
+    {
+      "id": "4ddd2030",
+      "image": "img/4ddd2030.png",
+      "image_sha": "95e9e1b917eb20154e0940b5323bb8ac31284927",
+      "url": "https://www.radiodos.com.ar/210724-el-dolor-de-shakira-por-la-eliminacion-de-colombia-del-mundial-lagrimas-de",
+      "title": "El dolor de Shakira por la eliminación de Colombia del Mundial: \"Lágrimas de...\"",
+      "volanta": "TRISTEZA",
+      "date": "2026-07-08T14:52:30+00:00"
+    },
     {
       "id": "35620fea",
       "image": "img/35620fea.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad renuevan la oferta semanal con sus propuestas de productos frescos, regionales y artesanales",
       "volanta": "CALIDAD, VARIEDAD Y BUENOS PRECIOS",
       "date": "2026-07-06T17:21:04+00:00"
-    },
-    {
-      "id": "60303e33",
-      "image": "img/60303e33.png",
-      "image_sha": "a53b029a3518bb75651d194aef9b87830429fa29",
-      "url": "https://www.radiodos.com.ar/210587-franco-colapinto-brillo-en-silverstone-termino-9°-en-el-gp-de-gran-bretana-y-sumo-puntos-para-alpine",
-      "title": "Franco Colapinto brilló en Silverstone: terminó 9° en el GP de Gran Bretaña y sumó puntos para Alpine",
-      "volanta": "FÓRMULA 1",
-      "date": "2026-07-06T17:20:29+00:00"
     }
   ]
 }
