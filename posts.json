@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T11:03:52+00:00",
+  "updated": "2026-07-08T11:13:48+00:00",
   "posts": [
+    {
+      "id": "0c3677aa",
+      "image": "img/0c3677aa.png",
+      "image_sha": "4aecb55d657013068a119ac5f2eed9ac0c03ce97",
+      "url": "https://www.radiodos.com.ar/210689-juicio-por-la-desaparicion-de-loan-declaran-el-padre-del-imputado-antonio-benitez-y-dos-tias-del-nino",
+      "title": "Juicio por la desaparición de Loan : declaran el padre del imputado Antonio Benítez y dos tías del niño",
+      "volanta": "NOVENA AUDIENCIA",
+      "date": "2026-07-08T11:13:48+00:00"
+    },
     {
       "id": "f9e46815",
       "image": "img/f9e46815.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un adolescente que no volvió a su hogar",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-07-06T12:42:22+00:00"
-    },
-    {
-      "id": "dc966b48",
-      "image": "img/dc966b48.png",
-      "image_sha": "cc07011037103a5c6d54cf3ed68aa5b2cbfb0b13",
-      "url": "https://www.radiodos.com.ar/210564-chaco-un-camionero-muerto-tras-chocar-un-puente-peatonal-sobre-ruta-16",
-      "title": "Chaco: un camionero muerto tras chocar un puente peatonal sobre ruta 16",
-      "volanta": "ESTA MADRUGADA",
-      "date": "2026-07-06T12:04:03+00:00"
     }
   ]
 }
