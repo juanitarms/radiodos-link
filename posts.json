@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:16:13+00:00",
+  "updated": "2026-07-08T17:41:12+00:00",
   "posts": [
+    {
+      "id": "7e8126b6",
+      "image": "img/7e8126b6.png",
+      "image_sha": "70759844b0203e584a0d81cae3433d841ad9b236",
+      "url": "https://www.radiodos.com.ar/210733-la-municipalidad-de-corrientes-dice-presente-en-la-feria-del-libro-2026",
+      "title": "La Municipalidad de Corrientes dice presente en la Feria del Libro 2026",
+      "volanta": "CULTURA LOCAL",
+      "date": "2026-07-08T17:41:12+00:00"
+    },
     {
       "id": "5d685e43",
       "image": "img/5d685e43.png",
@@ -531,15 +540,6 @@
       "title": "La Reserva Natural Santa Catalina se consolida como un atractivo del ecoturismo",
       "volanta": "MEDIO AMBIENTE",
       "date": "2026-07-06T20:59:54+00:00"
-    },
-    {
-      "id": "c2cbac8b",
-      "image": "img/c2cbac8b.png",
-      "image_sha": "e705597087bee51ec65beb12941315797bf40942",
-      "url": "https://www.radiodos.com.ar/210611-fuerte-respuesta-de-mbappe-a-la-senadora-paraguaya-racista-es-usted-una-mujer-despreciable",
-      "title": "Fuerte respuesta de Mbappe a la senadora paraguaya racista: \"Es usted una mujer despreciable\"",
-      "volanta": "MENSAJE POR REDES",
-      "date": "2026-07-06T20:58:49+00:00"
     }
   ]
 }
