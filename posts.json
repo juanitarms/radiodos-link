@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-07T21:35:05+00:00",
+  "updated": "2026-07-08T10:47:13+00:00",
   "posts": [
+    {
+      "id": "913dec40",
+      "image": "img/913dec40.png",
+      "image_sha": "57333e04ce81702bfa1e5c18ca4a01fab9088b78",
+      "url": "https://www.radiodos.com.ar/210687-quedo-inaugurada-la-feria-provincial-del-libro-con-mas-de-200-propuestas-culturales",
+      "title": "Quedó inaugurada la Feria Provincial del Libro con más de 200 propuestas culturales",
+      "volanta": "EN LA UNIDAD",
+      "date": "2026-07-08T10:47:13+00:00"
+    },
     {
       "id": "1454022d",
       "image": "img/1454022d.png",
@@ -531,15 +540,6 @@
       "title": "Federal A: Boca Unidos consiguió un triunfo clave ante Sarmiento",
       "volanta": "EN EL LEONCIO BENITEZ",
       "date": "2026-07-06T11:43:01+00:00"
-    },
-    {
-      "id": "b0cb8279",
-      "image": "img/b0cb8279.png",
-      "image_sha": "49d759720e4e16669019d710d2e0f58ea3f5a978",
-      "url": "https://www.radiodos.com.ar/210563-un-pareja-salio-despedida-de-la-moto-tras-impactar-contra-un-auto",
-      "title": "Un pareja salió despedida de la moto tras impactar contra un auto",
-      "volanta": "Video",
-      "date": "2026-07-06T11:29:18+00:00"
     }
   ]
 }
