@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T19:09:19+00:00",
+  "updated": "2026-07-08T20:48:59+00:00",
   "posts": [
+    {
+      "id": "9b72c07a",
+      "image": "img/9b72c07a.png",
+      "image_sha": "cc9eb74d36af50f76b9737c43ac4352b028bb36b",
+      "url": "https://www.radiodos.com.ar/210740-denunciaron-al-ministro-de-salud-por-incumplir-con-el-pago-de-prestaciones-a-personas-con-discapacidad",
+      "title": "Denunciaron al ministro de Salud por incumplir con el pago de prestaciones a personas con discapacidad",
+      "volanta": "ESCÁNDALO",
+      "date": "2026-07-08T20:48:59+00:00"
+    },
     {
       "id": "827d7053",
       "image": "img/827d7053.png",
@@ -531,15 +540,6 @@
       "title": "Se viene el Gran Desfile Patrio de los Centros de Desarrollo Infantil",
       "volanta": "CORRIENTES",
       "date": "2026-07-06T21:45:51+00:00"
-    },
-    {
-      "id": "7870c1e7",
-      "image": "img/7870c1e7.png",
-      "image_sha": "d70e1986ac46f56b1c576b1b25ee43e36a5a24b2",
-      "url": "https://www.radiodos.com.ar/210615-scaloni-duda-la-probable-formacion-de-argentina-ante-egipto-por-octavos-de-final",
-      "title": "Scaloni duda: la probable formación de Argentina ante Egipto por octavos de final",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-06T21:44:42+00:00"
     }
   ]
 }
