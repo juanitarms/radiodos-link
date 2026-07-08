@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T10:47:13+00:00",
+  "updated": "2026-07-08T11:03:52+00:00",
   "posts": [
+    {
+      "id": "f9e46815",
+      "image": "img/f9e46815.png",
+      "image_sha": "d24a7dd1b08c764da3e82936f194c1b8643b1dcf",
+      "url": "https://www.radiodos.com.ar/210688-remisero-huyo-de-un-intento-de-robo-dos-sospechosos-demorados",
+      "title": "Remisero huyó de un intento de robo: dos sospechosos demorados",
+      "volanta": "BARRIO GALVÁN",
+      "date": "2026-07-08T11:03:52+00:00"
+    },
     {
       "id": "913dec40",
       "image": "img/913dec40.png",
@@ -531,15 +540,6 @@
       "title": "Chaco: un camionero muerto tras chocar un puente peatonal sobre ruta 16",
       "volanta": "ESTA MADRUGADA",
       "date": "2026-07-06T12:04:03+00:00"
-    },
-    {
-      "id": "1efff779",
-      "image": "img/1efff779.png",
-      "image_sha": "e52640a2bdc3687bae2eddb123cb25b51a0b4586",
-      "url": "https://www.radiodos.com.ar/210565-federal-a-boca-unidos-consiguio-un-triunfo-clave-ante-sarmiento-",
-      "title": "Federal A: Boca Unidos consiguió un triunfo clave ante Sarmiento",
-      "volanta": "EN EL LEONCIO BENITEZ",
-      "date": "2026-07-06T11:43:01+00:00"
     }
   ]
 }
