@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T22:41:21+00:00",
+  "updated": "2026-07-08T22:43:09+00:00",
   "posts": [
+    {
+      "id": "624f8c73",
+      "image": "img/624f8c73.png",
+      "image_sha": "84d1fa3afa7ddd08c907410510e08640bdf01b24",
+      "url": "https://www.radiodos.com.ar/210750-la-titular-del-fmi-visitara-la-argentina-antes-de-fin-de-mes",
+      "title": "La titular del FMI visitará la Argentina antes de fin de mes",
+      "volanta": "Kristalina Georgieva",
+      "date": "2026-07-08T22:43:09+00:00"
+    },
     {
       "id": "7876de3f",
       "image": "img/7876de3f.png",
@@ -531,15 +540,6 @@
       "title": "Hoy juega Argentina y las escuelas correntinas tendrán horario reducido",
       "volanta": "COMUNICADO OFICIAL",
       "date": "2026-07-07T11:18:47+00:00"
-    },
-    {
-      "id": "bdddacce",
-      "image": "img/bdddacce.png",
-      "image_sha": "d43c679c9da986001e789924bf687aeb8407e3e9",
-      "url": "https://www.radiodos.com.ar/210629-juicio-por-la-desaparicion-de-loan-hoy-declaran-un-primo-un-tio-y-un-testigo",
-      "title": "Juicio por la desaparición de Loan: hoy declaran un primo, un tío y un testigo",
-      "volanta": "OCTAVA AUDIENCIA",
-      "date": "2026-07-07T10:33:32+00:00"
     }
   ]
 }
