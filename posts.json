@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T16:29:44+00:00",
+  "updated": "2026-07-08T16:30:26+00:00",
   "posts": [
+    {
+      "id": "4595c979",
+      "image": "img/4595c979.png",
+      "image_sha": "5c20184327befd944953eaf38ece71c0cb0f25c5",
+      "url": "https://www.radiodos.com.ar/210727-los-jugadores-preseleccionados-para-la-seleccion-correntina-de-infantiles",
+      "title": "Los jugadores preseleccionados para la Selección Correntina de Infantiles",
+      "volanta": "BÁSQUET",
+      "date": "2026-07-08T16:30:26+00:00"
+    },
     {
       "id": "21ca2aa6",
       "image": "img/21ca2aa6.png",
@@ -531,15 +540,6 @@
       "title": "Incendio en Loma de Zamora: una mujer murió y tres personas resultaron heridas",
       "volanta": "TRAGEDIA",
       "date": "2026-07-06T18:44:40+00:00"
-    },
-    {
-      "id": "ef5ca876",
-      "image": "img/ef5ca876.png",
-      "image_sha": "af0c9336c30cd479272c94d56ffb44bf8bd33a49",
-      "url": "https://www.radiodos.com.ar/210590-san-martin-inicia-la-renovacion-de-su-cancha-principal",
-      "title": "San Martín inicia la renovación de su cancha principal",
-      "volanta": "CAMBIO",
-      "date": "2026-07-06T18:44:05+00:00"
     }
   ]
 }
