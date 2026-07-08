@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T17:15:37+00:00",
+  "updated": "2026-07-08T17:16:13+00:00",
   "posts": [
+    {
+      "id": "5d685e43",
+      "image": "img/5d685e43.png",
+      "image_sha": "c55569824b39e6807fc20e4f3499f2ee44ba1495",
+      "url": "https://www.radiodos.com.ar/210729-funcionamiento-de-los-servicios-municipales-durante-este-jueves-y-viernes",
+      "title": "Funcionamiento de los servicios municipales durante este jueves y viernes",
+      "volanta": "FERIADO NACIONAL",
+      "date": "2026-07-08T17:16:13+00:00"
+    },
     {
       "id": "fe2aaf4d",
       "image": "img/fe2aaf4d.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte respuesta de Mbappe a la senadora paraguaya racista: \"Es usted una mujer despreciable\"",
       "volanta": "MENSAJE POR REDES",
       "date": "2026-07-06T20:58:49+00:00"
-    },
-    {
-      "id": "0e54f4ad",
-      "image": "img/0e54f4ad.png",
-      "image_sha": "6622a6d49c431d8815fd4bf76541cfdcf30e24f6",
-      "url": "https://www.radiodos.com.ar/210608-femicidio-de-una-docente-en-mendoza-investigan-si-fue-un-crimen-planificado",
-      "title": "Femicidio de una docente en Mendoza: investigan si fue un crimen planificado",
-      "volanta": "UN DETENIDO",
-      "date": "2026-07-06T20:09:08+00:00"
     }
   ]
 }
