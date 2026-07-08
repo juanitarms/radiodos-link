@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T15:01:10+00:00",
+  "updated": "2026-07-08T16:28:58+00:00",
   "posts": [
+    {
+      "id": "a96abdd7",
+      "image": "img/a96abdd7.png",
+      "image_sha": "7f2dba158cd93cbc24549f46ad4f0a1c5bee12a6",
+      "url": "https://www.radiodos.com.ar/210725-regatas-estuvo-presente-en-el-torneo-little-gym-de-gimnasia-de-trampolin",
+      "title": "Regatas estuvo presente en el Torneo Little Gym de gimnasia de trampolín",
+      "volanta": "Tumbling",
+      "date": "2026-07-08T16:28:58+00:00"
+    },
     {
       "id": "ab77c638",
       "image": "img/ab77c638.png",
@@ -531,15 +540,6 @@
       "title": "Un juez frenó dos juicios abreviados al advertir inconsistencias entre los acuerdos las pruebas y apartamiento de los derechos de las víctimas",
       "volanta": "Goya",
       "date": "2026-07-06T18:43:27+00:00"
-    },
-    {
-      "id": "7a203d96",
-      "image": "img/7a203d96.png",
-      "image_sha": "5e6bbbb7fb6c92716a9a6d71953323b9ea685102",
-      "url": "https://www.radiodos.com.ar/210592-la-insolita-lesion-de-jordan-henderson-festejaba-el-pase-de-inglaterra-y-termino-en-el-hospital",
-      "title": "La insólita lesión de Jordan Henderson: festejaba el pase de Inglaterra y terminó en el hospital",
-      "volanta": "De no creer",
-      "date": "2026-07-06T17:21:42+00:00"
     }
   ]
 }
