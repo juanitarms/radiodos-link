@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T16:28:58+00:00",
+  "updated": "2026-07-08T16:29:44+00:00",
   "posts": [
+    {
+      "id": "21ca2aa6",
+      "image": "img/21ca2aa6.png",
+      "image_sha": "d0d9126389294038f94d9cc3a55cdd3f5e9d3bad",
+      "url": "https://www.radiodos.com.ar/210723-lo-que-dijo-sofi-martinez-frente-a-las-acusaciones-sobre-su-distanciamiento-con-la-seleccion-argentina",
+      "title": "Lo que dijo Sofi Martínez frente a las acusaciones sobre su distanciamiento con la Selección Argentina",
+      "volanta": "CLARITO",
+      "date": "2026-07-08T16:29:44+00:00"
+    },
     {
       "id": "a96abdd7",
       "image": "img/a96abdd7.png",
@@ -531,15 +540,6 @@
       "title": "San Martín inicia la renovación de su cancha principal",
       "volanta": "CAMBIO",
       "date": "2026-07-06T18:44:05+00:00"
-    },
-    {
-      "id": "00567b13",
-      "image": "img/00567b13.png",
-      "image_sha": "b38e52c1e89500698f3bbb33f9be2f14496ab76e",
-      "url": "https://www.radiodos.com.ar/210591-un-juez-freno-dos-juicios-abreviados-al-advertir-inconsistencias-entre-los-acuerdos-las-pruebas-y-apartamiento-de-los-derechos-de-las-victimas",
-      "title": "Un juez frenó dos juicios abreviados al advertir inconsistencias entre los acuerdos las pruebas y apartamiento de los derechos de las víctimas",
-      "volanta": "Goya",
-      "date": "2026-07-06T18:43:27+00:00"
     }
   ]
 }
