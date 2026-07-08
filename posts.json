@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T13:51:24+00:00",
+  "updated": "2026-07-08T14:12:52+00:00",
   "posts": [
+    {
+      "id": "1a494ad0",
+      "image": "img/1a494ad0.png",
+      "image_sha": "c7447a7f96e5b73861fae5a7fb5d0f7cad5ce902",
+      "url": "https://www.radiodos.com.ar/210720-valentina-cervantes-mostro-el-tierno-festejo-de-benjamin-tras-el-triunfo-de-la-seleccion-argentina",
+      "title": "Valentina Cervantes mostró el tierno festejo de Benjamín tras el triunfo de la Selección Argentina",
+      "volanta": "VAMOS ARGENTINA",
+      "date": "2026-07-08T14:12:52+00:00"
+    },
     {
       "id": "293de931",
       "image": "img/293de931.png",
@@ -531,15 +540,6 @@
       "title": "Salud: vapeadores, tabaco calentado y bolsitas de nicotina deberán incluir advertencias",
       "volanta": "OFICIAL",
       "date": "2026-07-06T16:09:35+00:00"
-    },
-    {
-      "id": "3dc5f1fc",
-      "image": "img/3dc5f1fc.png",
-      "image_sha": "ad0b8cfd75e45d2f5f34feb9304abe63c44b1a08",
-      "url": "https://www.radiodos.com.ar/210584-ya-hay-polemica-la-seleccion-argentina-ya-conoce-al-arbitro-para-el-duelo-ante-egipto-por-octavos-de-final",
-      "title": "Ya hay polémica: la Selección Argentina ya conoce al árbitro para el duelo ante Egipto por octavos de final",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-06T15:10:05+00:00"
     }
   ]
 }
