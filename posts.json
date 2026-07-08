@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T22:43:09+00:00",
+  "updated": "2026-07-08T23:03:48+00:00",
   "posts": [
+    {
+      "id": "0be2cdc6",
+      "image": "img/0be2cdc6.png",
+      "image_sha": "0a2e1e33346ed0e313e3d939b17e88c381fc9d9f",
+      "url": "https://www.radiodos.com.ar/210749-la-justicia-rechazo-el-pedido-de-alberto-fernandez-y-ratifico-la-investigacion-por-violencia-de-genero",
+      "title": "La Justicia rechazó el pedido de Alberto Fernández y ratificó la investigación por violencia de género",
+      "volanta": "EXPRESIDENTE",
+      "date": "2026-07-08T23:03:48+00:00"
+    },
     {
       "id": "624f8c73",
       "image": "img/624f8c73.png",
@@ -531,15 +540,6 @@
       "title": "Fan Fest: el aliento a la Selección Argentina será nuevamente en la Rotonda Poncho Verde",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-07T11:28:42+00:00"
-    },
-    {
-      "id": "f2a8b589",
-      "image": "img/f2a8b589.png",
-      "image_sha": "d4df5455c0d63fb2c88d32e805bdb04f452e5f9d",
-      "url": "https://www.radiodos.com.ar/210630-hoy-juega-argentina-y-las-escuelas-correntinas-tendran-horario-reducido",
-      "title": "Hoy juega Argentina y las escuelas correntinas tendrán horario reducido",
-      "volanta": "COMUNICADO OFICIAL",
-      "date": "2026-07-07T11:18:47+00:00"
     }
   ]
 }
