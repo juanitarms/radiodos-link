@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T15:07:42+00:00",
+  "updated": "2026-07-09T21:59:12+00:00",
   "posts": [
+    {
+      "id": "864f1587",
+      "image": "img/864f1587.png",
+      "image_sha": "45d69ff5971685d5ec53fb8a42fed33c179b5075",
+      "url": "https://www.radiodos.com.ar/210762-en-corrientes-una-multitud-acompano-el-desfile-por-los-210-anos-de-la-independencia",
+      "title": "En Corrientes una multitud acompañó el desfile por los 210 años de la independencia",
+      "volanta": "A LO LARGO DE LA COSTANERA",
+      "date": "2026-07-09T21:59:12+00:00"
+    },
     {
       "id": "cff9f773",
       "image": "img/cff9f773.png",
@@ -531,15 +540,6 @@
       "title": "La Academia Nacional de Ciencias Exactas expresó su preocupación por la situación del sistema científico",
       "volanta": "CRISIS",
       "date": "2026-07-07T15:06:12+00:00"
-    },
-    {
-      "id": "6440ead1",
-      "image": "img/6440ead1.png",
-      "image_sha": "206f98eb8a74aa3a10c6ce77473dadd0f3d71012",
-      "url": "https://www.radiodos.com.ar/210662-nicolas-occhiato-confirmo-que-el-conflicto-con-florencia-pena-llego-a-la-justicia-va-a-quedar-en-el",
-      "title": "Nicolás Occhiato confirmó que el conflicto con Florencia Peña llegó a la Justicia: \"Va a quedar en el...\"",
-      "volanta": "TODO MAL",
-      "date": "2026-07-07T14:49:38+00:00"
     }
   ]
 }
