@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T11:16:12+00:00",
+  "updated": "2026-07-09T11:26:01+00:00",
   "posts": [
+    {
+      "id": "d26be054",
+      "image": "img/d26be054.png",
+      "image_sha": "3a15a45ee9e1d85d8daf733455aed1bfbbd49f09",
+      "url": "https://www.radiodos.com.ar/210753-la-provincia-de-corrientes-honra-a-nuestra-senora-de-itati",
+      "title": "La provincia de Corrientes honra a Nuestra Señora de Itatí",
+      "volanta": "FIESTA PATRONAL",
+      "date": "2026-07-09T11:26:01+00:00"
+    },
     {
       "id": "7507c7cb",
       "image": "img/7507c7cb.png",
@@ -531,15 +540,6 @@
       "title": "Salarios en Corrientes: JP Valdés subrayó que \"si mejora la recaudación podremos evaluar un tercer y cuarto aumento en el año\"",
       "volanta": "EL GOBERNADOR INSISTE EN TENER CAUTELA",
       "date": "2026-07-07T12:23:06+00:00"
-    },
-    {
-      "id": "aab52d96",
-      "image": "img/aab52d96.png",
-      "image_sha": "6a08dc31418f619bab3f5d11607cc2a5cae33af9",
-      "url": "https://www.radiodos.com.ar/210635-corrientes-imprudente-maniobra-en-una-avenida-termino-con-un-motociclista-herido",
-      "title": "Corrientes: imprudente maniobra en una avenida terminó con un motociclista herido",
-      "volanta": "MAIPÚ Y 13 DE JUNIO",
-      "date": "2026-07-07T11:49:12+00:00"
     }
   ]
 }
