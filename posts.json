@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T11:26:01+00:00",
+  "updated": "2026-07-09T11:46:36+00:00",
   "posts": [
+    {
+      "id": "5d1c9d21",
+      "image": "img/5d1c9d21.png",
+      "image_sha": "db70fd6ff0d5488646a4be8ff9bdce81a4273781",
+      "url": "https://www.radiodos.com.ar/210752-9-de-julio-en-corrientes-los-festejos-por-la-independencia-seran-con-un-imponente-desfile-civico-militar",
+      "title": "9 de Julio en Corrientes: los festejos por la Independencia serán con un imponente desfile cívico-militar",
+      "volanta": "DIA PATRIO",
+      "date": "2026-07-09T11:46:36+00:00"
+    },
     {
       "id": "d26be054",
       "image": "img/d26be054.png",
@@ -531,15 +540,6 @@
       "title": "La EBY construirá una costanera en Ituzaingó con una inversión de casi USD 9 millones",
       "volanta": "OBRA",
       "date": "2026-07-07T12:58:40+00:00"
-    },
-    {
-      "id": "4ee0f45c",
-      "image": "img/4ee0f45c.png",
-      "image_sha": "56d570187d84b019609acdefd3e852320e134af4",
-      "url": "https://www.radiodos.com.ar/210634-salarios-en-corrientes-jp-valdes-subrayo-que-si-mejora-la-recaudacion-podremos-evaluar-un-tercer-y-cuarto-aumento-en-el-ano",
-      "title": "Salarios en Corrientes: JP Valdés subrayó que \"si mejora la recaudación podremos evaluar un tercer y cuarto aumento en el año\"",
-      "volanta": "EL GOBERNADOR INSISTE EN TENER CAUTELA",
-      "date": "2026-07-07T12:23:06+00:00"
     }
   ]
 }
