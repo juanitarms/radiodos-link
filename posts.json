@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-08T23:03:48+00:00",
+  "updated": "2026-07-09T11:16:12+00:00",
   "posts": [
+    {
+      "id": "7507c7cb",
+      "image": "img/7507c7cb.png",
+      "image_sha": "962e7602ae26ff339c81dd2faa2848980ee0f022",
+      "url": "https://www.radiodos.com.ar/210751-jp-valdes-y-otros-12-gobernadores-estuvieron-con-milei-en-tucuman",
+      "title": "JP Valdés y otros 12 gobernadores estuvieron con Milei en Tucumán",
+      "volanta": "9 DE JULIO",
+      "date": "2026-07-09T11:16:12+00:00"
+    },
     {
       "id": "0be2cdc6",
       "image": "img/0be2cdc6.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: imprudente maniobra en una avenida terminó con un motociclista herido",
       "volanta": "MAIPÚ Y 13 DE JUNIO",
       "date": "2026-07-07T11:49:12+00:00"
-    },
-    {
-      "id": "3c782057",
-      "image": "img/3c782057.png",
-      "image_sha": "3de4ccb8f4da9defd1e006f4b8d0d9e0a3c393de",
-      "url": "https://www.radiodos.com.ar/210631-fan-fest-el-aliento-a-la-seleccion-argentina-sera-nuevamente-en-la-rotonda-poncho-verde",
-      "title": "Fan Fest: el aliento a la Selección Argentina será nuevamente en la Rotonda Poncho Verde",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-07T11:28:42+00:00"
     }
   ]
 }
