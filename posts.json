@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T23:09:04+00:00",
+  "updated": "2026-07-09T23:10:08+00:00",
   "posts": [
+    {
+      "id": "be2f11a9",
+      "image": "img/be2f11a9.png",
+      "image_sha": "c27c5218c5e5a7c2ebaa5cb351ff6fb6cfb21e10",
+      "url": "https://www.radiodos.com.ar/210765-detuvieron-al-principal-sospechoso-por-el-incendio-fatal-de-una-vivienda",
+      "title": "Detuvieron al principal sospechoso por el incendio fatal de una vivienda",
+      "volanta": "San Roque",
+      "date": "2026-07-09T23:10:08+00:00"
+    },
     {
       "id": "e21a8df2",
       "image": "img/e21a8df2.png",
@@ -531,15 +540,6 @@
       "title": "Eva Bargiela vivió un momento desesperante durante el Mundial 2026",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-07-07T16:45:47+00:00"
-    },
-    {
-      "id": "939cef03",
-      "image": "img/939cef03.png",
-      "image_sha": "de15a122161f27a4368e14eb6d104bd8e03924ae",
-      "url": "https://www.radiodos.com.ar/210666-la-sorpresiva-declaracion-de-fiorella-gimenez-tras-su-separacion-definitiva-de-agustin-cachete-sierra-",
-      "title": "La sorpresiva declaración de Fiorella Giménez tras su separación definitiva de Agustín \"Cachete\" Sierra",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-07-07T16:45:10+00:00"
     }
   ]
 }
