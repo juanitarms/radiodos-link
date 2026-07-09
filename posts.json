@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T11:46:36+00:00",
+  "updated": "2026-07-09T12:18:39+00:00",
   "posts": [
+    {
+      "id": "f3b2703e",
+      "image": "img/f3b2703e.png",
+      "image_sha": "ddc84e8f6285530aba930928828cdb5db2e877ad",
+      "url": "https://www.radiodos.com.ar/210756-9-de-julio-interpretacion-de-esta-gesta-historica-como-un-necesario-despertar-ciudadano-de-los-argentinos",
+      "title": "9 de Julio: Interpretación de esta gesta histórica como un necesario despertar ciudadano de los argentinos",
+      "volanta": "NOTA DE OPINIÓN",
+      "date": "2026-07-09T12:18:39+00:00"
+    },
     {
       "id": "5d1c9d21",
       "image": "img/5d1c9d21.png",
@@ -531,15 +540,6 @@
       "title": "Brutal atentado en Damasco cerca de donde se hospeda Emmanuel Macron deja al menos 18 heridos",
       "volanta": "SIRIA",
       "date": "2026-07-07T13:21:42+00:00"
-    },
-    {
-      "id": "f9f25a26",
-      "image": "img/f9f25a26.png",
-      "image_sha": "2fbf3a3f966825a043d9b00d7da93395d3c29220",
-      "url": "https://www.radiodos.com.ar/210633-la-eby-construira-una-costanera-en-ituzaingo-con-una-inversion-de-casi-usd-9-millones",
-      "title": "La EBY construirá una costanera en Ituzaingó con una inversión de casi USD 9 millones",
-      "volanta": "OBRA",
-      "date": "2026-07-07T12:58:40+00:00"
     }
   ]
 }
