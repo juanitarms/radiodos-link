@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T23:07:06+00:00",
+  "updated": "2026-07-09T23:09:04+00:00",
   "posts": [
+    {
+      "id": "e21a8df2",
+      "image": "img/e21a8df2.png",
+      "image_sha": "fee40aa08f534d53e7440d980c98c6fd71e151b9",
+      "url": "https://www.radiodos.com.ar/210763-mundial-2026-francia-repitio-lo-de-qatar-elimino-a-marruecos-y-es-semifinalista",
+      "title": "Mundial 2026: Francia repitió lo de Qatar, eliminó a marruecos y es semifinalista",
+      "volanta": "En Boston",
+      "date": "2026-07-09T23:09:04+00:00"
+    },
     {
       "id": "596897f4",
       "image": "img/596897f4.png",
@@ -531,15 +540,6 @@
       "title": "La sorpresiva declaración de Fiorella Giménez tras su separación definitiva de Agustín \"Cachete\" Sierra",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-07-07T16:45:10+00:00"
-    },
-    {
-      "id": "1a19cc40",
-      "image": "img/1a19cc40.png",
-      "image_sha": "329e6fb837b5795c1dbbe635723b8c6edf04ae3c",
-      "url": "https://www.radiodos.com.ar/210667-corrientes-prepara-un-gran-desfile-para-celebrar-el-dia-de-la-independencia",
-      "title": "Corrientes prepara un gran desfile para celebrar el Día de la Independencia",
-      "volanta": "9 DE JULIO",
-      "date": "2026-07-07T15:14:22+00:00"
     }
   ]
 }
