@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T14:36:04+00:00",
+  "updated": "2026-07-09T15:07:42+00:00",
   "posts": [
+    {
+      "id": "cff9f773",
+      "image": "img/cff9f773.png",
+      "image_sha": "f279b563f7a6fd391f8748c931c9990668e69bde",
+      "url": "https://www.radiodos.com.ar/210760-monsenor-larregain-son-muchos-los-argentinos-que-luchan-contra-el-hambre",
+      "title": "Monseñor Larregain: \"Son muchos los argentinos que luchan contra el hambre\"",
+      "volanta": "TEDEUM",
+      "date": "2026-07-09T15:07:42+00:00"
+    },
     {
       "id": "98d655ce",
       "image": "img/98d655ce.png",
@@ -531,15 +540,6 @@
       "title": "Nicolás Occhiato confirmó que el conflicto con Florencia Peña llegó a la Justicia: \"Va a quedar en el...\"",
       "volanta": "TODO MAL",
       "date": "2026-07-07T14:49:38+00:00"
-    },
-    {
-      "id": "865f0c8b",
-      "image": "img/865f0c8b.png",
-      "image_sha": "3f1e5e2174b065f96456b8a28c927b78bbb06cc0",
-      "url": "https://www.radiodos.com.ar/210658-cerro-una-distribuidora-de-bebidas-y-dejo-a-220-personas-sin-trabajo",
-      "title": "Cerró una distribuidora de bebidas y dejó a 220 personas sin trabajo",
-      "volanta": "CRISIS",
-      "date": "2026-07-07T14:36:30+00:00"
     }
   ]
 }
