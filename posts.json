@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T21:59:12+00:00",
+  "updated": "2026-07-09T23:07:06+00:00",
   "posts": [
+    {
+      "id": "596897f4",
+      "image": "img/596897f4.png",
+      "image_sha": "3d1c89aff6174543d8286ea2a795c6c429c3156a",
+      "url": "https://www.radiodos.com.ar/210764-debemos-seguir-luchando-por-una-independencia-real-y-efectiva-el-mensaje-de-polich-en-el-9-de-julio",
+      "title": "\"Debemos seguir luchando por una independencia real y efectiva\", el mensaje de Polich en el 9 de Julio",
+      "volanta": "FESTEJOS PATRIOS EN CORRIENTES",
+      "date": "2026-07-09T23:07:06+00:00"
+    },
     {
       "id": "864f1587",
       "image": "img/864f1587.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes prepara un gran desfile para celebrar el Día de la Independencia",
       "volanta": "9 DE JULIO",
       "date": "2026-07-07T15:14:22+00:00"
-    },
-    {
-      "id": "9c9bc561",
-      "image": "img/9c9bc561.png",
-      "image_sha": "50c1a5e97e29d268e680c18d6f1fb37db91e988e",
-      "url": "https://www.radiodos.com.ar/210661-la-academia-nacional-de-ciencias-exactas-expreso-su-preocupacion-por-la-situacion-del-sistema-cientifico",
-      "title": "La Academia Nacional de Ciencias Exactas expresó su preocupación por la situación del sistema científico",
-      "volanta": "CRISIS",
-      "date": "2026-07-07T15:06:12+00:00"
     }
   ]
 }
