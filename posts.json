@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T13:23:16+00:00",
+  "updated": "2026-07-09T13:59:33+00:00",
   "posts": [
+    {
+      "id": "615714f0",
+      "image": "img/615714f0.png",
+      "image_sha": "8ae07838aa451bc5f0208e12dcca1eb2317d10b4",
+      "url": "https://www.radiodos.com.ar/210758-lanari-adelanto-reunion-con-autoridades-nacionales-por-incluir-salud",
+      "title": "Lanari adelantó reunión con autoridades nacionales por Incluir Salud",
+      "volanta": "MINISTRO DE SALUD",
+      "date": "2026-07-09T13:59:33+00:00"
+    },
     {
       "id": "c454f168",
       "image": "img/c454f168.png",
@@ -531,15 +540,6 @@
       "title": "Se conocieron detalles del crimen del joven que fue encontrado enterrado en Santa Fe",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-07T14:16:25+00:00"
-    },
-    {
-      "id": "979c86fc",
-      "image": "img/979c86fc.png",
-      "image_sha": "fc00e893c9bde89192a8d1ade6faf50c5e8a44b4",
-      "url": "https://www.radiodos.com.ar/210645-cambios-en-el-ministerio-de-salud-renuncio-guido-giana-y-ya-tiene-reemplazante",
-      "title": "Cambios en el Ministerio de Salud: renunció Guido Giana y ya tiene reemplazante",
-      "volanta": "NOVEDAD",
-      "date": "2026-07-07T14:01:54+00:00"
     }
   ]
 }
