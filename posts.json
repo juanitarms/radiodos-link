@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T12:18:39+00:00",
+  "updated": "2026-07-09T13:02:28+00:00",
   "posts": [
+    {
+      "id": "eea00b8d",
+      "image": "img/eea00b8d.png",
+      "image_sha": "ab14e9ba60a3362e0ba6a2d3d73e288c18c0ef89",
+      "url": "https://www.radiodos.com.ar/210754-gobernador-jp-valdes-tras-210-anos-seguimos-discutiendo-por-mas-federalismo-y-mas-igualdad",
+      "title": "Gobernador JP Valdés: \"Tras 210 años, seguimos discutiendo por más federalismo y más igualdad\"",
+      "volanta": "DÍA DE LA INDEPENDENCIA",
+      "date": "2026-07-09T13:02:28+00:00"
+    },
     {
       "id": "f3b2703e",
       "image": "img/f3b2703e.png",
@@ -531,15 +540,6 @@
       "title": "Luto en el periodismo de Corrientes por el fallecimiento de cronista de TV",
       "volanta": "DUELO",
       "date": "2026-07-07T13:35:44+00:00"
-    },
-    {
-      "id": "5b80e452",
-      "image": "img/5b80e452.png",
-      "image_sha": "7b177b641da500f31980eb658e77d80196533a65",
-      "url": "https://www.radiodos.com.ar/210647-brutal-atentado-en-damasco-cerca-de-donde-se-hospeda-emmanuel-macron-deja-al-menos-18-heridos",
-      "title": "Brutal atentado en Damasco cerca de donde se hospeda Emmanuel Macron deja al menos 18 heridos",
-      "volanta": "SIRIA",
-      "date": "2026-07-07T13:21:42+00:00"
     }
   ]
 }
