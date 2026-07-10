@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T12:09:17+00:00",
+  "updated": "2026-07-10T12:33:53+00:00",
   "posts": [
+    {
+      "id": "9b3c5f07",
+      "image": "img/9b3c5f07.png",
+      "image_sha": "7f2163b94e792c2bd6431f2e78bcebadc2630405",
+      "url": "https://www.radiodos.com.ar/210779-lionel-scaloni-perfila-el-once-titular-para-el-partido-de-cuartos-de-final-contra-suiza",
+      "title": "Lionel Scaloni perfila el once titular para el partido de cuartos de final contra Suiza",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-10T12:33:53+00:00"
+    },
     {
       "id": "70ef80e2",
       "image": "img/70ef80e2.png",
@@ -531,15 +540,6 @@
       "title": "\"Hubo factores externos; querían dejar a Messi\", dijo el DT de Egipto tras la derrota con Argentina",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-07T20:30:19+00:00"
-    },
-    {
-      "id": "6efdd1aa",
-      "image": "img/6efdd1aa.png",
-      "image_sha": "844271bd46f18b3738adfa25f8eab73cfe72f973",
-      "url": "https://www.radiodos.com.ar/210671-mundial-2026-egipto-sorprende-a-la-scaloneta",
-      "title": "Mundial 2026: Egipto sorprende a La Scaloneta",
-      "volanta": "En Atlanta",
-      "date": "2026-07-07T17:47:17+00:00"
     }
   ]
 }
