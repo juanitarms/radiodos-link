@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T16:12:06+00:00",
+  "updated": "2026-07-10T16:12:50+00:00",
   "posts": [
+    {
+      "id": "439cab80",
+      "image": "img/439cab80.png",
+      "image_sha": "555907242740776ee4d14d32ef22b106813d2093",
+      "url": "https://www.radiodos.com.ar/210797-cordoba-dos-muertos-por-el-choque-frontal-de-un-micro-que-llevaba-a-un-equipo-de-futbol-femenino-infantil",
+      "title": "Córdoba: dos muertos por el choque frontal de un micro que llevaba a un equipo de fútbol femenino infantil",
+      "volanta": "TRAGEDIA",
+      "date": "2026-07-10T16:12:50+00:00"
+    },
     {
       "id": "772ed5a4",
       "image": "img/772ed5a4.png",
@@ -531,15 +540,6 @@
       "title": "Remisero huyó de un intento de robo: dos sospechosos demorados",
       "volanta": "BARRIO GALVÁN",
       "date": "2026-07-08T11:03:52+00:00"
-    },
-    {
-      "id": "913dec40",
-      "image": "img/913dec40.png",
-      "image_sha": "57333e04ce81702bfa1e5c18ca4a01fab9088b78",
-      "url": "https://www.radiodos.com.ar/210687-quedo-inaugurada-la-feria-provincial-del-libro-con-mas-de-200-propuestas-culturales",
-      "title": "Quedó inaugurada la Feria Provincial del Libro con más de 200 propuestas culturales",
-      "volanta": "EN LA UNIDAD",
-      "date": "2026-07-08T10:47:13+00:00"
     }
   ]
 }
