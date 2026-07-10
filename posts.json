@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T21:43:37+00:00",
+  "updated": "2026-07-10T23:05:03+00:00",
   "posts": [
+    {
+      "id": "572d396f",
+      "image": "img/572d396f.png",
+      "image_sha": "7351f1ae6184af47d0f454b9471b433cdd26f88f",
+      "url": "https://www.radiodos.com.ar/210815-se-viene-un-fin-de-semana-con-sol-nubes-y-un-marcado-descenso-de-temperatura",
+      "title": "Se viene un fin de semana con sol, nubes y un marcado descenso de temperatura",
+      "volanta": "CLIMA EN CORRIENTES",
+      "date": "2026-07-10T23:05:03+00:00"
+    },
     {
       "id": "c15dcd21",
       "image": "img/c15dcd21.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública fortalece el registro de notificación de intentos de suicidio",
       "volanta": "PROVINCIA",
       "date": "2026-07-08T16:31:04+00:00"
-    },
-    {
-      "id": "4595c979",
-      "image": "img/4595c979.png",
-      "image_sha": "5c20184327befd944953eaf38ece71c0cb0f25c5",
-      "url": "https://www.radiodos.com.ar/210727-los-jugadores-preseleccionados-para-la-seleccion-correntina-de-infantiles",
-      "title": "Los jugadores preseleccionados para la Selección Correntina de Infantiles",
-      "volanta": "BÁSQUET",
-      "date": "2026-07-08T16:30:26+00:00"
     }
   ]
 }
