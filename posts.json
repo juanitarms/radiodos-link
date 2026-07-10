@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T12:48:40+00:00",
+  "updated": "2026-07-10T13:23:01+00:00",
   "posts": [
+    {
+      "id": "860ccea6",
+      "image": "img/860ccea6.png",
+      "image_sha": "95f23cc765bc5130307588323a15190570920b18",
+      "url": "https://www.radiodos.com.ar/210787-espana-vs-belgica-por-los-cuartos-de-final-del-mundial-2026-horario-formaciones-y-tv",
+      "title": "España vs. Bélgica por los cuartos de final del Mundial 2026: horario, formaciones y TV",
+      "volanta": "Hacia semis",
+      "date": "2026-07-10T13:23:01+00:00"
+    },
     {
       "id": "3b7d0fa4",
       "image": "img/3b7d0fa4.png",
@@ -531,15 +540,6 @@
       "title": "Remontada para el recuerdo: centenares de correntinos desataron su alegría en el quinto Fan Fest municipal",
       "volanta": "EL MUNDIAL SE VIVE A PLENO EN LA CIUDAD",
       "date": "2026-07-07T20:35:14+00:00"
-    },
-    {
-      "id": "afd92a35",
-      "image": "img/afd92a35.png",
-      "image_sha": "279b453095295ae2a3abcaa9811068a2cd2199ad",
-      "url": "https://www.radiodos.com.ar/210672-scaloni-este-equipo-nunca-va-a-dejar-tirada-a-su-gente",
-      "title": "Scaloni: \"Este equipo nunca va a dejar tirada a su gente\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-07T20:30:53+00:00"
     }
   ]
 }
