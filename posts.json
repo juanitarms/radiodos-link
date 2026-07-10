@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-09T23:10:08+00:00",
+  "updated": "2026-07-10T11:12:52+00:00",
   "posts": [
+    {
+      "id": "37c526c0",
+      "image": "img/37c526c0.png",
+      "image_sha": "f2a8c0cd05e8b186686d5330bc37366789cf3c4d",
+      "url": "https://www.radiodos.com.ar/210768-feriados-2026-cual-es-el-proximo-y-cuando-habra-un-nuevo-fin-de-semana-largo",
+      "title": "Feriados 2026: cuál es el próximo y cuándo habrá un nuevo fin de semana largo",
+      "volanta": "Calendario",
+      "date": "2026-07-10T11:12:52+00:00"
+    },
     {
       "id": "be2f11a9",
       "image": "img/be2f11a9.png",
@@ -531,15 +540,6 @@
       "title": "Quién quedó eliminado de Gran Hermano Generación Dorada este lunes",
       "volanta": "SIGUE EL JUEGO",
       "date": "2026-07-07T16:46:24+00:00"
-    },
-    {
-      "id": "4255fd73",
-      "image": "img/4255fd73.png",
-      "image_sha": "95362583f8d12ee7bad0b117213049fdbac518ee",
-      "url": "https://www.radiodos.com.ar/210665-eva-bargiela-vivio-un-momento-desesperante-durante-el-mundial-2026",
-      "title": "Eva Bargiela vivió un momento desesperante durante el Mundial 2026",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-07-07T16:45:47+00:00"
     }
   ]
 }
