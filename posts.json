@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T11:57:48+00:00",
+  "updated": "2026-07-10T12:09:17+00:00",
   "posts": [
+    {
+      "id": "70ef80e2",
+      "image": "img/70ef80e2.png",
+      "image_sha": "0934cf11e351d64f14d54276f3b937c2bfaa6343",
+      "url": "https://www.radiodos.com.ar/210772-feria-provincial-del-libro-libreros-celebran-una-gran-convocatoria-y-el-impulso-a-la-actividad-editorial",
+      "title": "Feria Provincial del Libro: libreros celebran una gran convocatoria y el impulso a la actividad editorial",
+      "volanta": "CULTURA",
+      "date": "2026-07-10T12:09:17+00:00"
+    },
     {
       "id": "8e21201d",
       "image": "img/8e21201d.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Egipto sorprende a La Scaloneta",
       "volanta": "En Atlanta",
       "date": "2026-07-07T17:47:17+00:00"
-    },
-    {
-      "id": "72291d8c",
-      "image": "img/72291d8c.png",
-      "image_sha": "938161a9ee09dc5446e099526f7554b8ac040a14",
-      "url": "https://www.radiodos.com.ar/210670-dos-demorados-con-diversos-elementos-que-fueron-secuestrados-",
-      "title": "Dos demorados con diversos elementos que fueron secuestrados",
-      "volanta": "COMISARIA DECIMO SEPTIMA URBANA",
-      "date": "2026-07-07T16:47:33+00:00"
     }
   ]
 }
