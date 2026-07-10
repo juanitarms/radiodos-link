@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T17:41:38+00:00",
+  "updated": "2026-07-10T18:00:09+00:00",
   "posts": [
+    {
+      "id": "5d921f33",
+      "image": "img/5d921f33.png",
+      "image_sha": "0ad8e381faef6dbe86b4ab2dbd3cef88ba4a6ae5",
+      "url": "https://www.radiodos.com.ar/210805-la-plata-entro-a-usurpar-una-casa-y-encontro-el-cuerpo-de-un-jubilado-en-estado-de-descomposicion",
+      "title": "La Plata: entró a usurpar una casa y encontró el cuerpo de un jubilado en estado de descomposición",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-10T18:00:09+00:00"
+    },
     {
       "id": "7f0e19d7",
       "image": "img/7f0e19d7.png",
@@ -531,15 +540,6 @@
       "title": "Remontada para el recuerdo: centenares de correntinos desataron su alegría en el quinto Fan Fest municipal",
       "volanta": "EL MUNDIAL SE VIVE A PLENO EN LA CIUDAD",
       "date": "2026-07-08T13:36:59+00:00"
-    },
-    {
-      "id": "5a8322ea",
-      "image": "img/5a8322ea.png",
-      "image_sha": "903161e51b0b65beaad6958e09b0c905af6e5b05",
-      "url": "https://www.radiodos.com.ar/210702-festejos-en-corrientes-un-policia-termino-herido-tras-una-persecucion",
-      "title": "Festejos en Corrientes: un policía terminó herido tras una persecución",
-      "volanta": "VIOLENCIA",
-      "date": "2026-07-08T13:00:16+00:00"
     }
   ]
 }
