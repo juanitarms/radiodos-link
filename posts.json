@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T19:17:12+00:00",
+  "updated": "2026-07-10T21:12:51+00:00",
   "posts": [
+    {
+      "id": "c3d1da12",
+      "image": "img/c3d1da12.png",
+      "image_sha": "95f8d173b966527146a46b4276535528117e4ddf",
+      "url": "https://www.radiodos.com.ar/210767-el-fiscal-no-tiene-nada-de-nada-que-busque-a-loan-duras-criticas-del-abogado-de-alan-canete-contra-carlos-schafer",
+      "title": "\"El fiscal no tiene nada de nada, que busque a Loan\": duras críticas del abogado de Alan Cañete contra Carlos Schafer",
+      "volanta": "Juicio",
+      "date": "2026-07-10T21:12:51+00:00"
+    },
     {
       "id": "23b7e217",
       "image": "img/23b7e217.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand reveló una charla con la madre de Lionel Messi tras la clasificación argentina: \"Me decía...\"",
       "volanta": "A PURO LLANTO",
       "date": "2026-07-08T14:29:15+00:00"
-    },
-    {
-      "id": "1a494ad0",
-      "image": "img/1a494ad0.png",
-      "image_sha": "c7447a7f96e5b73861fae5a7fb5d0f7cad5ce902",
-      "url": "https://www.radiodos.com.ar/210720-valentina-cervantes-mostro-el-tierno-festejo-de-benjamin-tras-el-triunfo-de-la-seleccion-argentina",
-      "title": "Valentina Cervantes mostró el tierno festejo de Benjamín tras el triunfo de la Selección Argentina",
-      "volanta": "VAMOS ARGENTINA",
-      "date": "2026-07-08T14:12:52+00:00"
     }
   ]
 }
