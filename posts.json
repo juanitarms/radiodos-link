@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T23:05:03+00:00",
+  "updated": "2026-07-10T23:06:19+00:00",
   "posts": [
+    {
+      "id": "2cf25834",
+      "image": "img/2cf25834.png",
+      "image_sha": "ba4dd613ccdde4bc908557a58e063181174cc947",
+      "url": "https://www.radiodos.com.ar/210816-historias-para-alentar-masiva-convocatoria-en-la-16-feria-provincial-del-libro-durante-el-feriado-patrio",
+      "title": "\"Historias para alentar\": masiva convocatoria en la 16ª Feria Provincial del Libro durante el feriado patrio",
+      "volanta": "EN LA UNIDAD",
+      "date": "2026-07-10T23:06:19+00:00"
+    },
     {
       "id": "572d396f",
       "image": "img/572d396f.png",
@@ -531,15 +540,6 @@
       "title": "Condenan a la pena máxima a un hombre por desobedecer una orden judicial en un caso de violencia familiar y de género",
       "volanta": "GOYA",
       "date": "2026-07-08T17:14:29+00:00"
-    },
-    {
-      "id": "cd4282ff",
-      "image": "img/cd4282ff.png",
-      "image_sha": "cef0782b427f6e6078fca143968a00a21dbc781e",
-      "url": "https://www.radiodos.com.ar/210726-salud-publica-fortalece-el-registro-de-notificacion-de-intentos-de-suicidio",
-      "title": "Salud Pública fortalece el registro de notificación de intentos de suicidio",
-      "volanta": "PROVINCIA",
-      "date": "2026-07-08T16:31:04+00:00"
     }
   ]
 }
