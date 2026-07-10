@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T17:40:13+00:00",
+  "updated": "2026-07-10T17:40:57+00:00",
   "posts": [
+    {
+      "id": "1fcbe04f",
+      "image": "img/1fcbe04f.png",
+      "image_sha": "377ede9c7bfb8f80ced7a86647cb495dea2cd586",
+      "url": "https://www.radiodos.com.ar/210804-venezuela-rescatistas-argentinos-avanzan-entre-los-restos-de-un-edificio-en-la-que-habia-una-fiesta-infantil",
+      "title": "Venezuela: rescatistas argentinos avanzan entre los restos de un edificio en la que había una fiesta infantil",
+      "volanta": "TERREMOTOS",
+      "date": "2026-07-10T17:40:57+00:00"
+    },
     {
       "id": "b1457339",
       "image": "img/b1457339.png",
@@ -531,15 +540,6 @@
       "title": "Una joven murió tras el incendio de su vivienda en el interior de Corrientes",
       "volanta": "SAN ROQUE",
       "date": "2026-07-08T12:34:04+00:00"
-    },
-    {
-      "id": "f2e32b74",
-      "image": "img/f2e32b74.png",
-      "image_sha": "28cea292cd8b9e40d13a54d77f3f79253199c5db",
-      "url": "https://www.radiodos.com.ar/210693-corrientes-en-los-festejos-por-la-seleccion-una-bala-perdida-perforo-un-techo-y-casi-impacta-a-un-nene",
-      "title": "Corrientes: en los festejos por la Selección, una bala perdida perforó un techo y casi impacta a un nene",
-      "volanta": "IRRACIONAL",
-      "date": "2026-07-08T12:18:24+00:00"
     }
   ]
 }
