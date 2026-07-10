@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T19:16:35+00:00",
+  "updated": "2026-07-10T19:17:12+00:00",
   "posts": [
+    {
+      "id": "23b7e217",
+      "image": "img/23b7e217.png",
+      "image_sha": "7c6f9324488adfb7b916557206438a7ac04e6550",
+      "url": "https://www.radiodos.com.ar/210807-la-linea-109-a-retoma-su-recorrido-al-barrio-rio-parana",
+      "title": "La línea 109 A retoma su recorrido al barrio Río Paraná",
+      "volanta": "ATENCIÓN USUARIOS",
+      "date": "2026-07-10T19:17:12+00:00"
+    },
     {
       "id": "649c1c63",
       "image": "img/649c1c63.png",
@@ -531,15 +540,6 @@
       "title": "Valentina Cervantes mostró el tierno festejo de Benjamín tras el triunfo de la Selección Argentina",
       "volanta": "VAMOS ARGENTINA",
       "date": "2026-07-08T14:12:52+00:00"
-    },
-    {
-      "id": "293de931",
-      "image": "img/293de931.png",
-      "image_sha": "5a1f61bda86e12e9fbcac169217360a0644ee303",
-      "url": "https://www.radiodos.com.ar/210714-hidrovia-el-gobierno-le-puso-la-firma-al-polemico-contrato-y-privatiza-el-parana-tras-un-escandaloso-proceso",
-      "title": "Hidrovía: el Gobierno le puso la firma al polémico contrato y privatiza el Paraná tras un escandaloso proceso",
-      "volanta": "POLÉMICA",
-      "date": "2026-07-08T13:51:24+00:00"
     }
   ]
 }
