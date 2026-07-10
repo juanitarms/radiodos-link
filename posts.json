@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T15:23:55+00:00",
+  "updated": "2026-07-10T16:11:19+00:00",
   "posts": [
+    {
+      "id": "16b21c28",
+      "image": "img/16b21c28.png",
+      "image_sha": "6d35a710520153e99992bf48587e3b6982a9cb3a",
+      "url": "https://www.radiodos.com.ar/210796-la-historia-de-don-coco-unico-tambo-correntino-que-produce-embutidos-dulces-y-licores",
+      "title": "La historia de Don Coco: Único tambo correntino que produce embutidos, dulces y licores",
+      "volanta": "MERCEDES",
+      "date": "2026-07-10T16:11:19+00:00"
+    },
     {
       "id": "942ef168",
       "image": "img/942ef168.png",
@@ -531,15 +540,6 @@
       "title": "Crisis económica: casi un 20% no pagó las expensas durante el 2026",
       "volanta": "ECONOMÍA LIBERTARIA",
       "date": "2026-07-07T21:35:05+00:00"
-    },
-    {
-      "id": "55800af6",
-      "image": "img/55800af6.png",
-      "image_sha": "128f778b4cd0750cff3065538de8251c1bac21e4",
-      "url": "https://www.radiodos.com.ar/210681-el-teatro-vera-lanza-un-ciclo-de-clases-de-musica-gratuitas-para-ninos",
-      "title": "El Teatro Vera lanza un ciclo de clases de música gratuitas para niños",
-      "volanta": "FORMACIÓN ARTÍSTICA",
-      "date": "2026-07-07T21:33:55+00:00"
     }
   ]
 }
