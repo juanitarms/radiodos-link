@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T21:14:03+00:00",
+  "updated": "2026-07-10T21:15:45+00:00",
   "posts": [
+    {
+      "id": "9370baca",
+      "image": "img/9370baca.png",
+      "image_sha": "a59a156a58c7865f4d02689b77ec5d3e9208cd2a",
+      "url": "https://www.radiodos.com.ar/210811-el-gobierno-profundizo-el-ajuste-en-junio-y-recorto-un-87-los-fondos-a-las-provincias",
+      "title": "El Gobierno profundizó el ajuste en junio y recortó un 87% los fondos a las provincias",
+      "volanta": "motosierra",
+      "date": "2026-07-10T21:15:45+00:00"
+    },
     {
       "id": "0b44eebb",
       "image": "img/0b44eebb.png",
@@ -531,15 +540,6 @@
       "title": "Regatas estuvo presente en el Torneo Little Gym de gimnasia de trampolín",
       "volanta": "Tumbling",
       "date": "2026-07-08T16:28:58+00:00"
-    },
-    {
-      "id": "ab77c638",
-      "image": "img/ab77c638.png",
-      "image_sha": "75ad49324e55a077bd0c4e9b6223f375022f9fb2",
-      "url": "https://www.radiodos.com.ar/210716-un-cirujano-de-un-hospital-publico-le-exigio-250000-a-un-paciente-para-operarlo",
-      "title": "Un cirujano de un hospital público le exigió $250.000 a un paciente para operarlo",
-      "volanta": "SAN JUAN",
-      "date": "2026-07-08T15:01:10+00:00"
     }
   ]
 }
