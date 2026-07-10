@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T14:30:34+00:00",
+  "updated": "2026-07-10T15:23:55+00:00",
   "posts": [
+    {
+      "id": "942ef168",
+      "image": "img/942ef168.png",
+      "image_sha": "0f2d21645da4db29c6873d2c095bf6f67c5b2705",
+      "url": "https://www.radiodos.com.ar/210795-antonela-roccuzzo-invitada-de-honor-a-la-apertura-del-primer-local-de-victoria-beckham-en-miami",
+      "title": "Antonela Roccuzzo, invitada de honor a la apertura del primer local de Victoria Beckham en Miami",
+      "volanta": "PRESENCIA",
+      "date": "2026-07-10T15:23:55+00:00"
+    },
     {
       "id": "1966e2a5",
       "image": "img/1966e2a5.png",
@@ -531,15 +540,6 @@
       "title": "El Teatro Vera lanza un ciclo de clases de música gratuitas para niños",
       "volanta": "FORMACIÓN ARTÍSTICA",
       "date": "2026-07-07T21:33:55+00:00"
-    },
-    {
-      "id": "9525cfdc",
-      "image": "img/9525cfdc.png",
-      "image_sha": "dea0248e7cbd4b75ac0832a776a614b7b7484cf2",
-      "url": "https://www.radiodos.com.ar/210680-valdes-y-passalacqua-apostaron-a-la-union-entre-misiones-y-corrientes",
-      "title": "Valdés y Passalacqua apostaron a la unión entre Misiones y Corrientes",
-      "volanta": "ENCUENTRO EN POSADAS",
-      "date": "2026-07-07T21:33:23+00:00"
     }
   ]
 }
