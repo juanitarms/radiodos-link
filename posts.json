@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T16:11:19+00:00",
+  "updated": "2026-07-10T16:12:06+00:00",
   "posts": [
+    {
+      "id": "772ed5a4",
+      "image": "img/772ed5a4.png",
+      "image_sha": "cf5f860dfbce4918083869c6777eed43abb80a6b",
+      "url": "https://www.radiodos.com.ar/210798-quien-es-joao-pinheiro-el-polemico-arbitro-portugues-designado-para-argentina-vs-suiza",
+      "title": "Quién es Joao Pinheiro, el polémico árbitro portugués designado para Argentina vs. Suiza",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-10T16:12:06+00:00"
+    },
     {
       "id": "16b21c28",
       "image": "img/16b21c28.png",
@@ -531,15 +540,6 @@
       "title": "Quedó inaugurada la Feria Provincial del Libro con más de 200 propuestas culturales",
       "volanta": "EN LA UNIDAD",
       "date": "2026-07-08T10:47:13+00:00"
-    },
-    {
-      "id": "1454022d",
-      "image": "img/1454022d.png",
-      "image_sha": "510d69ad4081184af97062dad91845553ed47232",
-      "url": "https://www.radiodos.com.ar/210678-crisis-economica-casi-un-20-no-pago-las-expensas-durante-el-2026",
-      "title": "Crisis económica: casi un 20% no pagó las expensas durante el 2026",
-      "volanta": "ECONOMÍA LIBERTARIA",
-      "date": "2026-07-07T21:35:05+00:00"
     }
   ]
 }
