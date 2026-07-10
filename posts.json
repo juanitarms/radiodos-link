@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T13:23:01+00:00",
+  "updated": "2026-07-10T13:36:04+00:00",
   "posts": [
+    {
+      "id": "80be72ec",
+      "image": "img/80be72ec.png",
+      "image_sha": "39fe8b7329bd021b7edd20183aa9824738de85c6",
+      "url": "https://www.radiodos.com.ar/210781-mas-de-800-policias-custodiaran-la-126-peregrinacion-de-san-luis-del-palmar-a-itati",
+      "title": "Más de 800 policías custodiarán la 126 Peregrinación de San Luis del Palmar a Itatí",
+      "volanta": "CAMBIOS EN EL TRÁNSITO",
+      "date": "2026-07-10T13:36:04+00:00"
+    },
     {
       "id": "860ccea6",
       "image": "img/860ccea6.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores de un aserradero denuncian incumplimiento salarial",
       "volanta": "CONFLICTO",
       "date": "2026-07-07T20:36:42+00:00"
-    },
-    {
-      "id": "cd484987",
-      "image": "img/cd484987.png",
-      "image_sha": "e852e351ff103a8ddf638070c8e1805cbcabd91f",
-      "url": "https://www.radiodos.com.ar/210676-remontada-para-el-recuerdo-centenares-de-correntinos-desataron-su-alegria-en-el-quinto-fan-fest-municipal",
-      "title": "Remontada para el recuerdo: centenares de correntinos desataron su alegría en el quinto Fan Fest municipal",
-      "volanta": "EL MUNDIAL SE VIVE A PLENO EN LA CIUDAD",
-      "date": "2026-07-07T20:35:14+00:00"
     }
   ]
 }
