@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T23:06:19+00:00",
+  "updated": "2026-07-10T23:06:58+00:00",
   "posts": [
+    {
+      "id": "182258a7",
+      "image": "img/182258a7.png",
+      "image_sha": "8225a27cb918af1651d5acdb6a090cf4ed4f077d",
+      "url": "https://www.radiodos.com.ar/210817-lunes-13-de-julio-las-oficinas-comerciales-de-la-dpec-permaneceran-cerradas",
+      "title": "Lunes 13 de julio: las oficinas comerciales de la DPEC permanecerán cerradas",
+      "volanta": "DIA DEL TRABAJADOR DE LA ENERGÍA ELÉCTRICA",
+      "date": "2026-07-10T23:06:58+00:00"
+    },
     {
       "id": "2cf25834",
       "image": "img/2cf25834.png",
@@ -531,15 +540,6 @@
       "title": "El Poder Judicial firmó un convenio con el Instituto Superior \"Carmen Molina de Llano\" para impulsar prácticas profesionalizantes",
       "volanta": "FORMACIÓN Y VINCULACIÓN INSTITUCIONAL",
       "date": "2026-07-08T17:15:04+00:00"
-    },
-    {
-      "id": "2b033a52",
-      "image": "img/2b033a52.png",
-      "image_sha": "76a7db114bac796122e9abfd9f80124cc82c5c9e",
-      "url": "https://www.radiodos.com.ar/210728-condenan-a-la-pena-maxima-a-un-hombre-por-desobedecer-una-orden-judicial-en-un-caso-de-violencia-familiar-y-de-genero",
-      "title": "Condenan a la pena máxima a un hombre por desobedecer una orden judicial en un caso de violencia familiar y de género",
-      "volanta": "GOYA",
-      "date": "2026-07-08T17:14:29+00:00"
     }
   ]
 }
