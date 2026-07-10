@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T21:42:29+00:00",
+  "updated": "2026-07-10T21:43:37+00:00",
   "posts": [
+    {
+      "id": "c15dcd21",
+      "image": "img/c15dcd21.png",
+      "image_sha": "a4ac1af04e4839ddd8658cf635ded9b2d8e01baa",
+      "url": "https://www.radiodos.com.ar/210812-asciende-a-3889-la-cantidad-de-muertos-por-los-terremotos-en-venezuela",
+      "title": "Asciende a 3.889 la cantidad de muertos por los terremotos en Venezuela",
+      "volanta": "CATASTROFE",
+      "date": "2026-07-10T21:43:37+00:00"
+    },
     {
       "id": "b998d576",
       "image": "img/b998d576.png",
@@ -531,15 +540,6 @@
       "title": "Los jugadores preseleccionados para la Selección Correntina de Infantiles",
       "volanta": "BÁSQUET",
       "date": "2026-07-08T16:30:26+00:00"
-    },
-    {
-      "id": "21ca2aa6",
-      "image": "img/21ca2aa6.png",
-      "image_sha": "d0d9126389294038f94d9cc3a55cdd3f5e9d3bad",
-      "url": "https://www.radiodos.com.ar/210723-lo-que-dijo-sofi-martinez-frente-a-las-acusaciones-sobre-su-distanciamiento-con-la-seleccion-argentina",
-      "title": "Lo que dijo Sofi Martínez frente a las acusaciones sobre su distanciamiento con la Selección Argentina",
-      "volanta": "CLARITO",
-      "date": "2026-07-08T16:29:44+00:00"
     }
   ]
 }
