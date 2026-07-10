@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T13:36:04+00:00",
+  "updated": "2026-07-10T13:55:10+00:00",
   "posts": [
+    {
+      "id": "c82b3975",
+      "image": "img/c82b3975.png",
+      "image_sha": "2b4d6a61bb55eca556f859bbd4fe70fd305b83d2",
+      "url": "https://www.radiodos.com.ar/210777-comercios-en-los-feriados-ayer-con-poca-apertura-hoy-atencion-normal",
+      "title": "Comercios en los feriados: ayer con poca apertura, hoy atención normal",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-10T13:55:10+00:00"
+    },
     {
       "id": "80be72ec",
       "image": "img/80be72ec.png",
@@ -531,15 +540,6 @@
       "title": "Niño Rata, sin escarmiento: salió en libertad, amenazó a vecinos y volvió a caer preso",
       "volanta": "NO TIENE CURA",
       "date": "2026-07-07T21:13:40+00:00"
-    },
-    {
-      "id": "8c6579e4",
-      "image": "img/8c6579e4.png",
-      "image_sha": "f38ad0d08bf6789af0423a2c9c8df16e5a78c8b1",
-      "url": "https://www.radiodos.com.ar/210675-trabajadores-de-un-aserradero-denuncian-incumplimiento-salarial",
-      "title": "Trabajadores de un aserradero denuncian incumplimiento salarial",
-      "volanta": "CONFLICTO",
-      "date": "2026-07-07T20:36:42+00:00"
     }
   ]
 }
