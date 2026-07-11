@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-10T23:06:58+00:00",
+  "updated": "2026-07-11T14:08:49+00:00",
   "posts": [
+    {
+      "id": "a8549b6f",
+      "image": "img/a8549b6f.png",
+      "image_sha": "6d10045832e0b07d6d5832723ac5ad59ea8fb109",
+      "url": "https://www.radiodos.com.ar/210824-corrientes-por-el-partido-argentina-suiza-cerraran-el-transito-vehicular-en-costanera-sur",
+      "title": "Corrientes: por el partido Argentina-Suiza, cerrarán el tránsito vehicular en Costanera Sur",
+      "volanta": "INFORMACIÓN OFICIAL",
+      "date": "2026-07-11T14:08:49+00:00"
+    },
     {
       "id": "182258a7",
       "image": "img/182258a7.png",
@@ -531,15 +540,6 @@
       "title": "\"Manu\", un niño de 12 años, espera una familia que lo acompañe a crecer",
       "volanta": "CONVOCATORIA PÚBLICA",
       "date": "2026-07-08T17:15:37+00:00"
-    },
-    {
-      "id": "60dd2a72",
-      "image": "img/60dd2a72.png",
-      "image_sha": "a02abd4be8a10dda05aac8a6557abda93295dc29",
-      "url": "https://www.radiodos.com.ar/210731-el-poder-judicial-firmo-un-convenio-con-el-instituto-superior-carmen-molina-de-llano-para-impulsar-practicas-profesionalizantes",
-      "title": "El Poder Judicial firmó un convenio con el Instituto Superior \"Carmen Molina de Llano\" para impulsar prácticas profesionalizantes",
-      "volanta": "FORMACIÓN Y VINCULACIÓN INSTITUCIONAL",
-      "date": "2026-07-08T17:15:04+00:00"
     }
   ]
 }
