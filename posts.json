@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-11T14:08:49+00:00",
+  "updated": "2026-07-11T14:09:46+00:00",
   "posts": [
+    {
+      "id": "8cba15aa",
+      "image": "img/8cba15aa.png",
+      "image_sha": "8263d4ddfa6c1e7985313dfcb426aeef11972c86",
+      "url": "https://www.radiodos.com.ar/210819-incendio-tragico-en-corrientes-el-autor-del-presunto-femicidio-compro-nafta-un-rato-antes",
+      "title": "Incendio trágico en Corrientes: el autor del presunto femicidio compró nafta un rato antes",
+      "volanta": "SAN ROQUE",
+      "date": "2026-07-11T14:09:46+00:00"
+    },
     {
       "id": "a8549b6f",
       "image": "img/a8549b6f.png",
@@ -531,15 +540,6 @@
       "title": "Funcionamiento de los servicios municipales durante este jueves y viernes",
       "volanta": "FERIADO NACIONAL",
       "date": "2026-07-08T17:16:13+00:00"
-    },
-    {
-      "id": "fe2aaf4d",
-      "image": "img/fe2aaf4d.png",
-      "image_sha": "bad4561bb05909a86c553cd6eb924c1f9861724f",
-      "url": "https://www.radiodos.com.ar/210730-manu-un-nino-de-12-anos-espera-una-familia-que-lo-acompane-a-crecer",
-      "title": "\"Manu\", un niño de 12 años, espera una familia que lo acompañe a crecer",
-      "volanta": "CONVOCATORIA PÚBLICA",
-      "date": "2026-07-08T17:15:37+00:00"
     }
   ]
 }
