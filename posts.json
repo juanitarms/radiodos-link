@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-11T15:41:01+00:00",
+  "updated": "2026-07-11T21:17:26+00:00",
   "posts": [
+    {
+      "id": "988c3f58",
+      "image": "img/988c3f58.png",
+      "image_sha": "c2699e3488270d40337cbd69ea9675b8da6608c8",
+      "url": "https://www.radiodos.com.ar/210840-choque-fatal-entre-un-auto-y-un-camion-en-santa-fe-un-muerto-y-cuatro-heridos",
+      "title": "Choque fatal entre un auto y un camión en Santa Fe: un muerto y cuatro heridos",
+      "volanta": "TRAGEDIA",
+      "date": "2026-07-11T21:17:26+00:00"
+    },
     {
       "id": "1e7ec7ed",
       "image": "img/1e7ec7ed.png",
@@ -531,15 +540,6 @@
       "title": "Paso de la Patria se alista para la edición 61° de la Fiesta Nacional del Dorado",
       "volanta": "LANZAMIENTO EN CASA DE GOBIERNO",
       "date": "2026-07-08T19:08:44+00:00"
-    },
-    {
-      "id": "57e4d0a2",
-      "image": "img/57e4d0a2.png",
-      "image_sha": "255d18881932bba8a8e4aca0113af6ca0c980dc4",
-      "url": "https://www.radiodos.com.ar/210734-desarrollo-social-abrio-la-convocatoria-a-instituciones-para-sumarse-al-programa-centros-de-familia",
-      "title": "Desarrollo Social abrió la convocatoria a instituciones para sumarse al Programa Centros de Familia",
-      "volanta": "DEPORTES, CULTURA Y EDUCACIÓN",
-      "date": "2026-07-08T17:41:47+00:00"
     }
   ]
 }
