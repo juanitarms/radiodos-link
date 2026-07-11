@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-11T14:09:46+00:00",
+  "updated": "2026-07-11T14:44:41+00:00",
   "posts": [
+    {
+      "id": "c1e41072",
+      "image": "img/c1e41072.png",
+      "image_sha": "9a3a1f527f51bc03b7b20145aeddc69a37824088",
+      "url": "https://www.radiodos.com.ar/210821-ya-califican-de-exito-absoluto-la-16-feria-provincial-del-libro-en-corrientes",
+      "title": "Ya califican de \"éxito absoluto\" la 16ª Feria Provincial del Libro en Corrientes",
+      "volanta": "EN LA UNIDAD",
+      "date": "2026-07-11T14:44:41+00:00"
+    },
     {
       "id": "8cba15aa",
       "image": "img/8cba15aa.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes dice presente en la Feria del Libro 2026",
       "volanta": "CULTURA LOCAL",
       "date": "2026-07-08T17:41:12+00:00"
-    },
-    {
-      "id": "5d685e43",
-      "image": "img/5d685e43.png",
-      "image_sha": "c55569824b39e6807fc20e4f3499f2ee44ba1495",
-      "url": "https://www.radiodos.com.ar/210729-funcionamiento-de-los-servicios-municipales-durante-este-jueves-y-viernes",
-      "title": "Funcionamiento de los servicios municipales durante este jueves y viernes",
-      "volanta": "FERIADO NACIONAL",
-      "date": "2026-07-08T17:16:13+00:00"
     }
   ]
 }
