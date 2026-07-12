@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T18:49:06+00:00",
+  "updated": "2026-07-12T21:34:39+00:00",
   "posts": [
+    {
+      "id": "c00eae8e",
+      "image": "img/c00eae8e.png",
+      "image_sha": "ab6b7f45f028e90e67ae2eedf2a324acad375a65",
+      "url": "https://www.radiodos.com.ar/210853-ingrid-jetter-la-prevencion-es-mucha-y-los-indices-delictivos-son-bajos-en-la-ciudad",
+      "title": "Ingrid Jetter: \"La prevención es mucha y los índices delictivos son bajos en la ciudad\"",
+      "volanta": "ENTREVISTA EN RADIO DOS",
+      "date": "2026-07-12T21:34:39+00:00"
+    },
     {
       "id": "bcc479d0",
       "image": "img/bcc479d0.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés y otros 12 gobernadores estuvieron con Milei en Tucumán",
       "volanta": "9 DE JULIO",
       "date": "2026-07-09T11:16:12+00:00"
-    },
-    {
-      "id": "0be2cdc6",
-      "image": "img/0be2cdc6.png",
-      "image_sha": "0a2e1e33346ed0e313e3d939b17e88c381fc9d9f",
-      "url": "https://www.radiodos.com.ar/210749-la-justicia-rechazo-el-pedido-de-alberto-fernandez-y-ratifico-la-investigacion-por-violencia-de-genero",
-      "title": "La Justicia rechazó el pedido de Alberto Fernández y ratificó la investigación por violencia de género",
-      "volanta": "EXPRESIDENTE",
-      "date": "2026-07-08T23:03:48+00:00"
     }
   ]
 }
