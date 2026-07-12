@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T16:12:40+00:00",
+  "updated": "2026-07-12T16:17:36+00:00",
   "posts": [
+    {
+      "id": "c882f480",
+      "image": "img/c882f480.png",
+      "image_sha": "70bb7abb989ce791d6ffeac4c6d8e3ca824d8895",
+      "url": "https://www.radiodos.com.ar/210849-en-honor-a-favaloro-se-conmemora-el-dia-nacional-de-la-medicina-social",
+      "title": "En honor a Favaloro, se conmemora el Día Nacional de la Medicina Social",
+      "volanta": "12 DE JULIO",
+      "date": "2026-07-12T16:17:36+00:00"
+    },
     {
       "id": "483082dd",
       "image": "img/483082dd.png",
@@ -531,15 +540,6 @@
       "title": "Impactante vuelco en la investigación de un incendio fatal en Corrientes: sería intencional y murió una amiga que estaba de visita",
       "volanta": "UN DETENIDO",
       "date": "2026-07-08T22:38:35+00:00"
-    },
-    {
-      "id": "77308dec",
-      "image": "img/77308dec.png",
-      "image_sha": "f4a8e1de446e1591890dd147ff2504782629798c",
-      "url": "https://www.radiodos.com.ar/210744-salud-publica-de-corrientes-fortalece-el-registro-de-notificacion-de-intentos-de-suicidio",
-      "title": "Salud Pública de Corrientes fortalece el registro de notificación de intentos de suicidio",
-      "volanta": "PROTOCOLOS",
-      "date": "2026-07-08T21:19:32+00:00"
     }
   ]
 }
