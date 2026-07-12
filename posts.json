@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T15:04:10+00:00",
+  "updated": "2026-07-12T15:47:00+00:00",
   "posts": [
+    {
+      "id": "8a180c19",
+      "image": "img/8a180c19.png",
+      "image_sha": "40022fe2c541b1f6fbd3e955237be22104dd1d40",
+      "url": "https://www.radiodos.com.ar/210846-monsenor-larregain-rescato-el-legado-franciscano-y-la-identidad-guarani-en-la-feria-del-libro",
+      "title": "Monseñor Larregain rescató el legado franciscano y la identidad guaraní en la Feria del Libro",
+      "volanta": "LA UNIDAD",
+      "date": "2026-07-12T15:47:00+00:00"
+    },
     {
       "id": "9ec00c40",
       "image": "img/9ec00c40.png",
@@ -531,15 +540,6 @@
       "title": "La dueña de Musimundo volvió a pedir el concurso y acumula una deuda de más de $ 63.500 millones",
       "volanta": "CRISIS",
       "date": "2026-07-08T20:50:33+00:00"
-    },
-    {
-      "id": "3ab4df97",
-      "image": "img/3ab4df97.png",
-      "image_sha": "52e0a6e5d0d5e65527511f127c466fff6fc08365",
-      "url": "https://www.radiodos.com.ar/210742-exdiputado-correntino-choco-contra-un-camion-por-esquivar-a-una-moto-que-huyo-del-lugar",
-      "title": "Exdiputado correntino chocó contra un camión por esquivar a una moto que huyó del lugar",
-      "volanta": "EN CHACO",
-      "date": "2026-07-08T20:49:32+00:00"
     }
   ]
 }
