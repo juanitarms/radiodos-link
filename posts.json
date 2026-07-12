@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T21:34:39+00:00",
+  "updated": "2026-07-12T21:35:15+00:00",
   "posts": [
+    {
+      "id": "6b274330",
+      "image": "img/6b274330.png",
+      "image_sha": "6dddb141c143984ce27c9d34ef24e6782abf1d53",
+      "url": "https://www.radiodos.com.ar/210854-el-pase-a-la-semifinal-se-vivio-con-emocion-en-otro-multitudinario-fan-fest-de-la-muni",
+      "title": "El pase a la semifinal se vivió con emoción en otro multitudinario Fan Fest de La Muni",
+      "volanta": "mundial 2026",
+      "date": "2026-07-12T21:35:15+00:00"
+    },
     {
       "id": "c00eae8e",
       "image": "img/c00eae8e.png",
@@ -531,15 +540,6 @@
       "title": "La provincia de Corrientes honra a Nuestra Señora de Itatí",
       "volanta": "FIESTA PATRONAL",
       "date": "2026-07-09T11:26:01+00:00"
-    },
-    {
-      "id": "7507c7cb",
-      "image": "img/7507c7cb.png",
-      "image_sha": "962e7602ae26ff339c81dd2faa2848980ee0f022",
-      "url": "https://www.radiodos.com.ar/210751-jp-valdes-y-otros-12-gobernadores-estuvieron-con-milei-en-tucuman",
-      "title": "JP Valdés y otros 12 gobernadores estuvieron con Milei en Tucumán",
-      "volanta": "9 DE JULIO",
-      "date": "2026-07-09T11:16:12+00:00"
     }
   ]
 }
