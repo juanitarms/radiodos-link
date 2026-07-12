@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T16:17:36+00:00",
+  "updated": "2026-07-12T17:05:00+00:00",
   "posts": [
+    {
+      "id": "c56623ef",
+      "image": "img/c56623ef.png",
+      "image_sha": "3dc2e95e6db2ba3396f77cfa96b9c6e9a44309a9",
+      "url": "https://www.radiodos.com.ar/210848-victoria-villarruel-respaldo-el-reclamo-salarial-y-pidio-retribucion-acorde-para-los-docentes",
+      "title": "Victoria Villarruel respaldó el reclamo salarial y pidió \"retribución acorde\" para los docentes",
+      "volanta": "FINANCIAMIENTO UNIVERSITARIO",
+      "date": "2026-07-12T17:05:00+00:00"
+    },
     {
       "id": "c882f480",
       "image": "img/c882f480.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron el cuerpo del nene argentino desaparecido en Venezuela",
       "volanta": "tras los terremotos",
       "date": "2026-07-08T22:41:21+00:00"
-    },
-    {
-      "id": "101c9709",
-      "image": "img/101c9709.png",
-      "image_sha": "275a96cedbbf25c9756642efa1f6dc13c7417c64",
-      "url": "https://www.radiodos.com.ar/210746-impactante-vuelco-en-la-investigacion-de-un-incendio-fatal-en-corrientes-seria-intencional-y-murio-una-amiga-que-estaba-de-visita",
-      "title": "Impactante vuelco en la investigación de un incendio fatal en Corrientes: sería intencional y murió una amiga que estaba de visita",
-      "volanta": "UN DETENIDO",
-      "date": "2026-07-08T22:38:35+00:00"
     }
   ]
 }
