@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T13:34:08+00:00",
+  "updated": "2026-07-12T15:04:10+00:00",
   "posts": [
+    {
+      "id": "9ec00c40",
+      "image": "img/9ec00c40.png",
+      "image_sha": "5ad24d189ed11952076c21144980e8313aa4fd0c",
+      "url": "https://www.radiodos.com.ar/210845-el-servicio-de-cirugia-toracica-del-hospital-escuela-recibio-un-reconocimiento-nacional",
+      "title": "El Servicio de Cirugía Torácica del Hospital Escuela recibió un reconocimiento nacional",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-07-12T15:04:10+00:00"
+    },
     {
       "id": "57563561",
       "image": "img/57563561.png",
@@ -531,15 +540,6 @@
       "title": "Exdiputado correntino chocó contra un camión por esquivar a una moto que huyó del lugar",
       "volanta": "EN CHACO",
       "date": "2026-07-08T20:49:32+00:00"
-    },
-    {
-      "id": "9b72c07a",
-      "image": "img/9b72c07a.png",
-      "image_sha": "cc9eb74d36af50f76b9737c43ac4352b028bb36b",
-      "url": "https://www.radiodos.com.ar/210740-denunciaron-al-ministro-de-salud-por-incumplir-con-el-pago-de-prestaciones-a-personas-con-discapacidad",
-      "title": "Denunciaron al ministro de Salud por incumplir con el pago de prestaciones a personas con discapacidad",
-      "volanta": "ESCÁNDALO",
-      "date": "2026-07-08T20:48:59+00:00"
     }
   ]
 }
