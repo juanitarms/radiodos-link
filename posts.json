@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-11T21:17:26+00:00",
+  "updated": "2026-07-12T01:01:32+00:00",
   "posts": [
+    {
+      "id": "72ec450a",
+      "image": "img/72ec450a.png",
+      "image_sha": "fba1b0df81adce7a02792da1555fc48f0ff36600",
+      "url": "https://www.radiodos.com.ar/210843-mundial-2026-los-piratas-eliminaron-a-los-vikingos-y-son-semifinalistas",
+      "title": "Mundial 2026: Los Piratas eliminaron a los Vikingos y son semifinalistas",
+      "volanta": "En Miami",
+      "date": "2026-07-12T01:01:32+00:00"
+    },
     {
       "id": "988c3f58",
       "image": "img/988c3f58.png",
@@ -531,15 +540,6 @@
       "title": "Ratificaron al Ingeniero José Basterra como Vicerrector de la UNNE",
       "volanta": "Designaron autoridades del Gabinete",
       "date": "2026-07-08T19:09:19+00:00"
-    },
-    {
-      "id": "f636c742",
-      "image": "img/f636c742.png",
-      "image_sha": "316a1e11a9cbf92e27b974e909b4a85579fce70c",
-      "url": "https://www.radiodos.com.ar/210735-paso-de-la-patria-se-alista-para-la-edicion-61°-de-la-fiesta-nacional-del-dorado",
-      "title": "Paso de la Patria se alista para la edición 61° de la Fiesta Nacional del Dorado",
-      "volanta": "LANZAMIENTO EN CASA DE GOBIERNO",
-      "date": "2026-07-08T19:08:44+00:00"
     }
   ]
 }
