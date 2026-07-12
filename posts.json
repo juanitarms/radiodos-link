@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T18:48:32+00:00",
+  "updated": "2026-07-12T18:49:06+00:00",
   "posts": [
+    {
+      "id": "bcc479d0",
+      "image": "img/bcc479d0.png",
+      "image_sha": "a705a291ce618ba3b8e51ccd1bdf764af286e05f",
+      "url": "https://www.radiodos.com.ar/210852-baez-creo-que-se-ha-mejorado-muchisimo-en-el-ordenamiento-del-transito",
+      "title": "Báez: \"Creo que se ha mejorado muchísimo en el ordenamiento del tránsito\"",
+      "volanta": "ENTREVISTA EN RADIO DOS",
+      "date": "2026-07-12T18:49:06+00:00"
+    },
     {
       "id": "5160a302",
       "image": "img/5160a302.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia rechazó el pedido de Alberto Fernández y ratificó la investigación por violencia de género",
       "volanta": "EXPRESIDENTE",
       "date": "2026-07-08T23:03:48+00:00"
-    },
-    {
-      "id": "624f8c73",
-      "image": "img/624f8c73.png",
-      "image_sha": "84d1fa3afa7ddd08c907410510e08640bdf01b24",
-      "url": "https://www.radiodos.com.ar/210750-la-titular-del-fmi-visitara-la-argentina-antes-de-fin-de-mes",
-      "title": "La titular del FMI visitará la Argentina antes de fin de mes",
-      "volanta": "Kristalina Georgieva",
-      "date": "2026-07-08T22:43:09+00:00"
     }
   ]
 }
