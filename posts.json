@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T21:35:15+00:00",
+  "updated": "2026-07-12T22:10:11+00:00",
   "posts": [
+    {
+      "id": "db841dd9",
+      "image": "img/db841dd9.png",
+      "image_sha": "ea5c1ab5d4459b042490877df8e4e0b573839c9d",
+      "url": "https://www.radiodos.com.ar/210855-argentina-buscara-romper-una-maldicion-vigente-desde-1962",
+      "title": "Argentina buscará romper una maldición vigente desde 1962",
+      "volanta": "Mundial 2026",
+      "date": "2026-07-12T22:10:11+00:00"
+    },
     {
       "id": "6b274330",
       "image": "img/6b274330.png",
@@ -531,15 +540,6 @@
       "title": "9 de Julio en Corrientes: los festejos por la Independencia serán con un imponente desfile cívico-militar",
       "volanta": "DIA PATRIO",
       "date": "2026-07-09T11:46:36+00:00"
-    },
-    {
-      "id": "d26be054",
-      "image": "img/d26be054.png",
-      "image_sha": "3a15a45ee9e1d85d8daf733455aed1bfbbd49f09",
-      "url": "https://www.radiodos.com.ar/210753-la-provincia-de-corrientes-honra-a-nuestra-senora-de-itati",
-      "title": "La provincia de Corrientes honra a Nuestra Señora de Itatí",
-      "volanta": "FIESTA PATRONAL",
-      "date": "2026-07-09T11:26:01+00:00"
     }
   ]
 }
