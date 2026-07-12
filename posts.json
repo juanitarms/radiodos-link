@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T01:01:32+00:00",
+  "updated": "2026-07-12T13:34:08+00:00",
   "posts": [
+    {
+      "id": "57563561",
+      "image": "img/57563561.png",
+      "image_sha": "5839645dd78aa63af385ec6589693eb190c68645",
+      "url": "https://www.radiodos.com.ar/210837-la-justicia-habilito-un-amparo-colectivo-de-abogados-contra-la-reforma-laboral",
+      "title": "La Justicia habilitó un amparo colectivo de abogados contra la reforma laboral",
+      "volanta": "FRENO",
+      "date": "2026-07-12T13:34:08+00:00"
+    },
     {
       "id": "72ec450a",
       "image": "img/72ec450a.png",
@@ -531,15 +540,6 @@
       "title": "Denunciaron al ministro de Salud por incumplir con el pago de prestaciones a personas con discapacidad",
       "volanta": "ESCÁNDALO",
       "date": "2026-07-08T20:48:59+00:00"
-    },
-    {
-      "id": "827d7053",
-      "image": "img/827d7053.png",
-      "image_sha": "96dd3db5e4f39cafb80e225f91c463a27b083faf",
-      "url": "https://www.radiodos.com.ar/210736-ratificaron-al-ingeniero-jose-basterra-como-vicerrector-de-la-unne",
-      "title": "Ratificaron al Ingeniero José Basterra como Vicerrector de la UNNE",
-      "volanta": "Designaron autoridades del Gabinete",
-      "date": "2026-07-08T19:09:19+00:00"
     }
   ]
 }
