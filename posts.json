@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T19:05:22+00:00",
+  "updated": "2026-07-13T20:57:26+00:00",
   "posts": [
+    {
+      "id": "03be6115",
+      "image": "img/03be6115.png",
+      "image_sha": "dcaf6c4216c743f6d1032d2a9217ac41d82506bf",
+      "url": "https://www.radiodos.com.ar/210905-venezuela-la-cifra-de-fallecidos-por-los-terremotos-en-venezuela-supera-los-4500",
+      "title": "Venezuela: la cifra de fallecidos por los terremotos en Venezuela supera los 4.500",
+      "volanta": "Catástrofe",
+      "date": "2026-07-13T20:57:26+00:00"
+    },
     {
       "id": "b89b3f82",
       "image": "img/b89b3f82.png",
@@ -531,15 +540,6 @@
       "title": "Comercios en los feriados: ayer con poca apertura, hoy atención normal",
       "volanta": "CORRIENTES",
       "date": "2026-07-10T13:55:10+00:00"
-    },
-    {
-      "id": "80be72ec",
-      "image": "img/80be72ec.png",
-      "image_sha": "39fe8b7329bd021b7edd20183aa9824738de85c6",
-      "url": "https://www.radiodos.com.ar/210781-mas-de-800-policias-custodiaran-la-126-peregrinacion-de-san-luis-del-palmar-a-itati",
-      "title": "Más de 800 policías custodiarán la 126 Peregrinación de San Luis del Palmar a Itatí",
-      "volanta": "CAMBIOS EN EL TRÁNSITO",
-      "date": "2026-07-10T13:36:04+00:00"
     }
   ]
 }
