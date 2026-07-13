@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T22:07:33+00:00",
+  "updated": "2026-07-13T23:17:56+00:00",
   "posts": [
+    {
+      "id": "be51d265",
+      "image": "img/be51d265.png",
+      "image_sha": "413eda7d22b09666aef8d86e1ae0da1da5685b77",
+      "url": "https://www.radiodos.com.ar/210912-corrientes-espera-una-semana-con-maxima-que-rozaran-los-32-grados",
+      "title": "Corrientes espera una semana con máxima que rozarán los 32 grados",
+      "volanta": "TIEMPO",
+      "date": "2026-07-13T23:17:56+00:00"
+    },
     {
       "id": "78f3e24a",
       "image": "img/78f3e24a.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba: dos muertos por el choque frontal de un micro que llevaba a un equipo de fútbol femenino infantil",
       "volanta": "TRAGEDIA",
       "date": "2026-07-10T16:12:50+00:00"
-    },
-    {
-      "id": "772ed5a4",
-      "image": "img/772ed5a4.png",
-      "image_sha": "cf5f860dfbce4918083869c6777eed43abb80a6b",
-      "url": "https://www.radiodos.com.ar/210798-quien-es-joao-pinheiro-el-polemico-arbitro-portugues-designado-para-argentina-vs-suiza",
-      "title": "Quién es Joao Pinheiro, el polémico árbitro portugués designado para Argentina vs. Suiza",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-10T16:12:06+00:00"
     }
   ]
 }
