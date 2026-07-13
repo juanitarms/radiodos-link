@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T12:44:40+00:00",
+  "updated": "2026-07-13T13:09:03+00:00",
   "posts": [
+    {
+      "id": "868cd7a3",
+      "image": "img/868cd7a3.png",
+      "image_sha": "0952c11ea500b9f166fc8bf7de98512170a9ce1d",
+      "url": "https://www.radiodos.com.ar/210872-corrientes-rescataron-un-perro-que-estuvo-varios-dias-atrapado-en-una-terraza",
+      "title": "Corrientes: rescataron un perro que estuvo varios días atrapado en una terraza",
+      "volanta": "EN TORRE WARNES",
+      "date": "2026-07-13T13:09:03+00:00"
+    },
     {
       "id": "6820fdbf",
       "image": "img/6820fdbf.png",
@@ -531,15 +540,6 @@
       "title": "Dramático relato tras incendio y femicidio en Corrientes: \"Le gritaba a Ayma que salga... pero ya era tarde\"",
       "volanta": "DRAMA TOTAL EN SAN ROQUE",
       "date": "2026-07-09T14:36:04+00:00"
-    },
-    {
-      "id": "615714f0",
-      "image": "img/615714f0.png",
-      "image_sha": "8ae07838aa451bc5f0208e12dcca1eb2317d10b4",
-      "url": "https://www.radiodos.com.ar/210758-lanari-adelanto-reunion-con-autoridades-nacionales-por-incluir-salud",
-      "title": "Lanari adelantó reunión con autoridades nacionales por Incluir Salud",
-      "volanta": "MINISTRO DE SALUD",
-      "date": "2026-07-09T13:59:33+00:00"
     }
   ]
 }
