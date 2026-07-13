@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T10:39:02+00:00",
+  "updated": "2026-07-13T12:03:35+00:00",
   "posts": [
+    {
+      "id": "ebe1f9f1",
+      "image": "img/ebe1f9f1.png",
+      "image_sha": "ba7fe31b42256de70f1d3b1ea9b830256717ab56",
+      "url": "https://www.radiodos.com.ar/210862-tragico-accidente-sobre-la-ruta-nacional-n°-118-una-persona-fallecida-y-siete-heridos",
+      "title": "Trágico accidente sobre la Ruta Nacional N° 118: una persona fallecida y siete heridos",
+      "volanta": "ACCESO A SAN MIGUEL",
+      "date": "2026-07-13T12:03:35+00:00"
+    },
     {
       "id": "4651ef85",
       "image": "img/4651ef85.png",
@@ -531,15 +540,6 @@
       "title": "Gobernador JP Valdés: \"Tras 210 años, seguimos discutiendo por más federalismo y más igualdad\"",
       "volanta": "DÍA DE LA INDEPENDENCIA",
       "date": "2026-07-09T13:02:28+00:00"
-    },
-    {
-      "id": "f3b2703e",
-      "image": "img/f3b2703e.png",
-      "image_sha": "ddc84e8f6285530aba930928828cdb5db2e877ad",
-      "url": "https://www.radiodos.com.ar/210756-9-de-julio-interpretacion-de-esta-gesta-historica-como-un-necesario-despertar-ciudadano-de-los-argentinos",
-      "title": "9 de Julio: Interpretación de esta gesta histórica como un necesario despertar ciudadano de los argentinos",
-      "volanta": "NOTA DE OPINIÓN",
-      "date": "2026-07-09T12:18:39+00:00"
     }
   ]
 }
