@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T14:49:21+00:00",
+  "updated": "2026-07-13T16:11:49+00:00",
   "posts": [
+    {
+      "id": "1c41e203",
+      "image": "img/1c41e203.png",
+      "image_sha": "d58b4fd3f3c68df6369fda099573ad77f2cc46ec",
+      "url": "https://www.radiodos.com.ar/210888-el-petroleo-se-dispara-se-preven-caidas-en-los-mercados-y-la-presion-sobre-la-inflacion-se-profundiza",
+      "title": "El petróleo se dispara, se prevén caídas en los mercados y la presión sobre la inflación se profundiza",
+      "volanta": "ECONOMÍA",
+      "date": "2026-07-13T16:11:49+00:00"
+    },
     {
       "id": "f3631bad",
       "image": "img/f3631bad.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron al principal sospechoso por el incendio fatal de una vivienda",
       "volanta": "San Roque",
       "date": "2026-07-09T23:10:08+00:00"
-    },
-    {
-      "id": "e21a8df2",
-      "image": "img/e21a8df2.png",
-      "image_sha": "fee40aa08f534d53e7440d980c98c6fd71e151b9",
-      "url": "https://www.radiodos.com.ar/210763-mundial-2026-francia-repitio-lo-de-qatar-elimino-a-marruecos-y-es-semifinalista",
-      "title": "Mundial 2026: Francia repitió lo de Qatar, eliminó a marruecos y es semifinalista",
-      "volanta": "En Boston",
-      "date": "2026-07-09T23:09:04+00:00"
     }
   ]
 }
