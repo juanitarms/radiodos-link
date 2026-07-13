@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T20:57:26+00:00",
+  "updated": "2026-07-13T20:58:02+00:00",
   "posts": [
+    {
+      "id": "ca65ca3f",
+      "image": "img/ca65ca3f.png",
+      "image_sha": "5f4fae45c7e4582b259b4ae1158a7d96452024b6",
+      "url": "https://www.radiodos.com.ar/210906-veteranos-de-malvinas-en-la-previa-de-argentina-vs-inglaterra-el-deporte-no-es-la-guerra-ni-una-revancha-armada",
+      "title": "Veteranos de Malvinas, en la previa de Argentina vs. Inglaterra: \"El deporte no es la guerra ni una revancha armada\"",
+      "volanta": "Mundial 2026",
+      "date": "2026-07-13T20:58:02+00:00"
+    },
     {
       "id": "03be6115",
       "image": "img/03be6115.png",
@@ -531,15 +540,6 @@
       "title": "Cae el crédito para el consumo y sigue en alza la morosidad de las familias argentinas",
       "volanta": "ECONOMÍA",
       "date": "2026-07-10T14:18:08+00:00"
-    },
-    {
-      "id": "c82b3975",
-      "image": "img/c82b3975.png",
-      "image_sha": "2b4d6a61bb55eca556f859bbd4fe70fd305b83d2",
-      "url": "https://www.radiodos.com.ar/210777-comercios-en-los-feriados-ayer-con-poca-apertura-hoy-atencion-normal",
-      "title": "Comercios en los feriados: ayer con poca apertura, hoy atención normal",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-10T13:55:10+00:00"
     }
   ]
 }
