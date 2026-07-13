@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T13:34:37+00:00",
+  "updated": "2026-07-13T13:53:24+00:00",
   "posts": [
+    {
+      "id": "b1951fbf",
+      "image": "img/b1951fbf.png",
+      "image_sha": "dd249e1afd77c89f5fb245e2f1ebe99ad1a51771",
+      "url": "https://www.radiodos.com.ar/210873-mas-de-46-mil-personas-ya-pasaron-por-la-feria-provincial-del-libro",
+      "title": "Más de 46 mil personas ya pasaron por la Feria Provincial del Libro",
+      "volanta": "EN LA UNIDAD",
+      "date": "2026-07-13T13:53:24+00:00"
+    },
     {
       "id": "129556a2",
       "image": "img/129556a2.png",
@@ -531,15 +540,6 @@
       "title": "En Corrientes una multitud acompañó el desfile por los 210 años de la independencia",
       "volanta": "A LO LARGO DE LA COSTANERA",
       "date": "2026-07-09T21:59:12+00:00"
-    },
-    {
-      "id": "cff9f773",
-      "image": "img/cff9f773.png",
-      "image_sha": "f279b563f7a6fd391f8748c931c9990668e69bde",
-      "url": "https://www.radiodos.com.ar/210760-monsenor-larregain-son-muchos-los-argentinos-que-luchan-contra-el-hambre",
-      "title": "Monseñor Larregain: \"Son muchos los argentinos que luchan contra el hambre\"",
-      "volanta": "TEDEUM",
-      "date": "2026-07-09T15:07:42+00:00"
     }
   ]
 }
