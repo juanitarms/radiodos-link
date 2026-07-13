@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-12T22:10:11+00:00",
+  "updated": "2026-07-13T10:39:02+00:00",
   "posts": [
+    {
+      "id": "4651ef85",
+      "image": "img/4651ef85.png",
+      "image_sha": "ba2f0ab84b4400ee1518af7c39b0475d64c8c2c1",
+      "url": "https://www.radiodos.com.ar/210856-san-luis-del-palmar-despliegan-un-megaoperativo-policial-por-la-tradicional-peregrinacion-a-itati",
+      "title": "San Luis del Palmar: despliegan un megaoperativo policial por la tradicional peregrinación a Itatí",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-13T10:39:02+00:00"
+    },
     {
       "id": "db841dd9",
       "image": "img/db841dd9.png",
@@ -531,15 +540,6 @@
       "title": "9 de Julio: Interpretación de esta gesta histórica como un necesario despertar ciudadano de los argentinos",
       "volanta": "NOTA DE OPINIÓN",
       "date": "2026-07-09T12:18:39+00:00"
-    },
-    {
-      "id": "5d1c9d21",
-      "image": "img/5d1c9d21.png",
-      "image_sha": "db70fd6ff0d5488646a4be8ff9bdce81a4273781",
-      "url": "https://www.radiodos.com.ar/210752-9-de-julio-en-corrientes-los-festejos-por-la-independencia-seran-con-un-imponente-desfile-civico-militar",
-      "title": "9 de Julio en Corrientes: los festejos por la Independencia serán con un imponente desfile cívico-militar",
-      "volanta": "DIA PATRIO",
-      "date": "2026-07-09T11:46:36+00:00"
     }
   ]
 }
