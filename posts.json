@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T21:50:03+00:00",
+  "updated": "2026-07-13T22:07:33+00:00",
   "posts": [
+    {
+      "id": "78f3e24a",
+      "image": "img/78f3e24a.png",
+      "image_sha": "5c398e8128e08d5730826c6a1c8081bf660c5aec",
+      "url": "https://www.radiodos.com.ar/210910-la-municipalidad-continua-avanzando-con-cielo-limpio-el-programa-de-ordenamiento-del-cableado-aereo",
+      "title": "La Municipalidad continúa avanzando con \"Cielo Limpio\", el programa de ordenamiento del cableado aéreo",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-13T22:07:33+00:00"
+    },
     {
       "id": "64ad0978",
       "image": "img/64ad0978.png",
@@ -531,15 +540,6 @@
       "title": "Quién es Joao Pinheiro, el polémico árbitro portugués designado para Argentina vs. Suiza",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-10T16:12:06+00:00"
-    },
-    {
-      "id": "16b21c28",
-      "image": "img/16b21c28.png",
-      "image_sha": "6d35a710520153e99992bf48587e3b6982a9cb3a",
-      "url": "https://www.radiodos.com.ar/210796-la-historia-de-don-coco-unico-tambo-correntino-que-produce-embutidos-dulces-y-licores",
-      "title": "La historia de Don Coco: Único tambo correntino que produce embutidos, dulces y licores",
-      "volanta": "MERCEDES",
-      "date": "2026-07-10T16:11:19+00:00"
     }
   ]
 }
