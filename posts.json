@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T21:06:53+00:00",
+  "updated": "2026-07-13T21:49:26+00:00",
   "posts": [
+    {
+      "id": "a90e2f78",
+      "image": "img/a90e2f78.png",
+      "image_sha": "9a51354558d5fb9c4ffe120428359b60ae1573bd",
+      "url": "https://www.radiodos.com.ar/210908-construccion-corrientes-es-la-segunda-provincia-con-mayor-caida-del-empleo-en-el-pais",
+      "title": "Construcción: Corrientes es la segunda provincia con mayor caída del empleo en el país",
+      "volanta": "CRISIS",
+      "date": "2026-07-13T21:49:26+00:00"
+    },
     {
       "id": "6b094309",
       "image": "img/6b094309.png",
@@ -531,15 +540,6 @@
       "title": "Antonela Roccuzzo, invitada de honor a la apertura del primer local de Victoria Beckham en Miami",
       "volanta": "PRESENCIA",
       "date": "2026-07-10T15:23:55+00:00"
-    },
-    {
-      "id": "1966e2a5",
-      "image": "img/1966e2a5.png",
-      "image_sha": "17daaae132265b473c1278861ab689372d4d827b",
-      "url": "https://www.radiodos.com.ar/210794-astrologia-la-sorprendente-prediccion-para-el-partido-de-la-seleccion-argentina-vs-suiza-del-mundial-2026",
-      "title": "Astrología: la sorprendente predicción para el partido de la Selección Argentina vs Suiza del Mundial 2026",
-      "volanta": "ATENCIÓN",
-      "date": "2026-07-10T14:30:34+00:00"
     }
   ]
 }
