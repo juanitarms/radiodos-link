@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T20:58:02+00:00",
+  "updated": "2026-07-13T21:06:53+00:00",
   "posts": [
+    {
+      "id": "6b094309",
+      "image": "img/6b094309.png",
+      "image_sha": "6ac3acb345e30d9a08c2b4aeef5e223f5f64a1a8",
+      "url": "https://www.radiodos.com.ar/210907-cultura-y-futbol-de-la-mano-pantalla-gigante-en-la-feria-del-libro-para-alentar-a-la-seleccion",
+      "title": "Cultura y fútbol de la mano: pantalla gigante en la Feria del Libro para alentar a la Selección",
+      "volanta": "ARGENTINA VS INGLATERRA",
+      "date": "2026-07-13T21:06:53+00:00"
+    },
     {
       "id": "ca65ca3f",
       "image": "img/ca65ca3f.png",
@@ -531,15 +540,6 @@
       "title": "Astrología: la sorprendente predicción para el partido de la Selección Argentina vs Suiza del Mundial 2026",
       "volanta": "ATENCIÓN",
       "date": "2026-07-10T14:30:34+00:00"
-    },
-    {
-      "id": "2dffc620",
-      "image": "img/2dffc620.png",
-      "image_sha": "a5a18c60f35db3a857412e7b35543db67996e7dd",
-      "url": "https://www.radiodos.com.ar/210788-cae-el-credito-para-el-consumo-y-sigue-en-alza-la-morosidad-de-las-familias-argentinas",
-      "title": "Cae el crédito para el consumo y sigue en alza la morosidad de las familias argentinas",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-10T14:18:08+00:00"
     }
   ]
 }
