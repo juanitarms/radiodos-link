@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T17:40:49+00:00",
+  "updated": "2026-07-13T17:41:21+00:00",
   "posts": [
+    {
+      "id": "6f33145a",
+      "image": "img/6f33145a.png",
+      "image_sha": "f682862c31342eb25d41bc1901c9278308f50dbf",
+      "url": "https://www.radiodos.com.ar/210894-panico-mientras-festejaban-el-triunfo-de-la-seleccion-argentina-se-derrumbo-parte-del-techo-de-un-bar",
+      "title": "Pánico: mientras festejaban el triunfo de la Selección argentina se derrumbó parte del techo de un bar",
+      "volanta": "ENTRE RÍOS",
+      "date": "2026-07-13T17:41:21+00:00"
+    },
     {
       "id": "225ec4da",
       "image": "img/225ec4da.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni perfila el once titular para el partido de cuartos de final contra Suiza",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-10T12:33:53+00:00"
-    },
-    {
-      "id": "70ef80e2",
-      "image": "img/70ef80e2.png",
-      "image_sha": "0934cf11e351d64f14d54276f3b937c2bfaa6343",
-      "url": "https://www.radiodos.com.ar/210772-feria-provincial-del-libro-libreros-celebran-una-gran-convocatoria-y-el-impulso-a-la-actividad-editorial",
-      "title": "Feria Provincial del Libro: libreros celebran una gran convocatoria y el impulso a la actividad editorial",
-      "volanta": "CULTURA",
-      "date": "2026-07-10T12:09:17+00:00"
     }
   ]
 }
