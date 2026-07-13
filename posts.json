@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T17:41:21+00:00",
+  "updated": "2026-07-13T19:04:12+00:00",
   "posts": [
+    {
+      "id": "50f623d6",
+      "image": "img/50f623d6.png",
+      "image_sha": "ad72c9f0f2663921603cd008a4470842c6c5c699",
+      "url": "https://www.radiodos.com.ar/210893-sin-clases-en-20-provincias-este-miercoles-15-de-julio-cuando-juega-la-seleccion-argentina-vs-inglaterra",
+      "title": "Sin clases en 20 provincias este miércoles 15 de julio cuando juega la Selección Argentina vs. Inglaterra",
+      "volanta": "SEMIFINAL",
+      "date": "2026-07-13T19:04:12+00:00"
+    },
     {
       "id": "6f33145a",
       "image": "img/6f33145a.png",
@@ -531,15 +540,6 @@
       "title": "Haaland le puso presión a Inglaterra: \"Definitivamente, van a pasar a ellos\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-10T12:48:40+00:00"
-    },
-    {
-      "id": "9b3c5f07",
-      "image": "img/9b3c5f07.png",
-      "image_sha": "7f2163b94e792c2bd6431f2e78bcebadc2630405",
-      "url": "https://www.radiodos.com.ar/210779-lionel-scaloni-perfila-el-once-titular-para-el-partido-de-cuartos-de-final-contra-suiza",
-      "title": "Lionel Scaloni perfila el once titular para el partido de cuartos de final contra Suiza",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-10T12:33:53+00:00"
     }
   ]
 }
