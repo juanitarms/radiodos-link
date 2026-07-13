@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T17:21:59+00:00",
+  "updated": "2026-07-13T17:40:49+00:00",
   "posts": [
+    {
+      "id": "225ec4da",
+      "image": "img/225ec4da.png",
+      "image_sha": "be8c88522d5ac134dda0369463e9ca2b04d21893",
+      "url": "https://www.radiodos.com.ar/210895-cordoba-asesinaron-a-un-joven-durante-los-festejos-por-el-triunfo-de-la-seleccion-argentina",
+      "title": "Córdoba: asesinaron a un joven durante los festejos por el triunfo de la Selección Argentina",
+      "volanta": "DESCONTROL",
+      "date": "2026-07-13T17:40:49+00:00"
+    },
     {
       "id": "69dc9d59",
       "image": "img/69dc9d59.png",
@@ -531,15 +540,6 @@
       "title": "Feria Provincial del Libro: libreros celebran una gran convocatoria y el impulso a la actividad editorial",
       "volanta": "CULTURA",
       "date": "2026-07-10T12:09:17+00:00"
-    },
-    {
-      "id": "8e21201d",
-      "image": "img/8e21201d.png",
-      "image_sha": "d5c2faf100804f549543a8d524f46cce3b9560bb",
-      "url": "https://www.radiodos.com.ar/210770-corrientes-delincuentes-atacaron-a-un-ciclista-lo-tiraron-al-suelo-y-le-robaron-el-vehiculo",
-      "title": "Corrientes: delincuentes atacaron a un ciclista, lo tiraron al suelo y le robaron el vehículo",
-      "volanta": "BARRIO SANTA CATALINA",
-      "date": "2026-07-10T11:57:48+00:00"
     }
   ]
 }
