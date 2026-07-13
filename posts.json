@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T17:21:23+00:00",
+  "updated": "2026-07-13T17:21:59+00:00",
   "posts": [
+    {
+      "id": "69dc9d59",
+      "image": "img/69dc9d59.png",
+      "image_sha": "55e9d3066e24ebcbbba73395f1c485a87a10c215",
+      "url": "https://www.radiodos.com.ar/210889-boca-se-despide-de-su-sueno-paulo-dybala-renovo-oficialmente-con-la-roma",
+      "title": "Boca se despide de su sueño: Paulo Dybala renovó oficialmente con la Roma",
+      "volanta": "EUROPA",
+      "date": "2026-07-13T17:21:59+00:00"
+    },
     {
       "id": "f2266fa6",
       "image": "img/f2266fa6.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: delincuentes atacaron a un ciclista, lo tiraron al suelo y le robaron el vehículo",
       "volanta": "BARRIO SANTA CATALINA",
       "date": "2026-07-10T11:57:48+00:00"
-    },
-    {
-      "id": "56ff830b",
-      "image": "img/56ff830b.png",
-      "image_sha": "e496561efb43a4cf9535f65186e8818abc1428ed",
-      "url": "https://www.radiodos.com.ar/210769-otro-golpe-contra-el-narcomenudeo-en-el-interior-de-corrientes-dos-allanamientos-y-seis-detenidos",
-      "title": "Otro golpe contra el narcomenudeo en el interior de Corrientes: dos allanamientos y seis detenidos",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-07-10T11:36:53+00:00"
     }
   ]
 }
