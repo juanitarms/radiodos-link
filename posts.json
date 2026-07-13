@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T12:03:35+00:00",
+  "updated": "2026-07-13T12:18:48+00:00",
   "posts": [
+    {
+      "id": "8e6107f7",
+      "image": "img/8e6107f7.png",
+      "image_sha": "7d2ffb76f0de0a1ec7550c1d8994ba407222164f",
+      "url": "https://www.radiodos.com.ar/210863-corrientes-el-juego-con-inglaterra-dispara-venta-de-ropa-de-malvinas",
+      "title": "Corrientes: el juego con Inglaterra dispara venta de ropa de Malvinas",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-13T12:18:48+00:00"
+    },
     {
       "id": "ebe1f9f1",
       "image": "img/ebe1f9f1.png",
@@ -531,15 +540,6 @@
       "title": "Sigue prófuga una pareja narco: les secuestraron 37 kilos de cocaína",
       "volanta": "BÚSQUEDA",
       "date": "2026-07-09T13:23:16+00:00"
-    },
-    {
-      "id": "eea00b8d",
-      "image": "img/eea00b8d.png",
-      "image_sha": "ab14e9ba60a3362e0ba6a2d3d73e288c18c0ef89",
-      "url": "https://www.radiodos.com.ar/210754-gobernador-jp-valdes-tras-210-anos-seguimos-discutiendo-por-mas-federalismo-y-mas-igualdad",
-      "title": "Gobernador JP Valdés: \"Tras 210 años, seguimos discutiendo por más federalismo y más igualdad\"",
-      "volanta": "DÍA DE LA INDEPENDENCIA",
-      "date": "2026-07-09T13:02:28+00:00"
     }
   ]
 }
