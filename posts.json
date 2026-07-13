@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T16:12:28+00:00",
+  "updated": "2026-07-13T17:21:23+00:00",
   "posts": [
+    {
+      "id": "f2266fa6",
+      "image": "img/f2266fa6.png",
+      "image_sha": "c77464d4e9a031864ebcb68b7ab630066c75968a",
+      "url": "https://www.radiodos.com.ar/210890-patricia-bullrich-la-oposicion-usa-el-mundial-2026-para-hacer-campana-anti-reeleccion",
+      "title": "Patricia Bullrich: \"La oposición usa el Mundial 2026 para hacer campaña anti-reelección\"",
+      "volanta": "POLÍTICA",
+      "date": "2026-07-13T17:21:23+00:00"
+    },
     {
       "id": "82fef95a",
       "image": "img/82fef95a.png",
@@ -531,15 +540,6 @@
       "title": "Otro golpe contra el narcomenudeo en el interior de Corrientes: dos allanamientos y seis detenidos",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-10T11:36:53+00:00"
-    },
-    {
-      "id": "37c526c0",
-      "image": "img/37c526c0.png",
-      "image_sha": "f2a8c0cd05e8b186686d5330bc37366789cf3c4d",
-      "url": "https://www.radiodos.com.ar/210768-feriados-2026-cual-es-el-proximo-y-cuando-habra-un-nuevo-fin-de-semana-largo",
-      "title": "Feriados 2026: cuál es el próximo y cuándo habrá un nuevo fin de semana largo",
-      "volanta": "Calendario",
-      "date": "2026-07-10T11:12:52+00:00"
     }
   ]
 }
