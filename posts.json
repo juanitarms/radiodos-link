@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T12:18:48+00:00",
+  "updated": "2026-07-13T12:44:40+00:00",
   "posts": [
+    {
+      "id": "6820fdbf",
+      "image": "img/6820fdbf.png",
+      "image_sha": "94a3f076792c19379784edbce62446bbc7110b22",
+      "url": "https://www.radiodos.com.ar/210868-la-seleccion-correntina-de-mini-femenino-entre-las-cuatro-mejores-del-pais",
+      "title": "La selección correntina de Mini femenino, entre las cuatro mejores del país",
+      "volanta": "BÁSQUET",
+      "date": "2026-07-13T12:44:40+00:00"
+    },
     {
       "id": "8e6107f7",
       "image": "img/8e6107f7.png",
@@ -531,15 +540,6 @@
       "title": "Lanari adelantó reunión con autoridades nacionales por Incluir Salud",
       "volanta": "MINISTRO DE SALUD",
       "date": "2026-07-09T13:59:33+00:00"
-    },
-    {
-      "id": "c454f168",
-      "image": "img/c454f168.png",
-      "image_sha": "2a0a4086faa79550418428da3d2bf735211fceeb",
-      "url": "https://www.radiodos.com.ar/210759-sigue-profuga-una-pareja-narco-les-secuestraron-37-kilos-de-cocaina",
-      "title": "Sigue prófuga una pareja narco: les secuestraron 37 kilos de cocaína",
-      "volanta": "BÚSQUEDA",
-      "date": "2026-07-09T13:23:16+00:00"
     }
   ]
 }
