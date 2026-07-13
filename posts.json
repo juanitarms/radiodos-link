@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-13T16:11:49+00:00",
+  "updated": "2026-07-13T16:12:28+00:00",
   "posts": [
+    {
+      "id": "82fef95a",
+      "image": "img/82fef95a.png",
+      "image_sha": "3aa89ea602e9aa05c8b8223e91711ec652ae8122",
+      "url": "https://www.radiodos.com.ar/210891-macabro-crimen-en-las-toninas-encontraron-a-un-expolicia-enterrado-en-un-medano",
+      "title": "Macabro crimen en Las Toninas: encontraron a un expolicía enterrado en un médano",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-13T16:12:28+00:00"
+    },
     {
       "id": "1c41e203",
       "image": "img/1c41e203.png",
@@ -531,15 +540,6 @@
       "title": "Feriados 2026: cuál es el próximo y cuándo habrá un nuevo fin de semana largo",
       "volanta": "Calendario",
       "date": "2026-07-10T11:12:52+00:00"
-    },
-    {
-      "id": "be2f11a9",
-      "image": "img/be2f11a9.png",
-      "image_sha": "c27c5218c5e5a7c2ebaa5cb351ff6fb6cfb21e10",
-      "url": "https://www.radiodos.com.ar/210765-detuvieron-al-principal-sospechoso-por-el-incendio-fatal-de-una-vivienda",
-      "title": "Detuvieron al principal sospechoso por el incendio fatal de una vivienda",
-      "volanta": "San Roque",
-      "date": "2026-07-09T23:10:08+00:00"
     }
   ]
 }
