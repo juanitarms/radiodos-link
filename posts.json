@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T16:17:31+00:00",
+  "updated": "2026-07-14T16:55:10+00:00",
   "posts": [
+    {
+      "id": "97b76e17",
+      "image": "img/97b76e17.png",
+      "image_sha": "841186d7e776d9e7228e04a80802353ece06b0ec",
+      "url": "https://www.radiodos.com.ar/210950-sebastian-villa-vuelve-a-boca-acordo-su-regreso-y-este-lunes-se-hara-la-revision-medica",
+      "title": "Sebastián Villa vuelve a Boca: acordó su regreso y este lunes se hará la revisión médica",
+      "volanta": "INCORPORACIÓN",
+      "date": "2026-07-14T16:55:10+00:00"
+    },
     {
       "id": "884f4d65",
       "image": "img/884f4d65.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: por el partido Argentina-Suiza, cerrarán el tránsito vehicular en Costanera Sur",
       "volanta": "INFORMACIÓN OFICIAL",
       "date": "2026-07-11T14:08:49+00:00"
-    },
-    {
-      "id": "182258a7",
-      "image": "img/182258a7.png",
-      "image_sha": "8225a27cb918af1651d5acdb6a090cf4ed4f077d",
-      "url": "https://www.radiodos.com.ar/210817-lunes-13-de-julio-las-oficinas-comerciales-de-la-dpec-permaneceran-cerradas",
-      "title": "Lunes 13 de julio: las oficinas comerciales de la DPEC permanecerán cerradas",
-      "volanta": "DIA DEL TRABAJADOR DE LA ENERGÍA ELÉCTRICA",
-      "date": "2026-07-10T23:06:58+00:00"
     }
   ]
 }
