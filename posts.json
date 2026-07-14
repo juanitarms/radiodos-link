@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T19:16:29+00:00",
+  "updated": "2026-07-14T21:24:16+00:00",
   "posts": [
+    {
+      "id": "a15bc006",
+      "image": "img/a15bc006.png",
+      "image_sha": "47d93275d5e8ea921688adbb2727e511792b5177",
+      "url": "https://www.radiodos.com.ar/210954-la-inflacion-de-junio-fue-de-19-y-alcanzo-su-nivel-mas-bajo-en-diez-meses",
+      "title": "La inflación de junio fue de 1,9% y alcanzó su nivel más bajo en diez meses",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-07-14T21:24:16+00:00"
+    },
     {
       "id": "d2d884ce",
       "image": "img/d2d884ce.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Los Piratas eliminaron a los Vikingos y son semifinalistas",
       "volanta": "En Miami",
       "date": "2026-07-12T01:01:32+00:00"
-    },
-    {
-      "id": "988c3f58",
-      "image": "img/988c3f58.png",
-      "image_sha": "c2699e3488270d40337cbd69ea9675b8da6608c8",
-      "url": "https://www.radiodos.com.ar/210840-choque-fatal-entre-un-auto-y-un-camion-en-santa-fe-un-muerto-y-cuatro-heridos",
-      "title": "Choque fatal entre un auto y un camión en Santa Fe: un muerto y cuatro heridos",
-      "volanta": "TRAGEDIA",
-      "date": "2026-07-11T21:17:26+00:00"
     }
   ]
 }
