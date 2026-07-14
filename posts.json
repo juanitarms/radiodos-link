@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T16:16:51+00:00",
+  "updated": "2026-07-14T16:17:31+00:00",
   "posts": [
+    {
+      "id": "884f4d65",
+      "image": "img/884f4d65.png",
+      "image_sha": "da2c69e70526804346a54b1db19a62e2af104526",
+      "url": "https://www.radiodos.com.ar/210947-salarios-por-el-piso-mas-del-90-de-quienes-consiguieron-trabajo-en-el-ultimo-ano-no-llega-a-fin-de-mes",
+      "title": "Salarios por el piso: más del 90% de quienes consiguieron trabajo en el último año no llega a fin de mes",
+      "volanta": "ECONOMÍA",
+      "date": "2026-07-14T16:17:31+00:00"
+    },
     {
       "id": "d3108a9b",
       "image": "img/d3108a9b.png",
@@ -531,15 +540,6 @@
       "title": "Lunes 13 de julio: las oficinas comerciales de la DPEC permanecerán cerradas",
       "volanta": "DIA DEL TRABAJADOR DE LA ENERGÍA ELÉCTRICA",
       "date": "2026-07-10T23:06:58+00:00"
-    },
-    {
-      "id": "2cf25834",
-      "image": "img/2cf25834.png",
-      "image_sha": "ba4dd613ccdde4bc908557a58e063181174cc947",
-      "url": "https://www.radiodos.com.ar/210816-historias-para-alentar-masiva-convocatoria-en-la-16-feria-provincial-del-libro-durante-el-feriado-patrio",
-      "title": "\"Historias para alentar\": masiva convocatoria en la 16ª Feria Provincial del Libro durante el feriado patrio",
-      "volanta": "EN LA UNIDAD",
-      "date": "2026-07-10T23:06:19+00:00"
     }
   ]
 }
