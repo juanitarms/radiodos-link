@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T11:10:54+00:00",
+  "updated": "2026-07-14T11:26:25+00:00",
   "posts": [
+    {
+      "id": "87088651",
+      "image": "img/87088651.png",
+      "image_sha": "feff8b931f809519e71427072506adef030c3144",
+      "url": "https://www.radiodos.com.ar/210916-se-paga-el-plus-extraordinario-a-municipales-de-la-ciudad-de-corrientes",
+      "title": "Se paga el plus extraordinario a municipales de la ciudad de Corrientes",
+      "volanta": "DESDE HOY",
+      "date": "2026-07-14T11:26:25+00:00"
+    },
     {
       "id": "0bf598bb",
       "image": "img/0bf598bb.png",
@@ -531,15 +540,6 @@
       "title": "Qué determina la autopsia de la víctima de femicidio en Junín: un dato revelador podría cambiar la carátula",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-10T17:41:38+00:00"
-    },
-    {
-      "id": "1fcbe04f",
-      "image": "img/1fcbe04f.png",
-      "image_sha": "377ede9c7bfb8f80ced7a86647cb495dea2cd586",
-      "url": "https://www.radiodos.com.ar/210804-venezuela-rescatistas-argentinos-avanzan-entre-los-restos-de-un-edificio-en-la-que-habia-una-fiesta-infantil",
-      "title": "Venezuela: rescatistas argentinos avanzan entre los restos de un edificio en la que había una fiesta infantil",
-      "volanta": "TERREMOTOS",
-      "date": "2026-07-10T17:40:57+00:00"
     }
   ]
 }
