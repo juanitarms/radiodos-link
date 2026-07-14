@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T21:24:16+00:00",
+  "updated": "2026-07-14T21:24:51+00:00",
   "posts": [
+    {
+      "id": "31275e33",
+      "image": "img/31275e33.png",
+      "image_sha": "a3898311a5939fba164356e43d28887317f8a41e",
+      "url": "https://www.radiodos.com.ar/210955-la-muni-en-tu-barrio-acerco-servicios-integrales-a-vecinos-del-pirayui-nuevo-y-zonas-aledanas",
+      "title": "La Muni en Tu Barrio acercó servicios integrales a vecinos del Pirayuí Nuevo y zonas aledañas",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-14T21:24:51+00:00"
+    },
     {
       "id": "a15bc006",
       "image": "img/a15bc006.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia habilitó un amparo colectivo de abogados contra la reforma laboral",
       "volanta": "FRENO",
       "date": "2026-07-12T13:34:08+00:00"
-    },
-    {
-      "id": "72ec450a",
-      "image": "img/72ec450a.png",
-      "image_sha": "fba1b0df81adce7a02792da1555fc48f0ff36600",
-      "url": "https://www.radiodos.com.ar/210843-mundial-2026-los-piratas-eliminaron-a-los-vikingos-y-son-semifinalistas",
-      "title": "Mundial 2026: Los Piratas eliminaron a los Vikingos y son semifinalistas",
-      "volanta": "En Miami",
-      "date": "2026-07-12T01:01:32+00:00"
     }
   ]
 }
