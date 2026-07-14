@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T10:56:34+00:00",
+  "updated": "2026-07-14T11:04:14+00:00",
   "posts": [
+    {
+      "id": "32de00b8",
+      "image": "img/32de00b8.png",
+      "image_sha": "061cc36361554d3d000e9382aaa3ec934c24e124",
+      "url": "https://www.radiodos.com.ar/210915-el-indec-difunde-esta-tarde-la-inflacion-de-junio",
+      "title": "El Indec difunde esta tarde la inflación de junio",
+      "volanta": "NUMEROS",
+      "date": "2026-07-14T11:04:14+00:00"
+    },
     {
       "id": "64cee006",
       "image": "img/64cee006.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad propone un fin de semana con turismo, deportes, cultura y el Fan Fest para alentar a la Selección",
       "volanta": "AGENDA DE ACTIVIDADES EN LA CIUDAD",
       "date": "2026-07-10T17:40:13+00:00"
-    },
-    {
-      "id": "12b36eab",
-      "image": "img/12b36eab.png",
-      "image_sha": "82bc7d49c267c35dd1e9a1fa2fcf37fe3e4848a6",
-      "url": "https://www.radiodos.com.ar/210799-el-conmovedor-mensaje-de-la-mama-de-lucas-gamez-es-de-las-cosas-mas-dolorosas-de-la-vida",
-      "title": "El conmovedor mensaje de la mamá de Lucas Gámez: \"Es de las cosas más dolorosas de la vida\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-07-10T17:39:32+00:00"
     }
   ]
 }
