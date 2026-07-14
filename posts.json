@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T18:58:09+00:00",
+  "updated": "2026-07-14T19:16:29+00:00",
   "posts": [
+    {
+      "id": "d2d884ce",
+      "image": "img/d2d884ce.png",
+      "image_sha": "51640c2b08188dbe16ee7892473d6b2516ef81ac",
+      "url": "https://www.radiodos.com.ar/210952-santo-tome-llevo-su-talento-al-teatro-vera-con-una-funcion-a-sala-llena-de-don-quijote",
+      "title": "Santo Tomé llevó su talento al Teatro Vera con una función a sala llena de Don Quijote",
+      "volanta": "DEL INTERIOR A LA CAPITAL",
+      "date": "2026-07-14T19:16:29+00:00"
+    },
     {
       "id": "ac7e5208",
       "image": "img/ac7e5208.png",
@@ -531,15 +540,6 @@
       "title": "Choque fatal entre un auto y un camión en Santa Fe: un muerto y cuatro heridos",
       "volanta": "TRAGEDIA",
       "date": "2026-07-11T21:17:26+00:00"
-    },
-    {
-      "id": "1e7ec7ed",
-      "image": "img/1e7ec7ed.png",
-      "image_sha": "721d6ba798a9ce8d0fbdaadb11bb9923f86f1dd0",
-      "url": "https://www.radiodos.com.ar/210827-valdes-inauguro-la-fiesta-provincial-del-locro-y-ratifico-su-apoyo-para-proyectarla-a-nivel-nacional",
-      "title": "Valdés inauguró la Fiesta Provincial del Locro y ratificó su apoyo para proyectarla a nivel nacional",
-      "volanta": "EN CURUZÚ CUATIÁ",
-      "date": "2026-07-11T15:41:01+00:00"
     }
   ]
 }
