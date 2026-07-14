@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T11:26:25+00:00",
+  "updated": "2026-07-14T12:04:31+00:00",
   "posts": [
+    {
+      "id": "acef0b17",
+      "image": "img/acef0b17.png",
+      "image_sha": "afe1d561a69e77f67faa82763c26c15bbdb2c7a9",
+      "url": "https://www.radiodos.com.ar/210919-regatas-se-quedo-con-el-mini-mixto-de-la-liga-prefederal",
+      "title": "Regatas se quedó con el Mini mixto de la Liga Prefederal",
+      "volanta": "BÁSQUET",
+      "date": "2026-07-14T12:04:31+00:00"
+    },
     {
       "id": "87088651",
       "image": "img/87088651.png",
@@ -531,15 +540,6 @@
       "title": "La Plata: entró a usurpar una casa y encontró el cuerpo de un jubilado en estado de descomposición",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-10T18:00:09+00:00"
-    },
-    {
-      "id": "7f0e19d7",
-      "image": "img/7f0e19d7.png",
-      "image_sha": "53b33f3e94a70a45f09a2cab5e0ff0679691e733",
-      "url": "https://www.radiodos.com.ar/210802-que-determina-la-autopsia-de-la-victima-de-femicidio-en-junin-un-dato-revelador-podria-cambiar-la-caratula",
-      "title": "Qué determina la autopsia de la víctima de femicidio en Junín: un dato revelador podría cambiar la carátula",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-10T17:41:38+00:00"
     }
   ]
 }
