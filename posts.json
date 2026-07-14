@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T18:57:37+00:00",
+  "updated": "2026-07-14T18:58:09+00:00",
   "posts": [
+    {
+      "id": "ac7e5208",
+      "image": "img/ac7e5208.png",
+      "image_sha": "ac325ab8c6297ee17c77ba72c094ba679f105cf7",
+      "url": "https://www.radiodos.com.ar/210953-desarrollan-en-la-unne-un-ensayo-molecular-innovador-para-el-diagnostico-de-una-micosis-endemica-de-latinoamerica",
+      "title": "Desarrollan en la UNNE un ensayo molecular innovador para el diagnóstico de una micosis endémica de Latinoamérica",
+      "volanta": "LOGRO DE ALCANCE INTERNACIONAL",
+      "date": "2026-07-14T18:58:09+00:00"
+    },
     {
       "id": "b6137b18",
       "image": "img/b6137b18.png",
@@ -531,15 +540,6 @@
       "title": "Valdés inauguró la Fiesta Provincial del Locro y ratificó su apoyo para proyectarla a nivel nacional",
       "volanta": "EN CURUZÚ CUATIÁ",
       "date": "2026-07-11T15:41:01+00:00"
-    },
-    {
-      "id": "c1e41072",
-      "image": "img/c1e41072.png",
-      "image_sha": "9a3a1f527f51bc03b7b20145aeddc69a37824088",
-      "url": "https://www.radiodos.com.ar/210821-ya-califican-de-exito-absoluto-la-16-feria-provincial-del-libro-en-corrientes",
-      "title": "Ya califican de \"éxito absoluto\" la 16ª Feria Provincial del Libro en Corrientes",
-      "volanta": "EN LA UNIDAD",
-      "date": "2026-07-11T14:44:41+00:00"
     }
   ]
 }
