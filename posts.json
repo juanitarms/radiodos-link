@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T12:57:23+00:00",
+  "updated": "2026-07-14T13:33:40+00:00",
   "posts": [
+    {
+      "id": "dffdf0c0",
+      "image": "img/dffdf0c0.png",
+      "image_sha": "939bf4b40ffb4a2ff74f3a81017fce25440ef445",
+      "url": "https://www.radiodos.com.ar/210936-la-fifa-confirmo-al-arbitro-para-seleccion-argentina-vs-inglaterra-por-las-semifinales-del-mundial-2026",
+      "title": "La FIFA confirmó al árbitro para Selección Argentina vs. Inglaterra por las semifinales del Mundial 2026",
+      "volanta": "DEFINIDO",
+      "date": "2026-07-14T13:33:40+00:00"
+    },
     {
       "id": "88c83574",
       "image": "img/88c83574.png",
@@ -531,15 +540,6 @@
       "title": "Tras varios allanamientos desarticulan banda dedicada al narcomenudeo en turística ciudad de Corrientes",
       "volanta": "CUATRO DETENIDOS",
       "date": "2026-07-10T21:13:28+00:00"
-    },
-    {
-      "id": "c3d1da12",
-      "image": "img/c3d1da12.png",
-      "image_sha": "95f8d173b966527146a46b4276535528117e4ddf",
-      "url": "https://www.radiodos.com.ar/210767-el-fiscal-no-tiene-nada-de-nada-que-busque-a-loan-duras-criticas-del-abogado-de-alan-canete-contra-carlos-schafer",
-      "title": "\"El fiscal no tiene nada de nada, que busque a Loan\": duras críticas del abogado de Alan Cañete contra Carlos Schafer",
-      "volanta": "Juicio",
-      "date": "2026-07-10T21:12:51+00:00"
     }
   ]
 }
