@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T15:08:02+00:00",
+  "updated": "2026-07-14T16:16:51+00:00",
   "posts": [
+    {
+      "id": "d3108a9b",
+      "image": "img/d3108a9b.png",
+      "image_sha": "9e2db243706369742b95f7818b44ab9c9f18513f",
+      "url": "https://www.radiodos.com.ar/210948-un-cura-electrifico-el-porton-de-su-casa-y-un-nene-resulto-herido-podrian-condenarlo-a-6-anos-de-prision",
+      "title": "Un cura electrificó el portón de su casa y un nene resultó herido: podrían condenarlo a 6 años de prisión",
+      "volanta": "JUSTICIA",
+      "date": "2026-07-14T16:16:51+00:00"
+    },
     {
       "id": "f1b76d88",
       "image": "img/f1b76d88.png",
@@ -531,15 +540,6 @@
       "title": "\"Historias para alentar\": masiva convocatoria en la 16ª Feria Provincial del Libro durante el feriado patrio",
       "volanta": "EN LA UNIDAD",
       "date": "2026-07-10T23:06:19+00:00"
-    },
-    {
-      "id": "572d396f",
-      "image": "img/572d396f.png",
-      "image_sha": "7351f1ae6184af47d0f454b9471b433cdd26f88f",
-      "url": "https://www.radiodos.com.ar/210815-se-viene-un-fin-de-semana-con-sol-nubes-y-un-marcado-descenso-de-temperatura",
-      "title": "Se viene un fin de semana con sol, nubes y un marcado descenso de temperatura",
-      "volanta": "CLIMA EN CORRIENTES",
-      "date": "2026-07-10T23:05:03+00:00"
     }
   ]
 }
