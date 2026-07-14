@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T12:34:57+00:00",
+  "updated": "2026-07-14T12:57:23+00:00",
   "posts": [
+    {
+      "id": "88c83574",
+      "image": "img/88c83574.png",
+      "image_sha": "e4ad26c9545159a8b14917144cb629fb624e1e38",
+      "url": "https://www.radiodos.com.ar/210924-el-mensaje-de-los-veteranos-de-malvinas-antes-de-argentina-vs-inglaterra-no-es-una-revancha",
+      "title": "El mensaje de los veteranos de Malvinas antes de Argentina vs. Inglaterra: \"No es una revancha\"",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-07-14T12:57:23+00:00"
+    },
     {
       "id": "5619946d",
       "image": "img/5619946d.png",
@@ -531,15 +540,6 @@
       "title": "\"El fiscal no tiene nada de nada, que busque a Loan\": duras críticas del abogado de Alan Cañete contra Carlos Schafer",
       "volanta": "Juicio",
       "date": "2026-07-10T21:12:51+00:00"
-    },
-    {
-      "id": "23b7e217",
-      "image": "img/23b7e217.png",
-      "image_sha": "7c6f9324488adfb7b916557206438a7ac04e6550",
-      "url": "https://www.radiodos.com.ar/210807-la-linea-109-a-retoma-su-recorrido-al-barrio-rio-parana",
-      "title": "La línea 109 A retoma su recorrido al barrio Río Paraná",
-      "volanta": "ATENCIÓN USUARIOS",
-      "date": "2026-07-10T19:17:12+00:00"
     }
   ]
 }
