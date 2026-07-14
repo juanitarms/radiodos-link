@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T13:53:57+00:00",
+  "updated": "2026-07-14T14:09:58+00:00",
   "posts": [
+    {
+      "id": "47093e73",
+      "image": "img/47093e73.png",
+      "image_sha": "a7f3788619d7578d26a1f7b50bf0814f9a350747",
+      "url": "https://www.radiodos.com.ar/210937-cruz-roja-brindara-asistencia-sanitaria-en-itati",
+      "title": "Cruz Roja brindará asistencia sanitaria en Itatí",
+      "volanta": "Peregrinación",
+      "date": "2026-07-14T14:09:58+00:00"
+    },
     {
       "id": "9a0e470a",
       "image": "img/9a0e470a.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno profundizó el ajuste en junio y recortó un 87% los fondos a las provincias",
       "volanta": "motosierra",
       "date": "2026-07-10T21:15:45+00:00"
-    },
-    {
-      "id": "0b44eebb",
-      "image": "img/0b44eebb.png",
-      "image_sha": "a7d60b94aa923334b13e8d46823ebfb426af1e76",
-      "url": "https://www.radiodos.com.ar/210809-corrientes-ya-supera-los-12-millones-de-habitantes-segun-las-nuevas-proyecciones-del-indec",
-      "title": "Corrientes ya supera los 1,2 millones de habitantes, según las nuevas proyecciones del INDEC",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-07-10T21:14:03+00:00"
     }
   ]
 }
