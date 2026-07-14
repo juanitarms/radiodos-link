@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T10:44:36+00:00",
+  "updated": "2026-07-14T10:56:34+00:00",
   "posts": [
+    {
+      "id": "64cee006",
+      "image": "img/64cee006.png",
+      "image_sha": "9d6cd404165142da2f782e20793da96464144c3e",
+      "url": "https://www.radiodos.com.ar/210913-braillard-poccard-no-hay-temas-de-urgencia-esperando-en-la-legislatura",
+      "title": "Braillard Poccard: \"No hay temas de urgencia esperando en la Legislatura\"",
+      "volanta": "ENTREVISTA CON RADIO DOS",
+      "date": "2026-07-14T10:56:34+00:00"
+    },
     {
       "id": "1462242e",
       "image": "img/1462242e.png",
@@ -531,15 +540,6 @@
       "title": "El conmovedor mensaje de la mamá de Lucas Gámez: \"Es de las cosas más dolorosas de la vida\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-07-10T17:39:32+00:00"
-    },
-    {
-      "id": "70dc4cbf",
-      "image": "img/70dc4cbf.png",
-      "image_sha": "8dd091b18b428a802dd01adf73f10e22213be852",
-      "url": "https://www.radiodos.com.ar/210800-la-estafa-de-los-42-creditos-falsos-a-una-jubilada-que-termino-con-dos-de-sus-vecinos-detenidos",
-      "title": "La estafa de los 42 créditos falsos a una jubilada que terminó con dos de sus vecinos detenidos",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-10T17:38:49+00:00"
     }
   ]
 }
