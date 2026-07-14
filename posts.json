@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T22:33:39+00:00",
+  "updated": "2026-07-14T22:34:15+00:00",
   "posts": [
+    {
+      "id": "2d7c7f49",
+      "image": "img/2d7c7f49.png",
+      "image_sha": "8e780e6b86471aa4b06f45fc75ef96f33dfcc8f4",
+      "url": "https://www.radiodos.com.ar/210961-provincias-del-norte-grande-exigen-a-nacion-previsibilidad-y-regularidad-en-los-fondos-de-salud",
+      "title": "Provincias del Norte Grande exigen a Nación previsibilidad y regularidad en los fondos de salud",
+      "volanta": "FRENTE COMÚN EN EL NOA Y NEA",
+      "date": "2026-07-14T22:34:15+00:00"
+    },
     {
       "id": "36e5fe4f",
       "image": "img/36e5fe4f.png",
@@ -531,15 +540,6 @@
       "title": "Argentina ganó \"con la sangre\", dijo el correntino José López",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-12T16:12:40+00:00"
-    },
-    {
-      "id": "8a180c19",
-      "image": "img/8a180c19.png",
-      "image_sha": "40022fe2c541b1f6fbd3e955237be22104dd1d40",
-      "url": "https://www.radiodos.com.ar/210846-monsenor-larregain-rescato-el-legado-franciscano-y-la-identidad-guarani-en-la-feria-del-libro",
-      "title": "Monseñor Larregain rescató el legado franciscano y la identidad guaraní en la Feria del Libro",
-      "volanta": "LA UNIDAD",
-      "date": "2026-07-12T15:47:00+00:00"
     }
   ]
 }
