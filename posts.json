@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T21:24:51+00:00",
+  "updated": "2026-07-14T21:27:20+00:00",
   "posts": [
+    {
+      "id": "ad5f120a",
+      "image": "img/ad5f120a.png",
+      "image_sha": "2381205414a4d00a3bb322b9e26f13d3a5b44cf7",
+      "url": "https://www.radiodos.com.ar/210957-canasta-basica-en-alza-una-familia-necesito-mas-de-1530000-para-no-ser-pobre",
+      "title": "Canasta básica en alza: una familia necesitó más de $1.530.000 para no ser pobre",
+      "volanta": "AUMENTO EN LOS PRECIOS",
+      "date": "2026-07-14T21:27:20+00:00"
+    },
     {
       "id": "31275e33",
       "image": "img/31275e33.png",
@@ -531,15 +540,6 @@
       "title": "El Servicio de Cirugía Torácica del Hospital Escuela recibió un reconocimiento nacional",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-07-12T15:04:10+00:00"
-    },
-    {
-      "id": "57563561",
-      "image": "img/57563561.png",
-      "image_sha": "5839645dd78aa63af385ec6589693eb190c68645",
-      "url": "https://www.radiodos.com.ar/210837-la-justicia-habilito-un-amparo-colectivo-de-abogados-contra-la-reforma-laboral",
-      "title": "La Justicia habilitó un amparo colectivo de abogados contra la reforma laboral",
-      "volanta": "FRENO",
-      "date": "2026-07-12T13:34:08+00:00"
     }
   ]
 }
