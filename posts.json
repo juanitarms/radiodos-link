@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T11:04:14+00:00",
+  "updated": "2026-07-14T11:10:54+00:00",
   "posts": [
+    {
+      "id": "0bf598bb",
+      "image": "img/0bf598bb.png",
+      "image_sha": "85f7b455a113b462fe8c5062b608c4a7f9789382",
+      "url": "https://www.radiodos.com.ar/210914-esta-en-terapia-intensiva-la-joven-golpeada-brutalmente-a-la-salida-de-un-boliche-en-corrientes",
+      "title": "Está en terapia intensiva la joven golpeada brutalmente a la salida de un boliche en Corrientes",
+      "volanta": "VIOLENCIA URBANA",
+      "date": "2026-07-14T11:10:54+00:00"
+    },
     {
       "id": "32de00b8",
       "image": "img/32de00b8.png",
@@ -531,15 +540,6 @@
       "title": "Venezuela: rescatistas argentinos avanzan entre los restos de un edificio en la que había una fiesta infantil",
       "volanta": "TERREMOTOS",
       "date": "2026-07-10T17:40:57+00:00"
-    },
-    {
-      "id": "b1457339",
-      "image": "img/b1457339.png",
-      "image_sha": "af839604e5d4e2edd37b5aee1fa5b8fae6026f65",
-      "url": "https://www.radiodos.com.ar/210801-la-municipalidad-propone-un-fin-de-semana-con-turismo-deportes-cultura-y-el-fan-fest-para-alentar-a-la-seleccion",
-      "title": "La Municipalidad propone un fin de semana con turismo, deportes, cultura y el Fan Fest para alentar a la Selección",
-      "volanta": "AGENDA DE ACTIVIDADES EN LA CIUDAD",
-      "date": "2026-07-10T17:40:13+00:00"
     }
   ]
 }
