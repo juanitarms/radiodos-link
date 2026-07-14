@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T14:09:58+00:00",
+  "updated": "2026-07-14T14:32:34+00:00",
   "posts": [
+    {
+      "id": "2a20e680",
+      "image": "img/2a20e680.png",
+      "image_sha": "3dad93a28747baeb717392c04fc8c7bfebe01fb5",
+      "url": "https://www.radiodos.com.ar/210940-claudia-villafane-sorprendio-a-todos-al-mostrar-en-vivo-una-mitica-camiseta-de-diego-maradona",
+      "title": "Claudia Villafañe sorprendió a todos al mostrar en vivo una mítica camiseta de Diego Maradona",
+      "volanta": "GRAN RECUERDO",
+      "date": "2026-07-14T14:32:34+00:00"
+    },
     {
       "id": "47093e73",
       "image": "img/47093e73.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: una tía declaró que el comisario Maciel le prohibió a la madre salir a buscar a su hijo",
       "volanta": "CORRIENTES",
       "date": "2026-07-10T21:42:29+00:00"
-    },
-    {
-      "id": "9370baca",
-      "image": "img/9370baca.png",
-      "image_sha": "a59a156a58c7865f4d02689b77ec5d3e9208cd2a",
-      "url": "https://www.radiodos.com.ar/210811-el-gobierno-profundizo-el-ajuste-en-junio-y-recorto-un-87-los-fondos-a-las-provincias",
-      "title": "El Gobierno profundizó el ajuste en junio y recortó un 87% los fondos a las provincias",
-      "volanta": "motosierra",
-      "date": "2026-07-10T21:15:45+00:00"
     }
   ]
 }
