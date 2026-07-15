@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T23:03:11+00:00",
+  "updated": "2026-07-15T23:53:29+00:00",
   "posts": [
+    {
+      "id": "027f61d4",
+      "image": "img/027f61d4.png",
+      "image_sha": "6ff8edd1f30632b318d4738a6952ddff00219099",
+      "url": "https://www.radiodos.com.ar/211001-lionel-scaloni-tengo-un-equipo-de-guerreros-que-piensan-en-hacer-lo-mejor-posible-siempre",
+      "title": "Lionel Scaloni: \"Tengo un equipo de guerreros que piensan en hacer lo mejor posible siempre\"",
+      "volanta": "\"Cuando pierden sacan su mejor versión\"",
+      "date": "2026-07-15T23:53:29+00:00"
+    },
     {
       "id": "bd873f82",
       "image": "img/bd873f82.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en el mundo del cine: murió Sam Neill, el protagonista de Jurassic Park",
       "volanta": "DUELO",
       "date": "2026-07-13T14:49:21+00:00"
-    },
-    {
-      "id": "1724f64f",
-      "image": "img/1724f64f.png",
-      "image_sha": "bcbc06cd9641293619e0dace942599f616e95f0c",
-      "url": "https://www.radiodos.com.ar/210886-la-reaccion-de-la-mama-de-lionel-messi-a-la-prediccion-de-un-vidente-sobre-la-seleccion-argentina",
-      "title": "La reacción de la mamá de Lionel Messi a la predicción de un vidente sobre la Selección Argentina",
-      "volanta": "SORPRENDIDA",
-      "date": "2026-07-13T14:18:18+00:00"
     }
   ]
 }
