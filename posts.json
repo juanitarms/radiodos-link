@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T20:34:47+00:00",
+  "updated": "2026-07-15T23:03:11+00:00",
   "posts": [
+    {
+      "id": "bd873f82",
+      "image": "img/bd873f82.png",
+      "image_sha": "dec9d38d53fea100df7ce338dca571392257b3ff",
+      "url": "https://www.radiodos.com.ar/211000-mundial-2026-argentina-buscara-su-cuarta-estrella-en-su-septima-final",
+      "title": "Mundial 2026: Argentina buscará su cuarta estrella en su séptima final",
+      "volanta": "¿Cómo le fue en las anteriores'",
+      "date": "2026-07-15T23:03:11+00:00"
+    },
     {
       "id": "5cc925fe",
       "image": "img/5cc925fe.png",
@@ -531,15 +540,6 @@
       "title": "La reacción de la mamá de Lionel Messi a la predicción de un vidente sobre la Selección Argentina",
       "volanta": "SORPRENDIDA",
       "date": "2026-07-13T14:18:18+00:00"
-    },
-    {
-      "id": "b1951fbf",
-      "image": "img/b1951fbf.png",
-      "image_sha": "dd249e1afd77c89f5fb245e2f1ebe99ad1a51771",
-      "url": "https://www.radiodos.com.ar/210873-mas-de-46-mil-personas-ya-pasaron-por-la-feria-provincial-del-libro",
-      "title": "Más de 46 mil personas ya pasaron por la Feria Provincial del Libro",
-      "volanta": "EN LA UNIDAD",
-      "date": "2026-07-13T13:53:24+00:00"
     }
   ]
 }
