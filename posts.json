@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-14T22:34:15+00:00",
+  "updated": "2026-07-15T10:34:51+00:00",
   "posts": [
+    {
+      "id": "b81c099b",
+      "image": "img/b81c099b.png",
+      "image_sha": "c8a37bac689066c2dfffde42f78bbacc5919a48c",
+      "url": "https://www.radiodos.com.ar/210963-inglaterra-argentina-en-otro-duelo-historico-en-la-semifinal-del-mundial-2026",
+      "title": "Inglaterra-Argentina, en otro duelo histórico en la Semifinal del Mundial 2026",
+      "volanta": "ESPERA ESPAÑA",
+      "date": "2026-07-15T10:34:51+00:00"
+    },
     {
       "id": "2d7c7f49",
       "image": "img/2d7c7f49.png",
@@ -531,15 +540,6 @@
       "title": "En honor a Favaloro, se conmemora el Día Nacional de la Medicina Social",
       "volanta": "12 DE JULIO",
       "date": "2026-07-12T16:17:36+00:00"
-    },
-    {
-      "id": "483082dd",
-      "image": "img/483082dd.png",
-      "image_sha": "e06fc1d63194b4857d25d6086d24a9586250b73b",
-      "url": "https://www.radiodos.com.ar/210847-argentina-gano-con-la-sangre-dijo-el-correntino-jose-lopez",
-      "title": "Argentina ganó \"con la sangre\", dijo el correntino José López",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-12T16:12:40+00:00"
     }
   ]
 }
