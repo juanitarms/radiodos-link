@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T10:34:51+00:00",
+  "updated": "2026-07-15T10:48:17+00:00",
   "posts": [
+    {
+      "id": "81ecff32",
+      "image": "img/81ecff32.png",
+      "image_sha": "26246393fcd9470622dfde8d254236ed8df1cdb3",
+      "url": "https://www.radiodos.com.ar/210965-escandalo-en-un-barrio-de-corrientes-por-un-profesor-particular-acusado-de-abusar-de-sus-alumnos",
+      "title": "Escándalo en un barrio de Corrientes por un profesor particular acusado de abusar de sus alumnos",
+      "volanta": "ZONA DEL LAGUNA SECA",
+      "date": "2026-07-15T10:48:17+00:00"
+    },
     {
       "id": "b81c099b",
       "image": "img/b81c099b.png",
@@ -531,15 +540,6 @@
       "title": "Victoria Villarruel respaldó el reclamo salarial y pidió \"retribución acorde\" para los docentes",
       "volanta": "FINANCIAMIENTO UNIVERSITARIO",
       "date": "2026-07-12T17:05:00+00:00"
-    },
-    {
-      "id": "c882f480",
-      "image": "img/c882f480.png",
-      "image_sha": "70bb7abb989ce791d6ffeac4c6d8e3ca824d8895",
-      "url": "https://www.radiodos.com.ar/210849-en-honor-a-favaloro-se-conmemora-el-dia-nacional-de-la-medicina-social",
-      "title": "En honor a Favaloro, se conmemora el Día Nacional de la Medicina Social",
-      "volanta": "12 DE JULIO",
-      "date": "2026-07-12T16:17:36+00:00"
     }
   ]
 }
