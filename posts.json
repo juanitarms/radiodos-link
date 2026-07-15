@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T13:52:42+00:00",
+  "updated": "2026-07-15T14:04:50+00:00",
   "posts": [
+    {
+      "id": "bba58d1b",
+      "image": "img/bba58d1b.png",
+      "image_sha": "cc78333812f0333f85544e7674cbd340e5905e62",
+      "url": "https://www.radiodos.com.ar/210988-asi-funcionaran-los-servicios-municipales-en-corrientes-por-el-feriado-provincial-de-este-jueves-16-de-julio",
+      "title": "Así funcionarán los servicios municipales en Corrientes por el Feriado Provincial de este jueves 16 de julio",
+      "volanta": "DE INTERES",
+      "date": "2026-07-15T14:04:50+00:00"
+    },
     {
       "id": "aae88dcb",
       "image": "img/aae88dcb.png",
@@ -531,15 +540,6 @@
       "title": "Trágico accidente sobre la Ruta Nacional N° 118: una persona fallecida y siete heridos",
       "volanta": "ACCESO A SAN MIGUEL",
       "date": "2026-07-13T12:03:35+00:00"
-    },
-    {
-      "id": "4651ef85",
-      "image": "img/4651ef85.png",
-      "image_sha": "ba2f0ab84b4400ee1518af7c39b0475d64c8c2c1",
-      "url": "https://www.radiodos.com.ar/210856-san-luis-del-palmar-despliegan-un-megaoperativo-policial-por-la-tradicional-peregrinacion-a-itati",
-      "title": "San Luis del Palmar: despliegan un megaoperativo policial por la tradicional peregrinación a Itatí",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-13T10:39:02+00:00"
     }
   ]
 }
