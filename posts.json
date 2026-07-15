@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T12:54:55+00:00",
+  "updated": "2026-07-15T13:36:07+00:00",
   "posts": [
+    {
+      "id": "1bcbf338",
+      "image": "img/1bcbf338.png",
+      "image_sha": "e6becdee641b46c253efa559a8dbd7dd8c9be31a",
+      "url": "https://www.radiodos.com.ar/210981-el-video-de-lionel-messi-tras-el-entrenamiento-que-conmueve-al-mundo-ultimos-dias",
+      "title": "El video de Lionel Messi tras el entrenamiento que conmueve al mundo: \"Últimos días...\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-15T13:36:07+00:00"
+    },
     {
       "id": "37a4aff0",
       "image": "img/37a4aff0.png",
@@ -531,15 +540,6 @@
       "title": "Argentina buscará romper una maldición vigente desde 1962",
       "volanta": "Mundial 2026",
       "date": "2026-07-12T22:10:11+00:00"
-    },
-    {
-      "id": "6b274330",
-      "image": "img/6b274330.png",
-      "image_sha": "6dddb141c143984ce27c9d34ef24e6782abf1d53",
-      "url": "https://www.radiodos.com.ar/210854-el-pase-a-la-semifinal-se-vivio-con-emocion-en-otro-multitudinario-fan-fest-de-la-muni",
-      "title": "El pase a la semifinal se vivió con emoción en otro multitudinario Fan Fest de La Muni",
-      "volanta": "mundial 2026",
-      "date": "2026-07-12T21:35:15+00:00"
     }
   ]
 }
