@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T18:04:02+00:00",
+  "updated": "2026-07-15T20:34:47+00:00",
   "posts": [
+    {
+      "id": "5cc925fe",
+      "image": "img/5cc925fe.png",
+      "image_sha": "cd0c5ee017cfc5920cfc55967c44223f70026ca2",
+      "url": "https://www.radiodos.com.ar/210999-mundial-2026-argentina-e-inglaterra-igualan-sin-goles",
+      "title": "Mundial 2026: Argentina e Inglaterra igualan sin goles",
+      "volanta": "En Atlanta",
+      "date": "2026-07-15T20:34:47+00:00"
+    },
     {
       "id": "976dcfb3",
       "image": "img/976dcfb3.png",
@@ -531,15 +540,6 @@
       "title": "Más de 46 mil personas ya pasaron por la Feria Provincial del Libro",
       "volanta": "EN LA UNIDAD",
       "date": "2026-07-13T13:53:24+00:00"
-    },
-    {
-      "id": "129556a2",
-      "image": "img/129556a2.png",
-      "image_sha": "11f0f97ff650611025527f56ed0152c4e5eb058b",
-      "url": "https://www.radiodos.com.ar/210875-corrientes-esta-estable-y-con-respirador-la-nena-que-sufrio-un-llamativo-accidente-en-los-festejos-por-la-seleccion",
-      "title": "Corrientes: está estable y con respirador la nena que sufrió un llamativo accidente en los festejos por la Selección",
-      "volanta": "EN EL PEDIATRICO",
-      "date": "2026-07-13T13:34:37+00:00"
     }
   ]
 }
