@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T13:36:07+00:00",
+  "updated": "2026-07-15T13:52:42+00:00",
   "posts": [
+    {
+      "id": "aae88dcb",
+      "image": "img/aae88dcb.png",
+      "image_sha": "cb4aa98fc20b9af32d11d36b0801b22a2c6747a5",
+      "url": "https://www.radiodos.com.ar/210974-prohibieron-ingresar-con-banderas-sobre-las-islas-malvinas-en-la-semifinal-del-mundial-2026",
+      "title": "Prohibieron ingresar con banderas sobre las Islas Malvinas en la semifinal del Mundial 2026",
+      "volanta": "DETERMINACIÓN",
+      "date": "2026-07-15T13:52:42+00:00"
+    },
     {
       "id": "1bcbf338",
       "image": "img/1bcbf338.png",
@@ -531,15 +540,6 @@
       "title": "San Luis del Palmar: despliegan un megaoperativo policial por la tradicional peregrinación a Itatí",
       "volanta": "CORRIENTES",
       "date": "2026-07-13T10:39:02+00:00"
-    },
-    {
-      "id": "db841dd9",
-      "image": "img/db841dd9.png",
-      "image_sha": "ea5c1ab5d4459b042490877df8e4e0b573839c9d",
-      "url": "https://www.radiodos.com.ar/210855-argentina-buscara-romper-una-maldicion-vigente-desde-1962",
-      "title": "Argentina buscará romper una maldición vigente desde 1962",
-      "volanta": "Mundial 2026",
-      "date": "2026-07-12T22:10:11+00:00"
     }
   ]
 }
