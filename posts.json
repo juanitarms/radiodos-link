@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T14:49:23+00:00",
+  "updated": "2026-07-15T14:59:04+00:00",
   "posts": [
+    {
+      "id": "b9d9f591",
+      "image": "img/b9d9f591.png",
+      "image_sha": "bf871c7843f41769aebe28deaadfe8b2924deca7",
+      "url": "https://www.radiodos.com.ar/210986-jimena-baron-vivio-un-desesperante-momento-en-un-hotel-de-miami-nos-robaron",
+      "title": "Jimena Barón vivió un desesperante momento en un hotel de Miami: \"Nos robaron\"",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-07-15T14:59:04+00:00"
+    },
     {
       "id": "c156c897",
       "image": "img/c156c897.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: rescataron un perro que estuvo varios días atrapado en una terraza",
       "volanta": "EN TORRE WARNES",
       "date": "2026-07-13T13:09:03+00:00"
-    },
-    {
-      "id": "6820fdbf",
-      "image": "img/6820fdbf.png",
-      "image_sha": "94a3f076792c19379784edbce62446bbc7110b22",
-      "url": "https://www.radiodos.com.ar/210868-la-seleccion-correntina-de-mini-femenino-entre-las-cuatro-mejores-del-pais",
-      "title": "La selección correntina de Mini femenino, entre las cuatro mejores del país",
-      "volanta": "BÁSQUET",
-      "date": "2026-07-13T12:44:40+00:00"
     }
   ]
 }
