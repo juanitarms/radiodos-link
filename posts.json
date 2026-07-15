@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T14:25:40+00:00",
+  "updated": "2026-07-15T14:49:23+00:00",
   "posts": [
+    {
+      "id": "c156c897",
+      "image": "img/c156c897.png",
+      "image_sha": "c7dbe179fa7618a1af3676ea663b71ff963f2e12",
+      "url": "https://www.radiodos.com.ar/210990-las-razones-historicas-detras-del-especial-apoyo-de-escocia-a-argentina-frente-a-inglaterra",
+      "title": "Las razones históricas detrás del especial apoyo de Escocia a Argentina frente a Inglaterra",
+      "volanta": "RIVALIDAD",
+      "date": "2026-07-15T14:49:23+00:00"
+    },
     {
       "id": "41a3d114",
       "image": "img/41a3d114.png",
@@ -531,15 +540,6 @@
       "title": "La selección correntina de Mini femenino, entre las cuatro mejores del país",
       "volanta": "BÁSQUET",
       "date": "2026-07-13T12:44:40+00:00"
-    },
-    {
-      "id": "8e6107f7",
-      "image": "img/8e6107f7.png",
-      "image_sha": "7d2ffb76f0de0a1ec7550c1d8994ba407222164f",
-      "url": "https://www.radiodos.com.ar/210863-corrientes-el-juego-con-inglaterra-dispara-venta-de-ropa-de-malvinas",
-      "title": "Corrientes: el juego con Inglaterra dispara venta de ropa de Malvinas",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-13T12:18:48+00:00"
     }
   ]
 }
