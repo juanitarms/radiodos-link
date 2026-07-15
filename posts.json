@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T12:25:46+00:00",
+  "updated": "2026-07-15T12:54:55+00:00",
   "posts": [
+    {
+      "id": "37a4aff0",
+      "image": "img/37a4aff0.png",
+      "image_sha": "378378605380177a9758e5d12e3b2dcc982146cf",
+      "url": "https://www.radiodos.com.ar/210978-jugamos-contra-piratas-usurpadores-victoria-villarruel-volvio-a-desmarcarse-del-gobierno-previo-al-partido",
+      "title": "\"Jugamos contra piratas usurpadores\": Victoria Villarruel volvió a desmarcarse del Gobierno previo al partido",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-07-15T12:54:55+00:00"
+    },
     {
       "id": "c8325593",
       "image": "img/c8325593.png",
@@ -531,15 +540,6 @@
       "title": "El pase a la semifinal se vivió con emoción en otro multitudinario Fan Fest de La Muni",
       "volanta": "mundial 2026",
       "date": "2026-07-12T21:35:15+00:00"
-    },
-    {
-      "id": "c00eae8e",
-      "image": "img/c00eae8e.png",
-      "image_sha": "ab6b7f45f028e90e67ae2eedf2a324acad375a65",
-      "url": "https://www.radiodos.com.ar/210853-ingrid-jetter-la-prevencion-es-mucha-y-los-indices-delictivos-son-bajos-en-la-ciudad",
-      "title": "Ingrid Jetter: \"La prevención es mucha y los índices delictivos son bajos en la ciudad\"",
-      "volanta": "ENTREVISTA EN RADIO DOS",
-      "date": "2026-07-12T21:34:39+00:00"
     }
   ]
 }
