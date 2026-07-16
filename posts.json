@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T21:36:26+00:00",
+  "updated": "2026-07-16T21:39:26+00:00",
   "posts": [
+    {
+      "id": "6b42a4d8",
+      "image": "img/6b42a4d8.png",
+      "image_sha": "75fac0ce5e13d2134fd30c09c221495a118f38fb",
+      "url": "https://www.radiodos.com.ar/211048-monsenor-larregain-en-itati-nuestra-madre-siempre-nos-recuerda-que-dios-cumple-sus-promesas-y-que-nunca-abandona-a-sus-hijos",
+      "title": "Monseñor Larregain, en Itatí: \"Nuestra Madre siempre nos recuerda que Dios cumple sus promesas y que nunca abandona a sus hijos\"",
+      "volanta": "DIA DE LA CORONACION PONTIFICIA DE LA VIRGEN DE ITATI",
+      "date": "2026-07-16T21:39:26+00:00"
+    },
     {
       "id": "e6d0437f",
       "image": "img/e6d0437f.png",
@@ -531,15 +540,6 @@
       "title": "Cruz Roja brindará asistencia sanitaria en Itatí",
       "volanta": "Peregrinación",
       "date": "2026-07-14T14:09:58+00:00"
-    },
-    {
-      "id": "9a0e470a",
-      "image": "img/9a0e470a.png",
-      "image_sha": "05c3e1f141b22a5f6b2f7710f515e1bf502b6bf7",
-      "url": "https://www.radiodos.com.ar/210938-buscan-a-una-adolescente-que-no-volvio-a-su-hogar-",
-      "title": "Buscan a una adolescente que no volvió a su hogar",
-      "volanta": "MERCEDES - COMISARIA DE LA MUJER Y EL MENOR",
-      "date": "2026-07-14T13:53:57+00:00"
     }
   ]
 }
