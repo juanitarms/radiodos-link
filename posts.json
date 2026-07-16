@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T17:21:05+00:00",
+  "updated": "2026-07-16T17:21:39+00:00",
   "posts": [
+    {
+      "id": "18d2b6f0",
+      "image": "img/18d2b6f0.png",
+      "image_sha": "f291fb17f3cb7da9c9059deb58606c8e61afee67",
+      "url": "https://www.radiodos.com.ar/211036-el-efusivo-festejo-de-antonela-roccuzzo-al-ritmo-de-la-hinchada-argentina-el-que-no-salta-es-un-ingles",
+      "title": "El efusivo festejo de Antonela Roccuzzo al ritmo de la hinchada argentina: \"El que no salta es un inglés\"",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-16T17:21:39+00:00"
+    },
     {
       "id": "b60e0acc",
       "image": "img/b60e0acc.png",
@@ -531,15 +540,6 @@
       "title": "Está en terapia intensiva la joven golpeada brutalmente a la salida de un boliche en Corrientes",
       "volanta": "VIOLENCIA URBANA",
       "date": "2026-07-14T11:10:54+00:00"
-    },
-    {
-      "id": "32de00b8",
-      "image": "img/32de00b8.png",
-      "image_sha": "061cc36361554d3d000e9382aaa3ec934c24e124",
-      "url": "https://www.radiodos.com.ar/210915-el-indec-difunde-esta-tarde-la-inflacion-de-junio",
-      "title": "El Indec difunde esta tarde la inflación de junio",
-      "volanta": "NUMEROS",
-      "date": "2026-07-14T11:04:14+00:00"
     }
   ]
 }
