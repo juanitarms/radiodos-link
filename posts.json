@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T14:48:48+00:00",
+  "updated": "2026-07-16T15:07:47+00:00",
   "posts": [
+    {
+      "id": "cd28a9f4",
+      "image": "img/cd28a9f4.png",
+      "image_sha": "ec06826f22d2c4d2f663e92e6a271c1ae6e69d64",
+      "url": "https://www.radiodos.com.ar/211024-victoria-villarruel-y-patricia-bullrich-se-tiraron-con-todo-tras-la-epica-remontada-de-la-seleccion",
+      "title": "Victoria Villarruel y Patricia Bullrich se tiraron con todo tras la épica remontada de la Selección",
+      "volanta": "POLÉMICA",
+      "date": "2026-07-16T15:07:47+00:00"
+    },
     {
       "id": "6a6c056e",
       "image": "img/6a6c056e.png",
@@ -531,15 +540,6 @@
       "title": "Cultura y fútbol de la mano: pantalla gigante en la Feria del Libro para alentar a la Selección",
       "volanta": "ARGENTINA VS INGLATERRA",
       "date": "2026-07-13T21:06:53+00:00"
-    },
-    {
-      "id": "ca65ca3f",
-      "image": "img/ca65ca3f.png",
-      "image_sha": "5f4fae45c7e4582b259b4ae1158a7d96452024b6",
-      "url": "https://www.radiodos.com.ar/210906-veteranos-de-malvinas-en-la-previa-de-argentina-vs-inglaterra-el-deporte-no-es-la-guerra-ni-una-revancha-armada",
-      "title": "Veteranos de Malvinas, en la previa de Argentina vs. Inglaterra: \"El deporte no es la guerra ni una revancha armada\"",
-      "volanta": "Mundial 2026",
-      "date": "2026-07-13T20:58:02+00:00"
     }
   ]
 }
