@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T12:19:42+00:00",
+  "updated": "2026-07-16T12:34:34+00:00",
   "posts": [
+    {
+      "id": "2d3ec93c",
+      "image": "img/2d3ec93c.png",
+      "image_sha": "27e4463cc827aef07c1251e88d019c6820a503f7",
+      "url": "https://www.radiodos.com.ar/211010-la-impresionante-estadistica-de-la-seleccion-argentina-con-lionel-scaloni-a-la-cabeza",
+      "title": "La impresionante estadística de la Selección argentina con Lionel Scaloni a la cabeza",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-16T12:34:34+00:00"
+    },
     {
       "id": "ca3fb9ce",
       "image": "img/ca3fb9ce.png",
@@ -531,15 +540,6 @@
       "title": "Boca se despide de su sueño: Paulo Dybala renovó oficialmente con la Roma",
       "volanta": "EUROPA",
       "date": "2026-07-13T17:21:59+00:00"
-    },
-    {
-      "id": "f2266fa6",
-      "image": "img/f2266fa6.png",
-      "image_sha": "c77464d4e9a031864ebcb68b7ab630066c75968a",
-      "url": "https://www.radiodos.com.ar/210890-patricia-bullrich-la-oposicion-usa-el-mundial-2026-para-hacer-campana-anti-reeleccion",
-      "title": "Patricia Bullrich: \"La oposición usa el Mundial 2026 para hacer campaña anti-reelección\"",
-      "volanta": "POLÍTICA",
-      "date": "2026-07-13T17:21:23+00:00"
     }
   ]
 }
