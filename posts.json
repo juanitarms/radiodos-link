@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T19:20:50+00:00",
+  "updated": "2026-07-16T20:21:03+00:00",
   "posts": [
+    {
+      "id": "d4b833d7",
+      "image": "img/d4b833d7.png",
+      "image_sha": "7f1c1ae1848e94671185e86c030ec4a92ec471e6",
+      "url": "https://www.radiodos.com.ar/211045-el-gobierno-de-corrientes-acompano-la-celebracion-del-126°-aniversario-de-la-coronacion-pontificia-de-la-virgen-de-itati",
+      "title": "El Gobierno de Corrientes acompañó la celebración del 126° aniversario de la Coronación Pontificia de la Virgen de Itatí",
+      "volanta": "ESTE JUEVES",
+      "date": "2026-07-16T20:21:03+00:00"
+    },
     {
       "id": "b1e91f39",
       "image": "img/b1e91f39.png",
@@ -531,15 +540,6 @@
       "title": "La imagen positiva de Javier Milei ronda el 37% mientras la mitad de los argentinos cree que empeoró la economía",
       "volanta": "DATOS",
       "date": "2026-07-14T12:18:38+00:00"
-    },
-    {
-      "id": "acef0b17",
-      "image": "img/acef0b17.png",
-      "image_sha": "afe1d561a69e77f67faa82763c26c15bbdb2c7a9",
-      "url": "https://www.radiodos.com.ar/210919-regatas-se-quedo-con-el-mini-mixto-de-la-liga-prefederal",
-      "title": "Regatas se quedó con el Mini mixto de la Liga Prefederal",
-      "volanta": "BÁSQUET",
-      "date": "2026-07-14T12:04:31+00:00"
     }
   ]
 }
