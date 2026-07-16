@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T20:21:03+00:00",
+  "updated": "2026-07-16T20:23:40+00:00",
   "posts": [
+    {
+      "id": "94b96f79",
+      "image": "img/94b96f79.png",
+      "image_sha": "223118b5dfb87b8b8deb8954af71b440f9146017",
+      "url": "https://www.radiodos.com.ar/211046-donald-trump-asistira-a-la-final-del-mundial-entre-argentina-y-espana",
+      "title": "Donald Trump asistirá a la final del Mundial entre Argentina y España",
+      "volanta": "EL DOMINGO",
+      "date": "2026-07-16T20:23:40+00:00"
+    },
     {
       "id": "d4b833d7",
       "image": "img/d4b833d7.png",
@@ -531,15 +540,6 @@
       "title": "Los 11 de Lionel Scaloni para la trascendental semifinal ante Inglaterra",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-14T12:34:57+00:00"
-    },
-    {
-      "id": "dcd86d65",
-      "image": "img/dcd86d65.png",
-      "image_sha": "d65b6577b364c5f8e800f8bc3bf0d436c8ab6347",
-      "url": "https://www.radiodos.com.ar/210921-la-imagen-positiva-de-javier-milei-ronda-el-37-mientras-la-mitad-de-los-argentinos-cree-que-empeoro-la-economia",
-      "title": "La imagen positiva de Javier Milei ronda el 37% mientras la mitad de los argentinos cree que empeoró la economía",
-      "volanta": "DATOS",
-      "date": "2026-07-14T12:18:38+00:00"
     }
   ]
 }
