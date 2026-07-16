@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T12:45:56+00:00",
+  "updated": "2026-07-16T12:58:49+00:00",
   "posts": [
+    {
+      "id": "a26a61cd",
+      "image": "img/a26a61cd.png",
+      "image_sha": "a1a7d194b1d4ea9265dfa787652b661b447d4df8",
+      "url": "https://www.radiodos.com.ar/211015-corrientes-la-ilusion-por-la-cuarta-estrella-en-el-altar-de-la-madre-morena",
+      "title": "Corrientes: la ilusión por \"la cuarta estrella\" en el altar de la Madre Morena",
+      "volanta": "ITATÍ",
+      "date": "2026-07-16T12:58:49+00:00"
+    },
     {
       "id": "088deceb",
       "image": "img/088deceb.png",
@@ -531,15 +540,6 @@
       "title": "Pánico: mientras festejaban el triunfo de la Selección argentina se derrumbó parte del techo de un bar",
       "volanta": "ENTRE RÍOS",
       "date": "2026-07-13T17:41:21+00:00"
-    },
-    {
-      "id": "225ec4da",
-      "image": "img/225ec4da.png",
-      "image_sha": "be8c88522d5ac134dda0369463e9ca2b04d21893",
-      "url": "https://www.radiodos.com.ar/210895-cordoba-asesinaron-a-un-joven-durante-los-festejos-por-el-triunfo-de-la-seleccion-argentina",
-      "title": "Córdoba: asesinaron a un joven durante los festejos por el triunfo de la Selección Argentina",
-      "volanta": "DESCONTROL",
-      "date": "2026-07-13T17:40:49+00:00"
     }
   ]
 }
