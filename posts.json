@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T20:25:33+00:00",
+  "updated": "2026-07-16T21:30:41+00:00",
   "posts": [
+    {
+      "id": "cae0f45b",
+      "image": "img/cae0f45b.png",
+      "image_sha": "4cc318ecd693224836ed2236820aad011f610488",
+      "url": "https://www.radiodos.com.ar/211050-levantaron-la-sesion-en-el-senado-y-el-debate-del-proyecto-de-ley-de-propiedad-privada-sera-el-6-de-agosto",
+      "title": "Levantaron la sesión en el Senado y el debate del proyecto de ley de Propiedad Privada será el 6 de agosto",
+      "volanta": "CONGRESO",
+      "date": "2026-07-16T21:30:41+00:00"
+    },
     {
       "id": "305621bd",
       "image": "img/305621bd.png",
@@ -531,15 +540,6 @@
       "title": "La FIFA confirmó al árbitro para Selección Argentina vs. Inglaterra por las semifinales del Mundial 2026",
       "volanta": "DEFINIDO",
       "date": "2026-07-14T13:33:40+00:00"
-    },
-    {
-      "id": "88c83574",
-      "image": "img/88c83574.png",
-      "image_sha": "e4ad26c9545159a8b14917144cb629fb624e1e38",
-      "url": "https://www.radiodos.com.ar/210924-el-mensaje-de-los-veteranos-de-malvinas-antes-de-argentina-vs-inglaterra-no-es-una-revancha",
-      "title": "El mensaje de los veteranos de Malvinas antes de Argentina vs. Inglaterra: \"No es una revancha\"",
-      "volanta": "CONTUNDENTE",
-      "date": "2026-07-14T12:57:23+00:00"
     }
   ]
 }
