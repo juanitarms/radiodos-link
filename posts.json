@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T12:58:49+00:00",
+  "updated": "2026-07-16T13:41:55+00:00",
   "posts": [
+    {
+      "id": "ed5ca3e3",
+      "image": "img/ed5ca3e3.png",
+      "image_sha": "1f82352dcf708c909602e74fff4a7c997ce95760",
+      "url": "https://www.radiodos.com.ar/211023-la-divertida-broma-del-chiqui-tapia-que-hizo-reir-a-messi-tras-el-pase-de-argentina-a-la-final",
+      "title": "La divertida broma del Chiqui Tapia que hizo reír a Messi tras el pase de Argentina a la final",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-16T13:41:55+00:00"
+    },
     {
       "id": "a26a61cd",
       "image": "img/a26a61cd.png",
@@ -531,15 +540,6 @@
       "title": "Sin clases en 20 provincias este miércoles 15 de julio cuando juega la Selección Argentina vs. Inglaterra",
       "volanta": "SEMIFINAL",
       "date": "2026-07-13T19:04:12+00:00"
-    },
-    {
-      "id": "6f33145a",
-      "image": "img/6f33145a.png",
-      "image_sha": "f682862c31342eb25d41bc1901c9278308f50dbf",
-      "url": "https://www.radiodos.com.ar/210894-panico-mientras-festejaban-el-triunfo-de-la-seleccion-argentina-se-derrumbo-parte-del-techo-de-un-bar",
-      "title": "Pánico: mientras festejaban el triunfo de la Selección argentina se derrumbó parte del techo de un bar",
-      "volanta": "ENTRE RÍOS",
-      "date": "2026-07-13T17:41:21+00:00"
     }
   ]
 }
