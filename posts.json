@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T20:23:40+00:00",
+  "updated": "2026-07-16T20:25:33+00:00",
   "posts": [
+    {
+      "id": "305621bd",
+      "image": "img/305621bd.png",
+      "image_sha": "3bced4896600db9c09c1b686b86165f1f9bb948d",
+      "url": "https://www.radiodos.com.ar/211047-la-virgen-de-itati-y-la-virgen-de-caacupe-argentina-y-paraguay-unidos-hoy-por-maria",
+      "title": "La Virgen de Itatí y la Virgen de Caacupé: Argentina y Paraguay unidos hoy por María",
+      "volanta": "16 DE JULIO",
+      "date": "2026-07-16T20:25:33+00:00"
+    },
     {
       "id": "94b96f79",
       "image": "img/94b96f79.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de los veteranos de Malvinas antes de Argentina vs. Inglaterra: \"No es una revancha\"",
       "volanta": "CONTUNDENTE",
       "date": "2026-07-14T12:57:23+00:00"
-    },
-    {
-      "id": "5619946d",
-      "image": "img/5619946d.png",
-      "image_sha": "8747cc064f88f257bad232edadf4ad4b4abd8bd4",
-      "url": "https://www.radiodos.com.ar/210927-los-11-de-lionel-scaloni-para-la-trascendental-semifinal-ante-inglaterra",
-      "title": "Los 11 de Lionel Scaloni para la trascendental semifinal ante Inglaterra",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-14T12:34:57+00:00"
     }
   ]
 }
