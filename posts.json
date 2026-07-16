@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T14:19:13+00:00",
+  "updated": "2026-07-16T14:31:55+00:00",
   "posts": [
+    {
+      "id": "d6d612cf",
+      "image": "img/d6d612cf.png",
+      "image_sha": "56e5a0ff64f501f8dae0a876f35a384fd0f61322",
+      "url": "https://www.radiodos.com.ar/211031-cuti-romero-respondio-con-dureza-a-las-criticas-de-gary-neville-espero-que-cuando-me-retire",
+      "title": "Cuti Romero respondió con dureza a las críticas de Gary Neville: \"Espero que cuando me retire...\"",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-07-16T14:31:55+00:00"
+    },
     {
       "id": "989b4cc3",
       "image": "img/989b4cc3.png",
@@ -531,15 +540,6 @@
       "title": "Venezuela: la cifra de fallecidos por los terremotos en Venezuela supera los 4.500",
       "volanta": "Catástrofe",
       "date": "2026-07-13T20:57:26+00:00"
-    },
-    {
-      "id": "b89b3f82",
-      "image": "img/b89b3f82.png",
-      "image_sha": "fe5b078d86bcca845e856cb8feea796f2026ba11",
-      "url": "https://www.radiodos.com.ar/210898-en-la-era-milei-el-consumo-de-pan-se-derrumbo-60-y-80-el-de-facturas",
-      "title": "En la era Milei el consumo de pan se derrumbó 60% y 80% el de facturas",
-      "volanta": "Economía",
-      "date": "2026-07-13T19:05:22+00:00"
     }
   ]
 }
