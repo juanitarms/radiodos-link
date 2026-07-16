@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T15:07:47+00:00",
+  "updated": "2026-07-16T16:44:26+00:00",
   "posts": [
+    {
+      "id": "48f74b6e",
+      "image": "img/48f74b6e.png",
+      "image_sha": "d56a17d655188de83695959989d70fbd5f66e17d",
+      "url": "https://www.radiodos.com.ar/211033-tras-allanamientos-secuestraron-marihuana-dinero-celulares-y-detuvieron-a-un-hombre-",
+      "title": "Tras allanamientos, secuestraron marihuana, dinero, celulares y detuvieron a un hombre",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-07-16T16:44:26+00:00"
+    },
     {
       "id": "cd28a9f4",
       "image": "img/cd28a9f4.png",
@@ -531,15 +540,6 @@
       "title": "Construcción: Corrientes es la segunda provincia con mayor caída del empleo en el país",
       "volanta": "CRISIS",
       "date": "2026-07-13T21:49:26+00:00"
-    },
-    {
-      "id": "6b094309",
-      "image": "img/6b094309.png",
-      "image_sha": "6ac3acb345e30d9a08c2b4aeef5e223f5f64a1a8",
-      "url": "https://www.radiodos.com.ar/210907-cultura-y-futbol-de-la-mano-pantalla-gigante-en-la-feria-del-libro-para-alentar-a-la-seleccion",
-      "title": "Cultura y fútbol de la mano: pantalla gigante en la Feria del Libro para alentar a la Selección",
-      "volanta": "ARGENTINA VS INGLATERRA",
-      "date": "2026-07-13T21:06:53+00:00"
     }
   ]
 }
