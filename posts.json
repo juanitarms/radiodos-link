@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T21:46:06+00:00",
+  "updated": "2026-07-16T22:07:41+00:00",
   "posts": [
+    {
+      "id": "459fabd5",
+      "image": "img/459fabd5.png",
+      "image_sha": "d269c12c2ecd17017e65354157cc49bd9d8da980",
+      "url": "https://www.radiodos.com.ar/211055-pasaron-a-sala-comun-a-la-joven-que-recibio-una-paliza-a-la-salida-de-un-boliche-en-corrientes",
+      "title": "Pasaron a sala común a la joven que recibió una paliza a la salida de un boliche en Corrientes",
+      "volanta": "VIOLENCIA URBANA",
+      "date": "2026-07-16T22:07:41+00:00"
+    },
     {
       "id": "4405c26f",
       "image": "img/4405c26f.png",
@@ -531,15 +540,6 @@
       "title": "Salarios por el piso: más del 90% de quienes consiguieron trabajo en el último año no llega a fin de mes",
       "volanta": "ECONOMÍA",
       "date": "2026-07-14T16:17:31+00:00"
-    },
-    {
-      "id": "d3108a9b",
-      "image": "img/d3108a9b.png",
-      "image_sha": "9e2db243706369742b95f7818b44ab9c9f18513f",
-      "url": "https://www.radiodos.com.ar/210948-un-cura-electrifico-el-porton-de-su-casa-y-un-nene-resulto-herido-podrian-condenarlo-a-6-anos-de-prision",
-      "title": "Un cura electrificó el portón de su casa y un nene resultó herido: podrían condenarlo a 6 años de prisión",
-      "volanta": "JUSTICIA",
-      "date": "2026-07-14T16:16:51+00:00"
     }
   ]
 }
