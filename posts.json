@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T11:18:38+00:00",
+  "updated": "2026-07-16T12:03:47+00:00",
   "posts": [
+    {
+      "id": "c6fb1e84",
+      "image": "img/c6fb1e84.png",
+      "image_sha": "055ca8459031b17459dd9a04f4fa1658d33b15bc",
+      "url": "https://www.radiodos.com.ar/211007-argentina-heroica-el-fan-fest-municipal-volvio-a-ser-cabala-para-un-historico-triunfo-ante-inglaterra",
+      "title": "Argentina heroica: el Fan Fest municipal volvió a ser cábala para un histórico triunfo ante Inglaterra",
+      "volanta": "EN LA ROTONDA",
+      "date": "2026-07-16T12:03:47+00:00"
+    },
     {
       "id": "886874a5",
       "image": "img/886874a5.png",
@@ -531,15 +540,6 @@
       "title": "Macabro crimen en Las Toninas: encontraron a un expolicía enterrado en un médano",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-13T16:12:28+00:00"
-    },
-    {
-      "id": "1c41e203",
-      "image": "img/1c41e203.png",
-      "image_sha": "d58b4fd3f3c68df6369fda099573ad77f2cc46ec",
-      "url": "https://www.radiodos.com.ar/210888-el-petroleo-se-dispara-se-preven-caidas-en-los-mercados-y-la-presion-sobre-la-inflacion-se-profundiza",
-      "title": "El petróleo se dispara, se prevén caídas en los mercados y la presión sobre la inflación se profundiza",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-13T16:11:49+00:00"
     }
   ]
 }
