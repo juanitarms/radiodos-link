@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T17:21:39+00:00",
+  "updated": "2026-07-16T19:20:15+00:00",
   "posts": [
+    {
+      "id": "794260a4",
+      "image": "img/794260a4.png",
+      "image_sha": "b1888c9e4c17311e1e2752de4ac82ae54f71b76b",
+      "url": "https://www.radiodos.com.ar/211043-carlos-maria-zarate-nunca-dejen-de-sonar-eso-fue-lo-que-me-trajo-hasta-aca",
+      "title": "Carlos María Zárate: \"Nunca dejen de soñar; eso fue lo que me trajo hasta acá\"",
+      "volanta": "TENIS",
+      "date": "2026-07-16T19:20:15+00:00"
+    },
     {
       "id": "18d2b6f0",
       "image": "img/18d2b6f0.png",
@@ -531,15 +540,6 @@
       "title": "Se paga el plus extraordinario a municipales de la ciudad de Corrientes",
       "volanta": "DESDE HOY",
       "date": "2026-07-14T11:26:25+00:00"
-    },
-    {
-      "id": "0bf598bb",
-      "image": "img/0bf598bb.png",
-      "image_sha": "85f7b455a113b462fe8c5062b608c4a7f9789382",
-      "url": "https://www.radiodos.com.ar/210914-esta-en-terapia-intensiva-la-joven-golpeada-brutalmente-a-la-salida-de-un-boliche-en-corrientes",
-      "title": "Está en terapia intensiva la joven golpeada brutalmente a la salida de un boliche en Corrientes",
-      "volanta": "VIOLENCIA URBANA",
-      "date": "2026-07-14T11:10:54+00:00"
     }
   ]
 }
