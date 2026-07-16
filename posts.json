@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T17:19:55+00:00",
+  "updated": "2026-07-16T17:20:28+00:00",
   "posts": [
+    {
+      "id": "9441bb38",
+      "image": "img/9441bb38.png",
+      "image_sha": "7adcaaede5225db4b1bfb9e8bcb5b91ed4205cdf",
+      "url": "https://www.radiodos.com.ar/211038-el-exabrupto-de-manuel-ibero-en-gran-hermano-que-encendio-las-redes-lamentablemente-hay-mas-mujeres",
+      "title": "El exabrupto de Manuel Ibero en Gran Hermano que encendió las redes: \"Lamentablemente, hay más mujeres...\"",
+      "volanta": "POLÉMICA",
+      "date": "2026-07-16T17:20:28+00:00"
+    },
     {
       "id": "44da34e5",
       "image": "img/44da34e5.png",
@@ -531,15 +540,6 @@
       "title": "Braillard Poccard: \"No hay temas de urgencia esperando en la Legislatura\"",
       "volanta": "ENTREVISTA CON RADIO DOS",
       "date": "2026-07-14T10:56:34+00:00"
-    },
-    {
-      "id": "1462242e",
-      "image": "img/1462242e.png",
-      "image_sha": "8afa67ed860bbb5b11abb53fff0028588eb0ce53",
-      "url": "https://www.radiodos.com.ar/210911-itaipu-reabre-compuertas-del-vertedero-para-regular-nivel-del-rio-parana",
-      "title": "Itaipú reabre compuertas del vertedero para regular nivel del río Paraná",
-      "volanta": "tras la crecida del embalse",
-      "date": "2026-07-14T10:44:36+00:00"
     }
   ]
 }
