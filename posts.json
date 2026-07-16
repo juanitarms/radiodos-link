@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T16:45:36+00:00",
+  "updated": "2026-07-16T16:46:08+00:00",
   "posts": [
+    {
+      "id": "2e9dbfd9",
+      "image": "img/2e9dbfd9.png",
+      "image_sha": "63af153362c8a4666693e57d19824bdc41a82f1a",
+      "url": "https://www.radiodos.com.ar/211040-del-futbol-al-espectaculo-los-famosos-que-dijeron-presente-en-la-semifinal-entre-argentina-e-inglaterra",
+      "title": "Del fútbol al espectáculo: los famosos que dijeron presente en la semifinal entre Argentina e Inglaterra",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-16T16:46:08+00:00"
+    },
     {
       "id": "85e0fc7f",
       "image": "img/85e0fc7f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes espera una semana con máxima que rozarán los 32 grados",
       "volanta": "TIEMPO",
       "date": "2026-07-13T23:17:56+00:00"
-    },
-    {
-      "id": "78f3e24a",
-      "image": "img/78f3e24a.png",
-      "image_sha": "5c398e8128e08d5730826c6a1c8081bf660c5aec",
-      "url": "https://www.radiodos.com.ar/210910-la-municipalidad-continua-avanzando-con-cielo-limpio-el-programa-de-ordenamiento-del-cableado-aereo",
-      "title": "La Municipalidad continúa avanzando con \"Cielo Limpio\", el programa de ordenamiento del cableado aéreo",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-13T22:07:33+00:00"
     }
   ]
 }
