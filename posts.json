@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T23:53:29+00:00",
+  "updated": "2026-07-16T11:18:38+00:00",
   "posts": [
+    {
+      "id": "886874a5",
+      "image": "img/886874a5.png",
+      "image_sha": "0f748a4c84a0b94660fde328bb2d30582e2e4334",
+      "url": "https://www.radiodos.com.ar/211003-una-multitud-celebra-en-itati-la-126-coronacion-pontificia-de-la-virgen-morena",
+      "title": "Una multitud celebra en Itatí la 126ª Coronación Pontificia de la Virgen Morena",
+      "volanta": "COBERTURA ESPECIAL",
+      "date": "2026-07-16T11:18:38+00:00"
+    },
     {
       "id": "027f61d4",
       "image": "img/027f61d4.png",
@@ -531,15 +540,6 @@
       "title": "El petróleo se dispara, se prevén caídas en los mercados y la presión sobre la inflación se profundiza",
       "volanta": "ECONOMÍA",
       "date": "2026-07-13T16:11:49+00:00"
-    },
-    {
-      "id": "f3631bad",
-      "image": "img/f3631bad.png",
-      "image_sha": "cbd12d203cd036d2589152b42332f0a6dfa67ab9",
-      "url": "https://www.radiodos.com.ar/210883-conmocion-en-el-mundo-del-cine-murio-sam-neill-el-protagonista-de-jurassic-park",
-      "title": "Conmoción en el mundo del cine: murió Sam Neill, el protagonista de Jurassic Park",
-      "volanta": "DUELO",
-      "date": "2026-07-13T14:49:21+00:00"
     }
   ]
 }
