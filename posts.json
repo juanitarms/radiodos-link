@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T17:20:28+00:00",
+  "updated": "2026-07-16T17:21:05+00:00",
   "posts": [
+    {
+      "id": "b60e0acc",
+      "image": "img/b60e0acc.png",
+      "image_sha": "1c1c26f0827420f4d9b6220e2db0f8720e22c8c1",
+      "url": "https://www.radiodos.com.ar/211037-el-romantico-gesto-de-tini-stoessel-con-rodrigo-de-paul-despues-del-triunfo-contra-inglaterra",
+      "title": "El romántico gesto de Tini Stoessel con Rodrigo De Paul después del triunfo contra Inglaterra",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-16T17:21:05+00:00"
+    },
     {
       "id": "9441bb38",
       "image": "img/9441bb38.png",
@@ -531,15 +540,6 @@
       "title": "El Indec difunde esta tarde la inflación de junio",
       "volanta": "NUMEROS",
       "date": "2026-07-14T11:04:14+00:00"
-    },
-    {
-      "id": "64cee006",
-      "image": "img/64cee006.png",
-      "image_sha": "9d6cd404165142da2f782e20793da96464144c3e",
-      "url": "https://www.radiodos.com.ar/210913-braillard-poccard-no-hay-temas-de-urgencia-esperando-en-la-legislatura",
-      "title": "Braillard Poccard: \"No hay temas de urgencia esperando en la Legislatura\"",
-      "volanta": "ENTREVISTA CON RADIO DOS",
-      "date": "2026-07-14T10:56:34+00:00"
     }
   ]
 }
