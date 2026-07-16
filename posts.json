@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T22:40:36+00:00",
+  "updated": "2026-07-16T22:41:46+00:00",
   "posts": [
+    {
+      "id": "358d9d72",
+      "image": "img/358d9d72.png",
+      "image_sha": "b88d51321095c0c02ec655baf856c4f800703434",
+      "url": "https://www.radiodos.com.ar/211057-pese-a-la-reforma-laboral-cayo-el-empleo-registrado-y-subio-el-trabajo-informal",
+      "title": "Pese a la Reforma Laboral, cayó el empleo registrado y subió el trabajo informal",
+      "volanta": "ECONOMÍA LIBERTARIA",
+      "date": "2026-07-16T22:41:46+00:00"
+    },
     {
       "id": "197fadba",
       "image": "img/197fadba.png",
@@ -531,15 +540,6 @@
       "title": "Video: una enfermera simuló estar embarazada y quiso robar una beba de un hospital de Brasil",
       "volanta": "BRASIL",
       "date": "2026-07-14T18:57:37+00:00"
-    },
-    {
-      "id": "366a3a65",
-      "image": "img/366a3a65.png",
-      "image_sha": "7bc0ad3b5545038db9299fef87b207c2f0c88ee6",
-      "url": "https://www.radiodos.com.ar/210949-franco-armani-se-despidio-de-river-con-una-emotiva-carta-y-confirmo-su-nuevo-desafio",
-      "title": "Franco Armani se despidió de River con una emotiva carta y confirmó su nuevo desafío",
-      "volanta": "GRAN ARQUERO",
-      "date": "2026-07-14T16:55:47+00:00"
     }
   ]
 }
