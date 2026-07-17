@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T21:15:06+00:00",
+  "updated": "2026-07-17T21:59:41+00:00",
   "posts": [
+    {
+      "id": "c10f8ea0",
+      "image": "img/c10f8ea0.png",
+      "image_sha": "5283d38b3b39d6ab0906547f88c6d0344816f10a",
+      "url": "https://www.radiodos.com.ar/211117-ricky-sarkany-en-la-16-feria-provincial-del-libro-en-cada-momento-hay-una-oportunidad",
+      "title": "Ricky Sarkany en la 16ª Feria Provincial del Libro: \"En cada momento hay una oportunidad\"",
+      "volanta": "CULTURA",
+      "date": "2026-07-17T21:59:41+00:00"
+    },
     {
       "id": "c7c91c58",
       "image": "img/c7c91c58.png",
@@ -531,15 +540,6 @@
       "title": "Una multitud celebra en Itatí la 126ª Coronación Pontificia de la Virgen Morena",
       "volanta": "COBERTURA ESPECIAL",
       "date": "2026-07-16T11:18:38+00:00"
-    },
-    {
-      "id": "027f61d4",
-      "image": "img/027f61d4.png",
-      "image_sha": "6ff8edd1f30632b318d4738a6952ddff00219099",
-      "url": "https://www.radiodos.com.ar/211001-lionel-scaloni-tengo-un-equipo-de-guerreros-que-piensan-en-hacer-lo-mejor-posible-siempre",
-      "title": "Lionel Scaloni: \"Tengo un equipo de guerreros que piensan en hacer lo mejor posible siempre\"",
-      "volanta": "\"Cuando pierden sacan su mejor versión\"",
-      "date": "2026-07-15T23:53:29+00:00"
     }
   ]
 }
