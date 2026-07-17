@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T17:15:53+00:00",
+  "updated": "2026-07-17T17:16:26+00:00",
   "posts": [
+    {
+      "id": "41ecd039",
+      "image": "img/41ecd039.png",
+      "image_sha": "403817025773dc1575c023826f1eabfc179d3c70",
+      "url": "https://www.radiodos.com.ar/211101-galeria-imaginaria-en-el-macc-",
+      "title": "Galería Imaginaria en el MACC",
+      "volanta": "SHOW INMERSIVO",
+      "date": "2026-07-17T17:16:26+00:00"
+    },
     {
       "id": "0fedb6d1",
       "image": "img/0fedb6d1.png",
@@ -531,15 +540,6 @@
       "title": "Prohibieron ingresar con banderas sobre las Islas Malvinas en la semifinal del Mundial 2026",
       "volanta": "DETERMINACIÓN",
       "date": "2026-07-15T13:52:42+00:00"
-    },
-    {
-      "id": "1bcbf338",
-      "image": "img/1bcbf338.png",
-      "image_sha": "e6becdee641b46c253efa559a8dbd7dd8c9be31a",
-      "url": "https://www.radiodos.com.ar/210981-el-video-de-lionel-messi-tras-el-entrenamiento-que-conmueve-al-mundo-ultimos-dias",
-      "title": "El video de Lionel Messi tras el entrenamiento que conmueve al mundo: \"Últimos días...\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-15T13:36:07+00:00"
     }
   ]
 }
