@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T14:52:38+00:00",
+  "updated": "2026-07-17T15:10:26+00:00",
   "posts": [
+    {
+      "id": "162c7152",
+      "image": "img/162c7152.png",
+      "image_sha": "05cc99d2362c36ea3aeec52de87a14ce8d5c9acd",
+      "url": "https://www.radiodos.com.ar/211096-el-inesperado-guino-de-madonna-a-la-seleccion-argentina-compartio-un-video-hecho-con-inteligencia-artificial",
+      "title": "El inesperado guiño de Madonna a la Selección Argentina: compartió un video hecho con inteligencia artificial",
+      "volanta": "SORPRESA",
+      "date": "2026-07-17T15:10:26+00:00"
+    },
     {
       "id": "f0b87905",
       "image": "img/f0b87905.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que no volvió a su casa del barrio Arazaty",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-07-15T12:25:46+00:00"
-    },
-    {
-      "id": "645cc5fc",
-      "image": "img/645cc5fc.png",
-      "image_sha": "da1b508d9a0e3130c93f3be489e2333d7f2235ce",
-      "url": "https://www.radiodos.com.ar/210970-detuvieron-a-un-hombre-y-secuestraron-marihuana-y-dinero-en-efectivo-",
-      "title": "Detuvieron a un hombre y secuestraron marihuana y dinero en efectivo",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-07-15T12:03:24+00:00"
     }
   ]
 }
