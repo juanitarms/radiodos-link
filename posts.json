@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T11:14:51+00:00",
+  "updated": "2026-07-17T11:33:30+00:00",
   "posts": [
+    {
+      "id": "db51969b",
+      "image": "img/db51969b.png",
+      "image_sha": "1931d9bdbc38cd5c818ec3500a6047164d2114e9",
+      "url": "https://www.radiodos.com.ar/211062-corrientes-secuestraron-camioneta-con-pedido-de-secuestro-en-cordoba",
+      "title": "Corrientes: secuestraron camioneta con pedido de secuestro en Córdoba",
+      "volanta": "RUTA 40",
+      "date": "2026-07-17T11:33:30+00:00"
+    },
     {
       "id": "3a557e15",
       "image": "img/3a557e15.png",
@@ -531,15 +540,6 @@
       "title": "La Muni en Tu Barrio acercó servicios integrales a vecinos del Pirayuí Nuevo y zonas aledañas",
       "volanta": "CORRIENTES",
       "date": "2026-07-14T21:24:51+00:00"
-    },
-    {
-      "id": "a15bc006",
-      "image": "img/a15bc006.png",
-      "image_sha": "47d93275d5e8ea921688adbb2727e511792b5177",
-      "url": "https://www.radiodos.com.ar/210954-la-inflacion-de-junio-fue-de-19-y-alcanzo-su-nivel-mas-bajo-en-diez-meses",
-      "title": "La inflación de junio fue de 1,9% y alcanzó su nivel más bajo en diez meses",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-07-14T21:24:16+00:00"
     }
   ]
 }
