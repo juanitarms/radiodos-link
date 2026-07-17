@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T20:35:27+00:00",
+  "updated": "2026-07-17T20:41:13+00:00",
   "posts": [
+    {
+      "id": "d6742a13",
+      "image": "img/d6742a13.png",
+      "image_sha": "4d0685fdf02dacabeeb1ce5803ae0c67935ae77f",
+      "url": "https://www.radiodos.com.ar/211107-salud-publica-de-corrientes-realizo-mas-de-mil-atenciones-en-la-126-peregrinacion-de-san-luis-del-palmar-a-itati",
+      "title": "Salud Pública de Corrientes realizó más de mil atenciones en la 126ª Peregrinación de San Luis del Palmar a Itatí",
+      "volanta": "ACCION DIRECTA",
+      "date": "2026-07-17T20:41:13+00:00"
+    },
     {
       "id": "e0143b94",
       "image": "img/e0143b94.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Argentina e Inglaterra igualan sin goles",
       "volanta": "En Atlanta",
       "date": "2026-07-15T20:34:47+00:00"
-    },
-    {
-      "id": "976dcfb3",
-      "image": "img/976dcfb3.png",
-      "image_sha": "486c48a5b3943d787077a88056828efd5f52b21a",
-      "url": "https://www.radiodos.com.ar/210997-los-11-de-lionel-scaloni-para-la-trascendental-semifinal-ante-inglaterra",
-      "title": "Los 11 de Lionel Scaloni para la trascendental semifinal ante Inglaterra",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-15T18:04:02+00:00"
     }
   ]
 }
