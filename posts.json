@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T23:10:03+00:00",
+  "updated": "2026-07-17T23:11:05+00:00",
   "posts": [
+    {
+      "id": "015b5e1c",
+      "image": "img/015b5e1c.png",
+      "image_sha": "ce232c1165daba21330e28da86cebb9f81707561",
+      "url": "https://www.radiodos.com.ar/211119-julio-caceres-presento-su-obra-transparencia-del-alma-versos-del-caminante",
+      "title": "Julio Cáceres presentó su obra \"Transparencia del alma. Versos del caminante\"",
+      "volanta": "Con un gran marco de público",
+      "date": "2026-07-17T23:11:05+00:00"
+    },
     {
       "id": "c2606586",
       "image": "img/c2606586.png",
@@ -531,15 +540,6 @@
       "title": "¿Qué pasará con las figuritas después del Mundial?",
       "volanta": "COLECCIONISMO",
       "date": "2026-07-16T12:45:56+00:00"
-    },
-    {
-      "id": "2d3ec93c",
-      "image": "img/2d3ec93c.png",
-      "image_sha": "27e4463cc827aef07c1251e88d019c6820a503f7",
-      "url": "https://www.radiodos.com.ar/211010-la-impresionante-estadistica-de-la-seleccion-argentina-con-lionel-scaloni-a-la-cabeza",
-      "title": "La impresionante estadística de la Selección argentina con Lionel Scaloni a la cabeza",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-16T12:34:34+00:00"
     }
   ]
 }
