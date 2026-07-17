@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T12:56:57+00:00",
+  "updated": "2026-07-17T13:41:25+00:00",
   "posts": [
+    {
+      "id": "af64a69d",
+      "image": "img/af64a69d.png",
+      "image_sha": "005a5d5b8f199db6f638d3cd637074118046e444",
+      "url": "https://www.radiodos.com.ar/211088-the-guardian-reconocio-lo-que-en-londres-nadie-admite-las-malvinas-no-pueden-ser-britanicas-para-siempre",
+      "title": "The Guardian reconoció lo que en Londres nadie admite: \"Las Malvinas no pueden ser británicas para siempre\"",
+      "volanta": "AL FIN",
+      "date": "2026-07-17T13:41:25+00:00"
+    },
     {
       "id": "740cb217",
       "image": "img/740cb217.png",
@@ -531,15 +540,6 @@
       "title": "Inglaterra-Argentina, en otro duelo histórico en la Semifinal del Mundial 2026",
       "volanta": "ESPERA ESPAÑA",
       "date": "2026-07-15T10:34:51+00:00"
-    },
-    {
-      "id": "2d7c7f49",
-      "image": "img/2d7c7f49.png",
-      "image_sha": "8e780e6b86471aa4b06f45fc75ef96f33dfcc8f4",
-      "url": "https://www.radiodos.com.ar/210961-provincias-del-norte-grande-exigen-a-nacion-previsibilidad-y-regularidad-en-los-fondos-de-salud",
-      "title": "Provincias del Norte Grande exigen a Nación previsibilidad y regularidad en los fondos de salud",
-      "volanta": "FRENTE COMÚN EN EL NOA Y NEA",
-      "date": "2026-07-14T22:34:15+00:00"
     }
   ]
 }
