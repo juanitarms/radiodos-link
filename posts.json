@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T20:41:13+00:00",
+  "updated": "2026-07-17T20:52:26+00:00",
   "posts": [
+    {
+      "id": "3f9e0d34",
+      "image": "img/3f9e0d34.png",
+      "image_sha": "e9f67bf4a7c28c99736da4993b7b7af108e9ce71",
+      "url": "https://www.radiodos.com.ar/211106-la-inflacion-mayorista-se-desacelero-a-11-en-junio-y-acumulo-un-alza-de-156-en-lo-que-va-de-2026",
+      "title": "La inflación mayorista se desaceleró a 1,1% en junio y acumuló un alza de 15,6% en lo que va de 2026",
+      "volanta": "datos del indec",
+      "date": "2026-07-17T20:52:26+00:00"
+    },
     {
       "id": "d6742a13",
       "image": "img/d6742a13.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Argentina buscará su cuarta estrella en su séptima final",
       "volanta": "¿Cómo le fue en las anteriores'",
       "date": "2026-07-15T23:03:11+00:00"
-    },
-    {
-      "id": "5cc925fe",
-      "image": "img/5cc925fe.png",
-      "image_sha": "cd0c5ee017cfc5920cfc55967c44223f70026ca2",
-      "url": "https://www.radiodos.com.ar/210999-mundial-2026-argentina-e-inglaterra-igualan-sin-goles",
-      "title": "Mundial 2026: Argentina e Inglaterra igualan sin goles",
-      "volanta": "En Atlanta",
-      "date": "2026-07-15T20:34:47+00:00"
     }
   ]
 }
