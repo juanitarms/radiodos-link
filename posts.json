@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T18:12:59+00:00",
+  "updated": "2026-07-17T18:13:37+00:00",
   "posts": [
+    {
+      "id": "ade4a601",
+      "image": "img/ade4a601.png",
+      "image_sha": "ae3babf4a9a9b07bf1ccec44cd0d518ea301dec8",
+      "url": "https://www.radiodos.com.ar/211104-con-aporte-de-la-unne-se-volvera-a-medir-la-huella-de-carbono-en-pos-del-cuidado-ambiental",
+      "title": "Con aporte de la UNNE se volverá a medir la huella de carbono en pos del cuidado ambiental",
+      "volanta": "EN LA BIENAL DEL CHACO 2026",
+      "date": "2026-07-17T18:13:37+00:00"
+    },
     {
       "id": "2402f84d",
       "image": "img/2402f84d.png",
@@ -531,15 +540,6 @@
       "title": "Jimena Barón vivió un desesperante momento en un hotel de Miami: \"Nos robaron\"",
       "volanta": "INSEGURIDAD",
       "date": "2026-07-15T14:59:04+00:00"
-    },
-    {
-      "id": "c156c897",
-      "image": "img/c156c897.png",
-      "image_sha": "c7dbe179fa7618a1af3676ea663b71ff963f2e12",
-      "url": "https://www.radiodos.com.ar/210990-las-razones-historicas-detras-del-especial-apoyo-de-escocia-a-argentina-frente-a-inglaterra",
-      "title": "Las razones históricas detrás del especial apoyo de Escocia a Argentina frente a Inglaterra",
-      "volanta": "RIVALIDAD",
-      "date": "2026-07-15T14:49:23+00:00"
     }
   ]
 }
