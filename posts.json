@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T11:33:30+00:00",
+  "updated": "2026-07-17T12:01:22+00:00",
   "posts": [
+    {
+      "id": "ca4c543e",
+      "image": "img/ca4c543e.png",
+      "image_sha": "567ae93bb0acbc6f995b6cd1ae952e4f0908d1bf",
+      "url": "https://www.radiodos.com.ar/211065-desde-este-sabado-se-paga-el-plus-de-refuerzo-a-estatales-de-corrientes",
+      "title": "Desde éste sábado, se paga el Plus de Refuerzo a estatales de Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-07-17T12:01:22+00:00"
+    },
     {
       "id": "db51969b",
       "image": "img/db51969b.png",
@@ -531,15 +540,6 @@
       "title": "Canasta básica en alza: una familia necesitó más de $1.530.000 para no ser pobre",
       "volanta": "AUMENTO EN LOS PRECIOS",
       "date": "2026-07-14T21:27:20+00:00"
-    },
-    {
-      "id": "31275e33",
-      "image": "img/31275e33.png",
-      "image_sha": "a3898311a5939fba164356e43d28887317f8a41e",
-      "url": "https://www.radiodos.com.ar/210955-la-muni-en-tu-barrio-acerco-servicios-integrales-a-vecinos-del-pirayui-nuevo-y-zonas-aledanas",
-      "title": "La Muni en Tu Barrio acercó servicios integrales a vecinos del Pirayuí Nuevo y zonas aledañas",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-14T21:24:51+00:00"
     }
   ]
 }
