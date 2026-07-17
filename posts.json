@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T18:13:37+00:00",
+  "updated": "2026-07-17T20:35:27+00:00",
   "posts": [
+    {
+      "id": "e0143b94",
+      "image": "img/e0143b94.png",
+      "image_sha": "58942f561aa3443616c391fd28792d6c9b4e6ad2",
+      "url": "https://www.radiodos.com.ar/211105-la-ciudad-de-corrientes-despliega-una-amplia-agenda-gratuita-para-disfrutar-el-primer-fin-de-semana-del-receso-invernal",
+      "title": "La Ciudad de Corrientes despliega una amplia agenda gratuita para disfrutar el primer fin de semana del receso invernal",
+      "volanta": "VACACIONES DE INVIERNO",
+      "date": "2026-07-17T20:35:27+00:00"
+    },
     {
       "id": "ade4a601",
       "image": "img/ade4a601.png",
@@ -531,15 +540,6 @@
       "title": "Los 11 de Lionel Scaloni para la trascendental semifinal ante Inglaterra",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-15T18:04:02+00:00"
-    },
-    {
-      "id": "b9d9f591",
-      "image": "img/b9d9f591.png",
-      "image_sha": "bf871c7843f41769aebe28deaadfe8b2924deca7",
-      "url": "https://www.radiodos.com.ar/210986-jimena-baron-vivio-un-desesperante-momento-en-un-hotel-de-miami-nos-robaron",
-      "title": "Jimena Barón vivió un desesperante momento en un hotel de Miami: \"Nos robaron\"",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-07-15T14:59:04+00:00"
     }
   ]
 }
