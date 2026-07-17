@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T22:56:15+00:00",
+  "updated": "2026-07-17T22:57:50+00:00",
   "posts": [
+    {
+      "id": "8d9d28cc",
+      "image": "img/8d9d28cc.png",
+      "image_sha": "e02ef5afe49251ba60e448fe3638247c2c601f0f",
+      "url": "https://www.radiodos.com.ar/211112-el-mensaje-de-la-muni-antes-del-domingo-alentemos-y-celebremos-nuestros-colores-pero-cuidandonos-entre-todos-y-cuidando-la-ciudad",
+      "title": "El mensaje de La Muni antes del domingo: \"Alentemos y celebremos nuestros colores, pero cuidándonos entre todos y cuidando la ciudad\"",
+      "volanta": "FINAL DEL MUNDIAL 2026",
+      "date": "2026-07-17T22:57:50+00:00"
+    },
     {
       "id": "a99a77dd",
       "image": "img/a99a77dd.png",
@@ -531,15 +540,6 @@
       "title": "Messi suma puntos para llevarse el Balón de Oro",
       "volanta": "Por la Última de leo",
       "date": "2026-07-16T12:19:42+00:00"
-    },
-    {
-      "id": "c6fb1e84",
-      "image": "img/c6fb1e84.png",
-      "image_sha": "055ca8459031b17459dd9a04f4fa1658d33b15bc",
-      "url": "https://www.radiodos.com.ar/211007-argentina-heroica-el-fan-fest-municipal-volvio-a-ser-cabala-para-un-historico-triunfo-ante-inglaterra",
-      "title": "Argentina heroica: el Fan Fest municipal volvió a ser cábala para un histórico triunfo ante Inglaterra",
-      "volanta": "EN LA ROTONDA",
-      "date": "2026-07-16T12:03:47+00:00"
     }
   ]
 }
