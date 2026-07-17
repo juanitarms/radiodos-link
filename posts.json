@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T14:32:02+00:00",
+  "updated": "2026-07-17T14:52:38+00:00",
   "posts": [
+    {
+      "id": "f0b87905",
+      "image": "img/f0b87905.png",
+      "image_sha": "56c6183a586574bb6970c20922d90ac6508eb462",
+      "url": "https://www.radiodos.com.ar/211090-mundial-2026-quien-cantara-el-himno-de-la-seleccion-argentina-antes-de-la-final-contra-espana",
+      "title": "Mundial 2026: quién cantará el himno de la Selección Argentina antes de la final contra España",
+      "volanta": "EXPECTATIVA",
+      "date": "2026-07-17T14:52:38+00:00"
+    },
     {
       "id": "ed0b7c92",
       "image": "img/ed0b7c92.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un hombre y secuestraron marihuana y dinero en efectivo",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-15T12:03:24+00:00"
-    },
-    {
-      "id": "3fcd0b69",
-      "image": "img/3fcd0b69.png",
-      "image_sha": "c81086f1ee5b046f8aa0bb5889b8cbe4dd84dc99",
-      "url": "https://www.radiodos.com.ar/210966-argentina-inglaterra-otra-vez-cerraran-la-costanera-sur-al-transito-y-haran-estrictos-controles",
-      "title": "Argentina-Inglaterra: otra vez cerrarán la Costanera Sur al tránsito y harán estrictos controles",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-15T11:07:56+00:00"
     }
   ]
 }
