@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T21:59:41+00:00",
+  "updated": "2026-07-17T22:56:15+00:00",
   "posts": [
+    {
+      "id": "a99a77dd",
+      "image": "img/a99a77dd.png",
+      "image_sha": "32cc0b09365ce479b84e776d9ccd7f466c9c6f9e",
+      "url": "https://www.radiodos.com.ar/211113-el-domingo-la-municipalidad-de-corrientes-adelanta-la-recoleccion-de-residuos-y-cooperara-en-el-operativo-vial-por-los-festejos",
+      "title": "El domingo, la Municipalidad de Corrientes adelanta la recolección de residuos y cooperará en el operativo vial por los festejos",
+      "volanta": "FINAL DEL MUNDIAL 2026",
+      "date": "2026-07-17T22:56:15+00:00"
+    },
     {
       "id": "c10f8ea0",
       "image": "img/c10f8ea0.png",
@@ -531,15 +540,6 @@
       "title": "Argentina heroica: el Fan Fest municipal volvió a ser cábala para un histórico triunfo ante Inglaterra",
       "volanta": "EN LA ROTONDA",
       "date": "2026-07-16T12:03:47+00:00"
-    },
-    {
-      "id": "886874a5",
-      "image": "img/886874a5.png",
-      "image_sha": "0f748a4c84a0b94660fde328bb2d30582e2e4334",
-      "url": "https://www.radiodos.com.ar/211003-una-multitud-celebra-en-itati-la-126-coronacion-pontificia-de-la-virgen-morena",
-      "title": "Una multitud celebra en Itatí la 126ª Coronación Pontificia de la Virgen Morena",
-      "volanta": "COBERTURA ESPECIAL",
-      "date": "2026-07-16T11:18:38+00:00"
     }
   ]
 }
