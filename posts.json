@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-16T22:41:46+00:00",
+  "updated": "2026-07-17T10:48:29+00:00",
   "posts": [
+    {
+      "id": "04ea526b",
+      "image": "img/04ea526b.png",
+      "image_sha": "d3ae31e974687105c3f2521a5c9f687a52a4b41b",
+      "url": "https://www.radiodos.com.ar/211060-copa-argentina-en-el-debut-del-vasco-arruabarrena-boca-gano-y-avanzo",
+      "title": "Copa Argentina: En el debut del Vasco Arruabarrena, Boca ganó y avanzó",
+      "volanta": "Inició la segunda etapa",
+      "date": "2026-07-17T10:48:29+00:00"
+    },
     {
       "id": "358d9d72",
       "image": "img/358d9d72.png",
@@ -531,15 +540,6 @@
       "title": "Desarrollan en la UNNE un ensayo molecular innovador para el diagnóstico de una micosis endémica de Latinoamérica",
       "volanta": "LOGRO DE ALCANCE INTERNACIONAL",
       "date": "2026-07-14T18:58:09+00:00"
-    },
-    {
-      "id": "b6137b18",
-      "image": "img/b6137b18.png",
-      "image_sha": "07d5abf434bb33e14a21bba87265cbe3f464cedd",
-      "url": "https://www.radiodos.com.ar/210951-video-una-enfermera-simulo-estar-embarazada-y-quiso-robar-una-beba-de-un-hospital-de-brasil",
-      "title": "Video: una enfermera simuló estar embarazada y quiso robar una beba de un hospital de Brasil",
-      "volanta": "BRASIL",
-      "date": "2026-07-14T18:57:37+00:00"
     }
   ]
 }
