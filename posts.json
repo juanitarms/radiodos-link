@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T13:58:10+00:00",
+  "updated": "2026-07-17T14:32:02+00:00",
   "posts": [
+    {
+      "id": "ed0b7c92",
+      "image": "img/ed0b7c92.png",
+      "image_sha": "98756aa45f574c8393926a3e50735277f14b5253",
+      "url": "https://www.radiodos.com.ar/211094-mundial-2026-arbitro-confirmado-para-la-final-de-la-seleccion-argentina-vs-espana",
+      "title": "Mundial 2026: árbitro confirmado para la final de la Selección Argentina vs. España",
+      "volanta": "EEUU",
+      "date": "2026-07-17T14:32:02+00:00"
+    },
     {
       "id": "cf8c16e2",
       "image": "img/cf8c16e2.png",
@@ -531,15 +540,6 @@
       "title": "Argentina-Inglaterra: otra vez cerrarán la Costanera Sur al tránsito y harán estrictos controles",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-15T11:07:56+00:00"
-    },
-    {
-      "id": "81ecff32",
-      "image": "img/81ecff32.png",
-      "image_sha": "26246393fcd9470622dfde8d254236ed8df1cdb3",
-      "url": "https://www.radiodos.com.ar/210965-escandalo-en-un-barrio-de-corrientes-por-un-profesor-particular-acusado-de-abusar-de-sus-alumnos",
-      "title": "Escándalo en un barrio de Corrientes por un profesor particular acusado de abusar de sus alumnos",
-      "volanta": "ZONA DEL LAGUNA SECA",
-      "date": "2026-07-15T10:48:17+00:00"
     }
   ]
 }
