@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T10:48:29+00:00",
+  "updated": "2026-07-17T10:53:29+00:00",
   "posts": [
+    {
+      "id": "0720df15",
+      "image": "img/0720df15.png",
+      "image_sha": "8dccb4ac7691eb0e011916e69012e92bfaf797f7",
+      "url": "https://www.radiodos.com.ar/211063-serias-demoras-en-el-transito-del-puente-corrientes-chaco",
+      "title": "Serias demoras en el tránsito del puente Corrientes-Chaco",
+      "volanta": "PRIMERAS COMPLICACIONES",
+      "date": "2026-07-17T10:53:29+00:00"
+    },
     {
       "id": "04ea526b",
       "image": "img/04ea526b.png",
@@ -531,15 +540,6 @@
       "title": "Santo Tomé llevó su talento al Teatro Vera con una función a sala llena de Don Quijote",
       "volanta": "DEL INTERIOR A LA CAPITAL",
       "date": "2026-07-14T19:16:29+00:00"
-    },
-    {
-      "id": "ac7e5208",
-      "image": "img/ac7e5208.png",
-      "image_sha": "ac325ab8c6297ee17c77ba72c094ba679f105cf7",
-      "url": "https://www.radiodos.com.ar/210953-desarrollan-en-la-unne-un-ensayo-molecular-innovador-para-el-diagnostico-de-una-micosis-endemica-de-latinoamerica",
-      "title": "Desarrollan en la UNNE un ensayo molecular innovador para el diagnóstico de una micosis endémica de Latinoamérica",
-      "volanta": "LOGRO DE ALCANCE INTERNACIONAL",
-      "date": "2026-07-14T18:58:09+00:00"
     }
   ]
 }
