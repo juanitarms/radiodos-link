@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T10:53:29+00:00",
+  "updated": "2026-07-17T11:14:51+00:00",
   "posts": [
+    {
+      "id": "3a557e15",
+      "image": "img/3a557e15.png",
+      "image_sha": "dbb50822d1dbd84f275dc1525402b2d6860c60c0",
+      "url": "https://www.radiodos.com.ar/211061-crisis-de-incluir-salud-el-norte-grande-se-abroquela-con-estrategias-comunes",
+      "title": "Crisis de Incluir Salud: el Norte Grande se abroquela con estrategias comunes",
+      "volanta": "BLOQUE REGIONAL",
+      "date": "2026-07-17T11:14:51+00:00"
+    },
     {
       "id": "0720df15",
       "image": "img/0720df15.png",
@@ -531,15 +540,6 @@
       "title": "La inflación de junio fue de 1,9% y alcanzó su nivel más bajo en diez meses",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-07-14T21:24:16+00:00"
-    },
-    {
-      "id": "d2d884ce",
-      "image": "img/d2d884ce.png",
-      "image_sha": "51640c2b08188dbe16ee7892473d6b2516ef81ac",
-      "url": "https://www.radiodos.com.ar/210952-santo-tome-llevo-su-talento-al-teatro-vera-con-una-funcion-a-sala-llena-de-don-quijote",
-      "title": "Santo Tomé llevó su talento al Teatro Vera con una función a sala llena de Don Quijote",
-      "volanta": "DEL INTERIOR A LA CAPITAL",
-      "date": "2026-07-14T19:16:29+00:00"
     }
   ]
 }
