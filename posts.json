@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-18T16:34:51+00:00",
+  "updated": "2026-07-18T19:13:26+00:00",
   "posts": [
+    {
+      "id": "f128e1e7",
+      "image": "img/f128e1e7.png",
+      "image_sha": "bca4c98e35c436409cbb2ff3d2b3e090d5d8f3dd",
+      "url": "https://www.radiodos.com.ar/211123-corrientes-muestra-todo-su-potencial-en-la-expo-rural-de-palermo",
+      "title": "Corrientes muestra todo su potencial en la Expo Rural de Palermo",
+      "volanta": "PRODUCCIÓN, INDUSTRIA, TURISMO Y DESARROLLO SOCIAL",
+      "date": "2026-07-18T19:13:26+00:00"
+    },
     {
       "id": "e13db8fd",
       "image": "img/e13db8fd.png",
@@ -531,15 +540,6 @@
       "title": "Cuti Romero respondió con dureza a las críticas de Gary Neville: \"Espero que cuando me retire...\"",
       "volanta": "CONTUNDENTE",
       "date": "2026-07-16T14:31:55+00:00"
-    },
-    {
-      "id": "989b4cc3",
-      "image": "img/989b4cc3.png",
-      "image_sha": "61edd55aa91e7042d58b8aba0e7759976162bfd4",
-      "url": "https://www.radiodos.com.ar/211021-finalizo-sin-mayores-inconvenientes-el-dispositivo-policial-en-corrientes-tras-los-festejos-por-la-seleccion",
-      "title": "Finalizó \"sin mayores inconvenientes\" el dispositivo policial en Corrientes tras los festejos por la Selección",
-      "volanta": "SIN PROBLEMAS",
-      "date": "2026-07-16T14:19:13+00:00"
     }
   ]
 }
