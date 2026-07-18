@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T23:11:05+00:00",
+  "updated": "2026-07-18T12:59:36+00:00",
   "posts": [
+    {
+      "id": "1c19311e",
+      "image": "img/1c19311e.png",
+      "image_sha": "e7c442e327f9abf97bfbe3065347ee2362a20a85",
+      "url": "https://www.radiodos.com.ar/211120-la-provincia-de-corrientes-intensifica-tareas-por-los-efectos-previstos-de-el-nino",
+      "title": "La Provincia de Corrientes intensifica tareas por los efectos previstos de El Niño",
+      "volanta": "COORDINACIÓN",
+      "date": "2026-07-18T12:59:36+00:00"
+    },
     {
       "id": "015b5e1c",
       "image": "img/015b5e1c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: la ilusión por \"la cuarta estrella\" en el altar de la Madre Morena",
       "volanta": "ITATÍ",
       "date": "2026-07-16T12:58:49+00:00"
-    },
-    {
-      "id": "088deceb",
-      "image": "img/088deceb.png",
-      "image_sha": "3b9d62e489c67381ec00a8015a81473733d48ec4",
-      "url": "https://www.radiodos.com.ar/211018-que-pasara-con-las-figuritas-despues-del-mundial",
-      "title": "¿Qué pasará con las figuritas después del Mundial?",
-      "volanta": "COLECCIONISMO",
-      "date": "2026-07-16T12:45:56+00:00"
     }
   ]
 }
