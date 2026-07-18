@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-18T16:34:11+00:00",
+  "updated": "2026-07-18T16:34:51+00:00",
   "posts": [
+    {
+      "id": "e13db8fd",
+      "image": "img/e13db8fd.png",
+      "image_sha": "0a8fd7d37c08805c6941aa4bb8f6a9cac4381846",
+      "url": "https://www.radiodos.com.ar/211124-en-cuatro-meses-cincuenta-personas-intentaron-suicidarse-en-el-puente-corrientes-chaco",
+      "title": "En cuatro meses, cincuenta personas intentaron suicidarse en el puente Corrientes-Chaco",
+      "volanta": "EL DRAMA DE LA SALUD MENTAL",
+      "date": "2026-07-18T16:34:51+00:00"
+    },
     {
       "id": "7b05e655",
       "image": "img/7b05e655.png",
@@ -531,15 +540,6 @@
       "title": "Finalizó \"sin mayores inconvenientes\" el dispositivo policial en Corrientes tras los festejos por la Selección",
       "volanta": "SIN PROBLEMAS",
       "date": "2026-07-16T14:19:13+00:00"
-    },
-    {
-      "id": "3d0f51a8",
-      "image": "img/3d0f51a8.png",
-      "image_sha": "f082a6503f35bd677b85200220b1f481068e1cad",
-      "url": "https://www.radiodos.com.ar/211028-bronca-a-flor-de-piel-el-cachetazo-que-jude-bellingham-le-metio-al-colo-barco-mientras-celebraba",
-      "title": "Bronca a flor de piel: el cachetazo que Jude Bellingham le metió al Colo Barco mientras celebraba",
-      "volanta": "DESUBICADO",
-      "date": "2026-07-16T14:02:36+00:00"
     }
   ]
 }
