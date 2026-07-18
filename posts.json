@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-18T12:59:36+00:00",
+  "updated": "2026-07-18T13:00:10+00:00",
   "posts": [
+    {
+      "id": "6169eeef",
+      "image": "img/6169eeef.png",
+      "image_sha": "e63e6541c8a82130bf7e863c5f0197eb8f036cbf",
+      "url": "https://www.radiodos.com.ar/211121-argentina-espana-nueva-york-espera-un-masivo-banderazo-con-mas-de-10-mil-hinchas-argentinos-en-times-square",
+      "title": "Argentina-España: Nueva York espera un masivo banderazo con más de 10 mil hinchas argentinos en Times Square",
+      "volanta": "FINAL DEL MUNDIAL 2026",
+      "date": "2026-07-18T13:00:10+00:00"
+    },
     {
       "id": "1c19311e",
       "image": "img/1c19311e.png",
@@ -531,15 +540,6 @@
       "title": "La divertida broma del Chiqui Tapia que hizo reír a Messi tras el pase de Argentina a la final",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-16T13:41:55+00:00"
-    },
-    {
-      "id": "a26a61cd",
-      "image": "img/a26a61cd.png",
-      "image_sha": "a1a7d194b1d4ea9265dfa787652b661b447d4df8",
-      "url": "https://www.radiodos.com.ar/211015-corrientes-la-ilusion-por-la-cuarta-estrella-en-el-altar-de-la-madre-morena",
-      "title": "Corrientes: la ilusión por \"la cuarta estrella\" en el altar de la Madre Morena",
-      "volanta": "ITATÍ",
-      "date": "2026-07-16T12:58:49+00:00"
     }
   ]
 }
