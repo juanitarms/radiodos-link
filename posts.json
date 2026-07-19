@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-19T14:03:44+00:00",
+  "updated": "2026-07-19T14:18:16+00:00",
   "posts": [
+    {
+      "id": "1d67be74",
+      "image": "img/1d67be74.png",
+      "image_sha": "4454cbb0b61f2f8c3d20cfa4d089ca23e80c3f15",
+      "url": "https://www.radiodos.com.ar/211152-argentina-juega-la-final-del-mundo-ante-espana-en-busca-del-bicampeonato",
+      "title": "Argentina juega la final del mundo ante España en busca del bicampeonato",
+      "volanta": "Vamos por la cuarta",
+      "date": "2026-07-19T14:18:16+00:00"
+    },
     {
       "id": "820d58a5",
       "image": "img/820d58a5.png",
@@ -531,15 +540,6 @@
       "title": "Tras allanamientos, secuestraron marihuana, dinero, celulares y detuvieron a un hombre",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-16T16:44:26+00:00"
-    },
-    {
-      "id": "cd28a9f4",
-      "image": "img/cd28a9f4.png",
-      "image_sha": "ec06826f22d2c4d2f663e92e6a271c1ae6e69d64",
-      "url": "https://www.radiodos.com.ar/211024-victoria-villarruel-y-patricia-bullrich-se-tiraron-con-todo-tras-la-epica-remontada-de-la-seleccion",
-      "title": "Victoria Villarruel y Patricia Bullrich se tiraron con todo tras la épica remontada de la Selección",
-      "volanta": "POLÉMICA",
-      "date": "2026-07-16T15:07:47+00:00"
     }
   ]
 }
