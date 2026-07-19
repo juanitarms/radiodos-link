@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-18T19:13:26+00:00",
+  "updated": "2026-07-19T12:43:30+00:00",
   "posts": [
+    {
+      "id": "828275a6",
+      "image": "img/828275a6.png",
+      "image_sha": "fee781de682950834c4949945bba1ec5e0890d78",
+      "url": "https://www.radiodos.com.ar/211142-las-dos-dudas-de-lionel-scaloni-para-la-final-segun-gaston-edul",
+      "title": "Las dos dudas de Lionel Scaloni para la final, según Gastón Edul",
+      "volanta": "MUNDIAL 2026",
+      "date": "2026-07-19T12:43:30+00:00"
+    },
     {
       "id": "f128e1e7",
       "image": "img/f128e1e7.png",
@@ -531,15 +540,6 @@
       "title": "La historia de la bandera por Malvinas tras Argentina-Inglaterra: \"un auxiliar se la acercó a los jugadores\"",
       "volanta": "CACOTO GOLD",
       "date": "2026-07-16T14:48:48+00:00"
-    },
-    {
-      "id": "d6d612cf",
-      "image": "img/d6d612cf.png",
-      "image_sha": "56e5a0ff64f501f8dae0a876f35a384fd0f61322",
-      "url": "https://www.radiodos.com.ar/211031-cuti-romero-respondio-con-dureza-a-las-criticas-de-gary-neville-espero-que-cuando-me-retire",
-      "title": "Cuti Romero respondió con dureza a las críticas de Gary Neville: \"Espero que cuando me retire...\"",
-      "volanta": "CONTUNDENTE",
-      "date": "2026-07-16T14:31:55+00:00"
     }
   ]
 }
