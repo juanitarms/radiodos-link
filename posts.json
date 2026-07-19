@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-19T15:34:58+00:00",
+  "updated": "2026-07-19T19:34:08+00:00",
   "posts": [
+    {
+      "id": "21d154c0",
+      "image": "img/21d154c0.png",
+      "image_sha": "c6c6daf8720626060b55530a32a6743ea8a22ead",
+      "url": "https://www.radiodos.com.ar/211158-mundial-2026-ya-se-juega-la-final-entre-espana-y-argentins",
+      "title": "Mundial 2026: Ya se juega la final entre España y Argentins",
+      "volanta": "New Jersey",
+      "date": "2026-07-19T19:34:08+00:00"
+    },
     {
       "id": "0a47eae0",
       "image": "img/0a47eae0.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de Lisandro Martínez sobre la bandera de Malvinas: \"No podíamos fallarle al pueblo argentino\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-16T16:45:36+00:00"
-    },
-    {
-      "id": "f519e1fc",
-      "image": "img/f519e1fc.png",
-      "image_sha": "dc7dff8c2eb0fd704c3cee1b22d0145cdad1b4d5",
-      "url": "https://www.radiodos.com.ar/211034-bellingham-explico-su-cruce-con-messi-en-la-semifinal-y-le-bajo-el-tono-no-fue-nada-malo",
-      "title": "Bellingham explicó su cruce con Messi en la semifinal y le bajó el tono: \"No fue nada malo\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-16T16:45:01+00:00"
     }
   ]
 }
