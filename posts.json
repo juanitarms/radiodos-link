@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T20:23:30+00:00",
+  "updated": "2026-07-20T20:33:59+00:00",
   "posts": [
+    {
+      "id": "6ce7b377",
+      "image": "img/6ce7b377.png",
+      "image_sha": "5157ed272680f15e418235f4261362a0b266139d",
+      "url": "https://www.radiodos.com.ar/211174-dos-detenidos-tras-homicidio-en-el-interior-de-corrientes",
+      "title": "Dos detenidos tras homicidio en el interior de Corrientes",
+      "volanta": "EN GOYA",
+      "date": "2026-07-20T20:33:59+00:00"
+    },
     {
       "id": "573718c9",
       "image": "img/573718c9.png",
@@ -531,15 +540,6 @@
       "title": "Monseñor Larregain, en Itatí: \"Nuestra Madre siempre nos recuerda que Dios cumple sus promesas y que nunca abandona a sus hijos\"",
       "volanta": "DIA DE LA CORONACION PONTIFICIA DE LA VIRGEN DE ITATI",
       "date": "2026-07-16T21:39:26+00:00"
-    },
-    {
-      "id": "e6d0437f",
-      "image": "img/e6d0437f.png",
-      "image_sha": "bdb5363a32630d39da21ac3abb8b1acca4a0d018",
-      "url": "https://www.radiodos.com.ar/211049-los-kelpers-cuestionaron-a-la-seleccion-argentina-por-la-bandera-de-malvinas",
-      "title": "Los kelpers cuestionaron a la selección Argentina por la bandera de Malvinas",
-      "volanta": "Tensión diplomática",
-      "date": "2026-07-16T21:36:26+00:00"
     }
   ]
 }
