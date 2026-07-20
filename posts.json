@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T12:35:11+00:00",
+  "updated": "2026-07-20T13:05:53+00:00",
   "posts": [
+    {
+      "id": "5adcbf30",
+      "image": "img/5adcbf30.png",
+      "image_sha": "2f80c5f73f0cb8be04554e3570b17c1ec25b3294",
+      "url": "https://www.radiodos.com.ar/211166-un-correntino-afortunado-acerto-el-quini-6-cuantos-millones-gano-y-de-donde-es",
+      "title": "Un correntino afortunado acertó el Quini 6: cuántos millones ganó y de dónde es",
+      "volanta": "MODALIDAD REVANCHA",
+      "date": "2026-07-20T13:05:53+00:00"
+    },
     {
       "id": "b720ae9d",
       "image": "img/b720ae9d.png",
@@ -531,15 +540,6 @@
       "title": "El efusivo festejo de Antonela Roccuzzo al ritmo de la hinchada argentina: \"El que no salta es un inglés\"",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-16T17:21:39+00:00"
-    },
-    {
-      "id": "b60e0acc",
-      "image": "img/b60e0acc.png",
-      "image_sha": "1c1c26f0827420f4d9b6220e2db0f8720e22c8c1",
-      "url": "https://www.radiodos.com.ar/211037-el-romantico-gesto-de-tini-stoessel-con-rodrigo-de-paul-despues-del-triunfo-contra-inglaterra",
-      "title": "El romántico gesto de Tini Stoessel con Rodrigo De Paul después del triunfo contra Inglaterra",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-16T17:21:05+00:00"
     }
   ]
 }
