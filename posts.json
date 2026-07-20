@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T14:46:44+00:00",
+  "updated": "2026-07-20T20:21:14+00:00",
   "posts": [
+    {
+      "id": "9349de47",
+      "image": "img/9349de47.png",
+      "image_sha": "f63b1399ab446d10139d937249e36cb004041d70",
+      "url": "https://www.radiodos.com.ar/211177-fallecio-otro-embarcadizo-de-corrientes-en-el-mar-argentino-",
+      "title": "Falleció otro embarcadizo de Corrientes en el Mar Argentino",
+      "volanta": "DRAMA EN EL MAR",
+      "date": "2026-07-20T20:21:14+00:00"
+    },
     {
       "id": "7bf9be22",
       "image": "img/7bf9be22.png",
@@ -531,15 +540,6 @@
       "title": "La Virgen de Itatí y la Virgen de Caacupé: Argentina y Paraguay unidos hoy por María",
       "volanta": "16 DE JULIO",
       "date": "2026-07-16T20:25:33+00:00"
-    },
-    {
-      "id": "94b96f79",
-      "image": "img/94b96f79.png",
-      "image_sha": "223118b5dfb87b8b8deb8954af71b440f9146017",
-      "url": "https://www.radiodos.com.ar/211046-donald-trump-asistira-a-la-final-del-mundial-entre-argentina-y-espana",
-      "title": "Donald Trump asistirá a la final del Mundial entre Argentina y España",
-      "volanta": "EL DOMINGO",
-      "date": "2026-07-16T20:23:40+00:00"
     }
   ]
 }
