@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T21:48:30+00:00",
+  "updated": "2026-07-20T21:49:35+00:00",
   "posts": [
+    {
+      "id": "df514025",
+      "image": "img/df514025.png",
+      "image_sha": "205ea945d42208e48f3573a3d8bbb79a7b49a85a",
+      "url": "https://www.radiodos.com.ar/211185-cordoba-un-hombre-con-libertad-condicional-volvio-a-atacar-y-mato-a-su-expareja",
+      "title": "Córdoba: un hombre con libertad condicional, volvió a atacar y mató a su expareja",
+      "volanta": "FEMICIDIO",
+      "date": "2026-07-20T21:49:35+00:00"
+    },
     {
       "id": "952c66ae",
       "image": "img/952c66ae.png",
@@ -531,15 +540,6 @@
       "title": "Pese a la Reforma Laboral, cayó el empleo registrado y subió el trabajo informal",
       "volanta": "ECONOMÍA LIBERTARIA",
       "date": "2026-07-16T22:41:46+00:00"
-    },
-    {
-      "id": "197fadba",
-      "image": "img/197fadba.png",
-      "image_sha": "60562d913ab9cd9bc103768495ee9d3cec5a792f",
-      "url": "https://www.radiodos.com.ar/211058-explotaron-un-6000-las-busquedas-de-vuelos-a-nueva-york-para-ver-a-la-seleccion-argentina",
-      "title": "Explotaron un 6.000% las búsquedas de vuelos a Nueva York para ver a la Selección Argentina",
-      "volanta": "FIEBRE MUNDIALISTA",
-      "date": "2026-07-16T22:40:36+00:00"
     }
   ]
 }
