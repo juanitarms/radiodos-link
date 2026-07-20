@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T13:41:20+00:00",
+  "updated": "2026-07-20T14:01:29+00:00",
   "posts": [
+    {
+      "id": "0bdf99e6",
+      "image": "img/0bdf99e6.png",
+      "image_sha": "983edc562da570c8b9821a552ff168ca7f6432e8",
+      "url": "https://www.radiodos.com.ar/211172-que-futbolistas-de-la-seleccion-argentina-viajan-en-el-avion-que-aterrizara-hoy-en-ezeiza-tras-la-final-del-mundial",
+      "title": "Qué futbolistas de la Selección Argentina viajan en el avión que aterrizará hoy en Ezeiza tras la final del Mundial",
+      "volanta": "TRAS LA FINAL",
+      "date": "2026-07-20T14:01:29+00:00"
+    },
     {
       "id": "e2242486",
       "image": "img/e2242486.png",
@@ -531,15 +540,6 @@
       "title": "La UNNE en la Bienal 2026: variadas propuestas en el stand Sinergia y el V Congreso de Artes",
       "volanta": "DEL 17 AL 26 DE JULIO EN RESISTENCIA",
       "date": "2026-07-16T19:20:50+00:00"
-    },
-    {
-      "id": "794260a4",
-      "image": "img/794260a4.png",
-      "image_sha": "b1888c9e4c17311e1e2752de4ac82ae54f71b76b",
-      "url": "https://www.radiodos.com.ar/211043-carlos-maria-zarate-nunca-dejen-de-sonar-eso-fue-lo-que-me-trajo-hasta-aca",
-      "title": "Carlos María Zárate: \"Nunca dejen de soñar; eso fue lo que me trajo hasta acá\"",
-      "volanta": "TENIS",
-      "date": "2026-07-16T19:20:15+00:00"
     }
   ]
 }
