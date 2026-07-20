@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T12:03:39+00:00",
+  "updated": "2026-07-20T12:35:11+00:00",
   "posts": [
+    {
+      "id": "b720ae9d",
+      "image": "img/b720ae9d.png",
+      "image_sha": "2d2a28096e27e650d067ef28501cd3d88c0c91fc",
+      "url": "https://www.radiodos.com.ar/211168-dia-del-amigo-por-que-se-celebra-el-20-de-julio-en-argentina",
+      "title": "Día del Amigo: ¿por qué se celebra el 20 de julio en Argentina?",
+      "volanta": "FESTEJO",
+      "date": "2026-07-20T12:35:11+00:00"
+    },
     {
       "id": "f57cf6b1",
       "image": "img/f57cf6b1.png",
@@ -531,15 +540,6 @@
       "title": "El romántico gesto de Tini Stoessel con Rodrigo De Paul después del triunfo contra Inglaterra",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-16T17:21:05+00:00"
-    },
-    {
-      "id": "9441bb38",
-      "image": "img/9441bb38.png",
-      "image_sha": "7adcaaede5225db4b1bfb9e8bcb5b91ed4205cdf",
-      "url": "https://www.radiodos.com.ar/211038-el-exabrupto-de-manuel-ibero-en-gran-hermano-que-encendio-las-redes-lamentablemente-hay-mas-mujeres",
-      "title": "El exabrupto de Manuel Ibero en Gran Hermano que encendió las redes: \"Lamentablemente, hay más mujeres...\"",
-      "volanta": "POLÉMICA",
-      "date": "2026-07-16T17:20:28+00:00"
     }
   ]
 }
