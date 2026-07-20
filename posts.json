@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T23:22:37+00:00",
+  "updated": "2026-07-20T23:24:16+00:00",
   "posts": [
+    {
+      "id": "493e91c0",
+      "image": "img/493e91c0.png",
+      "image_sha": "904d6fefa60bfe8e3d53f037715e3cb4fc7c8e31",
+      "url": "https://www.radiodos.com.ar/211189-la-balanza-comercial-arrojo-un-superavit-de-us-2194-millones-en-junio",
+      "title": "La balanza comercial arrojó un superávit de US$ 2.194 millones en junio",
+      "volanta": "numero oficiales",
+      "date": "2026-07-20T23:24:16+00:00"
+    },
     {
       "id": "72a883da",
       "image": "img/72a883da.png",
@@ -531,15 +540,6 @@
       "title": "Crisis de Incluir Salud: el Norte Grande se abroquela con estrategias comunes",
       "volanta": "BLOQUE REGIONAL",
       "date": "2026-07-17T11:14:51+00:00"
-    },
-    {
-      "id": "0720df15",
-      "image": "img/0720df15.png",
-      "image_sha": "8dccb4ac7691eb0e011916e69012e92bfaf797f7",
-      "url": "https://www.radiodos.com.ar/211063-serias-demoras-en-el-transito-del-puente-corrientes-chaco",
-      "title": "Serias demoras en el tránsito del puente Corrientes-Chaco",
-      "volanta": "PRIMERAS COMPLICACIONES",
-      "date": "2026-07-17T10:53:29+00:00"
     }
   ]
 }
