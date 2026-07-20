@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T11:23:49+00:00",
+  "updated": "2026-07-20T12:03:39+00:00",
   "posts": [
+    {
+      "id": "f57cf6b1",
+      "image": "img/f57cf6b1.png",
+      "image_sha": "131e06e3800f834b68cac5b1d4cca25d919dd29b",
+      "url": "https://www.radiodos.com.ar/211167-ruta-n°12-volco-un-camion-con-carga-de-tomates-y-morrones",
+      "title": "Ruta N°12: volcó un camión con carga de tomates y morrones",
+      "volanta": "ESQUINA",
+      "date": "2026-07-20T12:03:39+00:00"
+    },
     {
       "id": "e792064f",
       "image": "img/e792064f.png",
@@ -531,15 +540,6 @@
       "title": "El exabrupto de Manuel Ibero en Gran Hermano que encendió las redes: \"Lamentablemente, hay más mujeres...\"",
       "volanta": "POLÉMICA",
       "date": "2026-07-16T17:20:28+00:00"
-    },
-    {
-      "id": "44da34e5",
-      "image": "img/44da34e5.png",
-      "image_sha": "0925159ade7ee35222a46165ac9f84d5c3b2f5d7",
-      "url": "https://www.radiodos.com.ar/211039-la-manana-despues-de-la-hazana-la-foto-con-lionel-messi-que-posteo-rodrigo-de-paul",
-      "title": "La mañana después de la hazaña: la foto con Lionel Messi que posteó Rodrigo de Paul",
-      "volanta": "HERMOSA MAÑANA VERDAD",
-      "date": "2026-07-16T17:19:55+00:00"
     }
   ]
 }
