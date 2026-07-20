@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T20:35:10+00:00",
+  "updated": "2026-07-20T20:36:14+00:00",
   "posts": [
+    {
+      "id": "0178581d",
+      "image": "img/0178581d.png",
+      "image_sha": "7d9b6551a94cd452c1364c4dd90729e748627b84",
+      "url": "https://www.radiodos.com.ar/211180-el-26°-encuentro-de-ferias-francas-ofrecera-una-gran-vidriera-para-la-produccion-correntina",
+      "title": "El 26° Encuentro de Ferias Francas ofrecerá una gran vidriera para la producción correntina",
+      "volanta": "PRESENTACIÓN EN CASA DE GOBIERNO",
+      "date": "2026-07-20T20:36:14+00:00"
+    },
     {
       "id": "8eb8a6ba",
       "image": "img/8eb8a6ba.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: cayó un menor que robó una moto e intentaba desarmarla",
       "volanta": "PASO DE LA PATRIA",
       "date": "2026-07-16T21:41:40+00:00"
-    },
-    {
-      "id": "944d5c24",
-      "image": "img/944d5c24.png",
-      "image_sha": "f419b0861840f419898aad8623dc68f1a0581be6",
-      "url": "https://www.radiodos.com.ar/211052-sol-y-luna-vuelven-a-la-naturaleza-en-corrientes",
-      "title": "Sol y Luna vuelven a la naturaleza en Corrientes",
-      "volanta": "IBERÁ",
-      "date": "2026-07-16T21:40:38+00:00"
     }
   ]
 }
