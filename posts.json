@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T21:06:29+00:00",
+  "updated": "2026-07-20T21:48:30+00:00",
   "posts": [
+    {
+      "id": "952c66ae",
+      "image": "img/952c66ae.png",
+      "image_sha": "90131c00c48673faa48ebd36f732eb1aa318183e",
+      "url": "https://www.radiodos.com.ar/211186-marcos-pereda-no-podemos-aceptar-que-un-grupo-de-dirigentes-se-quede-con-la-sociedad-rural",
+      "title": "Marcos Pereda: \"No podemos aceptar que un grupo de dirigentes se quede con la Sociedad Rural\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-07-20T21:48:30+00:00"
+    },
     {
       "id": "62fe8f85",
       "image": "img/62fe8f85.png",
@@ -531,15 +540,6 @@
       "title": "Explotaron un 6.000% las búsquedas de vuelos a Nueva York para ver a la Selección Argentina",
       "volanta": "FIEBRE MUNDIALISTA",
       "date": "2026-07-16T22:40:36+00:00"
-    },
-    {
-      "id": "022191b2",
-      "image": "img/022191b2.png",
-      "image_sha": "c36ee771e12f3067016539b08e5615ffaf58907f",
-      "url": "https://www.radiodos.com.ar/211056-caso-adorni-informe-clave-llega-a-la-causa-y-podria-complicar-la-situacion-del-exfuncionario",
-      "title": "Caso Adorni: informe clave llega a la causa y podría complicar la situación del exfuncionario",
-      "volanta": "SUPUESTO ENRIQUICIMIENTO ILICITO",
-      "date": "2026-07-16T22:32:57+00:00"
     }
   ]
 }
