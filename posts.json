@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T14:24:25+00:00",
+  "updated": "2026-07-20T14:46:44+00:00",
   "posts": [
+    {
+      "id": "7bf9be22",
+      "image": "img/7bf9be22.png",
+      "image_sha": "3507d20abe021f8dfe403820394b77fe075ce6ab",
+      "url": "https://www.radiodos.com.ar/211173-jp-valdes-adelanto-temas-que-tratara-con-nacion-corredor-belgrano-mantenimiento-de-puertos-y-segundo-puente",
+      "title": "JP Valdés adelantó temas que tratará con Nación: corredor Belgrano, mantenimiento de puertos y segundo puente",
+      "volanta": "GOBERNADOR",
+      "date": "2026-07-20T14:46:44+00:00"
+    },
     {
       "id": "992975a1",
       "image": "img/992975a1.png",
@@ -531,15 +540,6 @@
       "title": "Donald Trump asistirá a la final del Mundial entre Argentina y España",
       "volanta": "EL DOMINGO",
       "date": "2026-07-16T20:23:40+00:00"
-    },
-    {
-      "id": "d4b833d7",
-      "image": "img/d4b833d7.png",
-      "image_sha": "7f1c1ae1848e94671185e86c030ec4a92ec471e6",
-      "url": "https://www.radiodos.com.ar/211045-el-gobierno-de-corrientes-acompano-la-celebracion-del-126°-aniversario-de-la-coronacion-pontificia-de-la-virgen-de-itati",
-      "title": "El Gobierno de Corrientes acompañó la celebración del 126° aniversario de la Coronación Pontificia de la Virgen de Itatí",
-      "volanta": "ESTE JUEVES",
-      "date": "2026-07-16T20:21:03+00:00"
     }
   ]
 }
