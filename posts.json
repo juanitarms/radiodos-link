@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T20:36:14+00:00",
+  "updated": "2026-07-20T20:37:10+00:00",
   "posts": [
+    {
+      "id": "e77c1acf",
+      "image": "img/e77c1acf.png",
+      "image_sha": "ae4393ee067036f45c263b41bb94c680b3dcfacb",
+      "url": "https://www.radiodos.com.ar/211179-se-encuentra-en-funcionamiento-la-nueva-oficina-comercial-de-la-dpec-en-el-sur-de-la-ciudad",
+      "title": "Se encuentra en funcionamiento la nueva oficina comercial de la DPEC en el sur de la ciudad",
+      "volanta": "BARRIO 17 DE AGOSTO",
+      "date": "2026-07-20T20:37:10+00:00"
+    },
     {
       "id": "0178581d",
       "image": "img/0178581d.png",
@@ -531,15 +540,6 @@
       "title": "Llevaban una vaca entera faenada en el asiento trasero de un auto y terminaron detenidos",
       "volanta": "ABIGEATO",
       "date": "2026-07-16T21:44:52+00:00"
-    },
-    {
-      "id": "54dfa48c",
-      "image": "img/54dfa48c.png",
-      "image_sha": "7e09c289fa9a3cf9cbd1d475fe06c415f93ddc33",
-      "url": "https://www.radiodos.com.ar/211051-corrientes-cayo-un-menor-que-robo-una-moto-e-intentaba-desarmarla",
-      "title": "Corrientes: cayó un menor que robó una moto e intentaba desarmarla",
-      "volanta": "PASO DE LA PATRIA",
-      "date": "2026-07-16T21:41:40+00:00"
     }
   ]
 }
