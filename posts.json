@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T21:49:35+00:00",
+  "updated": "2026-07-20T21:50:08+00:00",
   "posts": [
+    {
+      "id": "a58ab509",
+      "image": "img/a58ab509.png",
+      "image_sha": "1d972470cf52f72baf6b407cc6577a47acd8d173",
+      "url": "https://www.radiodos.com.ar/211187-emma-necesita-de-todos-impulsan-una-cadena-de-fe-por-una-nina-trasplantada-de-higado",
+      "title": "Emma necesita de todos: impulsan una cadena de fe por una niña trasplantada de hígado",
+      "volanta": "CORRENTINA",
+      "date": "2026-07-20T21:50:08+00:00"
+    },
     {
       "id": "df514025",
       "image": "img/df514025.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina: En el debut del Vasco Arruabarrena, Boca ganó y avanzó",
       "volanta": "Inició la segunda etapa",
       "date": "2026-07-17T10:48:29+00:00"
-    },
-    {
-      "id": "358d9d72",
-      "image": "img/358d9d72.png",
-      "image_sha": "b88d51321095c0c02ec655baf856c4f800703434",
-      "url": "https://www.radiodos.com.ar/211057-pese-a-la-reforma-laboral-cayo-el-empleo-registrado-y-subio-el-trabajo-informal",
-      "title": "Pese a la Reforma Laboral, cayó el empleo registrado y subió el trabajo informal",
-      "volanta": "ECONOMÍA LIBERTARIA",
-      "date": "2026-07-16T22:41:46+00:00"
     }
   ]
 }
