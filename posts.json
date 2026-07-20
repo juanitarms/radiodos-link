@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T14:01:29+00:00",
+  "updated": "2026-07-20T14:24:25+00:00",
   "posts": [
+    {
+      "id": "992975a1",
+      "image": "img/992975a1.png",
+      "image_sha": "37e716dd46c64c6a74c0fc8fa8b3143eb8b0e013",
+      "url": "https://www.radiodos.com.ar/211171-el-mensaje-de-callejero-fino-que-es-viral-el-partido-mas-importante-de-la-seleccion-fue-con-inglaterra",
+      "title": "El mensaje de Callejero Fino que es viral: \"El partido más importante de la Selección fue con Inglaterra\"",
+      "volanta": "TRAS LA FINAL",
+      "date": "2026-07-20T14:24:25+00:00"
+    },
     {
       "id": "0bdf99e6",
       "image": "img/0bdf99e6.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes acompañó la celebración del 126° aniversario de la Coronación Pontificia de la Virgen de Itatí",
       "volanta": "ESTE JUEVES",
       "date": "2026-07-16T20:21:03+00:00"
-    },
-    {
-      "id": "b1e91f39",
-      "image": "img/b1e91f39.png",
-      "image_sha": "1a086e739c4cc4c51ada55ac7e05497352a3899a",
-      "url": "https://www.radiodos.com.ar/211044-la-unne-en-la-bienal-2026-variadas-propuestas-en-el-stand-sinergia-y-el-v-congreso-de-artes",
-      "title": "La UNNE en la Bienal 2026: variadas propuestas en el stand Sinergia y el V Congreso de Artes",
-      "volanta": "DEL 17 AL 26 DE JULIO EN RESISTENCIA",
-      "date": "2026-07-16T19:20:50+00:00"
     }
   ]
 }
