@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T13:05:53+00:00",
+  "updated": "2026-07-20T13:41:20+00:00",
   "posts": [
+    {
+      "id": "e2242486",
+      "image": "img/e2242486.png",
+      "image_sha": "18940e9ff25f597a1319d78b56b43933f4a47a08",
+      "url": "https://www.radiodos.com.ar/211170-quejas-en-riachuelo-por-reiterativos-cortes-de-luz-y-baja-tension",
+      "title": "Quejas en Riachuelo por reiterativos cortes de luz y baja tensión",
+      "volanta": "HACE DOS MESES",
+      "date": "2026-07-20T13:41:20+00:00"
+    },
     {
       "id": "5adcbf30",
       "image": "img/5adcbf30.png",
@@ -531,15 +540,6 @@
       "title": "Carlos María Zárate: \"Nunca dejen de soñar; eso fue lo que me trajo hasta acá\"",
       "volanta": "TENIS",
       "date": "2026-07-16T19:20:15+00:00"
-    },
-    {
-      "id": "18d2b6f0",
-      "image": "img/18d2b6f0.png",
-      "image_sha": "f291fb17f3cb7da9c9059deb58606c8e61afee67",
-      "url": "https://www.radiodos.com.ar/211036-el-efusivo-festejo-de-antonela-roccuzzo-al-ritmo-de-la-hinchada-argentina-el-que-no-salta-es-un-ingles",
-      "title": "El efusivo festejo de Antonela Roccuzzo al ritmo de la hinchada argentina: \"El que no salta es un inglés\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-16T17:21:39+00:00"
     }
   ]
 }
