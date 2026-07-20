@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T11:02:15+00:00",
+  "updated": "2026-07-20T11:23:49+00:00",
   "posts": [
+    {
+      "id": "e792064f",
+      "image": "img/e792064f.png",
+      "image_sha": "281e35952024556f5757be2fd4ef0f43b18f83b6",
+      "url": "https://www.radiodos.com.ar/211161-genios-mas-alla-de-la-cancha-cuti-romero-y-lisandro-martinez-le-negaron-el-saludo-a-donald-trump",
+      "title": "Genios más allá de la cancha: \"Cuti\" Romero y Lisandro Martínez le negaron el saludo a Donald Trump",
+      "volanta": "VIDEO",
+      "date": "2026-07-20T11:23:49+00:00"
+    },
     {
       "id": "61c0a38a",
       "image": "img/61c0a38a.png",
@@ -531,15 +540,6 @@
       "title": "La mañana después de la hazaña: la foto con Lionel Messi que posteó Rodrigo de Paul",
       "volanta": "HERMOSA MAÑANA VERDAD",
       "date": "2026-07-16T17:19:55+00:00"
-    },
-    {
-      "id": "2e9dbfd9",
-      "image": "img/2e9dbfd9.png",
-      "image_sha": "63af153362c8a4666693e57d19824bdc41a82f1a",
-      "url": "https://www.radiodos.com.ar/211040-del-futbol-al-espectaculo-los-famosos-que-dijeron-presente-en-la-semifinal-entre-argentina-e-inglaterra",
-      "title": "Del fútbol al espectáculo: los famosos que dijeron presente en la semifinal entre Argentina e Inglaterra",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-16T16:46:08+00:00"
     }
   ]
 }
