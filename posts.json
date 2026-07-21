@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T11:29:12+00:00",
+  "updated": "2026-07-21T11:49:05+00:00",
   "posts": [
+    {
+      "id": "291dd139",
+      "image": "img/291dd139.png",
+      "image_sha": "ac281b4d7e894eb765da76331c37aec9c55e88d8",
+      "url": "https://www.radiodos.com.ar/211196-el-gobernador-jp-valdes-busca-aval-nacional-para-las-obras-de-los-puentes-alvear-itaqui-y-monte-caseros-bella-union",
+      "title": "El gobernador JP Valdés busca aval nacional para las obras de los puentes Alvear-Itaquí y Monte Caseros-Bella Unión",
+      "volanta": "REUNIÓN CON SANTILLI",
+      "date": "2026-07-21T11:49:05+00:00"
+    },
     {
       "id": "98fd9010",
       "image": "img/98fd9010.png",
@@ -531,15 +540,6 @@
       "title": "The Guardian reconoció lo que en Londres nadie admite: \"Las Malvinas no pueden ser británicas para siempre\"",
       "volanta": "AL FIN",
       "date": "2026-07-17T13:41:25+00:00"
-    },
-    {
-      "id": "740cb217",
-      "image": "img/740cb217.png",
-      "image_sha": "d73eecad9bb2015355ef26be6057fc3610667cba",
-      "url": "https://www.radiodos.com.ar/211074-javier-milei-asiste-al-acto-de-amia-a-32-anos-del-atentado-contra-la-mutual-judia",
-      "title": "Javier Milei asiste al acto de AMIA a 32 años del atentado contra la mutual judía",
-      "volanta": "ESTE VIERNES",
-      "date": "2026-07-17T12:56:57+00:00"
     }
   ]
 }
