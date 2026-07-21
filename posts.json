@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T14:51:58+00:00",
+  "updated": "2026-07-21T15:07:53+00:00",
   "posts": [
+    {
+      "id": "95a72c84",
+      "image": "img/95a72c84.png",
+      "image_sha": "830f804427b92768d3246a80904ab173245141a2",
+      "url": "https://www.radiodos.com.ar/211206-alejandro-fantino-echo-del-aire-a-un-ex-river-y-racing-por-machista",
+      "title": "Alejandro Fantino echó del aire a un ex River y Racing por machista",
+      "volanta": "Conductor radial",
+      "date": "2026-07-21T15:07:53+00:00"
+    },
     {
       "id": "4a1de820",
       "image": "img/4a1de820.png",
@@ -531,15 +540,6 @@
       "title": "Un golpe brutal, seis meses de agonía y un misterio absoluto: su familia exige respuestas",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-17T17:38:07+00:00"
-    },
-    {
-      "id": "41ecd039",
-      "image": "img/41ecd039.png",
-      "image_sha": "403817025773dc1575c023826f1eabfc179d3c70",
-      "url": "https://www.radiodos.com.ar/211101-galeria-imaginaria-en-el-macc-",
-      "title": "Galería Imaginaria en el MACC",
-      "volanta": "SHOW INMERSIVO",
-      "date": "2026-07-17T17:16:26+00:00"
     }
   ]
 }
