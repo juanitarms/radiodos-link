@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T22:21:59+00:00",
+  "updated": "2026-07-21T23:02:53+00:00",
   "posts": [
+    {
+      "id": "ac09bda5",
+      "image": "img/ac09bda5.png",
+      "image_sha": "0e1bf5bb77fbab8dfd635e18fce033214887ada9",
+      "url": "https://www.radiodos.com.ar/211218-indignacion-y-busqueda-activa-tras-el-grave-acoso-que-sufrio-una-empleada-dentro-de-un-comercio",
+      "title": "Indignación y búsqueda activa tras el grave acoso que sufrió una empleada dentro de un comercio",
+      "volanta": "Goya",
+      "date": "2026-07-21T23:02:53+00:00"
+    },
     {
       "id": "199ed48e",
       "image": "img/199ed48e.png",
@@ -531,15 +540,6 @@
       "title": "Ricky Sarkany en la 16ª Feria Provincial del Libro: \"En cada momento hay una oportunidad\"",
       "volanta": "CULTURA",
       "date": "2026-07-17T21:59:41+00:00"
-    },
-    {
-      "id": "c7c91c58",
-      "image": "img/c7c91c58.png",
-      "image_sha": "1b96a5feda3bc07d34f88968c6e35be3027e8f17",
-      "url": "https://www.radiodos.com.ar/211108-corrientes-peon-rural-le-robo-mas-de-15-m-de-pesos-a-su-patron-pero-fue-detenido-por-la-policia",
-      "title": "Corrientes: peón rural le robó más de 15 M de pesos a su patrón pero fue detenido por la Policía",
-      "volanta": "CAROLINA",
-      "date": "2026-07-17T21:15:06+00:00"
     }
   ]
 }
