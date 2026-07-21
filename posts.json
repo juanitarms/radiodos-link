@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T22:11:09+00:00",
+  "updated": "2026-07-21T22:21:59+00:00",
   "posts": [
+    {
+      "id": "199ed48e",
+      "image": "img/199ed48e.png",
+      "image_sha": "06154b34e904b9e9112123f358dfd24aec2a17f6",
+      "url": "https://www.radiodos.com.ar/211220-la-conduccion-partidaria-del-pa-garantiza-la-plena-continuidad-institucional",
+      "title": "La conducción partidaria del PA garantiza \"la plena continuidad institucional\"",
+      "volanta": "RECHAZAN PLANTEO",
+      "date": "2026-07-21T22:21:59+00:00"
+    },
     {
       "id": "b03c85da",
       "image": "img/b03c85da.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: peón rural le robó más de 15 M de pesos a su patrón pero fue detenido por la Policía",
       "volanta": "CAROLINA",
       "date": "2026-07-17T21:15:06+00:00"
-    },
-    {
-      "id": "3f9e0d34",
-      "image": "img/3f9e0d34.png",
-      "image_sha": "e9f67bf4a7c28c99736da4993b7b7af108e9ce71",
-      "url": "https://www.radiodos.com.ar/211106-la-inflacion-mayorista-se-desacelero-a-11-en-junio-y-acumulo-un-alza-de-156-en-lo-que-va-de-2026",
-      "title": "La inflación mayorista se desaceleró a 1,1% en junio y acumuló un alza de 15,6% en lo que va de 2026",
-      "volanta": "datos del indec",
-      "date": "2026-07-17T20:52:26+00:00"
     }
   ]
 }
