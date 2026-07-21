@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T22:10:06+00:00",
+  "updated": "2026-07-21T22:11:09+00:00",
   "posts": [
+    {
+      "id": "b03c85da",
+      "image": "img/b03c85da.png",
+      "image_sha": "0be491848bd93068c0d7a07e35a8dfd3e6d2f967",
+      "url": "https://www.radiodos.com.ar/211221-francia-prohibe-el-uso-de-redes-sociales-para-menores-de-15-anos",
+      "title": "Francia prohíbe el uso de redes sociales para menores de 15 años",
+      "volanta": "Restricciones digitales",
+      "date": "2026-07-21T22:11:09+00:00"
+    },
     {
       "id": "b6336e13",
       "image": "img/b6336e13.png",
@@ -531,15 +540,6 @@
       "title": "La inflación mayorista se desaceleró a 1,1% en junio y acumuló un alza de 15,6% en lo que va de 2026",
       "volanta": "datos del indec",
       "date": "2026-07-17T20:52:26+00:00"
-    },
-    {
-      "id": "d6742a13",
-      "image": "img/d6742a13.png",
-      "image_sha": "4d0685fdf02dacabeeb1ce5803ae0c67935ae77f",
-      "url": "https://www.radiodos.com.ar/211107-salud-publica-de-corrientes-realizo-mas-de-mil-atenciones-en-la-126-peregrinacion-de-san-luis-del-palmar-a-itati",
-      "title": "Salud Pública de Corrientes realizó más de mil atenciones en la 126ª Peregrinación de San Luis del Palmar a Itatí",
-      "volanta": "ACCION DIRECTA",
-      "date": "2026-07-17T20:41:13+00:00"
     }
   ]
 }
