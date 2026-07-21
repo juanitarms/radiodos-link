@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T22:08:16+00:00",
+  "updated": "2026-07-21T22:08:54+00:00",
   "posts": [
+    {
+      "id": "9c358439",
+      "image": "img/9c358439.png",
+      "image_sha": "107b37be73fc958d3e3129f5f4d2f9e6a80dfe3c",
+      "url": "https://www.radiodos.com.ar/211216-mas-prevencion-el-nuevo-desobstructor-ya-se-estreno-y-trabaja-en-la-limpieza-de-ductos-claves",
+      "title": "Más prevención: el nuevo desobstructor ya se estrenó y trabaja en la limpieza de ductos claves",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-21T22:08:54+00:00"
+    },
     {
       "id": "cb9761ba",
       "image": "img/cb9761ba.png",
@@ -531,15 +540,6 @@
       "title": "La Ciudad de Corrientes despliega una amplia agenda gratuita para disfrutar el primer fin de semana del receso invernal",
       "volanta": "VACACIONES DE INVIERNO",
       "date": "2026-07-17T20:35:27+00:00"
-    },
-    {
-      "id": "ade4a601",
-      "image": "img/ade4a601.png",
-      "image_sha": "ae3babf4a9a9b07bf1ccec44cd0d518ea301dec8",
-      "url": "https://www.radiodos.com.ar/211104-con-aporte-de-la-unne-se-volvera-a-medir-la-huella-de-carbono-en-pos-del-cuidado-ambiental",
-      "title": "Con aporte de la UNNE se volverá a medir la huella de carbono en pos del cuidado ambiental",
-      "volanta": "EN LA BIENAL DEL CHACO 2026",
-      "date": "2026-07-17T18:13:37+00:00"
     }
   ]
 }
