@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T21:08:57+00:00",
+  "updated": "2026-07-21T22:08:16+00:00",
   "posts": [
+    {
+      "id": "cb9761ba",
+      "image": "img/cb9761ba.png",
+      "image_sha": "1ca20e177c140f9e7be83546ce7cb112fd03da55",
+      "url": "https://www.radiodos.com.ar/211214-vecinos-evitaron-que-okupas-tomen-una-casa-en-un-barrio-de-corrientes",
+      "title": "Vecinos evitaron que \"okupas\" tomen una casa en un barrio de Corrientes",
+      "volanta": "BARRIO SANTA ROSA",
+      "date": "2026-07-21T22:08:16+00:00"
+    },
     {
       "id": "acbfa4da",
       "image": "img/acbfa4da.png",
@@ -531,15 +540,6 @@
       "title": "Con aporte de la UNNE se volverá a medir la huella de carbono en pos del cuidado ambiental",
       "volanta": "EN LA BIENAL DEL CHACO 2026",
       "date": "2026-07-17T18:13:37+00:00"
-    },
-    {
-      "id": "2402f84d",
-      "image": "img/2402f84d.png",
-      "image_sha": "5d797a5291a486ca6720bb0500e9c8b236689718",
-      "url": "https://www.radiodos.com.ar/211103-la-justicia-recibio-un-informe-que-marca-inconsistencias-y-le-pedira-explicaciones-a-manuel-adorni",
-      "title": "La Justicia recibió un informe que marca \"inconsistencias\" y le pedirá explicaciones a Manuel Adorni",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-17T18:12:59+00:00"
     }
   ]
 }
