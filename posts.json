@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T11:03:16+00:00",
+  "updated": "2026-07-21T11:12:14+00:00",
   "posts": [
+    {
+      "id": "8ae15f2f",
+      "image": "img/8ae15f2f.png",
+      "image_sha": "9f76040efb8bef574472c85e73edc385057e569d",
+      "url": "https://www.radiodos.com.ar/211193-bautista-mino-completo-en-el-cenard-la-concentracion-nacional-de-la-aat",
+      "title": "Bautista Miño completó en el CeNARD la concentración nacional de la AAT",
+      "volanta": "ORGULLO CORRENTINO",
+      "date": "2026-07-21T11:12:14+00:00"
+    },
     {
       "id": "88ccf806",
       "image": "img/88ccf806.png",
@@ -531,15 +540,6 @@
       "title": "Aguas de Corrientes recibió a más de 1.000 alumnos que conocieron el proceso de potabilización del agua",
       "volanta": "RECORRIDA",
       "date": "2026-07-17T12:17:55+00:00"
-    },
-    {
-      "id": "ca4c543e",
-      "image": "img/ca4c543e.png",
-      "image_sha": "567ae93bb0acbc6f995b6cd1ae952e4f0908d1bf",
-      "url": "https://www.radiodos.com.ar/211065-desde-este-sabado-se-paga-el-plus-de-refuerzo-a-estatales-de-corrientes",
-      "title": "Desde éste sábado, se paga el Plus de Refuerzo a estatales de Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-07-17T12:01:22+00:00"
     }
   ]
 }
