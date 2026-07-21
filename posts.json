@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T10:29:33+00:00",
+  "updated": "2026-07-21T11:03:16+00:00",
   "posts": [
+    {
+      "id": "88ccf806",
+      "image": "img/88ccf806.png",
+      "image_sha": "bdb421cfd8a5e8c863c3936eddaa1f9c19420f41",
+      "url": "https://www.radiodos.com.ar/211194-lionel-messi-llego-a-rosario-tras-disputar-la-final-del-mundial-2026",
+      "title": "Lionel Messi llegó a Rosario tras disputar la final del Mundial 2026",
+      "volanta": "CAPITÁN DE LA SELECCIÓN ARGENTINA",
+      "date": "2026-07-21T11:03:16+00:00"
+    },
     {
       "id": "af2de124",
       "image": "img/af2de124.png",
@@ -531,15 +540,6 @@
       "title": "Desde éste sábado, se paga el Plus de Refuerzo a estatales de Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-07-17T12:01:22+00:00"
-    },
-    {
-      "id": "db51969b",
-      "image": "img/db51969b.png",
-      "image_sha": "1931d9bdbc38cd5c818ec3500a6047164d2114e9",
-      "url": "https://www.radiodos.com.ar/211062-corrientes-secuestraron-camioneta-con-pedido-de-secuestro-en-cordoba",
-      "title": "Corrientes: secuestraron camioneta con pedido de secuestro en Córdoba",
-      "volanta": "RUTA 40",
-      "date": "2026-07-17T11:33:30+00:00"
     }
   ]
 }
