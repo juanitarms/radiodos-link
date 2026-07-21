@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T12:16:53+00:00",
+  "updated": "2026-07-21T12:34:02+00:00",
   "posts": [
+    {
+      "id": "75713a97",
+      "image": "img/75713a97.png",
+      "image_sha": "a1a7169105d5a9582e66fb0be8916bc497917363",
+      "url": "https://www.radiodos.com.ar/211197-anses-confirmo-el-aumento-para-jubilados-cuanto-podrian-cobrar-en-agosto",
+      "title": "ANSES confirmó el aumento para jubilados: cuánto podrían cobrar en agosto",
+      "volanta": "JUBILACIONES Y PENSIONES",
+      "date": "2026-07-21T12:34:02+00:00"
+    },
     {
       "id": "35c6199c",
       "image": "img/35c6199c.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: árbitro confirmado para la final de la Selección Argentina vs. España",
       "volanta": "EEUU",
       "date": "2026-07-17T14:32:02+00:00"
-    },
-    {
-      "id": "cf8c16e2",
-      "image": "img/cf8c16e2.png",
-      "image_sha": "a78317e5fcb8b6f6f8a50c914797528baafc1285",
-      "url": "https://www.radiodos.com.ar/211089-asi-sera-la-indumentaria-de-argentina-para-la-final-ante-espana-en-el-mundial",
-      "title": "Así será la indumentaria de Argentina para la final ante España en el Mundial",
-      "volanta": "ALBICELESTE",
-      "date": "2026-07-17T13:58:10+00:00"
     }
   ]
 }
