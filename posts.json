@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T14:28:54+00:00",
+  "updated": "2026-07-21T14:51:58+00:00",
   "posts": [
+    {
+      "id": "4a1de820",
+      "image": "img/4a1de820.png",
+      "image_sha": "4438853078a45d477a564f205347679f6d1a6c74",
+      "url": "https://www.radiodos.com.ar/211212-pronostican-alerta-por-tormentas-para-la-capital-y-varias-localidades",
+      "title": "Pronostican alerta por tormentas para la Capital y varias localidades",
+      "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
+      "date": "2026-07-21T14:51:58+00:00"
+    },
     {
       "id": "c44750e2",
       "image": "img/c44750e2.png",
@@ -531,15 +540,6 @@
       "title": "Galería Imaginaria en el MACC",
       "volanta": "SHOW INMERSIVO",
       "date": "2026-07-17T17:16:26+00:00"
-    },
-    {
-      "id": "0fedb6d1",
-      "image": "img/0fedb6d1.png",
-      "image_sha": "461d159621384337476176864ece7a3b94e54422",
-      "url": "https://www.radiodos.com.ar/211099-final-con-barbijo-nueva-york-en-alerta-por-la-contaminacion-en-el-aire-debido-al-humo-que-llega-desde-canada",
-      "title": "¿Final con barbijo? Nueva York en alerta por la contaminación en el aire debido al humo que llega desde Canadá",
-      "volanta": "¿QUÉ PASARÁ?",
-      "date": "2026-07-17T17:15:53+00:00"
     }
   ]
 }
