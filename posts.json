@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-20T23:24:16+00:00",
+  "updated": "2026-07-21T10:29:33+00:00",
   "posts": [
+    {
+      "id": "af2de124",
+      "image": "img/af2de124.png",
+      "image_sha": "46971d3ce0e28d2a638f4fafe5ce6c2b2bfe0e8f",
+      "url": "https://www.radiodos.com.ar/211190-una-multitud-recibio-a-la-seleccion-argentina-en-su-regreso-al-pais-tras-el-mundial-2026",
+      "title": "Una multitud recibió a la Selección Argentina en su regreso al país tras el Mundial 2026",
+      "volanta": "SUBCAMPEONES",
+      "date": "2026-07-21T10:29:33+00:00"
+    },
     {
       "id": "493e91c0",
       "image": "img/493e91c0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: secuestraron camioneta con pedido de secuestro en Córdoba",
       "volanta": "RUTA 40",
       "date": "2026-07-17T11:33:30+00:00"
-    },
-    {
-      "id": "3a557e15",
-      "image": "img/3a557e15.png",
-      "image_sha": "dbb50822d1dbd84f275dc1525402b2d6860c60c0",
-      "url": "https://www.radiodos.com.ar/211061-crisis-de-incluir-salud-el-norte-grande-se-abroquela-con-estrategias-comunes",
-      "title": "Crisis de Incluir Salud: el Norte Grande se abroquela con estrategias comunes",
-      "volanta": "BLOQUE REGIONAL",
-      "date": "2026-07-17T11:14:51+00:00"
     }
   ]
 }
