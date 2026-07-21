@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T11:12:14+00:00",
+  "updated": "2026-07-21T11:29:12+00:00",
   "posts": [
+    {
+      "id": "98fd9010",
+      "image": "img/98fd9010.png",
+      "image_sha": "7ad0ab5c13165ad5e57787d39580ea3c4721bb5e",
+      "url": "https://www.radiodos.com.ar/211195-corrientes-registra-menos-enfermedades-respiratorias",
+      "title": "Corrientes registra menos enfermedades respiratorias",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-07-21T11:29:12+00:00"
+    },
     {
       "id": "8ae15f2f",
       "image": "img/8ae15f2f.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei asiste al acto de AMIA a 32 años del atentado contra la mutual judía",
       "volanta": "ESTE VIERNES",
       "date": "2026-07-17T12:56:57+00:00"
-    },
-    {
-      "id": "54e2f00c",
-      "image": "img/54e2f00c.png",
-      "image_sha": "51f16ec5673fb3a1ae9ba2aa56601999e2027711",
-      "url": "https://www.radiodos.com.ar/211067-aguas-de-corrientes-recibio-a-mas-de-1000-alumnos-que-conocieron-el-proceso-de-potabilizacion-del-agua",
-      "title": "Aguas de Corrientes recibió a más de 1.000 alumnos que conocieron el proceso de potabilización del agua",
-      "volanta": "RECORRIDA",
-      "date": "2026-07-17T12:17:55+00:00"
     }
   ]
 }
