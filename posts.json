@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T20:25:14+00:00",
+  "updated": "2026-07-22T20:25:54+00:00",
   "posts": [
+    {
+      "id": "cacc7d77",
+      "image": "img/cacc7d77.png",
+      "image_sha": "c796675a636b5fbcb76de55b9cfa3c7f44177ab0",
+      "url": "https://www.radiodos.com.ar/211238-el-gobierno-nacional-presento-un-proyecto-para-arancelar-la-universidad-y-la-salud-para-extranjeros-sin-residencia",
+      "title": "El Gobierno Nacional presentó un proyecto para arancelar la universidad y la salud para extranjeros sin residencia",
+      "volanta": "EN BS AS",
+      "date": "2026-07-22T20:25:54+00:00"
+    },
     {
       "id": "b10e5bb7",
       "image": "img/b10e5bb7.png",
@@ -531,15 +540,6 @@
       "title": "Genios más allá de la cancha: \"Cuti\" Romero y Lisandro Martínez le negaron el saludo a Donald Trump",
       "volanta": "VIDEO",
       "date": "2026-07-20T11:23:49+00:00"
-    },
-    {
-      "id": "61c0a38a",
-      "image": "img/61c0a38a.png",
-      "image_sha": "625eeaa4f9b05033707425e6dcc72c2366a9a5c3",
-      "url": "https://www.radiodos.com.ar/211164-tormentas-en-corrientes-y-alerta-nivel-amarillo-en-parte-de-la-provincia",
-      "title": "Tormentas en Corrientes y alerta nivel amarillo en parte de la provincia",
-      "volanta": "Pronóstico",
-      "date": "2026-07-20T11:02:15+00:00"
     }
   ]
 }
