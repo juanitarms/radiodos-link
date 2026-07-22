@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T11:12:49+00:00",
+  "updated": "2026-07-22T11:34:17+00:00",
   "posts": [
+    {
+      "id": "529516a2",
+      "image": "img/529516a2.png",
+      "image_sha": "76f0121b0d128a5f9a8268ccfed2cc4dc3e1d7bf",
+      "url": "https://www.radiodos.com.ar/211225-son-26-las-familias-rurales-asistidas-por-el-desborde-de-un-arroyo-en-el-interior-de-corrientes",
+      "title": "Son 26 las familias rurales asistidas por el desborde de un arroyo en el interior de Corrientes",
+      "volanta": "EL NIÑO",
+      "date": "2026-07-22T11:34:17+00:00"
+    },
     {
       "id": "dea8b6e0",
       "image": "img/dea8b6e0.png",
@@ -531,15 +540,6 @@
       "title": "Argentina-España: Nueva York espera un masivo banderazo con más de 10 mil hinchas argentinos en Times Square",
       "volanta": "FINAL DEL MUNDIAL 2026",
       "date": "2026-07-18T13:00:10+00:00"
-    },
-    {
-      "id": "1c19311e",
-      "image": "img/1c19311e.png",
-      "image_sha": "e7c442e327f9abf97bfbe3065347ee2362a20a85",
-      "url": "https://www.radiodos.com.ar/211120-la-provincia-de-corrientes-intensifica-tareas-por-los-efectos-previstos-de-el-nino",
-      "title": "La Provincia de Corrientes intensifica tareas por los efectos previstos de El Niño",
-      "volanta": "COORDINACIÓN",
-      "date": "2026-07-18T12:59:36+00:00"
     }
   ]
 }
