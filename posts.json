@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T12:49:46+00:00",
+  "updated": "2026-07-22T13:43:07+00:00",
   "posts": [
+    {
+      "id": "2fb97e11",
+      "image": "img/2fb97e11.png",
+      "image_sha": "82477cbb7435fb73d470783ec4a15bcbc2b89a7b",
+      "url": "https://www.radiodos.com.ar/211229-promocionaran-la-61-fiesta-nacional-de-pesca-del-dorado-en-la-ciudad-de-buenos-aires",
+      "title": "Promocionarán la 61º Fiesta Nacional de Pesca del Dorado en la ciudad de Buenos Aires",
+      "volanta": "EN CASA DE CORRIENTES",
+      "date": "2026-07-22T13:43:07+00:00"
+    },
     {
       "id": "88ca6e41",
       "image": "img/88ca6e41.png",
@@ -531,15 +540,6 @@
       "title": "Las dos dudas de Lionel Scaloni para la final, según Gastón Edul",
       "volanta": "MUNDIAL 2026",
       "date": "2026-07-19T12:43:30+00:00"
-    },
-    {
-      "id": "f128e1e7",
-      "image": "img/f128e1e7.png",
-      "image_sha": "bca4c98e35c436409cbb2ff3d2b3e090d5d8f3dd",
-      "url": "https://www.radiodos.com.ar/211123-corrientes-muestra-todo-su-potencial-en-la-expo-rural-de-palermo",
-      "title": "Corrientes muestra todo su potencial en la Expo Rural de Palermo",
-      "volanta": "PRODUCCIÓN, INDUSTRIA, TURISMO Y DESARROLLO SOCIAL",
-      "date": "2026-07-18T19:13:26+00:00"
     }
   ]
 }
