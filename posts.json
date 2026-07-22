@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T21:30:33+00:00",
+  "updated": "2026-07-22T21:31:21+00:00",
   "posts": [
+    {
+      "id": "36aad69f",
+      "image": "img/36aad69f.png",
+      "image_sha": "a8e4d4139349c067d680f4dc5df290b8f59d17a3",
+      "url": "https://www.radiodos.com.ar/211241-la-afa-desmintio-que-claudio-tapia-o-pablo-toviggino-hayan-sido-citados-por-la-justicia-de-estados-unidos",
+      "title": "La AFA desmintió que Claudio Tapia o Pablo Toviggino hayan sido citados por la Justicia de Estados Unidos",
+      "volanta": "DEPORTES",
+      "date": "2026-07-22T21:31:21+00:00"
+    },
     {
       "id": "9aeef496",
       "image": "img/9aeef496.png",
@@ -531,15 +540,6 @@
       "title": "Quejas en Riachuelo por reiterativos cortes de luz y baja tensión",
       "volanta": "HACE DOS MESES",
       "date": "2026-07-20T13:41:20+00:00"
-    },
-    {
-      "id": "5adcbf30",
-      "image": "img/5adcbf30.png",
-      "image_sha": "2f80c5f73f0cb8be04554e3570b17c1ec25b3294",
-      "url": "https://www.radiodos.com.ar/211166-un-correntino-afortunado-acerto-el-quini-6-cuantos-millones-gano-y-de-donde-es",
-      "title": "Un correntino afortunado acertó el Quini 6: cuántos millones ganó y de dónde es",
-      "volanta": "MODALIDAD REVANCHA",
-      "date": "2026-07-20T13:05:53+00:00"
     }
   ]
 }
