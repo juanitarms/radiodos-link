@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T14:48:43+00:00",
+  "updated": "2026-07-22T20:23:02+00:00",
   "posts": [
+    {
+      "id": "8a222844",
+      "image": "img/8a222844.png",
+      "image_sha": "0f2a41f3841c3a8e59b1478f2eae9dd974b9f8e2",
+      "url": "https://www.radiodos.com.ar/211237-corrientes-mas-de-550-profesionales-participan-de-enfermeria-en-accion",
+      "title": "Corrientes: más de 550 profesionales participan de \"Enfermería en Acción\"",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-07-22T20:23:02+00:00"
+    },
     {
       "id": "eb3804e7",
       "image": "img/eb3804e7.png",
@@ -531,15 +540,6 @@
       "title": "Cuánta plata se lleva el ganador del Mundial 2026 y cómo es la distribución de los fondos por parte de la FIFA",
       "volanta": "Argentina-España",
       "date": "2026-07-19T15:34:58+00:00"
-    },
-    {
-      "id": "1d67be74",
-      "image": "img/1d67be74.png",
-      "image_sha": "4454cbb0b61f2f8c3d20cfa4d089ca23e80c3f15",
-      "url": "https://www.radiodos.com.ar/211152-argentina-juega-la-final-del-mundo-ante-espana-en-busca-del-bicampeonato",
-      "title": "Argentina juega la final del mundo ante España en busca del bicampeonato",
-      "volanta": "Vamos por la cuarta",
-      "date": "2026-07-19T14:18:16+00:00"
     }
   ]
 }
