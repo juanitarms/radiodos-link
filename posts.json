@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-21T23:05:38+00:00",
+  "updated": "2026-07-22T10:34:52+00:00",
   "posts": [
+    {
+      "id": "9541cf76",
+      "image": "img/9541cf76.png",
+      "image_sha": "a91683be528aa7445e0ed59bb1a0af58e2a76e63",
+      "url": "https://www.radiodos.com.ar/211224-crimen-de-don-tito-en-corrientes-antes-de-ser-asesinado-pago-unas-cervezas-a-sus-presuntos-homicidas",
+      "title": "Crimen de don Tito en Corrientes: antes de ser asesinado, pagó unas cervezas a sus presuntos homicidas",
+      "volanta": "BARRIO DR MONTAÑA",
+      "date": "2026-07-22T10:34:52+00:00"
+    },
     {
       "id": "f2c3d87f",
       "image": "img/f2c3d87f.png",
@@ -531,15 +540,6 @@
       "title": "Adorni: los informes que recibió el fiscal reflejan inconsistencias en su patrimonio y podría ser citado a declarar",
       "volanta": "SUPUESTO ENRIQUICIMIENTO ILÍCITO",
       "date": "2026-07-17T23:10:03+00:00"
-    },
-    {
-      "id": "8d9d28cc",
-      "image": "img/8d9d28cc.png",
-      "image_sha": "e02ef5afe49251ba60e448fe3638247c2c601f0f",
-      "url": "https://www.radiodos.com.ar/211112-el-mensaje-de-la-muni-antes-del-domingo-alentemos-y-celebremos-nuestros-colores-pero-cuidandonos-entre-todos-y-cuidando-la-ciudad",
-      "title": "El mensaje de La Muni antes del domingo: \"Alentemos y celebremos nuestros colores, pero cuidándonos entre todos y cuidando la ciudad\"",
-      "volanta": "FINAL DEL MUNDIAL 2026",
-      "date": "2026-07-17T22:57:50+00:00"
     }
   ]
 }
