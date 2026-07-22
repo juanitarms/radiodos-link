@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T11:59:54+00:00",
+  "updated": "2026-07-22T12:17:49+00:00",
   "posts": [
+    {
+      "id": "9a2ec173",
+      "image": "img/9a2ec173.png",
+      "image_sha": "6b8a9c0879d218a0bdd4dc695901bcfd7c43910b",
+      "url": "https://www.radiodos.com.ar/211227-ola-de-pedidos-de-devolucion-de-entradas-para-shows-de-rosalia-comunican-que-no-habra-reembolsos",
+      "title": "Ola de pedidos de devolución de entradas para shows de Rosalía: comunican que no habrá reembolsos",
+      "volanta": "EN EL MOVISTAR ARENA",
+      "date": "2026-07-22T12:17:49+00:00"
+    },
     {
       "id": "414f55fb",
       "image": "img/414f55fb.png",
@@ -531,15 +540,6 @@
       "title": "En cuatro meses, cincuenta personas intentaron suicidarse en el puente Corrientes-Chaco",
       "volanta": "EL DRAMA DE LA SALUD MENTAL",
       "date": "2026-07-18T16:34:51+00:00"
-    },
-    {
-      "id": "7b05e655",
-      "image": "img/7b05e655.png",
-      "image_sha": "6f6bc240b833810ba2bfca751fb72bc5af36fd9e",
-      "url": "https://www.radiodos.com.ar/211126-buscan-a-una-adolescente-que-se-fugo-de-un-hogar-de-contencion-en-corrientes",
-      "title": "Buscan a una adolescente que se fugó de un hogar de contención en Corrientes",
-      "volanta": "PEDIDO DE COLABORACIÓN",
-      "date": "2026-07-18T16:34:11+00:00"
     }
   ]
 }
