@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T12:17:49+00:00",
+  "updated": "2026-07-22T12:49:46+00:00",
   "posts": [
+    {
+      "id": "88ca6e41",
+      "image": "img/88ca6e41.png",
+      "image_sha": "ee0441a5d3ff06d515f551500a88574742485d2a",
+      "url": "https://www.radiodos.com.ar/211231-jp-valdes-vuelve-a-caba-para-retomar-agenda-judicial-por-reclamos-de-corrientes",
+      "title": "JP Valdés vuelve a CABA para retomar agenda judicial por reclamos de Corrientes",
+      "volanta": "ADELANTO",
+      "date": "2026-07-22T12:49:46+00:00"
+    },
     {
       "id": "9a2ec173",
       "image": "img/9a2ec173.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes muestra todo su potencial en la Expo Rural de Palermo",
       "volanta": "PRODUCCIÓN, INDUSTRIA, TURISMO Y DESARROLLO SOCIAL",
       "date": "2026-07-18T19:13:26+00:00"
-    },
-    {
-      "id": "e13db8fd",
-      "image": "img/e13db8fd.png",
-      "image_sha": "0a8fd7d37c08805c6941aa4bb8f6a9cac4381846",
-      "url": "https://www.radiodos.com.ar/211124-en-cuatro-meses-cincuenta-personas-intentaron-suicidarse-en-el-puente-corrientes-chaco",
-      "title": "En cuatro meses, cincuenta personas intentaron suicidarse en el puente Corrientes-Chaco",
-      "volanta": "EL DRAMA DE LA SALUD MENTAL",
-      "date": "2026-07-18T16:34:51+00:00"
     }
   ]
 }
