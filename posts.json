@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T20:25:54+00:00",
+  "updated": "2026-07-22T20:49:36+00:00",
   "posts": [
+    {
+      "id": "d0c2d1b9",
+      "image": "img/d0c2d1b9.png",
+      "image_sha": "27da3e2394390dc47875eb9b660e61700c9019d6",
+      "url": "https://www.radiodos.com.ar/211240-jp-valdes-firmo-un-convenio-nacional-para-incorporar-embarcaciones-y-aprovechar-el-potencial-de-las-vias-navegables",
+      "title": "JP Valdés firmó un convenio nacional para incorporar embarcaciones y aprovechar el potencial de las vías navegables",
+      "volanta": "GOBIERNO",
+      "date": "2026-07-22T20:49:36+00:00"
+    },
     {
       "id": "cacc7d77",
       "image": "img/cacc7d77.png",
@@ -531,15 +540,6 @@
       "title": "Ruta N°12: volcó un camión con carga de tomates y morrones",
       "volanta": "ESQUINA",
       "date": "2026-07-20T12:03:39+00:00"
-    },
-    {
-      "id": "e792064f",
-      "image": "img/e792064f.png",
-      "image_sha": "281e35952024556f5757be2fd4ef0f43b18f83b6",
-      "url": "https://www.radiodos.com.ar/211161-genios-mas-alla-de-la-cancha-cuti-romero-y-lisandro-martinez-le-negaron-el-saludo-a-donald-trump",
-      "title": "Genios más allá de la cancha: \"Cuti\" Romero y Lisandro Martínez le negaron el saludo a Donald Trump",
-      "volanta": "VIDEO",
-      "date": "2026-07-20T11:23:49+00:00"
     }
   ]
 }
