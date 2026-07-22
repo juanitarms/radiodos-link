@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T21:31:21+00:00",
+  "updated": "2026-07-22T22:22:41+00:00",
   "posts": [
+    {
+      "id": "d493bb23",
+      "image": "img/d493bb23.png",
+      "image_sha": "199c64edce0dba447902fc18b8d4d6161e2feba8",
+      "url": "https://www.radiodos.com.ar/211244-con-canchas-propias-y-la-mirada-en-el-ascenso-mandiyu-dira-presente-en-el-regional",
+      "title": "Con canchas propias y la mirada en el ascenso: Mandiyú dirá presente en el Regional",
+      "volanta": "ENTREVISTA EN RADIO DOS",
+      "date": "2026-07-22T22:22:41+00:00"
+    },
     {
       "id": "36aad69f",
       "image": "img/36aad69f.png",
@@ -531,15 +540,6 @@
       "title": "Qué futbolistas de la Selección Argentina viajan en el avión que aterrizará hoy en Ezeiza tras la final del Mundial",
       "volanta": "TRAS LA FINAL",
       "date": "2026-07-20T14:01:29+00:00"
-    },
-    {
-      "id": "e2242486",
-      "image": "img/e2242486.png",
-      "image_sha": "18940e9ff25f597a1319d78b56b43933f4a47a08",
-      "url": "https://www.radiodos.com.ar/211170-quejas-en-riachuelo-por-reiterativos-cortes-de-luz-y-baja-tension",
-      "title": "Quejas en Riachuelo por reiterativos cortes de luz y baja tensión",
-      "volanta": "HACE DOS MESES",
-      "date": "2026-07-20T13:41:20+00:00"
     }
   ]
 }
