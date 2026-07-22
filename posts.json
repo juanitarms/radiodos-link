@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T10:45:19+00:00",
+  "updated": "2026-07-22T11:12:49+00:00",
   "posts": [
+    {
+      "id": "dea8b6e0",
+      "image": "img/dea8b6e0.png",
+      "image_sha": "5ed41a9bfce935792dd3cddbba4c86e8399ef2f9",
+      "url": "https://www.radiodos.com.ar/211226-impresionante-choque-el-auto-quedo-abrazado-a-una-columna-y-causo-un-muerto-y-dos-heridos",
+      "title": "Impresionante choque: el auto quedó \"abrazado\" a una columna y causó un muerto y dos heridos",
+      "volanta": "RUTA 12",
+      "date": "2026-07-22T11:12:49+00:00"
+    },
     {
       "id": "d8eb4181",
       "image": "img/d8eb4181.png",
@@ -531,15 +540,6 @@
       "title": "La Provincia de Corrientes intensifica tareas por los efectos previstos de El Niño",
       "volanta": "COORDINACIÓN",
       "date": "2026-07-18T12:59:36+00:00"
-    },
-    {
-      "id": "015b5e1c",
-      "image": "img/015b5e1c.png",
-      "image_sha": "ce232c1165daba21330e28da86cebb9f81707561",
-      "url": "https://www.radiodos.com.ar/211119-julio-caceres-presento-su-obra-transparencia-del-alma-versos-del-caminante",
-      "title": "Julio Cáceres presentó su obra \"Transparencia del alma. Versos del caminante\"",
-      "volanta": "Con un gran marco de público",
-      "date": "2026-07-17T23:11:05+00:00"
     }
   ]
 }
