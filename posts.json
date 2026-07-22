@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T20:24:35+00:00",
+  "updated": "2026-07-22T20:25:14+00:00",
   "posts": [
+    {
+      "id": "b10e5bb7",
+      "image": "img/b10e5bb7.png",
+      "image_sha": "e3893c811e03bb0e0a925138a68aa14500ffd1e3",
+      "url": "https://www.radiodos.com.ar/211239-una-cabana-correntina-conquisto-el-gran-campeon-ovino-de-la-raza-romney-marsh-en-palermo",
+      "title": "Una cabaña correntina conquistó el Gran Campeón ovino de la raza Romney Marsh en Palermo",
+      "volanta": "DEBUT Y GLORIA EN PALERMO",
+      "date": "2026-07-22T20:25:14+00:00"
+    },
     {
       "id": "1c04cf87",
       "image": "img/1c04cf87.png",
@@ -531,15 +540,6 @@
       "title": "Tormentas en Corrientes y alerta nivel amarillo en parte de la provincia",
       "volanta": "Pronóstico",
       "date": "2026-07-20T11:02:15+00:00"
-    },
-    {
-      "id": "21d154c0",
-      "image": "img/21d154c0.png",
-      "image_sha": "c6c6daf8720626060b55530a32a6743ea8a22ead",
-      "url": "https://www.radiodos.com.ar/211158-mundial-2026-ya-se-juega-la-final-entre-espana-y-argentins",
-      "title": "Mundial 2026: Ya se juega la final entre España y Argentins",
-      "volanta": "New Jersey",
-      "date": "2026-07-19T19:34:08+00:00"
     }
   ]
 }
