@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T14:10:39+00:00",
+  "updated": "2026-07-22T14:48:43+00:00",
   "posts": [
+    {
+      "id": "eb3804e7",
+      "image": "img/eb3804e7.png",
+      "image_sha": "bb1b8505185a7e0acefbc8e4212c401624945bbe",
+      "url": "https://www.radiodos.com.ar/211232-el-instituto-de-cardiologia-cumple-40-anos-esta-el-corazon-de-todos-y-es-un-orgullo-para-los-correntinos",
+      "title": "El Instituto de Cardiología cumple 40 años: \"Está el corazón de todos y es un orgullo para los correntinos\"",
+      "volanta": "DR. JULIO VALLEJOS",
+      "date": "2026-07-22T14:48:43+00:00"
+    },
     {
       "id": "8f248d52",
       "image": "img/8f248d52.png",
@@ -531,15 +540,6 @@
       "title": "Argentina juega la final del mundo ante España en busca del bicampeonato",
       "volanta": "Vamos por la cuarta",
       "date": "2026-07-19T14:18:16+00:00"
-    },
-    {
-      "id": "820d58a5",
-      "image": "img/820d58a5.png",
-      "image_sha": "7d9f0d7d7c222ca357f958bb422c0c9eba4c43d0",
-      "url": "https://www.radiodos.com.ar/211153-el-posteo-de-lionel-messi-antes-de-jugar-la-final-hay-que-disfrutar-cada-paso",
-      "title": "El posteo de Lionel Messi antes de jugar la final: \"Hay que disfrutar cada paso\"",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-07-19T14:03:44+00:00"
     }
   ]
 }
