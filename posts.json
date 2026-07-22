@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T11:34:17+00:00",
+  "updated": "2026-07-22T11:59:54+00:00",
   "posts": [
+    {
+      "id": "414f55fb",
+      "image": "img/414f55fb.png",
+      "image_sha": "b8e350898002b74b681f9352c0573aa8b037dffd",
+      "url": "https://www.radiodos.com.ar/211228-trasladan-a-corrientes-los-restos-del-marinero-fallecido-en-el-mar-argentino",
+      "title": "Trasladan a Corrientes los restos del marinero fallecido en el mar Argentino",
+      "volanta": "TRAGEDIA",
+      "date": "2026-07-22T11:59:54+00:00"
+    },
     {
       "id": "529516a2",
       "image": "img/529516a2.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que se fugó de un hogar de contención en Corrientes",
       "volanta": "PEDIDO DE COLABORACIÓN",
       "date": "2026-07-18T16:34:11+00:00"
-    },
-    {
-      "id": "6169eeef",
-      "image": "img/6169eeef.png",
-      "image_sha": "e63e6541c8a82130bf7e863c5f0197eb8f036cbf",
-      "url": "https://www.radiodos.com.ar/211121-argentina-espana-nueva-york-espera-un-masivo-banderazo-con-mas-de-10-mil-hinchas-argentinos-en-times-square",
-      "title": "Argentina-España: Nueva York espera un masivo banderazo con más de 10 mil hinchas argentinos en Times Square",
-      "volanta": "FINAL DEL MUNDIAL 2026",
-      "date": "2026-07-18T13:00:10+00:00"
     }
   ]
 }
