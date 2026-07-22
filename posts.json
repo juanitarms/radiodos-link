@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T20:23:02+00:00",
+  "updated": "2026-07-22T20:24:35+00:00",
   "posts": [
+    {
+      "id": "1c04cf87",
+      "image": "img/1c04cf87.png",
+      "image_sha": "9078e7e6f5b74bb8236a98ba14d723c30aa7d661",
+      "url": "https://www.radiodos.com.ar/211236-corrientes-los-bufalos-fueron-premiados-en-palermo-por-su-excelencia-genetica",
+      "title": "Corrientes: los Búfalos fueron premiados en Palermo por su excelencia genética",
+      "volanta": "PRODUCCIÓN Y CRECIMIENTO GANADERO",
+      "date": "2026-07-22T20:24:35+00:00"
+    },
     {
       "id": "8a222844",
       "image": "img/8a222844.png",
@@ -531,15 +540,6 @@
       "title": "Mundial 2026: Ya se juega la final entre España y Argentins",
       "volanta": "New Jersey",
       "date": "2026-07-19T19:34:08+00:00"
-    },
-    {
-      "id": "0a47eae0",
-      "image": "img/0a47eae0.png",
-      "image_sha": "cc33618f83f713cc417d078188ff20c23cdccbac",
-      "url": "https://www.radiodos.com.ar/211157-cuanta-plata-se-lleva-el-ganador-del-mundial-2026-y-como-es-la-distribucion-de-los-fondos-por-parte-de-la-fifa",
-      "title": "Cuánta plata se lleva el ganador del Mundial 2026 y cómo es la distribución de los fondos por parte de la FIFA",
-      "volanta": "Argentina-España",
-      "date": "2026-07-19T15:34:58+00:00"
     }
   ]
 }
