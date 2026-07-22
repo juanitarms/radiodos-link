@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T10:34:52+00:00",
+  "updated": "2026-07-22T10:45:19+00:00",
   "posts": [
+    {
+      "id": "d8eb4181",
+      "image": "img/d8eb4181.png",
+      "image_sha": "fdeb7fc56ac7cd62b915a6d96894cb1251357f24",
+      "url": "https://www.radiodos.com.ar/211223-puerto-de-lavalle-el-gobernador-jp-valdes-habria-logrado-una-via-de-financiamiento",
+      "title": "Puerto de Lavalle: el gobernador JP Valdés habría logrado una vía de financiamiento",
+      "volanta": "GESTIONES ANTE NACIÓN",
+      "date": "2026-07-22T10:45:19+00:00"
+    },
     {
       "id": "9541cf76",
       "image": "img/9541cf76.png",
@@ -531,15 +540,6 @@
       "title": "Julio Cáceres presentó su obra \"Transparencia del alma. Versos del caminante\"",
       "volanta": "Con un gran marco de público",
       "date": "2026-07-17T23:11:05+00:00"
-    },
-    {
-      "id": "c2606586",
-      "image": "img/c2606586.png",
-      "image_sha": "bc58ea4f12ed0c97240596d14ff4b9ca5611abaa",
-      "url": "https://www.radiodos.com.ar/211118-adorni-los-informes-que-recibio-el-fiscal-reflejan-inconsistencias-en-su-patrimonio-y-podria-ser-citado-a-declarar",
-      "title": "Adorni: los informes que recibió el fiscal reflejan inconsistencias en su patrimonio y podría ser citado a declarar",
-      "volanta": "SUPUESTO ENRIQUICIMIENTO ILÍCITO",
-      "date": "2026-07-17T23:10:03+00:00"
     }
   ]
 }
