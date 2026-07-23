@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T12:21:59+00:00",
+  "updated": "2026-07-23T13:02:03+00:00",
   "posts": [
+    {
+      "id": "466814ab",
+      "image": "img/466814ab.png",
+      "image_sha": "553c4d6e3a8d71066893cbf9ee9abe7a3ee826d3",
+      "url": "https://www.radiodos.com.ar/211257-tras-choque-con-un-camion-murieron-dos-personas-que-se-dirigian-a-corrientes",
+      "title": "Tras choque con un camión, murieron dos personas que se dirigían a Corrientes",
+      "volanta": "RUTA 14",
+      "date": "2026-07-23T13:02:03+00:00"
+    },
     {
       "id": "f72f9e80",
       "image": "img/f72f9e80.png",
@@ -531,15 +540,6 @@
       "title": "El 26° Encuentro de Ferias Francas ofrecerá una gran vidriera para la producción correntina",
       "volanta": "PRESENTACIÓN EN CASA DE GOBIERNO",
       "date": "2026-07-20T20:36:14+00:00"
-    },
-    {
-      "id": "8eb8a6ba",
-      "image": "img/8eb8a6ba.png",
-      "image_sha": "f1085bd9312223db611d2093e4cc0ba3feb99248",
-      "url": "https://www.radiodos.com.ar/211182-el-dolor-es-muy-grande-el-emotivo-mensaje-de-messi-tras-la-derrota-en-la-final",
-      "title": "\"El dolor es muy grande\": el emotivo mensaje de Messi tras la derrota en la final",
-      "volanta": "TRAS EL MUNDIAL",
-      "date": "2026-07-20T20:35:10+00:00"
     }
   ]
 }
