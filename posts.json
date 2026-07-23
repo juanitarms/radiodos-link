@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T20:53:00+00:00",
+  "updated": "2026-07-23T20:54:01+00:00",
   "posts": [
+    {
+      "id": "014c032c",
+      "image": "img/014c032c.png",
+      "image_sha": "47f1200ecede15f78ffe1e8b02d50fdba0c5e550",
+      "url": "https://www.radiodos.com.ar/211268-la-municipalidad-de-corrientes-pone-en-marcha-el-certamen-interbarrios-jacinto-mamuh",
+      "title": "La Municipalidad de Corrientes pone en marcha el certamen interbarrios \"Jacinto Mamuh\"",
+      "volanta": "LA VUELTA DE UN CLÁSICO",
+      "date": "2026-07-23T20:54:01+00:00"
+    },
     {
       "id": "87092171",
       "image": "img/87092171.png",
@@ -531,15 +540,6 @@
       "title": "Emma necesita de todos: impulsan una cadena de fe por una niña trasplantada de hígado",
       "volanta": "CORRENTINA",
       "date": "2026-07-20T21:50:08+00:00"
-    },
-    {
-      "id": "df514025",
-      "image": "img/df514025.png",
-      "image_sha": "205ea945d42208e48f3573a3d8bbb79a7b49a85a",
-      "url": "https://www.radiodos.com.ar/211185-cordoba-un-hombre-con-libertad-condicional-volvio-a-atacar-y-mato-a-su-expareja",
-      "title": "Córdoba: un hombre con libertad condicional, volvió a atacar y mató a su expareja",
-      "volanta": "FEMICIDIO",
-      "date": "2026-07-20T21:49:35+00:00"
     }
   ]
 }
