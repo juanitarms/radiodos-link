@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T10:48:37+00:00",
+  "updated": "2026-07-23T11:02:49+00:00",
   "posts": [
+    {
+      "id": "a174e6fa",
+      "image": "img/a174e6fa.png",
+      "image_sha": "3ad2dd7e1006c5a50b0d34030707ac2cfff4cfef",
+      "url": "https://www.radiodos.com.ar/211250-juegos-correntinos-2026-con-nuevos-clasificados-a-la-fase-provincial",
+      "title": "\"Juegos Correntinos 2026\" con nuevos clasificados a la fase Provincial",
+      "volanta": "ETAPA ZONAL 5",
+      "date": "2026-07-23T11:02:49+00:00"
+    },
     {
       "id": "86509b0a",
       "image": "img/86509b0a.png",
@@ -531,15 +540,6 @@
       "title": "Falleció otro embarcadizo de Corrientes en el Mar Argentino",
       "volanta": "DRAMA EN EL MAR",
       "date": "2026-07-20T20:21:14+00:00"
-    },
-    {
-      "id": "7bf9be22",
-      "image": "img/7bf9be22.png",
-      "image_sha": "3507d20abe021f8dfe403820394b77fe075ce6ab",
-      "url": "https://www.radiodos.com.ar/211173-jp-valdes-adelanto-temas-que-tratara-con-nacion-corredor-belgrano-mantenimiento-de-puertos-y-segundo-puente",
-      "title": "JP Valdés adelantó temas que tratará con Nación: corredor Belgrano, mantenimiento de puertos y segundo puente",
-      "volanta": "GOBERNADOR",
-      "date": "2026-07-20T14:46:44+00:00"
     }
   ]
 }
