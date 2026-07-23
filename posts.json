@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T13:34:22+00:00",
+  "updated": "2026-07-23T13:48:30+00:00",
   "posts": [
+    {
+      "id": "f7a771db",
+      "image": "img/f7a771db.png",
+      "image_sha": "eb67d6ce7f7502f0626ad6060b9edb21ae75f879",
+      "url": "https://www.radiodos.com.ar/211264-asesinaron-a-un-ingeniero-argentino-en-madrid-el-principal-sospechoso-creia-que-era-el-amante-de-su-esposa",
+      "title": "Asesinaron a un ingeniero argentino en Madrid: el principal sospechoso creía que era el amante de su esposa",
+      "volanta": "El presunto asesino se quitó la vida",
+      "date": "2026-07-23T13:48:30+00:00"
+    },
     {
       "id": "d277d0e6",
       "image": "img/d277d0e6.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-07-20T21:04:31+00:00"
-    },
-    {
-      "id": "ebe2735a",
-      "image": "img/ebe2735a.png",
-      "image_sha": "4de343774e980d335c7f1822cac430672ace3e35",
-      "url": "https://www.radiodos.com.ar/211178-demasiada-similitud-vieron-por-tv-en-paraguay-a-un-nene-muy-parecido-a-loan-e-intentan-localizarlo",
-      "title": "\"Demasiada similitud\": vieron por tv en Paraguay a un nene muy parecido a Loan e intentan localizarlo",
-      "volanta": "SORPRESA",
-      "date": "2026-07-20T20:37:45+00:00"
     }
   ]
 }
