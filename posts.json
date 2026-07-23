@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T22:09:47+00:00",
+  "updated": "2026-07-23T22:10:19+00:00",
   "posts": [
+    {
+      "id": "d33c9ff5",
+      "image": "img/d33c9ff5.png",
+      "image_sha": "0ba18d3519b871a17dd2d764af4e2a637aec38d6",
+      "url": "https://www.radiodos.com.ar/211275-hubo-consenso-y-lorena-lazaroff-presidira-el-pro-corrientes",
+      "title": "Hubo consenso, y Lorena Lazaroff presidirá el PRO-Corrientes",
+      "volanta": "ADELANTO",
+      "date": "2026-07-23T22:10:19+00:00"
+    },
     {
       "id": "bc3399b8",
       "image": "img/bc3399b8.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés busca aval nacional para las obras de los puentes Alvear-Itaquí y Monte Caseros-Bella Unión",
       "volanta": "REUNIÓN CON SANTILLI",
       "date": "2026-07-21T11:49:05+00:00"
-    },
-    {
-      "id": "98fd9010",
-      "image": "img/98fd9010.png",
-      "image_sha": "7ad0ab5c13165ad5e57787d39580ea3c4721bb5e",
-      "url": "https://www.radiodos.com.ar/211195-corrientes-registra-menos-enfermedades-respiratorias",
-      "title": "Corrientes registra menos enfermedades respiratorias",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-07-21T11:29:12+00:00"
     }
   ]
 }
