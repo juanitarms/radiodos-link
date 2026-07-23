@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T11:12:18+00:00",
+  "updated": "2026-07-23T12:03:36+00:00",
   "posts": [
+    {
+      "id": "02c64754",
+      "image": "img/02c64754.png",
+      "image_sha": "e8bfa892270513f4e9bf21fd616210228fdbbc52",
+      "url": "https://www.radiodos.com.ar/211252-concesion-de-rutas-nacionales-abrieron-los-sobres-de-ofertas-para-tramos-de-corrientes-y-otras-provincias",
+      "title": "Concesión de rutas nacionales: abrieron los sobres de ofertas para tramos de Corrientes y otras provincias",
+      "volanta": "PEAJE- RUTAS 12 Y 16",
+      "date": "2026-07-23T12:03:36+00:00"
+    },
     {
       "id": "2ef856e5",
       "image": "img/2ef856e5.png",
@@ -531,15 +540,6 @@
       "title": "Los salarios registrados cayeron en ocho de lo últimos nueve meses",
       "volanta": "CRISIS",
       "date": "2026-07-20T20:23:30+00:00"
-    },
-    {
-      "id": "2c9d9b42",
-      "image": "img/2c9d9b42.png",
-      "image_sha": "b46c0109fc414349eb005d3a01a2db3cdfda26ce",
-      "url": "https://www.radiodos.com.ar/211176-acompanante-de-motociclista-murio-tras-choque-en-ruta-de-corrientes",
-      "title": "Acompañante de motociclista murió tras choque en ruta de Corrientes",
-      "volanta": "LAVALLE",
-      "date": "2026-07-20T20:22:27+00:00"
     }
   ]
 }
