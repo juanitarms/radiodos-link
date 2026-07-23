@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T22:35:31+00:00",
+  "updated": "2026-07-23T22:36:05+00:00",
   "posts": [
+    {
+      "id": "9a8657db",
+      "image": "img/9a8657db.png",
+      "image_sha": "2c0da2b95ea682b8bfd1f4751a4e1c0b29fe7cad",
+      "url": "https://www.radiodos.com.ar/211277-otamendi-se-retiro-de-la-seleccion-me-voy-con-la-tranquilidad-de-haberlo-dejado-todo",
+      "title": "Otamendi se retiró de la Selección: \"Me voy con la tranquilidad de haberlo dejado todo\"",
+      "volanta": "EMOTIVO MENSAJE",
+      "date": "2026-07-23T22:36:05+00:00"
+    },
     {
       "id": "8c01a172",
       "image": "img/8c01a172.png",
@@ -531,15 +540,6 @@
       "title": "ANSES confirmó el aumento para jubilados: cuánto podrían cobrar en agosto",
       "volanta": "JUBILACIONES Y PENSIONES",
       "date": "2026-07-21T12:34:02+00:00"
-    },
-    {
-      "id": "35c6199c",
-      "image": "img/35c6199c.png",
-      "image_sha": "4280dc673724000b922b125c9af637b9e6147c7f",
-      "url": "https://www.radiodos.com.ar/211201-buenos-aires-es-la-mejor-ciudad-de-america-latina-para-estudiar-segun-un-ranking-global",
-      "title": "Buenos Aires es la mejor ciudad de América Latina para estudiar, según un ranking global",
-      "volanta": "ESTUDIOS SUPERIORES",
-      "date": "2026-07-21T12:16:53+00:00"
     }
   ]
 }
