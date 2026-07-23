@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T20:54:01+00:00",
+  "updated": "2026-07-23T20:59:00+00:00",
   "posts": [
+    {
+      "id": "39df5a03",
+      "image": "img/39df5a03.png",
+      "image_sha": "7473a026c821ea0cf863dfddff105b3bf45905fd",
+      "url": "https://www.radiodos.com.ar/211269-se-conocieron-detalles-de-la-posible-visita-del-papa-leon-xiv-a-la-argentina",
+      "title": "Se conocieron detalles de la posible visita del papa León XIV a la Argentina",
+      "volanta": "EN NOVIEMBRE",
+      "date": "2026-07-23T20:59:00+00:00"
+    },
     {
       "id": "014c032c",
       "image": "img/014c032c.png",
@@ -531,15 +540,6 @@
       "title": "La Policía paraguaya descartó que el niño filmado en la Expo sea Loan",
       "volanta": "MENOR DESAPARECIDO",
       "date": "2026-07-20T23:22:37+00:00"
-    },
-    {
-      "id": "a58ab509",
-      "image": "img/a58ab509.png",
-      "image_sha": "1d972470cf52f72baf6b407cc6577a47acd8d173",
-      "url": "https://www.radiodos.com.ar/211187-emma-necesita-de-todos-impulsan-una-cadena-de-fe-por-una-nina-trasplantada-de-higado",
-      "title": "Emma necesita de todos: impulsan una cadena de fe por una niña trasplantada de hígado",
-      "volanta": "CORRENTINA",
-      "date": "2026-07-20T21:50:08+00:00"
     }
   ]
 }
