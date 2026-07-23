@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T12:03:36+00:00",
+  "updated": "2026-07-23T12:14:13+00:00",
   "posts": [
+    {
+      "id": "5d19e372",
+      "image": "img/5d19e372.png",
+      "image_sha": "8426984a7339b42e5a158a6edbb57067f3035bdb",
+      "url": "https://www.radiodos.com.ar/211255-el-rio-uruguay-sigue-creciendo-en-costas-de-corrientes-alcanzo-los-740-metros-en-santo-tome",
+      "title": "El río Uruguay sigue creciendo en costas de Corrientes: alcanzó los 7.40 metros en Santo Tomé",
+      "volanta": "ALERTA",
+      "date": "2026-07-23T12:14:13+00:00"
+    },
     {
       "id": "02c64754",
       "image": "img/02c64754.png",
@@ -531,15 +540,6 @@
       "title": "Dos detenidos tras homicidio en el interior de Corrientes",
       "volanta": "EN GOYA",
       "date": "2026-07-20T20:33:59+00:00"
-    },
-    {
-      "id": "573718c9",
-      "image": "img/573718c9.png",
-      "image_sha": "8588920e362d383721b2620f9f9133039769e712",
-      "url": "https://www.radiodos.com.ar/211175-los-salarios-registrados-cayeron-en-ocho-de-lo-ultimos-nueve-meses",
-      "title": "Los salarios registrados cayeron en ocho de lo últimos nueve meses",
-      "volanta": "CRISIS",
-      "date": "2026-07-20T20:23:30+00:00"
     }
   ]
 }
