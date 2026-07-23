@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T13:19:53+00:00",
+  "updated": "2026-07-23T13:34:22+00:00",
   "posts": [
+    {
+      "id": "d277d0e6",
+      "image": "img/d277d0e6.png",
+      "image_sha": "abe7e4d177d31a0a9b93d41e27c46cf8b146fdb8",
+      "url": "https://www.radiodos.com.ar/211261-el-aguinaldo-dorado-del-banco-de-corrientes-ya-esta-disponible-desde-este-jueves-23",
+      "title": "El \"Aguinaldo Dorado\" del Banco de Corrientes ya está disponible desde este jueves 23",
+      "volanta": "DESDE LA APP Y BANCA WEB",
+      "date": "2026-07-23T13:34:22+00:00"
+    },
     {
       "id": "8b81ed70",
       "image": "img/8b81ed70.png",
@@ -531,15 +540,6 @@
       "title": "\"Demasiada similitud\": vieron por tv en Paraguay a un nene muy parecido a Loan e intentan localizarlo",
       "volanta": "SORPRESA",
       "date": "2026-07-20T20:37:45+00:00"
-    },
-    {
-      "id": "e77c1acf",
-      "image": "img/e77c1acf.png",
-      "image_sha": "ae4393ee067036f45c263b41bb94c680b3dcfacb",
-      "url": "https://www.radiodos.com.ar/211179-se-encuentra-en-funcionamiento-la-nueva-oficina-comercial-de-la-dpec-en-el-sur-de-la-ciudad",
-      "title": "Se encuentra en funcionamiento la nueva oficina comercial de la DPEC en el sur de la ciudad",
-      "volanta": "BARRIO 17 DE AGOSTO",
-      "date": "2026-07-20T20:37:10+00:00"
     }
   ]
 }
