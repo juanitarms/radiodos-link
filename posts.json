@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T22:10:19+00:00",
+  "updated": "2026-07-23T22:35:31+00:00",
   "posts": [
+    {
+      "id": "8c01a172",
+      "image": "img/8c01a172.png",
+      "image_sha": "e598957972ec26427ee20dbc107c3df01c651089",
+      "url": "https://www.radiodos.com.ar/211276-mas-de-un-66-considera-que-a-javier-milei-le-importa-poco-o-nada-la-causa-malvinas",
+      "title": "Más de un 66% considera que a Javier Milei le importa \"poco\" o \"nada\" la causa Malvinas",
+      "volanta": "ENCUESTA NACIONAL",
+      "date": "2026-07-23T22:35:31+00:00"
+    },
     {
       "id": "d33c9ff5",
       "image": "img/d33c9ff5.png",
@@ -531,15 +540,6 @@
       "title": "Buenos Aires es la mejor ciudad de América Latina para estudiar, según un ranking global",
       "volanta": "ESTUDIOS SUPERIORES",
       "date": "2026-07-21T12:16:53+00:00"
-    },
-    {
-      "id": "291dd139",
-      "image": "img/291dd139.png",
-      "image_sha": "ac281b4d7e894eb765da76331c37aec9c55e88d8",
-      "url": "https://www.radiodos.com.ar/211196-el-gobernador-jp-valdes-busca-aval-nacional-para-las-obras-de-los-puentes-alvear-itaqui-y-monte-caseros-bella-union",
-      "title": "El gobernador JP Valdés busca aval nacional para las obras de los puentes Alvear-Itaquí y Monte Caseros-Bella Unión",
-      "volanta": "REUNIÓN CON SANTILLI",
-      "date": "2026-07-21T11:49:05+00:00"
     }
   ]
 }
