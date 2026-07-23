@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T14:24:05+00:00",
+  "updated": "2026-07-23T20:53:00+00:00",
   "posts": [
+    {
+      "id": "87092171",
+      "image": "img/87092171.png",
+      "image_sha": "ffde010f2daefd5886e32733308c61b742d7d4d6",
+      "url": "https://www.radiodos.com.ar/211266-maria-becerra-flameo-una-bandera-argentina-en-barcelona-en-medio-de-las-criticas-al-pais",
+      "title": "María Becerra flameó una bandera argentina en Barcelona en medio de las críticas al país",
+      "volanta": "Orgullo sin fronteras",
+      "date": "2026-07-23T20:53:00+00:00"
+    },
     {
       "id": "44fd237b",
       "image": "img/44fd237b.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba: un hombre con libertad condicional, volvió a atacar y mató a su expareja",
       "volanta": "FEMICIDIO",
       "date": "2026-07-20T21:49:35+00:00"
-    },
-    {
-      "id": "952c66ae",
-      "image": "img/952c66ae.png",
-      "image_sha": "90131c00c48673faa48ebd36f732eb1aa318183e",
-      "url": "https://www.radiodos.com.ar/211186-marcos-pereda-no-podemos-aceptar-que-un-grupo-de-dirigentes-se-quede-con-la-sociedad-rural",
-      "title": "Marcos Pereda: \"No podemos aceptar que un grupo de dirigentes se quede con la Sociedad Rural\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-07-20T21:48:30+00:00"
     }
   ]
 }
