@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T13:48:30+00:00",
+  "updated": "2026-07-23T14:05:50+00:00",
   "posts": [
+    {
+      "id": "b9a01d36",
+      "image": "img/b9a01d36.png",
+      "image_sha": "93f091294be35b9cb3a161c2bdbb7caeb80c3309",
+      "url": "https://www.radiodos.com.ar/211265-fin-del-programa-volver-al-trabajo-los-movimientos-sociales-protestaron-en-todo-el-pais",
+      "title": "Fin del programa Volver al Trabajo: los movimientos sociales protestaron en todo el país",
+      "volanta": "CONFLICTO SOCIAL",
+      "date": "2026-07-23T14:05:50+00:00"
+    },
     {
       "id": "f7a771db",
       "image": "img/f7a771db.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de Messi tras la final ante España: \"El dolor es muy grande y va a costar que cierre\"",
       "volanta": "DURAS PALABRAS",
       "date": "2026-07-20T21:06:29+00:00"
-    },
-    {
-      "id": "4969b712",
-      "image": "img/4969b712.png",
-      "image_sha": "10d02fbb8e6a3617c4d836e1ff20011bd6843293",
-      "url": "https://www.radiodos.com.ar/211183-salud-publica-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-07-20T21:04:31+00:00"
     }
   ]
 }
