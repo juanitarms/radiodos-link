@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T12:02:53+00:00",
+  "updated": "2026-07-24T12:19:07+00:00",
   "posts": [
+    {
+      "id": "2bd37153",
+      "image": "img/2bd37153.png",
+      "image_sha": "f1e876eda499cde46f6e3c0dd1333fd7b932346d",
+      "url": "https://www.radiodos.com.ar/211285-comienza-el-pago-de-sueldos-para-estatales-de-corrientes",
+      "title": "Comienza el pago de sueldos para estatales de Corrientes",
+      "volanta": "disponible desde este sábado",
+      "date": "2026-07-24T12:19:07+00:00"
+    },
     {
       "id": "05b33efa",
       "image": "img/05b33efa.png",
@@ -531,15 +540,6 @@
       "title": "Pronostican alerta por tormentas para la Capital y varias localidades",
       "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
       "date": "2026-07-21T14:51:58+00:00"
-    },
-    {
-      "id": "c44750e2",
-      "image": "img/c44750e2.png",
-      "image_sha": "4a646b0e691aeffa66cbe1172e4812d8a634006b",
-      "url": "https://www.radiodos.com.ar/211211-corrientes-tras-incendiarle-el-auto-a-un-remisero-fueron-detenidos-en-bunker-narco",
-      "title": "Corrientes: tras incendiarle el auto a un remisero, fueron detenidos en bunker narco",
-      "volanta": "ALVEAR",
-      "date": "2026-07-21T14:28:54+00:00"
     }
   ]
 }
