@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T14:31:56+00:00",
+  "updated": "2026-07-24T15:05:00+00:00",
   "posts": [
+    {
+      "id": "528e44f5",
+      "image": "img/528e44f5.png",
+      "image_sha": "37740e740ab302195ab9b5c5c7de667960fd3d79",
+      "url": "https://www.radiodos.com.ar/211296-fin-de-la-novela-river-oficializo-la-llegada-de-angel-correa",
+      "title": "Fin de la novela: River oficializó la llegada de Ángel Correa",
+      "volanta": "fútbol",
+      "date": "2026-07-24T15:05:00+00:00"
+    },
     {
       "id": "895e9b57",
       "image": "img/895e9b57.png",
@@ -531,15 +540,6 @@
       "title": "Francia prohíbe el uso de redes sociales para menores de 15 años",
       "volanta": "Restricciones digitales",
       "date": "2026-07-21T22:11:09+00:00"
-    },
-    {
-      "id": "b6336e13",
-      "image": "img/b6336e13.png",
-      "image_sha": "c78b0ea43f2c1da25f015cf04335d6d474e8e081",
-      "url": "https://www.radiodos.com.ar/211219-alerta-la-yerba-mate-y-el-arroz-correntino-pierden-terreno-en-el-precio-final-de-gondola",
-      "title": "Alerta: La yerba mate y el arroz correntino pierden terreno en el precio final de góndola",
-      "volanta": "Economía regional",
-      "date": "2026-07-21T22:10:06+00:00"
     }
   ]
 }
