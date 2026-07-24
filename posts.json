@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-23T22:36:05+00:00",
+  "updated": "2026-07-24T10:28:51+00:00",
   "posts": [
+    {
+      "id": "43dd730a",
+      "image": "img/43dd730a.png",
+      "image_sha": "9c2a7d01ee3b8f8eec6a9d320b9280b2fb42bd83",
+      "url": "https://www.radiodos.com.ar/211278-salud-prepara-un-nuevo-subsidio-para-embarazadas-y-un-centro-para-adolescentes",
+      "title": "Salud prepara un nuevo subsidio para embarazadas y un centro para adolescentes",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-24T10:28:51+00:00"
+    },
     {
       "id": "9a8657db",
       "image": "img/9a8657db.png",
@@ -531,15 +540,6 @@
       "title": "Buscan en Corrientes a una adolescente de 14 años",
       "volanta": "PEDIDO DE COLABORACION",
       "date": "2026-07-21T13:21:10+00:00"
-    },
-    {
-      "id": "75713a97",
-      "image": "img/75713a97.png",
-      "image_sha": "a1a7169105d5a9582e66fb0be8916bc497917363",
-      "url": "https://www.radiodos.com.ar/211197-anses-confirmo-el-aumento-para-jubilados-cuanto-podrian-cobrar-en-agosto",
-      "title": "ANSES confirmó el aumento para jubilados: cuánto podrían cobrar en agosto",
-      "volanta": "JUBILACIONES Y PENSIONES",
-      "date": "2026-07-21T12:34:02+00:00"
     }
   ]
 }
