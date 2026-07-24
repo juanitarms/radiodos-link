@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T14:10:12+00:00",
+  "updated": "2026-07-24T14:31:56+00:00",
   "posts": [
+    {
+      "id": "895e9b57",
+      "image": "img/895e9b57.png",
+      "image_sha": "bc4611f983911401cc750c499224e859778509b2",
+      "url": "https://www.radiodos.com.ar/211288-daniela-celis-abandono-gran-hermano-por-sus-hijas-no-puedo-estar-sin-ellas",
+      "title": "Daniela Celis abandonó Gran Hermano por sus hijas: \"No puedo estar sin ellas\"",
+      "volanta": "REALITY",
+      "date": "2026-07-24T14:31:56+00:00"
+    },
     {
       "id": "6df6bc88",
       "image": "img/6df6bc88.png",
@@ -531,15 +540,6 @@
       "title": "Alerta: La yerba mate y el arroz correntino pierden terreno en el precio final de góndola",
       "volanta": "Economía regional",
       "date": "2026-07-21T22:10:06+00:00"
-    },
-    {
-      "id": "9c358439",
-      "image": "img/9c358439.png",
-      "image_sha": "107b37be73fc958d3e3129f5f4d2f9e6a80dfe3c",
-      "url": "https://www.radiodos.com.ar/211216-mas-prevencion-el-nuevo-desobstructor-ya-se-estreno-y-trabaja-en-la-limpieza-de-ductos-claves",
-      "title": "Más prevención: el nuevo desobstructor ya se estrenó y trabaja en la limpieza de ductos claves",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-21T22:08:54+00:00"
     }
   ]
 }
