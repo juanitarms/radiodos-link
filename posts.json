@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T22:16:18+00:00",
+  "updated": "2026-07-24T22:40:43+00:00",
   "posts": [
+    {
+      "id": "6e967e83",
+      "image": "img/6e967e83.png",
+      "image_sha": "fcacbd2e2d9ad49861d05e806770c7210c8f6c21",
+      "url": "https://www.radiodos.com.ar/211310-la-morosidad-de-las-familias-volvio-a-aumentar-en-mayo-y-casi-triplico-los-niveles-de-2025",
+      "title": "La morosidad de las familias volvió a aumentar en mayo y casi triplicó los niveles de 2025",
+      "volanta": "Crisis",
+      "date": "2026-07-24T22:40:43+00:00"
+    },
     {
       "id": "b576035a",
       "image": "img/b576035a.png",
@@ -531,15 +540,6 @@
       "title": "Puerto de Lavalle: el gobernador JP Valdés habría logrado una vía de financiamiento",
       "volanta": "GESTIONES ANTE NACIÓN",
       "date": "2026-07-22T10:45:19+00:00"
-    },
-    {
-      "id": "9541cf76",
-      "image": "img/9541cf76.png",
-      "image_sha": "a91683be528aa7445e0ed59bb1a0af58e2a76e63",
-      "url": "https://www.radiodos.com.ar/211224-crimen-de-don-tito-en-corrientes-antes-de-ser-asesinado-pago-unas-cervezas-a-sus-presuntos-homicidas",
-      "title": "Crimen de don Tito en Corrientes: antes de ser asesinado, pagó unas cervezas a sus presuntos homicidas",
-      "volanta": "BARRIO DR MONTAÑA",
-      "date": "2026-07-22T10:34:52+00:00"
     }
   ]
 }
