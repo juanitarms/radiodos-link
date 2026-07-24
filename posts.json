@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T11:19:30+00:00",
+  "updated": "2026-07-24T12:02:53+00:00",
   "posts": [
+    {
+      "id": "05b33efa",
+      "image": "img/05b33efa.png",
+      "image_sha": "298945d7c8c9d7a5ee98b71b78e709b696a7e3fc",
+      "url": "https://www.radiodos.com.ar/211284-milei-viaja-a-brasil-visita-san-pablo-y-se-encontrara-con-flavio-bolsonaro",
+      "title": "Milei viaja a Brasil: visita San Pablo y se encontrará con Flavio Bolsonaro",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-07-24T12:02:53+00:00"
+    },
     {
       "id": "5c463e0e",
       "image": "img/5c463e0e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: tras incendiarle el auto a un remisero, fueron detenidos en bunker narco",
       "volanta": "ALVEAR",
       "date": "2026-07-21T14:28:54+00:00"
-    },
-    {
-      "id": "3b2d7bfd",
-      "image": "img/3b2d7bfd.png",
-      "image_sha": "1d39e3617bb1e4da0f4983ffe5fb94c2e04816e4",
-      "url": "https://www.radiodos.com.ar/211210-el-romantico-detalle-de-eduardo-costantini-a-su-esposa-elina-en-medio-de-sus-vacaciones-por-europa-amor-de-mi-vida",
-      "title": "El romántico detalle de Eduardo Costantini a su esposa Elina en medio de sus vacaciones por Europa: \"Amor de mi vida\"",
-      "volanta": "EMPRESARIO Y SU PAREJA",
-      "date": "2026-07-21T14:09:49+00:00"
     }
   ]
 }
