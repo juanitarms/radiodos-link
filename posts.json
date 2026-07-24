@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T12:19:07+00:00",
+  "updated": "2026-07-24T13:02:04+00:00",
   "posts": [
+    {
+      "id": "1e2802d1",
+      "image": "img/1e2802d1.png",
+      "image_sha": "b8605411345618a990012a1208c11bfce3550fbf",
+      "url": "https://www.radiodos.com.ar/211286-en-santo-tome-el-rio-uruguay-supero-los-10-metros-el-pico-no-llegaria-al-nivel-de-alerta",
+      "title": "En Santo Tomé el río Uruguay superó los 10 metros: el pico no llegaría al nivel de alerta",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-24T13:02:04+00:00"
+    },
     {
       "id": "2bd37153",
       "image": "img/2bd37153.png",
@@ -531,15 +540,6 @@
       "title": "Alejandro Fantino echó del aire a un ex River y Racing por machista",
       "volanta": "Conductor radial",
       "date": "2026-07-21T15:07:53+00:00"
-    },
-    {
-      "id": "4a1de820",
-      "image": "img/4a1de820.png",
-      "image_sha": "4438853078a45d477a564f205347679f6d1a6c74",
-      "url": "https://www.radiodos.com.ar/211212-pronostican-alerta-por-tormentas-para-la-capital-y-varias-localidades",
-      "title": "Pronostican alerta por tormentas para la Capital y varias localidades",
-      "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
-      "date": "2026-07-21T14:51:58+00:00"
     }
   ]
 }
