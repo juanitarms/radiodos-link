@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T10:28:51+00:00",
+  "updated": "2026-07-24T11:03:15+00:00",
   "posts": [
+    {
+      "id": "fc43af92",
+      "image": "img/fc43af92.png",
+      "image_sha": "1ff89aa3d7d16bf05aaae865f67d2214859ab3fa",
+      "url": "https://www.radiodos.com.ar/211282-tras-el-triunfo-de-boca-paredes-puso-en-duda-su-continuidad-en-la-seleccion",
+      "title": "Tras el triunfo de Boca, Paredes puso en duda su continuidad en la Selección",
+      "volanta": "FÚTBOL",
+      "date": "2026-07-24T11:03:15+00:00"
+    },
     {
       "id": "43dd730a",
       "image": "img/43dd730a.png",
@@ -531,15 +540,6 @@
       "title": "El sorpresivo posteo de la China Suárez sobre Mauro Icardi tras el llamado que le habría hecho a Wanda Nara",
       "volanta": "CONFLICTO",
       "date": "2026-07-21T13:49:43+00:00"
-    },
-    {
-      "id": "6a87e3c6",
-      "image": "img/6a87e3c6.png",
-      "image_sha": "35d85cd4c2a723cd39cb07144437bdc4798df909",
-      "url": "https://www.radiodos.com.ar/211207-buscan-en-corrientes-a-una-adolescente-de-14-anos",
-      "title": "Buscan en Corrientes a una adolescente de 14 años",
-      "volanta": "PEDIDO DE COLABORACION",
-      "date": "2026-07-21T13:21:10+00:00"
     }
   ]
 }
