@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T13:50:18+00:00",
+  "updated": "2026-07-24T14:10:12+00:00",
   "posts": [
+    {
+      "id": "6df6bc88",
+      "image": "img/6df6bc88.png",
+      "image_sha": "d4c1e478373f196fbca25a7daa1a755561bc88d9",
+      "url": "https://www.radiodos.com.ar/211297-operaron-de-urgencia-a-osvaldo-jaldo-que-dice-el-comunicado-del-gobierno-de-tucuman",
+      "title": "Operaron de urgencia a Osvaldo Jaldo: qué dice el comunicado del Gobierno de Tucumán",
+      "volanta": "INTERNADO EN BUENOS AIRES",
+      "date": "2026-07-24T14:10:12+00:00"
+    },
     {
       "id": "2b410195",
       "image": "img/2b410195.png",
@@ -531,15 +540,6 @@
       "title": "Más prevención: el nuevo desobstructor ya se estrenó y trabaja en la limpieza de ductos claves",
       "volanta": "CORRIENTES",
       "date": "2026-07-21T22:08:54+00:00"
-    },
-    {
-      "id": "cb9761ba",
-      "image": "img/cb9761ba.png",
-      "image_sha": "1ca20e177c140f9e7be83546ce7cb112fd03da55",
-      "url": "https://www.radiodos.com.ar/211214-vecinos-evitaron-que-okupas-tomen-una-casa-en-un-barrio-de-corrientes",
-      "title": "Vecinos evitaron que \"okupas\" tomen una casa en un barrio de Corrientes",
-      "volanta": "BARRIO SANTA ROSA",
-      "date": "2026-07-21T22:08:16+00:00"
     }
   ]
 }
