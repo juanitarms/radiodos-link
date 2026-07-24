@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T13:31:48+00:00",
+  "updated": "2026-07-24T13:50:18+00:00",
   "posts": [
+    {
+      "id": "2b410195",
+      "image": "img/2b410195.png",
+      "image_sha": "b6f8171b4df025b255e0733f7de831b4d853c677",
+      "url": "https://www.radiodos.com.ar/211290-griselda-siciliani-opino-sobre-la-campana-anti-argentina-es-un-asco",
+      "title": "Griselda Siciliani opinó sobre la campaña \"anti-Argentina\": \"Es un asco\"",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-07-24T13:50:18+00:00"
+    },
     {
       "id": "b13cccb4",
       "image": "img/b13cccb4.png",
@@ -531,15 +540,6 @@
       "title": "Vecinos evitaron que \"okupas\" tomen una casa en un barrio de Corrientes",
       "volanta": "BARRIO SANTA ROSA",
       "date": "2026-07-21T22:08:16+00:00"
-    },
-    {
-      "id": "acbfa4da",
-      "image": "img/acbfa4da.png",
-      "image_sha": "333d40b3be79f6296ec7c604a62a9b1d43512fa7",
-      "url": "https://www.radiodos.com.ar/211215-scaloni-hablo-tras-llegar-a-su-casa-en-pujato-perdimos-porque-ellos-jugaron-mejor",
-      "title": "Scaloni habló tras llegar a su casa en Pujato: \"Perdimos porque ellos jugaron mejor\"",
-      "volanta": "FUTBOL",
-      "date": "2026-07-21T21:08:57+00:00"
     }
   ]
 }
