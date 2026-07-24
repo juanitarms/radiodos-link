@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T20:16:23+00:00",
+  "updated": "2026-07-24T20:43:07+00:00",
   "posts": [
+    {
+      "id": "07c34499",
+      "image": "img/07c34499.png",
+      "image_sha": "1ad1425088c9321e52b43c632c4bb3de403e0e56",
+      "url": "https://www.radiodos.com.ar/211305-nicolas-gonzalez-fue-recibido-por-vecinos-y-veteranos-de-malvinas-tras-el-mundial-2026",
+      "title": "Nicolás González fue recibido por vecinos y veteranos de Malvinas tras el Mundial 2026",
+      "volanta": "En escobar",
+      "date": "2026-07-24T20:43:07+00:00"
+    },
     {
       "id": "d23fc598",
       "image": "img/d23fc598.png",
@@ -531,15 +540,6 @@
       "title": "Indignación y búsqueda activa tras el grave acoso que sufrió una empleada dentro de un comercio",
       "volanta": "Goya",
       "date": "2026-07-21T23:02:53+00:00"
-    },
-    {
-      "id": "199ed48e",
-      "image": "img/199ed48e.png",
-      "image_sha": "06154b34e904b9e9112123f358dfd24aec2a17f6",
-      "url": "https://www.radiodos.com.ar/211220-la-conduccion-partidaria-del-pa-garantiza-la-plena-continuidad-institucional",
-      "title": "La conducción partidaria del PA garantiza \"la plena continuidad institucional\"",
-      "volanta": "RECHAZAN PLANTEO",
-      "date": "2026-07-21T22:21:59+00:00"
     }
   ]
 }
