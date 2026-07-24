@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T20:48:16+00:00",
+  "updated": "2026-07-24T22:15:38+00:00",
   "posts": [
+    {
+      "id": "45186d5e",
+      "image": "img/45186d5e.png",
+      "image_sha": "57831f4073ebd95dc4a80058d9124f7b4b24081e",
+      "url": "https://www.radiodos.com.ar/211309-corrientes-busca-exportar-carne-con-certificacion-halal-a-turquia-y-potenciar-el-mercado-arrocero",
+      "title": "Corrientes busca exportar carne con certificación Halal a Turquía y potenciar el mercado arrocero",
+      "volanta": "Encuentro institucional",
+      "date": "2026-07-24T22:15:38+00:00"
+    },
     {
       "id": "c140eb0d",
       "image": "img/c140eb0d.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia de EE.UU. obligó a la Argentina a pagar más de US$ 390 millones por la expropiación de Aerolíneas Argentinas",
       "volanta": "Mala noticia",
       "date": "2026-07-21T23:05:38+00:00"
-    },
-    {
-      "id": "d8895f71",
-      "image": "img/d8895f71.png",
-      "image_sha": "820e5124fb0f933ae99f01450800100d951d6710",
-      "url": "https://www.radiodos.com.ar/211217-morosidad-record-la-deuda-de-los-argentinos-en-el-sector-privado-se-quintuplico-en-18-meses",
-      "title": "Morosidad récord: la deuda de los argentinos en el sector privado se quintuplicó en 18 meses",
-      "volanta": "Crisis",
-      "date": "2026-07-21T23:03:32+00:00"
     }
   ]
 }
