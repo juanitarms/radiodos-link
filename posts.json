@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T19:47:41+00:00",
+  "updated": "2026-07-25T22:09:22+00:00",
   "posts": [
+    {
+      "id": "cbd3516b",
+      "image": "img/cbd3516b.png",
+      "image_sha": "e2d64628a43013a39c214739cb4adf6449d02c47",
+      "url": "https://www.radiodos.com.ar/211312-en-conjunto-con-gendarmeria-la-policia-de-corrientes-dio-otro-golpe-contra-el-abigeato",
+      "title": "En conjunto con Gendarmería, la Policía de Corrientes dio otro golpe contra el abigeato",
+      "volanta": "DOS DETENIDOS",
+      "date": "2026-07-25T22:09:22+00:00"
+    },
     {
       "id": "e7b8f085",
       "image": "img/e7b8f085.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés vuelve a CABA para retomar agenda judicial por reclamos de Corrientes",
       "volanta": "ADELANTO",
       "date": "2026-07-22T12:49:46+00:00"
-    },
-    {
-      "id": "9a2ec173",
-      "image": "img/9a2ec173.png",
-      "image_sha": "6b8a9c0879d218a0bdd4dc695901bcfd7c43910b",
-      "url": "https://www.radiodos.com.ar/211227-ola-de-pedidos-de-devolucion-de-entradas-para-shows-de-rosalia-comunican-que-no-habra-reembolsos",
-      "title": "Ola de pedidos de devolución de entradas para shows de Rosalía: comunican que no habrá reembolsos",
-      "volanta": "EN EL MOVISTAR ARENA",
-      "date": "2026-07-22T12:17:49+00:00"
     }
   ]
 }
