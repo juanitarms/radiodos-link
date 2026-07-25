@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T17:06:13+00:00",
+  "updated": "2026-07-25T19:42:56+00:00",
   "posts": [
+    {
+      "id": "caf2b66d",
+      "image": "img/caf2b66d.png",
+      "image_sha": "727e8c7145e5035d611d87b08254ece8c590e9a4",
+      "url": "https://www.radiodos.com.ar/211314-el-barrio-laguna-seca-prepara-su-festividad-patronal-en-honor-a-san-pantaleon",
+      "title": "El barrio Laguna Seca prepara su festividad patronal en honor a San Pantaleón",
+      "volanta": "este finde",
+      "date": "2026-07-25T19:42:56+00:00"
+    },
     {
       "id": "9bd1c7b4",
       "image": "img/9bd1c7b4.png",
@@ -531,15 +540,6 @@
       "title": "Trasladan a Corrientes los restos del marinero fallecido en el mar Argentino",
       "volanta": "TRAGEDIA",
       "date": "2026-07-22T11:59:54+00:00"
-    },
-    {
-      "id": "529516a2",
-      "image": "img/529516a2.png",
-      "image_sha": "76f0121b0d128a5f9a8268ccfed2cc4dc3e1d7bf",
-      "url": "https://www.radiodos.com.ar/211225-son-26-las-familias-rurales-asistidas-por-el-desborde-de-un-arroyo-en-el-interior-de-corrientes",
-      "title": "Son 26 las familias rurales asistidas por el desborde de un arroyo en el interior de Corrientes",
-      "volanta": "EL NIÑO",
-      "date": "2026-07-22T11:34:17+00:00"
     }
   ]
 }
