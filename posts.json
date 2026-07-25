@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T22:40:43+00:00",
+  "updated": "2026-07-25T13:14:38+00:00",
   "posts": [
+    {
+      "id": "5893c52e",
+      "image": "img/5893c52e.png",
+      "image_sha": "829c123be22e8411449ea09775357dac8ea47f2d",
+      "url": "https://www.radiodos.com.ar/211313-investigan-a-un-hombre-que-habria-disparado-con-un-arma-de-fuego-a-un-perro-en-el-interior-de-corrientes",
+      "title": "Investigan a un hombre que habría disparado con un arma de fuego a un perro en el interior de Corrientes",
+      "volanta": "COLONIA PANDO",
+      "date": "2026-07-25T13:14:38+00:00"
+    },
     {
       "id": "6e967e83",
       "image": "img/6e967e83.png",
@@ -531,15 +540,6 @@
       "title": "Impresionante choque: el auto quedó \"abrazado\" a una columna y causó un muerto y dos heridos",
       "volanta": "RUTA 12",
       "date": "2026-07-22T11:12:49+00:00"
-    },
-    {
-      "id": "d8eb4181",
-      "image": "img/d8eb4181.png",
-      "image_sha": "fdeb7fc56ac7cd62b915a6d96894cb1251357f24",
-      "url": "https://www.radiodos.com.ar/211223-puerto-de-lavalle-el-gobernador-jp-valdes-habria-logrado-una-via-de-financiamiento",
-      "title": "Puerto de Lavalle: el gobernador JP Valdés habría logrado una vía de financiamiento",
-      "volanta": "GESTIONES ANTE NACIÓN",
-      "date": "2026-07-22T10:45:19+00:00"
     }
   ]
 }
