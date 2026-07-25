@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T19:42:56+00:00",
+  "updated": "2026-07-25T19:47:41+00:00",
   "posts": [
+    {
+      "id": "e7b8f085",
+      "image": "img/e7b8f085.png",
+      "image_sha": "8c4f9ab4b9b784a4a0ba2194db8080e74179bbe5",
+      "url": "https://www.radiodos.com.ar/211316-buscan-a-una-menor-que-esta-desaparecida-en-el-interior-de-corrientes",
+      "title": "Buscan a una menor que está desaparecida en el interior de Corrientes",
+      "volanta": "CURUZU CUATIA",
+      "date": "2026-07-25T19:47:41+00:00"
+    },
     {
       "id": "caf2b66d",
       "image": "img/caf2b66d.png",
@@ -531,15 +540,6 @@
       "title": "Ola de pedidos de devolución de entradas para shows de Rosalía: comunican que no habrá reembolsos",
       "volanta": "EN EL MOVISTAR ARENA",
       "date": "2026-07-22T12:17:49+00:00"
-    },
-    {
-      "id": "414f55fb",
-      "image": "img/414f55fb.png",
-      "image_sha": "b8e350898002b74b681f9352c0573aa8b037dffd",
-      "url": "https://www.radiodos.com.ar/211228-trasladan-a-corrientes-los-restos-del-marinero-fallecido-en-el-mar-argentino",
-      "title": "Trasladan a Corrientes los restos del marinero fallecido en el mar Argentino",
-      "volanta": "TRAGEDIA",
-      "date": "2026-07-22T11:59:54+00:00"
     }
   ]
 }
