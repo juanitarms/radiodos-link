@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T13:14:38+00:00",
+  "updated": "2026-07-25T17:06:13+00:00",
   "posts": [
+    {
+      "id": "9bd1c7b4",
+      "image": "img/9bd1c7b4.png",
+      "image_sha": "ce315bee5b9adaa48b0858d8ee5696ff1d14ec6d",
+      "url": "https://www.radiodos.com.ar/211315-crecida-del-rio-uruguay-santo-tome-ingreso-en-etapa-de-alerta-sin-evacuados-y-con-monitoreo-permanente-",
+      "title": "Crecida del río Uruguay: Santo Tomé ingresó en etapa de alerta, sin evacuados y con monitoreo permanente",
+      "volanta": "ULTIMOS DATOS",
+      "date": "2026-07-25T17:06:13+00:00"
+    },
     {
       "id": "5893c52e",
       "image": "img/5893c52e.png",
@@ -531,15 +540,6 @@
       "title": "Son 26 las familias rurales asistidas por el desborde de un arroyo en el interior de Corrientes",
       "volanta": "EL NIÑO",
       "date": "2026-07-22T11:34:17+00:00"
-    },
-    {
-      "id": "dea8b6e0",
-      "image": "img/dea8b6e0.png",
-      "image_sha": "5ed41a9bfce935792dd3cddbba4c86e8399ef2f9",
-      "url": "https://www.radiodos.com.ar/211226-impresionante-choque-el-auto-quedo-abrazado-a-una-columna-y-causo-un-muerto-y-dos-heridos",
-      "title": "Impresionante choque: el auto quedó \"abrazado\" a una columna y causó un muerto y dos heridos",
-      "volanta": "RUTA 12",
-      "date": "2026-07-22T11:12:49+00:00"
     }
   ]
 }
