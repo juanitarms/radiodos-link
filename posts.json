@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T18:24:52+00:00",
+  "updated": "2026-07-26T22:03:21+00:00",
   "posts": [
+    {
+      "id": "04a796b1",
+      "image": "img/04a796b1.png",
+      "image_sha": "7df5f2e41fe6087d930dead2e5a1414a20395873",
+      "url": "https://www.radiodos.com.ar/211325-boca-unidos-cayo-en-corrientes-ante-juventud-antoniana",
+      "title": "Boca Unidos cayó en Corrientes ante Juventud Antoniana",
+      "volanta": "Federal A",
+      "date": "2026-07-26T22:03:21+00:00"
+    },
     {
       "id": "28fb7811",
       "image": "img/28fb7811.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes promociona su oferta turística en la Bienal Internacional de Escultura",
       "volanta": "EN CHACO",
       "date": "2026-07-22T21:29:56+00:00"
-    },
-    {
-      "id": "d0c2d1b9",
-      "image": "img/d0c2d1b9.png",
-      "image_sha": "27da3e2394390dc47875eb9b660e61700c9019d6",
-      "url": "https://www.radiodos.com.ar/211240-jp-valdes-firmo-un-convenio-nacional-para-incorporar-embarcaciones-y-aprovechar-el-potencial-de-las-vias-navegables",
-      "title": "JP Valdés firmó un convenio nacional para incorporar embarcaciones y aprovechar el potencial de las vías navegables",
-      "volanta": "GOBIERNO",
-      "date": "2026-07-22T20:49:36+00:00"
     }
   ]
 }
