@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T13:18:26+00:00",
+  "updated": "2026-07-26T13:30:59+00:00",
   "posts": [
+    {
+      "id": "dd3667e7",
+      "image": "img/dd3667e7.png",
+      "image_sha": "7ca0de0bfea5f3762dbb161a37fe78f23d589234",
+      "url": "https://www.radiodos.com.ar/211318-corrientes-ratifica-su-liderazgo-genetico-y-productivo-en-la-muestra-agropecuaria-mas-importante-del-pais",
+      "title": "Corrientes ratifica su liderazgo genético y productivo en la muestra agropecuaria más importante del país",
+      "volanta": "Exposición Rural de Palermo",
+      "date": "2026-07-26T13:30:59+00:00"
+    },
     {
       "id": "d2e742db",
       "image": "img/d2e742db.png",
@@ -531,15 +540,6 @@
       "title": "Fenómeno de El Niño: \"Será intenso y no sabemos aún que zona de Corrientes tendrá el mayor impacto\"",
       "volanta": "BRUNO LOVINSON- DEFENSA CIVIL",
       "date": "2026-07-22T14:10:39+00:00"
-    },
-    {
-      "id": "2fb97e11",
-      "image": "img/2fb97e11.png",
-      "image_sha": "82477cbb7435fb73d470783ec4a15bcbc2b89a7b",
-      "url": "https://www.radiodos.com.ar/211229-promocionaran-la-61-fiesta-nacional-de-pesca-del-dorado-en-la-ciudad-de-buenos-aires",
-      "title": "Promocionarán la 61º Fiesta Nacional de Pesca del Dorado en la ciudad de Buenos Aires",
-      "volanta": "EN CASA DE CORRIENTES",
-      "date": "2026-07-22T13:43:07+00:00"
     }
   ]
 }
