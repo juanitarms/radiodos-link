@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T13:51:36+00:00",
+  "updated": "2026-07-26T17:58:13+00:00",
   "posts": [
+    {
+      "id": "09699b73",
+      "image": "img/09699b73.png",
+      "image_sha": "0d38880f292e6c23a45f17d304497320a3a1b2bd",
+      "url": "https://www.radiodos.com.ar/211321-murio-un-hombre-tras-despistar-y-caer-a-una-zanja-con-su-auto-en-corrientes",
+      "title": "Murió un hombre tras despistar  y caer a una zanja con su auto en Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-07-26T17:58:13+00:00"
+    },
     {
       "id": "5cd0d7f5",
       "image": "img/5cd0d7f5.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: los Búfalos fueron premiados en Palermo por su excelencia genética",
       "volanta": "PRODUCCIÓN Y CRECIMIENTO GANADERO",
       "date": "2026-07-22T20:24:35+00:00"
-    },
-    {
-      "id": "8a222844",
-      "image": "img/8a222844.png",
-      "image_sha": "0f2a41f3841c3a8e59b1478f2eae9dd974b9f8e2",
-      "url": "https://www.radiodos.com.ar/211237-corrientes-mas-de-550-profesionales-participan-de-enfermeria-en-accion",
-      "title": "Corrientes: más de 550 profesionales participan de \"Enfermería en Acción\"",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-07-22T20:23:02+00:00"
     }
   ]
 }
