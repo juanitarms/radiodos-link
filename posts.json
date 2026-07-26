@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T18:24:16+00:00",
+  "updated": "2026-07-26T18:24:52+00:00",
   "posts": [
+    {
+      "id": "28fb7811",
+      "image": "img/28fb7811.png",
+      "image_sha": "c066d0621188e4435f0994a706ab013c97c643e0",
+      "url": "https://www.radiodos.com.ar/211322-tassano-estamos-trabajando-en-la-agilizacion-de-los-procesos-y-la-modernizacion-de-la-camara",
+      "title": "Tassano: \"Estamos trabajando en la agilización de los procesos y la modernización de la Cámara\"",
+      "volanta": "CÁMARA DE DIPUTADOS",
+      "date": "2026-07-26T18:24:52+00:00"
+    },
     {
       "id": "e27a1eb5",
       "image": "img/e27a1eb5.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés firmó un convenio nacional para incorporar embarcaciones y aprovechar el potencial de las vías navegables",
       "volanta": "GOBIERNO",
       "date": "2026-07-22T20:49:36+00:00"
-    },
-    {
-      "id": "cacc7d77",
-      "image": "img/cacc7d77.png",
-      "image_sha": "c796675a636b5fbcb76de55b9cfa3c7f44177ab0",
-      "url": "https://www.radiodos.com.ar/211238-el-gobierno-nacional-presento-un-proyecto-para-arancelar-la-universidad-y-la-salud-para-extranjeros-sin-residencia",
-      "title": "El Gobierno Nacional presentó un proyecto para arancelar la universidad y la salud para extranjeros sin residencia",
-      "volanta": "EN BS AS",
-      "date": "2026-07-22T20:25:54+00:00"
     }
   ]
 }
