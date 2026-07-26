@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T13:30:59+00:00",
+  "updated": "2026-07-26T13:39:16+00:00",
   "posts": [
+    {
+      "id": "4972dbc7",
+      "image": "img/4972dbc7.png",
+      "image_sha": "f3f79a3bcf9d48f18cd49a3884431a6e265737ac",
+      "url": "https://www.radiodos.com.ar/211317-la-muni-en-tu-barrio-retoma-su-recorrido-en-el-barrio-cremonte-con-servicios-gratuitos",
+      "title": "La Muni en tu Barrio retoma su recorrido en el barrio Cremonte con servicios gratuitos",
+      "volanta": "CAPITAL",
+      "date": "2026-07-26T13:39:16+00:00"
+    },
     {
       "id": "dd3667e7",
       "image": "img/dd3667e7.png",
@@ -531,15 +540,6 @@
       "title": "El Instituto de Cardiología cumple 40 años: \"Está el corazón de todos y es un orgullo para los correntinos\"",
       "volanta": "DR. JULIO VALLEJOS",
       "date": "2026-07-22T14:48:43+00:00"
-    },
-    {
-      "id": "8f248d52",
-      "image": "img/8f248d52.png",
-      "image_sha": "b2ad71a992369f78af34b50a5c3f6b7539265d5f",
-      "url": "https://www.radiodos.com.ar/211235-fenomeno-de-el-nino-sera-intenso-y-no-sabemos-aun-que-zona-de-corrientes-tendra-el-mayor-impacto",
-      "title": "Fenómeno de El Niño: \"Será intenso y no sabemos aún que zona de Corrientes tendrá el mayor impacto\"",
-      "volanta": "BRUNO LOVINSON- DEFENSA CIVIL",
-      "date": "2026-07-22T14:10:39+00:00"
     }
   ]
 }
