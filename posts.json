@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T22:09:22+00:00",
+  "updated": "2026-07-26T13:18:26+00:00",
   "posts": [
+    {
+      "id": "d2e742db",
+      "image": "img/d2e742db.png",
+      "image_sha": "d76293d65851c64e2dceb6f01c825805d360d528",
+      "url": "https://www.radiodos.com.ar/211319-teatro-vera-el-violinista-italiano-marco-misciagna-brindara-un-concierto-gratuito",
+      "title": "Teatro Vera: el violinista italiano Marco Misciagna brindará un concierto gratuito",
+      "volanta": "CULTURA",
+      "date": "2026-07-26T13:18:26+00:00"
+    },
     {
       "id": "cbd3516b",
       "image": "img/cbd3516b.png",
@@ -531,15 +540,6 @@
       "title": "Promocionarán la 61º Fiesta Nacional de Pesca del Dorado en la ciudad de Buenos Aires",
       "volanta": "EN CASA DE CORRIENTES",
       "date": "2026-07-22T13:43:07+00:00"
-    },
-    {
-      "id": "88ca6e41",
-      "image": "img/88ca6e41.png",
-      "image_sha": "ee0441a5d3ff06d515f551500a88574742485d2a",
-      "url": "https://www.radiodos.com.ar/211231-jp-valdes-vuelve-a-caba-para-retomar-agenda-judicial-por-reclamos-de-corrientes",
-      "title": "JP Valdés vuelve a CABA para retomar agenda judicial por reclamos de Corrientes",
-      "volanta": "ADELANTO",
-      "date": "2026-07-22T12:49:46+00:00"
     }
   ]
 }
