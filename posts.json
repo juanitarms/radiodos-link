@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T13:39:16+00:00",
+  "updated": "2026-07-26T13:51:36+00:00",
   "posts": [
+    {
+      "id": "5cd0d7f5",
+      "image": "img/5cd0d7f5.png",
+      "image_sha": "64712dcc83b3f652509857444b6b398b582550c2",
+      "url": "https://www.radiodos.com.ar/211320-milei-hablara-en-la-exposicion-rural-y-hay-expectativa-en-el-agro-por-posibles-anuncios",
+      "title": "Milei hablará en la Exposición Rural y hay expectativa en el agro por posibles anuncios",
+      "volanta": "PALERMO",
+      "date": "2026-07-26T13:51:36+00:00"
+    },
     {
       "id": "4972dbc7",
       "image": "img/4972dbc7.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: más de 550 profesionales participan de \"Enfermería en Acción\"",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-07-22T20:23:02+00:00"
-    },
-    {
-      "id": "eb3804e7",
-      "image": "img/eb3804e7.png",
-      "image_sha": "bb1b8505185a7e0acefbc8e4212c401624945bbe",
-      "url": "https://www.radiodos.com.ar/211232-el-instituto-de-cardiologia-cumple-40-anos-esta-el-corazon-de-todos-y-es-un-orgullo-para-los-correntinos",
-      "title": "El Instituto de Cardiología cumple 40 años: \"Está el corazón de todos y es un orgullo para los correntinos\"",
-      "volanta": "DR. JULIO VALLEJOS",
-      "date": "2026-07-22T14:48:43+00:00"
     }
   ]
 }
