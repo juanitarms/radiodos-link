@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T17:58:51+00:00",
+  "updated": "2026-07-26T18:24:16+00:00",
   "posts": [
+    {
+      "id": "e27a1eb5",
+      "image": "img/e27a1eb5.png",
+      "image_sha": "d34282df5bcda7df6cea256d67ae009ff0711e95",
+      "url": "https://www.radiodos.com.ar/211324-lovinson-sobre-el-nino-siempre-nos-preparamos-para-lo-peor",
+      "title": "Lovinson sobre \"El niño\": \"Siempre nos preparamos para lo peor\"",
+      "volanta": "DEFENSA CIVIL",
+      "date": "2026-07-26T18:24:16+00:00"
+    },
     {
       "id": "48372de9",
       "image": "img/48372de9.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno Nacional presentó un proyecto para arancelar la universidad y la salud para extranjeros sin residencia",
       "volanta": "EN BS AS",
       "date": "2026-07-22T20:25:54+00:00"
-    },
-    {
-      "id": "b10e5bb7",
-      "image": "img/b10e5bb7.png",
-      "image_sha": "e3893c811e03bb0e0a925138a68aa14500ffd1e3",
-      "url": "https://www.radiodos.com.ar/211239-una-cabana-correntina-conquisto-el-gran-campeon-ovino-de-la-raza-romney-marsh-en-palermo",
-      "title": "Una cabaña correntina conquistó el Gran Campeón ovino de la raza Romney Marsh en Palermo",
-      "volanta": "DEBUT Y GLORIA EN PALERMO",
-      "date": "2026-07-22T20:25:14+00:00"
     }
   ]
 }
