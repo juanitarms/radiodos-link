@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T20:47:48+00:00",
+  "updated": "2026-07-27T20:49:26+00:00",
   "posts": [
+    {
+      "id": "8f2dab35",
+      "image": "img/8f2dab35.png",
+      "image_sha": "9763f7328df117840676a71718e37b3778481550",
+      "url": "https://www.radiodos.com.ar/211379-el-gobernador-jp-valdes-recibio-al-embajador-de-la-republica-china-en-el-pais",
+      "title": "El gobernador JP Valdés recibió al Embajador de la República China en el país",
+      "volanta": "PROTOCOLO",
+      "date": "2026-07-27T20:49:26+00:00"
+    },
     {
       "id": "615de85c",
       "image": "img/615de85c.png",
@@ -531,15 +540,6 @@
       "title": "Fin del programa Volver al Trabajo: los movimientos sociales protestaron en todo el país",
       "volanta": "CONFLICTO SOCIAL",
       "date": "2026-07-23T14:05:50+00:00"
-    },
-    {
-      "id": "f7a771db",
-      "image": "img/f7a771db.png",
-      "image_sha": "eb67d6ce7f7502f0626ad6060b9edb21ae75f879",
-      "url": "https://www.radiodos.com.ar/211264-asesinaron-a-un-ingeniero-argentino-en-madrid-el-principal-sospechoso-creia-que-era-el-amante-de-su-esposa",
-      "title": "Asesinaron a un ingeniero argentino en Madrid: el principal sospechoso creía que era el amante de su esposa",
-      "volanta": "El presunto asesino se quitó la vida",
-      "date": "2026-07-23T13:48:30+00:00"
     }
   ]
 }
