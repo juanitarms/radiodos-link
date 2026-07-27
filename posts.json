@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T15:18:24+00:00",
+  "updated": "2026-07-27T20:45:52+00:00",
   "posts": [
+    {
+      "id": "77223eb6",
+      "image": "img/77223eb6.png",
+      "image_sha": "6763a3258ce2e543da5572c7f13104c91c19c84e",
+      "url": "https://www.radiodos.com.ar/211378-el-presidente-javier-milei-recibio-a-la-titular-del-fmi-en-casa-rosada",
+      "title": "El presidente Javier Milei recibió a la titular del FMI en Casa Rosada",
+      "volanta": "AGENDA",
+      "date": "2026-07-27T20:45:52+00:00"
+    },
     {
       "id": "a6cd8373",
       "image": "img/a6cd8373.png",
@@ -531,15 +540,6 @@
       "title": "El \"Aguinaldo Dorado\" del Banco de Corrientes ya está disponible desde este jueves 23",
       "volanta": "DESDE LA APP Y BANCA WEB",
       "date": "2026-07-23T13:34:22+00:00"
-    },
-    {
-      "id": "8b81ed70",
-      "image": "img/8b81ed70.png",
-      "image_sha": "2c7e940dbb63d87273eb1aac4420f0b9a6b2c747",
-      "url": "https://www.radiodos.com.ar/211248-motochorros-robaron-una-moto-en-menos-de-cinco-segundos",
-      "title": "Motochorros robaron una moto en menos de cinco segundos",
-      "volanta": "BARRIO BERÓN DE ASTRADA",
-      "date": "2026-07-23T13:19:53+00:00"
     }
   ]
 }
