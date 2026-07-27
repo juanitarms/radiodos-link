@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T13:34:04+00:00",
+  "updated": "2026-07-27T14:02:05+00:00",
   "posts": [
+    {
+      "id": "2b3de193",
+      "image": "img/2b3de193.png",
+      "image_sha": "e2fb3f81e0f3856c25677a6ecf5cf4425e73eb60",
+      "url": "https://www.radiodos.com.ar/211356-javier-milei-suma-un-nuevo-viaje-internacional-esta-semana-su-agenda",
+      "title": "Javier Milei suma un nuevo viaje internacional esta semana: su agenda",
+      "volanta": "DE GIRA",
+      "date": "2026-07-27T14:02:05+00:00"
+    },
     {
       "id": "ad4eb68f",
       "image": "img/ad4eb68f.png",
@@ -531,15 +540,6 @@
       "title": "Concesión de rutas nacionales: abrieron los sobres de ofertas para tramos de Corrientes y otras provincias",
       "volanta": "PEAJE- RUTAS 12 Y 16",
       "date": "2026-07-23T12:03:36+00:00"
-    },
-    {
-      "id": "2ef856e5",
-      "image": "img/2ef856e5.png",
-      "image_sha": "42194a1f8c0f751fe242b1a4d5a36c86664825e3",
-      "url": "https://www.radiodos.com.ar/211251-geek-fest-presenta-su-primera-convencion-geek-con-entrada-libre-y-gratuita-en-corrientes",
-      "title": "Geek Fest presenta su primera Convención Geek con entrada libre y gratuita en Corrientes",
-      "volanta": "EN EL TALA",
-      "date": "2026-07-23T11:12:18+00:00"
     }
   ]
 }
