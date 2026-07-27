@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T11:42:00+00:00",
+  "updated": "2026-07-27T12:14:57+00:00",
   "posts": [
+    {
+      "id": "c302d40a",
+      "image": "img/c302d40a.png",
+      "image_sha": "2117054f230695df1c49406232002ddc02935c59",
+      "url": "https://www.radiodos.com.ar/211334-jornada-de-capacitacion-en-la-sociedad-rural-de-bella-vista",
+      "title": "Jornada de capacitación en la Sociedad Rural de Bella Vista",
+      "volanta": "RENATRE",
+      "date": "2026-07-27T12:14:57+00:00"
+    },
     {
       "id": "e7e0dcd3",
       "image": "img/e7e0dcd3.png",
@@ -531,15 +540,6 @@
       "title": "Desesperado mensaje de una madre: \"Si encuentran a mi hijo, mátenlo\"",
       "volanta": "DELINCUENCIA EN CORRIENTES",
       "date": "2026-07-23T10:33:34+00:00"
-    },
-    {
-      "id": "d493bb23",
-      "image": "img/d493bb23.png",
-      "image_sha": "199c64edce0dba447902fc18b8d4d6161e2feba8",
-      "url": "https://www.radiodos.com.ar/211244-con-canchas-propias-y-la-mirada-en-el-ascenso-mandiyu-dira-presente-en-el-regional",
-      "title": "Con canchas propias y la mirada en el ascenso: Mandiyú dirá presente en el Regional",
-      "volanta": "ENTREVISTA EN RADIO DOS",
-      "date": "2026-07-22T22:22:41+00:00"
     }
   ]
 }
