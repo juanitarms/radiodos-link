@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T12:58:20+00:00",
+  "updated": "2026-07-27T13:12:17+00:00",
   "posts": [
+    {
+      "id": "dab4a679",
+      "image": "img/dab4a679.png",
+      "image_sha": "fd82e460f472221deec4bc3f726c745a8cc6ece0",
+      "url": "https://www.radiodos.com.ar/211341-denunciaron-por-violencia-de-genero-a-gonzalo-morales-el-jugador-de-barracas-que-marco-ante-river",
+      "title": "Denunciaron por violencia de género a Gonzalo Morales, el jugador de Barracas que marcó ante River",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-27T13:12:17+00:00"
+    },
     {
       "id": "ad78630b",
       "image": "img/ad78630b.png",
@@ -531,15 +540,6 @@
       "title": "\"Juegos Correntinos 2026\" con nuevos clasificados a la fase Provincial",
       "volanta": "ETAPA ZONAL 5",
       "date": "2026-07-23T11:02:49+00:00"
-    },
-    {
-      "id": "86509b0a",
-      "image": "img/86509b0a.png",
-      "image_sha": "1a642ae0b7a3cdf7f14dd39db5d3783e3a7efbf9",
-      "url": "https://www.radiodos.com.ar/211249-corrientes-allanaron-una-casa-donde-hacia-de-base-una-banda-que-robaba-celulares-de-alta-gama",
-      "title": "Corrientes: allanaron una casa donde hacía de base una banda que robaba celulares de alta gama",
-      "volanta": "BARRIO SANTA LUCIA",
-      "date": "2026-07-23T10:48:37+00:00"
     }
   ]
 }
