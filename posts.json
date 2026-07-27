@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T22:03:21+00:00",
+  "updated": "2026-07-27T10:53:26+00:00",
   "posts": [
+    {
+      "id": "333b1bff",
+      "image": "img/333b1bff.png",
+      "image_sha": "bb14150ced2eb03c4d049d34533163a2431f669b",
+      "url": "https://www.radiodos.com.ar/211330-comenzo-el-pago-de-salarios-a-empleados-estatales-y-jubilados-de-corrientes",
+      "title": "Comenzó el pago de salarios a empleados estatales y jubilados de Corrientes",
+      "volanta": "HASTA EL VIERNES",
+      "date": "2026-07-27T10:53:26+00:00"
+    },
     {
       "id": "04a796b1",
       "image": "img/04a796b1.png",
@@ -531,15 +540,6 @@
       "title": "El 61% de los argentinos agota sus ingresos antes del día 20 del mes",
       "volanta": "CRISIS",
       "date": "2026-07-22T21:30:33+00:00"
-    },
-    {
-      "id": "ddf3435a",
-      "image": "img/ddf3435a.png",
-      "image_sha": "bb947cfb0b6bb416cfb60a10f62a22e2a3d5bd11",
-      "url": "https://www.radiodos.com.ar/211243-corrientes-promociona-su-oferta-turistica-en-la-bienal-internacional-de-escultura",
-      "title": "Corrientes promociona su oferta turística en la Bienal Internacional de Escultura",
-      "volanta": "EN CHACO",
-      "date": "2026-07-22T21:29:56+00:00"
     }
   ]
 }
