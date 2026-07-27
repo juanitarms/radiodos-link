@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T14:20:06+00:00",
+  "updated": "2026-07-27T14:34:04+00:00",
   "posts": [
+    {
+      "id": "7e1a6030",
+      "image": "img/7e1a6030.png",
+      "image_sha": "50726c73c24d5956298f4f85550930c99db105e5",
+      "url": "https://www.radiodos.com.ar/211361-el-salario-de-vozinha-lo-ubico-entre-los-fichajes-mas-llamativos-de-sudamerica",
+      "title": "El salario de Vozinha lo ubicó entre los fichajes más llamativos de Sudamérica",
+      "volanta": "CHILE",
+      "date": "2026-07-27T14:34:04+00:00"
+    },
     {
       "id": "d769c514",
       "image": "img/d769c514.png",
@@ -531,15 +540,6 @@
       "title": "Buscan en Corrientes a peligroso delincuente chaqueño",
       "volanta": "ALIAS TULI",
       "date": "2026-07-23T12:21:59+00:00"
-    },
-    {
-      "id": "5d19e372",
-      "image": "img/5d19e372.png",
-      "image_sha": "8426984a7339b42e5a158a6edbb57067f3035bdb",
-      "url": "https://www.radiodos.com.ar/211255-el-rio-uruguay-sigue-creciendo-en-costas-de-corrientes-alcanzo-los-740-metros-en-santo-tome",
-      "title": "El río Uruguay sigue creciendo en costas de Corrientes: alcanzó los 7.40 metros en Santo Tomé",
-      "volanta": "ALERTA",
-      "date": "2026-07-23T12:14:13+00:00"
     }
   ]
 }
