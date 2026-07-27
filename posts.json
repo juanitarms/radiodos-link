@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T21:47:54+00:00",
+  "updated": "2026-07-27T22:14:13+00:00",
   "posts": [
+    {
+      "id": "12a8d0c4",
+      "image": "img/12a8d0c4.png",
+      "image_sha": "0eb7f46d508db6786b2a0f4c7b7f5546dde9dff3",
+      "url": "https://www.radiodos.com.ar/211383-cordoba-seria-una-de-las-paradas-de-leon-xiv-durante-su-primera-visita-a-la-argentina",
+      "title": "Córdoba sería una de las paradas de León XIV durante su primera visita a la Argentina",
+      "volanta": "EXPECTATIVA",
+      "date": "2026-07-27T22:14:13+00:00"
+    },
     {
       "id": "54f2ee31",
       "image": "img/54f2ee31.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes pone en marcha el certamen interbarrios \"Jacinto Mamuh\"",
       "volanta": "LA VUELTA DE UN CLÁSICO",
       "date": "2026-07-23T20:54:01+00:00"
-    },
-    {
-      "id": "87092171",
-      "image": "img/87092171.png",
-      "image_sha": "ffde010f2daefd5886e32733308c61b742d7d4d6",
-      "url": "https://www.radiodos.com.ar/211266-maria-becerra-flameo-una-bandera-argentina-en-barcelona-en-medio-de-las-criticas-al-pais",
-      "title": "María Becerra flameó una bandera argentina en Barcelona en medio de las críticas al país",
-      "volanta": "Orgullo sin fronteras",
-      "date": "2026-07-23T20:53:00+00:00"
     }
   ]
 }
