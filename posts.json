@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T13:12:17+00:00",
+  "updated": "2026-07-27T13:34:04+00:00",
   "posts": [
+    {
+      "id": "ad4eb68f",
+      "image": "img/ad4eb68f.png",
+      "image_sha": "9a984819b754f3609b1ecb0ae2575315293f32ac",
+      "url": "https://www.radiodos.com.ar/211352-la-llamativa-decision-que-tomo-el-arbitro-que-dirigio-la-final-del-mundial-2026-entre-argentina-y-espana",
+      "title": "La llamativa decisión que tomó el arbitro que dirigió la final del Mundial 2026 entre Argentina y España",
+      "volanta": "POLÉMICO",
+      "date": "2026-07-27T13:34:04+00:00"
+    },
     {
       "id": "dab4a679",
       "image": "img/dab4a679.png",
@@ -531,15 +540,6 @@
       "title": "Geek Fest presenta su primera Convención Geek con entrada libre y gratuita en Corrientes",
       "volanta": "EN EL TALA",
       "date": "2026-07-23T11:12:18+00:00"
-    },
-    {
-      "id": "a174e6fa",
-      "image": "img/a174e6fa.png",
-      "image_sha": "3ad2dd7e1006c5a50b0d34030707ac2cfff4cfef",
-      "url": "https://www.radiodos.com.ar/211250-juegos-correntinos-2026-con-nuevos-clasificados-a-la-fase-provincial",
-      "title": "\"Juegos Correntinos 2026\" con nuevos clasificados a la fase Provincial",
-      "volanta": "ETAPA ZONAL 5",
-      "date": "2026-07-23T11:02:49+00:00"
     }
   ]
 }
