@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T20:45:52+00:00",
+  "updated": "2026-07-27T20:47:48+00:00",
   "posts": [
+    {
+      "id": "615de85c",
+      "image": "img/615de85c.png",
+      "image_sha": "b00707bddb749654da4007bc5d132f0690659e4e",
+      "url": "https://www.radiodos.com.ar/211377-goya-el-acusado-por-exhibiciones-obscenas-fue-internado-tras-un-examen-psiquiatrico",
+      "title": "Goya: el acusado por exhibiciones obscenas fue internado tras un examen psiquiátrico",
+      "volanta": "JUSTICIA",
+      "date": "2026-07-27T20:47:48+00:00"
+    },
     {
       "id": "77223eb6",
       "image": "img/77223eb6.png",
@@ -531,15 +540,6 @@
       "title": "Asesinaron a un ingeniero argentino en Madrid: el principal sospechoso creía que era el amante de su esposa",
       "volanta": "El presunto asesino se quitó la vida",
       "date": "2026-07-23T13:48:30+00:00"
-    },
-    {
-      "id": "d277d0e6",
-      "image": "img/d277d0e6.png",
-      "image_sha": "abe7e4d177d31a0a9b93d41e27c46cf8b146fdb8",
-      "url": "https://www.radiodos.com.ar/211261-el-aguinaldo-dorado-del-banco-de-corrientes-ya-esta-disponible-desde-este-jueves-23",
-      "title": "El \"Aguinaldo Dorado\" del Banco de Corrientes ya está disponible desde este jueves 23",
-      "volanta": "DESDE LA APP Y BANCA WEB",
-      "date": "2026-07-23T13:34:22+00:00"
     }
   ]
 }
