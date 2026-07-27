@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T22:20:21+00:00",
+  "updated": "2026-07-27T22:21:09+00:00",
   "posts": [
+    {
+      "id": "3bd8c4df",
+      "image": "img/3bd8c4df.png",
+      "image_sha": "ff67a96c5ede5220526be6d178210695298a5164",
+      "url": "https://www.radiodos.com.ar/211387-cuando-es-el-feriado-de-agosto-y-como-quedara-el-unico-fin-de-semana-largo-del-mes",
+      "title": "Cuándo es el feriado de agosto y cómo quedará el único fin de semana largo del mes",
+      "volanta": "CALENDARIO",
+      "date": "2026-07-27T22:21:09+00:00"
+    },
     {
       "id": "1941297f",
       "image": "img/1941297f.png",
@@ -531,15 +540,6 @@
       "title": "Tenía un zorrito gris de mascota en su casa del interior de Corrientes",
       "volanta": "EN CURUZÚ",
       "date": "2026-07-23T22:05:06+00:00"
-    },
-    {
-      "id": "98c2f5b4",
-      "image": "img/98c2f5b4.png",
-      "image_sha": "890163e6e40a3d9c841b8ddd170473cf89ba5c26",
-      "url": "https://www.radiodos.com.ar/211270-la-confianza-del-consumidor-se-derrumbo-y-marco-el-peor-nivel-en-18-meses",
-      "title": "La confianza del consumidor se derrumbó y marcó el peor nivel en 18 meses",
-      "volanta": "FUERTE CÁIDA DEL ÁNIMO ECONÓMICO",
-      "date": "2026-07-23T21:04:05+00:00"
     }
   ]
 }
