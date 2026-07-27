@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T22:14:13+00:00",
+  "updated": "2026-07-27T22:15:08+00:00",
   "posts": [
+    {
+      "id": "d636fcac",
+      "image": "img/d636fcac.png",
+      "image_sha": "69940536ed2ab7a0db3d252833346bf63002182a",
+      "url": "https://www.radiodos.com.ar/211385-crecida-del-rio-uruguay-prefectura-pidio-extremar-precauciones-a-los-navegantes-en-corrientes",
+      "title": "Crecida del río Uruguay: Prefectura pidió extremar precauciones a los navegantes en Corrientes",
+      "volanta": "ALERTA",
+      "date": "2026-07-27T22:15:08+00:00"
+    },
     {
       "id": "12a8d0c4",
       "image": "img/12a8d0c4.png",
@@ -531,15 +540,6 @@
       "title": "Se conocieron detalles de la posible visita del papa León XIV a la Argentina",
       "volanta": "EN NOVIEMBRE",
       "date": "2026-07-23T20:59:00+00:00"
-    },
-    {
-      "id": "014c032c",
-      "image": "img/014c032c.png",
-      "image_sha": "47f1200ecede15f78ffe1e8b02d50fdba0c5e550",
-      "url": "https://www.radiodos.com.ar/211268-la-municipalidad-de-corrientes-pone-en-marcha-el-certamen-interbarrios-jacinto-mamuh",
-      "title": "La Municipalidad de Corrientes pone en marcha el certamen interbarrios \"Jacinto Mamuh\"",
-      "volanta": "LA VUELTA DE UN CLÁSICO",
-      "date": "2026-07-23T20:54:01+00:00"
     }
   ]
 }
