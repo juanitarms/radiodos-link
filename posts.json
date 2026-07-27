@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T20:49:26+00:00",
+  "updated": "2026-07-27T21:04:26+00:00",
   "posts": [
+    {
+      "id": "bd4ed0c3",
+      "image": "img/bd4ed0c3.png",
+      "image_sha": "37788fecf57605e76d99edaf6e475bf1d403c243",
+      "url": "https://www.radiodos.com.ar/211381-la-industria-no-despega-volvio-a-caer-en-junio-y-acumula-un-semestre-en-rojo",
+      "title": "La industria no despega: volvió a caer en junio y acumula un semestre en rojo",
+      "volanta": "CRISIS",
+      "date": "2026-07-27T21:04:26+00:00"
+    },
     {
       "id": "8f2dab35",
       "image": "img/8f2dab35.png",
@@ -531,15 +540,6 @@
       "title": "Se filtró que Tini Stoessel y Rodrigo De Paul ya eligieron la fecha para su casamiento",
       "volanta": "EN DICIEMBRE",
       "date": "2026-07-23T14:24:05+00:00"
-    },
-    {
-      "id": "b9a01d36",
-      "image": "img/b9a01d36.png",
-      "image_sha": "93f091294be35b9cb3a161c2bdbb7caeb80c3309",
-      "url": "https://www.radiodos.com.ar/211265-fin-del-programa-volver-al-trabajo-los-movimientos-sociales-protestaron-en-todo-el-pais",
-      "title": "Fin del programa Volver al Trabajo: los movimientos sociales protestaron en todo el país",
-      "volanta": "CONFLICTO SOCIAL",
-      "date": "2026-07-23T14:05:50+00:00"
     }
   ]
 }
