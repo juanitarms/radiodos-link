@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T22:17:54+00:00",
+  "updated": "2026-07-27T22:20:21+00:00",
   "posts": [
+    {
+      "id": "1941297f",
+      "image": "img/1941297f.png",
+      "image_sha": "670476f44ffa297419b0f9af0afa5ee09b28b0c5",
+      "url": "https://www.radiodos.com.ar/211388-el-mejor-gol-del-mundial-fue-el-segundo-de-cabo-verde-a-la-argentina",
+      "title": "El mejor gol del Mundial fue el segundo de Cabo Verde a la Argentina",
+      "volanta": "video",
+      "date": "2026-07-27T22:20:21+00:00"
+    },
     {
       "id": "f19ddfdf",
       "image": "img/f19ddfdf.png",
@@ -531,15 +540,6 @@
       "title": "La confianza del consumidor se derrumbó y marcó el peor nivel en 18 meses",
       "volanta": "FUERTE CÁIDA DEL ÁNIMO ECONÓMICO",
       "date": "2026-07-23T21:04:05+00:00"
-    },
-    {
-      "id": "c36683b2",
-      "image": "img/c36683b2.png",
-      "image_sha": "f44812a88bac0973b73237601d136b9ee12ec47f",
-      "url": "https://www.radiodos.com.ar/211271-el-rio-uruguay-sube-a-ritmo-constante-y-esperan-un-importante-pico-de-crecida-en-santo-tome",
-      "title": "El río Uruguay sube a ritmo constante y esperan un importante pico de crecida en Santo Tomé",
-      "volanta": "ALERTA",
-      "date": "2026-07-23T21:03:33+00:00"
     }
   ]
 }
