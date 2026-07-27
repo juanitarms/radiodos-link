@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T11:21:06+00:00",
+  "updated": "2026-07-27T11:42:00+00:00",
   "posts": [
+    {
+      "id": "e7e0dcd3",
+      "image": "img/e7e0dcd3.png",
+      "image_sha": "a7752eeb3bf0c3976c2c0efc4fa92f5165312759",
+      "url": "https://www.radiodos.com.ar/211332-se-reanuda-el-juicio-por-la-desaparicion-del-pequeno-loan-pena",
+      "title": "Se reanuda el juicio por la desaparición del pequeño Loan Peña",
+      "volanta": "MAÑANA",
+      "date": "2026-07-27T11:42:00+00:00"
+    },
     {
       "id": "24ef48c2",
       "image": "img/24ef48c2.png",
@@ -531,15 +540,6 @@
       "title": "Con canchas propias y la mirada en el ascenso: Mandiyú dirá presente en el Regional",
       "volanta": "ENTREVISTA EN RADIO DOS",
       "date": "2026-07-22T22:22:41+00:00"
-    },
-    {
-      "id": "36aad69f",
-      "image": "img/36aad69f.png",
-      "image_sha": "a8e4d4139349c067d680f4dc5df290b8f59d17a3",
-      "url": "https://www.radiodos.com.ar/211241-la-afa-desmintio-que-claudio-tapia-o-pablo-toviggino-hayan-sido-citados-por-la-justicia-de-estados-unidos",
-      "title": "La AFA desmintió que Claudio Tapia o Pablo Toviggino hayan sido citados por la Justicia de Estados Unidos",
-      "volanta": "DEPORTES",
-      "date": "2026-07-22T21:31:21+00:00"
     }
   ]
 }
