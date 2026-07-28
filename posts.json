@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T23:52:10+00:00",
+  "updated": "2026-07-28T23:56:25+00:00",
   "posts": [
+    {
+      "id": "8c678602",
+      "image": "img/8c678602.png",
+      "image_sha": "487a46aa7e8c519f44e93bbdbee480ec9c0b76a8",
+      "url": "https://www.radiodos.com.ar/211456-cristina-llevara-su-condena-ante-la-onu-y-denunciara-al-estado-argentino",
+      "title": "Cristina llevará su condena ante la ONU y denunciará al Estado argentino",
+      "volanta": "estrategia judicial",
+      "date": "2026-07-28T23:56:25+00:00"
+    },
     {
       "id": "4bce84bc",
       "image": "img/4bce84bc.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes ratifica su liderazgo genético y productivo en la muestra agropecuaria más importante del país",
       "volanta": "Exposición Rural de Palermo",
       "date": "2026-07-26T13:30:59+00:00"
-    },
-    {
-      "id": "d2e742db",
-      "image": "img/d2e742db.png",
-      "image_sha": "d76293d65851c64e2dceb6f01c825805d360d528",
-      "url": "https://www.radiodos.com.ar/211319-teatro-vera-el-violinista-italiano-marco-misciagna-brindara-un-concierto-gratuito",
-      "title": "Teatro Vera: el violinista italiano Marco Misciagna brindará un concierto gratuito",
-      "volanta": "CULTURA",
-      "date": "2026-07-26T13:18:26+00:00"
     }
   ]
 }
