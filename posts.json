@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T22:18:55+00:00",
+  "updated": "2026-07-28T23:52:10+00:00",
   "posts": [
+    {
+      "id": "4bce84bc",
+      "image": "img/4bce84bc.png",
+      "image_sha": "61bfa92a490bce096223fce7eea200e51d884d8a",
+      "url": "https://www.radiodos.com.ar/211454-el-millonario-ofrecimiento-por-el-correntino-lopez-tras-el-mundial-2026",
+      "title": "El millonario ofrecimiento por el correntino López tras el Mundial 2026",
+      "volanta": "MERCADO DE PASES",
+      "date": "2026-07-28T23:52:10+00:00"
+    },
     {
       "id": "50c56e77",
       "image": "img/50c56e77.png",
@@ -531,15 +540,6 @@
       "title": "Teatro Vera: el violinista italiano Marco Misciagna brindará un concierto gratuito",
       "volanta": "CULTURA",
       "date": "2026-07-26T13:18:26+00:00"
-    },
-    {
-      "id": "cbd3516b",
-      "image": "img/cbd3516b.png",
-      "image_sha": "e2d64628a43013a39c214739cb4adf6449d02c47",
-      "url": "https://www.radiodos.com.ar/211312-en-conjunto-con-gendarmeria-la-policia-de-corrientes-dio-otro-golpe-contra-el-abigeato",
-      "title": "En conjunto con Gendarmería, la Policía de Corrientes dio otro golpe contra el abigeato",
-      "volanta": "DOS DETENIDOS",
-      "date": "2026-07-25T22:09:22+00:00"
     }
   ]
 }
