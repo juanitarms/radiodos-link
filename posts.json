@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T11:00:38+00:00",
+  "updated": "2026-07-28T11:25:23+00:00",
   "posts": [
+    {
+      "id": "88719db1",
+      "image": "img/88719db1.png",
+      "image_sha": "c68e842c6e0958455282db8feb24346841b92bce",
+      "url": "https://www.radiodos.com.ar/211392-corrientes-mostro-su-potencial-productivo-al-embajador-de-china-visita-a-industria-yerbatera-y-el-puerto-de-ituzaingo",
+      "title": "Corrientes mostró su potencial productivo al embajador de China: visita a industria yerbatera y el puerto de Ituzaingó",
+      "volanta": "JUNTO AL GOBERNADOR VALDÉS",
+      "date": "2026-07-28T11:25:23+00:00"
+    },
     {
       "id": "e29c78bd",
       "image": "img/e29c78bd.png",
@@ -531,15 +540,6 @@
       "title": "Valdés mantuvo una reunión estratégica con el embajador de la Unión Europea y sobrevoló el Iberá",
       "volanta": "ESTE JUEVES",
       "date": "2026-07-23T22:09:47+00:00"
-    },
-    {
-      "id": "5e5b35f1",
-      "image": "img/5e5b35f1.png",
-      "image_sha": "d7707c7637663a6436ee4113afe9d1905e808e02",
-      "url": "https://www.radiodos.com.ar/211272-record-mas-de-1400000-turistas-visitaron-argentina-en-el-primer-semestre",
-      "title": "Récord: más de 1.400.000 turistas visitaron Argentina en el primer semestre",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-07-23T22:07:06+00:00"
     }
   ]
 }
