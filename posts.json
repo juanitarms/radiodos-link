@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T13:52:23+00:00",
+  "updated": "2026-07-28T14:24:25+00:00",
   "posts": [
+    {
+      "id": "8900a735",
+      "image": "img/8900a735.png",
+      "image_sha": "2064019dc83c69cde14013438644f5057826e026",
+      "url": "https://www.radiodos.com.ar/211423-wanda-nara-difundio-imagenes-del-robo-en-italia-volvio-a-apuntar-contra-mauro-icardi",
+      "title": "Wanda Nara difundió imágenes del robo en Italia: volvió a apuntar contra Mauro Icardi",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-07-28T14:24:25+00:00"
+    },
     {
       "id": "2e9f5adc",
       "image": "img/2e9f5adc.png",
@@ -531,15 +540,6 @@
       "title": "Milei viaja a Brasil: visita San Pablo y se encontrará con Flavio Bolsonaro",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-07-24T12:02:53+00:00"
-    },
-    {
-      "id": "5c463e0e",
-      "image": "img/5c463e0e.png",
-      "image_sha": "79e9016b4c5b6e2e6e33d39524f666923ae030fb",
-      "url": "https://www.radiodos.com.ar/211281-ultimos-dias-de-vacaciones-con-opciones-en-capital-y-el-interior",
-      "title": "Últimos días de vacaciones con opciones en Capital y el interior",
-      "volanta": "LA PROVINCIA COMO ALTERNATIVA DE TURISMO INTERNO",
-      "date": "2026-07-24T11:19:30+00:00"
     }
   ]
 }
