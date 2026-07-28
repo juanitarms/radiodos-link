@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T17:35:42+00:00",
+  "updated": "2026-07-28T19:05:29+00:00",
   "posts": [
+    {
+      "id": "c57888ea",
+      "image": "img/c57888ea.png",
+      "image_sha": "fa083533f5fb6012628e71d39b20e42fa589ad07",
+      "url": "https://www.radiodos.com.ar/211436-skene-reestrena-se-necesita-un-cadaver-este-fin-de-semana",
+      "title": "Skené reestrena \"Se necesita un cadáver\" este fin de semana",
+      "volanta": "TEATRO",
+      "date": "2026-07-28T19:05:29+00:00"
+    },
     {
       "id": "f7f4bf3b",
       "image": "img/f7f4bf3b.png",
@@ -531,15 +540,6 @@
       "title": "Supuesto bebé desaparecido en Corrientes: la denunciante no tiene rastros de un parto previo",
       "volanta": "NOTICIA",
       "date": "2026-07-24T20:16:23+00:00"
-    },
-    {
-      "id": "528e44f5",
-      "image": "img/528e44f5.png",
-      "image_sha": "37740e740ab302195ab9b5c5c7de667960fd3d79",
-      "url": "https://www.radiodos.com.ar/211296-fin-de-la-novela-river-oficializo-la-llegada-de-angel-correa",
-      "title": "Fin de la novela: River oficializó la llegada de Ángel Correa",
-      "volanta": "fútbol",
-      "date": "2026-07-24T15:05:00+00:00"
     }
   ]
 }
