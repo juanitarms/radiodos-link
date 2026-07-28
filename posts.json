@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T16:19:41+00:00",
+  "updated": "2026-07-28T16:20:14+00:00",
   "posts": [
+    {
+      "id": "ff0b1295",
+      "image": "img/ff0b1295.png",
+      "image_sha": "2481b2a5deaf11cff88ac2a826f9c41b37144637",
+      "url": "https://www.radiodos.com.ar/211428-la-lujosa-escapada-de-leandro-paredes-con-su-familia-a-la-patagonia-cuantas-habitaciones-reservo",
+      "title": "La lujosa escapada de Leandro Paredes con su familia a la Patagonia: cuántas habitaciones reservó",
+      "volanta": "DESCANSO",
+      "date": "2026-07-28T16:20:14+00:00"
+    },
     {
       "id": "2470e61f",
       "image": "img/2470e61f.png",
@@ -531,15 +540,6 @@
       "title": "Después de 5 meses una ocelote regresó a su habitat natural: había sido atropellada en Misiones",
       "volanta": "Parque Nacional Iguazú",
       "date": "2026-07-24T13:31:48+00:00"
-    },
-    {
-      "id": "8096276b",
-      "image": "img/8096276b.png",
-      "image_sha": "05cf538dcb777661fcdf56fd901f73db6defe336",
-      "url": "https://www.radiodos.com.ar/211292-escandalo-de-rosalia-cancelaron-traslados-al-movistar-arena-luego-del-polemico-video",
-      "title": "Escándalo de Rosalía: cancelaron traslados al Movistar Arena luego del polémico video",
-      "volanta": "REDES  SOCIALES",
-      "date": "2026-07-24T13:14:27+00:00"
     }
   ]
 }
