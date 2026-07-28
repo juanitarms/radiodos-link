@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T23:56:25+00:00",
+  "updated": "2026-07-28T23:56:58+00:00",
   "posts": [
+    {
+      "id": "dccd6bcf",
+      "image": "img/dccd6bcf.png",
+      "image_sha": "64730b05a69e8118e79ff82064b6c46fc2488a47",
+      "url": "https://www.radiodos.com.ar/211455-avanzan-las-obras-en-el-arroyo-pirayui-y-habra-restricciones-de-transito-en-la-avenida-maipu-por-30-dias",
+      "title": "Avanzan las obras en el arroyo Pirayuí y habrá restricciones de tránsito en la avenida Maipú por 30 días",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-28T23:56:58+00:00"
+    },
     {
       "id": "8c678602",
       "image": "img/8c678602.png",
@@ -531,15 +540,6 @@
       "title": "La Muni en tu Barrio retoma su recorrido en el barrio Cremonte con servicios gratuitos",
       "volanta": "CAPITAL",
       "date": "2026-07-26T13:39:16+00:00"
-    },
-    {
-      "id": "dd3667e7",
-      "image": "img/dd3667e7.png",
-      "image_sha": "7ca0de0bfea5f3762dbb161a37fe78f23d589234",
-      "url": "https://www.radiodos.com.ar/211318-corrientes-ratifica-su-liderazgo-genetico-y-productivo-en-la-muestra-agropecuaria-mas-importante-del-pais",
-      "title": "Corrientes ratifica su liderazgo genético y productivo en la muestra agropecuaria más importante del país",
-      "volanta": "Exposición Rural de Palermo",
-      "date": "2026-07-26T13:30:59+00:00"
     }
   ]
 }
