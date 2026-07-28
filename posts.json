@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T11:25:23+00:00",
+  "updated": "2026-07-28T11:53:06+00:00",
   "posts": [
+    {
+      "id": "c6fe1e9d",
+      "image": "img/c6fe1e9d.png",
+      "image_sha": "957c201c32cf1b68141003fc9f877ba10b83848a",
+      "url": "https://www.radiodos.com.ar/211397-el-rio-uruguay-continua-creciendo-y-supero-la-etapa-de-alerta-en-paso-de-los-libres",
+      "title": "El río Uruguay continúa creciendo y superó la etapa de alerta en Paso de los Libres",
+      "volanta": "ALERTA",
+      "date": "2026-07-28T11:53:06+00:00"
+    },
     {
       "id": "88719db1",
       "image": "img/88719db1.png",
@@ -531,15 +540,6 @@
       "title": "Hubo consenso, y Lorena Lazaroff presidirá el PRO-Corrientes",
       "volanta": "ADELANTO",
       "date": "2026-07-23T22:10:19+00:00"
-    },
-    {
-      "id": "bc3399b8",
-      "image": "img/bc3399b8.png",
-      "image_sha": "b873b1d4659fd0bd604895b38f5295dd7183be95",
-      "url": "https://www.radiodos.com.ar/211274-valdes-mantuvo-una-reunion-estrategica-con-el-embajador-de-la-union-europea-y-sobrevolo-el-ibera",
-      "title": "Valdés mantuvo una reunión estratégica con el embajador de la Unión Europea y sobrevoló el Iberá",
-      "volanta": "ESTE JUEVES",
-      "date": "2026-07-23T22:09:47+00:00"
     }
   ]
 }
