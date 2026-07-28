@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T20:55:45+00:00",
+  "updated": "2026-07-28T20:56:17+00:00",
   "posts": [
+    {
+      "id": "9cd54a80",
+      "image": "img/9cd54a80.png",
+      "image_sha": "939c076b6e4adbb76ff566e3bbcb19f55da0c112",
+      "url": "https://www.radiodos.com.ar/211443-en-la-reanudacion-del-juicio-por-el-caso-loan-declararon-cuatro-testigos-y-un-policia-",
+      "title": "En la reanudación del juicio por el caso Loan declararon cuatro testigos y un policía",
+      "volanta": "COBERTURA ESPECIAL",
+      "date": "2026-07-28T20:56:17+00:00"
+    },
     {
       "id": "a46f0c44",
       "image": "img/a46f0c44.png",
@@ -531,15 +540,6 @@
       "title": "La morosidad de las familias volvió a aumentar en mayo y casi triplicó los niveles de 2025",
       "volanta": "Crisis",
       "date": "2026-07-24T22:40:43+00:00"
-    },
-    {
-      "id": "b576035a",
-      "image": "img/b576035a.png",
-      "image_sha": "d6c3f567093d5876666de801e6ea40655604d3ee",
-      "url": "https://www.radiodos.com.ar/211308-fabuladora-en-corrientes-hace-unos-anos-mintio-de-la-misma-manera-y-nunca-estuvo-embarazada",
-      "title": "Fabuladora en Corrientes: \"Hace unos años mintió de la misma manera... y nunca estuvo embarazada\"",
-      "volanta": "FABULACIÓN",
-      "date": "2026-07-24T22:16:18+00:00"
     }
   ]
 }
