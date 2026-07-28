@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T17:10:48+00:00",
+  "updated": "2026-07-28T17:35:42+00:00",
   "posts": [
+    {
+      "id": "f7f4bf3b",
+      "image": "img/f7f4bf3b.png",
+      "image_sha": "4f4b85456c734698a304c223948d990bfbde8373",
+      "url": "https://www.radiodos.com.ar/211432-horror-en-villa-gesell-lucia-sosa-se-nego-a-declarar-por-la-muerte-de-su-hija",
+      "title": "Horror en Villa Gesell: Lucía Sosa se negó a declarar por la muerte de su hija",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-28T17:35:42+00:00"
+    },
     {
       "id": "12537b34",
       "image": "img/12537b34.png",
@@ -531,15 +540,6 @@
       "title": "Fin de la novela: River oficializó la llegada de Ángel Correa",
       "volanta": "fútbol",
       "date": "2026-07-24T15:05:00+00:00"
-    },
-    {
-      "id": "895e9b57",
-      "image": "img/895e9b57.png",
-      "image_sha": "bc4611f983911401cc750c499224e859778509b2",
-      "url": "https://www.radiodos.com.ar/211288-daniela-celis-abandono-gran-hermano-por-sus-hijas-no-puedo-estar-sin-ellas",
-      "title": "Daniela Celis abandonó Gran Hermano por sus hijas: \"No puedo estar sin ellas\"",
-      "volanta": "REALITY",
-      "date": "2026-07-24T14:31:56+00:00"
     }
   ]
 }
