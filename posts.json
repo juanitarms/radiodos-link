@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T20:53:22+00:00",
+  "updated": "2026-07-28T20:55:45+00:00",
   "posts": [
+    {
+      "id": "a46f0c44",
+      "image": "img/a46f0c44.png",
+      "image_sha": "2022c9cd02128352a2af1db986a6adbc8952fc83",
+      "url": "https://www.radiodos.com.ar/211444-a-42-anos-de-su-fallecimiento-recordaron-en-goya-a-monsenor-devoto-",
+      "title": "A 42 años de su fallecimiento, recordaron en Goya a monseñor Devoto",
+      "volanta": "GOYA",
+      "date": "2026-07-28T20:55:45+00:00"
+    },
     {
       "id": "621ee018",
       "image": "img/621ee018.png",
@@ -531,15 +540,6 @@
       "title": "Fabuladora en Corrientes: \"Hace unos años mintió de la misma manera... y nunca estuvo embarazada\"",
       "volanta": "FABULACIÓN",
       "date": "2026-07-24T22:16:18+00:00"
-    },
-    {
-      "id": "45186d5e",
-      "image": "img/45186d5e.png",
-      "image_sha": "57831f4073ebd95dc4a80058d9124f7b4b24081e",
-      "url": "https://www.radiodos.com.ar/211309-corrientes-busca-exportar-carne-con-certificacion-halal-a-turquia-y-potenciar-el-mercado-arrocero",
-      "title": "Corrientes busca exportar carne con certificación Halal a Turquía y potenciar el mercado arrocero",
-      "volanta": "Encuentro institucional",
-      "date": "2026-07-24T22:15:38+00:00"
     }
   ]
 }
