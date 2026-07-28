@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T19:05:29+00:00",
+  "updated": "2026-07-28T19:05:59+00:00",
   "posts": [
+    {
+      "id": "d3e011ba",
+      "image": "img/d3e011ba.png",
+      "image_sha": "a946a9af204f76b5c579cb82a72679e3b7bb7a33",
+      "url": "https://www.radiodos.com.ar/211435-rosalia-tambien-hizo-enojar-al-publico-chileno-tras-su-polemica-con-argentina",
+      "title": "Rosalía también hizo enojar al público chileno tras su polémica con Argentina",
+      "volanta": "TODO MAL",
+      "date": "2026-07-28T19:05:59+00:00"
+    },
     {
       "id": "c57888ea",
       "image": "img/c57888ea.png",
@@ -531,15 +540,6 @@
       "title": "Nicolás González fue recibido por vecinos y veteranos de Malvinas tras el Mundial 2026",
       "volanta": "En escobar",
       "date": "2026-07-24T20:43:07+00:00"
-    },
-    {
-      "id": "d23fc598",
-      "image": "img/d23fc598.png",
-      "image_sha": "bd58729524e2ab3c87108ec1b22c571d835dfd56",
-      "url": "https://www.radiodos.com.ar/211302-supuesto-bebe-desaparecido-en-corrientes-la-denunciante-no-tiene-rastros-de-un-parto-previo",
-      "title": "Supuesto bebé desaparecido en Corrientes: la denunciante no tiene rastros de un parto previo",
-      "volanta": "NOTICIA",
-      "date": "2026-07-24T20:16:23+00:00"
     }
   ]
 }
