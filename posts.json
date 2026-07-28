@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T22:04:24+00:00",
+  "updated": "2026-07-28T22:11:22+00:00",
   "posts": [
+    {
+      "id": "2679ed7b",
+      "image": "img/2679ed7b.png",
+      "image_sha": "0a5a9d65e8cdbfa562ab1059dcdf193808a297c7",
+      "url": "https://www.radiodos.com.ar/211445-el-compromiso-de-la-municipalidad-de-corrientes-con-las-personas-en-situacion-de-calle-fue-distinguido-por-el-concejo",
+      "title": "El compromiso de la Municipalidad de Corrientes con las personas en situación de calle fue distinguido por el Concejo",
+      "volanta": "CONTENCIÓN EN LA CIUDAD",
+      "date": "2026-07-28T22:11:22+00:00"
+    },
     {
       "id": "fcde269d",
       "image": "img/fcde269d.png",
@@ -531,15 +540,6 @@
       "title": "El barrio Laguna Seca prepara su festividad patronal en honor a San Pantaleón",
       "volanta": "este finde",
       "date": "2026-07-25T19:42:56+00:00"
-    },
-    {
-      "id": "9bd1c7b4",
-      "image": "img/9bd1c7b4.png",
-      "image_sha": "ce315bee5b9adaa48b0858d8ee5696ff1d14ec6d",
-      "url": "https://www.radiodos.com.ar/211315-crecida-del-rio-uruguay-santo-tome-ingreso-en-etapa-de-alerta-sin-evacuados-y-con-monitoreo-permanente-",
-      "title": "Crecida del río Uruguay: Santo Tomé ingresó en etapa de alerta, sin evacuados y con monitoreo permanente",
-      "volanta": "ULTIMOS DATOS",
-      "date": "2026-07-25T17:06:13+00:00"
     }
   ]
 }
