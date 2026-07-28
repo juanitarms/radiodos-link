@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T13:24:43+00:00",
+  "updated": "2026-07-28T13:52:23+00:00",
   "posts": [
+    {
+      "id": "2e9f5adc",
+      "image": "img/2e9f5adc.png",
+      "image_sha": "a0e3fd6bb48abaa719908f84b965164f4829123c",
+      "url": "https://www.radiodos.com.ar/211419-intoxicacion-masiva-en-coronel-pringles-mas-de-40-personas-afectadas-tras-una-pollada-solidaria-para-una-beba",
+      "title": "Intoxicación masiva en Coronel Pringles: más de 40 personas afectadas tras una pollada solidaria para una beba",
+      "volanta": "SALUD",
+      "date": "2026-07-28T13:52:23+00:00"
+    },
     {
       "id": "c41ba0cb",
       "image": "img/c41ba0cb.png",
@@ -531,15 +540,6 @@
       "title": "Últimos días de vacaciones con opciones en Capital y el interior",
       "volanta": "LA PROVINCIA COMO ALTERNATIVA DE TURISMO INTERNO",
       "date": "2026-07-24T11:19:30+00:00"
-    },
-    {
-      "id": "fc43af92",
-      "image": "img/fc43af92.png",
-      "image_sha": "1ff89aa3d7d16bf05aaae865f67d2214859ab3fa",
-      "url": "https://www.radiodos.com.ar/211282-tras-el-triunfo-de-boca-paredes-puso-en-duda-su-continuidad-en-la-seleccion",
-      "title": "Tras el triunfo de Boca, Paredes puso en duda su continuidad en la Selección",
-      "volanta": "FÚTBOL",
-      "date": "2026-07-24T11:03:15+00:00"
     }
   ]
 }
