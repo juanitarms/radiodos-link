@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T19:06:36+00:00",
+  "updated": "2026-07-28T20:53:22+00:00",
   "posts": [
+    {
+      "id": "621ee018",
+      "image": "img/621ee018.png",
+      "image_sha": "f4ec16beafbabaed68127de6cf7a54048e1ecc42",
+      "url": "https://www.radiodos.com.ar/211442-la-mujer-que-denuncio-el-robo-de-un-recien-nacido-en-corrientes-admitio-que-nunca-estuvo-embarazada",
+      "title": "La mujer que denunció el robo de un recién nacido en Corrientes admitió que nunca estuvo embarazada",
+      "volanta": "SE RETRACTÓ ANTE LA JUSTICIA",
+      "date": "2026-07-28T20:53:22+00:00"
+    },
     {
       "id": "f8ad6497",
       "image": "img/f8ad6497.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes busca exportar carne con certificación Halal a Turquía y potenciar el mercado arrocero",
       "volanta": "Encuentro institucional",
       "date": "2026-07-24T22:15:38+00:00"
-    },
-    {
-      "id": "c140eb0d",
-      "image": "img/c140eb0d.png",
-      "image_sha": "096c75d1594fd68a42cea247efe3cdec92b4e7b2",
-      "url": "https://www.radiodos.com.ar/211307-incautan-mercaderia-de-contrabando-millonaria-que-viajaba-hacia-buenos-aires",
-      "title": "Incautan mercadería de contrabando millonaria que viajaba hacia Buenos Aires",
-      "volanta": "Controles en las rutas de Corrientes",
-      "date": "2026-07-24T20:48:16+00:00"
     }
   ]
 }
