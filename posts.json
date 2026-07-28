@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-27T22:21:09+00:00",
+  "updated": "2026-07-28T11:00:38+00:00",
   "posts": [
+    {
+      "id": "e29c78bd",
+      "image": "img/e29c78bd.png",
+      "image_sha": "96f86e851fdc91dc8b8215905882156cfe71ee31",
+      "url": "https://www.radiodos.com.ar/211391-guerra-de-pandillas-preocupa-los-nuevos-incidentes-en-la-capital",
+      "title": "Guerra de pandillas: preocupa los nuevos incidentes en la Capital",
+      "volanta": "EN VARIOS BARRIOS",
+      "date": "2026-07-28T11:00:38+00:00"
+    },
     {
       "id": "3bd8c4df",
       "image": "img/3bd8c4df.png",
@@ -531,15 +540,6 @@
       "title": "Récord: más de 1.400.000 turistas visitaron Argentina en el primer semestre",
       "volanta": "DATOS OFICIALES",
       "date": "2026-07-23T22:07:06+00:00"
-    },
-    {
-      "id": "735459c1",
-      "image": "img/735459c1.png",
-      "image_sha": "7e73f5aa4594195b45770c6540e0a1552af64381",
-      "url": "https://www.radiodos.com.ar/211273-tenia-un-zorrito-gris-de-mascota-en-su-casa-del-interior-de-corrientes",
-      "title": "Tenía un zorrito gris de mascota en su casa del interior de Corrientes",
-      "volanta": "EN CURUZÚ",
-      "date": "2026-07-23T22:05:06+00:00"
     }
   ]
 }
