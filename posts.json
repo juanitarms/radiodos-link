@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T22:03:29+00:00",
+  "updated": "2026-07-28T22:04:24+00:00",
   "posts": [
+    {
+      "id": "fcde269d",
+      "image": "img/fcde269d.png",
+      "image_sha": "3727f293996ae789fba7ba7c3a8a945a0cac9e2b",
+      "url": "https://www.radiodos.com.ar/211446-el-gobierno-anuncio-un-acuerdo-con-starlink-para-llevar-internet-satelital-a-escuelas-rurales-de-todo-el-pais",
+      "title": "El Gobierno anunció un acuerdo con Starlink para llevar internet satelital a escuelas rurales de todo el país",
+      "volanta": "CONECTIVIDAD",
+      "date": "2026-07-28T22:04:24+00:00"
+    },
     {
       "id": "58f494f9",
       "image": "img/58f494f9.png",
@@ -531,15 +540,6 @@
       "title": "Crecida del río Uruguay: Santo Tomé ingresó en etapa de alerta, sin evacuados y con monitoreo permanente",
       "volanta": "ULTIMOS DATOS",
       "date": "2026-07-25T17:06:13+00:00"
-    },
-    {
-      "id": "5893c52e",
-      "image": "img/5893c52e.png",
-      "image_sha": "829c123be22e8411449ea09775357dac8ea47f2d",
-      "url": "https://www.radiodos.com.ar/211313-investigan-a-un-hombre-que-habria-disparado-con-un-arma-de-fuego-a-un-perro-en-el-interior-de-corrientes",
-      "title": "Investigan a un hombre que habría disparado con un arma de fuego a un perro en el interior de Corrientes",
-      "volanta": "COLONIA PANDO",
-      "date": "2026-07-25T13:14:38+00:00"
     }
   ]
 }
