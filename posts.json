@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T15:02:33+00:00",
+  "updated": "2026-07-28T16:19:41+00:00",
   "posts": [
+    {
+      "id": "2470e61f",
+      "image": "img/2470e61f.png",
+      "image_sha": "0df10db0cfb6d91fcd8409af7607997f1034e5dc",
+      "url": "https://www.radiodos.com.ar/211429-gran-hermano-tuvo-una-nueva-eliminacion-quien-abandono-la-casa-tras-el-voto-del-publico",
+      "title": "Gran Hermano tuvo una nueva eliminación: quién abandonó la casa tras el voto del público",
+      "volanta": "SIGUE EL JUEGO",
+      "date": "2026-07-28T16:19:41+00:00"
+    },
     {
       "id": "1306687d",
       "image": "img/1306687d.png",
@@ -531,15 +540,6 @@
       "title": "Escándalo de Rosalía: cancelaron traslados al Movistar Arena luego del polémico video",
       "volanta": "REDES  SOCIALES",
       "date": "2026-07-24T13:14:27+00:00"
-    },
-    {
-      "id": "1e2802d1",
-      "image": "img/1e2802d1.png",
-      "image_sha": "b8605411345618a990012a1208c11bfce3550fbf",
-      "url": "https://www.radiodos.com.ar/211286-en-santo-tome-el-rio-uruguay-supero-los-10-metros-el-pico-no-llegaria-al-nivel-de-alerta",
-      "title": "En Santo Tomé el río Uruguay superó los 10 metros: el pico no llegaría al nivel de alerta",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-24T13:02:04+00:00"
     }
   ]
 }
