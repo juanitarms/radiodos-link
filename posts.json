@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T14:50:27+00:00",
+  "updated": "2026-07-28T15:02:33+00:00",
   "posts": [
+    {
+      "id": "1306687d",
+      "image": "img/1306687d.png",
+      "image_sha": "d42d86bf4b051beadff39cfc9cc8dc224fa48cb6",
+      "url": "https://www.radiodos.com.ar/211406-corrientes-fue-a-vender-su-moto-y-se-la-robaron-a-punta-de-pistola",
+      "title": "Corrientes: fue a vender su moto y se la robaron a punta de pistola",
+      "volanta": "PLAZA DEL MERCOSUR",
+      "date": "2026-07-28T15:02:33+00:00"
+    },
     {
       "id": "5061cf8a",
       "image": "img/5061cf8a.png",
@@ -531,15 +540,6 @@
       "title": "En Santo Tomé el río Uruguay superó los 10 metros: el pico no llegaría al nivel de alerta",
       "volanta": "CORRIENTES",
       "date": "2026-07-24T13:02:04+00:00"
-    },
-    {
-      "id": "2bd37153",
-      "image": "img/2bd37153.png",
-      "image_sha": "f1e876eda499cde46f6e3c0dd1333fd7b932346d",
-      "url": "https://www.radiodos.com.ar/211285-comienza-el-pago-de-sueldos-para-estatales-de-corrientes",
-      "title": "Comienza el pago de sueldos para estatales de Corrientes",
-      "volanta": "disponible desde este sábado",
-      "date": "2026-07-24T12:19:07+00:00"
     }
   ]
 }
