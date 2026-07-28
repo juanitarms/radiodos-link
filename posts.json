@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T14:24:25+00:00",
+  "updated": "2026-07-28T14:50:27+00:00",
   "posts": [
+    {
+      "id": "5061cf8a",
+      "image": "img/5061cf8a.png",
+      "image_sha": "c1500ef8751266002ae3668ecf50c57880c4dc4d",
+      "url": "https://www.radiodos.com.ar/211427-gran-hermano-devi-el-correntino-volvio-a-la-casa-y-causo-revuelo-",
+      "title": "Gran Hermano: Devi el correntino volvió a la casa y causó revuelo",
+      "volanta": "DE VISITA",
+      "date": "2026-07-28T14:50:27+00:00"
+    },
     {
       "id": "8900a735",
       "image": "img/8900a735.png",
@@ -531,15 +540,6 @@
       "title": "Comienza el pago de sueldos para estatales de Corrientes",
       "volanta": "disponible desde este sábado",
       "date": "2026-07-24T12:19:07+00:00"
-    },
-    {
-      "id": "05b33efa",
-      "image": "img/05b33efa.png",
-      "image_sha": "298945d7c8c9d7a5ee98b71b78e709b696a7e3fc",
-      "url": "https://www.radiodos.com.ar/211284-milei-viaja-a-brasil-visita-san-pablo-y-se-encontrara-con-flavio-bolsonaro",
-      "title": "Milei viaja a Brasil: visita San Pablo y se encontrará con Flavio Bolsonaro",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-07-24T12:02:53+00:00"
     }
   ]
 }
