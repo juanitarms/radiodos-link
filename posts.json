@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T22:13:02+00:00",
+  "updated": "2026-07-28T22:18:55+00:00",
   "posts": [
+    {
+      "id": "50c56e77",
+      "image": "img/50c56e77.png",
+      "image_sha": "69e1ef8ada3d57024c3e6ba4cadaf1df6d5f7d81",
+      "url": "https://www.radiodos.com.ar/211449-el-embajador-de-china-visito-la-unne-para-profundizar-la-cooperacion-academica-y-tecnologica",
+      "title": "El embajador de China visitó la UNNE para profundizar la cooperación académica y tecnológica",
+      "volanta": "ESTE MARTES",
+      "date": "2026-07-28T22:18:55+00:00"
+    },
     {
       "id": "314e94b5",
       "image": "img/314e94b5.png",
@@ -531,15 +540,6 @@
       "title": "En conjunto con Gendarmería, la Policía de Corrientes dio otro golpe contra el abigeato",
       "volanta": "DOS DETENIDOS",
       "date": "2026-07-25T22:09:22+00:00"
-    },
-    {
-      "id": "e7b8f085",
-      "image": "img/e7b8f085.png",
-      "image_sha": "8c4f9ab4b9b784a4a0ba2194db8080e74179bbe5",
-      "url": "https://www.radiodos.com.ar/211316-buscan-a-una-menor-que-esta-desaparecida-en-el-interior-de-corrientes",
-      "title": "Buscan a una menor que está desaparecida en el interior de Corrientes",
-      "volanta": "CURUZU CUATIA",
-      "date": "2026-07-25T19:47:41+00:00"
     }
   ]
 }
