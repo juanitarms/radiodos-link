@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T12:46:48+00:00",
+  "updated": "2026-07-28T13:02:38+00:00",
   "posts": [
+    {
+      "id": "09ee342b",
+      "image": "img/09ee342b.png",
+      "image_sha": "a6cade1b8bc029097c60b1858f4bc2a63a1cb413",
+      "url": "https://www.radiodos.com.ar/211410-fervor-en-pujato-el-fenomeno-inesperado-que-provoco-scaloni-y-sorprendio-a-todos",
+      "title": "Fervor en Pujato: el fenómeno inesperado que provocó Scaloni y sorprendió a todos",
+      "volanta": "SORPRESA",
+      "date": "2026-07-28T13:02:38+00:00"
+    },
     {
       "id": "6f5f761d",
       "image": "img/6f5f761d.png",
@@ -531,15 +540,6 @@
       "title": "Salud prepara un nuevo subsidio para embarazadas y un centro para adolescentes",
       "volanta": "CORRIENTES",
       "date": "2026-07-24T10:28:51+00:00"
-    },
-    {
-      "id": "9a8657db",
-      "image": "img/9a8657db.png",
-      "image_sha": "2c0da2b95ea682b8bfd1f4751a4e1c0b29fe7cad",
-      "url": "https://www.radiodos.com.ar/211277-otamendi-se-retiro-de-la-seleccion-me-voy-con-la-tranquilidad-de-haberlo-dejado-todo",
-      "title": "Otamendi se retiró de la Selección: \"Me voy con la tranquilidad de haberlo dejado todo\"",
-      "volanta": "EMOTIVO MENSAJE",
-      "date": "2026-07-23T22:36:05+00:00"
     }
   ]
 }
