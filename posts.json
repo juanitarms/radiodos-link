@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T20:56:17+00:00",
+  "updated": "2026-07-28T22:03:29+00:00",
   "posts": [
+    {
+      "id": "58f494f9",
+      "image": "img/58f494f9.png",
+      "image_sha": "77fce6e556288afcc0b84e518586df3ab3aabdcc",
+      "url": "https://www.radiodos.com.ar/211447-alvear-entristece-con-la-muerte-de-pichino-el-perro-del-pueblo",
+      "title": "Alvear entristece con la muerte de Pichino, el perro del pueblo",
+      "volanta": "PERSONAJE QUERIDO DE LA LOCALIDAD",
+      "date": "2026-07-28T22:03:29+00:00"
+    },
     {
       "id": "9cd54a80",
       "image": "img/9cd54a80.png",
@@ -531,15 +540,6 @@
       "title": "Investigan a un hombre que habría disparado con un arma de fuego a un perro en el interior de Corrientes",
       "volanta": "COLONIA PANDO",
       "date": "2026-07-25T13:14:38+00:00"
-    },
-    {
-      "id": "6e967e83",
-      "image": "img/6e967e83.png",
-      "image_sha": "fcacbd2e2d9ad49861d05e806770c7210c8f6c21",
-      "url": "https://www.radiodos.com.ar/211310-la-morosidad-de-las-familias-volvio-a-aumentar-en-mayo-y-casi-triplico-los-niveles-de-2025",
-      "title": "La morosidad de las familias volvió a aumentar en mayo y casi triplicó los niveles de 2025",
-      "volanta": "Crisis",
-      "date": "2026-07-24T22:40:43+00:00"
     }
   ]
 }
