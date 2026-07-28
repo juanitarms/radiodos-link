@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T22:11:22+00:00",
+  "updated": "2026-07-28T22:13:02+00:00",
   "posts": [
+    {
+      "id": "314e94b5",
+      "image": "img/314e94b5.png",
+      "image_sha": "1e7f42409a11bc54117c7e5dc0dacd853da20442",
+      "url": "https://www.radiodos.com.ar/211451-acciones-preventivas-por-el-nino-avanza-una-importante-obra-de-desague-en-la-ciudad-de-corrientes",
+      "title": "Acciones preventivas por \"El Niño\": avanza una importante obra de desagüe en la ciudad de Corrientes",
+      "volanta": "INFRAESTRUCTURA URBANA",
+      "date": "2026-07-28T22:13:02+00:00"
+    },
     {
       "id": "2679ed7b",
       "image": "img/2679ed7b.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una menor que está desaparecida en el interior de Corrientes",
       "volanta": "CURUZU CUATIA",
       "date": "2026-07-25T19:47:41+00:00"
-    },
-    {
-      "id": "caf2b66d",
-      "image": "img/caf2b66d.png",
-      "image_sha": "727e8c7145e5035d611d87b08254ece8c590e9a4",
-      "url": "https://www.radiodos.com.ar/211314-el-barrio-laguna-seca-prepara-su-festividad-patronal-en-honor-a-san-pantaleon",
-      "title": "El barrio Laguna Seca prepara su festividad patronal en honor a San Pantaleón",
-      "volanta": "este finde",
-      "date": "2026-07-25T19:42:56+00:00"
     }
   ]
 }
