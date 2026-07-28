@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T13:02:38+00:00",
+  "updated": "2026-07-28T13:24:43+00:00",
   "posts": [
+    {
+      "id": "c41ba0cb",
+      "image": "img/c41ba0cb.png",
+      "image_sha": "6e958712901f42b17c5dce2dcdca01888fc2fa22",
+      "url": "https://www.radiodos.com.ar/211405-el-inesperado-problema-que-tiene-vozinha-en-chile-antes-de-debutar-en-colo-colo",
+      "title": "El inesperado problema que tiene Vozinha en Chile antes de debutar en Colo Colo",
+      "volanta": "INCORPORACIÓN",
+      "date": "2026-07-28T13:24:43+00:00"
+    },
     {
       "id": "09ee342b",
       "image": "img/09ee342b.png",
@@ -531,15 +540,6 @@
       "title": "Tras el triunfo de Boca, Paredes puso en duda su continuidad en la Selección",
       "volanta": "FÚTBOL",
       "date": "2026-07-24T11:03:15+00:00"
-    },
-    {
-      "id": "43dd730a",
-      "image": "img/43dd730a.png",
-      "image_sha": "9c2a7d01ee3b8f8eec6a9d320b9280b2fb42bd83",
-      "url": "https://www.radiodos.com.ar/211278-salud-prepara-un-nuevo-subsidio-para-embarazadas-y-un-centro-para-adolescentes",
-      "title": "Salud prepara un nuevo subsidio para embarazadas y un centro para adolescentes",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-24T10:28:51+00:00"
     }
   ]
 }
