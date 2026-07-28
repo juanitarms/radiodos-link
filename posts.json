@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T17:10:16+00:00",
+  "updated": "2026-07-28T17:10:48+00:00",
   "posts": [
+    {
+      "id": "12537b34",
+      "image": "img/12537b34.png",
+      "image_sha": "616fa733571413f2385c98eec806846591393b3d",
+      "url": "https://www.radiodos.com.ar/211433-mendoza-un-sismo-de-43-grados-sacudio-la-provincia-durante-la-madrugada",
+      "title": "Mendoza: un sismo de 4,3 grados sacudió la provincia durante la madrugada",
+      "volanta": "ALERTA",
+      "date": "2026-07-28T17:10:48+00:00"
+    },
     {
       "id": "4097fe69",
       "image": "img/4097fe69.png",
@@ -531,15 +540,6 @@
       "title": "Daniela Celis abandonó Gran Hermano por sus hijas: \"No puedo estar sin ellas\"",
       "volanta": "REALITY",
       "date": "2026-07-24T14:31:56+00:00"
-    },
-    {
-      "id": "6df6bc88",
-      "image": "img/6df6bc88.png",
-      "image_sha": "d4c1e478373f196fbca25a7daa1a755561bc88d9",
-      "url": "https://www.radiodos.com.ar/211297-operaron-de-urgencia-a-osvaldo-jaldo-que-dice-el-comunicado-del-gobierno-de-tucuman",
-      "title": "Operaron de urgencia a Osvaldo Jaldo: qué dice el comunicado del Gobierno de Tucumán",
-      "volanta": "INTERNADO EN BUENOS AIRES",
-      "date": "2026-07-24T14:10:12+00:00"
     }
   ]
 }
