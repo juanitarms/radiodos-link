@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T16:10:51+00:00",
+  "updated": "2026-07-29T16:11:22+00:00",
   "posts": [
+    {
+      "id": "ce551ffb",
+      "image": "img/ce551ffb.png",
+      "image_sha": "23814dfed2e5691dd44863dc153bffde42322fce",
+      "url": "https://www.radiodos.com.ar/211490-modificaron-el-protocolo-de-seguridad-por-las-amenazas-de-ataques-en-las-escuelas",
+      "title": "Modificaron el protocolo de seguridad por las amenazas de ataques en las escuelas",
+      "volanta": "NOVEDAD",
+      "date": "2026-07-29T16:11:22+00:00"
+    },
     {
       "id": "37798082",
       "image": "img/37798082.png",
@@ -531,15 +540,6 @@
       "title": "Temporal de nieve en Río Negro: suspendieron las clases y hay cortes preventivos",
       "volanta": "ALERTA",
       "date": "2026-07-27T14:20:06+00:00"
-    },
-    {
-      "id": "2b3de193",
-      "image": "img/2b3de193.png",
-      "image_sha": "e2fb3f81e0f3856c25677a6ecf5cf4425e73eb60",
-      "url": "https://www.radiodos.com.ar/211356-javier-milei-suma-un-nuevo-viaje-internacional-esta-semana-su-agenda",
-      "title": "Javier Milei suma un nuevo viaje internacional esta semana: su agenda",
-      "volanta": "DE GIRA",
-      "date": "2026-07-27T14:02:05+00:00"
     }
   ]
 }
