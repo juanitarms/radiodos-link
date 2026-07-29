@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T12:49:46+00:00",
+  "updated": "2026-07-29T13:03:57+00:00",
   "posts": [
+    {
+      "id": "f01ab42f",
+      "image": "img/f01ab42f.png",
+      "image_sha": "079307405e8f079d950426b7bcbcd438ffee254c",
+      "url": "https://www.radiodos.com.ar/211466-el-poder-judicial-completo-la-depuracion-y-registracion-digital-de-mas-de-37-mil-expedientes-archivados",
+      "title": "El Poder Judicial completó la depuración y registración digital de más de 37 mil expedientes archivados",
+      "volanta": "GESTIÓN DOCUMENTAL",
+      "date": "2026-07-29T13:03:57+00:00"
+    },
     {
       "id": "b636c49d",
       "image": "img/b636c49d.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el pago de salarios a empleados estatales y jubilados de Corrientes",
       "volanta": "HASTA EL VIERNES",
       "date": "2026-07-27T10:53:26+00:00"
-    },
-    {
-      "id": "04a796b1",
-      "image": "img/04a796b1.png",
-      "image_sha": "7df5f2e41fe6087d930dead2e5a1414a20395873",
-      "url": "https://www.radiodos.com.ar/211325-boca-unidos-cayo-en-corrientes-ante-juventud-antoniana",
-      "title": "Boca Unidos cayó en Corrientes ante Juventud Antoniana",
-      "volanta": "Federal A",
-      "date": "2026-07-26T22:03:21+00:00"
     }
   ]
 }
