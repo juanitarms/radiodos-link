@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T21:18:18+00:00",
+  "updated": "2026-07-29T21:19:52+00:00",
   "posts": [
+    {
+      "id": "d3e1163c",
+      "image": "img/d3e1163c.png",
+      "image_sha": "7cf35d7976b03a434ca68a25bee74493ad6a3d00",
+      "url": "https://www.radiodos.com.ar/211508-fifa-le-abrio-un-expediente-a-argentina-por-la-bandera-de-malvinas",
+      "title": "FIFA le abrió un expediente a Argentina por la bandera de Malvinas",
+      "volanta": "Mundial 2026",
+      "date": "2026-07-29T21:19:52+00:00"
+    },
     {
       "id": "d5467e19",
       "image": "img/d5467e19.png",
@@ -531,15 +540,6 @@
       "title": "La industria no despega: volvió a caer en junio y acumula un semestre en rojo",
       "volanta": "CRISIS",
       "date": "2026-07-27T21:04:26+00:00"
-    },
-    {
-      "id": "8f2dab35",
-      "image": "img/8f2dab35.png",
-      "image_sha": "9763f7328df117840676a71718e37b3778481550",
-      "url": "https://www.radiodos.com.ar/211379-el-gobernador-jp-valdes-recibio-al-embajador-de-la-republica-china-en-el-pais",
-      "title": "El gobernador JP Valdés recibió al Embajador de la República China en el país",
-      "volanta": "PROTOCOLO",
-      "date": "2026-07-27T20:49:26+00:00"
     }
   ]
 }
