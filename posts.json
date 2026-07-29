@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T23:08:13+00:00",
+  "updated": "2026-07-29T23:18:22+00:00",
   "posts": [
+    {
+      "id": "3e4eb175",
+      "image": "img/3e4eb175.png",
+      "image_sha": "788f97c181b7a5d8e58154b1804f8dc56b9f868a",
+      "url": "https://www.radiodos.com.ar/211519-fijaron-fecha-para-la-peregrinacion-de-los-trabajadores-al-santuario-de-san-cayetano",
+      "title": "Fijaron fecha para la Peregrinación de los Trabajadores al Santuario de San Cayetano",
+      "volanta": "Tradición religiosa",
+      "date": "2026-07-29T23:18:22+00:00"
+    },
     {
       "id": "6f674cee",
       "image": "img/6f674cee.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad invita a recorrer una nueva semana de Ferias de la Ciudad",
       "volanta": "PRODUCTOS FRESCOS Y REGIONALES",
       "date": "2026-07-28T12:19:23+00:00"
-    },
-    {
-      "id": "c6fe1e9d",
-      "image": "img/c6fe1e9d.png",
-      "image_sha": "957c201c32cf1b68141003fc9f877ba10b83848a",
-      "url": "https://www.radiodos.com.ar/211397-el-rio-uruguay-continua-creciendo-y-supero-la-etapa-de-alerta-en-paso-de-los-libres",
-      "title": "El río Uruguay continúa creciendo y superó la etapa de alerta en Paso de los Libres",
-      "volanta": "ALERTA",
-      "date": "2026-07-28T11:53:06+00:00"
     }
   ]
 }
