@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T16:10:17+00:00",
+  "updated": "2026-07-29T16:10:51+00:00",
   "posts": [
+    {
+      "id": "37798082",
+      "image": "img/37798082.png",
+      "image_sha": "e706da8ca446224db19e9e38adea4ab5c77fa2a9",
+      "url": "https://www.radiodos.com.ar/211491-detuvieron-en-paraguay-a-un-ingeniero-argentino-acusado-de-intentar-captar-a-una-adolescente",
+      "title": "Detuvieron en Paraguay a un ingeniero argentino acusado de intentar captar a una adolescente",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-29T16:10:51+00:00"
+    },
     {
       "id": "845c14d4",
       "image": "img/845c14d4.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei suma un nuevo viaje internacional esta semana: su agenda",
       "volanta": "DE GIRA",
       "date": "2026-07-27T14:02:05+00:00"
-    },
-    {
-      "id": "ad4eb68f",
-      "image": "img/ad4eb68f.png",
-      "image_sha": "9a984819b754f3609b1ecb0ae2575315293f32ac",
-      "url": "https://www.radiodos.com.ar/211352-la-llamativa-decision-que-tomo-el-arbitro-que-dirigio-la-final-del-mundial-2026-entre-argentina-y-espana",
-      "title": "La llamativa decisión que tomó el arbitro que dirigió la final del Mundial 2026 entre Argentina y España",
-      "volanta": "POLÉMICO",
-      "date": "2026-07-27T13:34:04+00:00"
     }
   ]
 }
