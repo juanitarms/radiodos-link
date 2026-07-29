@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T15:06:29+00:00",
+  "updated": "2026-07-29T16:10:17+00:00",
   "posts": [
+    {
+      "id": "845c14d4",
+      "image": "img/845c14d4.png",
+      "image_sha": "12a99d04244d946e98b1bfe3388a24d583d7f480",
+      "url": "https://www.radiodos.com.ar/211489-crisis-de-consumo-en-los-supermercados-se-compra-mas-electronica-pero-menos-bebidas-comidas-y-lacteos",
+      "title": "Crisis de consumo en los supermercados: se compra más electrónica pero menos bebidas, comidas y lácteos",
+      "volanta": "ECONOMÍA",
+      "date": "2026-07-29T16:10:17+00:00"
+    },
     {
       "id": "91f3d3a7",
       "image": "img/91f3d3a7.png",
@@ -531,15 +540,6 @@
       "title": "La llamativa decisión que tomó el arbitro que dirigió la final del Mundial 2026 entre Argentina y España",
       "volanta": "POLÉMICO",
       "date": "2026-07-27T13:34:04+00:00"
-    },
-    {
-      "id": "dab4a679",
-      "image": "img/dab4a679.png",
-      "image_sha": "fd82e460f472221deec4bc3f726c745a8cc6ece0",
-      "url": "https://www.radiodos.com.ar/211341-denunciaron-por-violencia-de-genero-a-gonzalo-morales-el-jugador-de-barracas-que-marco-ante-river",
-      "title": "Denunciaron por violencia de género a Gonzalo Morales, el jugador de Barracas que marcó ante River",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-27T13:12:17+00:00"
     }
   ]
 }
