@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T20:50:45+00:00",
+  "updated": "2026-07-29T21:18:18+00:00",
   "posts": [
+    {
+      "id": "d5467e19",
+      "image": "img/d5467e19.png",
+      "image_sha": "159ad674db4ceb0e11b0fdaa4db72494beedc01d",
+      "url": "https://www.radiodos.com.ar/211509-absolvieron-al-veterinario-que-mato-de-un-disparo-a-una-perra-y-le-devolveran-el-arma",
+      "title": "Absolvieron al veterinario que mató de un disparo a una perra y le devolverán el arma",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-29T21:18:18+00:00"
+    },
     {
       "id": "2a9fac6e",
       "image": "img/2a9fac6e.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés recibió al Embajador de la República China en el país",
       "volanta": "PROTOCOLO",
       "date": "2026-07-27T20:49:26+00:00"
-    },
-    {
-      "id": "615de85c",
-      "image": "img/615de85c.png",
-      "image_sha": "b00707bddb749654da4007bc5d132f0690659e4e",
-      "url": "https://www.radiodos.com.ar/211377-goya-el-acusado-por-exhibiciones-obscenas-fue-internado-tras-un-examen-psiquiatrico",
-      "title": "Goya: el acusado por exhibiciones obscenas fue internado tras un examen psiquiátrico",
-      "volanta": "JUSTICIA",
-      "date": "2026-07-27T20:47:48+00:00"
     }
   ]
 }
