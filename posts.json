@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T22:29:47+00:00",
+  "updated": "2026-07-29T22:31:04+00:00",
   "posts": [
+    {
+      "id": "20972b4a",
+      "image": "img/20972b4a.png",
+      "image_sha": "628c4a19a3e941eeed46a8c58e1bee07fe1ad97d",
+      "url": "https://www.radiodos.com.ar/211518-se-ordeno-un-nuevo-sacerdote-en-corrientes-y-monsenor-canecin-advirtio-evitemos-la-tentacion-de-convertirnos-en-francotiradores-pastorales",
+      "title": "Se ordenó un nuevo sacerdote en Corrientes, y monseñor Canecín advirtió: \"Evitemos la tentación de convertirnos en francotiradores pastorales\"",
+      "volanta": "DIOCESIS DE GOYA",
+      "date": "2026-07-29T22:31:04+00:00"
+    },
     {
       "id": "8a2c7c94",
       "image": "img/8a2c7c94.png",
@@ -531,15 +540,6 @@
       "title": "El mejor gol del Mundial fue el segundo de Cabo Verde a la Argentina",
       "volanta": "video",
       "date": "2026-07-27T22:20:21+00:00"
-    },
-    {
-      "id": "f19ddfdf",
-      "image": "img/f19ddfdf.png",
-      "image_sha": "236a76d8372a8e666e417b6aa251949ccb79f084",
-      "url": "https://www.radiodos.com.ar/211386-un-joven-motociclista-murio-tras-derrapar-en-el-barrio-san-marcelo",
-      "title": "Un joven motociclista murió tras derrapar en el barrio San Marcelo",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-27T22:17:54+00:00"
     }
   ]
 }
