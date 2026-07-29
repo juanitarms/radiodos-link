@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T23:18:22+00:00",
+  "updated": "2026-07-29T23:18:53+00:00",
   "posts": [
+    {
+      "id": "ea5e3b49",
+      "image": "img/ea5e3b49.png",
+      "image_sha": "b30ad7632e0c3158f273dfb059bfbbe17f2b2787",
+      "url": "https://www.radiodos.com.ar/211521-suspenden-paso-internacional-por-la-crecida-del-rio-uruguay-en-el-interior-de-corrientes",
+      "title": "Suspenden paso internacional por la crecida del río Uruguay en el interior de Corrientes",
+      "volanta": "AHORA",
+      "date": "2026-07-29T23:18:53+00:00"
+    },
     {
       "id": "3e4eb175",
       "image": "img/3e4eb175.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei inicia este martes su agenda en Perú: a qué viaja",
       "volanta": "GIRA",
       "date": "2026-07-28T12:46:48+00:00"
-    },
-    {
-      "id": "08731b26",
-      "image": "img/08731b26.png",
-      "image_sha": "b0ea82b6fe3d55f6bb09545f65f51c9dd0998de4",
-      "url": "https://www.radiodos.com.ar/211399-la-municipalidad-invita-a-recorrer-una-nueva-semana-de-ferias-de-la-ciudad",
-      "title": "La Municipalidad invita a recorrer una nueva semana de Ferias de la Ciudad",
-      "volanta": "PRODUCTOS FRESCOS Y REGIONALES",
-      "date": "2026-07-28T12:19:23+00:00"
     }
   ]
 }
