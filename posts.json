@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T21:33:20+00:00",
+  "updated": "2026-07-29T21:34:37+00:00",
   "posts": [
+    {
+      "id": "68101949",
+      "image": "img/68101949.png",
+      "image_sha": "3adb21bcb165a97750829ae0e8c422be5127a402",
+      "url": "https://www.radiodos.com.ar/211513-asaltaron-a-una-anciana-que-vive-sola-y-le-robaron-joyas-y-una-fortuna-en-divisas",
+      "title": "Asaltaron a una anciana que vive sola y le robaron joyas y una fortuna en divisas",
+      "volanta": "CORRIENTES",
+      "date": "2026-07-29T21:34:37+00:00"
+    },
     {
       "id": "4a96b7df",
       "image": "img/4a96b7df.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba sería una de las paradas de León XIV durante su primera visita a la Argentina",
       "volanta": "EXPECTATIVA",
       "date": "2026-07-27T22:14:13+00:00"
-    },
-    {
-      "id": "54f2ee31",
-      "image": "img/54f2ee31.png",
-      "image_sha": "bc99a774bf1d1c3d30fb75394aec27d1d1904326",
-      "url": "https://www.radiodos.com.ar/211382-caso-loan-pena-recomienza-el-juicio-con-la-declaracion-de-cuatro-testigos-clave",
-      "title": "Caso Loan Peña: recomienza el juicio con la declaración de cuatro testigos clave",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-27T21:47:54+00:00"
     }
   ]
 }
