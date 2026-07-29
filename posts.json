@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T13:57:00+00:00",
+  "updated": "2026-07-29T14:20:36+00:00",
   "posts": [
+    {
+      "id": "82c54019",
+      "image": "img/82c54019.png",
+      "image_sha": "0aa0521c1a62b04598c915f27a3a74a9aeae19a6",
+      "url": "https://www.radiodos.com.ar/211485-la-drastica-decision-que-tomo-neymar-con-la-seleccion-de-brasil-ya-no-quiero-mas",
+      "title": "La drástica decisión que tomó Neymar con la Selección de Brasil: \"Ya no quiero más\"",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-07-29T14:20:36+00:00"
+    },
     {
       "id": "abb6bc16",
       "image": "img/abb6bc16.png",
@@ -531,15 +540,6 @@
       "title": "Jornada de capacitación en la Sociedad Rural de Bella Vista",
       "volanta": "RENATRE",
       "date": "2026-07-27T12:14:57+00:00"
-    },
-    {
-      "id": "e7e0dcd3",
-      "image": "img/e7e0dcd3.png",
-      "image_sha": "a7752eeb3bf0c3976c2c0efc4fa92f5165312759",
-      "url": "https://www.radiodos.com.ar/211332-se-reanuda-el-juicio-por-la-desaparicion-del-pequeno-loan-pena",
-      "title": "Se reanuda el juicio por la desaparición del pequeño Loan Peña",
-      "volanta": "MAÑANA",
-      "date": "2026-07-27T11:42:00+00:00"
     }
   ]
 }
