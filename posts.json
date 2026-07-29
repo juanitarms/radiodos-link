@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T22:34:52+00:00",
+  "updated": "2026-07-29T23:08:13+00:00",
   "posts": [
+    {
+      "id": "6f674cee",
+      "image": "img/6f674cee.png",
+      "image_sha": "2054e018e742edda03978f021191b9c93cf60301",
+      "url": "https://www.radiodos.com.ar/211520-en-el-juicio-por-loan-exjefe-policial-complico-a-maciel-me-dijo-que-habia-aparecido-y-se-levanto-la-busqueda",
+      "title": "En el Juicio por Loan, exjefe policial complicó a Maciel: \"Me dijo que había aparecido y se levantó la búsqueda\"",
+      "volanta": "AUDIENCIA 11",
+      "date": "2026-07-29T23:08:13+00:00"
+    },
     {
       "id": "1cd63cd5",
       "image": "img/1cd63cd5.png",
@@ -531,15 +540,6 @@
       "title": "El río Uruguay continúa creciendo y superó la etapa de alerta en Paso de los Libres",
       "volanta": "ALERTA",
       "date": "2026-07-28T11:53:06+00:00"
-    },
-    {
-      "id": "88719db1",
-      "image": "img/88719db1.png",
-      "image_sha": "c68e842c6e0958455282db8feb24346841b92bce",
-      "url": "https://www.radiodos.com.ar/211392-corrientes-mostro-su-potencial-productivo-al-embajador-de-china-visita-a-industria-yerbatera-y-el-puerto-de-ituzaingo",
-      "title": "Corrientes mostró su potencial productivo al embajador de China: visita a industria yerbatera y el puerto de Ituzaingó",
-      "volanta": "JUNTO AL GOBERNADOR VALDÉS",
-      "date": "2026-07-28T11:25:23+00:00"
     }
   ]
 }
