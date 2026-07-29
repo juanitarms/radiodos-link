@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T18:21:35+00:00",
+  "updated": "2026-07-29T18:22:08+00:00",
   "posts": [
+    {
+      "id": "ffb4b0c3",
+      "image": "img/ffb4b0c3.png",
+      "image_sha": "80f30faca6e3876f7948d94c47c0240fb404b3a8",
+      "url": "https://www.radiodos.com.ar/211504-detuvieron-a-dos-personas-y-secuestraron-cocaina-entre-sus-pertenencias",
+      "title": "Detuvieron a dos personas y secuestraron cocaína entre sus pertenencias",
+      "volanta": "GENERAL PAZ",
+      "date": "2026-07-29T18:22:08+00:00"
+    },
     {
       "id": "6755569c",
       "image": "img/6755569c.png",
@@ -531,15 +540,6 @@
       "title": "El presidente Javier Milei recibió a la titular del FMI en Casa Rosada",
       "volanta": "AGENDA",
       "date": "2026-07-27T20:45:52+00:00"
-    },
-    {
-      "id": "a6cd8373",
-      "image": "img/a6cd8373.png",
-      "image_sha": "f34270ebf06a8f2705fdea18526266e34aaa2355",
-      "url": "https://www.radiodos.com.ar/211364-murio-emma-la-nina-correntina-que-luchaba-por-su-vida-tras-un-trasplante-de-higado",
-      "title": "Murió Emma, la niña correntina que luchaba por su vida tras un trasplante de hígado",
-      "volanta": "PIDEN AYUDA PARA EL SEPELIO",
-      "date": "2026-07-27T15:18:24+00:00"
     }
   ]
 }
