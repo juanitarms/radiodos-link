@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T14:52:52+00:00",
+  "updated": "2026-07-29T15:06:29+00:00",
   "posts": [
+    {
+      "id": "91f3d3a7",
+      "image": "img/91f3d3a7.png",
+      "image_sha": "fbdda656e2b79b1f65220cc0c31b73403aa15821",
+      "url": "https://www.radiodos.com.ar/211488-un-repartidor-necesita-completar-casi-150-entregas-al-mes-para-no-ser-pobre",
+      "title": "Un repartidor necesita completar casi 150 entregas al mes para no ser pobre",
+      "volanta": "ECONOMÍA",
+      "date": "2026-07-29T15:06:29+00:00"
+    },
     {
       "id": "5a84b7c6",
       "image": "img/5a84b7c6.png",
@@ -531,15 +540,6 @@
       "title": "Denunciaron por violencia de género a Gonzalo Morales, el jugador de Barracas que marcó ante River",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-27T13:12:17+00:00"
-    },
-    {
-      "id": "ad78630b",
-      "image": "img/ad78630b.png",
-      "image_sha": "af7803afd39dab808f226ef80b8788b6789dd81a",
-      "url": "https://www.radiodos.com.ar/211338-convocan-a-familias-de-todo-el-pais-para-adoptar-a-una-adolescente-de-13-anos",
-      "title": "Convocan a familias de todo el país para adoptar a una adolescente de 13 años",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-27T12:58:20+00:00"
     }
   ]
 }
