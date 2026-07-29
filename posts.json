@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T14:20:36+00:00",
+  "updated": "2026-07-29T14:52:52+00:00",
   "posts": [
+    {
+      "id": "5a84b7c6",
+      "image": "img/5a84b7c6.png",
+      "image_sha": "7cd711b26cf712f25a23beaec3296061c9388e90",
+      "url": "https://www.radiodos.com.ar/211486-lisandro-martinez-y-alexis-mac-allister-reforzaron-la-seguridad-de-sus-casas-en-inglaterra",
+      "title": "Lisandro Martínez y Alexis Mac Allister reforzaron la seguridad de sus casas en Inglaterra",
+      "volanta": "DETERMINACIÓN",
+      "date": "2026-07-29T14:52:52+00:00"
+    },
     {
       "id": "82c54019",
       "image": "img/82c54019.png",
@@ -531,15 +540,6 @@
       "title": "Convocan a familias de todo el país para adoptar a una adolescente de 13 años",
       "volanta": "CORRIENTES",
       "date": "2026-07-27T12:58:20+00:00"
-    },
-    {
-      "id": "c302d40a",
-      "image": "img/c302d40a.png",
-      "image_sha": "2117054f230695df1c49406232002ddc02935c59",
-      "url": "https://www.radiodos.com.ar/211334-jornada-de-capacitacion-en-la-sociedad-rural-de-bella-vista",
-      "title": "Jornada de capacitación en la Sociedad Rural de Bella Vista",
-      "volanta": "RENATRE",
-      "date": "2026-07-27T12:14:57+00:00"
     }
   ]
 }
