@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T12:04:46+00:00",
+  "updated": "2026-07-29T12:24:44+00:00",
   "posts": [
+    {
+      "id": "0da574f8",
+      "image": "img/0da574f8.png",
+      "image_sha": "27ad1f1894aa6279a996cd0eda9b9440bb5adcaf",
+      "url": "https://www.radiodos.com.ar/211463-localidad-del-interior-de-corrientes-seriamente-afectada-por-rafagas-de-viento",
+      "title": "Localidad del interior de Corrientes seriamente afectada por ráfagas de viento",
+      "volanta": "ALVEAR",
+      "date": "2026-07-29T12:24:44+00:00"
+    },
     {
       "id": "77bf0e4f",
       "image": "img/77bf0e4f.png",
@@ -531,15 +540,6 @@
       "title": "Tassano: \"Estamos trabajando en la agilización de los procesos y la modernización de la Cámara\"",
       "volanta": "CÁMARA DE DIPUTADOS",
       "date": "2026-07-26T18:24:52+00:00"
-    },
-    {
-      "id": "e27a1eb5",
-      "image": "img/e27a1eb5.png",
-      "image_sha": "d34282df5bcda7df6cea256d67ae009ff0711e95",
-      "url": "https://www.radiodos.com.ar/211324-lovinson-sobre-el-nino-siempre-nos-preparamos-para-lo-peor",
-      "title": "Lovinson sobre \"El niño\": \"Siempre nos preparamos para lo peor\"",
-      "volanta": "DEFENSA CIVIL",
-      "date": "2026-07-26T18:24:16+00:00"
     }
   ]
 }
