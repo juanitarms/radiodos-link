@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T22:32:19+00:00",
+  "updated": "2026-07-29T22:33:04+00:00",
   "posts": [
+    {
+      "id": "ede7f68c",
+      "image": "img/ede7f68c.png",
+      "image_sha": "a1a4d88555c7e6888c443d6c8585d79e83cd5a0d",
+      "url": "https://www.radiodos.com.ar/211516-abuso-sexual-en-hollywood-cuatro-mujeres-denunciaron-al-reconocido-actor-jared-leto",
+      "title": "Abuso sexual en Hollywood: cuatro mujeres denunciaron al reconocido actor Jared Leto",
+      "volanta": "Investigación",
+      "date": "2026-07-29T22:33:04+00:00"
+    },
     {
       "id": "b685c000",
       "image": "img/b685c000.png",
@@ -531,15 +540,6 @@
       "title": "Guerra de pandillas: preocupa los nuevos incidentes en la Capital",
       "volanta": "EN VARIOS BARRIOS",
       "date": "2026-07-28T11:00:38+00:00"
-    },
-    {
-      "id": "3bd8c4df",
-      "image": "img/3bd8c4df.png",
-      "image_sha": "ff67a96c5ede5220526be6d178210695298a5164",
-      "url": "https://www.radiodos.com.ar/211387-cuando-es-el-feriado-de-agosto-y-como-quedara-el-unico-fin-de-semana-largo-del-mes",
-      "title": "Cuándo es el feriado de agosto y cómo quedará el único fin de semana largo del mes",
-      "volanta": "CALENDARIO",
-      "date": "2026-07-27T22:21:09+00:00"
     }
   ]
 }
