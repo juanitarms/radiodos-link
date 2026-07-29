@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T16:11:22+00:00",
+  "updated": "2026-07-29T17:16:02+00:00",
   "posts": [
+    {
+      "id": "ad5f0b89",
+      "image": "img/ad5f0b89.png",
+      "image_sha": "c611e3d2c8d88516466e6eff5ecb5ea215d77c40",
+      "url": "https://www.radiodos.com.ar/211492-paso-de-la-patria-avanza-en-la-implementacion-del-sello-correntino-de-calidad-turistica",
+      "title": "Paso de la Patria avanza en la implementación del Sello Correntino de Calidad Turística",
+      "volanta": "Primera asistencia técnica presencial",
+      "date": "2026-07-29T17:16:02+00:00"
+    },
     {
       "id": "ce551ffb",
       "image": "img/ce551ffb.png",
@@ -531,15 +540,6 @@
       "title": "El salario de Vozinha lo ubicó entre los fichajes más llamativos de Sudamérica",
       "volanta": "CHILE",
       "date": "2026-07-27T14:34:04+00:00"
-    },
-    {
-      "id": "d769c514",
-      "image": "img/d769c514.png",
-      "image_sha": "50e56c8453200f54cc0ca84918d5d97318edf985",
-      "url": "https://www.radiodos.com.ar/211355-temporal-de-nieve-en-rio-negro-suspendieron-las-clases-y-hay-cortes-preventivos",
-      "title": "Temporal de nieve en Río Negro: suspendieron las clases y hay cortes preventivos",
-      "volanta": "ALERTA",
-      "date": "2026-07-27T14:20:06+00:00"
     }
   ]
 }
