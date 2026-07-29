@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T21:19:52+00:00",
+  "updated": "2026-07-29T21:33:20+00:00",
   "posts": [
+    {
+      "id": "4a96b7df",
+      "image": "img/4a96b7df.png",
+      "image_sha": "acf68308b76badaac8a54c210d67f272ab0d061e",
+      "url": "https://www.radiodos.com.ar/211511-san-juan-7-muertos-al-caer-un-helicoptero-de-control-de-incendios-forestales",
+      "title": "San Juan: 7 muertos al caer un helicóptero de control de incendios forestales",
+      "volanta": "Tragedia",
+      "date": "2026-07-29T21:33:20+00:00"
+    },
     {
       "id": "d3e1163c",
       "image": "img/d3e1163c.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan Peña: recomienza el juicio con la declaración de cuatro testigos clave",
       "volanta": "CORRIENTES",
       "date": "2026-07-27T21:47:54+00:00"
-    },
-    {
-      "id": "bd4ed0c3",
-      "image": "img/bd4ed0c3.png",
-      "image_sha": "37788fecf57605e76d99edaf6e475bf1d403c243",
-      "url": "https://www.radiodos.com.ar/211381-la-industria-no-despega-volvio-a-caer-en-junio-y-acumula-un-semestre-en-rojo",
-      "title": "La industria no despega: volvió a caer en junio y acumula un semestre en rojo",
-      "volanta": "CRISIS",
-      "date": "2026-07-27T21:04:26+00:00"
     }
   ]
 }
