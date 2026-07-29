@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T11:38:08+00:00",
+  "updated": "2026-07-29T12:04:46+00:00",
   "posts": [
+    {
+      "id": "77bf0e4f",
+      "image": "img/77bf0e4f.png",
+      "image_sha": "468260a518957c711b926c4aa0e3ab4396e3ff14",
+      "url": "https://www.radiodos.com.ar/211462-se-llevo-a-cabo-en-corrientes-la-clinica-anual-para-arbitros-y-comisionados-tecnicos",
+      "title": "Se llevó a cabo en Corrientes la clínica anual para árbitros y comisionados técnicos",
+      "volanta": "BÁSQUET",
+      "date": "2026-07-29T12:04:46+00:00"
+    },
     {
       "id": "92ce5674",
       "image": "img/92ce5674.png",
@@ -531,15 +540,6 @@
       "title": "Lovinson sobre \"El niño\": \"Siempre nos preparamos para lo peor\"",
       "volanta": "DEFENSA CIVIL",
       "date": "2026-07-26T18:24:16+00:00"
-    },
-    {
-      "id": "48372de9",
-      "image": "img/48372de9.png",
-      "image_sha": "0ceeadcf8a4261a091f74cc32e1e5173da13cbdc",
-      "url": "https://www.radiodos.com.ar/211323-murio-el-hombre-que-fue-apunalado-por-su-hermano-en-corrientes",
-      "title": "Murió el hombre que fue apuñalado por su hermano en Corrientes",
-      "volanta": "ESTABA INTERNADO EN EL HOSPITAL ESCUELA",
-      "date": "2026-07-26T17:58:51+00:00"
     }
   ]
 }
