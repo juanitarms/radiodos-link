@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T12:24:44+00:00",
+  "updated": "2026-07-29T12:49:46+00:00",
   "posts": [
+    {
+      "id": "b636c49d",
+      "image": "img/b636c49d.png",
+      "image_sha": "b37faf2bcb47eb28f5e143bce5f083f6b7462621",
+      "url": "https://www.radiodos.com.ar/211460-la-dpec-realizara-trabajos-de-mejoras-en-capital-e-ituzaingo",
+      "title": "La DPEC realizará trabajos de mejoras en Capital e Ituzaingó",
+      "volanta": "ESTE MIÉRCOLES",
+      "date": "2026-07-29T12:49:46+00:00"
+    },
     {
       "id": "0da574f8",
       "image": "img/0da574f8.png",
@@ -531,15 +540,6 @@
       "title": "Boca Unidos cayó en Corrientes ante Juventud Antoniana",
       "volanta": "Federal A",
       "date": "2026-07-26T22:03:21+00:00"
-    },
-    {
-      "id": "28fb7811",
-      "image": "img/28fb7811.png",
-      "image_sha": "c066d0621188e4435f0994a706ab013c97c643e0",
-      "url": "https://www.radiodos.com.ar/211322-tassano-estamos-trabajando-en-la-agilizacion-de-los-procesos-y-la-modernizacion-de-la-camara",
-      "title": "Tassano: \"Estamos trabajando en la agilización de los procesos y la modernización de la Cámara\"",
-      "volanta": "CÁMARA DE DIPUTADOS",
-      "date": "2026-07-26T18:24:52+00:00"
     }
   ]
 }
