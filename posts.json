@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T10:46:24+00:00",
+  "updated": "2026-07-29T11:38:08+00:00",
   "posts": [
+    {
+      "id": "92ce5674",
+      "image": "img/92ce5674.png",
+      "image_sha": "bf7a4a030f21bce5bf67e3c61d5ab10a214e3268",
+      "url": "https://www.radiodos.com.ar/211459-paso-de-los-libres-ascienden-a-23-los-evacuados-por-la-creciente-del-rio-uruguay",
+      "title": "Paso de los Libres: ascienden a 23 los evacuados por la creciente del río Uruguay",
+      "volanta": "EL NIÑO",
+      "date": "2026-07-29T11:38:08+00:00"
+    },
     {
       "id": "38522c3a",
       "image": "img/38522c3a.png",
@@ -531,15 +540,6 @@
       "title": "Murió el hombre que fue apuñalado por su hermano en Corrientes",
       "volanta": "ESTABA INTERNADO EN EL HOSPITAL ESCUELA",
       "date": "2026-07-26T17:58:51+00:00"
-    },
-    {
-      "id": "09699b73",
-      "image": "img/09699b73.png",
-      "image_sha": "0d38880f292e6c23a45f17d304497320a3a1b2bd",
-      "url": "https://www.radiodos.com.ar/211321-murio-un-hombre-tras-despistar-y-caer-a-una-zanja-con-su-auto-en-corrientes",
-      "title": "Murió un hombre tras despistar  y caer a una zanja con su auto en Corrientes",
-      "volanta": "TRAGEDIA",
-      "date": "2026-07-26T17:58:13+00:00"
     }
   ]
 }
