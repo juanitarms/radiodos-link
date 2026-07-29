@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T17:16:34+00:00",
+  "updated": "2026-07-29T18:21:35+00:00",
   "posts": [
+    {
+      "id": "6755569c",
+      "image": "img/6755569c.png",
+      "image_sha": "eeba719e6a533616eaf71418bd9a4ee466526f4b",
+      "url": "https://www.radiodos.com.ar/211505-dos-detenidos-con-elementos-robados-de-un-comercio",
+      "title": "Dos detenidos con elementos robados de un comercio",
+      "volanta": "COMISARIA 2º URBANA",
+      "date": "2026-07-29T18:21:35+00:00"
+    },
     {
       "id": "ff7f4cad",
       "image": "img/ff7f4cad.png",
@@ -531,15 +540,6 @@
       "title": "Murió Emma, la niña correntina que luchaba por su vida tras un trasplante de hígado",
       "volanta": "PIDEN AYUDA PARA EL SEPELIO",
       "date": "2026-07-27T15:18:24+00:00"
-    },
-    {
-      "id": "0eab76ef",
-      "image": "img/0eab76ef.png",
-      "image_sha": "ca049a84412b65e3fe3bf013c69229ce35f17ec7",
-      "url": "https://www.radiodos.com.ar/211347-el-vasco-arruabarrena-hizo-una-fuerte-autocritica-tras-la-goleada-de-boca-soy-el-culpable",
-      "title": "El Vasco Arruabarrena hizo una fuerte autocrítica tras la goleada de Boca: \"Soy el culpable\"",
-      "volanta": "FÚTBOL",
-      "date": "2026-07-27T14:59:54+00:00"
     }
   ]
 }
