@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T17:16:02+00:00",
+  "updated": "2026-07-29T17:16:34+00:00",
   "posts": [
+    {
+      "id": "ff7f4cad",
+      "image": "img/ff7f4cad.png",
+      "image_sha": "cb33c5c8b9594c9b9bdb83650a8bd6f6068cd68e",
+      "url": "https://www.radiodos.com.ar/211493-convocan-al-talento-joven-correntino-al-hacklab-hackathon-corrientes-2026",
+      "title": "Convocan al talento joven correntino al HackLab + Hackathon Corrientes 2026",
+      "volanta": "LANZAMIENTO Y ANUNCIOS",
+      "date": "2026-07-29T17:16:34+00:00"
+    },
     {
       "id": "ad5f0b89",
       "image": "img/ad5f0b89.png",
@@ -531,15 +540,6 @@
       "title": "El Vasco Arruabarrena hizo una fuerte autocrítica tras la goleada de Boca: \"Soy el culpable\"",
       "volanta": "FÚTBOL",
       "date": "2026-07-27T14:59:54+00:00"
-    },
-    {
-      "id": "7e1a6030",
-      "image": "img/7e1a6030.png",
-      "image_sha": "50726c73c24d5956298f4f85550930c99db105e5",
-      "url": "https://www.radiodos.com.ar/211361-el-salario-de-vozinha-lo-ubico-entre-los-fichajes-mas-llamativos-de-sudamerica",
-      "title": "El salario de Vozinha lo ubicó entre los fichajes más llamativos de Sudamérica",
-      "volanta": "CHILE",
-      "date": "2026-07-27T14:34:04+00:00"
     }
   ]
 }
