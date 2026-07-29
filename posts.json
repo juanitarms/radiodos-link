@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T23:56:58+00:00",
+  "updated": "2026-07-29T10:32:30+00:00",
   "posts": [
+    {
+      "id": "19678b00",
+      "image": "img/19678b00.png",
+      "image_sha": "cd7b6693d3ca539aac101452f2f45705ebbe7112",
+      "url": "https://www.radiodos.com.ar/211457-corrientes-vaciaron-la-caja-de-una-casa-de-juegos-y-se-llevaron-mas-de-10-m-de-pesos",
+      "title": "Corrientes: vaciaron la caja de una casa de juegos y se llevaron más de 10 M de pesos",
+      "volanta": "EN PLENA PEATONAL",
+      "date": "2026-07-29T10:32:30+00:00"
+    },
     {
       "id": "dccd6bcf",
       "image": "img/dccd6bcf.png",
@@ -531,15 +540,6 @@
       "title": "Milei hablará en la Exposición Rural y hay expectativa en el agro por posibles anuncios",
       "volanta": "PALERMO",
       "date": "2026-07-26T13:51:36+00:00"
-    },
-    {
-      "id": "4972dbc7",
-      "image": "img/4972dbc7.png",
-      "image_sha": "f3f79a3bcf9d48f18cd49a3884431a6e265737ac",
-      "url": "https://www.radiodos.com.ar/211317-la-muni-en-tu-barrio-retoma-su-recorrido-en-el-barrio-cremonte-con-servicios-gratuitos",
-      "title": "La Muni en tu Barrio retoma su recorrido en el barrio Cremonte con servicios gratuitos",
-      "volanta": "CAPITAL",
-      "date": "2026-07-26T13:39:16+00:00"
     }
   ]
 }
