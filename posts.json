@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T15:19:16+00:00",
+  "updated": "2026-07-30T16:14:07+00:00",
   "posts": [
+    {
+      "id": "070a7cd1",
+      "image": "img/070a7cd1.png",
+      "image_sha": "49cb5b7bbd267968f3c7a0dad9d42379681aee80",
+      "url": "https://www.radiodos.com.ar/211560-indignacion-en-mar-del-plata-un-enfermero-fue-filmado-mientras-golpeaba-a-una-anciana-en-un-geriatrico",
+      "title": "Indignación en Mar del Plata: un enfermero fue filmado mientras golpeaba a una anciana en un geriátrico",
+      "volanta": "VIOLENCIA GERIÁTRICA",
+      "date": "2026-07-30T16:14:07+00:00"
+    },
     {
       "id": "1dea1aa8",
       "image": "img/1dea1aa8.png",
@@ -531,15 +540,6 @@
       "title": "Rosalía también hizo enojar al público chileno tras su polémica con Argentina",
       "volanta": "TODO MAL",
       "date": "2026-07-28T19:05:59+00:00"
-    },
-    {
-      "id": "c57888ea",
-      "image": "img/c57888ea.png",
-      "image_sha": "fa083533f5fb6012628e71d39b20e42fa589ad07",
-      "url": "https://www.radiodos.com.ar/211436-skene-reestrena-se-necesita-un-cadaver-este-fin-de-semana",
-      "title": "Skené reestrena \"Se necesita un cadáver\" este fin de semana",
-      "volanta": "TEATRO",
-      "date": "2026-07-28T19:05:29+00:00"
     }
   ]
 }
