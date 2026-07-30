@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T13:23:45+00:00",
+  "updated": "2026-07-30T13:54:30+00:00",
   "posts": [
+    {
+      "id": "1b1bf014",
+      "image": "img/1b1bf014.png",
+      "image_sha": "06a07bc854651684c2f5f0fc162e639f6e6e6ae7",
+      "url": "https://www.radiodos.com.ar/211541-tragedia-en-san-juan-el-duro-testimonio-de-un-familiar-de-las-victimas-del-accidente-aereo",
+      "title": "Tragedia en San Juan: el duro testimonio de un familiar de las víctimas del accidente aéreo",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-30T13:54:30+00:00"
+    },
     {
       "id": "3fa0078c",
       "image": "img/3fa0078c.png",
@@ -531,15 +540,6 @@
       "title": "La lujosa escapada de Leandro Paredes con su familia a la Patagonia: cuántas habitaciones reservó",
       "volanta": "DESCANSO",
       "date": "2026-07-28T16:20:14+00:00"
-    },
-    {
-      "id": "2470e61f",
-      "image": "img/2470e61f.png",
-      "image_sha": "0df10db0cfb6d91fcd8409af7607997f1034e5dc",
-      "url": "https://www.radiodos.com.ar/211429-gran-hermano-tuvo-una-nueva-eliminacion-quien-abandono-la-casa-tras-el-voto-del-publico",
-      "title": "Gran Hermano tuvo una nueva eliminación: quién abandonó la casa tras el voto del público",
-      "volanta": "SIGUE EL JUEGO",
-      "date": "2026-07-28T16:19:41+00:00"
     }
   ]
 }
