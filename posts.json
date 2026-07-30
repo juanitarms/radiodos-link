@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T12:57:52+00:00",
+  "updated": "2026-07-30T13:23:45+00:00",
   "posts": [
+    {
+      "id": "3fa0078c",
+      "image": "img/3fa0078c.png",
+      "image_sha": "7faa2854af7c587e64bfea17a7f313dbe394f58e",
+      "url": "https://www.radiodos.com.ar/211540-oficializan-suba-de-las-jubilaciones-y-asignaciones-para-agosto-continua-el-bono-de-70000",
+      "title": "Oficializan suba de las jubilaciones y asignaciones para agosto: continúa el bono de $70.000",
+      "volanta": "ACTUALIZACIÓN",
+      "date": "2026-07-30T13:23:45+00:00"
+    },
     {
       "id": "fa756955",
       "image": "img/fa756955.png",
@@ -531,15 +540,6 @@
       "title": "Gran Hermano tuvo una nueva eliminación: quién abandonó la casa tras el voto del público",
       "volanta": "SIGUE EL JUEGO",
       "date": "2026-07-28T16:19:41+00:00"
-    },
-    {
-      "id": "1306687d",
-      "image": "img/1306687d.png",
-      "image_sha": "d42d86bf4b051beadff39cfc9cc8dc224fa48cb6",
-      "url": "https://www.radiodos.com.ar/211406-corrientes-fue-a-vender-su-moto-y-se-la-robaron-a-punta-de-pistola",
-      "title": "Corrientes: fue a vender su moto y se la robaron a punta de pistola",
-      "volanta": "PLAZA DEL MERCOSUR",
-      "date": "2026-07-28T15:02:33+00:00"
     }
   ]
 }
