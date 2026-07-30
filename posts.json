@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T18:25:46+00:00",
+  "updated": "2026-07-30T18:52:11+00:00",
   "posts": [
+    {
+      "id": "b12572a8",
+      "image": "img/b12572a8.png",
+      "image_sha": "99ecdd36a14192b39dc4ce5ee671a548ec259048",
+      "url": "https://www.radiodos.com.ar/211569-el-municipio-fortalece-obras-de-desastres-como-accion-preventiva-ante-el-fenomeno-de-el-nino",
+      "title": "El Municipio fortalece obras de desastres como acción preventiva ante el fenómeno de \"El Niño\"",
+      "volanta": "INFRAESTRUCTURA URBANA",
+      "date": "2026-07-30T18:52:11+00:00"
+    },
     {
       "id": "873aa629",
       "image": "img/873aa629.png",
@@ -531,15 +540,6 @@
       "title": "Acciones preventivas por \"El Niño\": avanza una importante obra de desagüe en la ciudad de Corrientes",
       "volanta": "INFRAESTRUCTURA URBANA",
       "date": "2026-07-28T22:13:02+00:00"
-    },
-    {
-      "id": "2679ed7b",
-      "image": "img/2679ed7b.png",
-      "image_sha": "0a5a9d65e8cdbfa562ab1059dcdf193808a297c7",
-      "url": "https://www.radiodos.com.ar/211445-el-compromiso-de-la-municipalidad-de-corrientes-con-las-personas-en-situacion-de-calle-fue-distinguido-por-el-concejo",
-      "title": "El compromiso de la Municipalidad de Corrientes con las personas en situación de calle fue distinguido por el Concejo",
-      "volanta": "CONTENCIÓN EN LA CIUDAD",
-      "date": "2026-07-28T22:11:22+00:00"
     }
   ]
 }
