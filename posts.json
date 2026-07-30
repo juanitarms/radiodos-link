@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T16:14:07+00:00",
+  "updated": "2026-07-30T16:14:49+00:00",
   "posts": [
+    {
+      "id": "b5a668dc",
+      "image": "img/b5a668dc.png",
+      "image_sha": "4e277dafdd5ce892ae8aef8c1251d326361c5da6",
+      "url": "https://www.radiodos.com.ar/211559-dnu-de-javier-milei-prohiben-ingreso-y-ordenan-expulsar-a-extranjeros-que-inciten-odio-contra-la-argentina",
+      "title": "DNU de Javier Milei: prohíben ingreso y ordenan expulsar a extranjeros que inciten \"odio\" contra la Argentina",
+      "volanta": "MEDIDA",
+      "date": "2026-07-30T16:14:49+00:00"
+    },
     {
       "id": "070a7cd1",
       "image": "img/070a7cd1.png",
@@ -531,15 +540,6 @@
       "title": "El Dibu Martínez quedó encajado en el barro y su reacción con los vecinos se hizo viral",
       "volanta": "Muy divertido",
       "date": "2026-07-28T19:06:36+00:00"
-    },
-    {
-      "id": "d3e011ba",
-      "image": "img/d3e011ba.png",
-      "image_sha": "a946a9af204f76b5c579cb82a72679e3b7bb7a33",
-      "url": "https://www.radiodos.com.ar/211435-rosalia-tambien-hizo-enojar-al-publico-chileno-tras-su-polemica-con-argentina",
-      "title": "Rosalía también hizo enojar al público chileno tras su polémica con Argentina",
-      "volanta": "TODO MAL",
-      "date": "2026-07-28T19:05:59+00:00"
     }
   ]
 }
