@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T20:54:13+00:00",
+  "updated": "2026-07-30T20:54:46+00:00",
   "posts": [
+    {
+      "id": "9abd7849",
+      "image": "img/9abd7849.png",
+      "image_sha": "ef63e35b0e0147222eb6c40278df64c77e3b8042",
+      "url": "https://www.radiodos.com.ar/211578-rompieron-los-vidrios-y-en-minutos-se-llevaron-una-gran-cantidad-de-articulos-tecnologicos",
+      "title": "Rompieron los vidrios y en minutos se llevaron una gran cantidad de artículos tecnológicos",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-07-30T20:54:46+00:00"
+    },
     {
       "id": "84d2d3eb",
       "image": "img/84d2d3eb.png",
@@ -531,15 +540,6 @@
       "title": "Avanzan las obras en el arroyo Pirayuí y habrá restricciones de tránsito en la avenida Maipú por 30 días",
       "volanta": "CORRIENTES",
       "date": "2026-07-28T23:56:58+00:00"
-    },
-    {
-      "id": "8c678602",
-      "image": "img/8c678602.png",
-      "image_sha": "487a46aa7e8c519f44e93bbdbee480ec9c0b76a8",
-      "url": "https://www.radiodos.com.ar/211456-cristina-llevara-su-condena-ante-la-onu-y-denunciara-al-estado-argentino",
-      "title": "Cristina llevará su condena ante la ONU y denunciará al Estado argentino",
-      "volanta": "estrategia judicial",
-      "date": "2026-07-28T23:56:25+00:00"
     }
   ]
 }
