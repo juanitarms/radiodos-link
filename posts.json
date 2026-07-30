@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T14:28:30+00:00",
+  "updated": "2026-07-30T14:45:15+00:00",
   "posts": [
+    {
+      "id": "6ec21f29",
+      "image": "img/6ec21f29.png",
+      "image_sha": "40af7bf284ca91bc668007b8d6e8406c216f79a6",
+      "url": "https://www.radiodos.com.ar/211543-el-gobierno-elimino-el-coro-nacional-de-ninos-y-lo-reemplazara-por-un-nuevo-programa",
+      "title": "El Gobierno eliminó el Coro Nacional de Niños y lo reemplazará por un nuevo programa",
+      "volanta": "CAMBIOS",
+      "date": "2026-07-30T14:45:15+00:00"
+    },
     {
       "id": "b9ac5f60",
       "image": "img/b9ac5f60.png",
@@ -531,15 +540,6 @@
       "title": "Mendoza: un sismo de 4,3 grados sacudió la provincia durante la madrugada",
       "volanta": "ALERTA",
       "date": "2026-07-28T17:10:48+00:00"
-    },
-    {
-      "id": "4097fe69",
-      "image": "img/4097fe69.png",
-      "image_sha": "cdf93c8ed8d5ec2a1c0c2570b122d79a281146c5",
-      "url": "https://www.radiodos.com.ar/211430-me-pueden-chupar-la-reaccion-de-lali-esposito-ante-la-campana-antiargentina-en-el-mundial-2026",
-      "title": "\"Me pueden chupar...\": la reacción de Lali Espósito ante la campaña antiargentina en el Mundial 2026",
-      "volanta": "PUSO LÍMITES",
-      "date": "2026-07-28T17:10:16+00:00"
     }
   ]
 }
