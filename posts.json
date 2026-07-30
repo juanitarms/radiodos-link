@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T21:19:30+00:00",
+  "updated": "2026-07-30T21:20:55+00:00",
   "posts": [
+    {
+      "id": "f9ec5d59",
+      "image": "img/f9ec5d59.png",
+      "image_sha": "ccb48adc745f4acb6b67f80e24e98452ef2f7011",
+      "url": "https://www.radiodos.com.ar/211580-corrientes-recibe-agosto-con-la-tradicional-cana-con-ruda-en-espacios-culturales-y-plazas",
+      "title": "Corrientes recibe agosto con la tradicional caña con ruda en espacios culturales y plazas",
+      "volanta": "TRADICIÓN",
+      "date": "2026-07-30T21:20:55+00:00"
+    },
     {
       "id": "d300cd88",
       "image": "img/d300cd88.png",
@@ -531,15 +540,6 @@
       "title": "Se llevó a cabo en Corrientes la clínica anual para árbitros y comisionados técnicos",
       "volanta": "BÁSQUET",
       "date": "2026-07-29T12:04:46+00:00"
-    },
-    {
-      "id": "92ce5674",
-      "image": "img/92ce5674.png",
-      "image_sha": "bf7a4a030f21bce5bf67e3c61d5ab10a214e3268",
-      "url": "https://www.radiodos.com.ar/211459-paso-de-los-libres-ascienden-a-23-los-evacuados-por-la-creciente-del-rio-uruguay",
-      "title": "Paso de los Libres: ascienden a 23 los evacuados por la creciente del río Uruguay",
-      "volanta": "EL NIÑO",
-      "date": "2026-07-29T11:38:08+00:00"
     }
   ]
 }
