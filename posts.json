@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-29T23:18:53+00:00",
+  "updated": "2026-07-30T10:48:22+00:00",
   "posts": [
+    {
+      "id": "b8029cd3",
+      "image": "img/b8029cd3.png",
+      "image_sha": "c7e58b9976b6b1de026e019551b097711053b676",
+      "url": "https://www.radiodos.com.ar/211522-robo-de-motos-secuestran-gran-cantidad-de-motopartes-en-tres-allanamientos",
+      "title": "Robo de motos: secuestran gran cantidad de motopartes en tres allanamientos",
+      "volanta": "MONTE CASEROS",
+      "date": "2026-07-30T10:48:22+00:00"
+    },
     {
       "id": "ea5e3b49",
       "image": "img/ea5e3b49.png",
@@ -531,15 +540,6 @@
       "title": "Fervor en Pujato: el fenómeno inesperado que provocó Scaloni y sorprendió a todos",
       "volanta": "SORPRESA",
       "date": "2026-07-28T13:02:38+00:00"
-    },
-    {
-      "id": "6f5f761d",
-      "image": "img/6f5f761d.png",
-      "image_sha": "323d16828b2071f79c193e59f5e171157d924a54",
-      "url": "https://www.radiodos.com.ar/211403-javier-milei-inicia-este-martes-su-agenda-en-peru-a-que-viaja",
-      "title": "Javier Milei inicia este martes su agenda en Perú: a qué viaja",
-      "volanta": "GIRA",
-      "date": "2026-07-28T12:46:48+00:00"
     }
   ]
 }
