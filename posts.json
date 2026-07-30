@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T18:24:37+00:00",
+  "updated": "2026-07-30T18:25:15+00:00",
   "posts": [
+    {
+      "id": "1fd86483",
+      "image": "img/1fd86483.png",
+      "image_sha": "104de826b7949f742d4d261849229b30c2e55c5d",
+      "url": "https://www.radiodos.com.ar/211565-hay-un-80-de-que-el-nino-se-desarrolle-como-afecte-dependera-de-la-intensidad-del-agua-afirmo-un-investigador-del-inta",
+      "title": "\"Hay un 80% de que El Niño se desarrolle, cómo afecte dependerá de la intensidad del agua\": afirmó un investigador del INTA",
+      "volanta": "FENÓMENO METEOROLÓGICO",
+      "date": "2026-07-30T18:25:15+00:00"
+    },
     {
       "id": "362ed814",
       "image": "img/362ed814.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno anunció un acuerdo con Starlink para llevar internet satelital a escuelas rurales de todo el país",
       "volanta": "CONECTIVIDAD",
       "date": "2026-07-28T22:04:24+00:00"
-    },
-    {
-      "id": "58f494f9",
-      "image": "img/58f494f9.png",
-      "image_sha": "77fce6e556288afcc0b84e518586df3ab3aabdcc",
-      "url": "https://www.radiodos.com.ar/211447-alvear-entristece-con-la-muerte-de-pichino-el-perro-del-pueblo",
-      "title": "Alvear entristece con la muerte de Pichino, el perro del pueblo",
-      "volanta": "PERSONAJE QUERIDO DE LA LOCALIDAD",
-      "date": "2026-07-28T22:03:29+00:00"
     }
   ]
 }
