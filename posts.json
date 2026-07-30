@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T20:54:46+00:00",
+  "updated": "2026-07-30T21:07:45+00:00",
   "posts": [
+    {
+      "id": "3ef19591",
+      "image": "img/3ef19591.png",
+      "image_sha": "10db617ad02dfd2478e415bb0bd77f2b72f2b2e6",
+      "url": "https://www.radiodos.com.ar/211577-la-uefa-lanzo-una-dura-advertencia-a-la-fifa-y-amenazo-con-abandonar-sus-torneos",
+      "title": "La UEFA lanzó una dura advertencia a la FIFA y amenazó con abandonar sus torneos",
+      "volanta": "Contra la privatización",
+      "date": "2026-07-30T21:07:45+00:00"
+    },
     {
       "id": "9abd7849",
       "image": "img/9abd7849.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: vaciaron la caja de una casa de juegos y se llevaron más de 10 M de pesos",
       "volanta": "EN PLENA PEATONAL",
       "date": "2026-07-29T10:32:30+00:00"
-    },
-    {
-      "id": "dccd6bcf",
-      "image": "img/dccd6bcf.png",
-      "image_sha": "64730b05a69e8118e79ff82064b6c46fc2488a47",
-      "url": "https://www.radiodos.com.ar/211455-avanzan-las-obras-en-el-arroyo-pirayui-y-habra-restricciones-de-transito-en-la-avenida-maipu-por-30-dias",
-      "title": "Avanzan las obras en el arroyo Pirayuí y habrá restricciones de tránsito en la avenida Maipú por 30 días",
-      "volanta": "CORRIENTES",
-      "date": "2026-07-28T23:56:58+00:00"
     }
   ]
 }
