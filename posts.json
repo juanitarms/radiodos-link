@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T11:04:00+00:00",
+  "updated": "2026-07-30T11:59:36+00:00",
   "posts": [
+    {
+      "id": "afc0f3f3",
+      "image": "img/afc0f3f3.png",
+      "image_sha": "b65dcd6ef2892c50a5726d297ea173f9a80ca181",
+      "url": "https://www.radiodos.com.ar/211526-joven-detenido-tras-bestial-ataque-a-un-anciano-en-el-interior-de-corrientes",
+      "title": "Joven detenido tras bestial ataque a un anciano en el interior de Corrientes",
+      "volanta": "MONTE CASEROS",
+      "date": "2026-07-30T11:59:36+00:00"
+    },
     {
       "id": "3ce5d309",
       "image": "img/3ce5d309.png",
@@ -531,15 +540,6 @@
       "title": "Intoxicación masiva en Coronel Pringles: más de 40 personas afectadas tras una pollada solidaria para una beba",
       "volanta": "SALUD",
       "date": "2026-07-28T13:52:23+00:00"
-    },
-    {
-      "id": "c41ba0cb",
-      "image": "img/c41ba0cb.png",
-      "image_sha": "6e958712901f42b17c5dce2dcdca01888fc2fa22",
-      "url": "https://www.radiodos.com.ar/211405-el-inesperado-problema-que-tiene-vozinha-en-chile-antes-de-debutar-en-colo-colo",
-      "title": "El inesperado problema que tiene Vozinha en Chile antes de debutar en Colo Colo",
-      "volanta": "INCORPORACIÓN",
-      "date": "2026-07-28T13:24:43+00:00"
     }
   ]
 }
