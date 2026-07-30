@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T17:41:03+00:00",
+  "updated": "2026-07-30T18:24:37+00:00",
   "posts": [
+    {
+      "id": "362ed814",
+      "image": "img/362ed814.png",
+      "image_sha": "c93baa321a0c2d97784edc319fa9d76a0b4e5b01",
+      "url": "https://www.radiodos.com.ar/211566-directores-de-ninez-y-familia-de-toda-la-provincia-se-capacitan-para-brindar-un-mejor-servicio-a-la-comunidad",
+      "title": "Directores de Niñez y Familia de toda la provincia se capacitan para brindar un mejor servicio a la comunidad",
+      "volanta": "EN CAPITAL",
+      "date": "2026-07-30T18:24:37+00:00"
+    },
     {
       "id": "79cf0a52",
       "image": "img/79cf0a52.png",
@@ -531,15 +540,6 @@
       "title": "Alvear entristece con la muerte de Pichino, el perro del pueblo",
       "volanta": "PERSONAJE QUERIDO DE LA LOCALIDAD",
       "date": "2026-07-28T22:03:29+00:00"
-    },
-    {
-      "id": "9cd54a80",
-      "image": "img/9cd54a80.png",
-      "image_sha": "939c076b6e4adbb76ff566e3bbcb19f55da0c112",
-      "url": "https://www.radiodos.com.ar/211443-en-la-reanudacion-del-juicio-por-el-caso-loan-declararon-cuatro-testigos-y-un-policia-",
-      "title": "En la reanudación del juicio por el caso Loan declararon cuatro testigos y un policía",
-      "volanta": "COBERTURA ESPECIAL",
-      "date": "2026-07-28T20:56:17+00:00"
     }
   ]
 }
