@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T18:25:15+00:00",
+  "updated": "2026-07-30T18:25:46+00:00",
   "posts": [
+    {
+      "id": "873aa629",
+      "image": "img/873aa629.png",
+      "image_sha": "a69927aaf08e601053b6b6d735178a3892a6487d",
+      "url": "https://www.radiodos.com.ar/211567-corrientes-trabaja-con-nacion-en-una-agenda-cultural-conjunta-y-proyectar-el-chamame-al-pais",
+      "title": "Corrientes trabaja con Nación en una agenda cultural conjunta y proyectar el chamamé al país",
+      "volanta": "FORTALECIENDO VÍNCULOS INSTITUCIONALES",
+      "date": "2026-07-30T18:25:46+00:00"
+    },
     {
       "id": "1fd86483",
       "image": "img/1fd86483.png",
@@ -531,15 +540,6 @@
       "title": "El compromiso de la Municipalidad de Corrientes con las personas en situación de calle fue distinguido por el Concejo",
       "volanta": "CONTENCIÓN EN LA CIUDAD",
       "date": "2026-07-28T22:11:22+00:00"
-    },
-    {
-      "id": "fcde269d",
-      "image": "img/fcde269d.png",
-      "image_sha": "3727f293996ae789fba7ba7c3a8a945a0cac9e2b",
-      "url": "https://www.radiodos.com.ar/211446-el-gobierno-anuncio-un-acuerdo-con-starlink-para-llevar-internet-satelital-a-escuelas-rurales-de-todo-el-pais",
-      "title": "El Gobierno anunció un acuerdo con Starlink para llevar internet satelital a escuelas rurales de todo el país",
-      "volanta": "CONECTIVIDAD",
-      "date": "2026-07-28T22:04:24+00:00"
     }
   ]
 }
