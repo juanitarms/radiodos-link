@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T16:56:33+00:00",
+  "updated": "2026-07-30T16:57:20+00:00",
   "posts": [
+    {
+      "id": "b2cbec7b",
+      "image": "img/b2cbec7b.png",
+      "image_sha": "a3aae6375566ebdd88c709920beac2ed4d47b27f",
+      "url": "https://www.radiodos.com.ar/211563-llevo-a-su-hija-al-pediatra-y-denuncio-que-la-abuso-el-medico-se-ofrecio-a-revisarla-y-la-desnudo",
+      "title": "Llevó a su hija al pediatra y denunció que la abusó: el médico se ofreció a revisarla y la desnudó",
+      "volanta": "SANTA FE",
+      "date": "2026-07-30T16:57:20+00:00"
+    },
     {
       "id": "e35d8544",
       "image": "img/e35d8544.png",
@@ -531,15 +540,6 @@
       "title": "A 42 años de su fallecimiento, recordaron en Goya a monseñor Devoto",
       "volanta": "GOYA",
       "date": "2026-07-28T20:55:45+00:00"
-    },
-    {
-      "id": "621ee018",
-      "image": "img/621ee018.png",
-      "image_sha": "f4ec16beafbabaed68127de6cf7a54048e1ecc42",
-      "url": "https://www.radiodos.com.ar/211442-la-mujer-que-denuncio-el-robo-de-un-recien-nacido-en-corrientes-admitio-que-nunca-estuvo-embarazada",
-      "title": "La mujer que denunció el robo de un recién nacido en Corrientes admitió que nunca estuvo embarazada",
-      "volanta": "SE RETRACTÓ ANTE LA JUSTICIA",
-      "date": "2026-07-28T20:53:22+00:00"
     }
   ]
 }
