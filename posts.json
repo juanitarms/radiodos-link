@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T18:52:11+00:00",
+  "updated": "2026-07-30T18:52:48+00:00",
   "posts": [
+    {
+      "id": "1d62f652",
+      "image": "img/1d62f652.png",
+      "image_sha": "2eaa8580da0886337b59b6409964abd6c064ff74",
+      "url": "https://www.radiodos.com.ar/211568-el-hcd-distinguio-a-destacados-profesionales-de-la-medicina",
+      "title": "El HCD distinguió a destacados profesionales de la medicina",
+      "volanta": "18º sesión ordinaria",
+      "date": "2026-07-30T18:52:48+00:00"
+    },
     {
       "id": "b12572a8",
       "image": "img/b12572a8.png",
@@ -531,15 +540,6 @@
       "title": "El embajador de China visitó la UNNE para profundizar la cooperación académica y tecnológica",
       "volanta": "ESTE MARTES",
       "date": "2026-07-28T22:18:55+00:00"
-    },
-    {
-      "id": "314e94b5",
-      "image": "img/314e94b5.png",
-      "image_sha": "1e7f42409a11bc54117c7e5dc0dacd853da20442",
-      "url": "https://www.radiodos.com.ar/211451-acciones-preventivas-por-el-nino-avanza-una-importante-obra-de-desague-en-la-ciudad-de-corrientes",
-      "title": "Acciones preventivas por \"El Niño\": avanza una importante obra de desagüe en la ciudad de Corrientes",
-      "volanta": "INFRAESTRUCTURA URBANA",
-      "date": "2026-07-28T22:13:02+00:00"
     }
   ]
 }
