@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T16:57:20+00:00",
+  "updated": "2026-07-30T17:41:03+00:00",
   "posts": [
+    {
+      "id": "79cf0a52",
+      "image": "img/79cf0a52.png",
+      "image_sha": "54da0ccfef863b9320b5b0ddec6b0efddd9ae0b9",
+      "url": "https://www.radiodos.com.ar/211562-impresionante-derrumbe-en-la-ruta-40-hay-corte-total-en-el-camino-de-los-siete-lagos",
+      "title": "Impresionante derrumbe en la Ruta 40: hay corte total en el Camino de los Siete Lagos",
+      "volanta": "NEUQUÉN",
+      "date": "2026-07-30T17:41:03+00:00"
+    },
     {
       "id": "b2cbec7b",
       "image": "img/b2cbec7b.png",
@@ -531,15 +540,6 @@
       "title": "En la reanudación del juicio por el caso Loan declararon cuatro testigos y un policía",
       "volanta": "COBERTURA ESPECIAL",
       "date": "2026-07-28T20:56:17+00:00"
-    },
-    {
-      "id": "a46f0c44",
-      "image": "img/a46f0c44.png",
-      "image_sha": "2022c9cd02128352a2af1db986a6adbc8952fc83",
-      "url": "https://www.radiodos.com.ar/211444-a-42-anos-de-su-fallecimiento-recordaron-en-goya-a-monsenor-devoto-",
-      "title": "A 42 años de su fallecimiento, recordaron en Goya a monseñor Devoto",
-      "volanta": "GOYA",
-      "date": "2026-07-28T20:55:45+00:00"
     }
   ]
 }
