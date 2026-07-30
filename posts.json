@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T21:09:02+00:00",
+  "updated": "2026-07-30T21:18:22+00:00",
   "posts": [
+    {
+      "id": "44d74f04",
+      "image": "img/44d74f04.png",
+      "image_sha": "a5b011ded0340469ad2147ac6b18def9cda21e78",
+      "url": "https://www.radiodos.com.ar/211576-el-gobierno-de-corrientes-presento-la-nueva-pagina-web-del-registro-de-la-propiedad-inmueble",
+      "title": "El Gobierno de Corrientes presentó la nueva página web del Registro de la Propiedad Inmueble",
+      "volanta": "TRANSFORMACIÓN DIGITAL",
+      "date": "2026-07-30T21:18:22+00:00"
+    },
     {
       "id": "b12572a8",
       "image": "img/b12572a8.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: las primeras horas de la desaparición serán el eje de la declaración de cuatro testigos",
       "volanta": "AUDIENCIA DE HOY",
       "date": "2026-07-29T10:46:24+00:00"
-    },
-    {
-      "id": "19678b00",
-      "image": "img/19678b00.png",
-      "image_sha": "cd7b6693d3ca539aac101452f2f45705ebbe7112",
-      "url": "https://www.radiodos.com.ar/211457-corrientes-vaciaron-la-caja-de-una-casa-de-juegos-y-se-llevaron-mas-de-10-m-de-pesos",
-      "title": "Corrientes: vaciaron la caja de una casa de juegos y se llevaron más de 10 M de pesos",
-      "volanta": "EN PLENA PEATONAL",
-      "date": "2026-07-29T10:32:30+00:00"
     }
   ]
 }
