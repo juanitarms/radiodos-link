@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T21:20:55+00:00",
+  "updated": "2026-07-30T22:04:37+00:00",
   "posts": [
+    {
+      "id": "ca3f9ea5",
+      "image": "img/ca3f9ea5.png",
+      "image_sha": "23213a6bf6de97b84933ee43e894e1f188591c66",
+      "url": "https://www.radiodos.com.ar/211583-maxi-salas-lleva-sus-goles-a-independiente-rivadavia",
+      "title": "Maxi Salas lleva sus goles a Independiente Rivadavia",
+      "volanta": "MERCADO DE PASES",
+      "date": "2026-07-30T22:04:37+00:00"
+    },
     {
       "id": "f9ec5d59",
       "image": "img/f9ec5d59.png",
@@ -531,15 +540,6 @@
       "title": "Localidad del interior de Corrientes seriamente afectada por ráfagas de viento",
       "volanta": "ALVEAR",
       "date": "2026-07-29T12:24:44+00:00"
-    },
-    {
-      "id": "77bf0e4f",
-      "image": "img/77bf0e4f.png",
-      "image_sha": "468260a518957c711b926c4aa0e3ab4396e3ff14",
-      "url": "https://www.radiodos.com.ar/211462-se-llevo-a-cabo-en-corrientes-la-clinica-anual-para-arbitros-y-comisionados-tecnicos",
-      "title": "Se llevó a cabo en Corrientes la clínica anual para árbitros y comisionados técnicos",
-      "volanta": "BÁSQUET",
-      "date": "2026-07-29T12:04:46+00:00"
     }
   ]
 }
