@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T11:59:36+00:00",
+  "updated": "2026-07-30T12:18:43+00:00",
   "posts": [
+    {
+      "id": "3d16bd7a",
+      "image": "img/3d16bd7a.png",
+      "image_sha": "dfc26650e59f0180b6129a1f96f114fdb70b8b10",
+      "url": "https://www.radiodos.com.ar/211527-el-gobernador-jp-valdes-viaja-a-encarnacion-del-paraguay",
+      "title": "El gobernador JP Valdés viaja a Encarnación del Paraguay",
+      "volanta": "AGENDA OFICIAL",
+      "date": "2026-07-30T12:18:43+00:00"
+    },
     {
       "id": "afc0f3f3",
       "image": "img/afc0f3f3.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara difundió imágenes del robo en Italia: volvió a apuntar contra Mauro Icardi",
       "volanta": "INSEGURIDAD",
       "date": "2026-07-28T14:24:25+00:00"
-    },
-    {
-      "id": "2e9f5adc",
-      "image": "img/2e9f5adc.png",
-      "image_sha": "a0e3fd6bb48abaa719908f84b965164f4829123c",
-      "url": "https://www.radiodos.com.ar/211419-intoxicacion-masiva-en-coronel-pringles-mas-de-40-personas-afectadas-tras-una-pollada-solidaria-para-una-beba",
-      "title": "Intoxicación masiva en Coronel Pringles: más de 40 personas afectadas tras una pollada solidaria para una beba",
-      "volanta": "SALUD",
-      "date": "2026-07-28T13:52:23+00:00"
     }
   ]
 }
