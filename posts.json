@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T22:11:58+00:00",
+  "updated": "2026-07-30T22:20:27+00:00",
   "posts": [
+    {
+      "id": "ed14f4d7",
+      "image": "img/ed14f4d7.png",
+      "image_sha": "3560d0f4d6df98041f67cb154535896b2d70724d",
+      "url": "https://www.radiodos.com.ar/211584-el-empleo-formal-y-el-salario-real-aceleran-su-caida",
+      "title": "El empleo formal y el salario real aceleran su caída",
+      "volanta": "economía libertaria",
+      "date": "2026-07-30T22:20:27+00:00"
+    },
     {
       "id": "2322c129",
       "image": "img/2322c129.png",
@@ -531,15 +540,6 @@
       "title": "Con 676 metros de red y 50 nuevas conexiones, se expande el programa municipal Cloaca Social",
       "volanta": "INFRAESTRUCTURA SANITARIA",
       "date": "2026-07-29T13:37:50+00:00"
-    },
-    {
-      "id": "f01ab42f",
-      "image": "img/f01ab42f.png",
-      "image_sha": "079307405e8f079d950426b7bcbcd438ffee254c",
-      "url": "https://www.radiodos.com.ar/211466-el-poder-judicial-completo-la-depuracion-y-registracion-digital-de-mas-de-37-mil-expedientes-archivados",
-      "title": "El Poder Judicial completó la depuración y registración digital de más de 37 mil expedientes archivados",
-      "volanta": "GESTIÓN DOCUMENTAL",
-      "date": "2026-07-29T13:03:57+00:00"
     }
   ]
 }
