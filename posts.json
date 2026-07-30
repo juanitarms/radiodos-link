@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T12:18:43+00:00",
+  "updated": "2026-07-30T12:34:30+00:00",
   "posts": [
+    {
+      "id": "49eaa7ef",
+      "image": "img/49eaa7ef.png",
+      "image_sha": "2e31e28670a1e6c93a37ce31ae1fcf6468d0808f",
+      "url": "https://www.radiodos.com.ar/211531-quedo-atrapado-en-el-vehiculo-tras-derrapar-y-volcar-con-su-auto-en-el-interior-de-corrientes",
+      "title": "Quedó atrapado en el vehículo tras derrapar y volcar con su auto en el interior de Corrientes",
+      "volanta": "RUTA 27",
+      "date": "2026-07-30T12:34:30+00:00"
+    },
     {
       "id": "3d16bd7a",
       "image": "img/3d16bd7a.png",
@@ -531,15 +540,6 @@
       "title": "Gran Hermano: Devi el correntino volvió a la casa y causó revuelo",
       "volanta": "DE VISITA",
       "date": "2026-07-28T14:50:27+00:00"
-    },
-    {
-      "id": "8900a735",
-      "image": "img/8900a735.png",
-      "image_sha": "2064019dc83c69cde14013438644f5057826e026",
-      "url": "https://www.radiodos.com.ar/211423-wanda-nara-difundio-imagenes-del-robo-en-italia-volvio-a-apuntar-contra-mauro-icardi",
-      "title": "Wanda Nara difundió imágenes del robo en Italia: volvió a apuntar contra Mauro Icardi",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-07-28T14:24:25+00:00"
     }
   ]
 }
