@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T22:20:27+00:00",
+  "updated": "2026-07-30T23:42:19+00:00",
   "posts": [
+    {
+      "id": "7a045ab5",
+      "image": "img/7a045ab5.png",
+      "image_sha": "ddb9294df6c529640aa020406b39b5a8b59e1615",
+      "url": "https://www.radiodos.com.ar/211586-la-federacion-de-espana-investigara-al-barcelona-por-un-presunto-contacto-ilegal-con-julian-alvarez",
+      "title": "La Federación de España investigará al Barcelona por un presunto contacto ilegal con Julián Álvarez",
+      "volanta": "bomba",
+      "date": "2026-07-30T23:42:19+00:00"
+    },
     {
       "id": "ed14f4d7",
       "image": "img/ed14f4d7.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: dura condena contra un hombre que abusó de su propia hijastra",
       "volanta": "12 AÑOS",
       "date": "2026-07-29T13:57:00+00:00"
-    },
-    {
-      "id": "4cabdbc8",
-      "image": "img/4cabdbc8.png",
-      "image_sha": "109ef6d5379b4850ff427ba01a9d7c0e7b0d33d4",
-      "url": "https://www.radiodos.com.ar/211476-con-676-metros-de-red-y-50-nuevas-conexiones-se-expande-el-programa-municipal-cloaca-social",
-      "title": "Con 676 metros de red y 50 nuevas conexiones, se expande el programa municipal Cloaca Social",
-      "volanta": "INFRAESTRUCTURA SANITARIA",
-      "date": "2026-07-29T13:37:50+00:00"
     }
   ]
 }
