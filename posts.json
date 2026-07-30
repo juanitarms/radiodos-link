@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T12:34:30+00:00",
+  "updated": "2026-07-30T12:57:52+00:00",
   "posts": [
+    {
+      "id": "fa756955",
+      "image": "img/fa756955.png",
+      "image_sha": "f8d7d771b9f32492383da84acf585431660da083",
+      "url": "https://www.radiodos.com.ar/211537-la-seleccion-correntina-de-infantiles-femenino-debuta-en-el-campeonato-argentino-de-federaciones",
+      "title": "La Selección Correntina de Infantiles femenino debuta en el Campeonato Argentino de Federaciones",
+      "volanta": "BÁSQUET",
+      "date": "2026-07-30T12:57:52+00:00"
+    },
     {
       "id": "49eaa7ef",
       "image": "img/49eaa7ef.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: fue a vender su moto y se la robaron a punta de pistola",
       "volanta": "PLAZA DEL MERCOSUR",
       "date": "2026-07-28T15:02:33+00:00"
-    },
-    {
-      "id": "5061cf8a",
-      "image": "img/5061cf8a.png",
-      "image_sha": "c1500ef8751266002ae3668ecf50c57880c4dc4d",
-      "url": "https://www.radiodos.com.ar/211427-gran-hermano-devi-el-correntino-volvio-a-la-casa-y-causo-revuelo-",
-      "title": "Gran Hermano: Devi el correntino volvió a la casa y causó revuelo",
-      "volanta": "DE VISITA",
-      "date": "2026-07-28T14:50:27+00:00"
     }
   ]
 }
