@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T22:10:17+00:00",
+  "updated": "2026-07-30T22:11:58+00:00",
   "posts": [
+    {
+      "id": "2322c129",
+      "image": "img/2322c129.png",
+      "image_sha": "4c5b39443de3b08061e22c28321e3cc0a7d74aa0",
+      "url": "https://www.radiodos.com.ar/211582-bella-vista-y-villa-ocampo-a-un-paso-de-consolidar-su-conexion-fluvial-tras-el-aval-del-senado",
+      "title": "Bella Vista y Villa Ocampo, a un paso de consolidar su conexión fluvial tras el aval del Senado",
+      "volanta": "MEDIA SANCIÓN",
+      "date": "2026-07-30T22:11:58+00:00"
+    },
     {
       "id": "bb1169a8",
       "image": "img/bb1169a8.png",
@@ -531,15 +540,6 @@
       "title": "El Poder Judicial completó la depuración y registración digital de más de 37 mil expedientes archivados",
       "volanta": "GESTIÓN DOCUMENTAL",
       "date": "2026-07-29T13:03:57+00:00"
-    },
-    {
-      "id": "b636c49d",
-      "image": "img/b636c49d.png",
-      "image_sha": "b37faf2bcb47eb28f5e143bce5f083f6b7462621",
-      "url": "https://www.radiodos.com.ar/211460-la-dpec-realizara-trabajos-de-mejoras-en-capital-e-ituzaingo",
-      "title": "La DPEC realizará trabajos de mejoras en Capital e Ituzaingó",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-07-29T12:49:46+00:00"
     }
   ]
 }
