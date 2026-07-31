@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T19:25:28+00:00",
+  "updated": "2026-07-31T19:26:03+00:00",
   "posts": [
+    {
+      "id": "1ce2f69a",
+      "image": "img/1ce2f69a.png",
+      "image_sha": "469d102440011ff4c4323e1de50b31ccf79378cd",
+      "url": "https://www.radiodos.com.ar/211625-zoe-bogach-le-hizo-una-advertencia-a-su-nuevo-novio-tras-la-infidelidad-de-manuel-ibero",
+      "title": "Zoe Bogach le hizo una advertencia a su nuevo novio tras la infidelidad de Manuel Ibero",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-07-31T19:26:03+00:00"
+    },
     {
       "id": "fa305d03",
       "image": "img/fa305d03.png",
@@ -531,15 +540,6 @@
       "title": "Preso al intentar robar una moto en el microcentro de Corrientes",
       "volanta": "POR LA RIOJA",
       "date": "2026-07-29T22:32:19+00:00"
-    },
-    {
-      "id": "20972b4a",
-      "image": "img/20972b4a.png",
-      "image_sha": "628c4a19a3e941eeed46a8c58e1bee07fe1ad97d",
-      "url": "https://www.radiodos.com.ar/211518-se-ordeno-un-nuevo-sacerdote-en-corrientes-y-monsenor-canecin-advirtio-evitemos-la-tentacion-de-convertirnos-en-francotiradores-pastorales",
-      "title": "Se ordenó un nuevo sacerdote en Corrientes, y monseñor Canecín advirtió: \"Evitemos la tentación de convertirnos en francotiradores pastorales\"",
-      "volanta": "DIOCESIS DE GOYA",
-      "date": "2026-07-29T22:31:04+00:00"
     }
   ]
 }
