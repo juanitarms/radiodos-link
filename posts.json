@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T12:04:36+00:00",
+  "updated": "2026-07-31T12:27:55+00:00",
   "posts": [
+    {
+      "id": "e1ee17c1",
+      "image": "img/e1ee17c1.png",
+      "image_sha": "12130d261ecb475b282c806c567df67fd2152dfa",
+      "url": "https://www.radiodos.com.ar/211596-se-realizara-la-colecta-diocesana-anual-nemuasai-del-1",
+      "title": "Se realizará la Colecta Diocesana Anual \"Ñemuasãi del 1%\"",
+      "volanta": "SOLIDARIDAD",
+      "date": "2026-07-31T12:27:55+00:00"
+    },
     {
       "id": "be032b10",
       "image": "img/be032b10.png",
@@ -531,15 +540,6 @@
       "title": "Crisis de consumo en los supermercados: se compra más electrónica pero menos bebidas, comidas y lácteos",
       "volanta": "ECONOMÍA",
       "date": "2026-07-29T16:10:17+00:00"
-    },
-    {
-      "id": "91f3d3a7",
-      "image": "img/91f3d3a7.png",
-      "image_sha": "fbdda656e2b79b1f65220cc0c31b73403aa15821",
-      "url": "https://www.radiodos.com.ar/211488-un-repartidor-necesita-completar-casi-150-entregas-al-mes-para-no-ser-pobre",
-      "title": "Un repartidor necesita completar casi 150 entregas al mes para no ser pobre",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-29T15:06:29+00:00"
     }
   ]
 }
