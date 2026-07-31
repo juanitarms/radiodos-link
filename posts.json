@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T16:19:13+00:00",
+  "updated": "2026-07-31T16:19:49+00:00",
   "posts": [
+    {
+      "id": "509bdbb5",
+      "image": "img/509bdbb5.png",
+      "image_sha": "0094ba0d5f6cf368b65034e16769c5ed117222e4",
+      "url": "https://www.radiodos.com.ar/211615-tres-heridos-graves-tras-choque-multiple-por-ruta-14-en-el-interior-de-corrientes",
+      "title": "Tres heridos graves tras choque múltiple por Ruta 14 en el interior de Corrientes",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-07-31T16:19:49+00:00"
+    },
     {
       "id": "7b2f2f0d",
       "image": "img/7b2f2f0d.png",
@@ -531,15 +540,6 @@
       "title": "Absolvieron al veterinario que mató de un disparo a una perra y le devolverán el arma",
       "volanta": "CORRIENTES",
       "date": "2026-07-29T21:18:18+00:00"
-    },
-    {
-      "id": "2a9fac6e",
-      "image": "img/2a9fac6e.png",
-      "image_sha": "4b2dbbd57fc7eacad598664a03c2a6ae1d8c092a",
-      "url": "https://www.radiodos.com.ar/211510-un-medico-derrapo-al-intentar-esquivar-un-animal-y-debio-ser-hospitalizado",
-      "title": "Un médico derrapó al intentar esquivar un animal y debió ser hospitalizado",
-      "volanta": "Sobre ruta 12",
-      "date": "2026-07-29T20:50:45+00:00"
     }
   ]
 }
