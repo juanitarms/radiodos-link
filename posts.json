@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T22:40:56+00:00",
+  "updated": "2026-07-31T22:51:40+00:00",
   "posts": [
+    {
+      "id": "fd84f799",
+      "image": "img/fd84f799.png",
+      "image_sha": "9600b03758d8665994f910aca91e0432864026fd",
+      "url": "https://www.radiodos.com.ar/211642-anticipan-un-sabado-con-tormentas-fuertes-y-descenso-en-la-temperatura",
+      "title": "Anticipan un sábado con tormentas fuertes y descenso en la temperatura",
+      "volanta": "ALERTA AMARILLA",
+      "date": "2026-07-31T22:51:40+00:00"
+    },
     {
       "id": "b114659c",
       "image": "img/b114659c.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés viaja a Encarnación del Paraguay",
       "volanta": "AGENDA OFICIAL",
       "date": "2026-07-30T12:18:43+00:00"
-    },
-    {
-      "id": "afc0f3f3",
-      "image": "img/afc0f3f3.png",
-      "image_sha": "b65dcd6ef2892c50a5726d297ea173f9a80ca181",
-      "url": "https://www.radiodos.com.ar/211526-joven-detenido-tras-bestial-ataque-a-un-anciano-en-el-interior-de-corrientes",
-      "title": "Joven detenido tras bestial ataque a un anciano en el interior de Corrientes",
-      "volanta": "MONTE CASEROS",
-      "date": "2026-07-30T11:59:36+00:00"
     }
   ]
 }
