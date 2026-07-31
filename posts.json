@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T21:35:38+00:00",
+  "updated": "2026-07-31T21:45:28+00:00",
   "posts": [
+    {
+      "id": "6d565a33",
+      "image": "img/6d565a33.png",
+      "image_sha": "e18587a09b0d2b229774edef1220d9fe4e886d6c",
+      "url": "https://www.radiodos.com.ar/211641-vecinos-y-bomberos-evitaron-que-un-incendio-en-un-local-gastronomico-se-propague-a-zonas-linderas",
+      "title": "Vecinos y bomberos evitaron que un incendio en un local gastronómico se propague a zonas linderas",
+      "volanta": "SAN MIGUEL",
+      "date": "2026-07-31T21:45:28+00:00"
+    },
     {
       "id": "5b51c7f5",
       "image": "img/5b51c7f5.png",
@@ -531,15 +540,6 @@
       "title": "En el Juicio por Loan, exjefe policial complicó a Maciel: \"Me dijo que había aparecido y se levantó la búsqueda\"",
       "volanta": "AUDIENCIA 11",
       "date": "2026-07-29T23:08:13+00:00"
-    },
-    {
-      "id": "1cd63cd5",
-      "image": "img/1cd63cd5.png",
-      "image_sha": "c91e2cff67b98ac5238516516c7d697e36161ffd",
-      "url": "https://www.radiodos.com.ar/211514-la-muni-en-tu-barrio-llega-al-laguna-seca",
-      "title": "La Muni en tu Barrio llega al Laguna Seca",
-      "volanta": "Servicios gratuitos",
-      "date": "2026-07-29T22:34:52+00:00"
     }
   ]
 }
