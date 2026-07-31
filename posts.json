@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T11:01:32+00:00",
+  "updated": "2026-07-31T11:33:58+00:00",
   "posts": [
+    {
+      "id": "e1941862",
+      "image": "img/e1941862.png",
+      "image_sha": "3b915051b0b7d436a5e3d7c74b7ae9f24984f5e7",
+      "url": "https://www.radiodos.com.ar/211587-en-paraguay-el-gobernador-juan-pablo-valdes-resalto-el-papel-de-corrientes-por-puertos-e-hidrovia",
+      "title": "En Paraguay, el gobernador Juan Pablo Valdés resaltó el papel de Corrientes por puertos e hidrovía",
+      "volanta": "EN ENCARNACIÓN",
+      "date": "2026-07-31T11:33:58+00:00"
+    },
     {
       "id": "8ee4ec96",
       "image": "img/8ee4ec96.png",
@@ -531,15 +540,6 @@
       "title": "Lisandro Martínez y Alexis Mac Allister reforzaron la seguridad de sus casas en Inglaterra",
       "volanta": "DETERMINACIÓN",
       "date": "2026-07-29T14:52:52+00:00"
-    },
-    {
-      "id": "82c54019",
-      "image": "img/82c54019.png",
-      "image_sha": "0aa0521c1a62b04598c915f27a3a74a9aeae19a6",
-      "url": "https://www.radiodos.com.ar/211485-la-drastica-decision-que-tomo-neymar-con-la-seleccion-de-brasil-ya-no-quiero-mas",
-      "title": "La drástica decisión que tomó Neymar con la Selección de Brasil: \"Ya no quiero más\"",
-      "volanta": "CONTUNDENTE",
-      "date": "2026-07-29T14:20:36+00:00"
     }
   ]
 }
