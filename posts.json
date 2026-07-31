@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T13:16:07+00:00",
+  "updated": "2026-07-31T14:02:24+00:00",
   "posts": [
+    {
+      "id": "da6a4172",
+      "image": "img/da6a4172.png",
+      "image_sha": "e66848c1e273036c9392afb9b6c12e6d43b01c20",
+      "url": "https://www.radiodos.com.ar/211610-fuiste-nuestro-angel-policias-salvaron-a-un-bebe-de-un-ano-que-se-ahogaba",
+      "title": "\"Fuiste nuestro ángel\": policías salvaron a un bebé de un año que se ahogaba",
+      "volanta": "Villa Adelina",
+      "date": "2026-07-31T14:02:24+00:00"
+    },
     {
       "id": "6d59b681",
       "image": "img/6d59b681.png",
@@ -531,15 +540,6 @@
       "title": "Convocan al talento joven correntino al HackLab + Hackathon Corrientes 2026",
       "volanta": "LANZAMIENTO Y ANUNCIOS",
       "date": "2026-07-29T17:16:34+00:00"
-    },
-    {
-      "id": "ad5f0b89",
-      "image": "img/ad5f0b89.png",
-      "image_sha": "c611e3d2c8d88516466e6eff5ecb5ea215d77c40",
-      "url": "https://www.radiodos.com.ar/211492-paso-de-la-patria-avanza-en-la-implementacion-del-sello-correntino-de-calidad-turistica",
-      "title": "Paso de la Patria avanza en la implementación del Sello Correntino de Calidad Turística",
-      "volanta": "Primera asistencia técnica presencial",
-      "date": "2026-07-29T17:16:02+00:00"
     }
   ]
 }
