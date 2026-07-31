@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T19:24:55+00:00",
+  "updated": "2026-07-31T19:25:28+00:00",
   "posts": [
+    {
+      "id": "fa305d03",
+      "image": "img/fa305d03.png",
+      "image_sha": "4ff9bdce6cff170c43292a8f06efbb50e65bf2a7",
+      "url": "https://www.radiodos.com.ar/211624-tuli-acosta-rompio-el-silencio-tras-ser-senalada-como-tercera-en-discordia-entre-luck-ra-y-la-joaqui-la-llame",
+      "title": "Tuli Acosta rompió el silencio tras ser señalada como tercera en discordia entre Luck Ra y La Joaqui: \"La llamé\"",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-07-31T19:25:28+00:00"
+    },
     {
       "id": "5a626bc1",
       "image": "img/5a626bc1.png",
@@ -531,15 +540,6 @@
       "title": "Se ordenó un nuevo sacerdote en Corrientes, y monseñor Canecín advirtió: \"Evitemos la tentación de convertirnos en francotiradores pastorales\"",
       "volanta": "DIOCESIS DE GOYA",
       "date": "2026-07-29T22:31:04+00:00"
-    },
-    {
-      "id": "8a2c7c94",
-      "image": "img/8a2c7c94.png",
-      "image_sha": "6352c7b00c36f30da584dfdec64dec841769cccc",
-      "url": "https://www.radiodos.com.ar/211515-boca-unidos-levantaron-la-sancion-y-cuatro-futbolistas-volvieron-al-plantel-profesional",
-      "title": "Boca Unidos: Levantaron la sanción y cuatro futbolistas volvieron al plantel profesional",
-      "volanta": "Federal A",
-      "date": "2026-07-29T22:29:47+00:00"
     }
   ]
 }
