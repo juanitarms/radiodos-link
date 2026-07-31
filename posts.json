@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T22:51:40+00:00",
+  "updated": "2026-07-31T22:53:47+00:00",
   "posts": [
+    {
+      "id": "14b6bcbb",
+      "image": "img/14b6bcbb.png",
+      "image_sha": "086fbcbd2618d487dd8a1a4acaff541b74e0a8cf",
+      "url": "https://www.radiodos.com.ar/211640-paso-clave-para-la-visita-del-papa-milei-recibio-las-cartas-credenciales-del-nuevo-nuncio-apostolico",
+      "title": "Paso clave para la visita del Papa: Milei recibió las cartas credenciales del nuevo nuncio apostólico",
+      "volanta": "CRECE LA EXPECTATIVA",
+      "date": "2026-07-31T22:53:47+00:00"
+    },
     {
       "id": "fd84f799",
       "image": "img/fd84f799.png",
@@ -531,15 +540,6 @@
       "title": "Quedó atrapado en el vehículo tras derrapar y volcar con su auto en el interior de Corrientes",
       "volanta": "RUTA 27",
       "date": "2026-07-30T12:34:30+00:00"
-    },
-    {
-      "id": "3d16bd7a",
-      "image": "img/3d16bd7a.png",
-      "image_sha": "dfc26650e59f0180b6129a1f96f114fdb70b8b10",
-      "url": "https://www.radiodos.com.ar/211527-el-gobernador-jp-valdes-viaja-a-encarnacion-del-paraguay",
-      "title": "El gobernador JP Valdés viaja a Encarnación del Paraguay",
-      "volanta": "AGENDA OFICIAL",
-      "date": "2026-07-30T12:18:43+00:00"
     }
   ]
 }
