@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T22:18:24+00:00",
+  "updated": "2026-07-31T22:37:18+00:00",
   "posts": [
+    {
+      "id": "0680eb02",
+      "image": "img/0680eb02.png",
+      "image_sha": "9b0b39f0faedde27dc48d89ce54415d74ebdd085",
+      "url": "https://www.radiodos.com.ar/211644-el-76-de-la-superficie-de-corrientes-pertenece-a-propietarios-extranjeros",
+      "title": "El 7,6% de la superficie de Corrientes pertenece a propietarios extranjeros",
+      "volanta": "Avance sobre el Iberá y la ribera del Paraná",
+      "date": "2026-07-31T22:37:18+00:00"
+    },
     {
       "id": "b34eec32",
       "image": "img/b34eec32.png",
@@ -531,15 +540,6 @@
       "title": "Robo de motos: secuestran gran cantidad de motopartes en tres allanamientos",
       "volanta": "MONTE CASEROS",
       "date": "2026-07-30T10:48:22+00:00"
-    },
-    {
-      "id": "ea5e3b49",
-      "image": "img/ea5e3b49.png",
-      "image_sha": "b30ad7632e0c3158f273dfb059bfbbe17f2b2787",
-      "url": "https://www.radiodos.com.ar/211521-suspenden-paso-internacional-por-la-crecida-del-rio-uruguay-en-el-interior-de-corrientes",
-      "title": "Suspenden paso internacional por la crecida del río Uruguay en el interior de Corrientes",
-      "volanta": "AHORA",
-      "date": "2026-07-29T23:18:53+00:00"
     }
   ]
 }
