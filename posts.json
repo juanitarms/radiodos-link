@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T12:27:55+00:00",
+  "updated": "2026-07-31T12:57:28+00:00",
   "posts": [
+    {
+      "id": "1606a114",
+      "image": "img/1606a114.png",
+      "image_sha": "e1a0e316bd639816cf7188a8116134c85f78c8dd",
+      "url": "https://www.radiodos.com.ar/211600-victoria-villarruel-manifesto-su-genuina-preocupacion-por-el-estado-de-javier-milei-que-paso",
+      "title": "Victoria Villarruel manifestó su \"genuina preocupación por el estado\" de Javier Milei: qué pasó",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-07-31T12:57:28+00:00"
+    },
     {
       "id": "e1ee17c1",
       "image": "img/e1ee17c1.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron en Paraguay a un ingeniero argentino acusado de intentar captar a una adolescente",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-29T16:10:51+00:00"
-    },
-    {
-      "id": "845c14d4",
-      "image": "img/845c14d4.png",
-      "image_sha": "12a99d04244d946e98b1bfe3388a24d583d7f480",
-      "url": "https://www.radiodos.com.ar/211489-crisis-de-consumo-en-los-supermercados-se-compra-mas-electronica-pero-menos-bebidas-comidas-y-lacteos",
-      "title": "Crisis de consumo en los supermercados: se compra más electrónica pero menos bebidas, comidas y lácteos",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-29T16:10:17+00:00"
     }
   ]
 }
