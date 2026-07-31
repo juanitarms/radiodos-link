@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T19:26:03+00:00",
+  "updated": "2026-07-31T20:37:20+00:00",
   "posts": [
+    {
+      "id": "a859a798",
+      "image": "img/a859a798.png",
+      "image_sha": "092f0f80ac0b38af62e05cf7ac15c96ad07119bf",
+      "url": "https://www.radiodos.com.ar/211636-el-centro-de-rehabilitacion-valentin-hauy-de-corrientes-cumple-50-anos-al-servicio-de-la-comunidad",
+      "title": "El Centro de Rehabilitación \"Valentín Haüy\" de Corrientes cumple 50 años al servicio de la comunidad",
+      "volanta": "ANIVERSARIO",
+      "date": "2026-07-31T20:37:20+00:00"
+    },
     {
       "id": "1ce2f69a",
       "image": "img/1ce2f69a.png",
@@ -531,15 +540,6 @@
       "title": "Abuso sexual en Hollywood: cuatro mujeres denunciaron al reconocido actor Jared Leto",
       "volanta": "Investigación",
       "date": "2026-07-29T22:33:04+00:00"
-    },
-    {
-      "id": "b685c000",
-      "image": "img/b685c000.png",
-      "image_sha": "86b14a68d004898e165ab3611064e3364e3a7ff8",
-      "url": "https://www.radiodos.com.ar/211517-preso-al-intentar-robar-una-moto-en-el-microcentro-de-corrientes",
-      "title": "Preso al intentar robar una moto en el microcentro de Corrientes",
-      "volanta": "POR LA RIOJA",
-      "date": "2026-07-29T22:32:19+00:00"
     }
   ]
 }
