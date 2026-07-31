@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T21:47:54+00:00",
+  "updated": "2026-07-31T22:18:24+00:00",
   "posts": [
+    {
+      "id": "b34eec32",
+      "image": "img/b34eec32.png",
+      "image_sha": "f52aa857a63698dcd7376e90836c4ecd9ac9fd83",
+      "url": "https://www.radiodos.com.ar/211646-el-637-cree-que-el-responsable-de-la-crisis-economica-es-milei",
+      "title": "El 63,7% cree que el responsable de la crisis económica es Milei",
+      "volanta": "Cambio de tendencia",
+      "date": "2026-07-31T22:18:24+00:00"
+    },
     {
       "id": "c19bc5c7",
       "image": "img/c19bc5c7.png",
@@ -531,15 +540,6 @@
       "title": "Suspenden paso internacional por la crecida del río Uruguay en el interior de Corrientes",
       "volanta": "AHORA",
       "date": "2026-07-29T23:18:53+00:00"
-    },
-    {
-      "id": "3e4eb175",
-      "image": "img/3e4eb175.png",
-      "image_sha": "788f97c181b7a5d8e58154b1804f8dc56b9f868a",
-      "url": "https://www.radiodos.com.ar/211519-fijaron-fecha-para-la-peregrinacion-de-los-trabajadores-al-santuario-de-san-cayetano",
-      "title": "Fijaron fecha para la Peregrinación de los Trabajadores al Santuario de San Cayetano",
-      "volanta": "Tradición religiosa",
-      "date": "2026-07-29T23:18:22+00:00"
     }
   ]
 }
