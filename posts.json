@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T11:33:58+00:00",
+  "updated": "2026-07-31T12:04:36+00:00",
   "posts": [
+    {
+      "id": "be032b10",
+      "image": "img/be032b10.png",
+      "image_sha": "ef83fbc61fa2ecce61ef6bb03a377bc3a6a6c67d",
+      "url": "https://www.radiodos.com.ar/211595-la-arquidiocesis-de-corrientes-invita-a-participar-de-la-40-peregrinacion-de-los-trabajadores-y-sus-familias-a-san-cayetano",
+      "title": "La Arquidiócesis de Corrientes invita a participar de la 40.ª Peregrinación de los Trabajadores y sus Familias a San Cayetano",
+      "volanta": "FE",
+      "date": "2026-07-31T12:04:36+00:00"
+    },
     {
       "id": "e1941862",
       "image": "img/e1941862.png",
@@ -531,15 +540,6 @@
       "title": "Un repartidor necesita completar casi 150 entregas al mes para no ser pobre",
       "volanta": "ECONOMÍA",
       "date": "2026-07-29T15:06:29+00:00"
-    },
-    {
-      "id": "5a84b7c6",
-      "image": "img/5a84b7c6.png",
-      "image_sha": "7cd711b26cf712f25a23beaec3296061c9388e90",
-      "url": "https://www.radiodos.com.ar/211486-lisandro-martinez-y-alexis-mac-allister-reforzaron-la-seguridad-de-sus-casas-en-inglaterra",
-      "title": "Lisandro Martínez y Alexis Mac Allister reforzaron la seguridad de sus casas en Inglaterra",
-      "volanta": "DETERMINACIÓN",
-      "date": "2026-07-29T14:52:52+00:00"
     }
   ]
 }
