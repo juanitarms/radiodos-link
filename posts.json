@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T13:15:30+00:00",
+  "updated": "2026-07-31T13:16:07+00:00",
   "posts": [
+    {
+      "id": "6d59b681",
+      "image": "img/6d59b681.png",
+      "image_sha": "8016f56195fec0f24ff5502499f14a41a15914c9",
+      "url": "https://www.radiodos.com.ar/211604-cuales-son-las-5-premisas-de-la-nueva-carta-organica-del-banco-central",
+      "title": "Cuáles son las 5 premisas de la nueva Carta Orgánica del Banco Central",
+      "volanta": "PROYECTO",
+      "date": "2026-07-31T13:16:07+00:00"
+    },
     {
       "id": "ee2b5efc",
       "image": "img/ee2b5efc.png",
@@ -531,15 +540,6 @@
       "title": "Paso de la Patria avanza en la implementación del Sello Correntino de Calidad Turística",
       "volanta": "Primera asistencia técnica presencial",
       "date": "2026-07-29T17:16:02+00:00"
-    },
-    {
-      "id": "ce551ffb",
-      "image": "img/ce551ffb.png",
-      "image_sha": "23814dfed2e5691dd44863dc153bffde42322fce",
-      "url": "https://www.radiodos.com.ar/211490-modificaron-el-protocolo-de-seguridad-por-las-amenazas-de-ataques-en-las-escuelas",
-      "title": "Modificaron el protocolo de seguridad por las amenazas de ataques en las escuelas",
-      "volanta": "NOVEDAD",
-      "date": "2026-07-29T16:11:22+00:00"
     }
   ]
 }
