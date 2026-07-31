@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T14:37:43+00:00",
+  "updated": "2026-07-31T14:59:49+00:00",
   "posts": [
+    {
+      "id": "70b7eb41",
+      "image": "img/70b7eb41.png",
+      "image_sha": "15f03719537116d8a3c794d55b6004be8427ff6e",
+      "url": "https://www.radiodos.com.ar/211618-mar-del-plata-clausuraron-el-geriatrico-donde-un-enfermero-maltrato-a-dos-ancianas",
+      "title": "Mar del Plata: clausuraron el geriátrico donde un enfermero maltrató a dos ancianas",
+      "volanta": "MEDIDA",
+      "date": "2026-07-31T14:59:49+00:00"
+    },
     {
       "id": "2aebd4b9",
       "image": "img/2aebd4b9.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a dos personas y secuestraron cocaína entre sus pertenencias",
       "volanta": "GENERAL PAZ",
       "date": "2026-07-29T18:22:08+00:00"
-    },
-    {
-      "id": "6755569c",
-      "image": "img/6755569c.png",
-      "image_sha": "eeba719e6a533616eaf71418bd9a4ee466526f4b",
-      "url": "https://www.radiodos.com.ar/211505-dos-detenidos-con-elementos-robados-de-un-comercio",
-      "title": "Dos detenidos con elementos robados de un comercio",
-      "volanta": "COMISARIA 2º URBANA",
-      "date": "2026-07-29T18:21:35+00:00"
     }
   ]
 }
