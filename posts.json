@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T12:57:28+00:00",
+  "updated": "2026-07-31T13:15:30+00:00",
   "posts": [
+    {
+      "id": "ee2b5efc",
+      "image": "img/ee2b5efc.png",
+      "image_sha": "be6c09eee97c23cb19415b9850f783aa629bb7fe",
+      "url": "https://www.radiodos.com.ar/211606-quien-era-la-joven-argentina-que-fue-hallada-sin-vida-en-una-playa-de-punta-del-este",
+      "title": "Quién era la joven argentina que fue hallada sin vida en una playa de Punta del Este",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-07-31T13:15:30+00:00"
+    },
     {
       "id": "1606a114",
       "image": "img/1606a114.png",
@@ -531,15 +540,6 @@
       "title": "Modificaron el protocolo de seguridad por las amenazas de ataques en las escuelas",
       "volanta": "NOVEDAD",
       "date": "2026-07-29T16:11:22+00:00"
-    },
-    {
-      "id": "37798082",
-      "image": "img/37798082.png",
-      "image_sha": "e706da8ca446224db19e9e38adea4ab5c77fa2a9",
-      "url": "https://www.radiodos.com.ar/211491-detuvieron-en-paraguay-a-un-ingeniero-argentino-acusado-de-intentar-captar-a-una-adolescente",
-      "title": "Detuvieron en Paraguay a un ingeniero argentino acusado de intentar captar a una adolescente",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-29T16:10:51+00:00"
     }
   ]
 }
