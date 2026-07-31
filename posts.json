@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T21:45:28+00:00",
+  "updated": "2026-07-31T21:47:54+00:00",
   "posts": [
+    {
+      "id": "c19bc5c7",
+      "image": "img/c19bc5c7.png",
+      "image_sha": "57e827fc4201e1b3f4836df8d6e9cebadfd1b928",
+      "url": "https://www.radiodos.com.ar/211637-corrientes-se-mantiene-el-corte-en-la-avenida-maipu-por-las-obras-de-infraestructura-en-el-arroyo-pirayui",
+      "title": "Corrientes: se mantiene el corte en la avenida Maipú por las obras de infraestructura en el arroyo Pirayuí",
+      "volanta": "TRÁNSITO",
+      "date": "2026-07-31T21:47:54+00:00"
+    },
     {
       "id": "6d565a33",
       "image": "img/6d565a33.png",
@@ -531,15 +540,6 @@
       "title": "Fijaron fecha para la Peregrinación de los Trabajadores al Santuario de San Cayetano",
       "volanta": "Tradición religiosa",
       "date": "2026-07-29T23:18:22+00:00"
-    },
-    {
-      "id": "6f674cee",
-      "image": "img/6f674cee.png",
-      "image_sha": "2054e018e742edda03978f021191b9c93cf60301",
-      "url": "https://www.radiodos.com.ar/211520-en-el-juicio-por-loan-exjefe-policial-complico-a-maciel-me-dijo-que-habia-aparecido-y-se-levanto-la-busqueda",
-      "title": "En el Juicio por Loan, exjefe policial complicó a Maciel: \"Me dijo que había aparecido y se levantó la búsqueda\"",
-      "volanta": "AUDIENCIA 11",
-      "date": "2026-07-29T23:08:13+00:00"
     }
   ]
 }
