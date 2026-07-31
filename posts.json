@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T22:53:47+00:00",
+  "updated": "2026-07-31T22:55:47+00:00",
   "posts": [
+    {
+      "id": "d786343a",
+      "image": "img/d786343a.png",
+      "image_sha": "9904756acd8fd832623a8946b5ca18ed2e20f486",
+      "url": "https://www.radiodos.com.ar/211635-operativo-transnoche-de-super-accion-gendarmeria-secuestro-217-kilos-de-droga-en-misiones",
+      "title": "Operativo \"transnoche de súper acción\": Gendarmería secuestró 217 kilos de droga en Misiones",
+      "volanta": "CONTROL",
+      "date": "2026-07-31T22:55:47+00:00"
+    },
     {
       "id": "14b6bcbb",
       "image": "img/14b6bcbb.png",
@@ -531,15 +540,6 @@
       "title": "La Selección Correntina de Infantiles femenino debuta en el Campeonato Argentino de Federaciones",
       "volanta": "BÁSQUET",
       "date": "2026-07-30T12:57:52+00:00"
-    },
-    {
-      "id": "49eaa7ef",
-      "image": "img/49eaa7ef.png",
-      "image_sha": "2e31e28670a1e6c93a37ce31ae1fcf6468d0808f",
-      "url": "https://www.radiodos.com.ar/211531-quedo-atrapado-en-el-vehiculo-tras-derrapar-y-volcar-con-su-auto-en-el-interior-de-corrientes",
-      "title": "Quedó atrapado en el vehículo tras derrapar y volcar con su auto en el interior de Corrientes",
-      "volanta": "RUTA 27",
-      "date": "2026-07-30T12:34:30+00:00"
     }
   ]
 }
