@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T14:59:49+00:00",
+  "updated": "2026-07-31T16:19:13+00:00",
   "posts": [
+    {
+      "id": "7b2f2f0d",
+      "image": "img/7b2f2f0d.png",
+      "image_sha": "52cc3e7f686d0f8dd26f377dfadf260ee792dd05",
+      "url": "https://www.radiodos.com.ar/211616-mas-de-80-operarios-se-capacitaron-en-el-uso-de-fitosanitarios-para-el-sector-forestal",
+      "title": "Más de 80 operarios se capacitaron en el uso de fitosanitarios para el sector forestal",
+      "volanta": "PRODUCCIÓN",
+      "date": "2026-07-31T16:19:13+00:00"
+    },
     {
       "id": "70b7eb41",
       "image": "img/70b7eb41.png",
@@ -531,15 +540,6 @@
       "title": "Un médico derrapó al intentar esquivar un animal y debió ser hospitalizado",
       "volanta": "Sobre ruta 12",
       "date": "2026-07-29T20:50:45+00:00"
-    },
-    {
-      "id": "ffb4b0c3",
-      "image": "img/ffb4b0c3.png",
-      "image_sha": "80f30faca6e3876f7948d94c47c0240fb404b3a8",
-      "url": "https://www.radiodos.com.ar/211504-detuvieron-a-dos-personas-y-secuestraron-cocaina-entre-sus-pertenencias",
-      "title": "Detuvieron a dos personas y secuestraron cocaína entre sus pertenencias",
-      "volanta": "GENERAL PAZ",
-      "date": "2026-07-29T18:22:08+00:00"
     }
   ]
 }
