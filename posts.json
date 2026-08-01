@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-01T18:39:09+00:00",
+  "updated": "2026-08-01T20:48:22+00:00",
   "posts": [
+    {
+      "id": "174c8b83",
+      "image": "img/174c8b83.png",
+      "image_sha": "674351ea379e14f37af87867e456229407f58543",
+      "url": "https://www.radiodos.com.ar/211652-cana-con-ruda-pena-y-ciudad-de-diseno-se-destacan-en-la-agenda-del-fin-de-semana-en-corrientes",
+      "title": "Caña con ruda, Peña y Ciudad de diseño se destacan en la agenda del fin de semana en Corrientes",
+      "volanta": "AGENDA",
+      "date": "2026-08-01T20:48:22+00:00"
+    },
     {
       "id": "f01d9c12",
       "image": "img/f01d9c12.png",
@@ -531,15 +540,6 @@
       "title": "Santiago del Moro metió la pata y confirmó el romance entre Tato Algorta y Luz Tito: el video",
       "volanta": "SORPRESA",
       "date": "2026-07-30T14:14:31+00:00"
-    },
-    {
-      "id": "1b1bf014",
-      "image": "img/1b1bf014.png",
-      "image_sha": "06a07bc854651684c2f5f0fc162e639f6e6e6ae7",
-      "url": "https://www.radiodos.com.ar/211541-tragedia-en-san-juan-el-duro-testimonio-de-un-familiar-de-las-victimas-del-accidente-aereo",
-      "title": "Tragedia en San Juan: el duro testimonio de un familiar de las víctimas del accidente aéreo",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-30T13:54:30+00:00"
     }
   ]
 }
