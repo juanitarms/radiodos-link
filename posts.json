@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T22:55:47+00:00",
+  "updated": "2026-08-01T15:17:40+00:00",
   "posts": [
+    {
+      "id": "4c4f91c9",
+      "image": "img/4c4f91c9.png",
+      "image_sha": "2fc9a5c4757f04dda7ee2eab02844d4e5f9f6d7a",
+      "url": "https://www.radiodos.com.ar/211655-desarticulan-un-narcokiosco-regenteado-por-dos-mujeres-en-un-barrio-de-corrientes",
+      "title": "Desarticulan un narcokiosco regenteado por dos mujeres en un barrio de Corrientes",
+      "volanta": "DOSIS DE COCAINA",
+      "date": "2026-08-01T15:17:40+00:00"
+    },
     {
       "id": "d786343a",
       "image": "img/d786343a.png",
@@ -531,15 +540,6 @@
       "title": "Oficializan suba de las jubilaciones y asignaciones para agosto: continúa el bono de $70.000",
       "volanta": "ACTUALIZACIÓN",
       "date": "2026-07-30T13:23:45+00:00"
-    },
-    {
-      "id": "fa756955",
-      "image": "img/fa756955.png",
-      "image_sha": "f8d7d771b9f32492383da84acf585431660da083",
-      "url": "https://www.radiodos.com.ar/211537-la-seleccion-correntina-de-infantiles-femenino-debuta-en-el-campeonato-argentino-de-federaciones",
-      "title": "La Selección Correntina de Infantiles femenino debuta en el Campeonato Argentino de Federaciones",
-      "volanta": "BÁSQUET",
-      "date": "2026-07-30T12:57:52+00:00"
     }
   ]
 }
