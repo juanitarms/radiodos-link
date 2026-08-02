@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T17:34:55+00:00",
+  "updated": "2026-08-02T17:35:29+00:00",
   "posts": [
+    {
+      "id": "754ac773",
+      "image": "img/754ac773.png",
+      "image_sha": "8bba97d7bf8a38f41515bfd15e7886c9ca42ebaf",
+      "url": "https://www.radiodos.com.ar/211681-milei-confirmo-que-ya-definio-a-su-candidato-a-vice-para-las-proximas-elecciones",
+      "title": "Milei confirmó que ya definió a su candidato a vice para las próximas elecciones",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-08-02T17:35:29+00:00"
+    },
     {
       "id": "d73089de",
       "image": "img/d73089de.png",
@@ -531,15 +540,6 @@
       "title": "DNU de Javier Milei: prohíben ingreso y ordenan expulsar a extranjeros que inciten \"odio\" contra la Argentina",
       "volanta": "MEDIDA",
       "date": "2026-07-30T16:14:49+00:00"
-    },
-    {
-      "id": "070a7cd1",
-      "image": "img/070a7cd1.png",
-      "image_sha": "49cb5b7bbd267968f3c7a0dad9d42379681aee80",
-      "url": "https://www.radiodos.com.ar/211560-indignacion-en-mar-del-plata-un-enfermero-fue-filmado-mientras-golpeaba-a-una-anciana-en-un-geriatrico",
-      "title": "Indignación en Mar del Plata: un enfermero fue filmado mientras golpeaba a una anciana en un geriátrico",
-      "volanta": "VIOLENCIA GERIÁTRICA",
-      "date": "2026-07-30T16:14:07+00:00"
     }
   ]
 }
