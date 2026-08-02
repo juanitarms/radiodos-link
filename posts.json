@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T20:29:13+00:00",
+  "updated": "2026-08-02T20:29:49+00:00",
   "posts": [
+    {
+      "id": "003e9bf3",
+      "image": "img/003e9bf3.png",
+      "image_sha": "ec8f546dd6e2bad36c11224f2ea31515d77a0caa",
+      "url": "https://www.radiodos.com.ar/211684-milei-confirmo-que-ya-tiene-candidato-a-vicepresidente-para-el-2027",
+      "title": "Milei confirmó que ya tiene candidato a vicepresidente para el 2027",
+      "volanta": "En busca de su reelección",
+      "date": "2026-08-02T20:29:49+00:00"
+    },
     {
       "id": "fda6ea20",
       "image": "img/fda6ea20.png",
@@ -531,15 +540,6 @@
       "title": "\"Hay un 80% de que El Niño se desarrolle, cómo afecte dependerá de la intensidad del agua\": afirmó un investigador del INTA",
       "volanta": "FENÓMENO METEOROLÓGICO",
       "date": "2026-07-30T18:25:15+00:00"
-    },
-    {
-      "id": "362ed814",
-      "image": "img/362ed814.png",
-      "image_sha": "c93baa321a0c2d97784edc319fa9d76a0b4e5b01",
-      "url": "https://www.radiodos.com.ar/211566-directores-de-ninez-y-familia-de-toda-la-provincia-se-capacitan-para-brindar-un-mejor-servicio-a-la-comunidad",
-      "title": "Directores de Niñez y Familia de toda la provincia se capacitan para brindar un mejor servicio a la comunidad",
-      "volanta": "EN CAPITAL",
-      "date": "2026-07-30T18:24:37+00:00"
     }
   ]
 }
