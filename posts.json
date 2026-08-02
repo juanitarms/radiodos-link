@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T14:09:40+00:00",
+  "updated": "2026-08-02T14:49:09+00:00",
   "posts": [
+    {
+      "id": "43058b18",
+      "image": "img/43058b18.png",
+      "image_sha": "a770dcb9e1678e961d33fd42fd287db5a4815cdb",
+      "url": "https://www.radiodos.com.ar/211675-bomberos-rescataron-a-dos-perros-y-un-zorro-atrapados-en-un-poste-de-hormigon",
+      "title": "Bomberos rescataron a dos perros y un zorro atrapados en un poste de hormigón",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-02T14:49:09+00:00"
+    },
     {
       "id": "1961ad89",
       "image": "img/1961ad89.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno eliminó el Coro Nacional de Niños y lo reemplazará por un nuevo programa",
       "volanta": "CAMBIOS",
       "date": "2026-07-30T14:45:15+00:00"
-    },
-    {
-      "id": "b9ac5f60",
-      "image": "img/b9ac5f60.png",
-      "image_sha": "8971564f159e0d901605ad0ac186712ae4cfbdc0",
-      "url": "https://www.radiodos.com.ar/211549-gaston-edul-estaria-en-pareja-con-una-exparticipante-de-gran-hermano-quien-es",
-      "title": "Gastón Edul estaría en pareja con una exparticipante de Gran Hermano: quién es",
-      "volanta": "¿LLEGÓ EL AMOR?",
-      "date": "2026-07-30T14:28:30+00:00"
     }
   ]
 }
