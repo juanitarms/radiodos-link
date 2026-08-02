@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-01T20:48:22+00:00",
+  "updated": "2026-08-02T14:09:40+00:00",
   "posts": [
+    {
+      "id": "1961ad89",
+      "image": "img/1961ad89.png",
+      "image_sha": "4a6e1d5c4ddeb8699a3ef9b5a0850ab534d887d3",
+      "url": "https://www.radiodos.com.ar/211669-cierran-el-acceso-a-la-garganta-del-diablo-por-que-y-hasta-cuando",
+      "title": "Cierran el acceso a la Garganta del Diablo: por qué y hasta cuándo",
+      "volanta": "PREVENCIÓN",
+      "date": "2026-08-02T14:09:40+00:00"
+    },
     {
       "id": "174c8b83",
       "image": "img/174c8b83.png",
@@ -531,15 +540,6 @@
       "title": "Gastón Edul estaría en pareja con una exparticipante de Gran Hermano: quién es",
       "volanta": "¿LLEGÓ EL AMOR?",
       "date": "2026-07-30T14:28:30+00:00"
-    },
-    {
-      "id": "6f835bd2",
-      "image": "img/6f835bd2.png",
-      "image_sha": "aec3c1329338d37da8f466cf0aa3828f4340fa99",
-      "url": "https://www.radiodos.com.ar/211547-santiago-del-moro-metio-la-pata-y-confirmo-el-romance-entre-tato-algorta-y-luz-tito-el-video",
-      "title": "Santiago del Moro metió la pata y confirmó el romance entre Tato Algorta y Luz Tito: el video",
-      "volanta": "SORPRESA",
-      "date": "2026-07-30T14:14:31+00:00"
     }
   ]
 }
