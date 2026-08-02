@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T15:03:31+00:00",
+  "updated": "2026-08-02T16:23:16+00:00",
   "posts": [
+    {
+      "id": "88b7ac0e",
+      "image": "img/88b7ac0e.png",
+      "image_sha": "9a059b3ff51f4bba148bec0276cb2ffb8e1b7312",
+      "url": "https://www.radiodos.com.ar/211680-en-corrientes-regularan-el-uso-de-celulares-en-las-aulas",
+      "title": "En Corrientes regularán el uso de celulares en las aulas",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-08-02T16:23:16+00:00"
+    },
     {
       "id": "537fc7f6",
       "image": "img/537fc7f6.png",
@@ -531,15 +540,6 @@
       "title": "Un país para pocos: el 44% de los jóvenes no logra independizarse por los bajos ingresos que tienen",
       "volanta": "ECONOMÍA",
       "date": "2026-07-30T15:19:16+00:00"
-    },
-    {
-      "id": "4ebe010f",
-      "image": "img/4ebe010f.png",
-      "image_sha": "bdcda278dfb9100b9d938ba18539341465f64c9d",
-      "url": "https://www.radiodos.com.ar/211556-polemica-en-cordoba-un-cura-acusado-por-abuso-sexual-de-menores-reaparecio-dando-misa-en-la-catedral",
-      "title": "Polémica en Córdoba: un cura acusado por abuso sexual de menores reapareció dando misa en la Catedral",
-      "volanta": "INSÓLITO",
-      "date": "2026-07-30T15:03:48+00:00"
     }
   ]
 }
