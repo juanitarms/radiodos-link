@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T16:23:16+00:00",
+  "updated": "2026-08-02T17:34:55+00:00",
   "posts": [
+    {
+      "id": "d73089de",
+      "image": "img/d73089de.png",
+      "image_sha": "2b152d9c7cfa172937a71f478253d2d9ba408708",
+      "url": "https://www.radiodos.com.ar/211679-lucas-carballo-hoy-acompanamos-a-alrededor-de-70-personas-en-situacion-de-calle",
+      "title": "Lucas Carballo: \"Hoy acompañamos a alrededor de 70 personas en situación de calle\"",
+      "volanta": "LO BUENO, LO MALO Y LO FEO",
+      "date": "2026-08-02T17:34:55+00:00"
+    },
     {
       "id": "88b7ac0e",
       "image": "img/88b7ac0e.png",
@@ -531,15 +540,6 @@
       "title": "Indignación en Mar del Plata: un enfermero fue filmado mientras golpeaba a una anciana en un geriátrico",
       "volanta": "VIOLENCIA GERIÁTRICA",
       "date": "2026-07-30T16:14:07+00:00"
-    },
-    {
-      "id": "1dea1aa8",
-      "image": "img/1dea1aa8.png",
-      "image_sha": "64a5cc94367529bfef75741835851749ba8f343a",
-      "url": "https://www.radiodos.com.ar/211561-un-pais-para-pocos-el-44-de-los-jovenes-no-logra-independizarse-por-los-bajos-ingresos-que-tienen",
-      "title": "Un país para pocos: el 44% de los jóvenes no logra independizarse por los bajos ingresos que tienen",
-      "volanta": "ECONOMÍA",
-      "date": "2026-07-30T15:19:16+00:00"
     }
   ]
 }
