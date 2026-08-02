@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T18:27:43+00:00",
+  "updated": "2026-08-02T20:29:13+00:00",
   "posts": [
+    {
+      "id": "fda6ea20",
+      "image": "img/fda6ea20.png",
+      "image_sha": "f1047ee70c5c9bc3a8762cfb3962a1f248fc626b",
+      "url": "https://www.radiodos.com.ar/211685-dos-jovenes-murieron-tras-un-choque-frontal-y-afirman-que-una-menor-conducia-el-otro-vehiculo",
+      "title": "Dos jóvenes murieron tras un choque frontal y afirman que una menor conducía el otro vehículo",
+      "volanta": "Tragedia en la Ruta 14",
+      "date": "2026-08-02T20:29:13+00:00"
+    },
     {
       "id": "eba9d612",
       "image": "img/eba9d612.png",
@@ -531,15 +540,6 @@
       "title": "Directores de Niñez y Familia de toda la provincia se capacitan para brindar un mejor servicio a la comunidad",
       "volanta": "EN CAPITAL",
       "date": "2026-07-30T18:24:37+00:00"
-    },
-    {
-      "id": "79cf0a52",
-      "image": "img/79cf0a52.png",
-      "image_sha": "54da0ccfef863b9320b5b0ddec6b0efddd9ae0b9",
-      "url": "https://www.radiodos.com.ar/211562-impresionante-derrumbe-en-la-ruta-40-hay-corte-total-en-el-camino-de-los-siete-lagos",
-      "title": "Impresionante derrumbe en la Ruta 40: hay corte total en el Camino de los Siete Lagos",
-      "volanta": "NEUQUÉN",
-      "date": "2026-07-30T17:41:03+00:00"
     }
   ]
 }
