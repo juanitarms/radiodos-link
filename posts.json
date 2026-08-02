@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T17:35:29+00:00",
+  "updated": "2026-08-02T17:36:00+00:00",
   "posts": [
+    {
+      "id": "01dec46d",
+      "image": "img/01dec46d.png",
+      "image_sha": "0026423b233c6d018847b87ae3cae47d80b08547",
+      "url": "https://www.radiodos.com.ar/211678-allanaron-la-casa-de-un-colaborador-del-exiintendente-y-encontraron-bienes-municipales-desaparecidos",
+      "title": "Allanaron la casa de un colaborador del exiintendente y encontraron bienes municipales \"desaparecidos\"",
+      "volanta": "Escándalo en Virasoro:",
+      "date": "2026-08-02T17:36:00+00:00"
+    },
     {
       "id": "754ac773",
       "image": "img/754ac773.png",
@@ -531,15 +540,6 @@
       "title": "La decisión que tomó la Justicia con los presos que hicieron un streaming desde una cárcel de Mendoza",
       "volanta": "GRAVE",
       "date": "2026-07-30T16:56:33+00:00"
-    },
-    {
-      "id": "b5a668dc",
-      "image": "img/b5a668dc.png",
-      "image_sha": "4e277dafdd5ce892ae8aef8c1251d326361c5da6",
-      "url": "https://www.radiodos.com.ar/211559-dnu-de-javier-milei-prohiben-ingreso-y-ordenan-expulsar-a-extranjeros-que-inciten-odio-contra-la-argentina",
-      "title": "DNU de Javier Milei: prohíben ingreso y ordenan expulsar a extranjeros que inciten \"odio\" contra la Argentina",
-      "volanta": "MEDIDA",
-      "date": "2026-07-30T16:14:49+00:00"
     }
   ]
 }
