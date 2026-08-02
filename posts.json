@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T20:30:18+00:00",
+  "updated": "2026-08-02T21:15:14+00:00",
   "posts": [
+    {
+      "id": "28fa9c91",
+      "image": "img/28fa9c91.png",
+      "image_sha": "075df51205d36230d7b13bccad623a660960c86f",
+      "url": "https://www.radiodos.com.ar/211687-la-desaparicion-de-una-adolescente-destapo-una-red-de-explotacion-sexual-infantil",
+      "title": "La desaparición de una adolescente destapó una red de explotación sexual infantil",
+      "volanta": "Córdoba",
+      "date": "2026-08-02T21:15:14+00:00"
+    },
     {
       "id": "d0f25070",
       "image": "img/d0f25070.png",
@@ -531,15 +540,6 @@
       "title": "El HCD distinguió a destacados profesionales de la medicina",
       "volanta": "18º sesión ordinaria",
       "date": "2026-07-30T18:52:48+00:00"
-    },
-    {
-      "id": "873aa629",
-      "image": "img/873aa629.png",
-      "image_sha": "a69927aaf08e601053b6b6d735178a3892a6487d",
-      "url": "https://www.radiodos.com.ar/211567-corrientes-trabaja-con-nacion-en-una-agenda-cultural-conjunta-y-proyectar-el-chamame-al-pais",
-      "title": "Corrientes trabaja con Nación en una agenda cultural conjunta y proyectar el chamamé al país",
-      "volanta": "FORTALECIENDO VÍNCULOS INSTITUCIONALES",
-      "date": "2026-07-30T18:25:46+00:00"
     }
   ]
 }
