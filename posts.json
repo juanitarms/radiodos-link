@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T14:49:09+00:00",
+  "updated": "2026-08-02T15:03:31+00:00",
   "posts": [
+    {
+      "id": "537fc7f6",
+      "image": "img/537fc7f6.png",
+      "image_sha": "a2ad888383e7dc350dd3f9ace4223df94785fb04",
+      "url": "https://www.radiodos.com.ar/211677-un-correntino-lucha-contra-un-agresivo-cancer-y-necesita-ayuda-para-seguir-su-tratamiento",
+      "title": "Un correntino lucha contra un agresivo cáncer y necesita ayuda para seguir su tratamiento",
+      "volanta": "KEVIN GERMÁN ORTIZ",
+      "date": "2026-08-02T15:03:31+00:00"
+    },
     {
       "id": "43058b18",
       "image": "img/43058b18.png",
@@ -531,15 +540,6 @@
       "title": "Polémica en Córdoba: un cura acusado por abuso sexual de menores reapareció dando misa en la Catedral",
       "volanta": "INSÓLITO",
       "date": "2026-07-30T15:03:48+00:00"
-    },
-    {
-      "id": "6ec21f29",
-      "image": "img/6ec21f29.png",
-      "image_sha": "40af7bf284ca91bc668007b8d6e8406c216f79a6",
-      "url": "https://www.radiodos.com.ar/211543-el-gobierno-elimino-el-coro-nacional-de-ninos-y-lo-reemplazara-por-un-nuevo-programa",
-      "title": "El Gobierno eliminó el Coro Nacional de Niños y lo reemplazará por un nuevo programa",
-      "volanta": "CAMBIOS",
-      "date": "2026-07-30T14:45:15+00:00"
     }
   ]
 }
