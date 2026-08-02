@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T17:36:00+00:00",
+  "updated": "2026-08-02T18:27:13+00:00",
   "posts": [
+    {
+      "id": "11352796",
+      "image": "img/11352796.png",
+      "image_sha": "6c45ce778255b31c07a560dff1d6696ce3c1e585",
+      "url": "https://www.radiodos.com.ar/211683-braillard-poccard-corrientes-tiene-sus-finanzas-en-orden-y-eso-genera-confianza",
+      "title": "Braillard Poccard: \"Corrientes tiene sus finanzas en orden y eso genera confianza\"",
+      "volanta": "LO BUENO, LO MALO Y LO FEO",
+      "date": "2026-08-02T18:27:13+00:00"
+    },
     {
       "id": "01dec46d",
       "image": "img/01dec46d.png",
@@ -531,15 +540,6 @@
       "title": "Llevó a su hija al pediatra y denunció que la abusó: el médico se ofreció a revisarla y la desnudó",
       "volanta": "SANTA FE",
       "date": "2026-07-30T16:57:20+00:00"
-    },
-    {
-      "id": "e35d8544",
-      "image": "img/e35d8544.png",
-      "image_sha": "f1cdbdcee895f478a0a5762a6d863a9fe7995d86",
-      "url": "https://www.radiodos.com.ar/211564-la-decision-que-tomo-la-justicia-con-los-presos-que-hicieron-un-streaming-desde-una-carcel-de-mendoza",
-      "title": "La decisión que tomó la Justicia con los presos que hicieron un streaming desde una cárcel de Mendoza",
-      "volanta": "GRAVE",
-      "date": "2026-07-30T16:56:33+00:00"
     }
   ]
 }
