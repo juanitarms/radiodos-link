@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T18:22:56+00:00",
+  "updated": "2026-08-03T18:23:26+00:00",
   "posts": [
+    {
+      "id": "4d03d8b3",
+      "image": "img/4d03d8b3.png",
+      "image_sha": "c6a8da3c8b4e10e3d7480f74ee136cb41a13b18e",
+      "url": "https://www.radiodos.com.ar/211731-jp-valdes-junto-a-autoridades-nacionales-participa-en-chaco-de-la-reunion-del-consejo-regional-de-seguridad-interior",
+      "title": "JP Valdes junto a autoridades nacionales participa en Chaco de la reunión del Consejo Regional de Seguridad Interior",
+      "volanta": "TRABANO CONJUNTO",
+      "date": "2026-08-03T18:23:26+00:00"
+    },
     {
       "id": "415ce7e7",
       "image": "img/415ce7e7.png",
@@ -531,15 +540,6 @@
       "title": "\"Fuiste nuestro ángel\": policías salvaron a un bebé de un año que se ahogaba",
       "volanta": "Villa Adelina",
       "date": "2026-07-31T14:02:24+00:00"
-    },
-    {
-      "id": "6d59b681",
-      "image": "img/6d59b681.png",
-      "image_sha": "8016f56195fec0f24ff5502499f14a41a15914c9",
-      "url": "https://www.radiodos.com.ar/211604-cuales-son-las-5-premisas-de-la-nueva-carta-organica-del-banco-central",
-      "title": "Cuáles son las 5 premisas de la nueva Carta Orgánica del Banco Central",
-      "volanta": "PROYECTO",
-      "date": "2026-07-31T13:16:07+00:00"
     }
   ]
 }
