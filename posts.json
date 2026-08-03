@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T17:09:06+00:00",
+  "updated": "2026-08-03T18:22:20+00:00",
   "posts": [
+    {
+      "id": "519c7eef",
+      "image": "img/519c7eef.png",
+      "image_sha": "715624677aa8bada9d06733f2cf8613bbd0c0284",
+      "url": "https://www.radiodos.com.ar/211727-angela-torres-rompio-el-silencio-sobre-rusherking-tras-destrozar-a-un-ex-con-rosalia",
+      "title": "Ángela Torres rompió el silencio sobre Rusherking tras destrozar a un ex con Rosalía",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-03T18:22:20+00:00"
+    },
     {
       "id": "c4c0eec8",
       "image": "img/c4c0eec8.png",
@@ -531,15 +540,6 @@
       "title": "Quién era la joven argentina que fue hallada sin vida en una playa de Punta del Este",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-07-31T13:15:30+00:00"
-    },
-    {
-      "id": "1606a114",
-      "image": "img/1606a114.png",
-      "image_sha": "e1a0e316bd639816cf7188a8116134c85f78c8dd",
-      "url": "https://www.radiodos.com.ar/211600-victoria-villarruel-manifesto-su-genuina-preocupacion-por-el-estado-de-javier-milei-que-paso",
-      "title": "Victoria Villarruel manifestó su \"genuina preocupación por el estado\" de Javier Milei: qué pasó",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-07-31T12:57:28+00:00"
     }
   ]
 }
