@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T19:14:20+00:00",
+  "updated": "2026-08-03T19:14:50+00:00",
   "posts": [
+    {
+      "id": "c5e7b775",
+      "image": "img/c5e7b775.png",
+      "image_sha": "dbc3e1d996c6409b60c9568360bfce684beb1ca1",
+      "url": "https://www.radiodos.com.ar/211735-mas-poder-y-renovacion-pochettino-seguira-al-frente-de-estados-unidos-hasta-el-mundial-2030",
+      "title": "Más poder y renovación: Pochettino seguirá al frente de Estados Unidos hasta el Mundial 2030",
+      "volanta": "SELECCIÓN",
+      "date": "2026-08-03T19:14:50+00:00"
+    },
     {
       "id": "0c2155b3",
       "image": "img/0c2155b3.png",
@@ -531,15 +540,6 @@
       "title": "Más de 80 operarios se capacitaron en el uso de fitosanitarios para el sector forestal",
       "volanta": "PRODUCCIÓN",
       "date": "2026-07-31T16:19:13+00:00"
-    },
-    {
-      "id": "70b7eb41",
-      "image": "img/70b7eb41.png",
-      "image_sha": "15f03719537116d8a3c794d55b6004be8427ff6e",
-      "url": "https://www.radiodos.com.ar/211618-mar-del-plata-clausuraron-el-geriatrico-donde-un-enfermero-maltrato-a-dos-ancianas",
-      "title": "Mar del Plata: clausuraron el geriátrico donde un enfermero maltrató a dos ancianas",
-      "volanta": "MEDIDA",
-      "date": "2026-07-31T14:59:49+00:00"
     }
   ]
 }
