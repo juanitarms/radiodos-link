@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T16:15:17+00:00",
+  "updated": "2026-08-03T16:15:48+00:00",
   "posts": [
+    {
+      "id": "fa1e0c37",
+      "image": "img/fa1e0c37.png",
+      "image_sha": "422f09e74ffb9b9c0e00f99d6fc173a68ec17909",
+      "url": "https://www.radiodos.com.ar/211726-menos-controles-levantan-mas-restricciones-y-flexibilizan-la-importacion-de-alimentos",
+      "title": "Menos controles: levantan más restricciones y flexibilizan la importación de alimentos",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-03T16:15:48+00:00"
+    },
     {
       "id": "8c456d25",
       "image": "img/8c456d25.png",
@@ -531,15 +540,6 @@
       "title": "En Paraguay, el gobernador Juan Pablo Valdés resaltó el papel de Corrientes por puertos e hidrovía",
       "volanta": "EN ENCARNACIÓN",
       "date": "2026-07-31T11:33:58+00:00"
-    },
-    {
-      "id": "8ee4ec96",
-      "image": "img/8ee4ec96.png",
-      "image_sha": "5fa09d5f8f702e1b037370603139552e11ad34a9",
-      "url": "https://www.radiodos.com.ar/211585-efecto-guerra-argentina-gano-us1224-millones-en-el-segundo-trimestre-por-la-suba-en-precios-internacionales",
-      "title": "Efecto guerra: Argentina ganó u$s1.224 millones en el segundo trimestre por la suba en precios internacionales",
-      "volanta": "CONFLICTO EN MEDIO ORIENTE",
-      "date": "2026-07-31T11:01:32+00:00"
     }
   ]
 }
