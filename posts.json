@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T21:48:21+00:00",
+  "updated": "2026-08-03T21:50:11+00:00",
   "posts": [
+    {
+      "id": "7946ee34",
+      "image": "img/7946ee34.png",
+      "image_sha": "e42021d84dd27d2d48d494d23f1ad127850c9608",
+      "url": "https://www.radiodos.com.ar/211746-denuncian-a-un-hombre-por-atacar-a-chicotazos-a-un-jinete-en-un-campo",
+      "title": "Denuncian a un hombre por atacar a chicotazos a un jinete en un campo",
+      "volanta": "Interior de Corrientes",
+      "date": "2026-08-03T21:50:11+00:00"
+    },
     {
       "id": "5600f4fb",
       "image": "img/5600f4fb.png",
@@ -531,15 +540,6 @@
       "title": "El Centro de Rehabilitación \"Valentín Haüy\" de Corrientes cumple 50 años al servicio de la comunidad",
       "volanta": "ANIVERSARIO",
       "date": "2026-07-31T20:37:20+00:00"
-    },
-    {
-      "id": "1ce2f69a",
-      "image": "img/1ce2f69a.png",
-      "image_sha": "469d102440011ff4c4323e1de50b31ccf79378cd",
-      "url": "https://www.radiodos.com.ar/211625-zoe-bogach-le-hizo-una-advertencia-a-su-nuevo-novio-tras-la-infidelidad-de-manuel-ibero",
-      "title": "Zoe Bogach le hizo una advertencia a su nuevo novio tras la infidelidad de Manuel Ibero",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-07-31T19:26:03+00:00"
     }
   ]
 }
