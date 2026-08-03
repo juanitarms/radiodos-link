@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T17:08:26+00:00",
+  "updated": "2026-08-03T17:09:06+00:00",
   "posts": [
+    {
+      "id": "c4c0eec8",
+      "image": "img/c4c0eec8.png",
+      "image_sha": "796b5843fcd443d2739a82763e63b9a7191155a3",
+      "url": "https://www.radiodos.com.ar/211728-javier-milei-embistio-contra-victoria-villarruel-todos-saben-que-es-opositora",
+      "title": "Javier Milei embistió contra Victoria Villarruel: \"Todos saben que es opositora\"",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-08-03T17:09:06+00:00"
+    },
     {
       "id": "ef8e1cfc",
       "image": "img/ef8e1cfc.png",
@@ -531,15 +540,6 @@
       "title": "Victoria Villarruel manifestó su \"genuina preocupación por el estado\" de Javier Milei: qué pasó",
       "volanta": "REDES SOCIALES",
       "date": "2026-07-31T12:57:28+00:00"
-    },
-    {
-      "id": "e1ee17c1",
-      "image": "img/e1ee17c1.png",
-      "image_sha": "12130d261ecb475b282c806c567df67fd2152dfa",
-      "url": "https://www.radiodos.com.ar/211596-se-realizara-la-colecta-diocesana-anual-nemuasai-del-1",
-      "title": "Se realizará la Colecta Diocesana Anual \"Ñemuasãi del 1%\"",
-      "volanta": "SOLIDARIDAD",
-      "date": "2026-07-31T12:27:55+00:00"
     }
   ]
 }
