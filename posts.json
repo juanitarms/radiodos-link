@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T13:00:10+00:00",
+  "updated": "2026-08-03T13:15:41+00:00",
   "posts": [
+    {
+      "id": "d1a46aad",
+      "image": "img/d1a46aad.png",
+      "image_sha": "39448ef8055c8caf9a2234a4c599f67480184e33",
+      "url": "https://www.radiodos.com.ar/211703-el-gobernador-jp-valdes-presidio-en-saladas-el-acto-por-el-primer-dia-provincial-del-granadero-correntino",
+      "title": "El gobernador JP Valdés presidió en Saladas el acto por el primer Dia Provincial del Granadero Correntino",
+      "volanta": "HOMENAJE A LOS HÉROES DE LA INDEPENDENCIA",
+      "date": "2026-08-03T13:15:41+00:00"
+    },
     {
       "id": "8cc9771d",
       "image": "img/8cc9771d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes recibe agosto con la tradicional caña con ruda en espacios culturales y plazas",
       "volanta": "TRADICIÓN",
       "date": "2026-07-30T21:20:55+00:00"
-    },
-    {
-      "id": "d300cd88",
-      "image": "img/d300cd88.png",
-      "image_sha": "85c86cdf7180a86eb9431c990a932d91a8e346e0",
-      "url": "https://www.radiodos.com.ar/211579-corrientes-y-nacion-fortalecen-una-agenda-para-impulsar-la-fiesta-nacional-del-chamame",
-      "title": "Corrientes y Nación fortalecen una agenda para impulsar la Fiesta Nacional del Chamamé",
-      "volanta": "IMPORTANTE ENCUENTRO",
-      "date": "2026-07-30T21:19:30+00:00"
     }
   ]
 }
