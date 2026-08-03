@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T11:47:08+00:00",
+  "updated": "2026-08-03T12:04:06+00:00",
   "posts": [
+    {
+      "id": "d72d9b0e",
+      "image": "img/d72d9b0e.png",
+      "image_sha": "06e4e591b33169147aebb3399b1ff2baa7b53568",
+      "url": "https://www.radiodos.com.ar/211694-stunt-en-corrientes-la-policia-secuestro-varias-motos-y-demoro-a-siete-personas-en-controles-preventivos",
+      "title": "Stunt en Corrientes: la Policía secuestró varias motos y demoró a siete personas en controles preventivos",
+      "volanta": "CONTROLES",
+      "date": "2026-08-03T12:04:06+00:00"
+    },
     {
       "id": "aa232fb1",
       "image": "img/aa232fb1.png",
@@ -531,15 +540,6 @@
       "title": "EL MUNICIPIO FORTALECE OBRAS DE desagües COMO ACCIÓN PREVENTIVA ANTE EL FENÓMENO DE \"EL NIÑO\"",
       "volanta": "INFRAESTRUCTURA URBANA",
       "date": "2026-07-30T21:09:02+00:00"
-    },
-    {
-      "id": "3ef19591",
-      "image": "img/3ef19591.png",
-      "image_sha": "10db617ad02dfd2478e415bb0bd77f2b72f2b2e6",
-      "url": "https://www.radiodos.com.ar/211577-la-uefa-lanzo-una-dura-advertencia-a-la-fifa-y-amenazo-con-abandonar-sus-torneos",
-      "title": "La UEFA lanzó una dura advertencia a la FIFA y amenazó con abandonar sus torneos",
-      "volanta": "Contra la privatización",
-      "date": "2026-07-30T21:07:45+00:00"
     }
   ]
 }
