@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T16:14:46+00:00",
+  "updated": "2026-08-03T16:15:17+00:00",
   "posts": [
+    {
+      "id": "8c456d25",
+      "image": "img/8c456d25.png",
+      "image_sha": "b975a1c99333b9628a509477c6aa43721461f426",
+      "url": "https://www.radiodos.com.ar/211724-violento-intento-de-robo-en-una-heladeria-un-hombre-ataco-a-una-empleada",
+      "title": "Violento intento de robo en una heladería: un hombre atacó a una empleada",
+      "volanta": "Ramos Mejía",
+      "date": "2026-08-03T16:15:17+00:00"
+    },
     {
       "id": "1081dfec",
       "image": "img/1081dfec.png",
@@ -531,15 +540,6 @@
       "title": "Efecto guerra: Argentina ganó u$s1.224 millones en el segundo trimestre por la suba en precios internacionales",
       "volanta": "CONFLICTO EN MEDIO ORIENTE",
       "date": "2026-07-31T11:01:32+00:00"
-    },
-    {
-      "id": "7a045ab5",
-      "image": "img/7a045ab5.png",
-      "image_sha": "ddb9294df6c529640aa020406b39b5a8b59e1615",
-      "url": "https://www.radiodos.com.ar/211586-la-federacion-de-espana-investigara-al-barcelona-por-un-presunto-contacto-ilegal-con-julian-alvarez",
-      "title": "La Federación de España investigará al Barcelona por un presunto contacto ilegal con Julián Álvarez",
-      "volanta": "bomba",
-      "date": "2026-07-30T23:42:19+00:00"
     }
   ]
 }
