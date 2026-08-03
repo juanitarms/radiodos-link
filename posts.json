@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T20:27:40+00:00",
+  "updated": "2026-08-03T20:33:24+00:00",
   "posts": [
+    {
+      "id": "da72d7cf",
+      "image": "img/da72d7cf.png",
+      "image_sha": "b6e2d5095fb2438943a13fdf05745b821994645a",
+      "url": "https://www.radiodos.com.ar/211739-el-municipio-saneo-un-basural-en-el-hipodromo-e-intensifica-controles-con-camaras-y-carteleria",
+      "title": "El Municipio saneó un basural en el Hipódromo e intensifica controles con cámaras y cartelería",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-03T20:33:24+00:00"
+    },
     {
       "id": "ba89061c",
       "image": "img/ba89061c.png",
@@ -531,15 +540,6 @@
       "title": "\"Tío Riki\" fue demorado con un arma blanca",
       "volanta": "G.R.I.M N.º 2",
       "date": "2026-07-31T16:20:18+00:00"
-    },
-    {
-      "id": "509bdbb5",
-      "image": "img/509bdbb5.png",
-      "image_sha": "0094ba0d5f6cf368b65034e16769c5ed117222e4",
-      "url": "https://www.radiodos.com.ar/211615-tres-heridos-graves-tras-choque-multiple-por-ruta-14-en-el-interior-de-corrientes",
-      "title": "Tres heridos graves tras choque múltiple por Ruta 14 en el interior de Corrientes",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-07-31T16:19:49+00:00"
     }
   ]
 }
