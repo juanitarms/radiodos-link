@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T15:08:33+00:00",
+  "updated": "2026-08-03T15:28:14+00:00",
   "posts": [
+    {
+      "id": "0c1e6e87",
+      "image": "img/0c1e6e87.png",
+      "image_sha": "b45ceed9b8649ec6d5b6ac0032b9f06ba036699b",
+      "url": "https://www.radiodos.com.ar/211721-otorgan-bono-de-50-mil-pesos-para-militares-y-efectivos-de-las-fuerzas-de-seguridad-federales",
+      "title": "Otorgan bono de $50 mil pesos para militares y efectivos de las Fuerzas de Seguridad federales",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-03T15:28:14+00:00"
+    },
     {
       "id": "8567d4bd",
       "image": "img/8567d4bd.png",
@@ -531,15 +540,6 @@
       "title": "El empleo formal y el salario real aceleran su caída",
       "volanta": "economía libertaria",
       "date": "2026-07-30T22:20:27+00:00"
-    },
-    {
-      "id": "2322c129",
-      "image": "img/2322c129.png",
-      "image_sha": "4c5b39443de3b08061e22c28321e3cc0a7d74aa0",
-      "url": "https://www.radiodos.com.ar/211582-bella-vista-y-villa-ocampo-a-un-paso-de-consolidar-su-conexion-fluvial-tras-el-aval-del-senado",
-      "title": "Bella Vista y Villa Ocampo, a un paso de consolidar su conexión fluvial tras el aval del Senado",
-      "volanta": "MEDIA SANCIÓN",
-      "date": "2026-07-30T22:11:58+00:00"
     }
   ]
 }
