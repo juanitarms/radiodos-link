@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-02T21:15:14+00:00",
+  "updated": "2026-08-03T10:34:23+00:00",
   "posts": [
+    {
+      "id": "18b5a6f0",
+      "image": "img/18b5a6f0.png",
+      "image_sha": "9f3256c31b8e4a6ecb70b44500cd2159d416f145",
+      "url": "https://www.radiodos.com.ar/211689-paro-docente-suteco-y-acdp-adhieren-en-corrientes-a-la-medida-de-fuerza-nacional",
+      "title": "Paro docente:  SUTECO y ACDP adhieren en Corrientes a la medida de fuerza nacional",
+      "volanta": "HOY",
+      "date": "2026-08-03T10:34:23+00:00"
+    },
     {
       "id": "28fa9c91",
       "image": "img/28fa9c91.png",
@@ -531,15 +540,6 @@
       "title": "Golpe al narcomenudeo: Tras un allanamiento secuestraron importante suma de dinero, celulares, notebooks y cocaína",
       "volanta": "GOYA",
       "date": "2026-07-30T18:53:19+00:00"
-    },
-    {
-      "id": "1d62f652",
-      "image": "img/1d62f652.png",
-      "image_sha": "2eaa8580da0886337b59b6409964abd6c064ff74",
-      "url": "https://www.radiodos.com.ar/211568-el-hcd-distinguio-a-destacados-profesionales-de-la-medicina",
-      "title": "El HCD distinguió a destacados profesionales de la medicina",
-      "volanta": "18º sesión ordinaria",
-      "date": "2026-07-30T18:52:48+00:00"
     }
   ]
 }
