@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T19:13:48+00:00",
+  "updated": "2026-08-03T19:14:20+00:00",
   "posts": [
+    {
+      "id": "0c2155b3",
+      "image": "img/0c2155b3.png",
+      "image_sha": "fde9d4eabb427fd8b3c3480842598fb0155d1c39",
+      "url": "https://www.radiodos.com.ar/211733-tuli-acosta-compartio-un-inoportuno-video-indirecta-para-la-joaqui",
+      "title": "Tuli Acosta compartió un inoportuno vídeo: ¿indirecta para La Joaqui?",
+      "volanta": "POLÉMICA",
+      "date": "2026-08-03T19:14:20+00:00"
+    },
     {
       "id": "e243a4d8",
       "image": "img/e243a4d8.png",
@@ -531,15 +540,6 @@
       "title": "Mar del Plata: clausuraron el geriátrico donde un enfermero maltrató a dos ancianas",
       "volanta": "MEDIDA",
       "date": "2026-07-31T14:59:49+00:00"
-    },
-    {
-      "id": "2aebd4b9",
-      "image": "img/2aebd4b9.png",
-      "image_sha": "2748e012480667a0161ab206cf55772879ed7061",
-      "url": "https://www.radiodos.com.ar/211617-crisis-migratoria-ya-son-34-los-muertos-por-intentar-cruzar-desde-marruecos-a-ceuta",
-      "title": "Crisis migratoria: ya son 34 los muertos por intentar cruzar desde Marruecos a Ceuta",
-      "volanta": "ALERTA",
-      "date": "2026-07-31T14:37:43+00:00"
     }
   ]
 }
