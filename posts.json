@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T18:23:26+00:00",
+  "updated": "2026-08-03T19:13:48+00:00",
   "posts": [
+    {
+      "id": "e243a4d8",
+      "image": "img/e243a4d8.png",
+      "image_sha": "7149b4f766b7b0c9423d88cb4022f88becb000ae",
+      "url": "https://www.radiodos.com.ar/211734-cinzia-rompio-el-silencio-tras-su-salida-de-gran-hermano-tengo-el-corazon-roto",
+      "title": "Cinzia rompió el silencio tras su salida de Gran Hermano: \"Tengo el corazón roto\"",
+      "volanta": "DESPEDIDA",
+      "date": "2026-08-03T19:13:48+00:00"
+    },
     {
       "id": "4d03d8b3",
       "image": "img/4d03d8b3.png",
@@ -531,15 +540,6 @@
       "title": "Crisis migratoria: ya son 34 los muertos por intentar cruzar desde Marruecos a Ceuta",
       "volanta": "ALERTA",
       "date": "2026-07-31T14:37:43+00:00"
-    },
-    {
-      "id": "da6a4172",
-      "image": "img/da6a4172.png",
-      "image_sha": "e66848c1e273036c9392afb9b6c12e6d43b01c20",
-      "url": "https://www.radiodos.com.ar/211610-fuiste-nuestro-angel-policias-salvaron-a-un-bebe-de-un-ano-que-se-ahogaba",
-      "title": "\"Fuiste nuestro ángel\": policías salvaron a un bebé de un año que se ahogaba",
-      "volanta": "Villa Adelina",
-      "date": "2026-07-31T14:02:24+00:00"
     }
   ]
 }
