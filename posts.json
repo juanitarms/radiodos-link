@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T12:04:06+00:00",
+  "updated": "2026-08-03T12:20:27+00:00",
   "posts": [
+    {
+      "id": "827b90fd",
+      "image": "img/827b90fd.png",
+      "image_sha": "402bec65f2f4d59223857fdd8e4c51b9a58f2403",
+      "url": "https://www.radiodos.com.ar/211699-atacaron-con-un-arma-blanca-en-la-carcel-a-un-imputado-por-el-caso-loan",
+      "title": "Atacaron con un arma blanca en la cárcel a un imputado por el caso Loan",
+      "volanta": "EN EL CHACO",
+      "date": "2026-08-03T12:20:27+00:00"
+    },
     {
       "id": "d72d9b0e",
       "image": "img/d72d9b0e.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes presentó la nueva página web del Registro de la Propiedad Inmueble",
       "volanta": "TRANSFORMACIÓN DIGITAL",
       "date": "2026-07-30T21:18:22+00:00"
-    },
-    {
-      "id": "b12572a8",
-      "image": "img/b12572a8.png",
-      "image_sha": "78cd50776b33d1c32008e3b779cb8a5648eedaf5",
-      "url": "https://www.radiodos.com.ar/211569-el-municipio-fortalece-obras-de-desastres-como-accion-preventiva-ante-el-fenomeno-de-el-nino",
-      "title": "EL MUNICIPIO FORTALECE OBRAS DE desagües COMO ACCIÓN PREVENTIVA ANTE EL FENÓMENO DE \"EL NIÑO\"",
-      "volanta": "INFRAESTRUCTURA URBANA",
-      "date": "2026-07-30T21:09:02+00:00"
     }
   ]
 }
