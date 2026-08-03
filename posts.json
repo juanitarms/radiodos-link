@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T21:50:11+00:00",
+  "updated": "2026-08-03T22:04:55+00:00",
   "posts": [
+    {
+      "id": "fa9eed84",
+      "image": "img/fa9eed84.png",
+      "image_sha": "e91c324f8ee66563bff22f596636eada32c1442a",
+      "url": "https://www.radiodos.com.ar/211747-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-08-03T22:04:55+00:00"
+    },
     {
       "id": "7946ee34",
       "image": "img/7946ee34.png",
@@ -531,15 +540,6 @@
       "title": "La Libertad Avanza Corrientes se reúne para continuar fortaleciendo la estructura partidaria",
       "volanta": "ENCUENTRO POLÍTICO",
       "date": "2026-07-31T21:35:38+00:00"
-    },
-    {
-      "id": "a859a798",
-      "image": "img/a859a798.png",
-      "image_sha": "092f0f80ac0b38af62e05cf7ac15c96ad07119bf",
-      "url": "https://www.radiodos.com.ar/211636-el-centro-de-rehabilitacion-valentin-hauy-de-corrientes-cumple-50-anos-al-servicio-de-la-comunidad",
-      "title": "El Centro de Rehabilitación \"Valentín Haüy\" de Corrientes cumple 50 años al servicio de la comunidad",
-      "volanta": "ANIVERSARIO",
-      "date": "2026-07-31T20:37:20+00:00"
     }
   ]
 }
