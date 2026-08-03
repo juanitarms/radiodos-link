@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T20:34:43+00:00",
+  "updated": "2026-08-03T21:17:49+00:00",
   "posts": [
+    {
+      "id": "1f4a6d95",
+      "image": "img/1f4a6d95.png",
+      "image_sha": "0466927db014acaae33e66f6404dc38af9a07545",
+      "url": "https://www.radiodos.com.ar/211741-con-la-violencia-laboral-al-frente-el-jury-de-corrientes-revelo-los-numeros-de-la-sancion-a-jueces-y-fiscales",
+      "title": "Con la violencia laboral al frente, el Jury de Corrientes reveló los números de la sanción a jueces y fiscales",
+      "volanta": "Radiografía al Poder Judicial",
+      "date": "2026-08-03T21:17:49+00:00"
+    },
     {
       "id": "547b8125",
       "image": "img/547b8125.png",
@@ -531,15 +540,6 @@
       "title": "La Policía halló una moto abandonada en la vía publica",
       "volanta": "EN TAREAS DE PREVENCIÓN",
       "date": "2026-07-31T17:45:59+00:00"
-    },
-    {
-      "id": "7d83abca",
-      "image": "img/7d83abca.png",
-      "image_sha": "5ecbd98d96e2e4166a62df0635d8da9994eddac8",
-      "url": "https://www.radiodos.com.ar/211619-dramatica-entradera-enfrento-a-los-delincuentes-los-persiguio-y-termino-chocando",
-      "title": "Dramática entradera: enfrentó a los delincuentes, los persiguió y terminó chocando",
-      "volanta": "MATADEROS",
-      "date": "2026-07-31T17:45:26+00:00"
     }
   ]
 }
