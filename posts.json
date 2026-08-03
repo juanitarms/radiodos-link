@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T16:16:22+00:00",
+  "updated": "2026-08-03T17:08:26+00:00",
   "posts": [
+    {
+      "id": "ef8e1cfc",
+      "image": "img/ef8e1cfc.png",
+      "image_sha": "b30ad3645f46757784eb790bc2d6c67296a09ed8",
+      "url": "https://www.radiodos.com.ar/211729-salio-a-trabajar-y-la-encontraron-muerta-en-un-descampado-de-pilar-hay-un-detenido",
+      "title": "Salió a trabajar y la encontraron muerta en un descampado de Pilar: hay un detenido",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-03T17:08:26+00:00"
+    },
     {
       "id": "44a130c3",
       "image": "img/44a130c3.png",
@@ -531,15 +540,6 @@
       "title": "Se realizará la Colecta Diocesana Anual \"Ñemuasãi del 1%\"",
       "volanta": "SOLIDARIDAD",
       "date": "2026-07-31T12:27:55+00:00"
-    },
-    {
-      "id": "be032b10",
-      "image": "img/be032b10.png",
-      "image_sha": "ef83fbc61fa2ecce61ef6bb03a377bc3a6a6c67d",
-      "url": "https://www.radiodos.com.ar/211595-la-arquidiocesis-de-corrientes-invita-a-participar-de-la-40-peregrinacion-de-los-trabajadores-y-sus-familias-a-san-cayetano",
-      "title": "La Arquidiócesis de Corrientes invita a participar de la 40.ª Peregrinación de los Trabajadores y sus Familias a San Cayetano",
-      "volanta": "FE",
-      "date": "2026-07-31T12:04:36+00:00"
     }
   ]
 }
