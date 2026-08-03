@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T21:43:10+00:00",
+  "updated": "2026-08-03T21:48:21+00:00",
   "posts": [
+    {
+      "id": "5600f4fb",
+      "image": "img/5600f4fb.png",
+      "image_sha": "389e19e87f3c8837395b68585e9fef7330368c9d",
+      "url": "https://www.radiodos.com.ar/211744-la-seleccion-argentina-tendria-su-reencuentro-con-la-gente-en-septiembre",
+      "title": "La Selección argentina tendría su reencuentro con la gente en septiembre",
+      "volanta": "Amistoso",
+      "date": "2026-08-03T21:48:21+00:00"
+    },
     {
       "id": "032759df",
       "image": "img/032759df.png",
@@ -531,15 +540,6 @@
       "title": "Zoe Bogach le hizo una advertencia a su nuevo novio tras la infidelidad de Manuel Ibero",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-07-31T19:26:03+00:00"
-    },
-    {
-      "id": "fa305d03",
-      "image": "img/fa305d03.png",
-      "image_sha": "4ff9bdce6cff170c43292a8f06efbb50e65bf2a7",
-      "url": "https://www.radiodos.com.ar/211624-tuli-acosta-rompio-el-silencio-tras-ser-senalada-como-tercera-en-discordia-entre-luck-ra-y-la-joaqui-la-llame",
-      "title": "Tuli Acosta rompió el silencio tras ser señalada como tercera en discordia entre Luck Ra y La Joaqui: \"La llamé\"",
-      "volanta": "¿QUÉ DIJO?",
-      "date": "2026-07-31T19:25:28+00:00"
     }
   ]
 }
