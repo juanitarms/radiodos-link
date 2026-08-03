@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T15:28:14+00:00",
+  "updated": "2026-08-03T16:14:46+00:00",
   "posts": [
+    {
+      "id": "1081dfec",
+      "image": "img/1081dfec.png",
+      "image_sha": "7c8bab74afaa38de5c8d6f939060586d7cd60602",
+      "url": "https://www.radiodos.com.ar/211725-san-martin-se-consagro-campeon-en-el-infantiles-masculino-del-prefederal-formativo",
+      "title": "San Martín se consagró campeón en el Infantiles masculino del Prefederal Formativo",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-03T16:14:46+00:00"
+    },
     {
       "id": "0c1e6e87",
       "image": "img/0c1e6e87.png",
@@ -531,15 +540,6 @@
       "title": "La Federación de España investigará al Barcelona por un presunto contacto ilegal con Julián Álvarez",
       "volanta": "bomba",
       "date": "2026-07-30T23:42:19+00:00"
-    },
-    {
-      "id": "ed14f4d7",
-      "image": "img/ed14f4d7.png",
-      "image_sha": "3560d0f4d6df98041f67cb154535896b2d70724d",
-      "url": "https://www.radiodos.com.ar/211584-el-empleo-formal-y-el-salario-real-aceleran-su-caida",
-      "title": "El empleo formal y el salario real aceleran su caída",
-      "volanta": "economía libertaria",
-      "date": "2026-07-30T22:20:27+00:00"
     }
   ]
 }
