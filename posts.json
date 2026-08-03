@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T19:14:50+00:00",
+  "updated": "2026-08-03T20:27:40+00:00",
   "posts": [
+    {
+      "id": "ba89061c",
+      "image": "img/ba89061c.png",
+      "image_sha": "903b15c9f36723157deedd8aa91752e4cc6b8083",
+      "url": "https://www.radiodos.com.ar/211738-valdes-participo-de-la-cumbre-en-resistencia-para-coordinar-acciones-federales-ante-la-inminencia-del-fenomeno-el-nino",
+      "title": "Valdés participó de la cumbre en Resistencia para coordinar acciones federales ante la inminencia del fenómeno El Niño",
+      "volanta": "Este lunes",
+      "date": "2026-08-03T20:27:40+00:00"
+    },
     {
       "id": "c5e7b775",
       "image": "img/c5e7b775.png",
@@ -531,15 +540,6 @@
       "title": "Tres heridos graves tras choque múltiple por Ruta 14 en el interior de Corrientes",
       "volanta": "ESTA MAÑANA",
       "date": "2026-07-31T16:19:49+00:00"
-    },
-    {
-      "id": "7b2f2f0d",
-      "image": "img/7b2f2f0d.png",
-      "image_sha": "52cc3e7f686d0f8dd26f377dfadf260ee792dd05",
-      "url": "https://www.radiodos.com.ar/211616-mas-de-80-operarios-se-capacitaron-en-el-uso-de-fitosanitarios-para-el-sector-forestal",
-      "title": "Más de 80 operarios se capacitaron en el uso de fitosanitarios para el sector forestal",
-      "volanta": "PRODUCCIÓN",
-      "date": "2026-07-31T16:19:13+00:00"
     }
   ]
 }
