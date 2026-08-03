@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T12:20:27+00:00",
+  "updated": "2026-08-03T13:00:10+00:00",
   "posts": [
+    {
+      "id": "8cc9771d",
+      "image": "img/8cc9771d.png",
+      "image_sha": "c2d115f1b3cfbae3aaa77d5d8e4f16f7e72ad03d",
+      "url": "https://www.radiodos.com.ar/211708-duelo-en-corrientes-por-la-partida-de-reconocido-locutor-y-conductor-radial",
+      "title": "Duelo en Corrientes por la partida de reconocido locutor y conductor radial",
+      "volanta": "TENÍA 86 AÑOS",
+      "date": "2026-08-03T13:00:10+00:00"
+    },
     {
       "id": "827b90fd",
       "image": "img/827b90fd.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes y Nación fortalecen una agenda para impulsar la Fiesta Nacional del Chamamé",
       "volanta": "IMPORTANTE ENCUENTRO",
       "date": "2026-07-30T21:19:30+00:00"
-    },
-    {
-      "id": "44d74f04",
-      "image": "img/44d74f04.png",
-      "image_sha": "a5b011ded0340469ad2147ac6b18def9cda21e78",
-      "url": "https://www.radiodos.com.ar/211576-el-gobierno-de-corrientes-presento-la-nueva-pagina-web-del-registro-de-la-propiedad-inmueble",
-      "title": "El Gobierno de Corrientes presentó la nueva página web del Registro de la Propiedad Inmueble",
-      "volanta": "TRANSFORMACIÓN DIGITAL",
-      "date": "2026-07-30T21:18:22+00:00"
     }
   ]
 }
