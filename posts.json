@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T13:15:41+00:00",
+  "updated": "2026-08-03T13:32:03+00:00",
   "posts": [
+    {
+      "id": "c96a4d5a",
+      "image": "img/c96a4d5a.png",
+      "image_sha": "b754f4a2fbac4b3531cd3c4c945ca8dc8b051a26",
+      "url": "https://www.radiodos.com.ar/211696-un-correntino-afortunado-acerto-el-quini-6-con-la-modalidad-siempre-sale",
+      "title": "Un correntino afortunado: acertó el Quini 6 con la modalidad \"Siempre Sale\"",
+      "volanta": "Más de $22 millones",
+      "date": "2026-08-03T13:32:03+00:00"
+    },
     {
       "id": "d1a46aad",
       "image": "img/d1a46aad.png",
@@ -531,15 +540,6 @@
       "title": "Maxi Salas lleva sus goles a Independiente Rivadavia",
       "volanta": "MERCADO DE PASES",
       "date": "2026-07-30T22:04:37+00:00"
-    },
-    {
-      "id": "f9ec5d59",
-      "image": "img/f9ec5d59.png",
-      "image_sha": "ccb48adc745f4acb6b67f80e24e98452ef2f7011",
-      "url": "https://www.radiodos.com.ar/211580-corrientes-recibe-agosto-con-la-tradicional-cana-con-ruda-en-espacios-culturales-y-plazas",
-      "title": "Corrientes recibe agosto con la tradicional caña con ruda en espacios culturales y plazas",
-      "volanta": "TRADICIÓN",
-      "date": "2026-07-30T21:20:55+00:00"
     }
   ]
 }
