@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T14:03:02+00:00",
+  "updated": "2026-08-03T15:08:33+00:00",
   "posts": [
+    {
+      "id": "8567d4bd",
+      "image": "img/8567d4bd.png",
+      "image_sha": "b90ce952bddf0c738b90766d4a2ffb548c70f2d5",
+      "url": "https://www.radiodos.com.ar/211716-la-basura-en-la-via-publica-vuelve-a-poner-en-riesgo-el-funcionamiento-de-los-desagues",
+      "title": "La basura en la vía pública vuelve a poner en riesgo el funcionamiento de los desagües",
+      "volanta": "IRRESPONSABILIDAD",
+      "date": "2026-08-03T15:08:33+00:00"
+    },
     {
       "id": "42f4f1fb",
       "image": "img/42f4f1fb.png",
@@ -531,15 +540,6 @@
       "title": "Bella Vista y Villa Ocampo, a un paso de consolidar su conexión fluvial tras el aval del Senado",
       "volanta": "MEDIA SANCIÓN",
       "date": "2026-07-30T22:11:58+00:00"
-    },
-    {
-      "id": "bb1169a8",
-      "image": "img/bb1169a8.png",
-      "image_sha": "b05125beb73ea6da46c03f71d909eadf642e3745",
-      "url": "https://www.radiodos.com.ar/211581-ministra-mariel-gabur-corrientes-no-tiene-techo-para-crecer-hacia-el-futuro",
-      "title": "Ministra Mariel Gabur: \"Corrientes no tiene techo para crecer hacia el futuro\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-07-30T22:10:17+00:00"
     }
   ]
 }
