@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T16:15:48+00:00",
+  "updated": "2026-08-03T16:16:22+00:00",
   "posts": [
+    {
+      "id": "44a130c3",
+      "image": "img/44a130c3.png",
+      "image_sha": "2857dd0ee79beefdb0c9a9c58b0f6ed7ffdcbf22",
+      "url": "https://www.radiodos.com.ar/211730-la-joaqui-fue-contundente-al-hablar-de-luck-ra-tras-la-ruptura-no-tengo-nada",
+      "title": "La Joaqui fue contundente al hablar de Luck Ra tras la ruptura: \"No tengo nada...\"",
+      "volanta": "SINCERA",
+      "date": "2026-08-03T16:16:22+00:00"
+    },
     {
       "id": "fa1e0c37",
       "image": "img/fa1e0c37.png",
@@ -531,15 +540,6 @@
       "title": "La Arquidiócesis de Corrientes invita a participar de la 40.ª Peregrinación de los Trabajadores y sus Familias a San Cayetano",
       "volanta": "FE",
       "date": "2026-07-31T12:04:36+00:00"
-    },
-    {
-      "id": "e1941862",
-      "image": "img/e1941862.png",
-      "image_sha": "3b915051b0b7d436a5e3d7c74b7ae9f24984f5e7",
-      "url": "https://www.radiodos.com.ar/211587-en-paraguay-el-gobernador-juan-pablo-valdes-resalto-el-papel-de-corrientes-por-puertos-e-hidrovia",
-      "title": "En Paraguay, el gobernador Juan Pablo Valdés resaltó el papel de Corrientes por puertos e hidrovía",
-      "volanta": "EN ENCARNACIÓN",
-      "date": "2026-07-31T11:33:58+00:00"
     }
   ]
 }
