@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T21:17:49+00:00",
+  "updated": "2026-08-03T21:18:30+00:00",
   "posts": [
+    {
+      "id": "838491e7",
+      "image": "img/838491e7.png",
+      "image_sha": "9cebe83a8429b03a2279bf160cec43eb2b46c1b7",
+      "url": "https://www.radiodos.com.ar/211742-robaron-y-causaron-destrozos-en-una-escuela-del-interior-de-corrientes",
+      "title": "Robaron y causaron destrozos en una escuela del interior de Corrientes",
+      "volanta": "LIBRES",
+      "date": "2026-08-03T21:18:30+00:00"
+    },
     {
       "id": "1f4a6d95",
       "image": "img/1f4a6d95.png",
@@ -531,15 +540,6 @@
       "title": "Incautan moto con pedido de secuestro desde Buenos Aires",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-07-31T19:24:19+00:00"
-    },
-    {
-      "id": "528060c2",
-      "image": "img/528060c2.png",
-      "image_sha": "eb36ec8dc836774c13c0d307f5154265ef2f85a6",
-      "url": "https://www.radiodos.com.ar/211623-la-policia-hallo-una-moto-abandonada-en-la-via-publica-",
-      "title": "La Policía halló una moto abandonada en la vía publica",
-      "volanta": "EN TAREAS DE PREVENCIÓN",
-      "date": "2026-07-31T17:45:59+00:00"
     }
   ]
 }
