@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T10:49:36+00:00",
+  "updated": "2026-08-03T11:28:16+00:00",
   "posts": [
+    {
+      "id": "8ac55bde",
+      "image": "img/8ac55bde.png",
+      "image_sha": "9ea141f9cbf153108d3677b1194ca2ac1e819a94",
+      "url": "https://www.radiodos.com.ar/211692-el-gobernador-jp-valdes-participara-de-la-cumbre-del-nea-con-karina-milei-y-santilli",
+      "title": "El gobernador JP Valdés participará de la cumbre del NEA con Karina Milei y Santilli",
+      "volanta": "FENÓMENO DE EL NIÑO",
+      "date": "2026-08-03T11:28:16+00:00"
+    },
     {
       "id": "d8551f58",
       "image": "img/d8551f58.png",
@@ -531,15 +540,6 @@
       "title": "Rompieron los vidrios y en minutos se llevaron una gran cantidad de artículos tecnológicos",
       "volanta": "INSEGURIDAD",
       "date": "2026-07-30T20:54:46+00:00"
-    },
-    {
-      "id": "84d2d3eb",
-      "image": "img/84d2d3eb.png",
-      "image_sha": "c344ea8d480ce72ab2a34acd9959e73fa1bd096b",
-      "url": "https://www.radiodos.com.ar/211575-de-mburucuya-a-saladas-registran-la-presencia-de-un-yaguarete-en-una-vivienda",
-      "title": "De Mburucuyá a Saladas: registran la presencia de un yaguareté en una vivienda",
-      "volanta": "ALERTA",
-      "date": "2026-07-30T20:54:13+00:00"
     }
   ]
 }
