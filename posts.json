@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T18:22:20+00:00",
+  "updated": "2026-08-03T18:22:56+00:00",
   "posts": [
+    {
+      "id": "415ce7e7",
+      "image": "img/415ce7e7.png",
+      "image_sha": "c362f804c73436e778b9fa8c24993c3f41a349c7",
+      "url": "https://www.radiodos.com.ar/211732-nuevo-escandalo-bailarina-acuso-un-programa-de-streaming-de-burlarse-de-ella-y-apunto-contra-nico-occhiato",
+      "title": "Nuevo escándalo: bailarina acusó un programa de streaming de burlarse de ella y apuntó contra Nico Occhiato",
+      "volanta": "LUZU NO TIENE PAZ",
+      "date": "2026-08-03T18:22:56+00:00"
+    },
     {
       "id": "519c7eef",
       "image": "img/519c7eef.png",
@@ -531,15 +540,6 @@
       "title": "Cuáles son las 5 premisas de la nueva Carta Orgánica del Banco Central",
       "volanta": "PROYECTO",
       "date": "2026-07-31T13:16:07+00:00"
-    },
-    {
-      "id": "ee2b5efc",
-      "image": "img/ee2b5efc.png",
-      "image_sha": "be6c09eee97c23cb19415b9850f783aa629bb7fe",
-      "url": "https://www.radiodos.com.ar/211606-quien-era-la-joven-argentina-que-fue-hallada-sin-vida-en-una-playa-de-punta-del-este",
-      "title": "Quién era la joven argentina que fue hallada sin vida en una playa de Punta del Este",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-07-31T13:15:30+00:00"
     }
   ]
 }
