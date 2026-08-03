@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T10:34:23+00:00",
+  "updated": "2026-08-03T10:49:36+00:00",
   "posts": [
+    {
+      "id": "d8551f58",
+      "image": "img/d8551f58.png",
+      "image_sha": "7d5d81f42324b2c67f9ad4f96cc7a12391cb1938",
+      "url": "https://www.radiodos.com.ar/211690-fin-de-semana-tragico-en-corrientes-cuatro-muertos-en-la-ruta-de-la-muerte",
+      "title": "Fin de semana trágico en Corrientes: cuatro muertos en la \"Ruta de la Muerte\"",
+      "volanta": "Ruta Nacional 14",
+      "date": "2026-08-03T10:49:36+00:00"
+    },
     {
       "id": "18b5a6f0",
       "image": "img/18b5a6f0.png",
@@ -531,15 +540,6 @@
       "title": "De Mburucuyá a Saladas: registran la presencia de un yaguareté en una vivienda",
       "volanta": "ALERTA",
       "date": "2026-07-30T20:54:13+00:00"
-    },
-    {
-      "id": "f7481e78",
-      "image": "img/f7481e78.png",
-      "image_sha": "4c6a1bd4f0d4010215959e791b3dc72b0dceac47",
-      "url": "https://www.radiodos.com.ar/211571-golpe-al-narcomenudeo-tras-un-allanamiento-secuestraron-importante-suma-de-dinero-celulares-notebooks-y-cocaina",
-      "title": "Golpe al narcomenudeo: Tras un allanamiento secuestraron importante suma de dinero, celulares, notebooks y cocaína",
-      "volanta": "GOYA",
-      "date": "2026-07-30T18:53:19+00:00"
     }
   ]
 }
