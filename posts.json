@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T23:03:50+00:00",
+  "updated": "2026-08-04T23:12:29+00:00",
   "posts": [
+    {
+      "id": "b9c90f05",
+      "image": "img/b9c90f05.png",
+      "image_sha": "0835efe4560691fcf54148ba00873ba650f615d8",
+      "url": "https://www.radiodos.com.ar/211804-un-hombre-murio-tras-un-choque-sobre-avenida-maipu-y-alta-gracia",
+      "title": "Un hombre murió tras un choque sobre avenida Maipú y Alta Gracia",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-04T23:12:29+00:00"
+    },
     {
       "id": "76fd5b24",
       "image": "img/76fd5b24.png",
@@ -531,15 +540,6 @@
       "title": "La Joaqui fue contundente al hablar de Luck Ra tras la ruptura: \"No tengo nada...\"",
       "volanta": "SINCERA",
       "date": "2026-08-03T16:16:22+00:00"
-    },
-    {
-      "id": "fa1e0c37",
-      "image": "img/fa1e0c37.png",
-      "image_sha": "422f09e74ffb9b9c0e00f99d6fc173a68ec17909",
-      "url": "https://www.radiodos.com.ar/211726-menos-controles-levantan-mas-restricciones-y-flexibilizan-la-importacion-de-alimentos",
-      "title": "Menos controles: levantan más restricciones y flexibilizan la importación de alimentos",
-      "volanta": "ECONOMÍA",
-      "date": "2026-08-03T16:15:48+00:00"
     }
   ]
 }
