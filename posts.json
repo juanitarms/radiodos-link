@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T18:14:11+00:00",
+  "updated": "2026-08-04T18:33:14+00:00",
   "posts": [
+    {
+      "id": "c0c4e445",
+      "image": "img/c0c4e445.png",
+      "image_sha": "260041d3f376f35e9c7209ab8eec5c1a563e8d45",
+      "url": "https://www.radiodos.com.ar/211776-veteranos-de-malvinas-impulsan-un-amparo-para-objetar-la-legalidad-de-una-medida-que-les-quito-las-pensiones",
+      "title": "Veteranos de Malvinas impulsan un amparo para objetar la legalidad de una medida que les quitó las pensiones",
+      "volanta": "JUSTICIA",
+      "date": "2026-08-04T18:33:14+00:00"
+    },
     {
       "id": "b0400da3",
       "image": "img/b0400da3.png",
@@ -531,15 +540,6 @@
       "title": "Allanaron la casa de un colaborador del exiintendente y encontraron bienes municipales \"desaparecidos\"",
       "volanta": "Escándalo en Virasoro:",
       "date": "2026-08-02T17:36:00+00:00"
-    },
-    {
-      "id": "754ac773",
-      "image": "img/754ac773.png",
-      "image_sha": "8bba97d7bf8a38f41515bfd15e7886c9ca42ebaf",
-      "url": "https://www.radiodos.com.ar/211681-milei-confirmo-que-ya-definio-a-su-candidato-a-vice-para-las-proximas-elecciones",
-      "title": "Milei confirmó que ya definió a su candidato a vice para las próximas elecciones",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-08-02T17:35:29+00:00"
     }
   ]
 }
