@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:11:31+00:00",
+  "updated": "2026-08-04T19:12:01+00:00",
   "posts": [
+    {
+      "id": "af554945",
+      "image": "img/af554945.png",
+      "image_sha": "095e1507c676a6efc8a949fec0d4a0c2b6640e80",
+      "url": "https://www.radiodos.com.ar/211789-la-polemica-reaccion-de-tuli-acosta-sobre-la-separacion-de-luck-ra-y-la-joaqui-mi-verdad",
+      "title": "La polémica reacción de Tuli Acosta sobre la separación de Luck Ra y La Joaqui: \"¿Mi verdad?\"",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-04T19:12:01+00:00"
+    },
     {
       "id": "468f0ea3",
       "image": "img/468f0ea3.png",
@@ -531,15 +540,6 @@
       "title": "Fin de semana trágico en Corrientes: cuatro muertos en la \"Ruta de la Muerte\"",
       "volanta": "Ruta Nacional 14",
       "date": "2026-08-03T10:49:36+00:00"
-    },
-    {
-      "id": "18b5a6f0",
-      "image": "img/18b5a6f0.png",
-      "image_sha": "9f3256c31b8e4a6ecb70b44500cd2159d416f145",
-      "url": "https://www.radiodos.com.ar/211689-paro-docente-suteco-y-acdp-adhieren-en-corrientes-a-la-medida-de-fuerza-nacional",
-      "title": "Paro docente:  SUTECO y ACDP adhieren en Corrientes a la medida de fuerza nacional",
-      "volanta": "HOY",
-      "date": "2026-08-03T10:34:23+00:00"
     }
   ]
 }
