@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T11:28:27+00:00",
+  "updated": "2026-08-04T12:12:09+00:00",
   "posts": [
+    {
+      "id": "948bf495",
+      "image": "img/948bf495.png",
+      "image_sha": "b104d668f17b1f372482a3a566f1cfa49b443e62",
+      "url": "https://www.radiodos.com.ar/211754-caso-loan-leiro-critico-al-fiscal-y-aseguro-que-su-defendido-solo-vino-para-colaborar",
+      "title": "Caso Loan: Leiro criticó al Fiscal y aseguró que su defendido \"sólo vino para colaborar\"",
+      "volanta": "ABOGADO DE ALAN CAÑETE",
+      "date": "2026-08-04T12:12:09+00:00"
+    },
     {
       "id": "1f6e79f3",
       "image": "img/1f6e79f3.png",
@@ -531,15 +540,6 @@
       "title": "El 7,6% de la superficie de Corrientes pertenece a propietarios extranjeros",
       "volanta": "Avance sobre el Iberá y la ribera del Paraná",
       "date": "2026-07-31T22:37:18+00:00"
-    },
-    {
-      "id": "b34eec32",
-      "image": "img/b34eec32.png",
-      "image_sha": "f52aa857a63698dcd7376e90836c4ecd9ac9fd83",
-      "url": "https://www.radiodos.com.ar/211646-el-637-cree-que-el-responsable-de-la-crisis-economica-es-milei",
-      "title": "El 63,7% cree que el responsable de la crisis económica es Milei",
-      "volanta": "Cambio de tendencia",
-      "date": "2026-07-31T22:18:24+00:00"
     }
   ]
 }
