@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T23:02:07+00:00",
+  "updated": "2026-08-04T23:03:50+00:00",
   "posts": [
+    {
+      "id": "76fd5b24",
+      "image": "img/76fd5b24.png",
+      "image_sha": "0e62c67b6ecec380080291c4547386dcfdefb2d6",
+      "url": "https://www.radiodos.com.ar/211805-gustavo-valdes-pidio-mucho-cuidado-con-la-ley-de-tierras-y-rechazo-la-extranjerizacion-total",
+      "title": "Gustavo Valdés pidió \"mucho cuidado\" con la Ley de Tierras y rechazó la extranjerización total",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-08-04T23:03:50+00:00"
+    },
     {
       "id": "ffb5f8e5",
       "image": "img/ffb5f8e5.png",
@@ -531,15 +540,6 @@
       "title": "Menos controles: levantan más restricciones y flexibilizan la importación de alimentos",
       "volanta": "ECONOMÍA",
       "date": "2026-08-03T16:15:48+00:00"
-    },
-    {
-      "id": "8c456d25",
-      "image": "img/8c456d25.png",
-      "image_sha": "b975a1c99333b9628a509477c6aa43721461f426",
-      "url": "https://www.radiodos.com.ar/211724-violento-intento-de-robo-en-una-heladeria-un-hombre-ataco-a-una-empleada",
-      "title": "Violento intento de robo en una heladería: un hombre atacó a una empleada",
-      "volanta": "Ramos Mejía",
-      "date": "2026-08-03T16:15:17+00:00"
     }
   ]
 }
