@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T20:57:17+00:00",
+  "updated": "2026-08-04T21:02:29+00:00",
   "posts": [
+    {
+      "id": "3ab6b495",
+      "image": "img/3ab6b495.png",
+      "image_sha": "2ab4d856f19e5cbf2631c9790abc558dbe570c99",
+      "url": "https://www.radiodos.com.ar/211793-alarma-social-segun-la-uca-la-pobreza-volvio-a-subir-y-ya-roza-el-30",
+      "title": "Alarma social: según la UCA, la pobreza volvió a subir y ya roza el 30%",
+      "volanta": "ECONOMÍA LIBERTARIA",
+      "date": "2026-08-04T21:02:29+00:00"
+    },
     {
       "id": "92b05600",
       "image": "img/92b05600.png",
@@ -531,15 +540,6 @@
       "title": "Duelo en Corrientes por la partida de reconocido locutor y conductor radial",
       "volanta": "TENÍA 86 AÑOS",
       "date": "2026-08-03T13:00:10+00:00"
-    },
-    {
-      "id": "827b90fd",
-      "image": "img/827b90fd.png",
-      "image_sha": "402bec65f2f4d59223857fdd8e4c51b9a58f2403",
-      "url": "https://www.radiodos.com.ar/211699-atacaron-con-un-arma-blanca-en-la-carcel-a-un-imputado-por-el-caso-loan",
-      "title": "Atacaron con un arma blanca en la cárcel a un imputado por el caso Loan",
-      "volanta": "EN EL CHACO",
-      "date": "2026-08-03T12:20:27+00:00"
     }
   ]
 }
