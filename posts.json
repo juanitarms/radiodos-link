@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T13:45:24+00:00",
+  "updated": "2026-08-04T14:07:49+00:00",
   "posts": [
+    {
+      "id": "2cebcce8",
+      "image": "img/2cebcce8.png",
+      "image_sha": "87b159debe301e505fb94e32103e9befa6443823",
+      "url": "https://www.radiodos.com.ar/211765-hermana-de-julian-alvarez-guardia-antes-de-morir-mi-hermano-confeso-que-victoria-lo-apunalo",
+      "title": "Hermana de Julián Álvarez Guardia: \"Antes de morir mi hermano confesó que Victoria lo apuñaló\"",
+      "volanta": "CHACO",
+      "date": "2026-08-04T14:07:49+00:00"
+    },
     {
       "id": "600088f5",
       "image": "img/600088f5.png",
@@ -531,15 +540,6 @@
       "title": "Desarticulan un narcokiosco regenteado por dos mujeres en un barrio de Corrientes",
       "volanta": "DOSIS DE COCAINA",
       "date": "2026-08-01T15:17:40+00:00"
-    },
-    {
-      "id": "d786343a",
-      "image": "img/d786343a.png",
-      "image_sha": "9904756acd8fd832623a8946b5ca18ed2e20f486",
-      "url": "https://www.radiodos.com.ar/211635-operativo-transnoche-de-super-accion-gendarmeria-secuestro-217-kilos-de-droga-en-misiones",
-      "title": "Operativo \"transnoche de súper acción\": Gendarmería secuestró 217 kilos de droga en Misiones",
-      "volanta": "CONTROL",
-      "date": "2026-07-31T22:55:47+00:00"
     }
   ]
 }
