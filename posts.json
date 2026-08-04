@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T12:50:09+00:00",
+  "updated": "2026-08-04T13:08:12+00:00",
   "posts": [
+    {
+      "id": "5b89a94b",
+      "image": "img/5b89a94b.png",
+      "image_sha": "87c0420d2c6b9b83d0750164bbbb3f99ff957c3a",
+      "url": "https://www.radiodos.com.ar/211759-granizo-y-tormenta-electrica-en-diversas-zonas-de-corrientes",
+      "title": "Granizo y tormenta eléctrica en diversas zonas de Corrientes",
+      "volanta": "CLIMA",
+      "date": "2026-08-04T13:08:12+00:00"
+    },
     {
       "id": "21d124f9",
       "image": "img/21d124f9.png",
@@ -531,15 +540,6 @@
       "title": "Anticipan un sábado con tormentas fuertes y descenso en la temperatura",
       "volanta": "ALERTA AMARILLA",
       "date": "2026-07-31T22:51:40+00:00"
-    },
-    {
-      "id": "b114659c",
-      "image": "img/b114659c.png",
-      "image_sha": "4e7a66987211933c5f74a365e4f50a8c55392552",
-      "url": "https://www.radiodos.com.ar/211645-copa-sudamericana-conmebol-confirmo-dias-y-horarios-para-los-octavos-de-final-de-river-y-boca",
-      "title": "Copa Sudamericana: Conmebol confirmó días y horarios para los octavos de final de River y Boca",
-      "volanta": "COMPETENCIA INTERNACIONAL",
-      "date": "2026-07-31T22:40:56+00:00"
     }
   ]
 }
