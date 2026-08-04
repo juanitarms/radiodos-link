@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:10:59+00:00",
+  "updated": "2026-08-04T19:11:31+00:00",
   "posts": [
+    {
+      "id": "468f0ea3",
+      "image": "img/468f0ea3.png",
+      "image_sha": "a079b126fb7a6cdfc1ec7f71f7fa708a1d013f94",
+      "url": "https://www.radiodos.com.ar/211783-femicidio-de-mailen-antonich-la-familia-de-la-joven-aseguro-que-existio-un-plan-para-matarla",
+      "title": "Femicidio de Mailén Antonich: la familia de la joven aseguró que existió un plan para matarla",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-08-04T19:11:31+00:00"
+    },
     {
       "id": "97e2200d",
       "image": "img/97e2200d.png",
@@ -531,15 +540,6 @@
       "title": "Paro docente:  SUTECO y ACDP adhieren en Corrientes a la medida de fuerza nacional",
       "volanta": "HOY",
       "date": "2026-08-03T10:34:23+00:00"
-    },
-    {
-      "id": "28fa9c91",
-      "image": "img/28fa9c91.png",
-      "image_sha": "075df51205d36230d7b13bccad623a660960c86f",
-      "url": "https://www.radiodos.com.ar/211687-la-desaparicion-de-una-adolescente-destapo-una-red-de-explotacion-sexual-infantil",
-      "title": "La desaparición de una adolescente destapó una red de explotación sexual infantil",
-      "volanta": "Córdoba",
-      "date": "2026-08-02T21:15:14+00:00"
     }
   ]
 }
