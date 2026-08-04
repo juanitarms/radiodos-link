@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T13:08:12+00:00",
+  "updated": "2026-08-04T13:23:43+00:00",
   "posts": [
+    {
+      "id": "8d6001e5",
+      "image": "img/8d6001e5.png",
+      "image_sha": "692e8a5d59af70505578890e8d1bc0c179923158",
+      "url": "https://www.radiodos.com.ar/211749-un-nene-de-tres-anos-fue-atropellado-por-una-camioneta-tras-cruzar-la-calle",
+      "title": "Un nene de tres años fue atropellado por una camioneta tras cruzar la calle",
+      "volanta": "Monte Caseros",
+      "date": "2026-08-04T13:23:43+00:00"
+    },
     {
       "id": "5b89a94b",
       "image": "img/5b89a94b.png",
@@ -531,15 +540,6 @@
       "title": "Paso clave para la visita del Papa: Milei recibió las cartas credenciales del nuevo nuncio apostólico",
       "volanta": "CRECE LA EXPECTATIVA",
       "date": "2026-07-31T22:53:47+00:00"
-    },
-    {
-      "id": "fd84f799",
-      "image": "img/fd84f799.png",
-      "image_sha": "9600b03758d8665994f910aca91e0432864026fd",
-      "url": "https://www.radiodos.com.ar/211642-anticipan-un-sabado-con-tormentas-fuertes-y-descenso-en-la-temperatura",
-      "title": "Anticipan un sábado con tormentas fuertes y descenso en la temperatura",
-      "volanta": "ALERTA AMARILLA",
-      "date": "2026-07-31T22:51:40+00:00"
     }
   ]
 }
