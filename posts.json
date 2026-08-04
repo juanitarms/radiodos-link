@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T11:02:55+00:00",
+  "updated": "2026-08-04T11:28:27+00:00",
   "posts": [
+    {
+      "id": "1f6e79f3",
+      "image": "img/1f6e79f3.png",
+      "image_sha": "ad071c2127322a6416b5e97a5d66956f519fd213",
+      "url": "https://www.radiodos.com.ar/211752-crimen-de-julian-alvarez-guardia-salieron-a-la-luz-fotos-chats-y-publicaciones-atribuidas-a-la-principal-sospechosa",
+      "title": "Crimen de Julián Álvarez Guardia: salieron a la luz fotos, chats y publicaciones atribuidas a la principal sospechosa",
+      "volanta": "Chaco",
+      "date": "2026-08-04T11:28:27+00:00"
+    },
     {
       "id": "6ca3178f",
       "image": "img/6ca3178f.png",
@@ -531,15 +540,6 @@
       "title": "El 63,7% cree que el responsable de la crisis económica es Milei",
       "volanta": "Cambio de tendencia",
       "date": "2026-07-31T22:18:24+00:00"
-    },
-    {
-      "id": "c19bc5c7",
-      "image": "img/c19bc5c7.png",
-      "image_sha": "57e827fc4201e1b3f4836df8d6e9cebadfd1b928",
-      "url": "https://www.radiodos.com.ar/211637-corrientes-se-mantiene-el-corte-en-la-avenida-maipu-por-las-obras-de-infraestructura-en-el-arroyo-pirayui",
-      "title": "Corrientes: se mantiene el corte en la avenida Maipú por las obras de infraestructura en el arroyo Pirayuí",
-      "volanta": "TRÁNSITO",
-      "date": "2026-07-31T21:47:54+00:00"
     }
   ]
 }
