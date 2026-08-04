@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T18:33:14+00:00",
+  "updated": "2026-08-04T18:33:47+00:00",
   "posts": [
+    {
+      "id": "65cfe1a7",
+      "image": "img/65cfe1a7.png",
+      "image_sha": "bf243b074edb15e7f5f4db0452f59832a80e431c",
+      "url": "https://www.radiodos.com.ar/211782-javier-milei-cambio-su-agenda-para-impedir-que-victoria-villarruel-presida-la-sesion-del-senado",
+      "title": "Javier Milei cambió su agenda para impedir que Victoria Villarruel presida la sesión del Senado",
+      "volanta": "QUIEBRE",
+      "date": "2026-08-04T18:33:47+00:00"
+    },
     {
       "id": "c0c4e445",
       "image": "img/c0c4e445.png",
@@ -531,15 +540,6 @@
       "title": "Braillard Poccard: \"Corrientes tiene sus finanzas en orden y eso genera confianza\"",
       "volanta": "LO BUENO, LO MALO Y LO FEO",
       "date": "2026-08-02T18:27:13+00:00"
-    },
-    {
-      "id": "01dec46d",
-      "image": "img/01dec46d.png",
-      "image_sha": "0026423b233c6d018847b87ae3cae47d80b08547",
-      "url": "https://www.radiodos.com.ar/211678-allanaron-la-casa-de-un-colaborador-del-exiintendente-y-encontraron-bienes-municipales-desaparecidos",
-      "title": "Allanaron la casa de un colaborador del exiintendente y encontraron bienes municipales \"desaparecidos\"",
-      "volanta": "Escándalo en Virasoro:",
-      "date": "2026-08-02T17:36:00+00:00"
     }
   ]
 }
