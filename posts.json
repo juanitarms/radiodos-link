@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:09:25+00:00",
+  "updated": "2026-08-04T19:09:57+00:00",
   "posts": [
+    {
+      "id": "28953a26",
+      "image": "img/28953a26.png",
+      "image_sha": "182791e37cc493b50cd57f5a8202992fb5b2be30",
+      "url": "https://www.radiodos.com.ar/211779-comunicado-de-la-omm-el-nino-anticipa-un-fenomeno-de-fuerza-inedita",
+      "title": "Comunicado de la OMM: El Niño anticipa un fenómeno de fuerza inédita",
+      "volanta": "ATENCIÓN",
+      "date": "2026-08-04T19:09:57+00:00"
+    },
     {
       "id": "05cea35c",
       "image": "img/05cea35c.png",
@@ -531,15 +540,6 @@
       "title": "Milei confirmó que ya tiene candidato a vicepresidente para el 2027",
       "volanta": "En busca de su reelección",
       "date": "2026-08-02T20:29:49+00:00"
-    },
-    {
-      "id": "fda6ea20",
-      "image": "img/fda6ea20.png",
-      "image_sha": "f1047ee70c5c9bc3a8762cfb3962a1f248fc626b",
-      "url": "https://www.radiodos.com.ar/211685-dos-jovenes-murieron-tras-un-choque-frontal-y-afirman-que-una-menor-conducia-el-otro-vehiculo",
-      "title": "Dos jóvenes murieron tras un choque frontal y afirman que una menor conducía el otro vehículo",
-      "volanta": "Tragedia en la Ruta 14",
-      "date": "2026-08-02T20:29:13+00:00"
     }
   ]
 }
