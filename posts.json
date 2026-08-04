@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T14:42:24+00:00",
+  "updated": "2026-08-04T14:56:11+00:00",
   "posts": [
+    {
+      "id": "4cb6fc50",
+      "image": "img/4cb6fc50.png",
+      "image_sha": "5d429072c91a03b745a70b88cee0efec797651ef",
+      "url": "https://www.radiodos.com.ar/211771-quien-es-candela-arizaga-la-modelo-que-denuncio-a-facundo-moyano-por-violencia-de-genero",
+      "title": "Quién es Candela Arizaga, la modelo que denunció a Facundo Moyano por violencia de género",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-04T14:56:11+00:00"
+    },
     {
       "id": "7caa49cf",
       "image": "img/7caa49cf.png",
@@ -531,15 +540,6 @@
       "title": "Cierran el acceso a la Garganta del Diablo: por qué y hasta cuándo",
       "volanta": "PREVENCIÓN",
       "date": "2026-08-02T14:09:40+00:00"
-    },
-    {
-      "id": "174c8b83",
-      "image": "img/174c8b83.png",
-      "image_sha": "674351ea379e14f37af87867e456229407f58543",
-      "url": "https://www.radiodos.com.ar/211652-cana-con-ruda-pena-y-ciudad-de-diseno-se-destacan-en-la-agenda-del-fin-de-semana-en-corrientes",
-      "title": "Caña con ruda, Peña y Ciudad de diseño se destacan en la agenda del fin de semana en Corrientes",
-      "volanta": "AGENDA",
-      "date": "2026-08-01T20:48:22+00:00"
     }
   ]
 }
