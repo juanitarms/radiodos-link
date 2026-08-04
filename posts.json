@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T22:12:32+00:00",
+  "updated": "2026-08-04T23:02:07+00:00",
   "posts": [
+    {
+      "id": "ffb5f8e5",
+      "image": "img/ffb5f8e5.png",
+      "image_sha": "c9a4a55282176b8382dcad6a601d9313c860525c",
+      "url": "https://www.radiodos.com.ar/211806-choque-entre-una-camioneta-y-un-auto-dejo-dos-personas-hospitalizadas",
+      "title": "Choque entre una camioneta y un auto dejó dos personas hospitalizadas",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-04T23:02:07+00:00"
+    },
     {
       "id": "456dc9f0",
       "image": "img/456dc9f0.png",
@@ -531,15 +540,6 @@
       "title": "Violento intento de robo en una heladería: un hombre atacó a una empleada",
       "volanta": "Ramos Mejía",
       "date": "2026-08-03T16:15:17+00:00"
-    },
-    {
-      "id": "1081dfec",
-      "image": "img/1081dfec.png",
-      "image_sha": "7c8bab74afaa38de5c8d6f939060586d7cd60602",
-      "url": "https://www.radiodos.com.ar/211725-san-martin-se-consagro-campeon-en-el-infantiles-masculino-del-prefederal-formativo",
-      "title": "San Martín se consagró campeón en el Infantiles masculino del Prefederal Formativo",
-      "volanta": "BÁSQUET",
-      "date": "2026-08-03T16:14:46+00:00"
     }
   ]
 }
