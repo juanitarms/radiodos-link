@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T20:33:34+00:00",
+  "updated": "2026-08-04T20:34:47+00:00",
   "posts": [
+    {
+      "id": "e9519259",
+      "image": "img/e9519259.png",
+      "image_sha": "57ba4661cde0b2e8c42d4f53b003e5f8127cdf91",
+      "url": "https://www.radiodos.com.ar/211796-monsenor-larregain-presento-la-enciclica-magnifica-humanitas",
+      "title": "Monseñor Larregain presentó la encíclica Magnifica Humanitas",
+      "volanta": "SALON TUPASY",
+      "date": "2026-08-04T20:34:47+00:00"
+    },
     {
       "id": "4d04180f",
       "image": "img/4d04180f.png",
@@ -531,15 +540,6 @@
       "title": "Pronóstico de lluvias y tormentas para Corrientes",
       "volanta": "CLIMA",
       "date": "2026-08-03T11:47:08+00:00"
-    },
-    {
-      "id": "8ac55bde",
-      "image": "img/8ac55bde.png",
-      "image_sha": "9ea141f9cbf153108d3677b1194ca2ac1e819a94",
-      "url": "https://www.radiodos.com.ar/211692-el-gobernador-jp-valdes-participara-de-la-cumbre-del-nea-con-karina-milei-y-santilli",
-      "title": "El gobernador JP Valdés participará de la cumbre del NEA con Karina Milei y Santilli",
-      "volanta": "FENÓMENO DE EL NIÑO",
-      "date": "2026-08-03T11:28:16+00:00"
     }
   ]
 }
