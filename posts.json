@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T14:07:49+00:00",
+  "updated": "2026-08-04T14:24:47+00:00",
   "posts": [
+    {
+      "id": "7c66438b",
+      "image": "img/7c66438b.png",
+      "image_sha": "698d4c00bda8122adce1a22657cc366ea7d5d4c3",
+      "url": "https://www.radiodos.com.ar/211770-joven-acusada-de-matar-a-su-novio-es-la-responsable-dijo-el-abogado-de-la-querella",
+      "title": "Joven acusada de matar a su novio:  \"Es la responsable\", dijo el abogado de la querella",
+      "volanta": "DR. JUAN ARREGÍN",
+      "date": "2026-08-04T14:24:47+00:00"
+    },
     {
       "id": "2cebcce8",
       "image": "img/2cebcce8.png",
@@ -531,15 +540,6 @@
       "title": "De contramano y haciendo \"willys\": así huían motoqueros de la Policía en Corrientes",
       "volanta": "POR RUTA 5",
       "date": "2026-08-01T18:39:09+00:00"
-    },
-    {
-      "id": "4c4f91c9",
-      "image": "img/4c4f91c9.png",
-      "image_sha": "2fc9a5c4757f04dda7ee2eab02844d4e5f9f6d7a",
-      "url": "https://www.radiodos.com.ar/211655-desarticulan-un-narcokiosco-regenteado-por-dos-mujeres-en-un-barrio-de-corrientes",
-      "title": "Desarticulan un narcokiosco regenteado por dos mujeres en un barrio de Corrientes",
-      "volanta": "DOSIS DE COCAINA",
-      "date": "2026-08-01T15:17:40+00:00"
     }
   ]
 }
