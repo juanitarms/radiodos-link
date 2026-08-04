@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T21:34:49+00:00",
+  "updated": "2026-08-04T21:49:01+00:00",
   "posts": [
+    {
+      "id": "913aa803",
+      "image": "img/913aa803.png",
+      "image_sha": "5fb8df34de36b64e1009eb3ec98bce10cb3bd5bd",
+      "url": "https://www.radiodos.com.ar/211803-mandiyu-anuncio-la-vuelta-de-alvaro-pavon-para-el-regional",
+      "title": "Mandiyú anunció la vuelta de Álvaro Pavón para el Regional",
+      "volanta": "REFUERZO DE JERARQUÍA",
+      "date": "2026-08-04T21:49:01+00:00"
+    },
     {
       "id": "48fb11c7",
       "image": "img/48fb11c7.png",
@@ -531,15 +540,6 @@
       "title": "Otorgan bono de $50 mil pesos para militares y efectivos de las Fuerzas de Seguridad federales",
       "volanta": "NOVEDAD",
       "date": "2026-08-03T15:28:14+00:00"
-    },
-    {
-      "id": "8567d4bd",
-      "image": "img/8567d4bd.png",
-      "image_sha": "b90ce952bddf0c738b90766d4a2ffb548c70f2d5",
-      "url": "https://www.radiodos.com.ar/211716-la-basura-en-la-via-publica-vuelve-a-poner-en-riesgo-el-funcionamiento-de-los-desagues",
-      "title": "La basura en la vía pública vuelve a poner en riesgo el funcionamiento de los desagües",
-      "volanta": "IRRESPONSABILIDAD",
-      "date": "2026-08-03T15:08:33+00:00"
     }
   ]
 }
