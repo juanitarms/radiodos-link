@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T10:48:57+00:00",
+  "updated": "2026-08-04T11:02:55+00:00",
   "posts": [
+    {
+      "id": "6ca3178f",
+      "image": "img/6ca3178f.png",
+      "image_sha": "fc8bb823d275673ce1c5e9a9f7c1e1ec7d3597e5",
+      "url": "https://www.radiodos.com.ar/211750-robo-un-ecografo-en-el-chaco-e-intento-venderlo-en-corrientes-por-redes-sociales",
+      "title": "Robó un ecógrafo en el Chaco e intentó venderlo en Corrientes por redes sociales",
+      "volanta": "MANIOBRA ENCUBIERTA",
+      "date": "2026-08-04T11:02:55+00:00"
+    },
     {
       "id": "11df5616",
       "image": "img/11df5616.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: se mantiene el corte en la avenida Maipú por las obras de infraestructura en el arroyo Pirayuí",
       "volanta": "TRÁNSITO",
       "date": "2026-07-31T21:47:54+00:00"
-    },
-    {
-      "id": "6d565a33",
-      "image": "img/6d565a33.png",
-      "image_sha": "e18587a09b0d2b229774edef1220d9fe4e886d6c",
-      "url": "https://www.radiodos.com.ar/211641-vecinos-y-bomberos-evitaron-que-un-incendio-en-un-local-gastronomico-se-propague-a-zonas-linderas",
-      "title": "Vecinos y bomberos evitaron que un incendio en un local gastronómico se propague a zonas linderas",
-      "volanta": "SAN MIGUEL",
-      "date": "2026-07-31T21:45:28+00:00"
     }
   ]
 }
