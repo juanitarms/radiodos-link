@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T12:34:36+00:00",
+  "updated": "2026-08-04T12:50:09+00:00",
   "posts": [
+    {
+      "id": "21d124f9",
+      "image": "img/21d124f9.png",
+      "image_sha": "b8b5b9bc98803ee6d6c82235863bea5bc2eaaba3",
+      "url": "https://www.radiodos.com.ar/211757-corrientes-sera-sede-de-la-selectiva-regional-de-los-martin-fierro-de-la-danza-2026",
+      "title": "Corrientes será sede de la selectiva regional de los Martín Fierro de la Danza 2026",
+      "volanta": "Evaluaciones",
+      "date": "2026-08-04T12:50:09+00:00"
+    },
     {
       "id": "f3e6b724",
       "image": "img/f3e6b724.png",
@@ -531,15 +540,6 @@
       "title": "Copa Sudamericana: Conmebol confirmó días y horarios para los octavos de final de River y Boca",
       "volanta": "COMPETENCIA INTERNACIONAL",
       "date": "2026-07-31T22:40:56+00:00"
-    },
-    {
-      "id": "aa8c93c0",
-      "image": "img/aa8c93c0.png",
-      "image_sha": "e7337a4ad242225435b3cef1bef0f45786fb4c71",
-      "url": "https://www.radiodos.com.ar/211647-el-nino-mas-de-5-millones-de-hectareas-podrian-quedar-bajo-el-agua-en-corrientes",
-      "title": "El Niño: más de 5 millones de hectáreas podrían quedar bajo el agua en Corrientes",
-      "volanta": "Advertencia del INTA",
-      "date": "2026-07-31T22:38:36+00:00"
     }
   ]
 }
