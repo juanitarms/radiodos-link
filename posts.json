@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T21:02:29+00:00",
+  "updated": "2026-08-04T21:03:23+00:00",
   "posts": [
+    {
+      "id": "eccf8461",
+      "image": "img/eccf8461.png",
+      "image_sha": "bbf149df73318846dfd83a2f4b0e363b06b8b33e",
+      "url": "https://www.radiodos.com.ar/211797-antes-de-ser-trasladado-a-una-carcel-un-peligroso-criminal-se-fugo-de-una-sede-judicial-de-corrientes",
+      "title": "Antes de ser trasladado a una cárcel, un peligroso criminal se fugó de una sede judicial de Corrientes",
+      "volanta": "ESTA SIESTA",
+      "date": "2026-08-04T21:03:23+00:00"
+    },
     {
       "id": "3ab6b495",
       "image": "img/3ab6b495.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés presidió en Saladas el acto por el primer Dia Provincial del Granadero Correntino",
       "volanta": "HOMENAJE A LOS HÉROES DE LA INDEPENDENCIA",
       "date": "2026-08-03T13:15:41+00:00"
-    },
-    {
-      "id": "8cc9771d",
-      "image": "img/8cc9771d.png",
-      "image_sha": "c2d115f1b3cfbae3aaa77d5d8e4f16f7e72ad03d",
-      "url": "https://www.radiodos.com.ar/211708-duelo-en-corrientes-por-la-partida-de-reconocido-locutor-y-conductor-radial",
-      "title": "Duelo en Corrientes por la partida de reconocido locutor y conductor radial",
-      "volanta": "TENÍA 86 AÑOS",
-      "date": "2026-08-03T13:00:10+00:00"
     }
   ]
 }
