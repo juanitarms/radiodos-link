@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T18:13:02+00:00",
+  "updated": "2026-08-04T18:13:33+00:00",
   "posts": [
+    {
+      "id": "02d35d83",
+      "image": "img/02d35d83.png",
+      "image_sha": "509ad3852fef121e8b926b5f2ca4ff8971c54cc4",
+      "url": "https://www.radiodos.com.ar/211774-dramatica-persecucion-culmino-con-un-patrullero-en-una-zanja-y-tres-detenidos",
+      "title": "Dramática persecución culminó con un patrullero en una zanja y tres detenidos",
+      "volanta": "LA PLATA",
+      "date": "2026-08-04T18:13:33+00:00"
+    },
     {
       "id": "703701a2",
       "image": "img/703701a2.png",
@@ -531,15 +540,6 @@
       "title": "Lucas Carballo: \"Hoy acompañamos a alrededor de 70 personas en situación de calle\"",
       "volanta": "LO BUENO, LO MALO Y LO FEO",
       "date": "2026-08-02T17:34:55+00:00"
-    },
-    {
-      "id": "88b7ac0e",
-      "image": "img/88b7ac0e.png",
-      "image_sha": "9a059b3ff51f4bba148bec0276cb2ffb8e1b7312",
-      "url": "https://www.radiodos.com.ar/211680-en-corrientes-regularan-el-uso-de-celulares-en-las-aulas",
-      "title": "En Corrientes regularán el uso de celulares en las aulas",
-      "volanta": "EDUCACIÓN",
-      "date": "2026-08-02T16:23:16+00:00"
     }
   ]
 }
