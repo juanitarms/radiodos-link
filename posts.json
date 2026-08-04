@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:09:57+00:00",
+  "updated": "2026-08-04T19:10:27+00:00",
   "posts": [
+    {
+      "id": "abb0b689",
+      "image": "img/abb0b689.png",
+      "image_sha": "78922332e6c834ed3c80a908ea906c226b656fad",
+      "url": "https://www.radiodos.com.ar/211778-el-video-en-el-que-se-ve-a-la-pareja-de-facundo-moyano-deambulando-por-avenida-del-libertador",
+      "title": "El video en el que se ve a la pareja de Facundo Moyano deambulando por Avenida del Libertador",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-04T19:10:27+00:00"
+    },
     {
       "id": "28953a26",
       "image": "img/28953a26.png",
@@ -531,15 +540,6 @@
       "title": "El Semáforo de CONINAGRO confirma la persistencia de la crisis en las producciones clave de Corrientes",
       "volanta": "Alerta para el campo",
       "date": "2026-08-02T20:30:18+00:00"
-    },
-    {
-      "id": "003e9bf3",
-      "image": "img/003e9bf3.png",
-      "image_sha": "ec8f546dd6e2bad36c11224f2ea31515d77a0caa",
-      "url": "https://www.radiodos.com.ar/211684-milei-confirmo-que-ya-tiene-candidato-a-vicepresidente-para-el-2027",
-      "title": "Milei confirmó que ya tiene candidato a vicepresidente para el 2027",
-      "volanta": "En busca de su reelección",
-      "date": "2026-08-02T20:29:49+00:00"
     }
   ]
 }
