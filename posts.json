@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:12:01+00:00",
+  "updated": "2026-08-04T20:33:34+00:00",
   "posts": [
+    {
+      "id": "4d04180f",
+      "image": "img/4d04180f.png",
+      "image_sha": "f7789a97881ef5dbc370a83ac6e0459c2aed574a",
+      "url": "https://www.radiodos.com.ar/211794-el-centro-valentin-hauy-cumplio-50-anos-formando-autonomia-para-personas-con-discapacidad-visual",
+      "title": "El Centro \"Valentín Haüy\" cumplió 50 años formando autonomía para personas con discapacidad visual",
+      "volanta": "ACTO EN CASA DE GOBIERNO",
+      "date": "2026-08-04T20:33:34+00:00"
+    },
     {
       "id": "af554945",
       "image": "img/af554945.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés participará de la cumbre del NEA con Karina Milei y Santilli",
       "volanta": "FENÓMENO DE EL NIÑO",
       "date": "2026-08-03T11:28:16+00:00"
-    },
-    {
-      "id": "d8551f58",
-      "image": "img/d8551f58.png",
-      "image_sha": "7d5d81f42324b2c67f9ad4f96cc7a12391cb1938",
-      "url": "https://www.radiodos.com.ar/211690-fin-de-semana-tragico-en-corrientes-cuatro-muertos-en-la-ruta-de-la-muerte",
-      "title": "Fin de semana trágico en Corrientes: cuatro muertos en la \"Ruta de la Muerte\"",
-      "volanta": "Ruta Nacional 14",
-      "date": "2026-08-03T10:49:36+00:00"
     }
   ]
 }
