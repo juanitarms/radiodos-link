@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T16:22:55+00:00",
+  "updated": "2026-08-04T18:13:02+00:00",
   "posts": [
+    {
+      "id": "703701a2",
+      "image": "img/703701a2.png",
+      "image_sha": "b8a3143b343d31b002df5a10f838b48f99a15afd",
+      "url": "https://www.radiodos.com.ar/211775-la-justicia-ratifico-la-prorroga-de-la-cautelar-que-freno-la-conversion-del-banco-nacion-en-sociedad-anonima",
+      "title": "La Justicia ratificó la prórroga de la cautelar que frenó la conversión del Banco Nación en sociedad anónima",
+      "volanta": "FALLO",
+      "date": "2026-08-04T18:13:02+00:00"
+    },
     {
       "id": "a2f92370",
       "image": "img/a2f92370.png",
@@ -531,15 +540,6 @@
       "title": "En Corrientes regularán el uso de celulares en las aulas",
       "volanta": "EDUCACIÓN",
       "date": "2026-08-02T16:23:16+00:00"
-    },
-    {
-      "id": "537fc7f6",
-      "image": "img/537fc7f6.png",
-      "image_sha": "a2ad888383e7dc350dd3f9ace4223df94785fb04",
-      "url": "https://www.radiodos.com.ar/211677-un-correntino-lucha-contra-un-agresivo-cancer-y-necesita-ayuda-para-seguir-su-tratamiento",
-      "title": "Un correntino lucha contra un agresivo cáncer y necesita ayuda para seguir su tratamiento",
-      "volanta": "KEVIN GERMÁN ORTIZ",
-      "date": "2026-08-02T15:03:31+00:00"
     }
   ]
 }
