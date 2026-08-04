@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-03T22:04:55+00:00",
+  "updated": "2026-08-04T10:48:57+00:00",
   "posts": [
+    {
+      "id": "11df5616",
+      "image": "img/11df5616.png",
+      "image_sha": "48a78bbfa1eca9beef0b0181961849e809ebef38",
+      "url": "https://www.radiodos.com.ar/211751-alerta-amarilla-para-el-norte-de-corrientes-tormentas-fuertes-y-chaparrones",
+      "title": "Alerta amarilla para el norte de Corrientes: tormentas fuertes y chaparrones",
+      "volanta": "Pronóstico",
+      "date": "2026-08-04T10:48:57+00:00"
+    },
     {
       "id": "fa9eed84",
       "image": "img/fa9eed84.png",
@@ -531,15 +540,6 @@
       "title": "Vecinos y bomberos evitaron que un incendio en un local gastronómico se propague a zonas linderas",
       "volanta": "SAN MIGUEL",
       "date": "2026-07-31T21:45:28+00:00"
-    },
-    {
-      "id": "5b51c7f5",
-      "image": "img/5b51c7f5.png",
-      "image_sha": "7588b09c90ede2543d96473ad993a10a3ecdad46",
-      "url": "https://www.radiodos.com.ar/211638-la-libertad-avanza-corrientes-se-reune-para-continuar-fortaleciendo-la-estructura-partidaria",
-      "title": "La Libertad Avanza Corrientes se reúne para continuar fortaleciendo la estructura partidaria",
-      "volanta": "ENCUENTRO POLÍTICO",
-      "date": "2026-07-31T21:35:38+00:00"
     }
   ]
 }
