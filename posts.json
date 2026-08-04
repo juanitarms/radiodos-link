@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T21:06:23+00:00",
+  "updated": "2026-08-04T21:34:49+00:00",
   "posts": [
+    {
+      "id": "48fb11c7",
+      "image": "img/48fb11c7.png",
+      "image_sha": "afcd3d84085ea5c7b1c300c82f4c0cc79d47569b",
+      "url": "https://www.radiodos.com.ar/211801-obras-en-el-arroyo-pirayui-estiman-que-en-cuatro-o-cinco-dias-se-rehabilitara-el-transito-en-avenida-maipu",
+      "title": "Obras en el arroyo Pirayuí: estiman que en cuatro o cinco días se rehabilitará el tránsito en avenida Maipú",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-04T21:34:49+00:00"
+    },
     {
       "id": "83837ab3",
       "image": "img/83837ab3.png",
@@ -531,15 +540,6 @@
       "title": "La basura en la vía pública vuelve a poner en riesgo el funcionamiento de los desagües",
       "volanta": "IRRESPONSABILIDAD",
       "date": "2026-08-03T15:08:33+00:00"
-    },
-    {
-      "id": "42f4f1fb",
-      "image": "img/42f4f1fb.png",
-      "image_sha": "cc871917afa6dd9f46dcebbaf24831e985bd38e4",
-      "url": "https://www.radiodos.com.ar/211714-expectativa-por-el-premio-de-la-poceda-correntina-645-millones",
-      "title": "Expectativa por el premio de la Poceda Correntina: $645 millones",
-      "volanta": "JUEGA MAÑANA",
-      "date": "2026-08-03T14:03:02+00:00"
     }
   ]
 }
