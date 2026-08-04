@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T18:13:33+00:00",
+  "updated": "2026-08-04T18:14:11+00:00",
   "posts": [
+    {
+      "id": "b0400da3",
+      "image": "img/b0400da3.png",
+      "image_sha": "5f42c0b2d81297b580daefc277154f7ba025ec09",
+      "url": "https://www.radiodos.com.ar/211777-cientificos-alertan-por-la-cantidad-de-basura-atrapada-en-las-profundidades-del-mar-argentino",
+      "title": "Científicos alertan por la cantidad de basura atrapada en las profundidades del Mar Argentino",
+      "volanta": "SUCIEDAD",
+      "date": "2026-08-04T18:14:11+00:00"
+    },
     {
       "id": "02d35d83",
       "image": "img/02d35d83.png",
@@ -531,15 +540,6 @@
       "title": "Milei confirmó que ya definió a su candidato a vice para las próximas elecciones",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-08-02T17:35:29+00:00"
-    },
-    {
-      "id": "d73089de",
-      "image": "img/d73089de.png",
-      "image_sha": "2b152d9c7cfa172937a71f478253d2d9ba408708",
-      "url": "https://www.radiodos.com.ar/211679-lucas-carballo-hoy-acompanamos-a-alrededor-de-70-personas-en-situacion-de-calle",
-      "title": "Lucas Carballo: \"Hoy acompañamos a alrededor de 70 personas en situación de calle\"",
-      "volanta": "LO BUENO, LO MALO Y LO FEO",
-      "date": "2026-08-02T17:34:55+00:00"
     }
   ]
 }
