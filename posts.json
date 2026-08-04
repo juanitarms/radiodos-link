@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T21:49:01+00:00",
+  "updated": "2026-08-04T22:12:32+00:00",
   "posts": [
+    {
+      "id": "456dc9f0",
+      "image": "img/456dc9f0.png",
+      "image_sha": "4f07deb4223932cfc759e23e2a78d57168f56b28",
+      "url": "https://www.radiodos.com.ar/211802-giro-total-por-la-muerte-de-una-adolescente-en-corrientes-investigan-un-homicidio-por-encargo",
+      "title": "Giro total por la muerte de una adolescente en Corrientes: investigan un \"homicidio por encargo\"",
+      "volanta": "HAY UN MENOR DETENIDO",
+      "date": "2026-08-04T22:12:32+00:00"
+    },
     {
       "id": "913aa803",
       "image": "img/913aa803.png",
@@ -531,15 +540,6 @@
       "title": "San Martín se consagró campeón en el Infantiles masculino del Prefederal Formativo",
       "volanta": "BÁSQUET",
       "date": "2026-08-03T16:14:46+00:00"
-    },
-    {
-      "id": "0c1e6e87",
-      "image": "img/0c1e6e87.png",
-      "image_sha": "b45ceed9b8649ec6d5b6ac0032b9f06ba036699b",
-      "url": "https://www.radiodos.com.ar/211721-otorgan-bono-de-50-mil-pesos-para-militares-y-efectivos-de-las-fuerzas-de-seguridad-federales",
-      "title": "Otorgan bono de $50 mil pesos para militares y efectivos de las Fuerzas de Seguridad federales",
-      "volanta": "NOVEDAD",
-      "date": "2026-08-03T15:28:14+00:00"
     }
   ]
 }
