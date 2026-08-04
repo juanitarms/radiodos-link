@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T18:33:47+00:00",
+  "updated": "2026-08-04T18:34:18+00:00",
   "posts": [
+    {
+      "id": "b463529a",
+      "image": "img/b463529a.png",
+      "image_sha": "1ef3b90c8dc6a4fa2d9381dccb8330ef9e7631ce",
+      "url": "https://www.radiodos.com.ar/211781-boca-presento-su-nueva-camiseta-2026-27-como-es-cuando-debuta-y-cuanto-cuesta",
+      "title": "Boca presentó su nueva camiseta 2026/27: cómo es, cuándo debuta y cuánto cuesta",
+      "volanta": "NUEVA TEMPORADA",
+      "date": "2026-08-04T18:34:18+00:00"
+    },
     {
       "id": "65cfe1a7",
       "image": "img/65cfe1a7.png",
@@ -531,15 +540,6 @@
       "title": "Cinco detenidos por el robo millonario a una anciana en Corrientes",
       "volanta": "POLICIA DE CORRIENTES",
       "date": "2026-08-02T18:27:43+00:00"
-    },
-    {
-      "id": "11352796",
-      "image": "img/11352796.png",
-      "image_sha": "6c45ce778255b31c07a560dff1d6696ce3c1e585",
-      "url": "https://www.radiodos.com.ar/211683-braillard-poccard-corrientes-tiene-sus-finanzas-en-orden-y-eso-genera-confianza",
-      "title": "Braillard Poccard: \"Corrientes tiene sus finanzas en orden y eso genera confianza\"",
-      "volanta": "LO BUENO, LO MALO Y LO FEO",
-      "date": "2026-08-02T18:27:13+00:00"
     }
   ]
 }
