@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T21:04:21+00:00",
+  "updated": "2026-08-04T21:06:23+00:00",
   "posts": [
+    {
+      "id": "83837ab3",
+      "image": "img/83837ab3.png",
+      "image_sha": "fe9dc8973392493ed24194a5691153dee57f5406",
+      "url": "https://www.radiodos.com.ar/211799-el-puente-chaco-corrientes-supero-los-19000-vehiculos-diarios-en-2025",
+      "title": "El puente Chaco-Corrientes superó los 19.000 vehículos diarios en 2025,",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-08-04T21:06:23+00:00"
+    },
     {
       "id": "8bea36a6",
       "image": "img/8bea36a6.png",
@@ -531,15 +540,6 @@
       "title": "Expectativa por el premio de la Poceda Correntina: $645 millones",
       "volanta": "JUEGA MAÑANA",
       "date": "2026-08-03T14:03:02+00:00"
-    },
-    {
-      "id": "c96a4d5a",
-      "image": "img/c96a4d5a.png",
-      "image_sha": "b754f4a2fbac4b3531cd3c4c945ca8dc8b051a26",
-      "url": "https://www.radiodos.com.ar/211696-un-correntino-afortunado-acerto-el-quini-6-con-la-modalidad-siempre-sale",
-      "title": "Un correntino afortunado: acertó el Quini 6 con la modalidad \"Siempre Sale\"",
-      "volanta": "Más de $22 millones",
-      "date": "2026-08-03T13:32:03+00:00"
     }
   ]
 }
