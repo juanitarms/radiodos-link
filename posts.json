@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T20:35:56+00:00",
+  "updated": "2026-08-04T20:57:17+00:00",
   "posts": [
+    {
+      "id": "92b05600",
+      "image": "img/92b05600.png",
+      "image_sha": "cb657cdeed67a75c923c97bfb6e9046a843a1ed3",
+      "url": "https://www.radiodos.com.ar/211798-quienes-declaran-este-miercoles-en-el-juicio-del-caso-loan",
+      "title": "Quiénes declaran este miércoles en el juicio del caso Loan",
+      "volanta": "corrientes",
+      "date": "2026-08-04T20:57:17+00:00"
+    },
     {
       "id": "15f76026",
       "image": "img/15f76026.png",
@@ -531,15 +540,6 @@
       "title": "Atacaron con un arma blanca en la cárcel a un imputado por el caso Loan",
       "volanta": "EN EL CHACO",
       "date": "2026-08-03T12:20:27+00:00"
-    },
-    {
-      "id": "d72d9b0e",
-      "image": "img/d72d9b0e.png",
-      "image_sha": "06e4e591b33169147aebb3399b1ff2baa7b53568",
-      "url": "https://www.radiodos.com.ar/211694-stunt-en-corrientes-la-policia-secuestro-varias-motos-y-demoro-a-siete-personas-en-controles-preventivos",
-      "title": "Stunt en Corrientes: la Policía secuestró varias motos y demoró a siete personas en controles preventivos",
-      "volanta": "CONTROLES",
-      "date": "2026-08-03T12:04:06+00:00"
     }
   ]
 }
