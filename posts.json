@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T16:22:21+00:00",
+  "updated": "2026-08-04T16:22:55+00:00",
   "posts": [
+    {
+      "id": "a2f92370",
+      "image": "img/a2f92370.png",
+      "image_sha": "a55a2dfc1ed3d8dec7df0d53e9820e8a57733a96",
+      "url": "https://www.radiodos.com.ar/211772-femicidio-en-rosario-asesinaron-a-una-mujer-de-una-punalada-en-el-cuello-y-por-el-crimen-detuvieron-a-su-novio",
+      "title": "Femicidio en Rosario: asesinaron a una mujer de una puñalada en el cuello y por el crimen detuvieron a su novio",
+      "volanta": "SANTA FE",
+      "date": "2026-08-04T16:22:55+00:00"
+    },
     {
       "id": "324970d8",
       "image": "img/324970d8.png",
@@ -531,15 +540,6 @@
       "title": "Un correntino lucha contra un agresivo cáncer y necesita ayuda para seguir su tratamiento",
       "volanta": "KEVIN GERMÁN ORTIZ",
       "date": "2026-08-02T15:03:31+00:00"
-    },
-    {
-      "id": "43058b18",
-      "image": "img/43058b18.png",
-      "image_sha": "a770dcb9e1678e961d33fd42fd287db5a4815cdb",
-      "url": "https://www.radiodos.com.ar/211675-bomberos-rescataron-a-dos-perros-y-un-zorro-atrapados-en-un-poste-de-hormigon",
-      "title": "Bomberos rescataron a dos perros y un zorro atrapados en un poste de hormigón",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-02T14:49:09+00:00"
     }
   ]
 }
