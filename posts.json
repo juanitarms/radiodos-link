@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T19:10:27+00:00",
+  "updated": "2026-08-04T19:10:59+00:00",
   "posts": [
+    {
+      "id": "97e2200d",
+      "image": "img/97e2200d.png",
+      "image_sha": "2bfc0bd16f8a16e043fe26a497bc99d8e8285476",
+      "url": "https://www.radiodos.com.ar/211784-quien-es-pilar-ferrer-la-biologa-argentina-que-desarrollo-un-gel-para-recuperar-el-corazon-tras-un-infarto",
+      "title": "Quién es Pilar Ferrer, la bióloga argentina que desarrolló un gel para recuperar el corazón tras un infarto",
+      "volanta": "AVANCE EN LA MEDICINA",
+      "date": "2026-08-04T19:10:59+00:00"
+    },
     {
       "id": "abb0b689",
       "image": "img/abb0b689.png",
@@ -531,15 +540,6 @@
       "title": "La desaparición de una adolescente destapó una red de explotación sexual infantil",
       "volanta": "Córdoba",
       "date": "2026-08-02T21:15:14+00:00"
-    },
-    {
-      "id": "d0f25070",
-      "image": "img/d0f25070.png",
-      "image_sha": "86308a036a615b57f270cfa5139ed7b9c7863736",
-      "url": "https://www.radiodos.com.ar/211686-el-semaforo-de-coninagro-confirma-la-persistencia-de-la-crisis-en-las-producciones-clave-de-corrientes",
-      "title": "El Semáforo de CONINAGRO confirma la persistencia de la crisis en las producciones clave de Corrientes",
-      "volanta": "Alerta para el campo",
-      "date": "2026-08-02T20:30:18+00:00"
     }
   ]
 }
