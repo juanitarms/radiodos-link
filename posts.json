@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T21:02:32+00:00",
+  "updated": "2026-08-05T21:05:25+00:00",
   "posts": [
+    {
+      "id": "3e0435b5",
+      "image": "img/3e0435b5.png",
+      "image_sha": "dc25ab79d4b6e8ee38f0cfff1e2ef17b948c8eb0",
+      "url": "https://www.radiodos.com.ar/211863-un-jugador-de-futbol-murio-fulminado-por-un-rayo",
+      "title": "Un jugador de fútbol murió fulminado por un rayo",
+      "volanta": "HORROR",
+      "date": "2026-08-05T21:05:25+00:00"
+    },
     {
       "id": "4d4819f3",
       "image": "img/4d4819f3.png",
@@ -531,15 +540,6 @@
       "title": "Hermana de Julián Álvarez Guardia: \"Antes de morir mi hermano confesó que Victoria lo apuñaló\"",
       "volanta": "CHACO",
       "date": "2026-08-04T14:07:49+00:00"
-    },
-    {
-      "id": "600088f5",
-      "image": "img/600088f5.png",
-      "image_sha": "43163388b1ca95d909861addfbc13d4f789c4b5e",
-      "url": "https://www.radiodos.com.ar/211766-juan-pablo-valdes-superviso-las-obras-hidricas-sobre-el-arroyo-pirayui",
-      "title": "Juan Pablo Valdés supervisó las obras hídricas sobre el arroyo Pirayuí",
-      "volanta": "CAPITAL",
-      "date": "2026-08-04T13:45:24+00:00"
     }
   ]
 }
