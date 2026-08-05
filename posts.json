@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T17:26:44+00:00",
+  "updated": "2026-08-05T17:27:18+00:00",
   "posts": [
+    {
+      "id": "5af15ffc",
+      "image": "img/5af15ffc.png",
+      "image_sha": "e9fd59eeb3c59171942a4e9f6c4c82d03dc8a5a3",
+      "url": "https://www.radiodos.com.ar/211851-kike-fue-demorado-con-elementos-robados-esta-vinculado-a-varios-hechos-delictivos",
+      "title": "\"Kike\" fue demorado con elementos robados: está vinculado a varios hechos delictivos",
+      "volanta": "DIRECCIÓN GENERAL DE DELITOS COMPLEJOS E INFORMÁTICOS",
+      "date": "2026-08-05T17:27:18+00:00"
+    },
     {
       "id": "bb6025d7",
       "image": "img/bb6025d7.png",
@@ -531,15 +540,6 @@
       "title": "Crimen de Julián Álvarez Guardia: salieron a la luz fotos, chats y publicaciones atribuidas a la principal sospechosa",
       "volanta": "Chaco",
       "date": "2026-08-04T11:28:27+00:00"
-    },
-    {
-      "id": "6ca3178f",
-      "image": "img/6ca3178f.png",
-      "image_sha": "fc8bb823d275673ce1c5e9a9f7c1e1ec7d3597e5",
-      "url": "https://www.radiodos.com.ar/211750-robo-un-ecografo-en-el-chaco-e-intento-venderlo-en-corrientes-por-redes-sociales",
-      "title": "Robó un ecógrafo en el Chaco e intentó venderlo en Corrientes por redes sociales",
-      "volanta": "MANIOBRA ENCUBIERTA",
-      "date": "2026-08-04T11:02:55+00:00"
     }
   ]
 }
