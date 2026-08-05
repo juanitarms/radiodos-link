@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T18:45:26+00:00",
+  "updated": "2026-08-05T18:46:04+00:00",
   "posts": [
+    {
+      "id": "d232cbab",
+      "image": "img/d232cbab.png",
+      "image_sha": "9fe8a0eacbb97778c1d51877815c68c9bb6cd0a2",
+      "url": "https://www.radiodos.com.ar/211857-el-nuevo-camion-desobstructor-ya-intervino-en-15-puntos-de-la-ciudad-con-tareas-preventivas",
+      "title": "El nuevo camión desobstructor ya intervino en 15 puntos de la ciudad con tareas preventivas",
+      "volanta": "AMPLIO DESPLIEGUE",
+      "date": "2026-08-05T18:46:04+00:00"
+    },
     {
       "id": "07ea6f61",
       "image": "img/07ea6f61.png",
@@ -531,15 +540,6 @@
       "title": "Granizo y tormenta eléctrica en diversas zonas de Corrientes",
       "volanta": "CLIMA",
       "date": "2026-08-04T13:08:12+00:00"
-    },
-    {
-      "id": "21d124f9",
-      "image": "img/21d124f9.png",
-      "image_sha": "b8b5b9bc98803ee6d6c82235863bea5bc2eaaba3",
-      "url": "https://www.radiodos.com.ar/211757-corrientes-sera-sede-de-la-selectiva-regional-de-los-martin-fierro-de-la-danza-2026",
-      "title": "Corrientes será sede de la selectiva regional de los Martín Fierro de la Danza 2026",
-      "volanta": "Evaluaciones",
-      "date": "2026-08-04T12:50:09+00:00"
     }
   ]
 }
