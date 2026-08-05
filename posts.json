@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T10:20:27+00:00",
+  "updated": "2026-08-05T10:49:22+00:00",
   "posts": [
+    {
+      "id": "54fa4cc1",
+      "image": "img/54fa4cc1.png",
+      "image_sha": "3a8b06a407b0dce8ed0365c0286623f2a90a8154",
+      "url": "https://www.radiodos.com.ar/211808-conmocion-en-corrientes-se-investigaba-el-suicidio-de-una-adolescente-pero-ahora-se-sospecha-que-la-mataron-por-encargo",
+      "title": "Conmoción en Corrientes: se investigaba el suicidio de una adolescente, pero ahora se sospecha que la mataron \"por encargo\"",
+      "volanta": "ALVEAR",
+      "date": "2026-08-05T10:49:22+00:00"
+    },
     {
       "id": "f4926fe1",
       "image": "img/f4926fe1.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei embistió contra Victoria Villarruel: \"Todos saben que es opositora\"",
       "volanta": "CONTUNDENTE",
       "date": "2026-08-03T17:09:06+00:00"
-    },
-    {
-      "id": "ef8e1cfc",
-      "image": "img/ef8e1cfc.png",
-      "image_sha": "b30ad3645f46757784eb790bc2d6c67296a09ed8",
-      "url": "https://www.radiodos.com.ar/211729-salio-a-trabajar-y-la-encontraron-muerta-en-un-descampado-de-pilar-hay-un-detenido",
-      "title": "Salió a trabajar y la encontraron muerta en un descampado de Pilar: hay un detenido",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-03T17:08:26+00:00"
     }
   ]
 }
