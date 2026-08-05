@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T21:05:25+00:00",
+  "updated": "2026-08-05T21:06:57+00:00",
   "posts": [
+    {
+      "id": "19832433",
+      "image": "img/19832433.png",
+      "image_sha": "66d13cadc55d887774d9df61bc9a2d0c4065ded2",
+      "url": "https://www.radiodos.com.ar/211862-hallan-el-cuerpo-del-empresario-que-se-arrojo-desde-el-puente-chaco-corrientes",
+      "title": "Hallan el cuerpo del empresario que se arrojó desde el puente Chaco-Corrientes",
+      "volanta": "ESTA SIESTA",
+      "date": "2026-08-05T21:06:57+00:00"
+    },
     {
       "id": "3e0435b5",
       "image": "img/3e0435b5.png",
@@ -531,15 +540,6 @@
       "title": "Joven acusada de matar a su novio:  \"Es la responsable\", dijo el abogado de la querella",
       "volanta": "DR. JUAN ARREGÍN",
       "date": "2026-08-04T14:24:47+00:00"
-    },
-    {
-      "id": "2cebcce8",
-      "image": "img/2cebcce8.png",
-      "image_sha": "87b159debe301e505fb94e32103e9befa6443823",
-      "url": "https://www.radiodos.com.ar/211765-hermana-de-julian-alvarez-guardia-antes-de-morir-mi-hermano-confeso-que-victoria-lo-apunalo",
-      "title": "Hermana de Julián Álvarez Guardia: \"Antes de morir mi hermano confesó que Victoria lo apuñaló\"",
-      "volanta": "CHACO",
-      "date": "2026-08-04T14:07:49+00:00"
     }
   ]
 }
