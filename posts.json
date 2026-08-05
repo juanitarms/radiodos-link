@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-04T23:12:29+00:00",
+  "updated": "2026-08-05T10:20:27+00:00",
   "posts": [
+    {
+      "id": "f4926fe1",
+      "image": "img/f4926fe1.png",
+      "image_sha": "74133f265f9e7af799b4720db4c356bd2b5f3c83",
+      "url": "https://www.radiodos.com.ar/211807-reculo-el-gobierno-suspendio-el-decreto-acordo-con-los-practicos-y-se-normalizo-la-navegacion-en-los-puertos",
+      "title": "Reculó el Gobierno: suspendió el decreto, acordó con los prácticos y se normalizó la navegación en los puertos",
+      "volanta": "NEGOCIACIÓN",
+      "date": "2026-08-05T10:20:27+00:00"
+    },
     {
       "id": "b9c90f05",
       "image": "img/b9c90f05.png",
@@ -531,15 +540,6 @@
       "title": "Salió a trabajar y la encontraron muerta en un descampado de Pilar: hay un detenido",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-03T17:08:26+00:00"
-    },
-    {
-      "id": "44a130c3",
-      "image": "img/44a130c3.png",
-      "image_sha": "2857dd0ee79beefdb0c9a9c58b0f6ed7ffdcbf22",
-      "url": "https://www.radiodos.com.ar/211730-la-joaqui-fue-contundente-al-hablar-de-luck-ra-tras-la-ruptura-no-tengo-nada",
-      "title": "La Joaqui fue contundente al hablar de Luck Ra tras la ruptura: \"No tengo nada...\"",
-      "volanta": "SINCERA",
-      "date": "2026-08-03T16:16:22+00:00"
     }
   ]
 }
