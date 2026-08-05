@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T17:27:49+00:00",
+  "updated": "2026-08-05T18:44:53+00:00",
   "posts": [
+    {
+      "id": "ebe346e1",
+      "image": "img/ebe346e1.png",
+      "image_sha": "313ba3aa110700afb613580883d10705850d9c0e",
+      "url": "https://www.radiodos.com.ar/211858-gigared-continua-su-expansion-en-corrientes-y-anuncia-su-llegada-a-esquina-empedrado-san-isidro-y-libertador",
+      "title": "Gigared continúa su expansión en Corrientes y anuncia su llegada a Esquina, Empedrado, San Isidro y Libertador",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-05T18:44:53+00:00"
+    },
     {
       "id": "768e036b",
       "image": "img/768e036b.png",
@@ -531,15 +540,6 @@
       "title": "Tres mayores y un menor detenidos por vender droga en una plaza de Corrientes",
       "volanta": "AYER",
       "date": "2026-08-04T12:34:36+00:00"
-    },
-    {
-      "id": "948bf495",
-      "image": "img/948bf495.png",
-      "image_sha": "b104d668f17b1f372482a3a566f1cfa49b443e62",
-      "url": "https://www.radiodos.com.ar/211754-caso-loan-leiro-critico-al-fiscal-y-aseguro-que-su-defendido-solo-vino-para-colaborar",
-      "title": "Caso Loan: Leiro criticó al Fiscal y aseguró que su defendido \"sólo vino para colaborar\"",
-      "volanta": "ABOGADO DE ALAN CAÑETE",
-      "date": "2026-08-04T12:12:09+00:00"
     }
   ]
 }
