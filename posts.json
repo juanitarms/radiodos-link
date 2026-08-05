@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T14:48:37+00:00",
+  "updated": "2026-08-05T15:14:48+00:00",
   "posts": [
+    {
+      "id": "0ebe24f7",
+      "image": "img/0ebe24f7.png",
+      "image_sha": "fab7be8f5f3df81a13228db57db288a70d3d762c",
+      "url": "https://www.radiodos.com.ar/211844-el-angustiante-mensaje-de-bautista-mascia-por-la-salud-de-denisse-gonzalez-manden-su-energia",
+      "title": "El angustiante mensaje de Bautista Mascia por la salud de Denisse González: \"Manden su energía\"",
+      "volanta": "COMPAÑERO",
+      "date": "2026-08-05T15:14:48+00:00"
+    },
     {
       "id": "10832c95",
       "image": "img/10832c95.png",
@@ -531,15 +540,6 @@
       "title": "Con la violencia laboral al frente, el Jury de Corrientes reveló los números de la sanción a jueces y fiscales",
       "volanta": "Radiografía al Poder Judicial",
       "date": "2026-08-03T21:17:49+00:00"
-    },
-    {
-      "id": "547b8125",
-      "image": "img/547b8125.png",
-      "image_sha": "9bc0a33e8248ed622add18350861ebdc2986f3bd",
-      "url": "https://www.radiodos.com.ar/211740-era-una-relacion-toxica-denuncio-una-hermana-del-joven-presuntamente-asesinado-por-su-novia-en-chaco",
-      "title": "\"Era una relación tóxica\", denunció una hermana del joven presuntamente asesinado por su novia en Chaco",
-      "volanta": "Resistencia",
-      "date": "2026-08-03T20:34:43+00:00"
     }
   ]
 }
