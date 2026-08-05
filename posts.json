@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T22:17:57+00:00",
+  "updated": "2026-08-05T22:19:16+00:00",
   "posts": [
+    {
+      "id": "6411ae7e",
+      "image": "img/6411ae7e.png",
+      "image_sha": "80c2516ea28f7d1a0feddc4dd93c30934a751825",
+      "url": "https://www.radiodos.com.ar/211865-pablo-alonso-los-clubes-deben-tener-en-claro-sus-objetivos-porque-no-todos-pueden-jugar-torneos-semiprofesionales",
+      "title": "Pablo Alonso: \"Los clubes deben tener en claro sus objetivos, porque no todos pueden jugar torneos semiprofesionales\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-08-05T22:19:16+00:00"
+    },
     {
       "id": "f673f6c5",
       "image": "img/f673f6c5.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio en Rosario: asesinaron a una mujer de una puñalada en el cuello y por el crimen detuvieron a su novio",
       "volanta": "SANTA FE",
       "date": "2026-08-04T16:22:55+00:00"
-    },
-    {
-      "id": "324970d8",
-      "image": "img/324970d8.png",
-      "image_sha": "87030a574b9bb2b9d8e04bf8ba2609db6b02b50d",
-      "url": "https://www.radiodos.com.ar/211773-juan-bautista-mahiques-anuncio-que-el-gobierno-envio-203-pliegos-judiciales-al-senado-para-cubrir-vacantes",
-      "title": "Juan Bautista Mahiques anunció que el Gobierno envió 203 pliegos judiciales al Senado para cubrir vacantes",
-      "volanta": "NOVEDAD",
-      "date": "2026-08-04T16:22:21+00:00"
     }
   ]
 }
