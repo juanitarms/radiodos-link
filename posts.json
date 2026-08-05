@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T17:03:42+00:00",
+  "updated": "2026-08-05T17:04:13+00:00",
   "posts": [
+    {
+      "id": "36da3ad6",
+      "image": "img/36da3ad6.png",
+      "image_sha": "79e90dd2141640d1272a547fe1e007dc4532580b",
+      "url": "https://www.radiodos.com.ar/211847-fortalece-la-prevencion-del-dengue-con-capacitaciones-y-entrega-de-kits",
+      "title": "Fortalece la prevención del dengue con capacitaciones y entrega de kits",
+      "volanta": "Gobierno de Corrientes",
+      "date": "2026-08-05T17:04:13+00:00"
+    },
     {
       "id": "ec0e3617",
       "image": "img/ec0e3617.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-08-03T22:04:55+00:00"
-    },
-    {
-      "id": "7946ee34",
-      "image": "img/7946ee34.png",
-      "image_sha": "e42021d84dd27d2d48d494d23f1ad127850c9608",
-      "url": "https://www.radiodos.com.ar/211746-denuncian-a-un-hombre-por-atacar-a-chicotazos-a-un-jinete-en-un-campo",
-      "title": "Denuncian a un hombre por atacar a chicotazos a un jinete en un campo",
-      "volanta": "Interior de Corrientes",
-      "date": "2026-08-03T21:50:11+00:00"
     }
   ]
 }
