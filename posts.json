@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T16:13:07+00:00",
+  "updated": "2026-08-05T16:13:39+00:00",
   "posts": [
+    {
+      "id": "350c643c",
+      "image": "img/350c643c.png",
+      "image_sha": "4ac068b1996e8b946559140eb466d7fd8b829b01",
+      "url": "https://www.radiodos.com.ar/211846-no-importa-si-me-sorprende-la-tajante-reaccion-de-eva-bargiela-tras-la-detencion-de-facundo-moyano",
+      "title": "\"No importa si me sorprende\": la tajante reacción de Eva Bargiela tras la detención de Facundo Moyano",
+      "volanta": "SINCERA",
+      "date": "2026-08-05T16:13:39+00:00"
+    },
     {
       "id": "d0a5293b",
       "image": "img/d0a5293b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: demoran a dos hombres por presuntas estafas en la venta de maquinarias de panadería que no funcionaban",
       "volanta": "GENERAL PAZ",
       "date": "2026-08-03T21:43:10+00:00"
-    },
-    {
-      "id": "5e71192f",
-      "image": "img/5e71192f.png",
-      "image_sha": "3cfb4a6d67ee63c53d40e1bb39064517f8088328",
-      "url": "https://www.radiodos.com.ar/211743-donatti-necesitaba-volver-a-un-club-en-el-que-me-sentia-comodo",
-      "title": "Donatti: \"Necesitaba volver a un club en el que me sentía cómodo\"",
-      "volanta": "Federal A",
-      "date": "2026-08-03T21:42:20+00:00"
     }
   ]
 }
