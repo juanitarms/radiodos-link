@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T16:14:09+00:00",
+  "updated": "2026-08-05T17:03:42+00:00",
   "posts": [
+    {
+      "id": "ec0e3617",
+      "image": "img/ec0e3617.png",
+      "image_sha": "2d1ba1dbd84f452bc79b9ff6c5fad857aab38615",
+      "url": "https://www.radiodos.com.ar/211848-elian-centeno-llega-a-regatas",
+      "title": "Elián Centeno llega a Regatas",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-08-05T17:03:42+00:00"
+    },
     {
       "id": "ce9dbd69",
       "image": "img/ce9dbd69.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian a un hombre por atacar a chicotazos a un jinete en un campo",
       "volanta": "Interior de Corrientes",
       "date": "2026-08-03T21:50:11+00:00"
-    },
-    {
-      "id": "5600f4fb",
-      "image": "img/5600f4fb.png",
-      "image_sha": "389e19e87f3c8837395b68585e9fef7330368c9d",
-      "url": "https://www.radiodos.com.ar/211744-la-seleccion-argentina-tendria-su-reencuentro-con-la-gente-en-septiembre",
-      "title": "La Selección argentina tendría su reencuentro con la gente en septiembre",
-      "volanta": "Amistoso",
-      "date": "2026-08-03T21:48:21+00:00"
     }
   ]
 }
