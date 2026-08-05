@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T18:44:53+00:00",
+  "updated": "2026-08-05T18:45:26+00:00",
   "posts": [
+    {
+      "id": "07ea6f61",
+      "image": "img/07ea6f61.png",
+      "image_sha": "8b20dc5c48c5ac6502626a587906450769015690",
+      "url": "https://www.radiodos.com.ar/211856-corrientes-se-moviliza-este-6-de-agosto-contra-la-ley-de-extranjerizacion-y-desalojos",
+      "title": "Corrientes se moviliza este 6 de agosto contra la ley de extranjerización y desalojos",
+      "volanta": "EL PAÍS NO SE VENDE",
+      "date": "2026-08-05T18:45:26+00:00"
+    },
     {
       "id": "ebe346e1",
       "image": "img/ebe346e1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes será sede de la selectiva regional de los Martín Fierro de la Danza 2026",
       "volanta": "Evaluaciones",
       "date": "2026-08-04T12:50:09+00:00"
-    },
-    {
-      "id": "f3e6b724",
-      "image": "img/f3e6b724.png",
-      "image_sha": "1764d5f98dc32a5981a4076a4dcdce6842967feb",
-      "url": "https://www.radiodos.com.ar/211756-tres-mayores-y-un-menor-detenidos-por-vender-droga-en-una-plaza-de-corrientes",
-      "title": "Tres mayores y un menor detenidos por vender droga en una plaza de Corrientes",
-      "volanta": "AYER",
-      "date": "2026-08-04T12:34:36+00:00"
     }
   ]
 }
