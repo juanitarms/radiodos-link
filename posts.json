@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T21:06:57+00:00",
+  "updated": "2026-08-05T21:08:19+00:00",
   "posts": [
+    {
+      "id": "a060f2fb",
+      "image": "img/a060f2fb.png",
+      "image_sha": "a57fecb2f217e3863b823b94e67a96856dadc84c",
+      "url": "https://www.radiodos.com.ar/211859-por-presion-de-los-bloques-aliados-el-gobierno-nacional-retiro-el-capitulo-de-extranjerizacion-de-tierras",
+      "title": "Por presión de los bloques aliados, el Gobierno Nacional retiró el capítulo de extranjerización de tierras",
+      "volanta": "SENADO NACIONAL",
+      "date": "2026-08-05T21:08:19+00:00"
+    },
     {
       "id": "19832433",
       "image": "img/19832433.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a Facundo Moyano tras una denuncia por violencia de género",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-04T14:42:24+00:00"
-    },
-    {
-      "id": "7c66438b",
-      "image": "img/7c66438b.png",
-      "image_sha": "698d4c00bda8122adce1a22657cc366ea7d5d4c3",
-      "url": "https://www.radiodos.com.ar/211770-joven-acusada-de-matar-a-su-novio-es-la-responsable-dijo-el-abogado-de-la-querella",
-      "title": "Joven acusada de matar a su novio:  \"Es la responsable\", dijo el abogado de la querella",
-      "volanta": "DR. JUAN ARREGÍN",
-      "date": "2026-08-04T14:24:47+00:00"
     }
   ]
 }
