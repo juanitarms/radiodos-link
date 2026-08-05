@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T22:03:39+00:00",
+  "updated": "2026-08-05T22:17:57+00:00",
   "posts": [
+    {
+      "id": "f673f6c5",
+      "image": "img/f673f6c5.png",
+      "image_sha": "5d6f887013dee91d89bafc060190b5c5523ec8e4",
+      "url": "https://www.radiodos.com.ar/211866-veronica-espindola-se-reunio-con-el-gobernador-para-coordinar-acciones-ante-el-fenomeno-de-el-nino",
+      "title": "Verónica Espíndola se reunió con el gobernador para coordinar acciones ante el fenómeno de El Niño",
+      "volanta": "TRABAJO ARTICULADO",
+      "date": "2026-08-05T22:17:57+00:00"
+    },
     {
       "id": "1d1918e5",
       "image": "img/1d1918e5.png",
@@ -531,15 +540,6 @@
       "title": "Juan Bautista Mahiques anunció que el Gobierno envió 203 pliegos judiciales al Senado para cubrir vacantes",
       "volanta": "NOVEDAD",
       "date": "2026-08-04T16:22:21+00:00"
-    },
-    {
-      "id": "4cb6fc50",
-      "image": "img/4cb6fc50.png",
-      "image_sha": "5d429072c91a03b745a70b88cee0efec797651ef",
-      "url": "https://www.radiodos.com.ar/211771-quien-es-candela-arizaga-la-modelo-que-denuncio-a-facundo-moyano-por-violencia-de-genero",
-      "title": "Quién es Candela Arizaga, la modelo que denunció a Facundo Moyano por violencia de género",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-04T14:56:11+00:00"
     }
   ]
 }
