@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T17:04:44+00:00",
+  "updated": "2026-08-05T17:26:44+00:00",
   "posts": [
+    {
+      "id": "bb6025d7",
+      "image": "img/bb6025d7.png",
+      "image_sha": "0f73327ff836e8d4ff9603195ffcef53c986ff15",
+      "url": "https://www.radiodos.com.ar/211850-con-un-amplio-operativo-corrientes-cerca-estara-en-el-barrio-rio-parana-de-la-capital",
+      "title": "Con un amplio operativo, \"Corrientes Cerca\" estará en el barrio Rio Paraná de la Capital",
+      "volanta": "ESTE SÁBADO",
+      "date": "2026-08-05T17:26:44+00:00"
+    },
     {
       "id": "7c2af99a",
       "image": "img/7c2af99a.png",
@@ -531,15 +540,6 @@
       "title": "Robó un ecógrafo en el Chaco e intentó venderlo en Corrientes por redes sociales",
       "volanta": "MANIOBRA ENCUBIERTA",
       "date": "2026-08-04T11:02:55+00:00"
-    },
-    {
-      "id": "11df5616",
-      "image": "img/11df5616.png",
-      "image_sha": "48a78bbfa1eca9beef0b0181961849e809ebef38",
-      "url": "https://www.radiodos.com.ar/211751-alerta-amarilla-para-el-norte-de-corrientes-tormentas-fuertes-y-chaparrones",
-      "title": "Alerta amarilla para el norte de Corrientes: tormentas fuertes y chaparrones",
-      "volanta": "Pronóstico",
-      "date": "2026-08-04T10:48:57+00:00"
     }
   ]
 }
