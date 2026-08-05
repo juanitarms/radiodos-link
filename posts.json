@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T11:41:40+00:00",
+  "updated": "2026-08-05T12:03:42+00:00",
   "posts": [
+    {
+      "id": "a5cb0b2b",
+      "image": "img/a5cb0b2b.png",
+      "image_sha": "1e43fb3ed0ca41186e6b81166a88b9b8dcbd2933",
+      "url": "https://www.radiodos.com.ar/211812-super-pozo-de-la-poceada-dos-correntinos-ganaron-mas-de-327-millones",
+      "title": "Super pozo de La Poceada: dos correntinos ganaron más de $327 millones",
+      "volanta": "CAPITAL",
+      "date": "2026-08-05T12:03:42+00:00"
+    },
     {
       "id": "97c582b4",
       "image": "img/97c582b4.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdes junto a autoridades nacionales participa en Chaco de la reunión del Consejo Regional de Seguridad Interior",
       "volanta": "TRABANO CONJUNTO",
       "date": "2026-08-03T18:23:26+00:00"
-    },
-    {
-      "id": "415ce7e7",
-      "image": "img/415ce7e7.png",
-      "image_sha": "c362f804c73436e778b9fa8c24993c3f41a349c7",
-      "url": "https://www.radiodos.com.ar/211732-nuevo-escandalo-bailarina-acuso-un-programa-de-streaming-de-burlarse-de-ella-y-apunto-contra-nico-occhiato",
-      "title": "Nuevo escándalo: bailarina acusó un programa de streaming de burlarse de ella y apuntó contra Nico Occhiato",
-      "volanta": "LUZU NO TIENE PAZ",
-      "date": "2026-08-03T18:22:56+00:00"
     }
   ]
 }
