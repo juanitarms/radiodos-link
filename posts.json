@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T13:30:23+00:00",
+  "updated": "2026-08-05T14:03:07+00:00",
   "posts": [
+    {
+      "id": "12728c34",
+      "image": "img/12728c34.png",
+      "image_sha": "7dbabcc61e3f7cc33028664be5494b0678f01ed9",
+      "url": "https://www.radiodos.com.ar/211837-que-implica-que-brasil-retire-a-su-embajador-en-argentina-a-raiz-de-los-reiterados-exabruptos-de-javier-milei",
+      "title": "Qué implica que Brasil retire a su embajador en Argentina a raíz de los reiterados exabruptos de Javier Milei",
+      "volanta": "RELACIONES INTERNACIONALES",
+      "date": "2026-08-05T14:03:07+00:00"
+    },
     {
       "id": "d85f84e4",
       "image": "img/d85f84e4.png",
@@ -531,15 +540,6 @@
       "title": "Valdés participó de la cumbre en Resistencia para coordinar acciones federales ante la inminencia del fenómeno El Niño",
       "volanta": "Este lunes",
       "date": "2026-08-03T20:27:40+00:00"
-    },
-    {
-      "id": "c5e7b775",
-      "image": "img/c5e7b775.png",
-      "image_sha": "dbc3e1d996c6409b60c9568360bfce684beb1ca1",
-      "url": "https://www.radiodos.com.ar/211735-mas-poder-y-renovacion-pochettino-seguira-al-frente-de-estados-unidos-hasta-el-mundial-2030",
-      "title": "Más poder y renovación: Pochettino seguirá al frente de Estados Unidos hasta el Mundial 2030",
-      "volanta": "SELECCIÓN",
-      "date": "2026-08-03T19:14:50+00:00"
     }
   ]
 }
