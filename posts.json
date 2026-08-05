@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T16:13:39+00:00",
+  "updated": "2026-08-05T16:14:09+00:00",
   "posts": [
+    {
+      "id": "ce9dbd69",
+      "image": "img/ce9dbd69.png",
+      "image_sha": "e61e6f8c3c842aca567af7b04b76ab5981994ca8",
+      "url": "https://www.radiodos.com.ar/211845-wanda-nara-sumo-un-nuevo-triunfo-en-la-justicia-contra-mauro-icardi-embargado-por",
+      "title": "Wanda Nara sumó un nuevo triunfo en la Justicia contra Mauro Icardi: \"Embargado por...\"",
+      "volanta": "BUENA NOTICIA",
+      "date": "2026-08-05T16:14:09+00:00"
+    },
     {
       "id": "350c643c",
       "image": "img/350c643c.png",
@@ -531,15 +540,6 @@
       "title": "La Selección argentina tendría su reencuentro con la gente en septiembre",
       "volanta": "Amistoso",
       "date": "2026-08-03T21:48:21+00:00"
-    },
-    {
-      "id": "032759df",
-      "image": "img/032759df.png",
-      "image_sha": "68aef587ab376f5f0b37beb3360cf3b703e700f0",
-      "url": "https://www.radiodos.com.ar/211745-corrientes-demoran-a-dos-hombres-por-presuntas-estafas-en-la-venta-de-maquinarias-de-panaderia-que-no-funcionaban",
-      "title": "Corrientes: demoran a dos hombres por presuntas estafas en la venta de maquinarias de panadería que no funcionaban",
-      "volanta": "GENERAL PAZ",
-      "date": "2026-08-03T21:43:10+00:00"
     }
   ]
 }
