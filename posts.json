@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T17:27:18+00:00",
+  "updated": "2026-08-05T17:27:49+00:00",
   "posts": [
+    {
+      "id": "768e036b",
+      "image": "img/768e036b.png",
+      "image_sha": "4c6fe1e3d64d34d00a4f294573bb10979d131b4c",
+      "url": "https://www.radiodos.com.ar/211853-el-banco-central-alerto-sobre-nuevas-modalidades-de-estafas-virtuales-cuales-son-y-como-evitarlas",
+      "title": "El Banco Central alertó sobre nuevas modalidades de estafas virtuales: cuáles son y cómo evitarlas",
+      "volanta": "INFORMACIÓN ÚTIL",
+      "date": "2026-08-05T17:27:49+00:00"
+    },
     {
       "id": "5af15ffc",
       "image": "img/5af15ffc.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: Leiro criticó al Fiscal y aseguró que su defendido \"sólo vino para colaborar\"",
       "volanta": "ABOGADO DE ALAN CAÑETE",
       "date": "2026-08-04T12:12:09+00:00"
-    },
-    {
-      "id": "1f6e79f3",
-      "image": "img/1f6e79f3.png",
-      "image_sha": "ad071c2127322a6416b5e97a5d66956f519fd213",
-      "url": "https://www.radiodos.com.ar/211752-crimen-de-julian-alvarez-guardia-salieron-a-la-luz-fotos-chats-y-publicaciones-atribuidas-a-la-principal-sospechosa",
-      "title": "Crimen de Julián Álvarez Guardia: salieron a la luz fotos, chats y publicaciones atribuidas a la principal sospechosa",
-      "volanta": "Chaco",
-      "date": "2026-08-04T11:28:27+00:00"
     }
   ]
 }
