@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T21:01:26+00:00",
+  "updated": "2026-08-05T21:02:32+00:00",
   "posts": [
+    {
+      "id": "4d4819f3",
+      "image": "img/4d4819f3.png",
+      "image_sha": "50338bb36964742f7f8d0df5da25823cd870748c",
+      "url": "https://www.radiodos.com.ar/211861-grave-incidente-de-violencia-entre-alumnos-en-un-colegio-del-interior-de-corrientes-activa-protocolos-y-derivacion-a-autoridades",
+      "title": "Grave incidente de violencia entre alumnos en un colegio del interior de Corrientes activa protocolos y derivación a autoridades",
+      "volanta": "GRAVE",
+      "date": "2026-08-05T21:02:32+00:00"
+    },
     {
       "id": "2552656e",
       "image": "img/2552656e.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés supervisó las obras hídricas sobre el arroyo Pirayuí",
       "volanta": "CAPITAL",
       "date": "2026-08-04T13:45:24+00:00"
-    },
-    {
-      "id": "8d6001e5",
-      "image": "img/8d6001e5.png",
-      "image_sha": "692e8a5d59af70505578890e8d1bc0c179923158",
-      "url": "https://www.radiodos.com.ar/211749-un-nene-de-tres-anos-fue-atropellado-por-una-camioneta-tras-cruzar-la-calle",
-      "title": "Un nene de tres años fue atropellado por una camioneta tras cruzar la calle",
-      "volanta": "Monte Caseros",
-      "date": "2026-08-04T13:23:43+00:00"
     }
   ]
 }
