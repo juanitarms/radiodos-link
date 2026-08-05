@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T14:24:04+00:00",
+  "updated": "2026-08-05T14:48:37+00:00",
   "posts": [
+    {
+      "id": "10832c95",
+      "image": "img/10832c95.png",
+      "image_sha": "c17380a39596809313a87aeaae08315ba4689ee9",
+      "url": "https://www.radiodos.com.ar/211843-la-sorpresiva-reaccion-de-antonela-roccuzzo-a-un-posteo-de-georgina-rodriguez-tras-criticas-a-su-fisico",
+      "title": "La sorpresiva reacción de Antonela Roccuzzo a un posteo de Georgina Rodríguez tras críticas a su físico",
+      "volanta": "SORORIDAD",
+      "date": "2026-08-05T14:48:37+00:00"
+    },
     {
       "id": "3476f94c",
       "image": "img/3476f94c.png",
@@ -531,15 +540,6 @@
       "title": "\"Era una relación tóxica\", denunció una hermana del joven presuntamente asesinado por su novia en Chaco",
       "volanta": "Resistencia",
       "date": "2026-08-03T20:34:43+00:00"
-    },
-    {
-      "id": "da72d7cf",
-      "image": "img/da72d7cf.png",
-      "image_sha": "b6e2d5095fb2438943a13fdf05745b821994645a",
-      "url": "https://www.radiodos.com.ar/211739-el-municipio-saneo-un-basural-en-el-hipodromo-e-intensifica-controles-con-camaras-y-carteleria",
-      "title": "El Municipio saneó un basural en el Hipódromo e intensifica controles con cámaras y cartelería",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-03T20:33:24+00:00"
     }
   ]
 }
