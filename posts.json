@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T15:14:48+00:00",
+  "updated": "2026-08-05T16:12:36+00:00",
   "posts": [
+    {
+      "id": "c1dfcfd0",
+      "image": "img/c1dfcfd0.png",
+      "image_sha": "848c7b04dce445ef9998a1fa3f2dffc7063f6601",
+      "url": "https://www.radiodos.com.ar/211842-caso-loan-nicolas-el-americano-soria-declarara-despues-de-los-testigos",
+      "title": "Caso Loan: Nicolás \"El Americano\" Soria declarará después de los testigos",
+      "volanta": "JUICIO",
+      "date": "2026-08-05T16:12:36+00:00"
+    },
     {
       "id": "0ebe24f7",
       "image": "img/0ebe24f7.png",
@@ -531,15 +540,6 @@
       "title": "Robaron y causaron destrozos en una escuela del interior de Corrientes",
       "volanta": "LIBRES",
       "date": "2026-08-03T21:18:30+00:00"
-    },
-    {
-      "id": "1f4a6d95",
-      "image": "img/1f4a6d95.png",
-      "image_sha": "0466927db014acaae33e66f6404dc38af9a07545",
-      "url": "https://www.radiodos.com.ar/211741-con-la-violencia-laboral-al-frente-el-jury-de-corrientes-revelo-los-numeros-de-la-sancion-a-jueces-y-fiscales",
-      "title": "Con la violencia laboral al frente, el Jury de Corrientes reveló los números de la sanción a jueces y fiscales",
-      "volanta": "Radiografía al Poder Judicial",
-      "date": "2026-08-03T21:17:49+00:00"
     }
   ]
 }
