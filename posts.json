@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T12:03:42+00:00",
+  "updated": "2026-08-05T12:39:28+00:00",
   "posts": [
+    {
+      "id": "0ef84315",
+      "image": "img/0ef84315.png",
+      "image_sha": "fdbbfec4a35fe6384c8e3d4762e15aa7431988df",
+      "url": "https://www.radiodos.com.ar/211822-san-martin-continua-invirtiendo-en-infraestructura-culmina-la-obra-de-la-cancha-principal",
+      "title": "San Martín continúa invirtiendo en infraestructura: culmina la obra de la cancha principal",
+      "volanta": "Comienza la remodelación del parquet de la cancha auxiliar",
+      "date": "2026-08-05T12:39:28+00:00"
+    },
     {
       "id": "a5cb0b2b",
       "image": "img/a5cb0b2b.png",
@@ -531,15 +540,6 @@
       "title": "Cinzia rompió el silencio tras su salida de Gran Hermano: \"Tengo el corazón roto\"",
       "volanta": "DESPEDIDA",
       "date": "2026-08-03T19:13:48+00:00"
-    },
-    {
-      "id": "4d03d8b3",
-      "image": "img/4d03d8b3.png",
-      "image_sha": "c6a8da3c8b4e10e3d7480f74ee136cb41a13b18e",
-      "url": "https://www.radiodos.com.ar/211731-jp-valdes-junto-a-autoridades-nacionales-participa-en-chaco-de-la-reunion-del-consejo-regional-de-seguridad-interior",
-      "title": "JP Valdes junto a autoridades nacionales participa en Chaco de la reunión del Consejo Regional de Seguridad Interior",
-      "volanta": "TRABANO CONJUNTO",
-      "date": "2026-08-03T18:23:26+00:00"
     }
   ]
 }
