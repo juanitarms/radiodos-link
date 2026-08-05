@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T12:39:28+00:00",
+  "updated": "2026-08-05T12:52:44+00:00",
   "posts": [
+    {
+      "id": "09f39428",
+      "image": "img/09f39428.png",
+      "image_sha": "9dd14253639331bbcbcfec8b53e0def2ac2741f4",
+      "url": "https://www.radiodos.com.ar/211813-confirmado-el-papa-leon-xiv-viene-a-la-argentina-entre-el-8-y-el-11-de-noviembre",
+      "title": "Confirmado: el papa León XIV viene a la Argentina entre el 8 y el 11 de noviembre",
+      "volanta": "A VARIAS CIUDADES",
+      "date": "2026-08-05T12:52:44+00:00"
+    },
     {
       "id": "0ef84315",
       "image": "img/0ef84315.png",
@@ -531,15 +540,6 @@
       "title": "Tuli Acosta compartió un inoportuno vídeo: ¿indirecta para La Joaqui?",
       "volanta": "POLÉMICA",
       "date": "2026-08-03T19:14:20+00:00"
-    },
-    {
-      "id": "e243a4d8",
-      "image": "img/e243a4d8.png",
-      "image_sha": "7149b4f766b7b0c9423d88cb4022f88becb000ae",
-      "url": "https://www.radiodos.com.ar/211734-cinzia-rompio-el-silencio-tras-su-salida-de-gran-hermano-tengo-el-corazon-roto",
-      "title": "Cinzia rompió el silencio tras su salida de Gran Hermano: \"Tengo el corazón roto\"",
-      "volanta": "DESPEDIDA",
-      "date": "2026-08-03T19:13:48+00:00"
     }
   ]
 }
