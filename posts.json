@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T21:08:19+00:00",
+  "updated": "2026-08-05T22:03:39+00:00",
   "posts": [
+    {
+      "id": "1d1918e5",
+      "image": "img/1d1918e5.png",
+      "image_sha": "18a022fc7d9d3b51dfabb75bc05bd9c9a28f80b5",
+      "url": "https://www.radiodos.com.ar/211864-la-pobreza-subio-en-el-pais-y-afecta-al-384-de-los-habitantes-de-la-capital-correntina",
+      "title": "La pobreza subió en el país y afecta al 38,4% de los habitantes de la capital correntina",
+      "volanta": "SEGÚN LA UCA",
+      "date": "2026-08-05T22:03:39+00:00"
+    },
     {
       "id": "a060f2fb",
       "image": "img/a060f2fb.png",
@@ -531,15 +540,6 @@
       "title": "Quién es Candela Arizaga, la modelo que denunció a Facundo Moyano por violencia de género",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-04T14:56:11+00:00"
-    },
-    {
-      "id": "7caa49cf",
-      "image": "img/7caa49cf.png",
-      "image_sha": "feeb7a3053c2e7253fd108cef0a7707e77a6fa38",
-      "url": "https://www.radiodos.com.ar/211769-detuvieron-a-facundo-moyano-tras-una-denuncia-por-violencia-de-genero",
-      "title": "Detuvieron a Facundo Moyano tras una denuncia por violencia de género",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-04T14:42:24+00:00"
     }
   ]
 }
