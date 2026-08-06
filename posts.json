@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T18:54:47+00:00",
+  "updated": "2026-08-06T18:55:20+00:00",
   "posts": [
+    {
+      "id": "80c989c4",
+      "image": "img/80c989c4.png",
+      "image_sha": "ea2570e5fb324ba2f9b92ffb23f470a4d1392194",
+      "url": "https://www.radiodos.com.ar/211900-desde-lali-esposito-hasta-emilia-mernes-los-famosos-que-convocaron-a-marchar-contra-la-ley-de-tierras",
+      "title": "Desde Lali Espósito hasta Emilia Mernes: los famosos que convocaron a marchar contra la Ley de Tierras",
+      "volanta": "COMPROMETIDOS",
+      "date": "2026-08-06T18:55:20+00:00"
+    },
     {
       "id": "1a861ade",
       "image": "img/1a861ade.png",
@@ -531,15 +540,6 @@
       "title": "El puente Chaco-Corrientes superó los 19.000 vehículos diarios en 2025,",
       "volanta": "DATOS OFICIALES",
       "date": "2026-08-04T21:06:23+00:00"
-    },
-    {
-      "id": "8bea36a6",
-      "image": "img/8bea36a6.png",
-      "image_sha": "9a65374eb7844db02ea4ff94b736f17d655ed7d5",
-      "url": "https://www.radiodos.com.ar/211800-la-policia-de-corrientes-recupero-elementos-robados-por-piratas-del-asfalto-a-un-camion-varado-en-la-ruta",
-      "title": "La Policía de Corrientes recuperó elementos robados por \"piratas del asfalto\" a un camión varado en la ruta",
-      "volanta": "CERCA DE MERCEDES",
-      "date": "2026-08-04T21:04:21+00:00"
     }
   ]
 }
