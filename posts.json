@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:36:49+00:00",
+  "updated": "2026-08-06T21:37:27+00:00",
   "posts": [
+    {
+      "id": "32777f30",
+      "image": "img/32777f30.png",
+      "image_sha": "f4e6d720c4bac9266ed1a9f45a6bfad8ab346fd4",
+      "url": "https://www.radiodos.com.ar/211921-condenaron-a-dos-anos-de-prision-en-suspenso-al-joven-que-atropello-y-mato-a-un-soldado",
+      "title": "Condenaron a dos años de prisión en suspenso al joven que atropelló y mató a un soldado",
+      "volanta": "MERCEDES",
+      "date": "2026-08-06T21:37:27+00:00"
+    },
     {
       "id": "f9686860",
       "image": "img/f9686860.png",
@@ -531,15 +540,6 @@
       "title": "Confirmado: el papa León XIV viene a la Argentina entre el 8 y el 11 de noviembre",
       "volanta": "A VARIAS CIUDADES",
       "date": "2026-08-05T12:52:44+00:00"
-    },
-    {
-      "id": "0ef84315",
-      "image": "img/0ef84315.png",
-      "image_sha": "fdbbfec4a35fe6384c8e3d4762e15aa7431988df",
-      "url": "https://www.radiodos.com.ar/211822-san-martin-continua-invirtiendo-en-infraestructura-culmina-la-obra-de-la-cancha-principal",
-      "title": "San Martín continúa invirtiendo en infraestructura: culmina la obra de la cancha principal",
-      "volanta": "Comienza la remodelación del parquet de la cancha auxiliar",
-      "date": "2026-08-05T12:39:28+00:00"
     }
   ]
 }
