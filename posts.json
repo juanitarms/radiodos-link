@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T23:31:17+00:00",
+  "updated": "2026-08-06T23:36:36+00:00",
   "posts": [
+    {
+      "id": "773fa179",
+      "image": "img/773fa179.png",
+      "image_sha": "4358ad650f0449c11c54b1e5f9249f5d3ed264d9",
+      "url": "https://www.radiodos.com.ar/211907-la-policia-dio-numeros-contundentes-sobre-la-lucha-contra-el-narcomenudeo-en-corrientes",
+      "title": "La Policía dio números contundentes sobre la lucha contra el narcomenudeo en Corrientes",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-08-06T23:36:36+00:00"
+    },
     {
       "id": "48b2e4ec",
       "image": "img/48b2e4ec.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: el monto que recibirá la AUH en agosto 2026",
       "volanta": "CONFIRMADO",
       "date": "2026-08-05T14:24:04+00:00"
-    },
-    {
-      "id": "12728c34",
-      "image": "img/12728c34.png",
-      "image_sha": "7dbabcc61e3f7cc33028664be5494b0678f01ed9",
-      "url": "https://www.radiodos.com.ar/211837-que-implica-que-brasil-retire-a-su-embajador-en-argentina-a-raiz-de-los-reiterados-exabruptos-de-javier-milei",
-      "title": "Qué implica que Brasil retire a su embajador en Argentina a raíz de los reiterados exabruptos de Javier Milei",
-      "volanta": "RELACIONES INTERNACIONALES",
-      "date": "2026-08-05T14:03:07+00:00"
     }
   ]
 }
