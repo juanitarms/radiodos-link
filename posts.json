@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T17:11:48+00:00",
+  "updated": "2026-08-06T17:12:24+00:00",
   "posts": [
+    {
+      "id": "add85bbf",
+      "image": "img/add85bbf.png",
+      "image_sha": "fe8da310b51e0dbe98806092cd8d23715a048a4a",
+      "url": "https://www.radiodos.com.ar/211897-javier-milei-autorizo-por-decreto-el-ingreso-de-tropas-brasilenas-para-participar-de-ejercicios-militares",
+      "title": "Javier Milei autorizó por decreto el ingreso de tropas brasileñas para participar de ejercicios militares",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-06T17:12:24+00:00"
+    },
     {
       "id": "d465c0b1",
       "image": "img/d465c0b1.png",
@@ -531,15 +540,6 @@
       "title": "Crimen en Chaco: la joven acusada de matar a su novio admitió que ella lo apuñaló",
       "volanta": "CONMOCION",
       "date": "2026-08-04T20:35:56+00:00"
-    },
-    {
-      "id": "e9519259",
-      "image": "img/e9519259.png",
-      "image_sha": "57ba4661cde0b2e8c42d4f53b003e5f8127cdf91",
-      "url": "https://www.radiodos.com.ar/211796-monsenor-larregain-presento-la-enciclica-magnifica-humanitas",
-      "title": "Monseñor Larregain presentó la encíclica Magnifica Humanitas",
-      "volanta": "SALON TUPASY",
-      "date": "2026-08-04T20:34:47+00:00"
     }
   ]
 }
