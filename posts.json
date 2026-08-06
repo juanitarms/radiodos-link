@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:35:34+00:00",
+  "updated": "2026-08-06T21:36:17+00:00",
   "posts": [
+    {
+      "id": "b7469bad",
+      "image": "img/b7469bad.png",
+      "image_sha": "3068660354025c2125a9ab15015dbefbf8eec03f",
+      "url": "https://www.radiodos.com.ar/211919-mandiyu-anuncio-un-nuevo-refuerzo-y-acelera-su-preparacion-para-el-regional",
+      "title": "Mandiyú anunció un nuevo refuerzo y acelera su preparación para el Regional",
+      "volanta": "FEDERAL AMATEUR",
+      "date": "2026-08-06T21:36:17+00:00"
+    },
     {
       "id": "742a661a",
       "image": "img/742a661a.png",
@@ -531,15 +540,6 @@
       "title": "Super pozo de La Poceada: dos correntinos ganaron más de $327 millones",
       "volanta": "CAPITAL",
       "date": "2026-08-05T12:03:42+00:00"
-    },
-    {
-      "id": "97c582b4",
-      "image": "img/97c582b4.png",
-      "image_sha": "a52023c3fb33f762b6866067d56d5635380d8bc5",
-      "url": "https://www.radiodos.com.ar/211811-itati-estiman-que-unas-100-familias-podrian-ser-afectadas-por-el-nino",
-      "title": "Itatí: estiman que unas 100 familias podrían ser afectadas por El Niño",
-      "volanta": "INUNDACIONES",
-      "date": "2026-08-05T11:41:40+00:00"
     }
   ]
 }
