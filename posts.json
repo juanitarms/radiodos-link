@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T13:05:18+00:00",
+  "updated": "2026-08-06T13:31:18+00:00",
   "posts": [
+    {
+      "id": "e7ea312e",
+      "image": "img/e7ea312e.png",
+      "image_sha": "1adc2b4de8987824e9e45ecfaea47ae3bd86517f",
+      "url": "https://www.radiodos.com.ar/211882-denuncio-que-fue-sedada-en-un-boliche-y-luego-abusada-sexualmente-un-detenido",
+      "title": "Denunció que fue sedada en un boliche y luego abusada sexualmente: un detenido",
+      "volanta": "SANTO TOMÉ",
+      "date": "2026-08-06T13:31:18+00:00"
+    },
     {
       "id": "9bccda8a",
       "image": "img/9bccda8a.png",
@@ -531,15 +540,6 @@
       "title": "Neuquén: suman nueva prueba en la causa por el empresario declarado culpable por abusar de su hijastra",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-04T19:09:25+00:00"
-    },
-    {
-      "id": "b463529a",
-      "image": "img/b463529a.png",
-      "image_sha": "1ef3b90c8dc6a4fa2d9381dccb8330ef9e7631ce",
-      "url": "https://www.radiodos.com.ar/211781-boca-presento-su-nueva-camiseta-2026-27-como-es-cuando-debuta-y-cuanto-cuesta",
-      "title": "Boca presentó su nueva camiseta 2026/27: cómo es, cuándo debuta y cuánto cuesta",
-      "volanta": "NUEVA TEMPORADA",
-      "date": "2026-08-04T18:34:18+00:00"
     }
   ]
 }
