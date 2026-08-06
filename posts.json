@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:32:56+00:00",
+  "updated": "2026-08-06T21:34:12+00:00",
   "posts": [
+    {
+      "id": "8c96e042",
+      "image": "img/8c96e042.png",
+      "image_sha": "df7041d37c946bf5493767a54c03a7eab8f7b115",
+      "url": "https://www.radiodos.com.ar/211918-gobierno-de-corrientes-capacita-a-municipios-en-responsabilidad-fiscal",
+      "title": "Gobierno de Corrientes capacita a Municipios en Responsabilidad Fiscal",
+      "volanta": "TRANSPARIENCIA EN LA GESTIÓN PÚBLICA",
+      "date": "2026-08-06T21:34:12+00:00"
+    },
     {
       "id": "ef9c79db",
       "image": "img/ef9c79db.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en Corrientes: detienen a un menor por el brutal crimen \"por encargo\" de su compañera",
       "volanta": "AMBOS DE 16 AÑOS",
       "date": "2026-08-05T11:11:53+00:00"
-    },
-    {
-      "id": "54fa4cc1",
-      "image": "img/54fa4cc1.png",
-      "image_sha": "3a8b06a407b0dce8ed0365c0286623f2a90a8154",
-      "url": "https://www.radiodos.com.ar/211808-conmocion-en-corrientes-se-investigaba-el-suicidio-de-una-adolescente-pero-ahora-se-sospecha-que-la-mataron-por-encargo",
-      "title": "Conmoción en Corrientes: se investigaba el suicidio de una adolescente, pero ahora se sospecha que la mataron \"por encargo\"",
-      "volanta": "ALVEAR",
-      "date": "2026-08-05T10:49:22+00:00"
     }
   ]
 }
