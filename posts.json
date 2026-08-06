@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:32:24+00:00",
+  "updated": "2026-08-06T21:32:56+00:00",
   "posts": [
+    {
+      "id": "ef9c79db",
+      "image": "img/ef9c79db.png",
+      "image_sha": "d8d76bde6bcc4da1e4aa05fcec083f0f463eae10",
+      "url": "https://www.radiodos.com.ar/211915-juicio-por-loan-se-ratifico-la-deteccion-de-rastros-del-nino-en-los-autos-de-perez-y-caillava",
+      "title": "Juicio por Loan: se ratificó la detección de rastros del niño en los autos de Pérez y Caillava",
+      "volanta": "HOY",
+      "date": "2026-08-06T21:32:56+00:00"
+    },
     {
       "id": "2358e578",
       "image": "img/2358e578.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en Corrientes: se investigaba el suicidio de una adolescente, pero ahora se sospecha que la mataron \"por encargo\"",
       "volanta": "ALVEAR",
       "date": "2026-08-05T10:49:22+00:00"
-    },
-    {
-      "id": "f4926fe1",
-      "image": "img/f4926fe1.png",
-      "image_sha": "74133f265f9e7af799b4720db4c356bd2b5f3c83",
-      "url": "https://www.radiodos.com.ar/211807-reculo-el-gobierno-suspendio-el-decreto-acordo-con-los-practicos-y-se-normalizo-la-navegacion-en-los-puertos",
-      "title": "Reculó el Gobierno: suspendió el decreto, acordó con los prácticos y se normalizó la navegación en los puertos",
-      "volanta": "NEGOCIACIÓN",
-      "date": "2026-08-05T10:20:27+00:00"
     }
   ]
 }
