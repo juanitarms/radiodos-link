@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:21:21+00:00",
+  "updated": "2026-08-06T21:31:00+00:00",
   "posts": [
+    {
+      "id": "a1476325",
+      "image": "img/a1476325.png",
+      "image_sha": "97a09240ea6a5410920d0d519c626209bf229877",
+      "url": "https://www.radiodos.com.ar/211917-fuertes-rafagas-provocaron-destrozos-en-zonas-rurales-del-sur-de-corrientes",
+      "title": "Fuertes ráfagas provocaron destrozos en zonas rurales del sur de Corrientes",
+      "volanta": "VIENTOS",
+      "date": "2026-08-06T21:31:00+00:00"
+    },
     {
       "id": "59535b57",
       "image": "img/59535b57.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre murió tras un choque sobre avenida Maipú y Alta Gracia",
       "volanta": "CORRIENTES",
       "date": "2026-08-04T23:12:29+00:00"
-    },
-    {
-      "id": "76fd5b24",
-      "image": "img/76fd5b24.png",
-      "image_sha": "0e62c67b6ecec380080291c4547386dcfdefb2d6",
-      "url": "https://www.radiodos.com.ar/211805-gustavo-valdes-pidio-mucho-cuidado-con-la-ley-de-tierras-y-rechazo-la-extranjerizacion-total",
-      "title": "Gustavo Valdés pidió \"mucho cuidado\" con la Ley de Tierras y rechazó la extranjerización total",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-08-04T23:03:50+00:00"
     }
   ]
 }
