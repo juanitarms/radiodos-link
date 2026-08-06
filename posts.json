@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T11:07:29+00:00",
+  "updated": "2026-08-06T11:41:42+00:00",
   "posts": [
+    {
+      "id": "766f5ada",
+      "image": "img/766f5ada.png",
+      "image_sha": "4de30019520318ce0321135230560a00a89b0008",
+      "url": "https://www.radiodos.com.ar/211873-se-conoce-el-cronograma-del-plus-unificado-para-empleados-publicos-de-corrientes",
+      "title": "Se conoce el cronograma del Plus Unificado para empleados públicos de Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-08-06T11:41:42+00:00"
+    },
     {
       "id": "9f7a0b9b",
       "image": "img/9f7a0b9b.png",
@@ -531,15 +540,6 @@
       "title": "Científicos alertan por la cantidad de basura atrapada en las profundidades del Mar Argentino",
       "volanta": "SUCIEDAD",
       "date": "2026-08-04T18:14:11+00:00"
-    },
-    {
-      "id": "02d35d83",
-      "image": "img/02d35d83.png",
-      "image_sha": "509ad3852fef121e8b926b5f2ca4ff8971c54cc4",
-      "url": "https://www.radiodos.com.ar/211774-dramatica-persecucion-culmino-con-un-patrullero-en-una-zanja-y-tres-detenidos",
-      "title": "Dramática persecución culminó con un patrullero en una zanja y tres detenidos",
-      "volanta": "LA PLATA",
-      "date": "2026-08-04T18:13:33+00:00"
     }
   ]
 }
