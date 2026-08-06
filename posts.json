@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:34:12+00:00",
+  "updated": "2026-08-06T21:35:34+00:00",
   "posts": [
+    {
+      "id": "742a661a",
+      "image": "img/742a661a.png",
+      "image_sha": "01a013f7cd4c8242903ffb6b11c9494e2f64e2b9",
+      "url": "https://www.radiodos.com.ar/211920-la-ciudad-de-corrientes-recibio-al-chozno-nieto-de-manuel-belgrano-con-una-distincion-especial",
+      "title": "La Ciudad de Corrientes recibió al chozno nieto de Manuel Belgrano con una distinción especial",
+      "volanta": "DESTACADA VISITA",
+      "date": "2026-08-06T21:35:34+00:00"
+    },
     {
       "id": "8c96e042",
       "image": "img/8c96e042.png",
@@ -531,15 +540,6 @@
       "title": "Itatí: estiman que unas 100 familias podrían ser afectadas por El Niño",
       "volanta": "INUNDACIONES",
       "date": "2026-08-05T11:41:40+00:00"
-    },
-    {
-      "id": "2e339d15",
-      "image": "img/2e339d15.png",
-      "image_sha": "a007c9451586f56bdb683bbe7c01451f74dbf841",
-      "url": "https://www.radiodos.com.ar/211810-conmocion-en-corrientes-detienen-a-un-menor-por-el-brutal-crimen-por-encargo-de-su-companera",
-      "title": "Conmoción en Corrientes: detienen a un menor por el brutal crimen \"por encargo\" de su compañera",
-      "volanta": "AMBOS DE 16 AÑOS",
-      "date": "2026-08-05T11:11:53+00:00"
     }
   ]
 }
