@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:31:00+00:00",
+  "updated": "2026-08-06T21:32:24+00:00",
   "posts": [
+    {
+      "id": "2358e578",
+      "image": "img/2358e578.png",
+      "image_sha": "be3c5edd3cd5dbe30d369b64a1b0412a71f7ac16",
+      "url": "https://www.radiodos.com.ar/211916-alerta-maderera-cae-el-empleo-y-advierten-por-la-perdida-de-oficios-tecnicos",
+      "title": "Alerta maderera: Cae el empleo y advierten por la pérdida de oficios técnicos",
+      "volanta": "crisis en el sector",
+      "date": "2026-08-06T21:32:24+00:00"
+    },
     {
       "id": "a1476325",
       "image": "img/a1476325.png",
@@ -531,15 +540,6 @@
       "title": "Reculó el Gobierno: suspendió el decreto, acordó con los prácticos y se normalizó la navegación en los puertos",
       "volanta": "NEGOCIACIÓN",
       "date": "2026-08-05T10:20:27+00:00"
-    },
-    {
-      "id": "b9c90f05",
-      "image": "img/b9c90f05.png",
-      "image_sha": "0835efe4560691fcf54148ba00873ba650f615d8",
-      "url": "https://www.radiodos.com.ar/211804-un-hombre-murio-tras-un-choque-sobre-avenida-maipu-y-alta-gracia",
-      "title": "Un hombre murió tras un choque sobre avenida Maipú y Alta Gracia",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-04T23:12:29+00:00"
     }
   ]
 }
