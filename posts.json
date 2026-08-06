@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T11:41:42+00:00",
+  "updated": "2026-08-06T12:19:01+00:00",
   "posts": [
+    {
+      "id": "71b88587",
+      "image": "img/71b88587.png",
+      "image_sha": "3b00ca0afb99de8256402503718bc1ff3dd2ca3b",
+      "url": "https://www.radiodos.com.ar/211875-joven-golpeada-a-la-salida-de-un-boliche-en-corrientes-formalizan-imputaciones-a-las-agresoras",
+      "title": "Joven golpeada a la salida de un boliche en Corrientes: formalizan imputaciones a las agresoras",
+      "volanta": "DESDE LAS 10",
+      "date": "2026-08-06T12:19:01+00:00"
+    },
     {
       "id": "766f5ada",
       "image": "img/766f5ada.png",
@@ -531,15 +540,6 @@
       "title": "Veteranos de Malvinas impulsan un amparo para objetar la legalidad de una medida que les quitó las pensiones",
       "volanta": "JUSTICIA",
       "date": "2026-08-04T18:33:14+00:00"
-    },
-    {
-      "id": "b0400da3",
-      "image": "img/b0400da3.png",
-      "image_sha": "5f42c0b2d81297b580daefc277154f7ba025ec09",
-      "url": "https://www.radiodos.com.ar/211777-cientificos-alertan-por-la-cantidad-de-basura-atrapada-en-las-profundidades-del-mar-argentino",
-      "title": "Científicos alertan por la cantidad de basura atrapada en las profundidades del Mar Argentino",
-      "volanta": "SUCIEDAD",
-      "date": "2026-08-04T18:14:11+00:00"
     }
   ]
 }
