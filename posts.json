@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T20:41:38+00:00",
+  "updated": "2026-08-06T20:43:38+00:00",
   "posts": [
+    {
+      "id": "6526aca2",
+      "image": "img/6526aca2.png",
+      "image_sha": "11df6e72616450da4fbace7546bc509e047d558e",
+      "url": "https://www.radiodos.com.ar/211912-emboscaron-a-un-chofer-de-didi-en-un-barrio-de-corrientes",
+      "title": "Emboscaron a un chofer de Didi en un barrio de Corrientes",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-08-06T20:43:38+00:00"
+    },
     {
       "id": "fb4ad12f",
       "image": "img/fb4ad12f.png",
@@ -531,15 +540,6 @@
       "title": "Giro total por la muerte de una adolescente en Corrientes: investigan un \"homicidio por encargo\"",
       "volanta": "HAY UN MENOR DETENIDO",
       "date": "2026-08-04T22:12:32+00:00"
-    },
-    {
-      "id": "913aa803",
-      "image": "img/913aa803.png",
-      "image_sha": "5fb8df34de36b64e1009eb3ec98bce10cb3bd5bd",
-      "url": "https://www.radiodos.com.ar/211803-mandiyu-anuncio-la-vuelta-de-alvaro-pavon-para-el-regional",
-      "title": "Mandiyú anunció la vuelta de Álvaro Pavón para el Regional",
-      "volanta": "REFUERZO DE JERARQUÍA",
-      "date": "2026-08-04T21:49:01+00:00"
     }
   ]
 }
