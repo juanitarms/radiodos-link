@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T14:55:01+00:00",
+  "updated": "2026-08-06T15:13:07+00:00",
   "posts": [
+    {
+      "id": "51cc9652",
+      "image": "img/51cc9652.png",
+      "image_sha": "ea42c6c6b5c5454e4ae59500b9f4607548149f76",
+      "url": "https://www.radiodos.com.ar/211891-el-stj-confirmo-la-responsabilidad-penal-de-un-hombre-por-abuso-sexual-simple",
+      "title": "El STJ confirmó la responsabilidad penal de un hombre por abuso sexual simple",
+      "volanta": "SENTENCIA PENAL",
+      "date": "2026-08-06T15:13:07+00:00"
+    },
     {
       "id": "a4dded71",
       "image": "img/a4dded71.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Mailén Antonich: la familia de la joven aseguró que existió un plan para matarla",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-08-04T19:11:31+00:00"
-    },
-    {
-      "id": "97e2200d",
-      "image": "img/97e2200d.png",
-      "image_sha": "2bfc0bd16f8a16e043fe26a497bc99d8e8285476",
-      "url": "https://www.radiodos.com.ar/211784-quien-es-pilar-ferrer-la-biologa-argentina-que-desarrollo-un-gel-para-recuperar-el-corazon-tras-un-infarto",
-      "title": "Quién es Pilar Ferrer, la bióloga argentina que desarrolló un gel para recuperar el corazón tras un infarto",
-      "volanta": "AVANCE EN LA MEDICINA",
-      "date": "2026-08-04T19:10:59+00:00"
     }
   ]
 }
