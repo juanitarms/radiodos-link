@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T20:43:38+00:00",
+  "updated": "2026-08-06T21:20:45+00:00",
   "posts": [
+    {
+      "id": "7a826ef1",
+      "image": "img/7a826ef1.png",
+      "image_sha": "ccefe9a9b3a37479657a33209aab4dd15a8185a1",
+      "url": "https://www.radiodos.com.ar/211914-un-ciclista-fue-embestido-de-atras-y-termino-dentro-del-vehiculo-que-lo-choco",
+      "title": "Un ciclista fue embestido de atrás y terminó dentro del vehículo que lo chocó",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-06T21:20:45+00:00"
+    },
     {
       "id": "6526aca2",
       "image": "img/6526aca2.png",
@@ -531,15 +540,6 @@
       "title": "Choque entre una camioneta y un auto dejó dos personas hospitalizadas",
       "volanta": "CORRIENTES",
       "date": "2026-08-04T23:02:07+00:00"
-    },
-    {
-      "id": "456dc9f0",
-      "image": "img/456dc9f0.png",
-      "image_sha": "4f07deb4223932cfc759e23e2a78d57168f56b28",
-      "url": "https://www.radiodos.com.ar/211802-giro-total-por-la-muerte-de-una-adolescente-en-corrientes-investigan-un-homicidio-por-encargo",
-      "title": "Giro total por la muerte de una adolescente en Corrientes: investigan un \"homicidio por encargo\"",
-      "volanta": "HAY UN MENOR DETENIDO",
-      "date": "2026-08-04T22:12:32+00:00"
     }
   ]
 }
