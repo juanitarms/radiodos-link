@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T17:12:24+00:00",
+  "updated": "2026-08-06T17:12:56+00:00",
   "posts": [
+    {
+      "id": "4ec00f9c",
+      "image": "img/4ec00f9c.png",
+      "image_sha": "45330c488f916021d41fe77c67968181ff0cd4ba",
+      "url": "https://www.radiodos.com.ar/211896-la-anmat-prohibio-la-venta-de-una-reconocida-crema-desinflamante-y-de-una-serie-de-productos-para-mascotas",
+      "title": "La Anmat prohibió la venta de una reconocida crema desinflamante y de una serie de productos para mascotas",
+      "volanta": "Oficial",
+      "date": "2026-08-06T17:12:56+00:00"
+    },
     {
       "id": "add85bbf",
       "image": "img/add85bbf.png",
@@ -531,15 +540,6 @@
       "title": "Quiénes declaran este miércoles en el juicio del caso Loan",
       "volanta": "corrientes",
       "date": "2026-08-04T20:57:17+00:00"
-    },
-    {
-      "id": "15f76026",
-      "image": "img/15f76026.png",
-      "image_sha": "5ec19e0f02a60ebc91010ab667619d885bda7bb4",
-      "url": "https://www.radiodos.com.ar/211795-crimen-en-chaco-la-joven-acusada-de-matar-a-su-novio-admitio-que-ella-lo-apunalo",
-      "title": "Crimen en Chaco: la joven acusada de matar a su novio admitió que ella lo apuñaló",
-      "volanta": "CONMOCION",
-      "date": "2026-08-04T20:35:56+00:00"
     }
   ]
 }
