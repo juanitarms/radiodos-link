@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T18:55:49+00:00",
+  "updated": "2026-08-06T20:41:38+00:00",
   "posts": [
+    {
+      "id": "fb4ad12f",
+      "image": "img/fb4ad12f.png",
+      "image_sha": "0f5f35b42a00f050a3b59993bc239607d5680cc3",
+      "url": "https://www.radiodos.com.ar/211911-corte-total-en-rn-12-por-el-temporal-en-el-sur-de-corrientes",
+      "title": "Corte total en RN 12 por el temporal en el sur de Corrientes",
+      "volanta": "HACE INSTANTES",
+      "date": "2026-08-06T20:41:38+00:00"
+    },
     {
       "id": "aa72649c",
       "image": "img/aa72649c.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú anunció la vuelta de Álvaro Pavón para el Regional",
       "volanta": "REFUERZO DE JERARQUÍA",
       "date": "2026-08-04T21:49:01+00:00"
-    },
-    {
-      "id": "48fb11c7",
-      "image": "img/48fb11c7.png",
-      "image_sha": "afcd3d84085ea5c7b1c300c82f4c0cc79d47569b",
-      "url": "https://www.radiodos.com.ar/211801-obras-en-el-arroyo-pirayui-estiman-que-en-cuatro-o-cinco-dias-se-rehabilitara-el-transito-en-avenida-maipu",
-      "title": "Obras en el arroyo Pirayuí: estiman que en cuatro o cinco días se rehabilitará el tránsito en avenida Maipú",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-04T21:34:49+00:00"
     }
   ]
 }
