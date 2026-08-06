@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T14:09:22+00:00",
+  "updated": "2026-08-06T14:37:56+00:00",
   "posts": [
+    {
+      "id": "05560d87",
+      "image": "img/05560d87.png",
+      "image_sha": "e08a54843155f70adec8059d6e5510e91584699c",
+      "url": "https://www.radiodos.com.ar/211887-valdes-hablo-de-salarios-obras-elecciones-y-el-proyecto-de-extranjerizacion-de-la-tierra",
+      "title": "Valdés habló de salarios, obras, elecciones y el proyecto de extranjerización de la tierra",
+      "volanta": "CASA DE GOBIERNO",
+      "date": "2026-08-06T14:37:56+00:00"
+    },
     {
       "id": "238c3a07",
       "image": "img/238c3a07.png",
@@ -531,15 +540,6 @@
       "title": "El video en el que se ve a la pareja de Facundo Moyano deambulando por Avenida del Libertador",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-04T19:10:27+00:00"
-    },
-    {
-      "id": "28953a26",
-      "image": "img/28953a26.png",
-      "image_sha": "182791e37cc493b50cd57f5a8202992fb5b2be30",
-      "url": "https://www.radiodos.com.ar/211779-comunicado-de-la-omm-el-nino-anticipa-un-fenomeno-de-fuerza-inedita",
-      "title": "Comunicado de la OMM: El Niño anticipa un fenómeno de fuerza inédita",
-      "volanta": "ATENCIÓN",
-      "date": "2026-08-04T19:09:57+00:00"
     }
   ]
 }
