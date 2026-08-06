@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T17:54:31+00:00",
+  "updated": "2026-08-06T18:54:14+00:00",
   "posts": [
+    {
+      "id": "3efd3cfe",
+      "image": "img/3efd3cfe.png",
+      "image_sha": "98aade13f50acb1c694cbe698496ba59e5b1ad08",
+      "url": "https://www.radiodos.com.ar/211899-diego-forlan-fue-presentado-como-nuevo-entrenador-de-uruguay-tras-la-salida-de-bielsa",
+      "title": "Diego Forlán fue presentado como nuevo entrenador de Uruguay tras la salida de Bielsa",
+      "volanta": "FÚTBOL",
+      "date": "2026-08-06T18:54:14+00:00"
+    },
     {
       "id": "735b6e01",
       "image": "img/735b6e01.png",
@@ -531,15 +540,6 @@
       "title": "Antes de ser trasladado a una cárcel, un peligroso criminal se fugó de una sede judicial de Corrientes",
       "volanta": "ESTA SIESTA",
       "date": "2026-08-04T21:03:23+00:00"
-    },
-    {
-      "id": "3ab6b495",
-      "image": "img/3ab6b495.png",
-      "image_sha": "2ab4d856f19e5cbf2631c9790abc558dbe570c99",
-      "url": "https://www.radiodos.com.ar/211793-alarma-social-segun-la-uca-la-pobreza-volvio-a-subir-y-ya-roza-el-30",
-      "title": "Alarma social: según la UCA, la pobreza volvió a subir y ya roza el 30%",
-      "volanta": "ECONOMÍA LIBERTARIA",
-      "date": "2026-08-04T21:02:29+00:00"
     }
   ]
 }
