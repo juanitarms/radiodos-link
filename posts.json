@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T15:13:07+00:00",
+  "updated": "2026-08-06T16:32:46+00:00",
   "posts": [
+    {
+      "id": "0b7d4ea3",
+      "image": "img/0b7d4ea3.png",
+      "image_sha": "34f6938e962f8212fed61897746b19f9a6fac415",
+      "url": "https://www.radiodos.com.ar/211890-corrientes-se-estrena-en-el-campeonato-argentino-de-federaciones-de-infantiles-masculino",
+      "title": "Corrientes se estrena en el Campeonato Argentino de Federaciones de Infantiles masculino",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-06T16:32:46+00:00"
+    },
     {
       "id": "51cc9652",
       "image": "img/51cc9652.png",
@@ -531,15 +540,6 @@
       "title": "La polémica reacción de Tuli Acosta sobre la separación de Luck Ra y La Joaqui: \"¿Mi verdad?\"",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-08-04T19:12:01+00:00"
-    },
-    {
-      "id": "468f0ea3",
-      "image": "img/468f0ea3.png",
-      "image_sha": "a079b126fb7a6cdfc1ec7f71f7fa708a1d013f94",
-      "url": "https://www.radiodos.com.ar/211783-femicidio-de-mailen-antonich-la-familia-de-la-joven-aseguro-que-existio-un-plan-para-matarla",
-      "title": "Femicidio de Mailén Antonich: la familia de la joven aseguró que existió un plan para matarla",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-08-04T19:11:31+00:00"
     }
   ]
 }
