@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T14:37:56+00:00",
+  "updated": "2026-08-06T14:55:01+00:00",
   "posts": [
+    {
+      "id": "a4dded71",
+      "image": "img/a4dded71.png",
+      "image_sha": "38e3c09847ab1ea8820b51273c2a95a1ac3aec2f",
+      "url": "https://www.radiodos.com.ar/211888-juliana-hormaechea-en-el-ranking-nacional-de-goleadoras-cab",
+      "title": "Juliana Hormaechea en el ranking nacional de goleadoras CAB",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-06T14:55:01+00:00"
+    },
     {
       "id": "05560d87",
       "image": "img/05560d87.png",
@@ -531,15 +540,6 @@
       "title": "Quién es Pilar Ferrer, la bióloga argentina que desarrolló un gel para recuperar el corazón tras un infarto",
       "volanta": "AVANCE EN LA MEDICINA",
       "date": "2026-08-04T19:10:59+00:00"
-    },
-    {
-      "id": "abb0b689",
-      "image": "img/abb0b689.png",
-      "image_sha": "78922332e6c834ed3c80a908ea906c226b656fad",
-      "url": "https://www.radiodos.com.ar/211778-el-video-en-el-que-se-ve-a-la-pareja-de-facundo-moyano-deambulando-por-avenida-del-libertador",
-      "title": "El video en el que se ve a la pareja de Facundo Moyano deambulando por Avenida del Libertador",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-04T19:10:27+00:00"
     }
   ]
 }
