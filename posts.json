@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T17:12:56+00:00",
+  "updated": "2026-08-06T17:54:31+00:00",
   "posts": [
+    {
+      "id": "735b6e01",
+      "image": "img/735b6e01.png",
+      "image_sha": "20ecf9f922d1322a90ad42e04f581f7094cae0ef",
+      "url": "https://www.radiodos.com.ar/211893-un-jefe-de-la-policia-federal-fue-detenido-en-cordoba-acusado-de-robo",
+      "title": "Un jefe de la Policía Federal fue detenido en Córdoba acusado de robo",
+      "volanta": "CAUSA ABIERTA",
+      "date": "2026-08-06T17:54:31+00:00"
+    },
     {
       "id": "4ec00f9c",
       "image": "img/4ec00f9c.png",
@@ -531,15 +540,6 @@
       "title": "Alarma social: según la UCA, la pobreza volvió a subir y ya roza el 30%",
       "volanta": "ECONOMÍA LIBERTARIA",
       "date": "2026-08-04T21:02:29+00:00"
-    },
-    {
-      "id": "92b05600",
-      "image": "img/92b05600.png",
-      "image_sha": "cb657cdeed67a75c923c97bfb6e9046a843a1ed3",
-      "url": "https://www.radiodos.com.ar/211798-quienes-declaran-este-miercoles-en-el-juicio-del-caso-loan",
-      "title": "Quiénes declaran este miércoles en el juicio del caso Loan",
-      "volanta": "corrientes",
-      "date": "2026-08-04T20:57:17+00:00"
     }
   ]
 }
