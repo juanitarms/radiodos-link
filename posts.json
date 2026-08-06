@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T18:55:20+00:00",
+  "updated": "2026-08-06T18:55:49+00:00",
   "posts": [
+    {
+      "id": "aa72649c",
+      "image": "img/aa72649c.png",
+      "image_sha": "e565cb233e96e0b276647de457b30cebd02f1591",
+      "url": "https://www.radiodos.com.ar/211904-dramatico-encontraron-a-zulma-lobato-desorientada-y-en-situacion-de-calle",
+      "title": "Dramático: encontraron a Zulma Lobato desorientada y en situación de calle",
+      "volanta": "TERRIBLE",
+      "date": "2026-08-06T18:55:49+00:00"
+    },
     {
       "id": "80c989c4",
       "image": "img/80c989c4.png",
@@ -531,15 +540,6 @@
       "title": "Obras en el arroyo Pirayuí: estiman que en cuatro o cinco días se rehabilitará el tránsito en avenida Maipú",
       "volanta": "CORRIENTES",
       "date": "2026-08-04T21:34:49+00:00"
-    },
-    {
-      "id": "83837ab3",
-      "image": "img/83837ab3.png",
-      "image_sha": "fe9dc8973392493ed24194a5691153dee57f5406",
-      "url": "https://www.radiodos.com.ar/211799-el-puente-chaco-corrientes-supero-los-19000-vehiculos-diarios-en-2025",
-      "title": "El puente Chaco-Corrientes superó los 19.000 vehículos diarios en 2025,",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-08-04T21:06:23+00:00"
     }
   ]
 }
