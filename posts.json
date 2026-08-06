@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T21:37:27+00:00",
+  "updated": "2026-08-06T23:29:18+00:00",
   "posts": [
+    {
+      "id": "8a89ce67",
+      "image": "img/8a89ce67.png",
+      "image_sha": "7132361525b69d179ccb1434acaaa924b1bccbe9",
+      "url": "https://www.radiodos.com.ar/211923-candela-arizaga-aseguro-que-sufrio-un-brote-psicotico-y-desvinculo-a-moyano",
+      "title": "Candela Arizaga aseguró que sufrió un \"brote psicótico\" y desvinculó a Moyano",
+      "volanta": "Tras la liberación del exdiputado",
+      "date": "2026-08-06T23:29:18+00:00"
+    },
     {
       "id": "32777f30",
       "image": "img/32777f30.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a dos adolescentes que se fugaron de un hogar de contención en Corrientes",
       "volanta": "ALERTA",
       "date": "2026-08-05T13:30:23+00:00"
-    },
-    {
-      "id": "09f39428",
-      "image": "img/09f39428.png",
-      "image_sha": "9dd14253639331bbcbcfec8b53e0def2ac2741f4",
-      "url": "https://www.radiodos.com.ar/211813-confirmado-el-papa-leon-xiv-viene-a-la-argentina-entre-el-8-y-el-11-de-noviembre",
-      "title": "Confirmado: el papa León XIV viene a la Argentina entre el 8 y el 11 de noviembre",
-      "volanta": "A VARIAS CIUDADES",
-      "date": "2026-08-05T12:52:44+00:00"
     }
   ]
 }
