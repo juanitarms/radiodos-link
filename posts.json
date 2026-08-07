@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:54:59+00:00",
+  "updated": "2026-08-07T22:55:27+00:00",
   "posts": [
+    {
+      "id": "a87f2972",
+      "image": "img/a87f2972.png",
+      "image_sha": "ade8fb77f8f01231ea38b30cd17de08891018c0b",
+      "url": "https://www.radiodos.com.ar/211980-la-construccion-no-encuentra-piso-registro-su-cuarta-baja-en-lo-que-va-del-ano",
+      "title": "La construcción no encuentra piso: registró su cuarta baja en lo que va del año",
+      "volanta": "crisis",
+      "date": "2026-08-07T22:55:27+00:00"
+    },
     {
       "id": "cddafe4b",
       "image": "img/cddafe4b.png",
@@ -531,15 +540,6 @@
       "title": "Municipio y Provincia amplían una agenda conjunta para potenciar cultura y turismo",
       "volanta": "TRABAJO MANCOMUNADO",
       "date": "2026-08-06T12:34:31+00:00"
-    },
-    {
-      "id": "71b88587",
-      "image": "img/71b88587.png",
-      "image_sha": "3b00ca0afb99de8256402503718bc1ff3dd2ca3b",
-      "url": "https://www.radiodos.com.ar/211875-joven-golpeada-a-la-salida-de-un-boliche-en-corrientes-formalizan-imputaciones-a-las-agresoras",
-      "title": "Joven golpeada a la salida de un boliche en Corrientes: formalizan imputaciones a las agresoras",
-      "volanta": "DESDE LAS 10",
-      "date": "2026-08-06T12:19:01+00:00"
     }
   ]
 }
