@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T21:46:54+00:00",
+  "updated": "2026-08-07T21:47:24+00:00",
   "posts": [
+    {
+      "id": "983930de",
+      "image": "img/983930de.png",
+      "image_sha": "4e5093c3a6102590836aa29ade3e4fa97c953fcc",
+      "url": "https://www.radiodos.com.ar/211977-con-mas-de-120-reuniones-de-trabajo-corrientes-tuvo-una-destacada-participacion-en-meet-up-turistica",
+      "title": "Con más de 120 reuniones de trabajo, Corrientes tuvo una destacada participación en Meet Up turística",
+      "volanta": "EN BUENOS AIRES",
+      "date": "2026-08-07T21:47:24+00:00"
+    },
     {
       "id": "4f85cf10",
       "image": "img/4f85cf10.png",
@@ -531,15 +540,6 @@
       "title": "La pobreza subió en el país y afecta al 38,4% de los habitantes de la capital correntina",
       "volanta": "SEGÚN LA UCA",
       "date": "2026-08-05T22:03:39+00:00"
-    },
-    {
-      "id": "a060f2fb",
-      "image": "img/a060f2fb.png",
-      "image_sha": "a57fecb2f217e3863b823b94e67a96856dadc84c",
-      "url": "https://www.radiodos.com.ar/211859-por-presion-de-los-bloques-aliados-el-gobierno-nacional-retiro-el-capitulo-de-extranjerizacion-de-tierras",
-      "title": "Por presión de los bloques aliados, el Gobierno Nacional retiró el capítulo de extranjerización de tierras",
-      "volanta": "SENADO NACIONAL",
-      "date": "2026-08-05T21:08:19+00:00"
     }
   ]
 }
