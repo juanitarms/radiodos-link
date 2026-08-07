@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-06T23:36:36+00:00",
+  "updated": "2026-08-07T10:44:47+00:00",
   "posts": [
+    {
+      "id": "803706cc",
+      "image": "img/803706cc.png",
+      "image_sha": "4c4c78a14c63a65eb325fabc48d59ae15483bf9c",
+      "url": "https://www.radiodos.com.ar/211927-retoman-la-busqueda-del-chaqueno-que-fue-arrastrado-por-el-viento-y-desaparecio-en-el-parana",
+      "title": "Retoman la búsqueda del chaqueño que fue arrastrado por el viento y desapareció en el Paraná",
+      "volanta": "DRAMA",
+      "date": "2026-08-07T10:44:47+00:00"
+    },
     {
       "id": "773fa179",
       "image": "img/773fa179.png",
@@ -531,15 +540,6 @@
       "title": "La sorpresiva reacción de Antonela Roccuzzo a un posteo de Georgina Rodríguez tras críticas a su físico",
       "volanta": "SORORIDAD",
       "date": "2026-08-05T14:48:37+00:00"
-    },
-    {
-      "id": "3476f94c",
-      "image": "img/3476f94c.png",
-      "image_sha": "b01551115150be8d3d539dbd17c7d41c210d25cd",
-      "url": "https://www.radiodos.com.ar/211840-anses-el-monto-que-recibira-la-auh-en-agosto-2026",
-      "title": "ANSES: el monto que recibirá la AUH en agosto 2026",
-      "volanta": "CONFIRMADO",
-      "date": "2026-08-05T14:24:04+00:00"
     }
   ]
 }
