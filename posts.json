@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T17:36:11+00:00",
+  "updated": "2026-08-07T17:36:48+00:00",
   "posts": [
+    {
+      "id": "fc307f76",
+      "image": "img/fc307f76.png",
+      "image_sha": "51100c45a2bb1b12af6ff7c0660fa1026549635f",
+      "url": "https://www.radiodos.com.ar/211963-sorpresivamente-juanicar-abandono-gran-hermano-generacion-dorada-los-motivos",
+      "title": "Sorpresivamente, Juanicar abandonó Gran Hermano Generación Dorada: los motivos",
+      "volanta": "NO DUDÓ",
+      "date": "2026-08-07T17:36:48+00:00"
+    },
     {
       "id": "0005d6ba",
       "image": "img/0005d6ba.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: declaró el falso \"yankee\" Soria y afirmó que las víctimas son la familia del menor y los imputados son inocentes",
       "volanta": "POR JUSTICIA",
       "date": "2026-08-05T21:01:26+00:00"
-    },
-    {
-      "id": "d232cbab",
-      "image": "img/d232cbab.png",
-      "image_sha": "9fe8a0eacbb97778c1d51877815c68c9bb6cd0a2",
-      "url": "https://www.radiodos.com.ar/211857-el-nuevo-camion-desobstructor-ya-intervino-en-15-puntos-de-la-ciudad-con-tareas-preventivas",
-      "title": "El nuevo camión desobstructor ya intervino en 15 puntos de la ciudad con tareas preventivas",
-      "volanta": "AMPLIO DESPLIEGUE",
-      "date": "2026-08-05T18:46:04+00:00"
     }
   ]
 }
