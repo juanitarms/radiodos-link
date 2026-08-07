@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T13:13:42+00:00",
+  "updated": "2026-08-07T13:29:09+00:00",
   "posts": [
+    {
+      "id": "a1775738",
+      "image": "img/a1775738.png",
+      "image_sha": "c1b733f994f21a8305851430e0827a1d23ed4e0a",
+      "url": "https://www.radiodos.com.ar/211943-jubilados-de-anses-los-nuevos-montos-confirmados-y-que-pasara-con-el-bono-de-70000",
+      "title": "Jubilados de ANSES: los nuevos montos confirmados y qué pasará con el bono de $70.000",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-07T13:29:09+00:00"
+    },
     {
       "id": "2e4eb962",
       "image": "img/2e4eb962.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara sumó un nuevo triunfo en la Justicia contra Mauro Icardi: \"Embargado por...\"",
       "volanta": "BUENA NOTICIA",
       "date": "2026-08-05T16:14:09+00:00"
-    },
-    {
-      "id": "350c643c",
-      "image": "img/350c643c.png",
-      "image_sha": "4ac068b1996e8b946559140eb466d7fd8b829b01",
-      "url": "https://www.radiodos.com.ar/211846-no-importa-si-me-sorprende-la-tajante-reaccion-de-eva-bargiela-tras-la-detencion-de-facundo-moyano",
-      "title": "\"No importa si me sorprende\": la tajante reacción de Eva Bargiela tras la detención de Facundo Moyano",
-      "volanta": "SINCERA",
-      "date": "2026-08-05T16:13:39+00:00"
     }
   ]
 }
