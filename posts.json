@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T20:07:38+00:00",
+  "updated": "2026-08-07T20:08:02+00:00",
   "posts": [
+    {
+      "id": "df44f36a",
+      "image": "img/df44f36a.png",
+      "image_sha": "d9fc170c4ed9f15eab697fc0b6c333f4c5721907",
+      "url": "https://www.radiodos.com.ar/211968-pena-de-la-ciudad-hanami-fest-y-propuestas-deportivas-se-destacan-este-fin-de-semana",
+      "title": "Peña de la ciudad, Hanami Fest y propuestas deportivas se destacan este fin de semana",
+      "volanta": "MES DE LA NIÑEZ",
+      "date": "2026-08-07T20:08:02+00:00"
+    },
     {
       "id": "0874e1bf",
       "image": "img/0874e1bf.png",
@@ -531,15 +540,6 @@
       "title": "Un jugador de fútbol murió fulminado por un rayo",
       "volanta": "HORROR",
       "date": "2026-08-05T21:05:25+00:00"
-    },
-    {
-      "id": "4d4819f3",
-      "image": "img/4d4819f3.png",
-      "image_sha": "50338bb36964742f7f8d0df5da25823cd870748c",
-      "url": "https://www.radiodos.com.ar/211861-grave-incidente-de-violencia-entre-alumnos-en-un-colegio-del-interior-de-corrientes-activa-protocolos-y-derivacion-a-autoridades",
-      "title": "Grave incidente de violencia entre alumnos en un colegio del interior de Corrientes activa protocolos y derivación a autoridades",
-      "volanta": "GRAVE",
-      "date": "2026-08-05T21:02:32+00:00"
     }
   ]
 }
