@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T14:04:31+00:00",
+  "updated": "2026-08-07T14:19:00+00:00",
   "posts": [
+    {
+      "id": "b34196cd",
+      "image": "img/b34196cd.png",
+      "image_sha": "b54dd8d253c78aa2d76789731a7312d6a975edc1",
+      "url": "https://www.radiodos.com.ar/211955-jp-valdes-recorrio-curuzu-cuatia-y-definio-acciones-para-fortalecer-la-infraestructura-hidrica",
+      "title": "JP Valdés recorrió Curuzú Cuatiá y definió acciones para fortalecer la infraestructura hídrica",
+      "volanta": "PREVENCIÓN ANTE EL FENÓMENO DE EL NIÑO",
+      "date": "2026-08-07T14:19:00+00:00"
+    },
     {
       "id": "f89f0e10",
       "image": "img/f89f0e10.png",
@@ -531,15 +540,6 @@
       "title": "Se viralizó el regalo que Luck Ra le dio a La Joaqui días antes de su separación: \"¿Es joda?\"",
       "volanta": "SIGUE LA POLÉMICA",
       "date": "2026-08-05T17:04:44+00:00"
-    },
-    {
-      "id": "36da3ad6",
-      "image": "img/36da3ad6.png",
-      "image_sha": "79e90dd2141640d1272a547fe1e007dc4532580b",
-      "url": "https://www.radiodos.com.ar/211847-fortalece-la-prevencion-del-dengue-con-capacitaciones-y-entrega-de-kits",
-      "title": "Fortalece la prevención del dengue con capacitaciones y entrega de kits",
-      "volanta": "Gobierno de Corrientes",
-      "date": "2026-08-05T17:04:13+00:00"
     }
   ]
 }
