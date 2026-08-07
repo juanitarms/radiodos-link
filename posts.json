@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T12:11:07+00:00",
+  "updated": "2026-08-07T13:13:42+00:00",
   "posts": [
+    {
+      "id": "2e4eb962",
+      "image": "img/2e4eb962.png",
+      "image_sha": "b7b08041a72e01468bd49b0bd55fd382ab238036",
+      "url": "https://www.radiodos.com.ar/211941-buscan-a-un-hombre-de-58-anos-que-se-ausento-de-su-hogar",
+      "title": "Buscan a un hombre de 58 años que se ausentó de su hogar",
+      "volanta": "SAN LORENZO",
+      "date": "2026-08-07T13:13:42+00:00"
+    },
     {
       "id": "9a903584",
       "image": "img/9a903584.png",
@@ -531,15 +540,6 @@
       "title": "\"No importa si me sorprende\": la tajante reacción de Eva Bargiela tras la detención de Facundo Moyano",
       "volanta": "SINCERA",
       "date": "2026-08-05T16:13:39+00:00"
-    },
-    {
-      "id": "d0a5293b",
-      "image": "img/d0a5293b.png",
-      "image_sha": "12169c7d4a55b68b948c244a659b50216813200e",
-      "url": "https://www.radiodos.com.ar/211841-quien-es-la-ex-gran-hermano-que-interpretara-a-silvina-luna-en-su-documental-firmo-contrato",
-      "title": "Quién es la ex Gran Hermano que interpretará a Silvina Luna en su documental: \"Firmó contrato\"",
-      "volanta": "SE VIENE",
-      "date": "2026-08-05T16:13:07+00:00"
     }
   ]
 }
