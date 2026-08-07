@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T13:44:07+00:00",
+  "updated": "2026-08-07T14:04:31+00:00",
   "posts": [
+    {
+      "id": "f89f0e10",
+      "image": "img/f89f0e10.png",
+      "image_sha": "84047401395d6cea47abd6665fb29f56571426dc",
+      "url": "https://www.radiodos.com.ar/211954-eritema-excoriacion-y-equimosis-el-parte-medico-de-victoria-luz-cantero-tras-el-crimen-de-su-novio",
+      "title": "\"Eritema, excoriación y equimosis\": el parte médico de Victoria Luz Cantero tras el crimen de su novio",
+      "volanta": "CHACO",
+      "date": "2026-08-07T14:04:31+00:00"
+    },
     {
       "id": "055e59f1",
       "image": "img/055e59f1.png",
@@ -531,15 +540,6 @@
       "title": "Fortalece la prevención del dengue con capacitaciones y entrega de kits",
       "volanta": "Gobierno de Corrientes",
       "date": "2026-08-05T17:04:13+00:00"
-    },
-    {
-      "id": "ec0e3617",
-      "image": "img/ec0e3617.png",
-      "image_sha": "2d1ba1dbd84f452bc79b9ff6c5fad857aab38615",
-      "url": "https://www.radiodos.com.ar/211848-elian-centeno-llega-a-regatas",
-      "title": "Elián Centeno llega a Regatas",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-08-05T17:03:42+00:00"
     }
   ]
 }
