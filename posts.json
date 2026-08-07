@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T16:30:56+00:00",
+  "updated": "2026-08-07T16:31:26+00:00",
   "posts": [
+    {
+      "id": "1cfa15b9",
+      "image": "img/1cfa15b9.png",
+      "image_sha": "cbd7ad1ac0e0af77907e6437267c856626459b0c",
+      "url": "https://www.radiodos.com.ar/211965-wanda-nara-compartio-un-llamativo-posteo-luego-de-que-mauro-icardi-recuperara-la-posibilidad-de-salir-del-pais",
+      "title": "Wanda Nara compartió un llamativo posteo luego de que Mauro Icardi recuperara la posibilidad de salir del país",
+      "volanta": "PICANTE",
+      "date": "2026-08-07T16:31:26+00:00"
+    },
     {
       "id": "bf995558",
       "image": "img/bf995558.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes se moviliza este 6 de agosto contra la ley de extranjerización y desalojos",
       "volanta": "EL PAÍS NO SE VENDE",
       "date": "2026-08-05T18:45:26+00:00"
-    },
-    {
-      "id": "ebe346e1",
-      "image": "img/ebe346e1.png",
-      "image_sha": "313ba3aa110700afb613580883d10705850d9c0e",
-      "url": "https://www.radiodos.com.ar/211858-gigared-continua-su-expansion-en-corrientes-y-anuncia-su-llegada-a-esquina-empedrado-san-isidro-y-libertador",
-      "title": "Gigared continúa su expansión en Corrientes y anuncia su llegada a Esquina, Empedrado, San Isidro y Libertador",
-      "volanta": "NOVEDAD",
-      "date": "2026-08-05T18:44:53+00:00"
     }
   ]
 }
