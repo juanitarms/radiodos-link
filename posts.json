@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:52:24+00:00",
+  "updated": "2026-08-07T22:53:23+00:00",
   "posts": [
+    {
+      "id": "276c5a7f",
+      "image": "img/276c5a7f.png",
+      "image_sha": "abeb183578450055bd3acc4c3cfa90d18011677d",
+      "url": "https://www.radiodos.com.ar/211981-un-automovilista-se-incrusto-contra-la-vidriera-de-un-comercio-en-pleno-microcentro-de-goya",
+      "title": "Un automovilista se incrustó contra la vidriera de un  comercio en pleno microcentro de Goya",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-08-07T22:53:23+00:00"
+    },
     {
       "id": "62b19285",
       "image": "img/62b19285.png",
@@ -531,15 +540,6 @@
       "title": "Se conoce el cronograma del Plus Unificado para empleados públicos de Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-08-06T11:41:42+00:00"
-    },
-    {
-      "id": "9f7a0b9b",
-      "image": "img/9f7a0b9b.png",
-      "image_sha": "705c757fcc43678d3fe506a808f691833fee0db3",
-      "url": "https://www.radiodos.com.ar/211871-detuvieron-a-un-hombre-que-era-buscado-por-un-robo-con-escalamiento",
-      "title": "Detuvieron a un hombre que era buscado por un robo con escalamiento",
-      "volanta": "CURUZÚ CUATIÁ",
-      "date": "2026-08-06T11:07:29+00:00"
     }
   ]
 }
