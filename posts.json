@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:55:27+00:00",
+  "updated": "2026-08-07T22:57:10+00:00",
   "posts": [
+    {
+      "id": "32013fa1",
+      "image": "img/32013fa1.png",
+      "image_sha": "15c18b2b8568f40c390a645c92533a74f9055b9b",
+      "url": "https://www.radiodos.com.ar/211984-thiago-medina-fue-imputado-formalmente-por-abuso-sexual",
+      "title": "Thiago Medina fue imputado formalmente por abuso sexual",
+      "volanta": "JUSTICIA",
+      "date": "2026-08-07T22:57:10+00:00"
+    },
     {
       "id": "a87f2972",
       "image": "img/a87f2972.png",
@@ -531,15 +540,6 @@
       "title": "Se encuentran habilitadas las Tarjetas Sapucay",
       "volanta": "Gobierno de Corrientes",
       "date": "2026-08-06T13:05:18+00:00"
-    },
-    {
-      "id": "1a298338",
-      "image": "img/1a298338.png",
-      "image_sha": "cac3929a2ebaabb232e3bf37b15edb22e5e43073",
-      "url": "https://www.radiodos.com.ar/211880-municipio-y-provincia-amplian-una-agenda-conjunta-para-potenciar-cultura-y-turismo",
-      "title": "Municipio y Provincia amplían una agenda conjunta para potenciar cultura y turismo",
-      "volanta": "TRABAJO MANCOMUNADO",
-      "date": "2026-08-06T12:34:31+00:00"
     }
   ]
 }
