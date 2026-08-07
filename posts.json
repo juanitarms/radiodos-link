@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T10:55:08+00:00",
+  "updated": "2026-08-07T11:31:20+00:00",
   "posts": [
+    {
+      "id": "f1a7e350",
+      "image": "img/f1a7e350.png",
+      "image_sha": "9e0fae81e16cd09cecdafec7c54d3bce928a203e",
+      "url": "https://www.radiodos.com.ar/211930-un-nene-jugaba-en-el-patio-de-su-casa-y-fue-atacado-por-una-yarara-en-el-interior-de-corrientes",
+      "title": "Un nene jugaba en el patio de su casa y fue atacado por una yarará en el interior de Corrientes",
+      "volanta": "BELLA VISTA",
+      "date": "2026-08-07T11:31:20+00:00"
+    },
     {
       "id": "34c4387c",
       "image": "img/34c4387c.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: Nicolás \"El Americano\" Soria declarará después de los testigos",
       "volanta": "JUICIO",
       "date": "2026-08-05T16:12:36+00:00"
-    },
-    {
-      "id": "0ebe24f7",
-      "image": "img/0ebe24f7.png",
-      "image_sha": "fab7be8f5f3df81a13228db57db288a70d3d762c",
-      "url": "https://www.radiodos.com.ar/211844-el-angustiante-mensaje-de-bautista-mascia-por-la-salud-de-denisse-gonzalez-manden-su-energia",
-      "title": "El angustiante mensaje de Bautista Mascia por la salud de Denisse González: \"Manden su energía\"",
-      "volanta": "COMPAÑERO",
-      "date": "2026-08-05T15:14:48+00:00"
     }
   ]
 }
