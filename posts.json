@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T21:48:23+00:00",
+  "updated": "2026-08-07T21:52:57+00:00",
   "posts": [
+    {
+      "id": "7f7d3015",
+      "image": "img/7f7d3015.png",
+      "image_sha": "81ac721024e8974f3deea59a9e370663cbafea98",
+      "url": "https://www.radiodos.com.ar/211975-la-municipalidad-saneo-un-basural-clandestino-y-coloco-camaras-de-vigilancia",
+      "title": "La Municipalidad saneó un basural clandestino y colocó cámaras de vigilancia",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-07T21:52:57+00:00"
+    },
     {
       "id": "5e5dd99e",
       "image": "img/5e5dd99e.png",
@@ -531,15 +540,6 @@
       "title": "Pablo Alonso: \"Los clubes deben tener en claro sus objetivos, porque no todos pueden jugar torneos semiprofesionales\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-08-05T22:19:16+00:00"
-    },
-    {
-      "id": "f673f6c5",
-      "image": "img/f673f6c5.png",
-      "image_sha": "5d6f887013dee91d89bafc060190b5c5523ec8e4",
-      "url": "https://www.radiodos.com.ar/211866-veronica-espindola-se-reunio-con-el-gobernador-para-coordinar-acciones-ante-el-fenomeno-de-el-nino",
-      "title": "Verónica Espíndola se reunió con el gobernador para coordinar acciones ante el fenómeno de El Niño",
-      "volanta": "TRABAJO ARTICULADO",
-      "date": "2026-08-05T22:17:57+00:00"
     }
   ]
 }
