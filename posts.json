@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T20:41:36+00:00",
+  "updated": "2026-08-07T21:46:54+00:00",
   "posts": [
+    {
+      "id": "4f85cf10",
+      "image": "img/4f85cf10.png",
+      "image_sha": "b95620d841ce05a73ed6fabc1269d57004821740",
+      "url": "https://www.radiodos.com.ar/211978-nacion-adeuda-6000-millones-a-corrientes-y-hay-20-obras-escolares-paralizadas",
+      "title": "Nación adeuda $6.000 millones a Corrientes y hay 20 obras escolares paralizadas",
+      "volanta": "AJUSTE",
+      "date": "2026-08-07T21:46:54+00:00"
+    },
     {
       "id": "e2a1e866",
       "image": "img/e2a1e866.png",
@@ -531,15 +540,6 @@
       "title": "Por presión de los bloques aliados, el Gobierno Nacional retiró el capítulo de extranjerización de tierras",
       "volanta": "SENADO NACIONAL",
       "date": "2026-08-05T21:08:19+00:00"
-    },
-    {
-      "id": "19832433",
-      "image": "img/19832433.png",
-      "image_sha": "66d13cadc55d887774d9df61bc9a2d0c4065ded2",
-      "url": "https://www.radiodos.com.ar/211862-hallan-el-cuerpo-del-empresario-que-se-arrojo-desde-el-puente-chaco-corrientes",
-      "title": "Hallan el cuerpo del empresario que se arrojó desde el puente Chaco-Corrientes",
-      "volanta": "ESTA SIESTA",
-      "date": "2026-08-05T21:06:57+00:00"
     }
   ]
 }
