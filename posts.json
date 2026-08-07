@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T14:19:00+00:00",
+  "updated": "2026-08-07T14:33:44+00:00",
   "posts": [
+    {
+      "id": "e8aed4a1",
+      "image": "img/e8aed4a1.png",
+      "image_sha": "5781a96103b3b4ccf4c32ce7fc83c3d87a4906e2",
+      "url": "https://www.radiodos.com.ar/211956-alquileres-asi-voto-cada-senador-el-desalojo-expres-de-las-familias-inquilinas-que-arrastren-una-deuda",
+      "title": "Alquileres: así votó cada senador el desalojo exprés de las familias inquilinas que arrastren una deuda",
+      "volanta": "CONGRESO",
+      "date": "2026-08-07T14:33:44+00:00"
+    },
     {
       "id": "b34196cd",
       "image": "img/b34196cd.png",
@@ -531,15 +540,6 @@
       "title": "Con un amplio operativo, \"Corrientes Cerca\" estará en el barrio Rio Paraná de la Capital",
       "volanta": "ESTE SÁBADO",
       "date": "2026-08-05T17:26:44+00:00"
-    },
-    {
-      "id": "7c2af99a",
-      "image": "img/7c2af99a.png",
-      "image_sha": "94c584d6472312fc7a09ec9cd84bb1712778b900",
-      "url": "https://www.radiodos.com.ar/211849-se-viralizo-el-regalo-que-luck-ra-le-dio-a-la-joaqui-dias-antes-de-su-separacion-es-joda",
-      "title": "Se viralizó el regalo que Luck Ra le dio a La Joaqui días antes de su separación: \"¿Es joda?\"",
-      "volanta": "SIGUE LA POLÉMICA",
-      "date": "2026-08-05T17:04:44+00:00"
     }
   ]
 }
