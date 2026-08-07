@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T21:47:24+00:00",
+  "updated": "2026-08-07T21:48:23+00:00",
   "posts": [
+    {
+      "id": "5e5dd99e",
+      "image": "img/5e5dd99e.png",
+      "image_sha": "eda35434c7e73de4053670c6c5a7d23eff4b654f",
+      "url": "https://www.radiodos.com.ar/211976-robaba-canos-de-aire-acondicionado-de-una-escuela-de-corrientes-y-termino-detenido-por-la-policia",
+      "title": "Robaba caños de aire acondicionado de una escuela de Corrientes y terminó detenido por la Policía",
+      "volanta": "ZONA DE LAS MIL",
+      "date": "2026-08-07T21:48:23+00:00"
+    },
     {
       "id": "983930de",
       "image": "img/983930de.png",
@@ -531,15 +540,6 @@
       "title": "Verónica Espíndola se reunió con el gobernador para coordinar acciones ante el fenómeno de El Niño",
       "volanta": "TRABAJO ARTICULADO",
       "date": "2026-08-05T22:17:57+00:00"
-    },
-    {
-      "id": "1d1918e5",
-      "image": "img/1d1918e5.png",
-      "image_sha": "18a022fc7d9d3b51dfabb75bc05bd9c9a28f80b5",
-      "url": "https://www.radiodos.com.ar/211864-la-pobreza-subio-en-el-pais-y-afecta-al-384-de-los-habitantes-de-la-capital-correntina",
-      "title": "La pobreza subió en el país y afecta al 38,4% de los habitantes de la capital correntina",
-      "volanta": "SEGÚN LA UCA",
-      "date": "2026-08-05T22:03:39+00:00"
     }
   ]
 }
