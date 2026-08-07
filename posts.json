@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T21:52:57+00:00",
+  "updated": "2026-08-07T22:50:19+00:00",
   "posts": [
+    {
+      "id": "19916bf0",
+      "image": "img/19916bf0.png",
+      "image_sha": "b571988a97cc6b54db2e092b34c94cf48427c090",
+      "url": "https://www.radiodos.com.ar/211979-pronostican-un-fin-de-semana-fresco-y-soleado-en-corrientes",
+      "title": "Pronostican un fin de semana fresco y soleado en Corrientes",
+      "volanta": "tiempo",
+      "date": "2026-08-07T22:50:19+00:00"
+    },
     {
       "id": "7f7d3015",
       "image": "img/7f7d3015.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: declara el forense que detectó rastros en los vehículos de Pérez y Caillava",
       "volanta": "CUATRO TESTIGOS",
       "date": "2026-08-06T10:44:14+00:00"
-    },
-    {
-      "id": "6411ae7e",
-      "image": "img/6411ae7e.png",
-      "image_sha": "80c2516ea28f7d1a0feddc4dd93c30934a751825",
-      "url": "https://www.radiodos.com.ar/211865-pablo-alonso-los-clubes-deben-tener-en-claro-sus-objetivos-porque-no-todos-pueden-jugar-torneos-semiprofesionales",
-      "title": "Pablo Alonso: \"Los clubes deben tener en claro sus objetivos, porque no todos pueden jugar torneos semiprofesionales\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-08-05T22:19:16+00:00"
     }
   ]
 }
