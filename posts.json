@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T15:05:10+00:00",
+  "updated": "2026-08-07T15:22:05+00:00",
   "posts": [
+    {
+      "id": "5110a635",
+      "image": "img/5110a635.png",
+      "image_sha": "86e29cec41aad1b19ccc7ce17a74326f8f74dec1",
+      "url": "https://www.radiodos.com.ar/211962-nuevo-romance-vinculan-a-roberto-garcia-moritan-con-emily-ceco-y-virginia-gallardo",
+      "title": "¿Nuevo romance? Vinculan a Roberto García Moritán con Emily Ceco y Virginia Gallardo",
+      "volanta": "SORPRESA",
+      "date": "2026-08-07T15:22:05+00:00"
+    },
     {
       "id": "17ed4959",
       "image": "img/17ed4959.png",
@@ -531,15 +540,6 @@
       "title": "El Banco Central alertó sobre nuevas modalidades de estafas virtuales: cuáles son y cómo evitarlas",
       "volanta": "INFORMACIÓN ÚTIL",
       "date": "2026-08-05T17:27:49+00:00"
-    },
-    {
-      "id": "5af15ffc",
-      "image": "img/5af15ffc.png",
-      "image_sha": "e9fd59eeb3c59171942a4e9f6c4c82d03dc8a5a3",
-      "url": "https://www.radiodos.com.ar/211851-kike-fue-demorado-con-elementos-robados-esta-vinculado-a-varios-hechos-delictivos",
-      "title": "\"Kike\" fue demorado con elementos robados: está vinculado a varios hechos delictivos",
-      "volanta": "DIRECCIÓN GENERAL DE DELITOS COMPLEJOS E INFORMÁTICOS",
-      "date": "2026-08-05T17:27:18+00:00"
     }
   ]
 }
