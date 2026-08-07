@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:50:19+00:00",
+  "updated": "2026-08-07T22:52:24+00:00",
   "posts": [
+    {
+      "id": "62b19285",
+      "image": "img/62b19285.png",
+      "image_sha": "ccad809d1ed40fbf541564639d752735c65a4bd7",
+      "url": "https://www.radiodos.com.ar/211982-corrientes-asesinaron-a-golpes-a-mandibula-en-plena-via-publica",
+      "title": "Corrientes: asesinaron a golpes a \"Mandíbula\" en plena vía pública",
+      "volanta": "BARRIO JUAN XXIII",
+      "date": "2026-08-07T22:52:24+00:00"
+    },
     {
       "id": "19916bf0",
       "image": "img/19916bf0.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un hombre que era buscado por un robo con escalamiento",
       "volanta": "CURUZÚ CUATIÁ",
       "date": "2026-08-06T11:07:29+00:00"
-    },
-    {
-      "id": "d45756d5",
-      "image": "img/d45756d5.png",
-      "image_sha": "3be6b4e60677b12e9906fc14d6a411c930a41dfa",
-      "url": "https://www.radiodos.com.ar/211870-juicio-por-loan-declara-el-forense-que-detecto-rastros-en-los-vehiculos-de-perez-y-caillava",
-      "title": "Juicio por Loan: declara el forense que detectó rastros en los vehículos de Pérez y Caillava",
-      "volanta": "CUATRO TESTIGOS",
-      "date": "2026-08-06T10:44:14+00:00"
     }
   ]
 }
