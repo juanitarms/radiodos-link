@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T17:36:48+00:00",
+  "updated": "2026-08-07T20:07:38+00:00",
   "posts": [
+    {
+      "id": "0874e1bf",
+      "image": "img/0874e1bf.png",
+      "image_sha": "c12fff6ee541a8a08a8bc7d11e8da7ebc25bb62e",
+      "url": "https://www.radiodos.com.ar/211973-san-martin-presenta-el-nuevo-piso-deportivo-del-fortin-rojinegro",
+      "title": "San Martín presenta el nuevo piso deportivo del Fortín Rojinegro",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-07T20:07:38+00:00"
+    },
     {
       "id": "fc307f76",
       "image": "img/fc307f76.png",
@@ -531,15 +540,6 @@
       "title": "Grave incidente de violencia entre alumnos en un colegio del interior de Corrientes activa protocolos y derivación a autoridades",
       "volanta": "GRAVE",
       "date": "2026-08-05T21:02:32+00:00"
-    },
-    {
-      "id": "2552656e",
-      "image": "img/2552656e.png",
-      "image_sha": "31821389c9349b34c531a6c13674025fcb792991",
-      "url": "https://www.radiodos.com.ar/211860-juicio-por-loan-declaro-el-falso-yankee-soria-y-afirmo-que-las-victimas-son-la-familia-del-menor-y-los-imputados-son-inocentes-",
-      "title": "Juicio por Loan: declaró el falso \"yankee\" Soria y afirmó que las víctimas son la familia del menor y los imputados son inocentes",
-      "volanta": "POR JUSTICIA",
-      "date": "2026-08-05T21:01:26+00:00"
     }
   ]
 }
