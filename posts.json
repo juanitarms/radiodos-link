@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T15:22:05+00:00",
+  "updated": "2026-08-07T16:30:56+00:00",
   "posts": [
+    {
+      "id": "bf995558",
+      "image": "img/bf995558.png",
+      "image_sha": "2d5196b0db051eb6ecc9bcecbdc13130ad4ae260",
+      "url": "https://www.radiodos.com.ar/211960-abren-convocatoria-nacional-para-que-una-nina-de-9-anos-pueda-crecer-en-familia",
+      "title": "Abren convocatoria nacional para que una niña de 9 años pueda crecer en familia",
+      "volanta": "CONVOCATORIA DE ADOPCIÓN",
+      "date": "2026-08-07T16:30:56+00:00"
+    },
     {
       "id": "5110a635",
       "image": "img/5110a635.png",
@@ -531,15 +540,6 @@
       "title": "Gigared continúa su expansión en Corrientes y anuncia su llegada a Esquina, Empedrado, San Isidro y Libertador",
       "volanta": "NOVEDAD",
       "date": "2026-08-05T18:44:53+00:00"
-    },
-    {
-      "id": "768e036b",
-      "image": "img/768e036b.png",
-      "image_sha": "4c6fe1e3d64d34d00a4f294573bb10979d131b4c",
-      "url": "https://www.radiodos.com.ar/211853-el-banco-central-alerto-sobre-nuevas-modalidades-de-estafas-virtuales-cuales-son-y-como-evitarlas",
-      "title": "El Banco Central alertó sobre nuevas modalidades de estafas virtuales: cuáles son y cómo evitarlas",
-      "volanta": "INFORMACIÓN ÚTIL",
-      "date": "2026-08-05T17:27:49+00:00"
     }
   ]
 }
