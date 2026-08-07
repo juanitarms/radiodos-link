@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:53:23+00:00",
+  "updated": "2026-08-07T22:54:59+00:00",
   "posts": [
+    {
+      "id": "cddafe4b",
+      "image": "img/cddafe4b.png",
+      "image_sha": "aee1db56481fb4726a32d27fe1ed63dfd256c9bc",
+      "url": "https://www.radiodos.com.ar/211983-murio-leandro-rud-emblematico-representante-de-modelos",
+      "title": "Murió Leandro Rud, emblemático representante de modelos",
+      "volanta": "DOLOR EN EL ESPÉCTACULOS",
+      "date": "2026-08-07T22:54:59+00:00"
+    },
     {
       "id": "276c5a7f",
       "image": "img/276c5a7f.png",
@@ -531,15 +540,6 @@
       "title": "Joven golpeada a la salida de un boliche en Corrientes: formalizan imputaciones a las agresoras",
       "volanta": "DESDE LAS 10",
       "date": "2026-08-06T12:19:01+00:00"
-    },
-    {
-      "id": "766f5ada",
-      "image": "img/766f5ada.png",
-      "image_sha": "4de30019520318ce0321135230560a00a89b0008",
-      "url": "https://www.radiodos.com.ar/211873-se-conoce-el-cronograma-del-plus-unificado-para-empleados-publicos-de-corrientes",
-      "title": "Se conoce el cronograma del Plus Unificado para empleados públicos de Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-08-06T11:41:42+00:00"
     }
   ]
 }
