@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-08T22:13:52+00:00",
+  "updated": "2026-08-08T22:14:21+00:00",
   "posts": [
+    {
+      "id": "8c187ce4",
+      "image": "img/8c187ce4.png",
+      "image_sha": "66b8975d12c9a6c2a78e7e1eb3f211b46caed7fd",
+      "url": "https://www.radiodos.com.ar/211999-el-operativo-corrientes-cerca-brindo-atenciones-gratuitas-en-el-barrio-rio-parana",
+      "title": "El operativo Corrientes Cerca brindó atenciones gratuitas en el barrio Río Paraná",
+      "volanta": "ACCESO A SERVICIOS Y TRÁMITES EN LOS BARRIOS",
+      "date": "2026-08-08T22:14:21+00:00"
+    },
     {
       "id": "107fc6f7",
       "image": "img/107fc6f7.png",
@@ -531,15 +540,6 @@
       "title": "Juliana Hormaechea en el ranking nacional de goleadoras CAB",
       "volanta": "BÁSQUET",
       "date": "2026-08-06T14:55:01+00:00"
-    },
-    {
-      "id": "05560d87",
-      "image": "img/05560d87.png",
-      "image_sha": "e08a54843155f70adec8059d6e5510e91584699c",
-      "url": "https://www.radiodos.com.ar/211887-valdes-hablo-de-salarios-obras-elecciones-y-el-proyecto-de-extranjerizacion-de-la-tierra",
-      "title": "Valdés habló de salarios, obras, elecciones y el proyecto de extranjerización de la tierra",
-      "volanta": "CASA DE GOBIERNO",
-      "date": "2026-08-06T14:37:56+00:00"
     }
   ]
 }
