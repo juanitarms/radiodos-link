@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T22:57:10+00:00",
+  "updated": "2026-08-08T18:15:54+00:00",
   "posts": [
+    {
+      "id": "732e338c",
+      "image": "img/732e338c.png",
+      "image_sha": "df962ba12cfd81cf42adb1a2e89df7d1b310cac3",
+      "url": "https://www.radiodos.com.ar/211990-exen-cerro-todas-sus-sucursales-tras-los-allanamientos-por-la-causa-de-lavado-en-corrientes-y-chaco",
+      "title": "EXEN cerró todas sus sucursales tras los allanamientos por la causa de lavado en Corrientes y Chaco",
+      "volanta": "PRESUNTO LAVADO",
+      "date": "2026-08-08T18:15:54+00:00"
+    },
     {
       "id": "32013fa1",
       "image": "img/32013fa1.png",
@@ -531,15 +540,6 @@
       "title": "Denunció que fue sedada en un boliche y luego abusada sexualmente: un detenido",
       "volanta": "SANTO TOMÉ",
       "date": "2026-08-06T13:31:18+00:00"
-    },
-    {
-      "id": "9bccda8a",
-      "image": "img/9bccda8a.png",
-      "image_sha": "94f12b349f425bc9ffe0b6ffc5d6af53294c29e9",
-      "url": "https://www.radiodos.com.ar/211886-se-encuentran-habilitadas-las-tarjetas-sapucay",
-      "title": "Se encuentran habilitadas las Tarjetas Sapucay",
-      "volanta": "Gobierno de Corrientes",
-      "date": "2026-08-06T13:05:18+00:00"
     }
   ]
 }
