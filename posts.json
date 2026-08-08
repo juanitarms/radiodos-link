@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-08T22:14:21+00:00",
+  "updated": "2026-08-08T23:14:23+00:00",
   "posts": [
+    {
+      "id": "2e5b866e",
+      "image": "img/2e5b866e.png",
+      "image_sha": "5ee4ba26d8e52867f671d5d041059ca4fd694551",
+      "url": "https://www.radiodos.com.ar/212018-roberto-garcia-moritan-rompio-el-silencio-sobre-emily-ceco-y-virginia-gallardo-dediquense-a-sus-vidas",
+      "title": "Roberto García Moritán rompió el silencio sobre Emily Ceco y Virginia Gallardo: \"Dedíquense a sus vidas\"",
+      "volanta": "PUSO LÌMITES",
+      "date": "2026-08-08T23:14:23+00:00"
+    },
     {
       "id": "8c187ce4",
       "image": "img/8c187ce4.png",
@@ -531,15 +540,6 @@
       "title": "El STJ confirmó la responsabilidad penal de un hombre por abuso sexual simple",
       "volanta": "SENTENCIA PENAL",
       "date": "2026-08-06T15:13:07+00:00"
-    },
-    {
-      "id": "a4dded71",
-      "image": "img/a4dded71.png",
-      "image_sha": "38e3c09847ab1ea8820b51273c2a95a1ac3aec2f",
-      "url": "https://www.radiodos.com.ar/211888-juliana-hormaechea-en-el-ranking-nacional-de-goleadoras-cab",
-      "title": "Juliana Hormaechea en el ranking nacional de goleadoras CAB",
-      "volanta": "BÁSQUET",
-      "date": "2026-08-06T14:55:01+00:00"
     }
   ]
 }
