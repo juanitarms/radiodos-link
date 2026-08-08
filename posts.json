@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-08T23:14:23+00:00",
+  "updated": "2026-08-08T23:14:53+00:00",
   "posts": [
+    {
+      "id": "58647a9b",
+      "image": "img/58647a9b.png",
+      "image_sha": "16584ff353dd6b6c43bf85df974a32079a66c0e1",
+      "url": "https://www.radiodos.com.ar/212015-el-emotivo-mensaje-de-mirtha-legrand-por-la-muerte-de-jorge-messi",
+      "title": "El emotivo mensaje de Mirtha Legrand por la muerte de Jorge Messi",
+      "volanta": "ACOMPAÑAMIENTO",
+      "date": "2026-08-08T23:14:53+00:00"
+    },
     {
       "id": "2e5b866e",
       "image": "img/2e5b866e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes se estrena en el Campeonato Argentino de Federaciones de Infantiles masculino",
       "volanta": "BÁSQUET",
       "date": "2026-08-06T16:32:46+00:00"
-    },
-    {
-      "id": "51cc9652",
-      "image": "img/51cc9652.png",
-      "image_sha": "ea42c6c6b5c5454e4ae59500b9f4607548149f76",
-      "url": "https://www.radiodos.com.ar/211891-el-stj-confirmo-la-responsabilidad-penal-de-un-hombre-por-abuso-sexual-simple",
-      "title": "El STJ confirmó la responsabilidad penal de un hombre por abuso sexual simple",
-      "volanta": "SENTENCIA PENAL",
-      "date": "2026-08-06T15:13:07+00:00"
     }
   ]
 }
