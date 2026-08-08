@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-08T18:16:30+00:00",
+  "updated": "2026-08-08T22:13:52+00:00",
   "posts": [
+    {
+      "id": "107fc6f7",
+      "image": "img/107fc6f7.png",
+      "image_sha": "1f8a42fa2cbe861429334bec0133a89df84197dd",
+      "url": "https://www.radiodos.com.ar/211985-estamos-en-un-momento-de-cambio-y-creo-que-es-muy-providencial-la-visita-del-papa",
+      "title": "\"Estamos en un momento de cambio y creo que es muy providencial la visita del Papa\"",
+      "volanta": "Monseñor Gustavo Montini",
+      "date": "2026-08-08T22:13:52+00:00"
+    },
     {
       "id": "6022748d",
       "image": "img/6022748d.png",
@@ -531,15 +540,6 @@
       "title": "Valdés habló de salarios, obras, elecciones y el proyecto de extranjerización de la tierra",
       "volanta": "CASA DE GOBIERNO",
       "date": "2026-08-06T14:37:56+00:00"
-    },
-    {
-      "id": "238c3a07",
-      "image": "img/238c3a07.png",
-      "image_sha": "f1ad3ff108456145bf0b81622acbc1a1c27bd54d",
-      "url": "https://www.radiodos.com.ar/211885-controlan-mochilas-en-colegio-del-interior-de-corrientes-tras-un-incidente-entre-alumnos-con-un-cuchillo",
-      "title": "Controlan mochilas en Colegio del interior de Corrientes tras un incidente entre alumnos con un cuchillo",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-08-06T14:09:22+00:00"
     }
   ]
 }
