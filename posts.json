@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T17:22:45+00:00",
+  "updated": "2026-08-09T17:23:16+00:00",
   "posts": [
+    {
+      "id": "2846a97d",
+      "image": "img/2846a97d.png",
+      "image_sha": "eefc525495a46a31097d8ffc403d286d5a649ae6",
+      "url": "https://www.radiodos.com.ar/212002-salud-incorpora-al-pami-a-la-red-de-atencion-del-acv-y-continua-ampliando-su-alcance-en-el-pais",
+      "title": "Salud incorpora al PAMI a la red de atención del ACV y continúa ampliando su alcance en el país",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-09T17:23:16+00:00"
+    },
     {
       "id": "4745c6cb",
       "image": "img/4745c6cb.png",
@@ -531,15 +540,6 @@
       "title": "Un jefe de la Policía Federal fue detenido en Córdoba acusado de robo",
       "volanta": "CAUSA ABIERTA",
       "date": "2026-08-06T17:54:31+00:00"
-    },
-    {
-      "id": "4ec00f9c",
-      "image": "img/4ec00f9c.png",
-      "image_sha": "45330c488f916021d41fe77c67968181ff0cd4ba",
-      "url": "https://www.radiodos.com.ar/211896-la-anmat-prohibio-la-venta-de-una-reconocida-crema-desinflamante-y-de-una-serie-de-productos-para-mascotas",
-      "title": "La Anmat prohibió la venta de una reconocida crema desinflamante y de una serie de productos para mascotas",
-      "volanta": "Oficial",
-      "date": "2026-08-06T17:12:56+00:00"
     }
   ]
 }
