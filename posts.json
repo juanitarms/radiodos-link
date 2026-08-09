@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T15:22:39+00:00",
+  "updated": "2026-08-09T15:28:08+00:00",
   "posts": [
+    {
+      "id": "d2fea535",
+      "image": "img/d2fea535.png",
+      "image_sha": "4122d20214861f62758dd70bb99c594e4604d1c4",
+      "url": "https://www.radiodos.com.ar/212021-blindan-el-cementerio-para-evitar-drones-y-miradas-en-el-funeral-de-jorge-messi",
+      "title": "Blindan el cementerio para evitar drones y miradas en el funeral de Jorge Messi",
+      "volanta": "rosario",
+      "date": "2026-08-09T15:28:08+00:00"
+    },
     {
       "id": "3b8d612f",
       "image": "img/3b8d612f.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei autorizó por decreto el ingreso de tropas brasileñas para participar de ejercicios militares",
       "volanta": "NOVEDAD",
       "date": "2026-08-06T17:12:24+00:00"
-    },
-    {
-      "id": "d465c0b1",
-      "image": "img/d465c0b1.png",
-      "image_sha": "a0be2da3f814e0a4442f98e9a98dfa4b02eacddd",
-      "url": "https://www.radiodos.com.ar/211892-acorralado-por-las-estadisticas-luis-caputo-califico-de-tarados-a-quienes-reclaman-cuidar-la-industria",
-      "title": "Acorralado por las estadísticas, Luis Caputo calificó de \"tarados\" a quienes reclaman cuidar la industria",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-08-06T17:11:48+00:00"
     }
   ]
 }
