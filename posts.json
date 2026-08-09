@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T17:23:16+00:00",
+  "updated": "2026-08-09T17:23:48+00:00",
   "posts": [
+    {
+      "id": "0dbc30d2",
+      "image": "img/0dbc30d2.png",
+      "image_sha": "94d29b433e2e266cbfbbf7f1f699a3d61f11ac6d",
+      "url": "https://www.radiodos.com.ar/212000-sebastian-lugo-es-el-primer-refuerzo-de-san-martin",
+      "title": "Sebastián Lugo es el primer refuerzo de San Martín",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-08-09T17:23:48+00:00"
+    },
     {
       "id": "2846a97d",
       "image": "img/2846a97d.png",
@@ -531,15 +540,6 @@
       "title": "Diego Forlán fue presentado como nuevo entrenador de Uruguay tras la salida de Bielsa",
       "volanta": "FÚTBOL",
       "date": "2026-08-06T18:54:14+00:00"
-    },
-    {
-      "id": "735b6e01",
-      "image": "img/735b6e01.png",
-      "image_sha": "20ecf9f922d1322a90ad42e04f581f7094cae0ef",
-      "url": "https://www.radiodos.com.ar/211893-un-jefe-de-la-policia-federal-fue-detenido-en-cordoba-acusado-de-robo",
-      "title": "Un jefe de la Policía Federal fue detenido en Córdoba acusado de robo",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-08-06T17:54:31+00:00"
     }
   ]
 }
