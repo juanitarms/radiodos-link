@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T15:28:08+00:00",
+  "updated": "2026-08-09T17:22:45+00:00",
   "posts": [
+    {
+      "id": "4745c6cb",
+      "image": "img/4745c6cb.png",
+      "image_sha": "4fc7a6e37c605b15be2f6404f6254e5da85a356a",
+      "url": "https://www.radiodos.com.ar/212003-javier-milei-firmo-el-decreto-562-2025-y-el-dia-del-nino-cambio-de-nombre",
+      "title": "Javier Milei firmó el Decreto 562/2025 y el Día del Niño cambió de nombre",
+      "volanta": "¿CUÀNDO ES?",
+      "date": "2026-08-09T17:22:45+00:00"
+    },
     {
       "id": "d2fea535",
       "image": "img/d2fea535.png",
@@ -531,15 +540,6 @@
       "title": "La Anmat prohibió la venta de una reconocida crema desinflamante y de una serie de productos para mascotas",
       "volanta": "Oficial",
       "date": "2026-08-06T17:12:56+00:00"
-    },
-    {
-      "id": "add85bbf",
-      "image": "img/add85bbf.png",
-      "image_sha": "fe8da310b51e0dbe98806092cd8d23715a048a4a",
-      "url": "https://www.radiodos.com.ar/211897-javier-milei-autorizo-por-decreto-el-ingreso-de-tropas-brasilenas-para-participar-de-ejercicios-militares",
-      "title": "Javier Milei autorizó por decreto el ingreso de tropas brasileñas para participar de ejercicios militares",
-      "volanta": "NOVEDAD",
-      "date": "2026-08-06T17:12:24+00:00"
     }
   ]
 }
