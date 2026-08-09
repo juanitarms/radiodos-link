@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T17:23:48+00:00",
+  "updated": "2026-08-09T19:27:09+00:00",
   "posts": [
+    {
+      "id": "119485b4",
+      "image": "img/119485b4.png",
+      "image_sha": "ba7f78fffb2e53998858a58c2e256235f07874f3",
+      "url": "https://www.radiodos.com.ar/212024-boca-oficializo-la-llegada-de-enner-valencia",
+      "title": "Boca oficializó la llegada de Enner Valencia",
+      "volanta": "fútbol",
+      "date": "2026-08-09T19:27:09+00:00"
+    },
     {
       "id": "0dbc30d2",
       "image": "img/0dbc30d2.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno designó al nuevo director del Servicio Meteorológico Nacional",
       "volanta": "CONFIRMADO",
       "date": "2026-08-06T18:54:47+00:00"
-    },
-    {
-      "id": "3efd3cfe",
-      "image": "img/3efd3cfe.png",
-      "image_sha": "98aade13f50acb1c694cbe698496ba59e5b1ad08",
-      "url": "https://www.radiodos.com.ar/211899-diego-forlan-fue-presentado-como-nuevo-entrenador-de-uruguay-tras-la-salida-de-bielsa",
-      "title": "Diego Forlán fue presentado como nuevo entrenador de Uruguay tras la salida de Bielsa",
-      "volanta": "FÚTBOL",
-      "date": "2026-08-06T18:54:14+00:00"
     }
   ]
 }
