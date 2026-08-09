@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T19:27:09+00:00",
+  "updated": "2026-08-09T19:27:41+00:00",
   "posts": [
+    {
+      "id": "b0457ded",
+      "image": "img/b0457ded.png",
+      "image_sha": "f430507bb78c5d5432f19af487d0c5366387c839",
+      "url": "https://www.radiodos.com.ar/212027-el-gobernador-juan-pablo-valdes-encabezo-el-acto-por-el-dia-de-la-policia-de-corrientes",
+      "title": "El gobernador Juan Pablo Valdes encabezó el acto por el Dia de la Policía de Corrientes",
+      "volanta": "55° ANIVERSARIO DE LA INSTITUCIÓN",
+      "date": "2026-08-09T19:27:41+00:00"
+    },
     {
       "id": "119485b4",
       "image": "img/119485b4.png",
@@ -531,15 +540,6 @@
       "title": "Desde Lali Espósito hasta Emilia Mernes: los famosos que convocaron a marchar contra la Ley de Tierras",
       "volanta": "COMPROMETIDOS",
       "date": "2026-08-06T18:55:20+00:00"
-    },
-    {
-      "id": "1a861ade",
-      "image": "img/1a861ade.png",
-      "image_sha": "b10055ede0aff379079f90d8e3f4fd70ae98ae11",
-      "url": "https://www.radiodos.com.ar/211898-el-gobierno-designo-al-nuevo-director-del-servicio-meteorologico-nacional",
-      "title": "El Gobierno designó al nuevo director del Servicio Meteorológico Nacional",
-      "volanta": "CONFIRMADO",
-      "date": "2026-08-06T18:54:47+00:00"
     }
   ]
 }
