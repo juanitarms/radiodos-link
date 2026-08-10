@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T17:16:12+00:00",
+  "updated": "2026-08-10T17:16:48+00:00",
   "posts": [
+    {
+      "id": "9d68eaa6",
+      "image": "img/9d68eaa6.png",
+      "image_sha": "7ca6cd984db8af8f93cc9cdcc65f02099ebfd12d",
+      "url": "https://www.radiodos.com.ar/212059-reconocimiento-de-la-camara-de-diputados-a-los-doctores-eduardo-perna-y-stella-maris-macin-del-instituto-de-cardiologia",
+      "title": "Reconocimiento de la Cámara de Diputados a los doctores Eduardo Perna y Stella Maris Macín del Instituto de Cardiología",
+      "volanta": "Este martes a las 19 horas",
+      "date": "2026-08-10T17:16:48+00:00"
+    },
     {
       "id": "58683f65",
       "image": "img/58683f65.png",
@@ -531,15 +540,6 @@
       "title": "La Policía dio números contundentes sobre la lucha contra el narcomenudeo en Corrientes",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-08-06T23:36:36+00:00"
-    },
-    {
-      "id": "48b2e4ec",
-      "image": "img/48b2e4ec.png",
-      "image_sha": "ce2bbac4fc8b73f5402f58ead2c707bbda0415f1",
-      "url": "https://www.radiodos.com.ar/211924-d’onofrio-afirmo-que-le-comunico-a-di-carlo-que-se-equivoco-con-los-apartados",
-      "title": "D’Onofrio afirmó que le comunicó a Di Carlo que \"se equivocó\" con los apartados",
-      "volanta": "crisis en river",
-      "date": "2026-08-06T23:31:17+00:00"
     }
   ]
 }
