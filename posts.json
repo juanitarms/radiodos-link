@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T13:37:42+00:00",
+  "updated": "2026-08-10T13:55:21+00:00",
   "posts": [
+    {
+      "id": "1af75ee2",
+      "image": "img/1af75ee2.png",
+      "image_sha": "2a81a193c46cc551c2a2c8b3a8b79bf4cbea03f1",
+      "url": "https://www.radiodos.com.ar/212043-buscan-a-una-adolescente-que-no-volvio-a-su-hogar-",
+      "title": "Buscan a una adolescente que no volvió a su hogar",
+      "volanta": "COMISARIA 2DA. DE LA MUJER Y EL MENOR",
+      "date": "2026-08-10T13:55:21+00:00"
+    },
     {
       "id": "1f08c751",
       "image": "img/1f08c751.png",
@@ -531,15 +540,6 @@
       "title": "Gobierno de Corrientes capacita a Municipios en Responsabilidad Fiscal",
       "volanta": "TRANSPARIENCIA EN LA GESTIÓN PÚBLICA",
       "date": "2026-08-06T21:34:12+00:00"
-    },
-    {
-      "id": "ef9c79db",
-      "image": "img/ef9c79db.png",
-      "image_sha": "d8d76bde6bcc4da1e4aa05fcec083f0f463eae10",
-      "url": "https://www.radiodos.com.ar/211915-juicio-por-loan-se-ratifico-la-deteccion-de-rastros-del-nino-en-los-autos-de-perez-y-caillava",
-      "title": "Juicio por Loan: se ratificó la detección de rastros del niño en los autos de Pérez y Caillava",
-      "volanta": "HOY",
-      "date": "2026-08-06T21:32:56+00:00"
     }
   ]
 }
