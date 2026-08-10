@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T22:13:51+00:00",
+  "updated": "2026-08-10T22:15:25+00:00",
   "posts": [
+    {
+      "id": "f9ab417b",
+      "image": "img/f9ab417b.png",
+      "image_sha": "2b3f8220909632a3923915e49465133ded71f96e",
+      "url": "https://www.radiodos.com.ar/212084-las-ventas-de-materiales-para-la-construccion-cayeron-un-65-en-julio",
+      "title": "Las ventas de materiales para la construcción cayeron un 6,5% en julio",
+      "volanta": "CRISIS",
+      "date": "2026-08-10T22:15:25+00:00"
+    },
     {
       "id": "4db9d61f",
       "image": "img/4db9d61f.png",
@@ -531,15 +540,6 @@
       "title": "Abren convocatoria nacional para que una niña de 9 años pueda crecer en familia",
       "volanta": "CONVOCATORIA DE ADOPCIÓN",
       "date": "2026-08-07T16:30:56+00:00"
-    },
-    {
-      "id": "5110a635",
-      "image": "img/5110a635.png",
-      "image_sha": "86e29cec41aad1b19ccc7ce17a74326f8f74dec1",
-      "url": "https://www.radiodos.com.ar/211962-nuevo-romance-vinculan-a-roberto-garcia-moritan-con-emily-ceco-y-virginia-gallardo",
-      "title": "¿Nuevo romance? Vinculan a Roberto García Moritán con Emily Ceco y Virginia Gallardo",
-      "volanta": "SORPRESA",
-      "date": "2026-08-07T15:22:05+00:00"
     }
   ]
 }
