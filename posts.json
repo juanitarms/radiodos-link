@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T14:14:28+00:00",
+  "updated": "2026-08-10T14:33:21+00:00",
   "posts": [
+    {
+      "id": "ef827673",
+      "image": "img/ef827673.png",
+      "image_sha": "feb98e4b53ef813ad74ba2dbe416bf5a44c81091",
+      "url": "https://www.radiodos.com.ar/212045-brutal-femicidio-fue-asesinada-a-apunaladas-delante-de-sus-hijos",
+      "title": "Brutal femicidio: fue asesinada a apuñaladas delante de sus hijos",
+      "volanta": "LUJÁN",
+      "date": "2026-08-10T14:33:21+00:00"
+    },
     {
       "id": "13ec6efa",
       "image": "img/13ec6efa.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú anunció un nuevo refuerzo y acelera su preparación para el Regional",
       "volanta": "FEDERAL AMATEUR",
       "date": "2026-08-06T21:36:17+00:00"
-    },
-    {
-      "id": "742a661a",
-      "image": "img/742a661a.png",
-      "image_sha": "01a013f7cd4c8242903ffb6b11c9494e2f64e2b9",
-      "url": "https://www.radiodos.com.ar/211920-la-ciudad-de-corrientes-recibio-al-chozno-nieto-de-manuel-belgrano-con-una-distincion-especial",
-      "title": "La Ciudad de Corrientes recibió al chozno nieto de Manuel Belgrano con una distinción especial",
-      "volanta": "DESTACADA VISITA",
-      "date": "2026-08-06T21:35:34+00:00"
     }
   ]
 }
