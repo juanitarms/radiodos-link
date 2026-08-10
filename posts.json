@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T10:18:58+00:00",
+  "updated": "2026-08-10T10:57:37+00:00",
   "posts": [
+    {
+      "id": "b5b4918a",
+      "image": "img/b5b4918a.png",
+      "image_sha": "bb8ebb18a5fa212fd45a53db1c3daa291408d331",
+      "url": "https://www.radiodos.com.ar/212035-plus-unificado-continua-el-pago-a-estatales-y-jubilados-de-corrientes",
+      "title": "Plus Unificado: continúa el pago a estatales y jubilados de Corrientes",
+      "volanta": "HASTA EL JUEVES",
+      "date": "2026-08-10T10:57:37+00:00"
+    },
     {
       "id": "a88262b1",
       "image": "img/a88262b1.png",
@@ -531,15 +540,6 @@
       "title": "Corte total en RN 12 por el temporal en el sur de Corrientes",
       "volanta": "HACE INSTANTES",
       "date": "2026-08-06T20:41:38+00:00"
-    },
-    {
-      "id": "aa72649c",
-      "image": "img/aa72649c.png",
-      "image_sha": "e565cb233e96e0b276647de457b30cebd02f1591",
-      "url": "https://www.radiodos.com.ar/211904-dramatico-encontraron-a-zulma-lobato-desorientada-y-en-situacion-de-calle",
-      "title": "Dramático: encontraron a Zulma Lobato desorientada y en situación de calle",
-      "volanta": "TERRIBLE",
-      "date": "2026-08-06T18:55:49+00:00"
     }
   ]
 }
