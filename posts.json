@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T12:46:24+00:00",
+  "updated": "2026-08-10T13:09:50+00:00",
   "posts": [
+    {
+      "id": "d2c5c286",
+      "image": "img/d2c5c286.png",
+      "image_sha": "41bf760038f3823a2ea1d788f1f6abbf63223390",
+      "url": "https://www.radiodos.com.ar/212038-familiares-de-aimara-sospechan-de-la-duena-de-la-casa-incendiada-piden-justicia-",
+      "title": "Familiares de Aimará sospechan de la dueña de la casa incendiada: piden justicia",
+      "volanta": "FEMICIDIO",
+      "date": "2026-08-10T13:09:50+00:00"
+    },
     {
       "id": "32b35421",
       "image": "img/32b35421.png",
@@ -531,15 +540,6 @@
       "title": "Alerta maderera: Cae el empleo y advierten por la pérdida de oficios técnicos",
       "volanta": "crisis en el sector",
       "date": "2026-08-06T21:32:24+00:00"
-    },
-    {
-      "id": "a1476325",
-      "image": "img/a1476325.png",
-      "image_sha": "97a09240ea6a5410920d0d519c626209bf229877",
-      "url": "https://www.radiodos.com.ar/211917-fuertes-rafagas-provocaron-destrozos-en-zonas-rurales-del-sur-de-corrientes",
-      "title": "Fuertes ráfagas provocaron destrozos en zonas rurales del sur de Corrientes",
-      "volanta": "VIENTOS",
-      "date": "2026-08-06T21:31:00+00:00"
     }
   ]
 }
