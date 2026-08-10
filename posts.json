@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T21:21:41+00:00",
+  "updated": "2026-08-10T21:22:48+00:00",
   "posts": [
+    {
+      "id": "3ed3d90c",
+      "image": "img/3ed3d90c.png",
+      "image_sha": "5b21fa904142be7f073bd24c482a3f7cce443663",
+      "url": "https://www.radiodos.com.ar/212081-la-conocia-hace-algunos-dias-y-la-asesino-con-el-cable-del-celular-espeluznantes-detalles-de-otra-tragedia-en-corrientes",
+      "title": "La conocía hace algunos días y la asesinó con el cable del celular: espeluznantes detalles de otra tragedia en Corrientes",
+      "volanta": "BARRIO SEMINARIO",
+      "date": "2026-08-10T21:22:48+00:00"
+    },
     {
       "id": "ba352d19",
       "image": "img/ba352d19.png",
@@ -531,15 +540,6 @@
       "title": "\"Eritema, excoriación y equimosis\": el parte médico de Victoria Luz Cantero tras el crimen de su novio",
       "volanta": "CHACO",
       "date": "2026-08-07T14:04:31+00:00"
-    },
-    {
-      "id": "055e59f1",
-      "image": "img/055e59f1.png",
-      "image_sha": "784eaa7d701167f2f5293bdf645d31177d64de91",
-      "url": "https://www.radiodos.com.ar/211938-el-mundialito-sub-13-define-a-los-ultimos-finalistas-en-el-barrio-san-antonio-oeste",
-      "title": "El Mundialito Sub-13 define a los últimos finalistas en el barrio San Antonio Oeste",
-      "volanta": "FÚTBOL INFANTIL",
-      "date": "2026-08-07T13:44:07+00:00"
     }
   ]
 }
