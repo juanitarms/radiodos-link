@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T14:33:21+00:00",
+  "updated": "2026-08-10T14:50:27+00:00",
   "posts": [
+    {
+      "id": "c051299d",
+      "image": "img/c051299d.png",
+      "image_sha": "dc0c40b935202acc8a659f52cd9f23551a100787",
+      "url": "https://www.radiodos.com.ar/212052-anses-pago-de-pensiones-y-jubilaciones",
+      "title": "Anses: pago de pensiones y jubilaciones",
+      "volanta": "Hoy",
+      "date": "2026-08-10T14:50:27+00:00"
+    },
     {
       "id": "ef827673",
       "image": "img/ef827673.png",
@@ -531,15 +540,6 @@
       "title": "Golpe al narcomenudeo: Cuatro detenidos, drogas secuestradas y casi un millón de pesos incautados",
       "volanta": "santa rosa",
       "date": "2026-08-06T21:36:49+00:00"
-    },
-    {
-      "id": "b7469bad",
-      "image": "img/b7469bad.png",
-      "image_sha": "3068660354025c2125a9ab15015dbefbf8eec03f",
-      "url": "https://www.radiodos.com.ar/211919-mandiyu-anuncio-un-nuevo-refuerzo-y-acelera-su-preparacion-para-el-regional",
-      "title": "Mandiyú anunció un nuevo refuerzo y acelera su preparación para el Regional",
-      "volanta": "FEDERAL AMATEUR",
-      "date": "2026-08-06T21:36:17+00:00"
     }
   ]
 }
