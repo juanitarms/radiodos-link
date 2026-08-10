@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-09T19:27:41+00:00",
+  "updated": "2026-08-10T10:18:58+00:00",
   "posts": [
+    {
+      "id": "a88262b1",
+      "image": "img/a88262b1.png",
+      "image_sha": "3b2461b2ae04c9ce15c446e4b72a57fe32851492",
+      "url": "https://www.radiodos.com.ar/212033-conocida-cantante-de-cumbia-sufrio-el-vuelco-con-su-auto-en-ruta-de-corrientes",
+      "title": "Conocida cantante de cumbia sufrió el vuelco con su auto en ruta de Corrientes",
+      "volanta": "RUTA 12",
+      "date": "2026-08-10T10:18:58+00:00"
+    },
     {
       "id": "b0457ded",
       "image": "img/b0457ded.png",
@@ -531,15 +540,6 @@
       "title": "Dramático: encontraron a Zulma Lobato desorientada y en situación de calle",
       "volanta": "TERRIBLE",
       "date": "2026-08-06T18:55:49+00:00"
-    },
-    {
-      "id": "80c989c4",
-      "image": "img/80c989c4.png",
-      "image_sha": "ea2570e5fb324ba2f9b92ffb23f470a4d1392194",
-      "url": "https://www.radiodos.com.ar/211900-desde-lali-esposito-hasta-emilia-mernes-los-famosos-que-convocaron-a-marchar-contra-la-ley-de-tierras",
-      "title": "Desde Lali Espósito hasta Emilia Mernes: los famosos que convocaron a marchar contra la Ley de Tierras",
-      "volanta": "COMPROMETIDOS",
-      "date": "2026-08-06T18:55:20+00:00"
     }
   ]
 }
