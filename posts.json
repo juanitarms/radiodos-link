@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T20:48:13+00:00",
+  "updated": "2026-08-10T21:21:41+00:00",
   "posts": [
+    {
+      "id": "ba352d19",
+      "image": "img/ba352d19.png",
+      "image_sha": "67e5b6fd4415897f2203867b71367ad4d75e92ae",
+      "url": "https://www.radiodos.com.ar/212080-cerraron-mas-de-28000-empresas-desde-el-inicio-de-la-gestion-de-milei",
+      "title": "Cerraron más de 28.000 empresas desde el inicio de la gestión de Milei",
+      "volanta": "Pérdida masiva de empleo registrado",
+      "date": "2026-08-10T21:21:41+00:00"
+    },
     {
       "id": "a05e7c14",
       "image": "img/a05e7c14.png",
@@ -531,15 +540,6 @@
       "title": "El Mundialito Sub-13 define a los últimos finalistas en el barrio San Antonio Oeste",
       "volanta": "FÚTBOL INFANTIL",
       "date": "2026-08-07T13:44:07+00:00"
-    },
-    {
-      "id": "a1775738",
-      "image": "img/a1775738.png",
-      "image_sha": "c1b733f994f21a8305851430e0827a1d23ed4e0a",
-      "url": "https://www.radiodos.com.ar/211943-jubilados-de-anses-los-nuevos-montos-confirmados-y-que-pasara-con-el-bono-de-70000",
-      "title": "Jubilados de ANSES: los nuevos montos confirmados y qué pasará con el bono de $70.000",
-      "volanta": "NOVEDAD",
-      "date": "2026-08-07T13:29:09+00:00"
     }
   ]
 }
