@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T15:06:56+00:00",
+  "updated": "2026-08-10T16:23:03+00:00",
   "posts": [
+    {
+      "id": "fd2f6251",
+      "image": "img/fd2f6251.png",
+      "image_sha": "1fbbce4fc0c859fdbb0774ef473f5d862ae7cf2f",
+      "url": "https://www.radiodos.com.ar/212058-en-distintos-procedimientos-recuperaron-una-desmalezadora-y-una-bici-robadas-",
+      "title": "En distintos procedimientos recuperaron una desmalezadora y una bici robadas",
+      "volanta": "ITATÍ y SAN LUIS DEL PALMAR",
+      "date": "2026-08-10T16:23:03+00:00"
+    },
     {
       "id": "1c5ad15e",
       "image": "img/1c5ad15e.png",
@@ -531,15 +540,6 @@
       "title": "Candela Arizaga aseguró que sufrió un \"brote psicótico\" y desvinculó a Moyano",
       "volanta": "Tras la liberación del exdiputado",
       "date": "2026-08-06T23:29:18+00:00"
-    },
-    {
-      "id": "32777f30",
-      "image": "img/32777f30.png",
-      "image_sha": "f4e6d720c4bac9266ed1a9f45a6bfad8ab346fd4",
-      "url": "https://www.radiodos.com.ar/211921-condenaron-a-dos-anos-de-prision-en-suspenso-al-joven-que-atropello-y-mato-a-un-soldado",
-      "title": "Condenaron a dos años de prisión en suspenso al joven que atropelló y mató a un soldado",
-      "volanta": "MERCEDES",
-      "date": "2026-08-06T21:37:27+00:00"
     }
   ]
 }
