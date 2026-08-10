@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T20:13:37+00:00",
+  "updated": "2026-08-10T20:38:52+00:00",
   "posts": [
+    {
+      "id": "33735030",
+      "image": "img/33735030.png",
+      "image_sha": "c471bfa776522b00cb7a6044d5a279819e2344df",
+      "url": "https://www.radiodos.com.ar/212078-ejecutan-obras-pluviales-para-prevenir-anegamientos-por-lluvias-en-un-barrio-de-corrientes",
+      "title": "Ejecutan obras pluviales para prevenir anegamientos por lluvias en un barrio de Corrientes",
+      "volanta": "TRABAJO PREVENTIVO",
+      "date": "2026-08-10T20:38:52+00:00"
+    },
     {
       "id": "7d93a9cf",
       "image": "img/7d93a9cf.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes presentó su Plan Estratégico 2026-2030 para fortalecer la donación de órganos",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-08-07T12:11:07+00:00"
-    },
-    {
-      "id": "f1a7e350",
-      "image": "img/f1a7e350.png",
-      "image_sha": "9e0fae81e16cd09cecdafec7c54d3bce928a203e",
-      "url": "https://www.radiodos.com.ar/211930-un-nene-jugaba-en-el-patio-de-su-casa-y-fue-atacado-por-una-yarara-en-el-interior-de-corrientes",
-      "title": "Un nene jugaba en el patio de su casa y fue atacado por una yarará en el interior de Corrientes",
-      "volanta": "BELLA VISTA",
-      "date": "2026-08-07T11:31:20+00:00"
     }
   ]
 }
