@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T13:55:21+00:00",
+  "updated": "2026-08-10T14:14:28+00:00",
   "posts": [
+    {
+      "id": "13ec6efa",
+      "image": "img/13ec6efa.png",
+      "image_sha": "75bf3ef478cdb71abde4147e176aac7730fd66a1",
+      "url": "https://www.radiodos.com.ar/212054-los-mensajes-de-aliento-que-dejo-la-gente-para-lionel-messi-tras-la-muerte-de-su-padre",
+      "title": "Los mensajes de aliento que dejó la gente para Lionel Messi tras la muerte de su padre",
+      "volanta": "ACOMPAÑAMIENTO",
+      "date": "2026-08-10T14:14:28+00:00"
+    },
     {
       "id": "1af75ee2",
       "image": "img/1af75ee2.png",
@@ -531,15 +540,6 @@
       "title": "La Ciudad de Corrientes recibió al chozno nieto de Manuel Belgrano con una distinción especial",
       "volanta": "DESTACADA VISITA",
       "date": "2026-08-06T21:35:34+00:00"
-    },
-    {
-      "id": "8c96e042",
-      "image": "img/8c96e042.png",
-      "image_sha": "df7041d37c946bf5493767a54c03a7eab8f7b115",
-      "url": "https://www.radiodos.com.ar/211918-gobierno-de-corrientes-capacita-a-municipios-en-responsabilidad-fiscal",
-      "title": "Gobierno de Corrientes capacita a Municipios en Responsabilidad Fiscal",
-      "volanta": "TRANSPARIENCIA EN LA GESTIÓN PÚBLICA",
-      "date": "2026-08-06T21:34:12+00:00"
     }
   ]
 }
