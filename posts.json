@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T19:12:39+00:00",
+  "updated": "2026-08-10T20:13:37+00:00",
   "posts": [
+    {
+      "id": "7d93a9cf",
+      "image": "img/7d93a9cf.png",
+      "image_sha": "ddabec9eb31da22a3a1ba3530d621ac84e1a7a8c",
+      "url": "https://www.radiodos.com.ar/212076-terremoto-en-colombia-hay-111-muertos-y-87-heridos-tras-un-sismo-de-magnitud-74",
+      "title": "Terremoto en Colombia: hay 111 muertos y 87 heridos tras un sismo de magnitud 7,4",
+      "volanta": "CATASTROFE",
+      "date": "2026-08-10T20:13:37+00:00"
+    },
     {
       "id": "09f231ee",
       "image": "img/09f231ee.png",
@@ -531,15 +540,6 @@
       "title": "Un nene jugaba en el patio de su casa y fue atacado por una yarará en el interior de Corrientes",
       "volanta": "BELLA VISTA",
       "date": "2026-08-07T11:31:20+00:00"
-    },
-    {
-      "id": "34c4387c",
-      "image": "img/34c4387c.png",
-      "image_sha": "604ecc520131fbf9595a4877f11aac3beaa96f41",
-      "url": "https://www.radiodos.com.ar/211929-alvear-fue-una-de-las-localidades-mas-afectadas-por-el-temporal-en-corrientes",
-      "title": "Alvear fue una de las localidades más afectadas por el temporal en Corrientes",
-      "volanta": "AYER",
-      "date": "2026-08-07T10:55:08+00:00"
     }
   ]
 }
