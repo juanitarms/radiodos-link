@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T20:39:25+00:00",
+  "updated": "2026-08-10T20:48:13+00:00",
   "posts": [
+    {
+      "id": "a05e7c14",
+      "image": "img/a05e7c14.png",
+      "image_sha": "d635af6c8888a90e64c066b33fde02eeb3fb784f",
+      "url": "https://www.radiodos.com.ar/212079-corrientes-ratifican-la-condena-de-9-anos-al-capo-narco-que-operaba-desde-la-carcel",
+      "title": "Corrientes: ratifican la condena de 9 años al capo narco que operaba desde la cárcel",
+      "volanta": "Lucha contra el narcotráfico",
+      "date": "2026-08-10T20:48:13+00:00"
+    },
     {
       "id": "d1d888e5",
       "image": "img/d1d888e5.png",
@@ -531,15 +540,6 @@
       "title": "Jubilados de ANSES: los nuevos montos confirmados y qué pasará con el bono de $70.000",
       "volanta": "NOVEDAD",
       "date": "2026-08-07T13:29:09+00:00"
-    },
-    {
-      "id": "2e4eb962",
-      "image": "img/2e4eb962.png",
-      "image_sha": "b7b08041a72e01468bd49b0bd55fd382ab238036",
-      "url": "https://www.radiodos.com.ar/211941-buscan-a-un-hombre-de-58-anos-que-se-ausento-de-su-hogar",
-      "title": "Buscan a un hombre de 58 años que se ausentó de su hogar",
-      "volanta": "SAN LORENZO",
-      "date": "2026-08-07T13:13:42+00:00"
     }
   ]
 }
