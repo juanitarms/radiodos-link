@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T21:22:48+00:00",
+  "updated": "2026-08-10T21:36:32+00:00",
   "posts": [
+    {
+      "id": "cea20b56",
+      "image": "img/cea20b56.png",
+      "image_sha": "135e07226f88d399439bc3fb767df25c241129f6",
+      "url": "https://www.radiodos.com.ar/212083-el-hospital-pediatrico-angel-de-la-guarda-de-goya-supero-las-32-mil-atenciones-en-un-ano",
+      "title": "El Hospital Pediátrico \"Ángel de la Guarda\" de Goya superó las 32 mil atenciones en un año",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-08-10T21:36:32+00:00"
+    },
     {
       "id": "3ed3d90c",
       "image": "img/3ed3d90c.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés recorrió Curuzú Cuatiá y definió acciones para fortalecer la infraestructura hídrica",
       "volanta": "PREVENCIÓN ANTE EL FENÓMENO DE EL NIÑO",
       "date": "2026-08-07T14:19:00+00:00"
-    },
-    {
-      "id": "f89f0e10",
-      "image": "img/f89f0e10.png",
-      "image_sha": "84047401395d6cea47abd6665fb29f56571426dc",
-      "url": "https://www.radiodos.com.ar/211954-eritema-excoriacion-y-equimosis-el-parte-medico-de-victoria-luz-cantero-tras-el-crimen-de-su-novio",
-      "title": "\"Eritema, excoriación y equimosis\": el parte médico de Victoria Luz Cantero tras el crimen de su novio",
-      "volanta": "CHACO",
-      "date": "2026-08-07T14:04:31+00:00"
     }
   ]
 }
