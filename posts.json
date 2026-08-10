@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T17:17:22+00:00",
+  "updated": "2026-08-10T19:12:39+00:00",
   "posts": [
+    {
+      "id": "09f231ee",
+      "image": "img/09f231ee.png",
+      "image_sha": "73db432ccc587383d7eb5704fb9209e0a428c25a",
+      "url": "https://www.radiodos.com.ar/212073-terremoto-en-colombia-al-menos-20-muertos-y-varios-atrapados",
+      "title": "Terremoto en Colombia: al menos 20 muertos y varios atrapados",
+      "volanta": "TRAGEDIA",
+      "date": "2026-08-10T19:12:39+00:00"
+    },
     {
       "id": "9a2dbcd4",
       "image": "img/9a2dbcd4.png",
@@ -531,15 +540,6 @@
       "title": "Alvear fue una de las localidades más afectadas por el temporal en Corrientes",
       "volanta": "AYER",
       "date": "2026-08-07T10:55:08+00:00"
-    },
-    {
-      "id": "803706cc",
-      "image": "img/803706cc.png",
-      "image_sha": "4c4c78a14c63a65eb325fabc48d59ae15483bf9c",
-      "url": "https://www.radiodos.com.ar/211927-retoman-la-busqueda-del-chaqueno-que-fue-arrastrado-por-el-viento-y-desaparecio-en-el-parana",
-      "title": "Retoman la búsqueda del chaqueño que fue arrastrado por el viento y desapareció en el Paraná",
-      "volanta": "DRAMA",
-      "date": "2026-08-07T10:44:47+00:00"
     }
   ]
 }
