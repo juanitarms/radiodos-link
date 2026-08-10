@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T14:50:27+00:00",
+  "updated": "2026-08-10T15:06:56+00:00",
   "posts": [
+    {
+      "id": "1c5ad15e",
+      "image": "img/1c5ad15e.png",
+      "image_sha": "cd7d4623da3469e6bb9e70849ae194b49b2beb3d",
+      "url": "https://www.radiodos.com.ar/212061-fuerte-terremoto-de-magnitud-74-sacudio-a-toda-colombia",
+      "title": "Fuerte terremoto de magnitud 7,4 sacudió a toda Colombia",
+      "volanta": "SISMOS",
+      "date": "2026-08-10T15:06:56+00:00"
+    },
     {
       "id": "c051299d",
       "image": "img/c051299d.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a dos años de prisión en suspenso al joven que atropelló y mató a un soldado",
       "volanta": "MERCEDES",
       "date": "2026-08-06T21:37:27+00:00"
-    },
-    {
-      "id": "f9686860",
-      "image": "img/f9686860.png",
-      "image_sha": "ffb968c2b9d78b826ce95652bda9f51cd22899cc",
-      "url": "https://www.radiodos.com.ar/211922-golpe-al-narcomenudeo-cuatro-detenidos-drogas-secuestradas-y-casi-un-millon-de-pesos-incautados",
-      "title": "Golpe al narcomenudeo: Cuatro detenidos, drogas secuestradas y casi un millón de pesos incautados",
-      "volanta": "santa rosa",
-      "date": "2026-08-06T21:36:49+00:00"
     }
   ]
 }
