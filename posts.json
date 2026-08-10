@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T20:38:52+00:00",
+  "updated": "2026-08-10T20:39:25+00:00",
   "posts": [
+    {
+      "id": "d1d888e5",
+      "image": "img/d1d888e5.png",
+      "image_sha": "763c46584f7387717836cb43d40c65958c043a08",
+      "url": "https://www.radiodos.com.ar/212077-motociclista-sufrio-graves-lesiones-tras-impactar-contra-un-auto",
+      "title": "Motociclista sufrió graves lesiones tras impactar contra un auto",
+      "volanta": "VIDEO",
+      "date": "2026-08-10T20:39:25+00:00"
+    },
     {
       "id": "33735030",
       "image": "img/33735030.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un hombre de 58 años que se ausentó de su hogar",
       "volanta": "SAN LORENZO",
       "date": "2026-08-07T13:13:42+00:00"
-    },
-    {
-      "id": "9a903584",
-      "image": "img/9a903584.png",
-      "image_sha": "0c243466d309883e2cda6cc1010b9c437fcaf693",
-      "url": "https://www.radiodos.com.ar/211931-corrientes-presento-su-plan-estrategico-2026-2030-para-fortalecer-la-donacion-de-organos",
-      "title": "Corrientes presentó su Plan Estratégico 2026-2030 para fortalecer la donación de órganos",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-08-07T12:11:07+00:00"
     }
   ]
 }
