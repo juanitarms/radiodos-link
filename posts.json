@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T22:15:25+00:00",
+  "updated": "2026-08-10T22:16:27+00:00",
   "posts": [
+    {
+      "id": "047d4e16",
+      "image": "img/047d4e16.png",
+      "image_sha": "50a8592de603bc42ded33d3d04672c3908c55b79",
+      "url": "https://www.radiodos.com.ar/212086-declara-la-ginecologa-de-victoria-caillava-y-otros-tres-testigos-clave-en-una-nueva-audiencia",
+      "title": "Declara la ginecóloga de Victoria Caillava y otros tres testigos clave en una nueva audiencia",
+      "volanta": "JUICIO POR LOAN",
+      "date": "2026-08-10T22:16:27+00:00"
+    },
     {
       "id": "f9ab417b",
       "image": "img/f9ab417b.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara compartió un llamativo posteo luego de que Mauro Icardi recuperara la posibilidad de salir del país",
       "volanta": "PICANTE",
       "date": "2026-08-07T16:31:26+00:00"
-    },
-    {
-      "id": "bf995558",
-      "image": "img/bf995558.png",
-      "image_sha": "2d5196b0db051eb6ecc9bcecbdc13130ad4ae260",
-      "url": "https://www.radiodos.com.ar/211960-abren-convocatoria-nacional-para-que-una-nina-de-9-anos-pueda-crecer-en-familia",
-      "title": "Abren convocatoria nacional para que una niña de 9 años pueda crecer en familia",
-      "volanta": "CONVOCATORIA DE ADOPCIÓN",
-      "date": "2026-08-07T16:30:56+00:00"
     }
   ]
 }
