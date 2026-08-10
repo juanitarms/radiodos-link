@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T21:37:09+00:00",
+  "updated": "2026-08-10T21:47:15+00:00",
   "posts": [
+    {
+      "id": "aa3dd5a8",
+      "image": "img/aa3dd5a8.png",
+      "image_sha": "acefa8f968e5bbfeb24e8b3731ad766303f99b44",
+      "url": "https://www.radiodos.com.ar/212081-la-conocia-hace-algunos-dias-y-la-asesino-con-el-cable-del-celular-espeluznantes-detalles-de-otro-femicidio-en-corrientes",
+      "title": "La conocía hace algunos días y la asesinó con el cable del celular: espeluznantes detalles de otro femicidio en Corrientes",
+      "volanta": "CRIMEN",
+      "date": "2026-08-10T21:47:15+00:00"
+    },
     {
       "id": "a2429b10",
       "image": "img/a2429b10.png",
@@ -531,15 +540,6 @@
       "title": "Aseguran que Tini Stoessel no invitó a sus padres al casamiento con Rodrigo de Paul: los motivos",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-08-07T15:05:10+00:00"
-    },
-    {
-      "id": "e8aed4a1",
-      "image": "img/e8aed4a1.png",
-      "image_sha": "5781a96103b3b4ccf4c32ce7fc83c3d87a4906e2",
-      "url": "https://www.radiodos.com.ar/211956-alquileres-asi-voto-cada-senador-el-desalojo-expres-de-las-familias-inquilinas-que-arrastren-una-deuda",
-      "title": "Alquileres: así votó cada senador el desalojo exprés de las familias inquilinas que arrastren una deuda",
-      "volanta": "CONGRESO",
-      "date": "2026-08-07T14:33:44+00:00"
     }
   ]
 }
