@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T10:57:37+00:00",
+  "updated": "2026-08-10T11:11:33+00:00",
   "posts": [
+    {
+      "id": "42b45f88",
+      "image": "img/42b45f88.png",
+      "image_sha": "6f2d28d9bb2a7f461c35b8651339d24be7a04537",
+      "url": "https://www.radiodos.com.ar/212034-ola-de-frio-en-corrientes-y-ascenso-termico-hacia-el-fin-de-semana",
+      "title": "Ola de frío en Corrientes y ascenso térmico hacia el fin de semana",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-08-10T11:11:33+00:00"
+    },
     {
       "id": "b5b4918a",
       "image": "img/b5b4918a.png",
@@ -531,15 +540,6 @@
       "title": "Emboscaron a un chofer de Didi en un barrio de Corrientes",
       "volanta": "ESTA MADRUGADA",
       "date": "2026-08-06T20:43:38+00:00"
-    },
-    {
-      "id": "fb4ad12f",
-      "image": "img/fb4ad12f.png",
-      "image_sha": "0f5f35b42a00f050a3b59993bc239607d5680cc3",
-      "url": "https://www.radiodos.com.ar/211911-corte-total-en-rn-12-por-el-temporal-en-el-sur-de-corrientes",
-      "title": "Corte total en RN 12 por el temporal en el sur de Corrientes",
-      "volanta": "HACE INSTANTES",
-      "date": "2026-08-06T20:41:38+00:00"
     }
   ]
 }
