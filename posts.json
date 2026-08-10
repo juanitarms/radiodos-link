@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T11:48:19+00:00",
+  "updated": "2026-08-10T12:13:34+00:00",
   "posts": [
+    {
+      "id": "097f9d76",
+      "image": "img/097f9d76.png",
+      "image_sha": "d96fad6e6e57e9476382b7d29e3b5c0d4e253499",
+      "url": "https://www.radiodos.com.ar/212037-causa-exen-hablaremos-con-la-jueza-para-que-los-gimnasios-continuen-y-los-trabajadores-puedan-seguir",
+      "title": "Causa Exen: \"Hablaremos con la jueza para que los gimnasios continúen y los trabajadores puedan seguir\"",
+      "volanta": "ABOGADO RICARDO OSUNA",
+      "date": "2026-08-10T12:13:34+00:00"
+    },
     {
       "id": "d6d1f1cf",
       "image": "img/d6d1f1cf.png",
@@ -531,15 +540,6 @@
       "title": "El INDEC reportó un salto histórico en la pesca durante junio: creció 232% en un año",
       "volanta": "DATOS OFICIALES",
       "date": "2026-08-06T21:21:21+00:00"
-    },
-    {
-      "id": "7a826ef1",
-      "image": "img/7a826ef1.png",
-      "image_sha": "ccefe9a9b3a37479657a33209aab4dd15a8185a1",
-      "url": "https://www.radiodos.com.ar/211914-un-ciclista-fue-embestido-de-atras-y-termino-dentro-del-vehiculo-que-lo-choco",
-      "title": "Un ciclista fue embestido de atrás y terminó dentro del vehículo que lo chocó",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-06T21:20:45+00:00"
     }
   ]
 }
