@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T12:13:34+00:00",
+  "updated": "2026-08-10T12:46:24+00:00",
   "posts": [
+    {
+      "id": "32b35421",
+      "image": "img/32b35421.png",
+      "image_sha": "98fe3c70b9f34e4dd58df3c61d6f45e6df94e0c2",
+      "url": "https://www.radiodos.com.ar/212042-las-ventas-minoristas-pyme-bajaron-38-interanual-en-julio",
+      "title": "Las ventas minoristas pyme bajaron 3,8% interanual en julio",
+      "volanta": "Comunicado",
+      "date": "2026-08-10T12:46:24+00:00"
+    },
     {
       "id": "097f9d76",
       "image": "img/097f9d76.png",
@@ -531,15 +540,6 @@
       "title": "Fuertes ráfagas provocaron destrozos en zonas rurales del sur de Corrientes",
       "volanta": "VIENTOS",
       "date": "2026-08-06T21:31:00+00:00"
-    },
-    {
-      "id": "59535b57",
-      "image": "img/59535b57.png",
-      "image_sha": "8eb53a73ce8354bcbdc60d33df9701f005a87638",
-      "url": "https://www.radiodos.com.ar/211913-el-indec-reporto-un-salto-historico-en-la-pesca-durante-junio-crecio-232-en-un-ano",
-      "title": "El INDEC reportó un salto histórico en la pesca durante junio: creció 232% en un año",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-08-06T21:21:21+00:00"
     }
   ]
 }
