@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T13:09:50+00:00",
+  "updated": "2026-08-10T13:37:42+00:00",
   "posts": [
+    {
+      "id": "1f08c751",
+      "image": "img/1f08c751.png",
+      "image_sha": "6eca38eca90ead121c8c0ce2b463987bce7fbd4b",
+      "url": "https://www.radiodos.com.ar/212039-las-ferias-de-la-ciudad-vuelven-con-productos-frescos-y-ofertas-en-distintos-espacios-publicos",
+      "title": "Las Ferias de la Ciudad vuelven con productos frescos y ofertas en distintos espacios públicos",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-08-10T13:37:42+00:00"
+    },
     {
       "id": "d2c5c286",
       "image": "img/d2c5c286.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: se ratificó la detección de rastros del niño en los autos de Pérez y Caillava",
       "volanta": "HOY",
       "date": "2026-08-06T21:32:56+00:00"
-    },
-    {
-      "id": "2358e578",
-      "image": "img/2358e578.png",
-      "image_sha": "be3c5edd3cd5dbe30d369b64a1b0412a71f7ac16",
-      "url": "https://www.radiodos.com.ar/211916-alerta-maderera-cae-el-empleo-y-advierten-por-la-perdida-de-oficios-tecnicos",
-      "title": "Alerta maderera: Cae el empleo y advierten por la pérdida de oficios técnicos",
-      "volanta": "crisis en el sector",
-      "date": "2026-08-06T21:32:24+00:00"
     }
   ]
 }
