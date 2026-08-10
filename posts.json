@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T21:36:32+00:00",
+  "updated": "2026-08-10T21:37:09+00:00",
   "posts": [
+    {
+      "id": "a2429b10",
+      "image": "img/a2429b10.png",
+      "image_sha": "0e44a4076c90557c8c983944f649e5a910a60916",
+      "url": "https://www.radiodos.com.ar/212082-comenzo-el-juicio-contra-pity-alvarez-por-el-crimen-de-cristian-diaz",
+      "title": "Comenzó el juicio contra \"Pity\" Álvarez por el crimen de Cristian Díaz",
+      "volanta": "Después de ocho años",
+      "date": "2026-08-10T21:37:09+00:00"
+    },
     {
       "id": "cea20b56",
       "image": "img/cea20b56.png",
@@ -531,15 +540,6 @@
       "title": "Alquileres: así votó cada senador el desalojo exprés de las familias inquilinas que arrastren una deuda",
       "volanta": "CONGRESO",
       "date": "2026-08-07T14:33:44+00:00"
-    },
-    {
-      "id": "b34196cd",
-      "image": "img/b34196cd.png",
-      "image_sha": "b54dd8d253c78aa2d76789731a7312d6a975edc1",
-      "url": "https://www.radiodos.com.ar/211955-jp-valdes-recorrio-curuzu-cuatia-y-definio-acciones-para-fortalecer-la-infraestructura-hidrica",
-      "title": "JP Valdés recorrió Curuzú Cuatiá y definió acciones para fortalecer la infraestructura hídrica",
-      "volanta": "PREVENCIÓN ANTE EL FENÓMENO DE EL NIÑO",
-      "date": "2026-08-07T14:19:00+00:00"
     }
   ]
 }
