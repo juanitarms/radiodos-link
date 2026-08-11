@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T19:28:22+00:00",
+  "updated": "2026-08-11T19:28:52+00:00",
   "posts": [
+    {
+      "id": "91dc52ff",
+      "image": "img/91dc52ff.png",
+      "image_sha": "1decc0ae5998a721d5c1281bfbc964f175fe6a26",
+      "url": "https://www.radiodos.com.ar/212123-cayo-el-doctor-estafa-en-almagro-se-hacia-pasar-por-neurocirujano-para-enganar-a-pacientes",
+      "title": "Cayó el \"doctor estafa\" en Almagro: se hacía pasar por neurocirujano para engañar a pacientes",
+      "volanta": "ESTAFAS MÉDICAS",
+      "date": "2026-08-11T19:28:52+00:00"
+    },
     {
       "id": "4713a679",
       "image": "img/4713a679.png",
@@ -531,15 +540,6 @@
       "title": "El operativo Corrientes Cerca brindó atenciones gratuitas en el barrio Río Paraná",
       "volanta": "ACCESO A SERVICIOS Y TRÁMITES EN LOS BARRIOS",
       "date": "2026-08-08T22:14:21+00:00"
-    },
-    {
-      "id": "107fc6f7",
-      "image": "img/107fc6f7.png",
-      "image_sha": "1f8a42fa2cbe861429334bec0133a89df84197dd",
-      "url": "https://www.radiodos.com.ar/211985-estamos-en-un-momento-de-cambio-y-creo-que-es-muy-providencial-la-visita-del-papa",
-      "title": "\"Estamos en un momento de cambio y creo que es muy providencial la visita del Papa\"",
-      "volanta": "Monseñor Gustavo Montini",
-      "date": "2026-08-08T22:13:52+00:00"
     }
   ]
 }
