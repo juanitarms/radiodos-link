@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T19:29:22+00:00",
+  "updated": "2026-08-11T20:24:04+00:00",
   "posts": [
+    {
+      "id": "7a55473b",
+      "image": "img/7a55473b.png",
+      "image_sha": "660dc2447c1521a37f6de0b820fa79226d8cef32",
+      "url": "https://www.radiodos.com.ar/212133-buscan-a-un-joven-que-esta-desaparecido-en-corrientes",
+      "title": "Buscan a un joven que está desaparecido en Corrientes",
+      "volanta": "PEDIDO DE COLABORACION",
+      "date": "2026-08-11T20:24:04+00:00"
+    },
     {
       "id": "7c8b4ac7",
       "image": "img/7c8b4ac7.png",
@@ -531,15 +540,6 @@
       "title": "El emotivo mensaje de Mirtha Legrand por la muerte de Jorge Messi",
       "volanta": "ACOMPAÑAMIENTO",
       "date": "2026-08-08T23:14:53+00:00"
-    },
-    {
-      "id": "2e5b866e",
-      "image": "img/2e5b866e.png",
-      "image_sha": "5ee4ba26d8e52867f671d5d041059ca4fd694551",
-      "url": "https://www.radiodos.com.ar/212018-roberto-garcia-moritan-rompio-el-silencio-sobre-emily-ceco-y-virginia-gallardo-dediquense-a-sus-vidas",
-      "title": "Roberto García Moritán rompió el silencio sobre Emily Ceco y Virginia Gallardo: \"Dedíquense a sus vidas\"",
-      "volanta": "PUSO LÌMITES",
-      "date": "2026-08-08T23:14:23+00:00"
     }
   ]
 }
