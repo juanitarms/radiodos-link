@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T13:13:36+00:00",
+  "updated": "2026-08-11T13:24:29+00:00",
   "posts": [
+    {
+      "id": "55f5cfe3",
+      "image": "img/55f5cfe3.png",
+      "image_sha": "5a91a62332850934bdb9487259850e426431a090",
+      "url": "https://www.radiodos.com.ar/212100-61°-fiesta-nacional-de-la-pesca-del-dorado-en-paso-de-la-patria-sortearemos-un-chalet-entre-los-participantes",
+      "title": "61° Fiesta Nacional de la Pesca del Dorado en Paso de la Patria: \"Sortearemos un chalet entre los participantes\"",
+      "volanta": "Intendente Oscar \"Chino\" García",
+      "date": "2026-08-11T13:24:29+00:00"
+    },
     {
       "id": "146f69d7",
       "image": "img/146f69d7.png",
@@ -531,15 +540,6 @@
       "title": "Con más de 120 reuniones de trabajo, Corrientes tuvo una destacada participación en Meet Up turística",
       "volanta": "EN BUENOS AIRES",
       "date": "2026-08-07T21:47:24+00:00"
-    },
-    {
-      "id": "4f85cf10",
-      "image": "img/4f85cf10.png",
-      "image_sha": "b95620d841ce05a73ed6fabc1269d57004821740",
-      "url": "https://www.radiodos.com.ar/211978-nacion-adeuda-6000-millones-a-corrientes-y-hay-20-obras-escolares-paralizadas",
-      "title": "Nación adeuda $6.000 millones a Corrientes y hay 20 obras escolares paralizadas",
-      "volanta": "AJUSTE",
-      "date": "2026-08-07T21:46:54+00:00"
     }
   ]
 }
