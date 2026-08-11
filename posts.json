@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T22:16:27+00:00",
+  "updated": "2026-08-11T10:49:04+00:00",
   "posts": [
+    {
+      "id": "dc9b4e60",
+      "image": "img/dc9b4e60.png",
+      "image_sha": "bfc335a0a7a4515b2cc009ed6701860cfc152ca5",
+      "url": "https://www.radiodos.com.ar/212089-tiene-19-anos-y-permanece-en-terapia-intensiva-tras-chocar-con-un-tensor-de-acero",
+      "title": "Tiene 19 años y permanece en terapia intensiva tras chocar con un tensor de acero",
+      "volanta": "GOYA",
+      "date": "2026-08-11T10:49:04+00:00"
+    },
     {
       "id": "047d4e16",
       "image": "img/047d4e16.png",
@@ -531,15 +540,6 @@
       "title": "Coty Romero se sometió a una cirugía estética: qué se hizo",
       "volanta": "A CUIDARSE",
       "date": "2026-08-07T17:36:11+00:00"
-    },
-    {
-      "id": "1cfa15b9",
-      "image": "img/1cfa15b9.png",
-      "image_sha": "cbd7ad1ac0e0af77907e6437267c856626459b0c",
-      "url": "https://www.radiodos.com.ar/211965-wanda-nara-compartio-un-llamativo-posteo-luego-de-que-mauro-icardi-recuperara-la-posibilidad-de-salir-del-pais",
-      "title": "Wanda Nara compartió un llamativo posteo luego de que Mauro Icardi recuperara la posibilidad de salir del país",
-      "volanta": "PICANTE",
-      "date": "2026-08-07T16:31:26+00:00"
     }
   ]
 }
