@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T13:24:29+00:00",
+  "updated": "2026-08-11T13:49:48+00:00",
   "posts": [
+    {
+      "id": "64daf358",
+      "image": "img/64daf358.png",
+      "image_sha": "9381ed23d2551d2be2f2c74d3c5dbf103fb590cf",
+      "url": "https://www.radiodos.com.ar/212105-los-hechos-privados-estan-reservados-a-dios-aparecio-facundo-moyano-en-tv-y-dijo-que-su-pareja-tuvo-un-paro",
+      "title": "\"Los hechos privados están reservados a Dios\": apareció Facundo Moyano en TV y dijo que su pareja tuvo un paro",
+      "volanta": "TRAS EL ESCÁNDALO",
+      "date": "2026-08-11T13:49:48+00:00"
+    },
     {
       "id": "55f5cfe3",
       "image": "img/55f5cfe3.png",
@@ -531,15 +540,6 @@
       "title": "Robaba caños de aire acondicionado de una escuela de Corrientes y terminó detenido por la Policía",
       "volanta": "ZONA DE LAS MIL",
       "date": "2026-08-07T21:48:23+00:00"
-    },
-    {
-      "id": "983930de",
-      "image": "img/983930de.png",
-      "image_sha": "4e5093c3a6102590836aa29ade3e4fa97c953fcc",
-      "url": "https://www.radiodos.com.ar/211977-con-mas-de-120-reuniones-de-trabajo-corrientes-tuvo-una-destacada-participacion-en-meet-up-turistica",
-      "title": "Con más de 120 reuniones de trabajo, Corrientes tuvo una destacada participación en Meet Up turística",
-      "volanta": "EN BUENOS AIRES",
-      "date": "2026-08-07T21:47:24+00:00"
     }
   ]
 }
