@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T19:28:52+00:00",
+  "updated": "2026-08-11T19:29:22+00:00",
   "posts": [
+    {
+      "id": "7c8b4ac7",
+      "image": "img/7c8b4ac7.png",
+      "image_sha": "37bdbe396778c06de36e930ebb0c09242b358788",
+      "url": "https://www.radiodos.com.ar/212129-la-unne-hace-base-en-la-rural-de-corrientes-con-productos-y-servicios-para-el-sector",
+      "title": "La UNNE hace base en La Rural de Corrientes con productos y servicios para el sector",
+      "volanta": "VINCULACIÓN CON EL TERRITORIO Y EL SECTOR PRODUCTIVO",
+      "date": "2026-08-11T19:29:22+00:00"
+    },
     {
       "id": "91dc52ff",
       "image": "img/91dc52ff.png",
@@ -531,15 +540,6 @@
       "title": "Roberto García Moritán rompió el silencio sobre Emily Ceco y Virginia Gallardo: \"Dedíquense a sus vidas\"",
       "volanta": "PUSO LÌMITES",
       "date": "2026-08-08T23:14:23+00:00"
-    },
-    {
-      "id": "8c187ce4",
-      "image": "img/8c187ce4.png",
-      "image_sha": "66b8975d12c9a6c2a78e7e1eb3f211b46caed7fd",
-      "url": "https://www.radiodos.com.ar/211999-el-operativo-corrientes-cerca-brindo-atenciones-gratuitas-en-el-barrio-rio-parana",
-      "title": "El operativo Corrientes Cerca brindó atenciones gratuitas en el barrio Río Paraná",
-      "volanta": "ACCESO A SERVICIOS Y TRÁMITES EN LOS BARRIOS",
-      "date": "2026-08-08T22:14:21+00:00"
     }
   ]
 }
