@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T12:56:17+00:00",
+  "updated": "2026-08-11T13:13:36+00:00",
   "posts": [
+    {
+      "id": "146f69d7",
+      "image": "img/146f69d7.png",
+      "image_sha": "f52c15ce84ed32292ee11fd455a27f1b6e954f77",
+      "url": "https://www.radiodos.com.ar/212093-investigan-el-robo-de-dinero-y-una-pistola-de-un-departamento-buscan-a-dos-hombres",
+      "title": "Investigan el robo de dinero y una pistola de un departamento: buscan a dos hombres",
+      "volanta": "Barrio San Gerónimo",
+      "date": "2026-08-11T13:13:36+00:00"
+    },
     {
       "id": "5dfe9040",
       "image": "img/5dfe9040.png",
@@ -531,15 +540,6 @@
       "title": "Nación adeuda $6.000 millones a Corrientes y hay 20 obras escolares paralizadas",
       "volanta": "AJUSTE",
       "date": "2026-08-07T21:46:54+00:00"
-    },
-    {
-      "id": "e2a1e866",
-      "image": "img/e2a1e866.png",
-      "image_sha": "5b2aa9344514d0d1bf91f1213d16175bdf18494e",
-      "url": "https://www.radiodos.com.ar/211974-causa-gimnasios-exen-un-arrepentido-habria-delatado-las-maniobras-e-investigan-fondos-del-narcotrafico",
-      "title": "Causa gimnasios Exen: un arrepentido habría delatado las maniobras e investigan fondos del narcotráfico",
-      "volanta": "CHACO Y CORRIENTES",
-      "date": "2026-08-07T20:41:36+00:00"
     }
   ]
 }
