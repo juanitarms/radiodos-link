@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T21:07:15+00:00",
+  "updated": "2026-08-11T21:19:35+00:00",
   "posts": [
+    {
+      "id": "63ddda4f",
+      "image": "img/63ddda4f.png",
+      "image_sha": "bed0ac99a901c5a8020b1670debca99c5f072173",
+      "url": "https://www.radiodos.com.ar/212140-educacion-impulsa-jornadas-de-prevencion-para-docentes-y-estudiantes-sobre-el-fenomeno-de-el-nino-en-corrientes",
+      "title": "Educación impulsa jornadas de prevención para docentes y estudiantes sobre el fenómeno de El Niño en Corrientes",
+      "volanta": "CAPACITACIONES EN LAS AULAS",
+      "date": "2026-08-11T21:19:35+00:00"
+    },
     {
       "id": "171bc5b1",
       "image": "img/171bc5b1.png",
@@ -531,15 +540,6 @@
       "title": "Salud incorpora al PAMI a la red de atención del ACV y continúa ampliando su alcance en el país",
       "volanta": "NOVEDAD",
       "date": "2026-08-09T17:23:16+00:00"
-    },
-    {
-      "id": "4745c6cb",
-      "image": "img/4745c6cb.png",
-      "image_sha": "4fc7a6e37c605b15be2f6404f6254e5da85a356a",
-      "url": "https://www.radiodos.com.ar/212003-javier-milei-firmo-el-decreto-562-2025-y-el-dia-del-nino-cambio-de-nombre",
-      "title": "Javier Milei firmó el Decreto 562/2025 y el Día del Niño cambió de nombre",
-      "volanta": "¿CUÀNDO ES?",
-      "date": "2026-08-09T17:22:45+00:00"
     }
   ]
 }
