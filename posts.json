@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T21:20:11+00:00",
+  "updated": "2026-08-11T21:58:09+00:00",
   "posts": [
+    {
+      "id": "cf9aaf6f",
+      "image": "img/cf9aaf6f.png",
+      "image_sha": "6854179323df2946b9fd6381b369828203124314",
+      "url": "https://www.radiodos.com.ar/212142-en-tiempo-record-se-completo-el-cupo-de-pescadores-de-la-fiesta-nacional-del-surubi",
+      "title": "En tiempo récord, se completó el cupo de pescadores de la Fiesta Nacional del Surubí",
+      "volanta": "50 EDICION",
+      "date": "2026-08-11T21:58:09+00:00"
+    },
     {
       "id": "4a9fdc1b",
       "image": "img/4a9fdc1b.png",
@@ -531,15 +540,6 @@
       "title": "Boca oficializó la llegada de Enner Valencia",
       "volanta": "fútbol",
       "date": "2026-08-09T19:27:09+00:00"
-    },
-    {
-      "id": "0dbc30d2",
-      "image": "img/0dbc30d2.png",
-      "image_sha": "94d29b433e2e266cbfbbf7f1f699a3d61f11ac6d",
-      "url": "https://www.radiodos.com.ar/212000-sebastian-lugo-es-el-primer-refuerzo-de-san-martin",
-      "title": "Sebastián Lugo es el primer refuerzo de San Martín",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-08-09T17:23:48+00:00"
     }
   ]
 }
