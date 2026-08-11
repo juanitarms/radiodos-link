@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T13:49:48+00:00",
+  "updated": "2026-08-11T14:11:53+00:00",
   "posts": [
+    {
+      "id": "359c38eb",
+      "image": "img/359c38eb.png",
+      "image_sha": "3175f8b1741bf3a049eb6f19d4d5d4273c1e0f33",
+      "url": "https://www.radiodos.com.ar/212109-buscan-a-un-argentino-desaparecido-en-colombia-tras-el-terremoto",
+      "title": "Buscan a un argentino desaparecido en Colombia tras el terremoto",
+      "volanta": "URGENTE",
+      "date": "2026-08-11T14:11:53+00:00"
+    },
     {
       "id": "64daf358",
       "image": "img/64daf358.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad saneó un basural clandestino y colocó cámaras de vigilancia",
       "volanta": "CORRIENTES",
       "date": "2026-08-07T21:52:57+00:00"
-    },
-    {
-      "id": "5e5dd99e",
-      "image": "img/5e5dd99e.png",
-      "image_sha": "eda35434c7e73de4053670c6c5a7d23eff4b654f",
-      "url": "https://www.radiodos.com.ar/211976-robaba-canos-de-aire-acondicionado-de-una-escuela-de-corrientes-y-termino-detenido-por-la-policia",
-      "title": "Robaba caños de aire acondicionado de una escuela de Corrientes y terminó detenido por la Policía",
-      "volanta": "ZONA DE LAS MIL",
-      "date": "2026-08-07T21:48:23+00:00"
     }
   ]
 }
