@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T21:05:40+00:00",
+  "updated": "2026-08-11T21:07:15+00:00",
   "posts": [
+    {
+      "id": "171bc5b1",
+      "image": "img/171bc5b1.png",
+      "image_sha": "8e40f1333646ee0206d7f28a0b5c439777db624d",
+      "url": "https://www.radiodos.com.ar/212136-el-gobernador-jp-valdes-avanzo-con-el-cfi-en-nuevas-herramientas-para-financiar-el-desarrollo-productivo",
+      "title": "El gobernador JP Valdés avanzó con el CFI en nuevas herramientas para financiar el desarrollo productivo",
+      "volanta": "ESTE MARTES EN CAPITAL",
+      "date": "2026-08-11T21:07:15+00:00"
+    },
     {
       "id": "721b15cb",
       "image": "img/721b15cb.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei firmó el Decreto 562/2025 y el Día del Niño cambió de nombre",
       "volanta": "¿CUÀNDO ES?",
       "date": "2026-08-09T17:22:45+00:00"
-    },
-    {
-      "id": "d2fea535",
-      "image": "img/d2fea535.png",
-      "image_sha": "4122d20214861f62758dd70bb99c594e4604d1c4",
-      "url": "https://www.radiodos.com.ar/212021-blindan-el-cementerio-para-evitar-drones-y-miradas-en-el-funeral-de-jorge-messi",
-      "title": "Blindan el cementerio para evitar drones y miradas en el funeral de Jorge Messi",
-      "volanta": "rosario",
-      "date": "2026-08-09T15:28:08+00:00"
     }
   ]
 }
