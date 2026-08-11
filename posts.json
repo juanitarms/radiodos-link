@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-11T21:58:09+00:00",
+  "updated": "2026-08-11T21:59:52+00:00",
   "posts": [
+    {
+      "id": "c3f026a7",
+      "image": "img/c3f026a7.png",
+      "image_sha": "3ddacc3783700da6b18404bc89e444bbfbaed0be",
+      "url": "https://www.radiodos.com.ar/212141-investigan-si-gendarmes-jugaron-al-padel-en-un-predio-custodiado-por-la-causa-exen",
+      "title": "Investigan si gendarmes jugaron al pádel en un predio custodiado por la causa Exen",
+      "volanta": "INSÓLITO",
+      "date": "2026-08-11T21:59:52+00:00"
+    },
     {
       "id": "cf9aaf6f",
       "image": "img/cf9aaf6f.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador Juan Pablo Valdes encabezó el acto por el Dia de la Policía de Corrientes",
       "volanta": "55° ANIVERSARIO DE LA INSTITUCIÓN",
       "date": "2026-08-09T19:27:41+00:00"
-    },
-    {
-      "id": "119485b4",
-      "image": "img/119485b4.png",
-      "image_sha": "ba7f78fffb2e53998858a58c2e256235f07874f3",
-      "url": "https://www.radiodos.com.ar/212024-boca-oficializo-la-llegada-de-enner-valencia",
-      "title": "Boca oficializó la llegada de Enner Valencia",
-      "volanta": "fútbol",
-      "date": "2026-08-09T19:27:09+00:00"
     }
   ]
 }
