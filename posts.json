@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T11:18:40+00:00",
+  "updated": "2026-08-12T11:33:25+00:00",
   "posts": [
+    {
+      "id": "7e2d0ed1",
+      "image": "img/7e2d0ed1.png",
+      "image_sha": "a9afac94b038dd6c454a53e7a8dc9db2dd588262",
+      "url": "https://www.radiodos.com.ar/212151-informan-nuevos-recorridos-de-las-lineas-102-a-y-106-a-en-corrientes",
+      "title": "Informan nuevos recorridos de las líneas 102 A y 106 A en Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-08-12T11:33:25+00:00"
+    },
     {
       "id": "94c7d2a2",
       "image": "img/94c7d2a2.png",
@@ -531,15 +540,6 @@
       "title": "Familiares de Aimará sospechan de la dueña de la casa incendiada: piden justicia",
       "volanta": "FEMICIDIO",
       "date": "2026-08-10T13:09:50+00:00"
-    },
-    {
-      "id": "32b35421",
-      "image": "img/32b35421.png",
-      "image_sha": "98fe3c70b9f34e4dd58df3c61d6f45e6df94e0c2",
-      "url": "https://www.radiodos.com.ar/212042-las-ventas-minoristas-pyme-bajaron-38-interanual-en-julio",
-      "title": "Las ventas minoristas pyme bajaron 3,8% interanual en julio",
-      "volanta": "Comunicado",
-      "date": "2026-08-10T12:46:24+00:00"
     }
   ]
 }
