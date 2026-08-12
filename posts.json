@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T22:18:24+00:00",
+  "updated": "2026-08-12T22:40:26+00:00",
   "posts": [
+    {
+      "id": "d42f3ace",
+      "image": "img/d42f3ace.png",
+      "image_sha": "ee7b2e70d7885a5f36588cf80107ac337b29147c",
+      "url": "https://www.radiodos.com.ar/212206-alertan-que-la-desregulacion-de-la-yerba-mate-profundiza-la-crisis-productiva",
+      "title": "Alertan que la desregulación de la yerba mate profundiza la crisis productiva",
+      "volanta": "GOLPE AL BOLSILLO",
+      "date": "2026-08-12T22:40:26+00:00"
+    },
     {
       "id": "eb609b5e",
       "image": "img/eb609b5e.png",
@@ -531,15 +540,6 @@
       "title": "\"Los hechos privados están reservados a Dios\": apareció Facundo Moyano en TV y dijo que su pareja tuvo un paro",
       "volanta": "TRAS EL ESCÁNDALO",
       "date": "2026-08-11T13:49:48+00:00"
-    },
-    {
-      "id": "55f5cfe3",
-      "image": "img/55f5cfe3.png",
-      "image_sha": "5a91a62332850934bdb9487259850e426431a090",
-      "url": "https://www.radiodos.com.ar/212100-61°-fiesta-nacional-de-la-pesca-del-dorado-en-paso-de-la-patria-sortearemos-un-chalet-entre-los-participantes",
-      "title": "61° Fiesta Nacional de la Pesca del Dorado en Paso de la Patria: \"Sortearemos un chalet entre los participantes\"",
-      "volanta": "Intendente Oscar \"Chino\" García",
-      "date": "2026-08-11T13:24:29+00:00"
     }
   ]
 }
