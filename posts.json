@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T22:04:13+00:00",
+  "updated": "2026-08-12T22:18:24+00:00",
   "posts": [
+    {
+      "id": "eb609b5e",
+      "image": "img/eb609b5e.png",
+      "image_sha": "ee7fad3e976be95011b73cd1023df194921b3225",
+      "url": "https://www.radiodos.com.ar/212204-anticipan-un-jueves-frio-y-con-probabilidad-de-lluvias-en-corrientes",
+      "title": "Anticipan un jueves frío y con probabilidad de lluvias en Corrientes",
+      "volanta": "TIEMPO",
+      "date": "2026-08-12T22:18:24+00:00"
+    },
     {
       "id": "0360bfe0",
       "image": "img/0360bfe0.png",
@@ -531,15 +540,6 @@
       "title": "61° Fiesta Nacional de la Pesca del Dorado en Paso de la Patria: \"Sortearemos un chalet entre los participantes\"",
       "volanta": "Intendente Oscar \"Chino\" García",
       "date": "2026-08-11T13:24:29+00:00"
-    },
-    {
-      "id": "146f69d7",
-      "image": "img/146f69d7.png",
-      "image_sha": "f52c15ce84ed32292ee11fd455a27f1b6e954f77",
-      "url": "https://www.radiodos.com.ar/212093-investigan-el-robo-de-dinero-y-una-pistola-de-un-departamento-buscan-a-dos-hombres",
-      "title": "Investigan el robo de dinero y una pistola de un departamento: buscan a dos hombres",
-      "volanta": "Barrio San Gerónimo",
-      "date": "2026-08-11T13:13:36+00:00"
     }
   ]
 }
