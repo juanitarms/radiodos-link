@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T16:05:16+00:00",
+  "updated": "2026-08-12T16:05:50+00:00",
   "posts": [
+    {
+      "id": "7ffb14ff",
+      "image": "img/7ffb14ff.png",
+      "image_sha": "84b835d8503b4eb87b711a921889bdc9e3ae8138",
+      "url": "https://www.radiodos.com.ar/212187-la-municipalidad-avanza-con-cielo-limpio-y-suma-nuevas-cuadras-al-ordenamiento-aereo",
+      "title": "La Municipalidad avanza con \"Cielo Limpio\" y suma nuevas cuadras al ordenamiento aéreo",
+      "volanta": "TAREA CONJUNTA DE CUADRILLAS",
+      "date": "2026-08-12T16:05:50+00:00"
+    },
     {
       "id": "c8dc39a3",
       "image": "img/c8dc39a3.png",
@@ -531,15 +540,6 @@
       "title": "Motociclista sufrió graves lesiones tras impactar contra un auto",
       "volanta": "VIDEO",
       "date": "2026-08-10T20:39:25+00:00"
-    },
-    {
-      "id": "33735030",
-      "image": "img/33735030.png",
-      "image_sha": "c471bfa776522b00cb7a6044d5a279819e2344df",
-      "url": "https://www.radiodos.com.ar/212078-ejecutan-obras-pluviales-para-prevenir-anegamientos-por-lluvias-en-un-barrio-de-corrientes",
-      "title": "Ejecutan obras pluviales para prevenir anegamientos por lluvias en un barrio de Corrientes",
-      "volanta": "TRABAJO PREVENTIVO",
-      "date": "2026-08-10T20:38:52+00:00"
     }
   ]
 }
