@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T11:03:28+00:00",
+  "updated": "2026-08-12T11:18:40+00:00",
   "posts": [
+    {
+      "id": "94c7d2a2",
+      "image": "img/94c7d2a2.png",
+      "image_sha": "e4bc7c570a779a6757ebfec46f7d72e84517c51b",
+      "url": "https://www.radiodos.com.ar/212149-juan-pablo-valdes-participa-de-una-nueva-asamblea-de-gobernadores-del-norte-grande-en-posadas",
+      "title": "Juan Pablo Valdés participa de una nueva Asamblea de Gobernadores del Norte Grande en Posadas",
+      "volanta": "COBERTURA ESPECIAL DE RADIO DOS",
+      "date": "2026-08-12T11:18:40+00:00"
+    },
     {
       "id": "d48f0441",
       "image": "img/d48f0441.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas minoristas pyme bajaron 3,8% interanual en julio",
       "volanta": "Comunicado",
       "date": "2026-08-10T12:46:24+00:00"
-    },
-    {
-      "id": "097f9d76",
-      "image": "img/097f9d76.png",
-      "image_sha": "d96fad6e6e57e9476382b7d29e3b5c0d4e253499",
-      "url": "https://www.radiodos.com.ar/212037-causa-exen-hablaremos-con-la-jueza-para-que-los-gimnasios-continuen-y-los-trabajadores-puedan-seguir",
-      "title": "Causa Exen: \"Hablaremos con la jueza para que los gimnasios continúen y los trabajadores puedan seguir\"",
-      "volanta": "ABOGADO RICARDO OSUNA",
-      "date": "2026-08-10T12:13:34+00:00"
     }
   ]
 }
