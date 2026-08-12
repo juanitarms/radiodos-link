@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T19:03:03+00:00",
+  "updated": "2026-08-12T20:46:48+00:00",
   "posts": [
+    {
+      "id": "579d4d25",
+      "image": "img/579d4d25.png",
+      "image_sha": "4186236ae08de0e97292aa4ce3fd9e6d8de9ae9d",
+      "url": "https://www.radiodos.com.ar/212199-reconocido-docente-correntino-fallecio-tras-sufrir-un-siniestro-vial",
+      "title": "Reconocido docente correntino falleció tras sufrir un siniestro vial",
+      "volanta": "LAMENTABLE",
+      "date": "2026-08-12T20:46:48+00:00"
+    },
     {
       "id": "20c59127",
       "image": "img/20c59127.png",
@@ -531,15 +540,6 @@
       "title": "La conocía hace algunos días y la asesinó con el cable del celular: espeluznantes detalles de otro femicidio en Corrientes",
       "volanta": "CRIMEN",
       "date": "2026-08-10T21:47:15+00:00"
-    },
-    {
-      "id": "a2429b10",
-      "image": "img/a2429b10.png",
-      "image_sha": "0e44a4076c90557c8c983944f649e5a910a60916",
-      "url": "https://www.radiodos.com.ar/212082-comenzo-el-juicio-contra-pity-alvarez-por-el-crimen-de-cristian-diaz",
-      "title": "Comenzó el juicio contra \"Pity\" Álvarez por el crimen de Cristian Díaz",
-      "volanta": "Después de ocho años",
-      "date": "2026-08-10T21:37:09+00:00"
     }
   ]
 }
