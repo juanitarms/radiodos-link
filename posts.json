@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T13:35:07+00:00",
+  "updated": "2026-08-12T13:53:33+00:00",
   "posts": [
+    {
+      "id": "78ee8b07",
+      "image": "img/78ee8b07.png",
+      "image_sha": "cd25bad98a7fefc1f5ab11b984f8b5bae9806a13",
+      "url": "https://www.radiodos.com.ar/212178-terremoto-en-colombia-abelardo-de-la-espriella-confirmo-181-muertes-pero-aseguran-que-son-mas-de-200",
+      "title": "Terremoto en Colombia: Abelardo de la Espriella confirmó 181 muertes pero aseguran que son más de 200",
+      "volanta": "TRAGEDIA",
+      "date": "2026-08-12T13:53:33+00:00"
+    },
     {
       "id": "dca6a1be",
       "image": "img/dca6a1be.png",
@@ -531,15 +540,6 @@
       "title": "En distintos procedimientos recuperaron una desmalezadora y una bici robadas",
       "volanta": "ITATÍ y SAN LUIS DEL PALMAR",
       "date": "2026-08-10T16:23:03+00:00"
-    },
-    {
-      "id": "1c5ad15e",
-      "image": "img/1c5ad15e.png",
-      "image_sha": "cd7d4623da3469e6bb9e70849ae194b49b2beb3d",
-      "url": "https://www.radiodos.com.ar/212061-fuerte-terremoto-de-magnitud-74-sacudio-a-toda-colombia",
-      "title": "Fuerte terremoto de magnitud 7,4 sacudió a toda Colombia",
-      "volanta": "SISMOS",
-      "date": "2026-08-10T15:06:56+00:00"
     }
   ]
 }
