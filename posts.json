@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T22:00:46+00:00",
+  "updated": "2026-08-12T22:01:43+00:00",
   "posts": [
+    {
+      "id": "322213b2",
+      "image": "img/322213b2.png",
+      "image_sha": "2cef2d64e4619e3e122cb0249701b58296b22f88",
+      "url": "https://www.radiodos.com.ar/212201-informe-revela-que-crecio-un-35-la-cantidad-de-gente-que-busca-comida-en-las-iglesias",
+      "title": "Informe revela que creció un 35% la cantidad de gente que busca comida en las iglesias",
+      "volanta": "Crisis económica:",
+      "date": "2026-08-12T22:01:43+00:00"
+    },
     {
       "id": "5a9aac53",
       "image": "img/5a9aac53.png",
@@ -531,15 +540,6 @@
       "title": "Arrancó la Liga Provincial de Mayores 2026: resultados de la primera fecha",
       "volanta": "BÁSQUET",
       "date": "2026-08-11T12:33:20+00:00"
-    },
-    {
-      "id": "45ed9fde",
-      "image": "img/45ed9fde.png",
-      "image_sha": "547da5b25c9c780b78e59b84b8171aa14337a3cc",
-      "url": "https://www.radiodos.com.ar/212092-volco-tras-chocar-divisoria-de-carriles-en-uno-de-los-accesos-a-corrientes",
-      "title": "Volcó tras chocar divisoria de carriles en uno de los accesos a Corrientes",
-      "volanta": "ANOCHE",
-      "date": "2026-08-11T12:03:34+00:00"
     }
   ]
 }
