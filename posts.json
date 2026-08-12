@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T16:03:41+00:00",
+  "updated": "2026-08-12T16:05:16+00:00",
   "posts": [
+    {
+      "id": "c8dc39a3",
+      "image": "img/c8dc39a3.png",
+      "image_sha": "1a950d926ab6a0b4fea5fb17685428ac1ea01e56",
+      "url": "https://www.radiodos.com.ar/212189-san-martin-regreso-oficialmente-las-actividades-a-las-canchas-principal-y-auxiliar",
+      "title": "San Martín regresó oficialmente las actividades a las canchas principal y auxiliar",
+      "volanta": "RETOMAR ACTIVIDADES",
+      "date": "2026-08-12T16:05:16+00:00"
+    },
     {
       "id": "464e5d53",
       "image": "img/464e5d53.png",
@@ -531,15 +540,6 @@
       "title": "Ejecutan obras pluviales para prevenir anegamientos por lluvias en un barrio de Corrientes",
       "volanta": "TRABAJO PREVENTIVO",
       "date": "2026-08-10T20:38:52+00:00"
-    },
-    {
-      "id": "7d93a9cf",
-      "image": "img/7d93a9cf.png",
-      "image_sha": "ddabec9eb31da22a3a1ba3530d621ac84e1a7a8c",
-      "url": "https://www.radiodos.com.ar/212076-terremoto-en-colombia-hay-111-muertos-y-87-heridos-tras-un-sismo-de-magnitud-74",
-      "title": "Terremoto en Colombia: hay 111 muertos y 87 heridos tras un sismo de magnitud 7,4",
-      "volanta": "CATASTROFE",
-      "date": "2026-08-10T20:13:37+00:00"
     }
   ]
 }
