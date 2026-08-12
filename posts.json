@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T19:01:17+00:00",
+  "updated": "2026-08-12T19:01:52+00:00",
   "posts": [
+    {
+      "id": "070ffe4d",
+      "image": "img/070ffe4d.png",
+      "image_sha": "dbedb6c7a6e1096d84da37d33216bf3fa98182d6",
+      "url": "https://www.radiodos.com.ar/212192-asi-se-juega-la-segunda-de-la-liga-provincial-de-mayores-2026",
+      "title": "Así se juega la segunda de la Liga Provincial de Mayores 2026",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-12T19:01:52+00:00"
+    },
     {
       "id": "58ed94bb",
       "image": "img/58ed94bb.png",
@@ -531,15 +540,6 @@
       "title": "La conocía hace algunos días y la asesinó con el cable del celular: espeluznantes detalles de otra tragedia en Corrientes",
       "volanta": "BARRIO SEMINARIO",
       "date": "2026-08-10T21:22:48+00:00"
-    },
-    {
-      "id": "ba352d19",
-      "image": "img/ba352d19.png",
-      "image_sha": "67e5b6fd4415897f2203867b71367ad4d75e92ae",
-      "url": "https://www.radiodos.com.ar/212080-cerraron-mas-de-28000-empresas-desde-el-inicio-de-la-gestion-de-milei",
-      "title": "Cerraron más de 28.000 empresas desde el inicio de la gestión de Milei",
-      "volanta": "Pérdida masiva de empleo registrado",
-      "date": "2026-08-10T21:21:41+00:00"
     }
   ]
 }
