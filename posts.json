@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T10:34:18+00:00",
+  "updated": "2026-08-12T10:55:20+00:00",
   "posts": [
+    {
+      "id": "7000b5fb",
+      "image": "img/7000b5fb.png",
+      "image_sha": "9b2952832b5a2051fef775bef15d88c48814874c",
+      "url": "https://www.radiodos.com.ar/212146-ocho-ladrones-robaron-bicicletas-en-un-golpe-pirana-en-inquilinato-de-corrientes",
+      "title": "Ocho ladrones robaron bicicletas en un golpe \"piraña\" en inquilinato de Corrientes",
+      "volanta": "BARRIO LOMAS DEL MIRADOR",
+      "date": "2026-08-12T10:55:20+00:00"
+    },
     {
       "id": "978fc402",
       "image": "img/978fc402.png",
@@ -531,15 +540,6 @@
       "title": "Un nene de 3 años murió tras el feroz ataque de un pitbull",
       "volanta": "Córdoba",
       "date": "2026-08-10T11:48:19+00:00"
-    },
-    {
-      "id": "42b45f88",
-      "image": "img/42b45f88.png",
-      "image_sha": "6f2d28d9bb2a7f461c35b8651339d24be7a04537",
-      "url": "https://www.radiodos.com.ar/212034-ola-de-frio-en-corrientes-y-ascenso-termico-hacia-el-fin-de-semana",
-      "title": "Ola de frío en Corrientes y ascenso térmico hacia el fin de semana",
-      "volanta": "PRONÓSTICO",
-      "date": "2026-08-10T11:11:33+00:00"
     }
   ]
 }
