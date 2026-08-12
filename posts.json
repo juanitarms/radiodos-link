@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T11:33:25+00:00",
+  "updated": "2026-08-12T11:48:53+00:00",
   "posts": [
+    {
+      "id": "32c87d7b",
+      "image": "img/32c87d7b.png",
+      "image_sha": "9ee36706535c7efd8ce69a722947e4ef4c78ffa3",
+      "url": "https://www.radiodos.com.ar/212150-caso-gimnasios-exen-se-entregaron-los-dos-profugos-que-tenian-pedido-de-captura-internacional",
+      "title": "Caso gimnasios Exen: se entregaron los dos prófugos que tenían pedido de captura internacional",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-08-12T11:48:53+00:00"
+    },
     {
       "id": "7e2d0ed1",
       "image": "img/7e2d0ed1.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad vuelven con productos frescos y ofertas en distintos espacios públicos",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-08-10T13:37:42+00:00"
-    },
-    {
-      "id": "d2c5c286",
-      "image": "img/d2c5c286.png",
-      "image_sha": "41bf760038f3823a2ea1d788f1f6abbf63223390",
-      "url": "https://www.radiodos.com.ar/212038-familiares-de-aimara-sospechan-de-la-duena-de-la-casa-incendiada-piden-justicia-",
-      "title": "Familiares de Aimará sospechan de la dueña de la casa incendiada: piden justicia",
-      "volanta": "FEMICIDIO",
-      "date": "2026-08-10T13:09:50+00:00"
     }
   ]
 }
