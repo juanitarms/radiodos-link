@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T19:02:28+00:00",
+  "updated": "2026-08-12T19:03:03+00:00",
   "posts": [
+    {
+      "id": "20c59127",
+      "image": "img/20c59127.png",
+      "image_sha": "f880795fc9b91b5062591a99a0092f4bb6434c64",
+      "url": "https://www.radiodos.com.ar/212195-braillard-poccard-este-un-primer-paso-y-estoy-convencido-de-que-se-puede-mejorar",
+      "title": "Braillard Poccard: \"Este un primer paso, y estoy convencido de que se puede mejorar\"",
+      "volanta": "LANZAMIENTO DEL REGISTRO EMPRENDEDOR CORRENTINO",
+      "date": "2026-08-12T19:03:03+00:00"
+    },
     {
       "id": "0dfc3955",
       "image": "img/0dfc3955.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el juicio contra \"Pity\" Álvarez por el crimen de Cristian Díaz",
       "volanta": "Después de ocho años",
       "date": "2026-08-10T21:37:09+00:00"
-    },
-    {
-      "id": "cea20b56",
-      "image": "img/cea20b56.png",
-      "image_sha": "135e07226f88d399439bc3fb767df25c241129f6",
-      "url": "https://www.radiodos.com.ar/212083-el-hospital-pediatrico-angel-de-la-guarda-de-goya-supero-las-32-mil-atenciones-en-un-ano",
-      "title": "El Hospital Pediátrico \"Ángel de la Guarda\" de Goya superó las 32 mil atenciones en un año",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-08-10T21:36:32+00:00"
     }
   ]
 }
