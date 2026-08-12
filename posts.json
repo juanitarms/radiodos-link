@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T13:20:25+00:00",
+  "updated": "2026-08-12T13:35:07+00:00",
   "posts": [
+    {
+      "id": "dca6a1be",
+      "image": "img/dca6a1be.png",
+      "image_sha": "b0063f2c573128949c5ba8ae13dc39932362261e",
+      "url": "https://www.radiodos.com.ar/212176-dibu-martinez-se-pierde-la-supercopa-de-europa-ante-el-psg-la-decision-de-aston-villa",
+      "title": "Dibu Martínez se pierde la Supercopa de Europa ante el PSG: la decisión de Aston Villa",
+      "volanta": "MALA NOTICIA",
+      "date": "2026-08-12T13:35:07+00:00"
+    },
     {
       "id": "2e68fc3c",
       "image": "img/2e68fc3c.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte terremoto de magnitud 7,4 sacudió a toda Colombia",
       "volanta": "SISMOS",
       "date": "2026-08-10T15:06:56+00:00"
-    },
-    {
-      "id": "c051299d",
-      "image": "img/c051299d.png",
-      "image_sha": "dc0c40b935202acc8a659f52cd9f23551a100787",
-      "url": "https://www.radiodos.com.ar/212052-anses-pago-de-pensiones-y-jubilaciones",
-      "title": "Anses: pago de pensiones y jubilaciones",
-      "volanta": "Hoy",
-      "date": "2026-08-10T14:50:27+00:00"
     }
   ]
 }
