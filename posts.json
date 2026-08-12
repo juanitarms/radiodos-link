@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T22:01:43+00:00",
+  "updated": "2026-08-12T22:03:00+00:00",
   "posts": [
+    {
+      "id": "27f1a8d9",
+      "image": "img/27f1a8d9.png",
+      "image_sha": "1bbd890dee82b02be83bfd6040abbd10fc649c25",
+      "url": "https://www.radiodos.com.ar/212205-en-cumbre-regional-juan-pablo-valdes-pidio-una-tarifa-energetica-diferenciada-para-el-norte-grande",
+      "title": "En cumbre regional, Juan Pablo Valdés pidió una tarifa energética diferenciada para el Norte Grande",
+      "volanta": "EN MISIONES",
+      "date": "2026-08-12T22:03:00+00:00"
+    },
     {
       "id": "322213b2",
       "image": "img/322213b2.png",
@@ -531,15 +540,6 @@
       "title": "Analizan el ADN del quebracho blanco para entender su historia evolutiva y aportar claves para su conservación",
       "volanta": "NUEVOS CONOCIMIENTOS",
       "date": "2026-08-11T12:56:17+00:00"
-    },
-    {
-      "id": "86873eba",
-      "image": "img/86873eba.png",
-      "image_sha": "844fba0e1e13cd11b3009a1017600189bcf42150",
-      "url": "https://www.radiodos.com.ar/212097-arranco-la-liga-provincial-de-mayores-2026-resultados-de-la-primera-fecha",
-      "title": "Arrancó la Liga Provincial de Mayores 2026: resultados de la primera fecha",
-      "volanta": "BÁSQUET",
-      "date": "2026-08-11T12:33:20+00:00"
     }
   ]
 }
