@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T14:18:51+00:00",
+  "updated": "2026-08-12T14:35:08+00:00",
   "posts": [
+    {
+      "id": "09e645fb",
+      "image": "img/09e645fb.png",
+      "image_sha": "ca317a36cfe52e9fbf7266931e4f68045dec775a",
+      "url": "https://www.radiodos.com.ar/212185-no-ando-desacatado-la-polemica-frase-de-luck-ra-que-ahora-todos-relacionan-con-su-separacion",
+      "title": "\"No ando desacatado\": la polémica frase de Luck Ra que ahora todos relacionan con su separación",
+      "volanta": "TRAS LA SEPARACIÓN",
+      "date": "2026-08-12T14:35:08+00:00"
+    },
     {
       "id": "ed4b1467",
       "image": "img/ed4b1467.png",
@@ -531,15 +540,6 @@
       "title": "Reconocimiento de la Cámara de Diputados a los doctores Eduardo Perna y Stella Maris Macín del Instituto de Cardiología",
       "volanta": "Este martes a las 19 horas",
       "date": "2026-08-10T17:16:48+00:00"
-    },
-    {
-      "id": "58683f65",
-      "image": "img/58683f65.png",
-      "image_sha": "6677fa78e0ee712586b1bb59f8e16d325c1b31ec",
-      "url": "https://www.radiodos.com.ar/212057-demoraron-a-tres-hombres-y-secuestraron-productos-carnicos-de-animales-silvestres-y-un-arma-de-aire-comprimido",
-      "title": "Demoraron a tres hombres y secuestraron productos cárnicos de animales silvestres y un arma de aire comprimido",
-      "volanta": "CURUZÚ CUATIÁ",
-      "date": "2026-08-10T17:16:12+00:00"
     }
   ]
 }
