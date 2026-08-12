@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T14:56:56+00:00",
+  "updated": "2026-08-12T15:05:44+00:00",
   "posts": [
+    {
+      "id": "9bbe4a82",
+      "image": "img/9bbe4a82.png",
+      "image_sha": "9da12c8951638e0c2f92cd913b0c8813ccca9c79",
+      "url": "https://www.radiodos.com.ar/212186-preparan-circo-magia-teatro-y-espectaculos-para-festejar-a-las-infancias-en-la-unidad",
+      "title": "Preparan circo, magia, teatro y espectáculos para festejar a las infancias en La Unidad",
+      "volanta": "PROPUESTA RECREATIVA Y CULTURAL GRATUITA",
+      "date": "2026-08-12T15:05:44+00:00"
+    },
     {
       "id": "3f3c1bfa",
       "image": "img/3f3c1bfa.png",
@@ -531,15 +540,6 @@
       "title": "Terremoto en Colombia: al menos 20 muertos y varios atrapados",
       "volanta": "TRAGEDIA",
       "date": "2026-08-10T19:12:39+00:00"
-    },
-    {
-      "id": "9a2dbcd4",
-      "image": "img/9a2dbcd4.png",
-      "image_sha": "7094edca1db2d0fa07b11d95e3c1ec9e7942ce1f",
-      "url": "https://www.radiodos.com.ar/212062-el-terremoto-en-colombia-sacudio-a-panama-y-ecuador",
-      "title": "El terremoto en Colombia sacudió a Panamá y Ecuador",
-      "volanta": "TERRIBLE",
-      "date": "2026-08-10T17:17:22+00:00"
     }
   ]
 }
