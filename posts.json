@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T10:55:20+00:00",
+  "updated": "2026-08-12T11:03:28+00:00",
   "posts": [
+    {
+      "id": "d48f0441",
+      "image": "img/d48f0441.png",
+      "image_sha": "ef56545d03686fd10b2f0c8628e90a89a6b5f1c6",
+      "url": "https://www.radiodos.com.ar/212147-hoy-miranos-en-nuestro-canal-de-youtube-lados-tv",
+      "title": "Hoy mirános en nuestro canal de YouTube: LaDOS TV",
+      "volanta": "STREAMING",
+      "date": "2026-08-12T11:03:28+00:00"
+    },
     {
       "id": "7000b5fb",
       "image": "img/7000b5fb.png",
@@ -531,15 +540,6 @@
       "title": "Causa Exen: \"Hablaremos con la jueza para que los gimnasios continúen y los trabajadores puedan seguir\"",
       "volanta": "ABOGADO RICARDO OSUNA",
       "date": "2026-08-10T12:13:34+00:00"
-    },
-    {
-      "id": "d6d1f1cf",
-      "image": "img/d6d1f1cf.png",
-      "image_sha": "0e4ca6f91df55543a5c383b0c84bff386a324beb",
-      "url": "https://www.radiodos.com.ar/212032-un-nene-de-3-anos-murio-tras-el-feroz-ataque-de-un-pitbull",
-      "title": "Un nene de 3 años murió tras el feroz ataque de un pitbull",
-      "volanta": "Córdoba",
-      "date": "2026-08-10T11:48:19+00:00"
     }
   ]
 }
