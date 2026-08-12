@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T20:49:31+00:00",
+  "updated": "2026-08-12T20:50:25+00:00",
   "posts": [
+    {
+      "id": "e276626b",
+      "image": "img/e276626b.png",
+      "image_sha": "d8addb7d0ea27bd4e4c86e8812078e6e99bb02a2",
+      "url": "https://www.radiodos.com.ar/212202-el-banco-de-corrientes-impulsa-nuevos-creditos-hipotecarios-uva-para-compra-de-viviendas-terrenos-construccion-ampliacion-o-refaccion",
+      "title": "El Banco de Corrientes impulsa nuevos créditos hipotecarios UVA para compra de viviendas, terrenos, construcción, ampliación o refacción",
+      "volanta": "AMPLIA OFERTA DE LÍNEAS",
+      "date": "2026-08-12T20:50:25+00:00"
+    },
     {
       "id": "eeff76fb",
       "image": "img/eeff76fb.png",
@@ -531,15 +540,6 @@
       "title": "Declara la ginecóloga de Victoria Caillava y otros tres testigos clave en una nueva audiencia",
       "volanta": "JUICIO POR LOAN",
       "date": "2026-08-10T22:16:27+00:00"
-    },
-    {
-      "id": "f9ab417b",
-      "image": "img/f9ab417b.png",
-      "image_sha": "2b3f8220909632a3923915e49465133ded71f96e",
-      "url": "https://www.radiodos.com.ar/212084-las-ventas-de-materiales-para-la-construccion-cayeron-un-65-en-julio",
-      "title": "Las ventas de materiales para la construcción cayeron un 6,5% en julio",
-      "volanta": "CRISIS",
-      "date": "2026-08-10T22:15:25+00:00"
     }
   ]
 }
