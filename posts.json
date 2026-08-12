@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T16:05:50+00:00",
+  "updated": "2026-08-12T16:06:23+00:00",
   "posts": [
+    {
+      "id": "0805a7be",
+      "image": "img/0805a7be.png",
+      "image_sha": "b94322feca8c450642406ddae39983c2c781ad5f",
+      "url": "https://www.radiodos.com.ar/212191-cuatro-demorados-con-una-animal-ovino-faenado-clandestinamente-",
+      "title": "Cuatro demorados con una animal ovino faenado clandestinamente",
+      "volanta": "CURUZU CUATIA",
+      "date": "2026-08-12T16:06:23+00:00"
+    },
     {
       "id": "7ffb14ff",
       "image": "img/7ffb14ff.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: ratifican la condena de 9 años al capo narco que operaba desde la cárcel",
       "volanta": "Lucha contra el narcotráfico",
       "date": "2026-08-10T20:48:13+00:00"
-    },
-    {
-      "id": "d1d888e5",
-      "image": "img/d1d888e5.png",
-      "image_sha": "763c46584f7387717836cb43d40c65958c043a08",
-      "url": "https://www.radiodos.com.ar/212077-motociclista-sufrio-graves-lesiones-tras-impactar-contra-un-auto",
-      "title": "Motociclista sufrió graves lesiones tras impactar contra un auto",
-      "volanta": "VIDEO",
-      "date": "2026-08-10T20:39:25+00:00"
     }
   ]
 }
