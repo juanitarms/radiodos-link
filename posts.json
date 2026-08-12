@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T20:48:32+00:00",
+  "updated": "2026-08-12T20:49:31+00:00",
   "posts": [
+    {
+      "id": "eeff76fb",
+      "image": "img/eeff76fb.png",
+      "image_sha": "e1448acadb26aed6b2e248b23d2159e2a386981b",
+      "url": "https://www.radiodos.com.ar/212197-con-una-estatua-de-marmol-la-particular-presentacion-de-nahuel-molina-en-roma",
+      "title": "Con una estatua de mármol: la particular presentación de Nahuel Molina en Roma",
+      "volanta": "ITALIA",
+      "date": "2026-08-12T20:49:31+00:00"
+    },
     {
       "id": "3766bb5a",
       "image": "img/3766bb5a.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas de materiales para la construcción cayeron un 6,5% en julio",
       "volanta": "CRISIS",
       "date": "2026-08-10T22:15:25+00:00"
-    },
-    {
-      "id": "4db9d61f",
-      "image": "img/4db9d61f.png",
-      "image_sha": "d6583749bc847637473812be7e97075380144144",
-      "url": "https://www.radiodos.com.ar/212085-duelo-institucional-en-la-facultad-de-odontologia-por-la-muerte-de-un-estudiante",
-      "title": "Duelo institucional en la facultad de Odontología por la muerte de un estudiante",
-      "volanta": "unne",
-      "date": "2026-08-10T22:13:51+00:00"
     }
   ]
 }
