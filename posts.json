@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T13:53:33+00:00",
+  "updated": "2026-08-12T14:18:51+00:00",
   "posts": [
+    {
+      "id": "ed4b1467",
+      "image": "img/ed4b1467.png",
+      "image_sha": "19a7dab134f3fc94d05b919c2aa8fe446c71ef6a",
+      "url": "https://www.radiodos.com.ar/212175-departamento-de-idiomas-unne-lanza-encuesta-para-determinar-interes-sobre-el-chino-mandarin",
+      "title": "Departamento de Idiomas UNNE lanza encuesta para determinar interés sobre el chino mandarín",
+      "volanta": "DIGITAL",
+      "date": "2026-08-12T14:18:51+00:00"
+    },
     {
       "id": "78ee8b07",
       "image": "img/78ee8b07.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a tres hombres y secuestraron productos cárnicos de animales silvestres y un arma de aire comprimido",
       "volanta": "CURUZÚ CUATIÁ",
       "date": "2026-08-10T17:16:12+00:00"
-    },
-    {
-      "id": "fd2f6251",
-      "image": "img/fd2f6251.png",
-      "image_sha": "1fbbce4fc0c859fdbb0774ef473f5d862ae7cf2f",
-      "url": "https://www.radiodos.com.ar/212058-en-distintos-procedimientos-recuperaron-una-desmalezadora-y-una-bici-robadas-",
-      "title": "En distintos procedimientos recuperaron una desmalezadora y una bici robadas",
-      "volanta": "ITATÍ y SAN LUIS DEL PALMAR",
-      "date": "2026-08-10T16:23:03+00:00"
     }
   ]
 }
