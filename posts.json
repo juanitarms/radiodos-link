@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T21:14:03+00:00",
+  "updated": "2026-08-13T21:14:35+00:00",
   "posts": [
+    {
+      "id": "5d1c613b",
+      "image": "img/5d1c613b.png",
+      "image_sha": "b21250a312eedbe5772433a89bd1656613dd3133",
+      "url": "https://www.radiodos.com.ar/212260-elena-roger-anuncia-su-tour-2026-por-argentina",
+      "title": "Elena Roger anuncia su tour 2026 por ARGENTINA",
+      "volanta": "CONCIERTOS",
+      "date": "2026-08-13T21:14:35+00:00"
+    },
     {
       "id": "c44f110a",
       "image": "img/c44f110a.png",
@@ -531,15 +540,6 @@
       "title": "Hoy mirános en nuestro canal de YouTube: LaDOS TV",
       "volanta": "STREAMING",
       "date": "2026-08-12T11:03:28+00:00"
-    },
-    {
-      "id": "7000b5fb",
-      "image": "img/7000b5fb.png",
-      "image_sha": "9b2952832b5a2051fef775bef15d88c48814874c",
-      "url": "https://www.radiodos.com.ar/212146-ocho-ladrones-robaron-bicicletas-en-un-golpe-pirana-en-inquilinato-de-corrientes",
-      "title": "Ocho ladrones robaron bicicletas en un golpe \"piraña\" en inquilinato de Corrientes",
-      "volanta": "BARRIO LOMAS DEL MIRADOR",
-      "date": "2026-08-12T10:55:20+00:00"
     }
   ]
 }
