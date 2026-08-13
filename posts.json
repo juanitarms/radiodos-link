@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T22:13:16+00:00",
+  "updated": "2026-08-13T22:14:17+00:00",
   "posts": [
+    {
+      "id": "4d70ee0c",
+      "image": "img/4d70ee0c.png",
+      "image_sha": "683de3ac4a9cb416fd6f39dfcbf9ca2f7ca82df1",
+      "url": "https://www.radiodos.com.ar/212267-la-utn-suspende-temporalmente-las-clases-en-ituzaingo-por-problemas-presupuestarios",
+      "title": "La UTN suspende temporalmente las clases en Ituzaingó por problemas presupuestarios",
+      "volanta": "LAMENTABLE",
+      "date": "2026-08-13T22:14:17+00:00"
+    },
     {
       "id": "4190e7e2",
       "image": "img/4190e7e2.png",
@@ -531,15 +540,6 @@
       "title": "Lio Messi despidió a su padre con una carta: \"No sé cómo seguir\"",
       "volanta": "IMPACTANTE",
       "date": "2026-08-12T13:20:25+00:00"
-    },
-    {
-      "id": "8774c1ab",
-      "image": "img/8774c1ab.png",
-      "image_sha": "03c25f19a81630266ae2a251f0b6791e1b1eefe8",
-      "url": "https://www.radiodos.com.ar/212165-thiago-almada-revelo-quienes-fueron-los-autores-de-la-historica-bandera-de-malvinas-ante-inglaterra",
-      "title": "Thiago Almada reveló quiénes fueron los autores de la histórica bandera de Malvinas ante Inglaterra",
-      "volanta": "MUNDIAL 2026",
-      "date": "2026-08-12T13:03:30+00:00"
     }
   ]
 }
