@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T22:12:00+00:00",
+  "updated": "2026-08-13T22:12:35+00:00",
   "posts": [
+    {
+      "id": "1ee9bbc4",
+      "image": "img/1ee9bbc4.png",
+      "image_sha": "c14d070b4d0ca6eb27f1e67828e6c50ba2bea6af",
+      "url": "https://www.radiodos.com.ar/212264-educacion-y-loteria-fortalecen-la-prevencion-de-las-apuestas-online-en-corrientes",
+      "title": "Educación y Lotería fortalecen la prevención de las apuestas online en Corrientes",
+      "volanta": "CONVENIO",
+      "date": "2026-08-13T22:12:35+00:00"
+    },
     {
       "id": "28135041",
       "image": "img/28135041.png",
@@ -531,15 +540,6 @@
       "title": "El STJ implementará desde septiembre un nuevo Sistema transitorio de Justicia Penal Juvenil en Corrientes",
       "volanta": "ACUERDO EXTRAORDINARIO N° 5/26",
       "date": "2026-08-12T12:46:48+00:00"
-    },
-    {
-      "id": "48c82df5",
-      "image": "img/48c82df5.png",
-      "image_sha": "6f3abd34940a061806a7e0a329a6e5c0387af582",
-      "url": "https://www.radiodos.com.ar/212152-condenaron-en-corrientes-a-una-docente-por-exigir-dinero-a-alumnas-a-cambio-de-aprobar-materias",
-      "title": "Condenaron en Corrientes a una docente por exigir dinero a alumnas a cambio de aprobar materias",
-      "volanta": "MERCEDES",
-      "date": "2026-08-12T12:12:11+00:00"
     }
   ]
 }
