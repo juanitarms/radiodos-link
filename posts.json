@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T22:14:17+00:00",
+  "updated": "2026-08-13T22:14:49+00:00",
   "posts": [
+    {
+      "id": "27dc65bf",
+      "image": "img/27dc65bf.png",
+      "image_sha": "5dccb7c8f2a784f5efd9ef671eeb8b21bb441bfe",
+      "url": "https://www.radiodos.com.ar/212268-un-auto-se-incendio-sobre-cerca-del-acceso-a-itati",
+      "title": "Un auto se incendió sobre cerca del acceso a Itatí",
+      "volanta": "SOBRE LA RUTA 20",
+      "date": "2026-08-13T22:14:49+00:00"
+    },
     {
       "id": "4d70ee0c",
       "image": "img/4d70ee0c.png",
@@ -531,15 +540,6 @@
       "title": "Dibu Martínez se pierde la Supercopa de Europa ante el PSG: la decisión de Aston Villa",
       "volanta": "MALA NOTICIA",
       "date": "2026-08-12T13:35:07+00:00"
-    },
-    {
-      "id": "2e68fc3c",
-      "image": "img/2e68fc3c.png",
-      "image_sha": "98ae97e6044e212d2ae4c8d29a2834274bdcaff9",
-      "url": "https://www.radiodos.com.ar/212168-lio-messi-despidio-a-su-padre-con-una-carta-no-se-como-seguir",
-      "title": "Lio Messi despidió a su padre con una carta: \"No sé cómo seguir\"",
-      "volanta": "IMPACTANTE",
-      "date": "2026-08-12T13:20:25+00:00"
     }
   ]
 }
