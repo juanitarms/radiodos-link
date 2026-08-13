@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T14:01:21+00:00",
+  "updated": "2026-08-13T14:20:26+00:00",
   "posts": [
+    {
+      "id": "b6860bdd",
+      "image": "img/b6860bdd.png",
+      "image_sha": "1870dc23ed21ddac677fcf1d6f8e73560e662522",
+      "url": "https://www.radiodos.com.ar/212237-cuti-romero-es-nuevo-jugador-del-atletico-de-madrid-y-sera-dirigido-por-el-cholo-simeone",
+      "title": "Cuti Romero es nuevo jugador del Atlético de Madrid y será dirigido por el Cholo Simeone",
+      "volanta": "ESPAÑA",
+      "date": "2026-08-13T14:20:26+00:00"
+    },
     {
       "id": "5f275ae0",
       "image": "img/5f275ae0.png",
@@ -531,15 +540,6 @@
       "title": "Curuzú Cuatiá fortalece su parque vial con la incorporación de dos nuevas máquinas",
       "volanta": "GESTIÓN",
       "date": "2026-08-11T19:28:22+00:00"
-    },
-    {
-      "id": "bfc7b9d9",
-      "image": "img/bfc7b9d9.png",
-      "image_sha": "fa825de2c1acd7792b9edd5b93d1afcb0ad97e37",
-      "url": "https://www.radiodos.com.ar/212122-policias-asistieron-y-trasladaron-a-una-mujer-que-se-encontraba-en-trabajo-de-parto",
-      "title": "Policías asistieron y trasladaron a una mujer que se encontraba en trabajo de parto",
-      "volanta": "COMISARIA 20º URBANA",
-      "date": "2026-08-11T19:27:49+00:00"
     }
   ]
 }
