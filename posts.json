@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T14:33:48+00:00",
+  "updated": "2026-08-13T14:51:34+00:00",
   "posts": [
+    {
+      "id": "3849e2fe",
+      "image": "img/3849e2fe.png",
+      "image_sha": "5f00f5d5ae2105076817894c1fd7d01be3a78e67",
+      "url": "https://www.radiodos.com.ar/212240-valdes-respaldo-la-eliminacion-de-las-paso-pero-advirtio-al-gobierno-la-perdida-de-tiempo-en-la-politica-tiene-sus-consecuencias",
+      "title": "Valdés respaldó la eliminación de las PASO, pero advirtió al Gobierno: \"La pérdida de tiempo en la política tiene sus consecuencias\"",
+      "volanta": "POLÍTICA",
+      "date": "2026-08-13T14:51:34+00:00"
+    },
     {
       "id": "257e3efa",
       "image": "img/257e3efa.png",
@@ -531,15 +540,6 @@
       "title": "La UNNE hace base en La Rural de Corrientes con productos y servicios para el sector",
       "volanta": "VINCULACIÓN CON EL TERRITORIO Y EL SECTOR PRODUCTIVO",
       "date": "2026-08-11T19:29:22+00:00"
-    },
-    {
-      "id": "91dc52ff",
-      "image": "img/91dc52ff.png",
-      "image_sha": "1decc0ae5998a721d5c1281bfbc964f175fe6a26",
-      "url": "https://www.radiodos.com.ar/212123-cayo-el-doctor-estafa-en-almagro-se-hacia-pasar-por-neurocirujano-para-enganar-a-pacientes",
-      "title": "Cayó el \"doctor estafa\" en Almagro: se hacía pasar por neurocirujano para engañar a pacientes",
-      "volanta": "ESTAFAS MÉDICAS",
-      "date": "2026-08-11T19:28:52+00:00"
     }
   ]
 }
