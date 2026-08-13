@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T12:27:55+00:00",
+  "updated": "2026-08-13T12:58:11+00:00",
   "posts": [
+    {
+      "id": "48a80825",
+      "image": "img/48a80825.png",
+      "image_sha": "d060ce44a34f9f9c91a2eefad41cd893e2f4e4a3",
+      "url": "https://www.radiodos.com.ar/212222-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
+      "volanta": "ESTE JUEVES",
+      "date": "2026-08-13T12:58:11+00:00"
+    },
     {
       "id": "4e11c0ff",
       "image": "img/4e11c0ff.png",
@@ -531,15 +540,6 @@
       "title": "La decisión de Conmebol con el partido de River ante Independiente Santa Fe en Colombia: cuándo se juega",
       "volanta": "COPA SUDAMERICANA",
       "date": "2026-08-11T17:06:26+00:00"
-    },
-    {
-      "id": "e580d88c",
-      "image": "img/e580d88c.png",
-      "image_sha": "07181fbf433f918aa274be5864075fc40adafa92",
-      "url": "https://www.radiodos.com.ar/212108-se-viene-el-dato-del-indec-sobre-el-ipc-de-julio-2026-y-se-espera-una-nueva-aceleracion",
-      "title": "Se viene el dato del INDEC sobre el IPC de julio 2026 y se espera una nueva aceleración",
-      "volanta": "ECONOMÍA",
-      "date": "2026-08-11T17:05:53+00:00"
     }
   ]
 }
