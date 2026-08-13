@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T17:55:37+00:00",
+  "updated": "2026-08-13T17:56:10+00:00",
   "posts": [
+    {
+      "id": "803bf8e8",
+      "image": "img/803bf8e8.png",
+      "image_sha": "d743caf1acbd9f55d798dac23be4b8c518f2d167",
+      "url": "https://www.radiodos.com.ar/212225-buscan-a-un-adolescente-que-no-volvio-a-su-hogar-en-el-interior-provincial",
+      "title": "Buscan a un adolescente que no volvió a su hogar en el interior provincial",
+      "volanta": "CURUZU CUATIA",
+      "date": "2026-08-13T17:56:10+00:00"
+    },
     {
       "id": "ea4372bd",
       "image": "img/ea4372bd.png",
@@ -531,15 +540,6 @@
       "title": "Investigan si gendarmes jugaron al pádel en un predio custodiado por la causa Exen",
       "volanta": "INSÓLITO",
       "date": "2026-08-11T21:59:52+00:00"
-    },
-    {
-      "id": "cf9aaf6f",
-      "image": "img/cf9aaf6f.png",
-      "image_sha": "6854179323df2946b9fd6381b369828203124314",
-      "url": "https://www.radiodos.com.ar/212142-en-tiempo-record-se-completo-el-cupo-de-pescadores-de-la-fiesta-nacional-del-surubi",
-      "title": "En tiempo récord, se completó el cupo de pescadores de la Fiesta Nacional del Surubí",
-      "volanta": "50 EDICION",
-      "date": "2026-08-11T21:58:09+00:00"
     }
   ]
 }
