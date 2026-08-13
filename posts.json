@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T20:34:30+00:00",
+  "updated": "2026-08-13T21:14:03+00:00",
   "posts": [
+    {
+      "id": "c44f110a",
+      "image": "img/c44f110a.png",
+      "image_sha": "653020aaf3a4e8e9ec8f2709dd00ca276a020d8a",
+      "url": "https://www.radiodos.com.ar/212259-desde-este-martes-18-se-paga-el-plus-extraordinario-a-municipales-de-la-ciudad-de-corrientes",
+      "title": "Desde este martes 18 se paga el plus extraordinario a municipales de la ciudad de Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-08-13T21:14:03+00:00"
+    },
     {
       "id": "970a96f1",
       "image": "img/970a96f1.png",
@@ -531,15 +540,6 @@
       "title": "Ocho ladrones robaron bicicletas en un golpe \"piraña\" en inquilinato de Corrientes",
       "volanta": "BARRIO LOMAS DEL MIRADOR",
       "date": "2026-08-12T10:55:20+00:00"
-    },
-    {
-      "id": "978fc402",
-      "image": "img/978fc402.png",
-      "image_sha": "e11d56e858692fd3f296b046607168c32fec2513",
-      "url": "https://www.radiodos.com.ar/212145-paro-de-docentes-y-no-docentes-de-la-unne-por-la-aplicacion-de-la-ley-de-financiamiento-universitario",
-      "title": "Paro de docentes y no docentes de la UNNE por la aplicación de la Ley de Financiamiento Universitario",
-      "volanta": "JORNADA NACIONAL DE LUCHA",
-      "date": "2026-08-12T10:34:18+00:00"
     }
   ]
 }
