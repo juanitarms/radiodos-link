@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T11:58:47+00:00",
+  "updated": "2026-08-13T12:27:55+00:00",
   "posts": [
+    {
+      "id": "4e11c0ff",
+      "image": "img/4e11c0ff.png",
+      "image_sha": "a36d572025ec1e625c591dbb6939a92357f04c23",
+      "url": "https://www.radiodos.com.ar/212216-no-se-cuando-pero-te-juro-que-nos-vamos-a-encontrar-la-emotiva-despedida-de-la-mujer-asesinada-en-corrientes",
+      "title": "\"No sé cuándo, pero te juro que nos vamos a encontrar\": la emotiva despedida de la mujer asesinada en Corrientes",
+      "volanta": "FEMICIDIO",
+      "date": "2026-08-13T12:27:55+00:00"
+    },
     {
       "id": "9f8b1310",
       "image": "img/9f8b1310.png",
@@ -531,15 +540,6 @@
       "title": "Se viene el dato del INDEC sobre el IPC de julio 2026 y se espera una nueva aceleración",
       "volanta": "ECONOMÍA",
       "date": "2026-08-11T17:05:53+00:00"
-    },
-    {
-      "id": "9cbe235d",
-      "image": "img/9cbe235d.png",
-      "image_sha": "22e24499f702c9fd971250da3a546228383b1b59",
-      "url": "https://www.radiodos.com.ar/212115-hablo-celia-cuccittini-tras-la-muerte-de-jorge-messi-solo-le-pido-a-dios-que-me-ayude",
-      "title": "Habló Celia Cuccittini tras la muerte de Jorge Messi: \"Sólo le pido a Dios que me ayude\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-08-11T15:01:20+00:00"
     }
   ]
 }
