@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T17:26:59+00:00",
+  "updated": "2026-08-13T17:27:36+00:00",
   "posts": [
+    {
+      "id": "70994f0e",
+      "image": "img/70994f0e.png",
+      "image_sha": "1a24805cff38af55481bc5dfd33cd0b0ac67cbca",
+      "url": "https://www.radiodos.com.ar/212220-referente-de-la-unne-sera-distinguido-en-paraguay-por-su-aporte-a-la-difusion-de-la-lengua-guarani",
+      "title": "Referente de la UNNE será distinguido en Paraguay por su aporte a la difusión de la lengua guaraní",
+      "volanta": "RECONOCIMIENTO INTERNACIONAL",
+      "date": "2026-08-13T17:27:36+00:00"
+    },
     {
       "id": "fd78a6b2",
       "image": "img/fd78a6b2.png",
@@ -531,15 +540,6 @@
       "title": "Educación impulsa jornadas de prevención para docentes y estudiantes sobre el fenómeno de El Niño en Corrientes",
       "volanta": "CAPACITACIONES EN LAS AULAS",
       "date": "2026-08-11T21:19:35+00:00"
-    },
-    {
-      "id": "171bc5b1",
-      "image": "img/171bc5b1.png",
-      "image_sha": "8e40f1333646ee0206d7f28a0b5c439777db624d",
-      "url": "https://www.radiodos.com.ar/212136-el-gobernador-jp-valdes-avanzo-con-el-cfi-en-nuevas-herramientas-para-financiar-el-desarrollo-productivo",
-      "title": "El gobernador JP Valdés avanzó con el CFI en nuevas herramientas para financiar el desarrollo productivo",
-      "volanta": "ESTE MARTES EN CAPITAL",
-      "date": "2026-08-11T21:07:15+00:00"
     }
   ]
 }
