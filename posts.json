@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T16:43:54+00:00",
+  "updated": "2026-08-13T17:26:59+00:00",
   "posts": [
+    {
+      "id": "fd78a6b2",
+      "image": "img/fd78a6b2.png",
+      "image_sha": "68bc75440d4f544526a36fc7c773f7fe70e29bba",
+      "url": "https://www.radiodos.com.ar/212218-concejo-deliberante-aprobo-el-servicio-de-transporte-tipo-uber-en-localidad-de-corrientes",
+      "title": "Concejo Deliberante aprobó el servicio de transporte tipo Uber en localidad de Corrientes",
+      "volanta": "OTRA ALTERNATIVA",
+      "date": "2026-08-13T17:26:59+00:00"
+    },
     {
       "id": "4f35f4ef",
       "image": "img/4f35f4ef.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés avanzó con el CFI en nuevas herramientas para financiar el desarrollo productivo",
       "volanta": "ESTE MARTES EN CAPITAL",
       "date": "2026-08-11T21:07:15+00:00"
-    },
-    {
-      "id": "721b15cb",
-      "image": "img/721b15cb.png",
-      "image_sha": "fd17750a28cf76eb29ae9b9fe9240c025d014726",
-      "url": "https://www.radiodos.com.ar/212138-juicio-por-loan-una-exfuncionaria-acuso-al-comisario-maciel-de-trabar-la-busqueda-y-un-imputado-se-descompuso",
-      "title": "Juicio por Loan: una exfuncionaria acusó al comisario Maciel de trabar la búsqueda y un imputado se descompuso",
-      "volanta": "JUSTICIA",
-      "date": "2026-08-11T21:05:40+00:00"
     }
   ]
 }
