@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T22:12:35+00:00",
+  "updated": "2026-08-13T22:13:16+00:00",
   "posts": [
+    {
+      "id": "4190e7e2",
+      "image": "img/4190e7e2.png",
+      "image_sha": "bcc2ee03ac4c2cecd702967b7f1c62024de1453d",
+      "url": "https://www.radiodos.com.ar/212263-la-uta-postergo-un-paro-de-colectivos-previsto-para-este-viernes",
+      "title": "La UTA postergó un paro de colectivos previsto para este viernes",
+      "volanta": "SERVICIO NORMAL",
+      "date": "2026-08-13T22:13:16+00:00"
+    },
     {
       "id": "1ee9bbc4",
       "image": "img/1ee9bbc4.png",
@@ -531,15 +540,6 @@
       "title": "Thiago Almada reveló quiénes fueron los autores de la histórica bandera de Malvinas ante Inglaterra",
       "volanta": "MUNDIAL 2026",
       "date": "2026-08-12T13:03:30+00:00"
-    },
-    {
-      "id": "b3a2f4a5",
-      "image": "img/b3a2f4a5.png",
-      "image_sha": "920445cc78d27f6aa0142882d3c0872fb81007f6",
-      "url": "https://www.radiodos.com.ar/212155-el-stj-implementara-desde-septiembre-un-nuevo-sistema-transitorio-de-justicia-penal-juvenil-en-corrientes",
-      "title": "El STJ implementará desde septiembre un nuevo Sistema transitorio de Justicia Penal Juvenil en Corrientes",
-      "volanta": "ACUERDO EXTRAORDINARIO N° 5/26",
-      "date": "2026-08-12T12:46:48+00:00"
     }
   ]
 }
