@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T17:55:02+00:00",
+  "updated": "2026-08-13T17:55:37+00:00",
   "posts": [
+    {
+      "id": "ea4372bd",
+      "image": "img/ea4372bd.png",
+      "image_sha": "e68a3df76291fcca058d79c7055fde8b41cd013e",
+      "url": "https://www.radiodos.com.ar/212223-se-viene-la-liga-provincial-de-mayores-femenina",
+      "title": "Se viene la Liga Provincial de Mayores Femenina",
+      "volanta": "Básquet",
+      "date": "2026-08-13T17:55:37+00:00"
+    },
     {
       "id": "319075aa",
       "image": "img/319075aa.png",
@@ -531,15 +540,6 @@
       "title": "En tiempo récord, se completó el cupo de pescadores de la Fiesta Nacional del Surubí",
       "volanta": "50 EDICION",
       "date": "2026-08-11T21:58:09+00:00"
-    },
-    {
-      "id": "4a9fdc1b",
-      "image": "img/4a9fdc1b.png",
-      "image_sha": "e94141fe618302ab06f473df4f749373113aa7ff",
-      "url": "https://www.radiodos.com.ar/212139-despiste-y-vuelco-de-una-camioneta-sobre-la-ruta-12",
-      "title": "Despiste y vuelco de una camioneta sobre la ruta 12",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-11T21:20:11+00:00"
     }
   ]
 }
