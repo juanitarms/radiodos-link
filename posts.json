@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-12T22:40:26+00:00",
+  "updated": "2026-08-13T10:39:13+00:00",
   "posts": [
+    {
+      "id": "4292d71a",
+      "image": "img/4292d71a.png",
+      "image_sha": "ffc89c2dc2c58b64b217008ffe395dc01424a337",
+      "url": "https://www.radiodos.com.ar/212211-allanamiento-encontraron-enterrado-el-dinero-robado-a-una-pintureria",
+      "title": "Allanamiento: encontraron enterrado el dinero robado a una pinturería",
+      "volanta": "ESQUINA",
+      "date": "2026-08-13T10:39:13+00:00"
+    },
     {
       "id": "d42f3ace",
       "image": "img/d42f3ace.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un argentino desaparecido en Colombia tras el terremoto",
       "volanta": "URGENTE",
       "date": "2026-08-11T14:11:53+00:00"
-    },
-    {
-      "id": "64daf358",
-      "image": "img/64daf358.png",
-      "image_sha": "9381ed23d2551d2be2f2c74d3c5dbf103fb590cf",
-      "url": "https://www.radiodos.com.ar/212105-los-hechos-privados-estan-reservados-a-dios-aparecio-facundo-moyano-en-tv-y-dijo-que-su-pareja-tuvo-un-paro",
-      "title": "\"Los hechos privados están reservados a Dios\": apareció Facundo Moyano en TV y dijo que su pareja tuvo un paro",
-      "volanta": "TRAS EL ESCÁNDALO",
-      "date": "2026-08-11T13:49:48+00:00"
     }
   ]
 }
