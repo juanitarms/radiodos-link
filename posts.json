@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T16:43:18+00:00",
+  "updated": "2026-08-13T16:43:54+00:00",
   "posts": [
+    {
+      "id": "4f35f4ef",
+      "image": "img/4f35f4ef.png",
+      "image_sha": "631b2e8f0536030c67633bdfdc9d590b7966de5e",
+      "url": "https://www.radiodos.com.ar/212210-colombia-ascienden-a-287-los-fallecidos-y-buscan-a-miles-de-sobrevivientes-entre-los-escombros",
+      "title": "Colombia: ascienden a 287 los fallecidos y buscan a miles de sobrevivientes entre los escombros",
+      "volanta": "TERREMOTO",
+      "date": "2026-08-13T16:43:54+00:00"
+    },
     {
       "id": "a59293ee",
       "image": "img/a59293ee.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: una exfuncionaria acusó al comisario Maciel de trabar la búsqueda y un imputado se descompuso",
       "volanta": "JUSTICIA",
       "date": "2026-08-11T21:05:40+00:00"
-    },
-    {
-      "id": "2fc8085e",
-      "image": "img/2fc8085e.png",
-      "image_sha": "773da694a28e7d4c600d7cd4697a77cc0c746797",
-      "url": "https://www.radiodos.com.ar/212134-policias-asistieron-y-trasladaron-a-una-mujer-que-se-encontraba-con-trabajos-de-parto-en-corrientes",
-      "title": "Policías asistieron y trasladaron a una mujer que se encontraba con trabajos de parto en Corrientes",
-      "volanta": "COMISARIA 20",
-      "date": "2026-08-11T21:03:29+00:00"
     }
   ]
 }
