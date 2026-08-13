@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T12:58:11+00:00",
+  "updated": "2026-08-13T13:19:42+00:00",
   "posts": [
+    {
+      "id": "4e3ef01a",
+      "image": "img/4e3ef01a.png",
+      "image_sha": "c2d9043b60c0a1f94bbbf82255c76e816c9e24c0",
+      "url": "https://www.radiodos.com.ar/212221-la-muni-mas-simple-se-incorpora-una-herramienta-para-ordenar-simplificar-y-agilizar-tramites",
+      "title": "\"La Muni Más Simple\": se incorpora una herramienta para ordenar, simplificar y agilizar trámites",
+      "volanta": "MODERNIZACIÓN MUNICIPAL",
+      "date": "2026-08-13T13:19:42+00:00"
+    },
     {
       "id": "48a80825",
       "image": "img/48a80825.png",
@@ -531,15 +540,6 @@
       "title": "El presidente de Colombia reportó una nueva cifra de fallecidos y pidió \"unidad\" en su país",
       "volanta": "TERREMOTO",
       "date": "2026-08-11T17:07:00+00:00"
-    },
-    {
-      "id": "23fbb2bf",
-      "image": "img/23fbb2bf.png",
-      "image_sha": "e0c8664da37860b0533243d864526b1bc4dd16b2",
-      "url": "https://www.radiodos.com.ar/212113-la-decision-de-conmebol-con-el-partido-de-river-ante-independiente-santa-fe-en-colombia-cuando-se-juega",
-      "title": "La decisión de Conmebol con el partido de River ante Independiente Santa Fe en Colombia: cuándo se juega",
-      "volanta": "COPA SUDAMERICANA",
-      "date": "2026-08-11T17:06:26+00:00"
     }
   ]
 }
