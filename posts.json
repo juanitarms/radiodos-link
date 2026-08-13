@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T11:00:43+00:00",
+  "updated": "2026-08-13T11:33:41+00:00",
   "posts": [
+    {
+      "id": "1000a586",
+      "image": "img/1000a586.png",
+      "image_sha": "70592d5ddb15d74c95ccf75951c97e297790e382",
+      "url": "https://www.radiodos.com.ar/212213-ituzaingo-conmemoro-sus-162-anos-con-un-acto-encabezado-por-el-gobernador-juan-pablo-valdes",
+      "title": "Ituzaingó conmemoró sus 162 años con un acto encabezado por el gobernador Juan Pablo Valdés",
+      "volanta": "ANIVERSARIO",
+      "date": "2026-08-13T11:33:41+00:00"
+    },
     {
       "id": "62992480",
       "image": "img/62992480.png",
@@ -531,15 +540,6 @@
       "title": "Dieron de alta a Denisse González, la ex Gran Hermano: qué problema de salud tiene y cómo sigue",
       "volanta": "BUENA NOTICIA",
       "date": "2026-08-11T14:48:54+00:00"
-    },
-    {
-      "id": "24e37c9e",
-      "image": "img/24e37c9e.png",
-      "image_sha": "390aadc0345ead7584340d9511f7419189a7285c",
-      "url": "https://www.radiodos.com.ar/212110-tiene-110-anos-y-es-una-de-las-mujeres-mas-longevas-de-argentina-como-hizo-para-superar-el-siglo-de-vida",
-      "title": "Tiene 110 años y es una de las mujeres más longevas de Argentina: cómo hizo para superar el siglo de vida",
-      "volanta": "INCREIBLE",
-      "date": "2026-08-11T14:28:02+00:00"
     }
   ]
 }
