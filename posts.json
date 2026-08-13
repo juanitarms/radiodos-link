@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T21:14:35+00:00",
+  "updated": "2026-08-13T21:16:08+00:00",
   "posts": [
+    {
+      "id": "1c02a8a4",
+      "image": "img/1c02a8a4.png",
+      "image_sha": "45d1684b5218f74cec5275f6ce67d40c1ba94d04",
+      "url": "https://www.radiodos.com.ar/212261-asi-seran-las-prestaciones-municipales-para-el-lunes-17-de-agosto-en-corrientes",
+      "title": "Así serán las prestaciones municipales para el lunes 17 de agosto en Corrientes",
+      "volanta": "CIUDAD",
+      "date": "2026-08-13T21:16:08+00:00"
+    },
     {
       "id": "5d1c613b",
       "image": "img/5d1c613b.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés participa de una nueva Asamblea de Gobernadores del Norte Grande en Posadas",
       "volanta": "COBERTURA ESPECIAL DE RADIO DOS",
       "date": "2026-08-12T11:18:40+00:00"
-    },
-    {
-      "id": "d48f0441",
-      "image": "img/d48f0441.png",
-      "image_sha": "ef56545d03686fd10b2f0c8628e90a89a6b5f1c6",
-      "url": "https://www.radiodos.com.ar/212147-hoy-miranos-en-nuestro-canal-de-youtube-lados-tv",
-      "title": "Hoy mirános en nuestro canal de YouTube: LaDOS TV",
-      "volanta": "STREAMING",
-      "date": "2026-08-12T11:03:28+00:00"
     }
   ]
 }
