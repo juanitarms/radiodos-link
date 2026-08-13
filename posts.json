@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T14:20:26+00:00",
+  "updated": "2026-08-13T14:33:48+00:00",
   "posts": [
+    {
+      "id": "257e3efa",
+      "image": "img/257e3efa.png",
+      "image_sha": "99873fea2556781e6c4b84da87a1e54d92c377e7",
+      "url": "https://www.radiodos.com.ar/212234-el-indec-da-a-conocer-este-jueves-el-dato-de-inflacion-de-julio",
+      "title": "El INDEC da a conocer este jueves el dato de inflación de julio",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-13T14:33:48+00:00"
+    },
     {
       "id": "b6860bdd",
       "image": "img/b6860bdd.png",
@@ -531,15 +540,6 @@
       "title": "Cayó el \"doctor estafa\" en Almagro: se hacía pasar por neurocirujano para engañar a pacientes",
       "volanta": "ESTAFAS MÉDICAS",
       "date": "2026-08-11T19:28:52+00:00"
-    },
-    {
-      "id": "4713a679",
-      "image": "img/4713a679.png",
-      "image_sha": "7f2a247d2d364522c905db8fb3b5bbc235d25c30",
-      "url": "https://www.radiodos.com.ar/212124-curuzu-cuatia-fortalece-su-parque-vial-con-la-incorporacion-de-dos-nuevas-maquinas",
-      "title": "Curuzú Cuatiá fortalece su parque vial con la incorporación de dos nuevas máquinas",
-      "volanta": "GESTIÓN",
-      "date": "2026-08-11T19:28:22+00:00"
     }
   ]
 }
