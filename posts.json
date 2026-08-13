@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T21:16:08+00:00",
+  "updated": "2026-08-13T21:17:30+00:00",
   "posts": [
+    {
+      "id": "e5d13106",
+      "image": "img/e5d13106.png",
+      "image_sha": "227efd11a568088b35ecb786d8560c63a3d47b28",
+      "url": "https://www.radiodos.com.ar/212262-solo-el-50-de-los-estudiantes-llega-a-sexto-grado-con-conocimientos-satisfactorios-de-lengua-y-matematica",
+      "title": "Sólo el 50% de los estudiantes llega a sexto grado con \"conocimientos satisfactorios de lengua y matemática\"",
+      "volanta": "crisis educativa",
+      "date": "2026-08-13T21:17:30+00:00"
+    },
     {
       "id": "1c02a8a4",
       "image": "img/1c02a8a4.png",
@@ -531,15 +540,6 @@
       "title": "Informan nuevos recorridos de las líneas 102 A y 106 A en Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-08-12T11:33:25+00:00"
-    },
-    {
-      "id": "94c7d2a2",
-      "image": "img/94c7d2a2.png",
-      "image_sha": "e4bc7c570a779a6757ebfec46f7d72e84517c51b",
-      "url": "https://www.radiodos.com.ar/212149-juan-pablo-valdes-participa-de-una-nueva-asamblea-de-gobernadores-del-norte-grande-en-posadas",
-      "title": "Juan Pablo Valdés participa de una nueva Asamblea de Gobernadores del Norte Grande en Posadas",
-      "volanta": "COBERTURA ESPECIAL DE RADIO DOS",
-      "date": "2026-08-12T11:18:40+00:00"
     }
   ]
 }
