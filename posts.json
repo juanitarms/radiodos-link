@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T13:19:42+00:00",
+  "updated": "2026-08-13T13:38:38+00:00",
   "posts": [
+    {
+      "id": "2c9e94e0",
+      "image": "img/2c9e94e0.png",
+      "image_sha": "005b09caa9d8a5102f4c058d4804a17dc887c575",
+      "url": "https://www.radiodos.com.ar/212228-marcelo-gallardo-aparece-como-candidato-para-dirigir-una-seleccion-ya-hubo-un-primer-contacto",
+      "title": "Marcelo Gallardo aparece como candidato para dirigir una Selección: ya hubo un primer contacto",
+      "volanta": "DESAFÍO",
+      "date": "2026-08-13T13:38:38+00:00"
+    },
     {
       "id": "4e3ef01a",
       "image": "img/4e3ef01a.png",
@@ -531,15 +540,6 @@
       "title": "Shakira, Maluma y Carlos Vives se mostraron afectados por la tragedia en su Colombia natal: \"Qué dolor\"",
       "volanta": "UNIDOS",
       "date": "2026-08-11T17:07:29+00:00"
-    },
-    {
-      "id": "51ead8d8",
-      "image": "img/51ead8d8.png",
-      "image_sha": "d1ae1f30cd5f23e2133083a5ed9ef9ef1ce645c8",
-      "url": "https://www.radiodos.com.ar/212112-el-presidente-de-colombia-reporto-una-nueva-cifra-de-fallecidos-y-pidio-unidad-en-su-pais",
-      "title": "El presidente de Colombia reportó una nueva cifra de fallecidos y pidió \"unidad\" en su país",
-      "volanta": "TERREMOTO",
-      "date": "2026-08-11T17:07:00+00:00"
     }
   ]
 }
