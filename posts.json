@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T14:51:34+00:00",
+  "updated": "2026-08-13T15:33:19+00:00",
   "posts": [
+    {
+      "id": "1c9d70b2",
+      "image": "img/1c9d70b2.png",
+      "image_sha": "d1a297ee2a6691a6300664ba3c675aa300b460dd",
+      "url": "https://www.radiodos.com.ar/212238-hablo-la-ninera-argentina-que-estuvo-detenida-por-el-ice-en-estados-unidos-nos-trataron-como-criminales",
+      "title": "Habló la niñera argentina que estuvo detenida por el ICE en Estados Unidos: \"Nos trataron como criminales\"",
+      "volanta": "Sincera",
+      "date": "2026-08-13T15:33:19+00:00"
+    },
     {
       "id": "3849e2fe",
       "image": "img/3849e2fe.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un joven que está desaparecido en Corrientes",
       "volanta": "PEDIDO DE COLABORACION",
       "date": "2026-08-11T20:24:04+00:00"
-    },
-    {
-      "id": "7c8b4ac7",
-      "image": "img/7c8b4ac7.png",
-      "image_sha": "37bdbe396778c06de36e930ebb0c09242b358788",
-      "url": "https://www.radiodos.com.ar/212129-la-unne-hace-base-en-la-rural-de-corrientes-con-productos-y-servicios-para-el-sector",
-      "title": "La UNNE hace base en La Rural de Corrientes con productos y servicios para el sector",
-      "volanta": "VINCULACIÓN CON EL TERRITORIO Y EL SECTOR PRODUCTIVO",
-      "date": "2026-08-11T19:29:22+00:00"
     }
   ]
 }
