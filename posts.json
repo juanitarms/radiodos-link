@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T21:17:30+00:00",
+  "updated": "2026-08-13T21:18:39+00:00",
   "posts": [
+    {
+      "id": "01d59852",
+      "image": "img/01d59852.png",
+      "image_sha": "d90ed062831ca3ea58c7a3b25049c8583b52eaf5",
+      "url": "https://www.radiodos.com.ar/212266-estados-unidos-exige-limitar-la-presencia-de-empresas-chinas-en-vaca-muerta",
+      "title": "Estados Unidos exige limitar la presencia de empresas chinas en Vaca Muerta",
+      "volanta": "GEOPOLÍTICA",
+      "date": "2026-08-13T21:18:39+00:00"
+    },
     {
       "id": "e5d13106",
       "image": "img/e5d13106.png",
@@ -531,15 +540,6 @@
       "title": "Caso gimnasios Exen: se entregaron los dos prófugos que tenían pedido de captura internacional",
       "volanta": "ESTA MADRUGADA",
       "date": "2026-08-12T11:48:53+00:00"
-    },
-    {
-      "id": "7e2d0ed1",
-      "image": "img/7e2d0ed1.png",
-      "image_sha": "a9afac94b038dd6c454a53e7a8dc9db2dd588262",
-      "url": "https://www.radiodos.com.ar/212151-informan-nuevos-recorridos-de-las-lineas-102-a-y-106-a-en-corrientes",
-      "title": "Informan nuevos recorridos de las líneas 102 A y 106 A en Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-08-12T11:33:25+00:00"
     }
   ]
 }
