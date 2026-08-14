@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T21:18:21+00:00",
+  "updated": "2026-08-14T21:20:04+00:00",
   "posts": [
+    {
+      "id": "c8f695ff",
+      "image": "img/c8f695ff.png",
+      "image_sha": "0923b85296d134c5b40a23b8558e8f799928ee14",
+      "url": "https://www.radiodos.com.ar/212319-en-localidad-de-corrientes-masivo-encuentro-de-referentes-que-impulsan-la-candidatura-de-kicillof",
+      "title": "En localidad de Corrientes masivo encuentro de referentes que impulsan la candidatura de Kicillof",
+      "volanta": "SANTA LUCIA",
+      "date": "2026-08-14T21:20:04+00:00"
+    },
     {
       "id": "a59db990",
       "image": "img/a59db990.png",
@@ -531,15 +540,6 @@
       "title": "\"No sé cuándo, pero te juro que nos vamos a encontrar\": la emotiva despedida de la mujer asesinada en Corrientes",
       "volanta": "FEMICIDIO",
       "date": "2026-08-13T12:27:55+00:00"
-    },
-    {
-      "id": "9f8b1310",
-      "image": "img/9f8b1310.png",
-      "image_sha": "57a8096d30a91cf58a9fc3a354de19a4625cfcb8",
-      "url": "https://www.radiodos.com.ar/212215-el-viernes-14-comienza-el-pago-del-plus-de-refuerzo-a-empleados-publicos-y-jubilados-",
-      "title": "El viernes 14 comienza el pago del Plus de Refuerzo a empleados públicos y jubilados",
-      "volanta": "HASTA EL VIERNES 21",
-      "date": "2026-08-13T11:58:47+00:00"
     }
   ]
 }
