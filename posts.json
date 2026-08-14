@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T17:44:33+00:00",
+  "updated": "2026-08-14T18:19:36+00:00",
   "posts": [
+    {
+      "id": "816db35b",
+      "image": "img/816db35b.png",
+      "image_sha": "dd4029e60551f33717c0bbf150800dc320ad156f",
+      "url": "https://www.radiodos.com.ar/212305-la-camara-de-diputados-distinguio-a-las-ganadoras-nacionales-del-basquet-mini-femenino",
+      "title": "La Cámara de Diputados distinguió a las ganadoras nacionales del Básquet Mini Femenino",
+      "volanta": "Selección correntina",
+      "date": "2026-08-14T18:19:36+00:00"
+    },
     {
       "id": "b57e66b1",
       "image": "img/b57e66b1.png",
@@ -531,15 +540,6 @@
       "title": "En cumbre regional, Juan Pablo Valdés pidió una tarifa energética diferenciada para el Norte Grande",
       "volanta": "EN MISIONES",
       "date": "2026-08-12T22:03:00+00:00"
-    },
-    {
-      "id": "322213b2",
-      "image": "img/322213b2.png",
-      "image_sha": "2cef2d64e4619e3e122cb0249701b58296b22f88",
-      "url": "https://www.radiodos.com.ar/212201-informe-revela-que-crecio-un-35-la-cantidad-de-gente-que-busca-comida-en-las-iglesias",
-      "title": "Informe revela que creció un 35% la cantidad de gente que busca comida en las iglesias",
-      "volanta": "Crisis económica:",
-      "date": "2026-08-12T22:01:43+00:00"
     }
   ]
 }
