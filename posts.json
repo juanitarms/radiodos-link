@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T14:03:53+00:00",
+  "updated": "2026-08-14T14:16:29+00:00",
   "posts": [
+    {
+      "id": "4aa18c59",
+      "image": "img/4aa18c59.png",
+      "image_sha": "30db6472a97533b668d7151f5a5ea32b7168d88a",
+      "url": "https://www.radiodos.com.ar/212294-moria-casan-explico-por-que-susana-gimenez-y-lali-esposito-no-estuvieron-en-el-estreno-de-su-serie",
+      "title": "Moria Casán explicó por qué Susana Giménez y Lali Espósito no estuvieron en el estreno de su serie",
+      "volanta": "SORPRESA",
+      "date": "2026-08-14T14:16:29+00:00"
+    },
     {
       "id": "63ea8746",
       "image": "img/63ea8746.png",
@@ -531,15 +540,6 @@
       "title": "Regatas sumó a Keith Stone para reforzar la pintura",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-08-12T19:02:28+00:00"
-    },
-    {
-      "id": "070ffe4d",
-      "image": "img/070ffe4d.png",
-      "image_sha": "dbedb6c7a6e1096d84da37d33216bf3fa98182d6",
-      "url": "https://www.radiodos.com.ar/212192-asi-se-juega-la-segunda-de-la-liga-provincial-de-mayores-2026",
-      "title": "Así se juega la segunda de la Liga Provincial de Mayores 2026",
-      "volanta": "BÁSQUET",
-      "date": "2026-08-12T19:01:52+00:00"
     }
   ]
 }
