@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T11:27:28+00:00",
+  "updated": "2026-08-14T11:48:40+00:00",
   "posts": [
+    {
+      "id": "f2600154",
+      "image": "img/f2600154.png",
+      "image_sha": "3043c8d5eead7ddc3077dda4fc42e6bd1f8a498c",
+      "url": "https://www.radiodos.com.ar/212275-denuncian-la-construccion-de-terraplenes-ilegales-que-provocarian-inundaciones-en-el-sur-de-corrientes",
+      "title": "Denuncian la construcción de terraplenes ilegales que provocarían inundaciones en el sur de Corrientes",
+      "volanta": "ARROYO SARANDI",
+      "date": "2026-08-14T11:48:40+00:00"
+    },
     {
       "id": "2d9a86d7",
       "image": "img/2d9a86d7.png",
@@ -531,15 +540,6 @@
       "title": "Preparan circo, magia, teatro y espectáculos para festejar a las infancias en La Unidad",
       "volanta": "PROPUESTA RECREATIVA Y CULTURAL GRATUITA",
       "date": "2026-08-12T15:05:44+00:00"
-    },
-    {
-      "id": "3f3c1bfa",
-      "image": "img/3f3c1bfa.png",
-      "image_sha": "83dc985fc31f440cc526c9941d72d869e637f2d0",
-      "url": "https://www.radiodos.com.ar/212181-revelaron-cuanto-le-pago-alexis-mac-allister-a-camila-mayan-tras-la-separacion",
-      "title": "Revelaron cuánto le pagó Alexis Mac Allister a Camila Mayan tras la separación",
-      "volanta": "ACUERDO",
-      "date": "2026-08-12T14:56:56+00:00"
     }
   ]
 }
