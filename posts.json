@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T12:57:47+00:00",
+  "updated": "2026-08-14T13:17:29+00:00",
   "posts": [
+    {
+      "id": "f628d95e",
+      "image": "img/f628d95e.png",
+      "image_sha": "c51d865d358b3ad74653da4f29aa3123b73fb502",
+      "url": "https://www.radiodos.com.ar/212280-mas-de-250-alumnos-participaran-de-la-final-del-encuentro-provincial-de-ajedrez-educativo",
+      "title": "Más de 250 alumnos participarán de la final del Encuentro Provincial de Ajedrez Educativo",
+      "volanta": "EN EL CENTRO DE EDUCACIÓN FÍSICA N° 1 DE CAPITAL",
+      "date": "2026-08-14T13:17:29+00:00"
+    },
     {
       "id": "fce892b8",
       "image": "img/fce892b8.png",
@@ -531,15 +540,6 @@
       "title": "Cuatro demorados con una animal ovino faenado clandestinamente",
       "volanta": "CURUZU CUATIA",
       "date": "2026-08-12T16:06:23+00:00"
-    },
-    {
-      "id": "7ffb14ff",
-      "image": "img/7ffb14ff.png",
-      "image_sha": "84b835d8503b4eb87b711a921889bdc9e3ae8138",
-      "url": "https://www.radiodos.com.ar/212187-la-municipalidad-avanza-con-cielo-limpio-y-suma-nuevas-cuadras-al-ordenamiento-aereo",
-      "title": "La Municipalidad avanza con \"Cielo Limpio\" y suma nuevas cuadras al ordenamiento aéreo",
-      "volanta": "TAREA CONJUNTA DE CUADRILLAS",
-      "date": "2026-08-12T16:05:50+00:00"
     }
   ]
 }
