@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T18:20:16+00:00",
+  "updated": "2026-08-14T18:20:50+00:00",
   "posts": [
+    {
+      "id": "a9bf1c32",
+      "image": "img/a9bf1c32.png",
+      "image_sha": "6d55de17eb5afd5eaadcbb1406978c729e42b3b1",
+      "url": "https://www.radiodos.com.ar/212306-emprendedores-participaran-de-la-61°-fiesta-nacional-de-la-pesca-del-dorado",
+      "title": "Emprendedores participarán de la 61° Fiesta Nacional de la pesca del Dorado",
+      "volanta": "Paso de la Patria",
+      "date": "2026-08-14T18:20:50+00:00"
+    },
     {
       "id": "c28c917f",
       "image": "img/c28c917f.png",
@@ -531,15 +540,6 @@
       "title": "Anticipan un jueves frío y con probabilidad de lluvias en Corrientes",
       "volanta": "TIEMPO",
       "date": "2026-08-12T22:18:24+00:00"
-    },
-    {
-      "id": "0360bfe0",
-      "image": "img/0360bfe0.png",
-      "image_sha": "7c76e1f2cc192333529ed08e9a26cc500a0207d6",
-      "url": "https://www.radiodos.com.ar/212207-aparecieron-terneros-mutilados-y-ganaderos-apuntan-a-un-ataque-de-yaguarete-en-el-interior-de-corrientes",
-      "title": "Aparecieron terneros mutilados y ganaderos apuntan a un ataque de yaguareté en el interior de Corrientes",
-      "volanta": "ZONA DE CONCEPCIÓN",
-      "date": "2026-08-12T22:04:13+00:00"
     }
   ]
 }
