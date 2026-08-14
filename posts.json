@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T10:33:41+00:00",
+  "updated": "2026-08-14T10:44:45+00:00",
   "posts": [
+    {
+      "id": "909c6977",
+      "image": "img/909c6977.png",
+      "image_sha": "9bb95cb779c45870ca7e14878647c84f7ddb1f45",
+      "url": "https://www.radiodos.com.ar/212272-momentos-de-tension-por-un-hombre-alterado-en-una-estacion-de-servicios-en-el-interior-de-corrientes",
+      "title": "Momentos de tensión por un hombre alterado en una estación de servicios en el interior de Corrientes",
+      "volanta": "SALADAS",
+      "date": "2026-08-14T10:44:45+00:00"
+    },
     {
       "id": "bbc7b43f",
       "image": "img/bbc7b43f.png",
@@ -531,15 +540,6 @@
       "title": "\"No ando desacatado\": la polémica frase de Luck Ra que ahora todos relacionan con su separación",
       "volanta": "TRAS LA SEPARACIÓN",
       "date": "2026-08-12T14:35:08+00:00"
-    },
-    {
-      "id": "ed4b1467",
-      "image": "img/ed4b1467.png",
-      "image_sha": "19a7dab134f3fc94d05b919c2aa8fe446c71ef6a",
-      "url": "https://www.radiodos.com.ar/212175-departamento-de-idiomas-unne-lanza-encuesta-para-determinar-interes-sobre-el-chino-mandarin",
-      "title": "Departamento de Idiomas UNNE lanza encuesta para determinar interés sobre el chino mandarín",
-      "volanta": "DIGITAL",
-      "date": "2026-08-12T14:18:51+00:00"
     }
   ]
 }
