@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T20:43:07+00:00",
+  "updated": "2026-08-14T20:44:06+00:00",
   "posts": [
+    {
+      "id": "e5a4281b",
+      "image": "img/e5a4281b.png",
+      "image_sha": "65ca941c2ce6d520a6f294b68e804464728380b7",
+      "url": "https://www.radiodos.com.ar/212314-el-stock-de-bufalos-en-el-pais-es-de-205-mil-y-el-nea-concentra-el-83-de-las-existencias",
+      "title": "El stock de búfalos en el país es de 205 mil y el NEA concentra el 83% de las existencias",
+      "volanta": "Datos oficiales",
+      "date": "2026-08-14T20:44:06+00:00"
+    },
     {
       "id": "9a72c965",
       "image": "img/9a72c965.png",
@@ -531,15 +540,6 @@
       "title": "Bella Vista: liberaron al acusado de abusar de un joven con discapacidad",
       "volanta": "SIGUE LIGADO A LA CAUSA",
       "date": "2026-08-13T11:00:43+00:00"
-    },
-    {
-      "id": "4292d71a",
-      "image": "img/4292d71a.png",
-      "image_sha": "ffc89c2dc2c58b64b217008ffe395dc01424a337",
-      "url": "https://www.radiodos.com.ar/212211-allanamiento-encontraron-enterrado-el-dinero-robado-a-una-pintureria",
-      "title": "Allanamiento: encontraron enterrado el dinero robado a una pinturería",
-      "volanta": "ESQUINA",
-      "date": "2026-08-13T10:39:13+00:00"
     }
   ]
 }
