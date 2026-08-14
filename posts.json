@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T18:19:36+00:00",
+  "updated": "2026-08-14T18:20:16+00:00",
   "posts": [
+    {
+      "id": "c28c917f",
+      "image": "img/c28c917f.png",
+      "image_sha": "81519ad36ef7463f1151619c354e5cc54c022425",
+      "url": "https://www.radiodos.com.ar/212304-la-nuez-pecan-gana-terreno-en-el-sur-correntino-con-mas-de-250-hectareas-implantadas",
+      "title": "La nuez pecán gana terreno en el sur correntino con más de 250 hectáreas implantadas",
+      "volanta": "Producción Regional",
+      "date": "2026-08-14T18:20:16+00:00"
+    },
     {
       "id": "816db35b",
       "image": "img/816db35b.png",
@@ -531,15 +540,6 @@
       "title": "Aparecieron terneros mutilados y ganaderos apuntan a un ataque de yaguareté en el interior de Corrientes",
       "volanta": "ZONA DE CONCEPCIÓN",
       "date": "2026-08-12T22:04:13+00:00"
-    },
-    {
-      "id": "27f1a8d9",
-      "image": "img/27f1a8d9.png",
-      "image_sha": "1bbd890dee82b02be83bfd6040abbd10fc649c25",
-      "url": "https://www.radiodos.com.ar/212205-en-cumbre-regional-juan-pablo-valdes-pidio-una-tarifa-energetica-diferenciada-para-el-norte-grande",
-      "title": "En cumbre regional, Juan Pablo Valdés pidió una tarifa energética diferenciada para el Norte Grande",
-      "volanta": "EN MISIONES",
-      "date": "2026-08-12T22:03:00+00:00"
     }
   ]
 }
