@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T15:00:17+00:00",
+  "updated": "2026-08-14T16:44:28+00:00",
   "posts": [
+    {
+      "id": "6ce3dc71",
+      "image": "img/6ce3dc71.png",
+      "image_sha": "27413c5356fc676946d82416d6129daecff85d40",
+      "url": "https://www.radiodos.com.ar/212296-motociclista-internada-al-chocar-con-un-auto-en-el-centro-de-corrientes",
+      "title": "Motociclista internada al chocar con un auto en el centro de Corrientes",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-08-14T16:44:28+00:00"
+    },
     {
       "id": "e65f9e42",
       "image": "img/e65f9e42.png",
@@ -531,15 +540,6 @@
       "title": "Con una estatua de mármol: la particular presentación de Nahuel Molina en Roma",
       "volanta": "ITALIA",
       "date": "2026-08-12T20:49:31+00:00"
-    },
-    {
-      "id": "3766bb5a",
-      "image": "img/3766bb5a.png",
-      "image_sha": "f658239a7bcb9561132b238874705ded5a4df1e5",
-      "url": "https://www.radiodos.com.ar/212196-tini-stoessel-compartio-un-tierno-video-donde-se-ve-un-adelanto-de-su-vestido-de-novia-mira",
-      "title": "Tini Stoessel compartió un tierno video donde se ve un adelanto de su vestido de novia: mirá",
-      "volanta": "EMOCIONADA",
-      "date": "2026-08-12T20:48:32+00:00"
     }
   ]
 }
