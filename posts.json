@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T21:20:42+00:00",
+  "updated": "2026-08-14T23:39:01+00:00",
   "posts": [
+    {
+      "id": "2cc2c640",
+      "image": "img/2cc2c640.png",
+      "image_sha": "aaee5f1b8d1adf02e0cbb53792181b62d481f5dc",
+      "url": "https://www.radiodos.com.ar/212325-pity-alvarez-un-amigo-de-cristian-diaz-califico-de-certero-un-disparo-que-la-victima-recibio-en-el-ojo",
+      "title": "Pity\" Álvarez: un amigo de Cristian Díaz calificó de \"certero\" un disparo que la víctima recibió \"en el ojo\"",
+      "volanta": "Juicio",
+      "date": "2026-08-14T23:39:01+00:00"
+    },
     {
       "id": "d05e1bc7",
       "image": "img/d05e1bc7.png",
@@ -531,15 +540,6 @@
       "title": "\"La Muni Más Simple\": se incorpora una herramienta para ordenar, simplificar y agilizar trámites",
       "volanta": "MODERNIZACIÓN MUNICIPAL",
       "date": "2026-08-13T13:19:42+00:00"
-    },
-    {
-      "id": "48a80825",
-      "image": "img/48a80825.png",
-      "image_sha": "d060ce44a34f9f9c91a2eefad41cd893e2f4e4a3",
-      "url": "https://www.radiodos.com.ar/212222-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE JUEVES",
-      "date": "2026-08-13T12:58:11+00:00"
     }
   ]
 }
