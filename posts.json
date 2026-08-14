@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T21:20:04+00:00",
+  "updated": "2026-08-14T21:20:42+00:00",
   "posts": [
+    {
+      "id": "d05e1bc7",
+      "image": "img/d05e1bc7.png",
+      "image_sha": "855813f25224a02551c1cd512bcdbabd0a9b4cde",
+      "url": "https://www.radiodos.com.ar/212320-el-intendente-polich-destaco-la-vision-de-piragine-niveyro-para-proyectar-a-corrientes-hacia-la-modernidad",
+      "title": "El intendente Polich destacó la visión de Piragine Niveyro para proyectar a Corrientes hacia la modernidad",
+      "volanta": "RECORDAR EL LEGADO",
+      "date": "2026-08-14T21:20:42+00:00"
+    },
     {
       "id": "c8f695ff",
       "image": "img/c8f695ff.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE JUEVES",
       "date": "2026-08-13T12:58:11+00:00"
-    },
-    {
-      "id": "4e11c0ff",
-      "image": "img/4e11c0ff.png",
-      "image_sha": "a36d572025ec1e625c591dbb6939a92357f04c23",
-      "url": "https://www.radiodos.com.ar/212216-no-se-cuando-pero-te-juro-que-nos-vamos-a-encontrar-la-emotiva-despedida-de-la-mujer-asesinada-en-corrientes",
-      "title": "\"No sé cuándo, pero te juro que nos vamos a encontrar\": la emotiva despedida de la mujer asesinada en Corrientes",
-      "volanta": "FEMICIDIO",
-      "date": "2026-08-13T12:27:55+00:00"
     }
   ]
 }
