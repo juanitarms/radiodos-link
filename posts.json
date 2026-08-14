@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T16:45:34+00:00",
+  "updated": "2026-08-14T17:43:21+00:00",
   "posts": [
+    {
+      "id": "51406b4c",
+      "image": "img/51406b4c.png",
+      "image_sha": "a55a1b458ee00bf8d74a247ee4746d1ca0054b61",
+      "url": "https://www.radiodos.com.ar/212300-ingenieria-civil-un-trabajo-final-plantea-un-complejo-ecologico-para-el-parque-nacional-chaco",
+      "title": "Ingeniería Civil: un Trabajo Final plantea un Complejo Ecológico para el Parque Nacional Chaco",
+      "volanta": "NUEVO GRADUADO",
+      "date": "2026-08-14T17:43:21+00:00"
+    },
     {
       "id": "f5ef4fcf",
       "image": "img/f5ef4fcf.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: secuestraron un auto que intentaban vender en plena calle",
       "volanta": "CHACABUCO E INDEPENDENCIA",
       "date": "2026-08-12T20:53:06+00:00"
-    },
-    {
-      "id": "17394631",
-      "image": "img/17394631.png",
-      "image_sha": "1c1d89669a8ddddc1f64fa6b8085ee68d64d29bb",
-      "url": "https://www.radiodos.com.ar/212200-cayo-preso-cuando-intentaba-robarse-una-cama-en-un-barrio-de-corrientes",
-      "title": "Cayó preso cuando intentaba robarse una cama en un barrio de Corrientes",
-      "volanta": "BARRIO SAN ROQUE",
-      "date": "2026-08-12T20:52:05+00:00"
     }
   ]
 }
