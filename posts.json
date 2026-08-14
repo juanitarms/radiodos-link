@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T14:30:22+00:00",
+  "updated": "2026-08-14T14:47:46+00:00",
   "posts": [
+    {
+      "id": "966e875c",
+      "image": "img/966e875c.png",
+      "image_sha": "f0e0b4493858e0471d64d25ce32530a641e8508b",
+      "url": "https://www.radiodos.com.ar/212291-martita-fort-recordo-a-su-papa-y-conto-como-mantiene-vivo-su-legado-me-siento-protegida-por-el",
+      "title": "Martita Fort recordó a su papá y contó cómo mantiene vivo su legado: \"Me siento protegida por él\"",
+      "volanta": "RECUERDO",
+      "date": "2026-08-14T14:47:46+00:00"
+    },
     {
       "id": "bae473b5",
       "image": "img/bae473b5.png",
@@ -531,15 +540,6 @@
       "title": "Reconocido docente correntino falleció tras sufrir un siniestro vial",
       "volanta": "LAMENTABLE",
       "date": "2026-08-12T20:46:48+00:00"
-    },
-    {
-      "id": "20c59127",
-      "image": "img/20c59127.png",
-      "image_sha": "f880795fc9b91b5062591a99a0092f4bb6434c64",
-      "url": "https://www.radiodos.com.ar/212195-braillard-poccard-este-un-primer-paso-y-estoy-convencido-de-que-se-puede-mejorar",
-      "title": "Braillard Poccard: \"Este un primer paso, y estoy convencido de que se puede mejorar\"",
-      "volanta": "LANZAMIENTO DEL REGISTRO EMPRENDEDOR CORRENTINO",
-      "date": "2026-08-12T19:03:03+00:00"
     }
   ]
 }
