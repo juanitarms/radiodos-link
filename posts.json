@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T14:16:29+00:00",
+  "updated": "2026-08-14T14:30:22+00:00",
   "posts": [
+    {
+      "id": "bae473b5",
+      "image": "img/bae473b5.png",
+      "image_sha": "715c021ba029c360b155dd32e6ca94d8586611ad",
+      "url": "https://www.radiodos.com.ar/212297-operativo-de-garrafa-social-cronograma-semanal",
+      "title": "Operativo de Garrafa Social: Cronograma Semanal",
+      "volanta": "Ministerio de Desarrollo Social",
+      "date": "2026-08-14T14:30:22+00:00"
+    },
     {
       "id": "4aa18c59",
       "image": "img/4aa18c59.png",
@@ -531,15 +540,6 @@
       "title": "Braillard Poccard: \"Este un primer paso, y estoy convencido de que se puede mejorar\"",
       "volanta": "LANZAMIENTO DEL REGISTRO EMPRENDEDOR CORRENTINO",
       "date": "2026-08-12T19:03:03+00:00"
-    },
-    {
-      "id": "0dfc3955",
-      "image": "img/0dfc3955.png",
-      "image_sha": "d94360db1872ce76175484cf4050e3cc479d16a3",
-      "url": "https://www.radiodos.com.ar/212193-regatas-sumo-a-keith-stone-para-reforzar-la-pintura",
-      "title": "Regatas sumó a Keith Stone para reforzar la pintura",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-08-12T19:02:28+00:00"
     }
   ]
 }
