@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T17:44:00+00:00",
+  "updated": "2026-08-14T17:44:33+00:00",
   "posts": [
+    {
+      "id": "b57e66b1",
+      "image": "img/b57e66b1.png",
+      "image_sha": "e876a0744beecf6fadf3acee53206b35a6aea7d8",
+      "url": "https://www.radiodos.com.ar/212302-crimen-en-chaco-una-testigo-denuncio-que-quisieron-sobornarla-para-declarar-a-favor-de-victoria-luz-cantero",
+      "title": "Crimen en Chaco: una testigo denunció que quisieron sobornarla para declarar a favor de Victoria Luz Cantero",
+      "volanta": "SIGUE LA INVESTIGACIÓN",
+      "date": "2026-08-14T17:44:33+00:00"
+    },
     {
       "id": "27dfaaf2",
       "image": "img/27dfaaf2.png",
@@ -531,15 +540,6 @@
       "title": "Informe revela que creció un 35% la cantidad de gente que busca comida en las iglesias",
       "volanta": "Crisis económica:",
       "date": "2026-08-12T22:01:43+00:00"
-    },
-    {
-      "id": "5a9aac53",
-      "image": "img/5a9aac53.png",
-      "image_sha": "216a91a2d00422b065e6c49462bd6fe7fca4f036",
-      "url": "https://www.radiodos.com.ar/212203-la-muni-mas-simple-se-incorpora-una-herramienta-para-ordenar-simplificar-y-agilizar-tramites",
-      "title": "\"La Muni Más Simple\": se incorpora una herramienta para ordenar, simplificar y agilizar trámites",
-      "volanta": "MODERNIZACIÓN MUNICIPAL",
-      "date": "2026-08-12T22:00:46+00:00"
     }
   ]
 }
