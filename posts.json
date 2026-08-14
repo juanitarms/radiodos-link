@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T22:43:13+00:00",
+  "updated": "2026-08-14T10:33:41+00:00",
   "posts": [
+    {
+      "id": "bbc7b43f",
+      "image": "img/bbc7b43f.png",
+      "image_sha": "fea0a875e1d772deda2e67a316471a9edbaf3a4c",
+      "url": "https://www.radiodos.com.ar/212273-juan-pablo-valdes-viajo-a-caba-para-reunirse-con-inversores",
+      "title": "Juan Pablo Valdés viajó a CABA para reunirse con inversores",
+      "volanta": "AHORA",
+      "date": "2026-08-14T10:33:41+00:00"
+    },
     {
       "id": "971e35e5",
       "image": "img/971e35e5.png",
@@ -531,15 +540,6 @@
       "title": "Departamento de Idiomas UNNE lanza encuesta para determinar interés sobre el chino mandarín",
       "volanta": "DIGITAL",
       "date": "2026-08-12T14:18:51+00:00"
-    },
-    {
-      "id": "78ee8b07",
-      "image": "img/78ee8b07.png",
-      "image_sha": "cd25bad98a7fefc1f5ab11b984f8b5bae9806a13",
-      "url": "https://www.radiodos.com.ar/212178-terremoto-en-colombia-abelardo-de-la-espriella-confirmo-181-muertes-pero-aseguran-que-son-mas-de-200",
-      "title": "Terremoto en Colombia: Abelardo de la Espriella confirmó 181 muertes pero aseguran que son más de 200",
-      "volanta": "TRAGEDIA",
-      "date": "2026-08-12T13:53:33+00:00"
     }
   ]
 }
