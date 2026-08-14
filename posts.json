@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T20:44:06+00:00",
+  "updated": "2026-08-14T21:14:42+00:00",
   "posts": [
+    {
+      "id": "abc1bd33",
+      "image": "img/abc1bd33.png",
+      "image_sha": "95b02f0da54508ecbc97364eea9f230f0f23542f",
+      "url": "https://www.radiodos.com.ar/212318-el-poder-adquisitivo-del-sector-privado-volvio-a-caer-en-junio",
+      "title": "El poder adquisitivo del sector privado volvió a caer en junio",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-14T21:14:42+00:00"
+    },
     {
       "id": "e5a4281b",
       "image": "img/e5a4281b.png",
@@ -531,15 +540,6 @@
       "title": "Ituzaingó conmemoró sus 162 años con un acto encabezado por el gobernador Juan Pablo Valdés",
       "volanta": "ANIVERSARIO",
       "date": "2026-08-13T11:33:41+00:00"
-    },
-    {
-      "id": "62992480",
-      "image": "img/62992480.png",
-      "image_sha": "a61c509403a2cb9acac3aef31dbfeff45cfc766a",
-      "url": "https://www.radiodos.com.ar/212212-bella-vista-liberaron-al-acusado-de-abusar-de-un-joven-con-discapacidad",
-      "title": "Bella Vista: liberaron al acusado de abusar de un joven con discapacidad",
-      "volanta": "SIGUE LIGADO A LA CAUSA",
-      "date": "2026-08-13T11:00:43+00:00"
     }
   ]
 }
