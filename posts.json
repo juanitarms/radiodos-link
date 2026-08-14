@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T21:14:42+00:00",
+  "updated": "2026-08-14T21:18:21+00:00",
   "posts": [
+    {
+      "id": "a59db990",
+      "image": "img/a59db990.png",
+      "image_sha": "5d600d757d6ef136af96ec69f826f0a0a6b7f1b9",
+      "url": "https://www.radiodos.com.ar/212321-lo-despidieron-de-su-trabajo-por-no-banarse-hizo-juicio-y-la-justicia-le-dio-la-razon-a-la-empresa",
+      "title": "Lo despidieron de su trabajo por no bañarse, hizo juicio y la Justicia le dio la razón a la empresa",
+      "volanta": "Insólito",
+      "date": "2026-08-14T21:18:21+00:00"
+    },
     {
       "id": "abc1bd33",
       "image": "img/abc1bd33.png",
@@ -531,15 +540,6 @@
       "title": "El viernes 14 comienza el pago del Plus de Refuerzo a empleados públicos y jubilados",
       "volanta": "HASTA EL VIERNES 21",
       "date": "2026-08-13T11:58:47+00:00"
-    },
-    {
-      "id": "1000a586",
-      "image": "img/1000a586.png",
-      "image_sha": "70592d5ddb15d74c95ccf75951c97e297790e382",
-      "url": "https://www.radiodos.com.ar/212213-ituzaingo-conmemoro-sus-162-anos-con-un-acto-encabezado-por-el-gobernador-juan-pablo-valdes",
-      "title": "Ituzaingó conmemoró sus 162 años con un acto encabezado por el gobernador Juan Pablo Valdés",
-      "volanta": "ANIVERSARIO",
-      "date": "2026-08-13T11:33:41+00:00"
     }
   ]
 }
