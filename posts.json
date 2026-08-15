@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-15T13:24:38+00:00",
+  "updated": "2026-08-15T14:20:54+00:00",
   "posts": [
+    {
+      "id": "b8f3a0f7",
+      "image": "img/b8f3a0f7.png",
+      "image_sha": "2fc4341a189ae5e56c132f5614805592dae54828",
+      "url": "https://www.radiodos.com.ar/212338-el-municipio-facilita-el-traslado-a-la-90-exposicion-rural-de-corrientes",
+      "title": "El Municipio facilita el traslado a la 90ª Exposición Rural de Corrientes",
+      "volanta": "SERVICIO ESPECIAL DE TRANSPORTE",
+      "date": "2026-08-15T14:20:54+00:00"
+    },
     {
       "id": "2d3a9711",
       "image": "img/2d3a9711.png",
@@ -531,15 +540,6 @@
       "title": "Cuti Romero es nuevo jugador del Atlético de Madrid y será dirigido por el Cholo Simeone",
       "volanta": "ESPAÑA",
       "date": "2026-08-13T14:20:26+00:00"
-    },
-    {
-      "id": "5f275ae0",
-      "image": "img/5f275ae0.png",
-      "image_sha": "58171b8e8e08b8139c3bf45e33f784e8800508d5",
-      "url": "https://www.radiodos.com.ar/212235-femicidio-en-villa-devoto-un-hombre-mato-a-su-esposa-en-su-casa-y-escapo",
-      "title": "Femicidio en Villa Devoto: un hombre mató a su esposa en su casa y escapó",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-13T14:01:21+00:00"
     }
   ]
 }
