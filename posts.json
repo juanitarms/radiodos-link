@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-14T23:40:21+00:00",
+  "updated": "2026-08-15T13:24:38+00:00",
   "posts": [
+    {
+      "id": "2d3a9711",
+      "image": "img/2d3a9711.png",
+      "image_sha": "5aef3762e015f376bb19702a5ff7243eff4c5d76",
+      "url": "https://www.radiodos.com.ar/212329-en-corrientes-las-jugueterias-atenderan-hoy-de-corrido-y-el-domingo-a-la-manana",
+      "title": "En Corrientes, las jugueterías atenderán hoy de corrido y el domingo a la mañana",
+      "volanta": "DÍA DEL NIÑO",
+      "date": "2026-08-15T13:24:38+00:00"
+    },
     {
       "id": "1c3078e7",
       "image": "img/1c3078e7.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio en Villa Devoto: un hombre mató a su esposa en su casa y escapó",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-13T14:01:21+00:00"
-    },
-    {
-      "id": "2c9e94e0",
-      "image": "img/2c9e94e0.png",
-      "image_sha": "005b09caa9d8a5102f4c058d4804a17dc887c575",
-      "url": "https://www.radiodos.com.ar/212228-marcelo-gallardo-aparece-como-candidato-para-dirigir-una-seleccion-ya-hubo-un-primer-contacto",
-      "title": "Marcelo Gallardo aparece como candidato para dirigir una Selección: ya hubo un primer contacto",
-      "volanta": "DESAFÍO",
-      "date": "2026-08-13T13:38:38+00:00"
     }
   ]
 }
