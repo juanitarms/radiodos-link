@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T21:18:40+00:00",
+  "updated": "2026-08-16T21:19:15+00:00",
   "posts": [
+    {
+      "id": "1e976907",
+      "image": "img/1e976907.png",
+      "image_sha": "688a71e1042f4e65a8ecad18e634ca2ac72f6de1",
+      "url": "https://www.radiodos.com.ar/212327-el-correntino-romero-fue-presentado-como-nuevo-jugador-de-parma",
+      "title": "El correntino Romero fue presentado como nuevo jugador de Parma",
+      "volanta": "Mercado de pases",
+      "date": "2026-08-16T21:19:15+00:00"
+    },
     {
       "id": "ad0e3c3e",
       "image": "img/ad0e3c3e.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran envoltorios de marihuana, dinero y un celular tras un allanamiento",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-08-13T17:55:02+00:00"
-    },
-    {
-      "id": "70994f0e",
-      "image": "img/70994f0e.png",
-      "image_sha": "1a24805cff38af55481bc5dfd33cd0b0ac67cbca",
-      "url": "https://www.radiodos.com.ar/212220-referente-de-la-unne-sera-distinguido-en-paraguay-por-su-aporte-a-la-difusion-de-la-lengua-guarani",
-      "title": "Referente de la UNNE será distinguido en Paraguay por su aporte a la difusión de la lengua guaraní",
-      "volanta": "RECONOCIMIENTO INTERNACIONAL",
-      "date": "2026-08-13T17:27:36+00:00"
     }
   ]
 }
