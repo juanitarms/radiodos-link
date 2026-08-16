@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T17:45:25+00:00",
+  "updated": "2026-08-16T17:46:07+00:00",
   "posts": [
+    {
+      "id": "814017a4",
+      "image": "img/814017a4.png",
+      "image_sha": "205f4715bbe510856d9cd0557daac4f1d75439c3",
+      "url": "https://www.radiodos.com.ar/212323-premian-a-cientifica-de-la-unne-por-estudiar-enfermedades-zoonoticas",
+      "title": "Premian a científica de la UNNE por estudiar enfermedades zoonóticas",
+      "volanta": "CIENCIA",
+      "date": "2026-08-16T17:46:07+00:00"
+    },
     {
       "id": "94499666",
       "image": "img/94499666.png",
@@ -531,15 +540,6 @@
       "title": "Concejo Deliberante aprobó el servicio de transporte tipo Uber en localidad de Corrientes",
       "volanta": "OTRA ALTERNATIVA",
       "date": "2026-08-13T17:26:59+00:00"
-    },
-    {
-      "id": "4f35f4ef",
-      "image": "img/4f35f4ef.png",
-      "image_sha": "631b2e8f0536030c67633bdfdc9d590b7966de5e",
-      "url": "https://www.radiodos.com.ar/212210-colombia-ascienden-a-287-los-fallecidos-y-buscan-a-miles-de-sobrevivientes-entre-los-escombros",
-      "title": "Colombia: ascienden a 287 los fallecidos y buscan a miles de sobrevivientes entre los escombros",
-      "volanta": "TERREMOTO",
-      "date": "2026-08-13T16:43:54+00:00"
     }
   ]
 }
