@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T17:46:07+00:00",
+  "updated": "2026-08-16T21:18:40+00:00",
   "posts": [
+    {
+      "id": "ad0e3c3e",
+      "image": "img/ad0e3c3e.png",
+      "image_sha": "9966ec986d8625fe8e6571d0e681fc6c77ae2991",
+      "url": "https://www.radiodos.com.ar/212326-comenzo-la-segunda-etapa-de-obras-en-la-basilica-de-itati-y-clausuran-temporalmente-el-acceso-central",
+      "title": "Comenzó la segunda etapa de obras en la Basílica de Itatí y clausuran temporalmente el acceso central",
+      "volanta": "OBRAS",
+      "date": "2026-08-16T21:18:40+00:00"
+    },
     {
       "id": "814017a4",
       "image": "img/814017a4.png",
@@ -531,15 +540,6 @@
       "title": "Referente de la UNNE será distinguido en Paraguay por su aporte a la difusión de la lengua guaraní",
       "volanta": "RECONOCIMIENTO INTERNACIONAL",
       "date": "2026-08-13T17:27:36+00:00"
-    },
-    {
-      "id": "fd78a6b2",
-      "image": "img/fd78a6b2.png",
-      "image_sha": "68bc75440d4f544526a36fc7c773f7fe70e29bba",
-      "url": "https://www.radiodos.com.ar/212218-concejo-deliberante-aprobo-el-servicio-de-transporte-tipo-uber-en-localidad-de-corrientes",
-      "title": "Concejo Deliberante aprobó el servicio de transporte tipo Uber en localidad de Corrientes",
-      "volanta": "OTRA ALTERNATIVA",
-      "date": "2026-08-13T17:26:59+00:00"
     }
   ]
 }
