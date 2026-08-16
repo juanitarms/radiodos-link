@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-15T14:20:54+00:00",
+  "updated": "2026-08-16T00:15:46+00:00",
   "posts": [
+    {
+      "id": "1b4d5e33",
+      "image": "img/1b4d5e33.png",
+      "image_sha": "603efd024880fd457935519c98018da6e5190260",
+      "url": "https://www.radiodos.com.ar/212341-el-banco-de-corrientes-lanzo-corrientes-potencia-ganaderia-una-herramienta-historica-para-impulsar-la-produccion-con-el-apoyo-del-gobierno-provincial",
+      "title": "El Banco de Corrientes lanzó \"Corrientes Potencia: Ganadería\", una herramienta histórica para impulsar la producción con el apoyo del Gobierno Provincial",
+      "volanta": "AGRONEGOCIOS",
+      "date": "2026-08-16T00:15:46+00:00"
+    },
     {
       "id": "b8f3a0f7",
       "image": "img/b8f3a0f7.png",
@@ -531,15 +540,6 @@
       "title": "El INDEC da a conocer este jueves el dato de inflación de julio",
       "volanta": "ECONOMÍA",
       "date": "2026-08-13T14:33:48+00:00"
-    },
-    {
-      "id": "b6860bdd",
-      "image": "img/b6860bdd.png",
-      "image_sha": "1870dc23ed21ddac677fcf1d6f8e73560e662522",
-      "url": "https://www.radiodos.com.ar/212237-cuti-romero-es-nuevo-jugador-del-atletico-de-madrid-y-sera-dirigido-por-el-cholo-simeone",
-      "title": "Cuti Romero es nuevo jugador del Atlético de Madrid y será dirigido por el Cholo Simeone",
-      "volanta": "ESPAÑA",
-      "date": "2026-08-13T14:20:26+00:00"
     }
   ]
 }
