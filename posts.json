@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T13:50:07+00:00",
+  "updated": "2026-08-16T15:10:07+00:00",
   "posts": [
+    {
+      "id": "8854e1f6",
+      "image": "img/8854e1f6.png",
+      "image_sha": "a797bc82ac1b75fe15c4ee640d1895bb068681c2",
+      "url": "https://www.radiodos.com.ar/212366-tragedia-en-santa-lucia-un-motociclista-murio-tras-chocar-contra-un-caballo",
+      "title": "Tragedia en Santa Lucía: un motociclista murió tras chocar contra un caballo",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-16T15:10:07+00:00"
+    },
     {
       "id": "1d123577",
       "image": "img/1d123577.png",
@@ -531,15 +540,6 @@
       "title": "Argentina y Estados Unidos serán coanfitriones de la 40.ª Conferencia Internacional para el Control de Drogas",
       "volanta": "SEGURIDAD",
       "date": "2026-08-13T16:42:42+00:00"
-    },
-    {
-      "id": "1c9d70b2",
-      "image": "img/1c9d70b2.png",
-      "image_sha": "d1a297ee2a6691a6300664ba3c675aa300b460dd",
-      "url": "https://www.radiodos.com.ar/212238-hablo-la-ninera-argentina-que-estuvo-detenida-por-el-ice-en-estados-unidos-nos-trataron-como-criminales",
-      "title": "Habló la niñera argentina que estuvo detenida por el ICE en Estados Unidos: \"Nos trataron como criminales\"",
-      "volanta": "Sincera",
-      "date": "2026-08-13T15:33:19+00:00"
     }
   ]
 }
