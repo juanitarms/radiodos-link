@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T22:11:56+00:00",
+  "updated": "2026-08-16T22:12:31+00:00",
   "posts": [
+    {
+      "id": "9623acee",
+      "image": "img/9623acee.png",
+      "image_sha": "cf1f0ae60daf8a96cd28d3cdcc3850e066cafb3f",
+      "url": "https://www.radiodos.com.ar/212330-en-el-campus-de-la-unne-detectaron-un-murcielago-con-rabia",
+      "title": "En el campus de la UNNe detectaron un murciélago con rabia",
+      "volanta": "ALERTA",
+      "date": "2026-08-16T22:12:31+00:00"
+    },
     {
       "id": "35ba00da",
       "image": "img/35ba00da.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un adolescente que no volvió a su hogar en el interior provincial",
       "volanta": "CURUZU CUATIA",
       "date": "2026-08-13T17:56:10+00:00"
-    },
-    {
-      "id": "ea4372bd",
-      "image": "img/ea4372bd.png",
-      "image_sha": "e68a3df76291fcca058d79c7055fde8b41cd013e",
-      "url": "https://www.radiodos.com.ar/212223-se-viene-la-liga-provincial-de-mayores-femenina",
-      "title": "Se viene la Liga Provincial de Mayores Femenina",
-      "volanta": "Básquet",
-      "date": "2026-08-13T17:55:37+00:00"
     }
   ]
 }
