@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T11:49:01+00:00",
+  "updated": "2026-08-17T11:54:40+00:00",
   "posts": [
+    {
+      "id": "c0a2f469",
+      "image": "img/c0a2f469.png",
+      "image_sha": "b79aa1e162f4b59c8ba9ac886f8141bc52be75b8",
+      "url": "https://www.radiodos.com.ar/212376-denuncian-que-una-cabo-de-la-policia-de-corrientes-termino-desfigurada-a-golpes-tras-fiesta-de-la-fuerza",
+      "title": "Denuncian que una Cabo de la Policía de Corrientes terminó desfigurada a golpes tras fiesta de la fuerza",
+      "volanta": "SALADAS",
+      "date": "2026-08-17T11:54:40+00:00"
+    },
     {
       "id": "6f3a116f",
       "image": "img/6f3a116f.png",
@@ -531,15 +540,6 @@
       "title": "Desde este martes 18 se paga el plus extraordinario a municipales de la ciudad de Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-08-13T21:14:03+00:00"
-    },
-    {
-      "id": "970a96f1",
-      "image": "img/970a96f1.png",
-      "image_sha": "360b7547bd77d85232b3a1456dad1c776cd479cb",
-      "url": "https://www.radiodos.com.ar/212257-provincia-licito-obras-pluviales-para-prevenir-anegamientos-en-sectores-criticos-de-la-ciudad-de-corrientes",
-      "title": "Provincia licitó obras pluviales para prevenir anegamientos en sectores críticos de la ciudad de Corrientes",
-      "volanta": "GOBIERNO Y MUNICIPIO ANTE EL FENÓMENO DEL NIÑO",
-      "date": "2026-08-13T20:34:30+00:00"
     }
   ]
 }
