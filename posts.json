@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T21:05:33+00:00",
+  "updated": "2026-08-17T21:55:34+00:00",
   "posts": [
+    {
+      "id": "1d2b59f2",
+      "image": "img/1d2b59f2.png",
+      "image_sha": "ce130e1f07f7aa1bc986b8ac25ce9fcbfc5174bd",
+      "url": "https://www.radiodos.com.ar/212416-el-intendente-polich-llamo-a-transformar-el-legado-de-san-martin-en-compromiso-para-el-presente",
+      "title": "El intendente Polich llamó a transformar el legado de San Martín en compromiso para el presente",
+      "volanta": "ACTO DEL 17 DE AGOSTO EN CAPITAL",
+      "date": "2026-08-17T21:55:34+00:00"
+    },
     {
       "id": "871e0e67",
       "image": "img/871e0e67.png",
@@ -531,15 +540,6 @@
       "title": "Educación y Lotería fortalecen la prevención de las apuestas online",
       "volanta": "CONVENIO",
       "date": "2026-08-14T12:19:00+00:00"
-    },
-    {
-      "id": "f2600154",
-      "image": "img/f2600154.png",
-      "image_sha": "3043c8d5eead7ddc3077dda4fc42e6bd1f8a498c",
-      "url": "https://www.radiodos.com.ar/212275-denuncian-la-construccion-de-terraplenes-ilegales-que-provocarian-inundaciones-en-el-sur-de-corrientes",
-      "title": "Denuncian la construcción de terraplenes ilegales que provocarían inundaciones en el sur de Corrientes",
-      "volanta": "ARROYO SARANDI",
-      "date": "2026-08-14T11:48:40+00:00"
     }
   ]
 }
