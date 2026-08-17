@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T11:54:40+00:00",
+  "updated": "2026-08-17T12:04:59+00:00",
   "posts": [
+    {
+      "id": "cd8c7d88",
+      "image": "img/cd8c7d88.png",
+      "image_sha": "272b7b357ab4eca492bc7280fb6ca1adf1b3f34b",
+      "url": "https://www.radiodos.com.ar/212378-en-yapeyu-el-gobernador-juan-pablo-valdes-destaco-el-legado-del-padre-de-la-patria-",
+      "title": "En Yapeyú, el gobernador Juan Pablo Valdés destacó el legado del Padre de la Patria",
+      "volanta": "176° aniversario del fallecimiento del libertador \"general san martÍn\"",
+      "date": "2026-08-17T12:04:59+00:00"
+    },
     {
       "id": "c0a2f469",
       "image": "img/c0a2f469.png",
@@ -531,15 +540,6 @@
       "title": "Elena Roger anuncia su tour 2026 por ARGENTINA",
       "volanta": "CONCIERTOS",
       "date": "2026-08-13T21:14:35+00:00"
-    },
-    {
-      "id": "c44f110a",
-      "image": "img/c44f110a.png",
-      "image_sha": "653020aaf3a4e8e9ec8f2709dd00ca276a020d8a",
-      "url": "https://www.radiodos.com.ar/212259-desde-este-martes-18-se-paga-el-plus-extraordinario-a-municipales-de-la-ciudad-de-corrientes",
-      "title": "Desde este martes 18 se paga el plus extraordinario a municipales de la ciudad de Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-08-13T21:14:03+00:00"
     }
   ]
 }
