@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T16:49:25+00:00",
+  "updated": "2026-08-17T18:15:37+00:00",
   "posts": [
+    {
+      "id": "f69095e5",
+      "image": "img/f69095e5.png",
+      "image_sha": "411b24613dba9e15de43893b96cb267adb03496d",
+      "url": "https://www.radiodos.com.ar/212412-oscar-chino-garcia-remarco-un-buen-balance-de-la-fiesta-nacional-del-dorado",
+      "title": "Oscar \"Chino\" García remarcó \"un buen balance\" de la Fiesta Nacional del Dorado",
+      "volanta": "FIN DE SEMANA LARGO",
+      "date": "2026-08-17T18:15:37+00:00"
+    },
     {
       "id": "081da217",
       "image": "img/081da217.png",
@@ -531,15 +540,6 @@
       "title": "Momentos de tensión por un hombre alterado en una estación de servicios en el interior de Corrientes",
       "volanta": "SALADAS",
       "date": "2026-08-14T10:44:45+00:00"
-    },
-    {
-      "id": "bbc7b43f",
-      "image": "img/bbc7b43f.png",
-      "image_sha": "fea0a875e1d772deda2e67a316471a9edbaf3a4c",
-      "url": "https://www.radiodos.com.ar/212273-juan-pablo-valdes-viajo-a-caba-para-reunirse-con-inversores",
-      "title": "Juan Pablo Valdés viajó a CABA para reunirse con inversores",
-      "volanta": "AHORA",
-      "date": "2026-08-14T10:33:41+00:00"
     }
   ]
 }
