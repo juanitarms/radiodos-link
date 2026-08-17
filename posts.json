@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T23:09:18+00:00",
+  "updated": "2026-08-17T23:11:07+00:00",
   "posts": [
+    {
+      "id": "81aa0fb2",
+      "image": "img/81aa0fb2.png",
+      "image_sha": "17a1d9be4351b292ba5bacd99b44dbc5bb5f3f9f",
+      "url": "https://www.radiodos.com.ar/212419-trasladan-a-la-capital-a-la-cabo-agredida-por-su-pareja-en-el-interior-de-corrientes",
+      "title": "Trasladan a la capital a la Cabo agredida por su pareja en el interior de Corrientes",
+      "volanta": "SE AGRAVÓ SU ESTADO",
+      "date": "2026-08-17T23:11:07+00:00"
+    },
     {
       "id": "ff903c88",
       "image": "img/ff903c88.png",
@@ -531,15 +540,6 @@
       "title": "Más de 250 alumnos participarán de la final del Encuentro Provincial de Ajedrez Educativo",
       "volanta": "EN EL CENTRO DE EDUCACIÓN FÍSICA N° 1 DE CAPITAL",
       "date": "2026-08-14T13:17:29+00:00"
-    },
-    {
-      "id": "fce892b8",
-      "image": "img/fce892b8.png",
-      "image_sha": "027bd7572b628a9921bd317b76b741394509ed8c",
-      "url": "https://www.radiodos.com.ar/212283-femicidio-de-marina-en-corrientes-sospechan-sobre-la-presencia-de-una-tercera-persona-en-el-lugar-del-hecho",
-      "title": "Femicidio de Marina en Corrientes: sospechan sobre la presencia de una tercera persona en el lugar del hecho",
-      "volanta": "ADELANTO",
-      "date": "2026-08-14T12:57:47+00:00"
     }
   ]
 }
