@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T12:04:59+00:00",
+  "updated": "2026-08-17T12:26:36+00:00",
   "posts": [
+    {
+      "id": "3965e7df",
+      "image": "img/3965e7df.png",
+      "image_sha": "d113486fa1a8c26e00814b4ff242266b91682aa1",
+      "url": "https://www.radiodos.com.ar/212382-corrientes-inicia-una-etapa-experimental-con-1000-hectareas-de-maiz-para-definir-su-potencial-por-zona",
+      "title": "Corrientes inicia una etapa experimental con 1.000 hectáreas de maíz para definir su potencial por zona",
+      "volanta": "PROGRAMA PROVINCIAL",
+      "date": "2026-08-17T12:26:36+00:00"
+    },
     {
       "id": "cd8c7d88",
       "image": "img/cd8c7d88.png",
@@ -531,15 +540,6 @@
       "title": "Así serán las prestaciones municipales para el lunes 17 de agosto en Corrientes",
       "volanta": "CIUDAD",
       "date": "2026-08-13T21:16:08+00:00"
-    },
-    {
-      "id": "5d1c613b",
-      "image": "img/5d1c613b.png",
-      "image_sha": "b21250a312eedbe5772433a89bd1656613dd3133",
-      "url": "https://www.radiodos.com.ar/212260-elena-roger-anuncia-su-tour-2026-por-argentina",
-      "title": "Elena Roger anuncia su tour 2026 por ARGENTINA",
-      "volanta": "CONCIERTOS",
-      "date": "2026-08-13T21:14:35+00:00"
     }
   ]
 }
