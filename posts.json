@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T14:43:22+00:00",
+  "updated": "2026-08-17T15:20:03+00:00",
   "posts": [
+    {
+      "id": "c481ab80",
+      "image": "img/c481ab80.png",
+      "image_sha": "b064e29b1a7a6a1949dae868306dda1a6025a590",
+      "url": "https://www.radiodos.com.ar/212407-el-sincericidio-de-benjamin-vicuna-sobre-como-maneja-la-distancia-con-sus-hijos-no-es-comodo-ni-es-lindo-ni-es-justo",
+      "title": "El sincericidio de Benjamín Vicuña sobre cómo maneja la distancia con sus hijos: \"No es cómodo, ni es lindo, ni es justo\"",
+      "volanta": "A CORAZON ABIERTO",
+      "date": "2026-08-17T15:20:03+00:00"
+    },
     {
       "id": "77fa79d8",
       "image": "img/77fa79d8.png",
@@ -531,15 +540,6 @@
       "title": "Un auto se incendió sobre cerca del acceso a Itatí",
       "volanta": "SOBRE LA RUTA 20",
       "date": "2026-08-13T22:14:49+00:00"
-    },
-    {
-      "id": "4d70ee0c",
-      "image": "img/4d70ee0c.png",
-      "image_sha": "683de3ac4a9cb416fd6f39dfcbf9ca2f7ca82df1",
-      "url": "https://www.radiodos.com.ar/212267-la-utn-suspende-temporalmente-las-clases-en-ituzaingo-por-problemas-presupuestarios",
-      "title": "La UTN suspende temporalmente las clases en Ituzaingó por problemas presupuestarios",
-      "volanta": "LAMENTABLE",
-      "date": "2026-08-13T22:14:17+00:00"
     }
   ]
 }
