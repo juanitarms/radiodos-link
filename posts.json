@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T13:35:24+00:00",
+  "updated": "2026-08-17T13:48:49+00:00",
   "posts": [
+    {
+      "id": "ebe4a384",
+      "image": "img/ebe4a384.png",
+      "image_sha": "6ec588f8a462bb8b3d542969feb18575162a0fbe",
+      "url": "https://www.radiodos.com.ar/212380-corrientes-policias-salvaron-a-una-cria-de-mono-caraya-que-cayo-desde-un-arbol",
+      "title": "Corrientes: policías salvaron a una cría de mono carayá que cayó desde un árbol",
+      "volanta": "PRIAR",
+      "date": "2026-08-17T13:48:49+00:00"
+    },
     {
       "id": "0a0945b7",
       "image": "img/0a0945b7.png",
@@ -531,15 +540,6 @@
       "title": "Educación y Lotería fortalecen la prevención de las apuestas online en Corrientes",
       "volanta": "CONVENIO",
       "date": "2026-08-13T22:12:35+00:00"
-    },
-    {
-      "id": "28135041",
-      "image": "img/28135041.png",
-      "image_sha": "82bb09316e823ae23659608bd03416595963b57e",
-      "url": "https://www.radiodos.com.ar/212265-juicio-por-loan-el-americano-soria-nego-las-acusaciones-y-explico-por-que-se-involucro-en-el-caso-",
-      "title": "Juicio por Loan: \"el americano\" Soria negó las acusaciones y explicó por qué se involucró en el caso",
-      "volanta": "AUDIENCIA 17",
-      "date": "2026-08-13T22:12:00+00:00"
     }
   ]
 }
