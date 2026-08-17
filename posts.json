@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T21:56:16+00:00",
+  "updated": "2026-08-17T23:09:18+00:00",
   "posts": [
+    {
+      "id": "ff903c88",
+      "image": "img/ff903c88.png",
+      "image_sha": "ad0b862e2230675bef4081ecb43fe91c37b90094",
+      "url": "https://www.radiodos.com.ar/212417-juan-pablo-valdes-y-otros-gobernadores-del-norte-grande-seran-recibidos-por-nacion-para-negociar-por-las-zonas-calidas",
+      "title": "Juan Pablo Valdés y otros gobernadores del Norte Grande serán recibidos por Nación para negociar por las zonas cálidas",
+      "volanta": "TRAS CUMBRE EN POSADAS",
+      "date": "2026-08-17T23:09:18+00:00"
+    },
     {
       "id": "30770131",
       "image": "img/30770131.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Marina en Corrientes: sospechan sobre la presencia de una tercera persona en el lugar del hecho",
       "volanta": "ADELANTO",
       "date": "2026-08-14T12:57:47+00:00"
-    },
-    {
-      "id": "8f960131",
-      "image": "img/8f960131.png",
-      "image_sha": "f8257ec310245f5df086dd455a795ba12a48788e",
-      "url": "https://www.radiodos.com.ar/212279-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE VIERNES 14",
-      "date": "2026-08-14T12:34:36+00:00"
     }
   ]
 }
