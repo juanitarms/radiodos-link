@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T19:29:39+00:00",
+  "updated": "2026-08-17T21:05:33+00:00",
   "posts": [
+    {
+      "id": "871e0e67",
+      "image": "img/871e0e67.png",
+      "image_sha": "a41782ba240914ea31dececc80ca19cb317e87ae",
+      "url": "https://www.radiodos.com.ar/212414-colocaron-tobillera-electronica-a-un-hombre-denunciado-por-violencia-familiar-en-corrientes",
+      "title": "Colocaron tobillera electrónica a un hombre denunciado por violencia familiar en Corrientes",
+      "volanta": "BARRIO DR MONTAÑA",
+      "date": "2026-08-17T21:05:33+00:00"
+    },
     {
       "id": "eb849ae8",
       "image": "img/eb849ae8.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian la construcción de terraplenes ilegales que provocarían inundaciones en el sur de Corrientes",
       "volanta": "ARROYO SARANDI",
       "date": "2026-08-14T11:48:40+00:00"
-    },
-    {
-      "id": "2d9a86d7",
-      "image": "img/2d9a86d7.png",
-      "image_sha": "61fe2ebb591b9f3faaab9c600221ed9f0e18b549",
-      "url": "https://www.radiodos.com.ar/212274-el-nea-lidera-el-ranking-inflacionario-del-pais",
-      "title": "El NEA lidera el ranking inflacionario del país",
-      "volanta": "INDEC",
-      "date": "2026-08-14T11:27:28+00:00"
     }
   ]
 }
