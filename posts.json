@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T13:18:03+00:00",
+  "updated": "2026-08-17T13:35:24+00:00",
   "posts": [
+    {
+      "id": "0a0945b7",
+      "image": "img/0a0945b7.png",
+      "image_sha": "fe38e18c317995f0e8329d2683dc6853ed2a3ccd",
+      "url": "https://www.radiodos.com.ar/212379-costanera-la-obra-frente-al-puerto-de-corrientes-busca-ordenar-el-transito-y-reforzar-la-seguridad-vial",
+      "title": "Costanera: la obra frente al Puerto de Corrientes busca ordenar el tránsito y reforzar la seguridad vial",
+      "volanta": "SEGURIDAD VIAL Y ORDENAMIENTO URBANO",
+      "date": "2026-08-17T13:35:24+00:00"
+    },
     {
       "id": "ebd63e0f",
       "image": "img/ebd63e0f.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: \"el americano\" Soria negó las acusaciones y explicó por qué se involucró en el caso",
       "volanta": "AUDIENCIA 17",
       "date": "2026-08-13T22:12:00+00:00"
-    },
-    {
-      "id": "01d59852",
-      "image": "img/01d59852.png",
-      "image_sha": "d90ed062831ca3ea58c7a3b25049c8583b52eaf5",
-      "url": "https://www.radiodos.com.ar/212266-estados-unidos-exige-limitar-la-presencia-de-empresas-chinas-en-vaca-muerta",
-      "title": "Estados Unidos exige limitar la presencia de empresas chinas en Vaca Muerta",
-      "volanta": "GEOPOLÍTICA",
-      "date": "2026-08-13T21:18:39+00:00"
     }
   ]
 }
