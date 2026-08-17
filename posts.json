@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T12:49:50+00:00",
+  "updated": "2026-08-17T13:18:03+00:00",
   "posts": [
+    {
+      "id": "ebd63e0f",
+      "image": "img/ebd63e0f.png",
+      "image_sha": "18ac90c900727dc171cce82809e1509886913b89",
+      "url": "https://www.radiodos.com.ar/212391-el-sur-de-corrientes-espera-lluvias-que-podrian-superar-los-100-mm",
+      "title": "El sur de Corrientes espera lluvias que podrían superar los 100 mm",
+      "volanta": "Primeros efectos de El Niño",
+      "date": "2026-08-17T13:18:03+00:00"
+    },
     {
       "id": "d88b75ff",
       "image": "img/d88b75ff.png",
@@ -531,15 +540,6 @@
       "title": "Estados Unidos exige limitar la presencia de empresas chinas en Vaca Muerta",
       "volanta": "GEOPOLÍTICA",
       "date": "2026-08-13T21:18:39+00:00"
-    },
-    {
-      "id": "e5d13106",
-      "image": "img/e5d13106.png",
-      "image_sha": "227efd11a568088b35ecb786d8560c63a3d47b28",
-      "url": "https://www.radiodos.com.ar/212262-solo-el-50-de-los-estudiantes-llega-a-sexto-grado-con-conocimientos-satisfactorios-de-lengua-y-matematica",
-      "title": "Sólo el 50% de los estudiantes llega a sexto grado con \"conocimientos satisfactorios de lengua y matemática\"",
-      "volanta": "crisis educativa",
-      "date": "2026-08-13T21:17:30+00:00"
     }
   ]
 }
