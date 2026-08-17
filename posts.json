@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T14:18:58+00:00",
+  "updated": "2026-08-17T14:43:22+00:00",
   "posts": [
+    {
+      "id": "77fa79d8",
+      "image": "img/77fa79d8.png",
+      "image_sha": "aaa68c81fe1762cab8336f4974bf272fa5b972ef",
+      "url": "https://www.radiodos.com.ar/212408-mirtha-legrand-recordo-su-vinculo-con-la-familia-messi-y-conto-una-intima-charla-con-jorge-antes-de-su-muerte",
+      "title": "Mirtha Legrand recordó su vínculo con la familia Messi y contó una íntima charla con Jorge antes de su muerte",
+      "volanta": "Muy cercana",
+      "date": "2026-08-17T14:43:22+00:00"
+    },
     {
       "id": "5ab8b26b",
       "image": "img/5ab8b26b.png",
@@ -531,15 +540,6 @@
       "title": "La UTN suspende temporalmente las clases en Ituzaingó por problemas presupuestarios",
       "volanta": "LAMENTABLE",
       "date": "2026-08-13T22:14:17+00:00"
-    },
-    {
-      "id": "4190e7e2",
-      "image": "img/4190e7e2.png",
-      "image_sha": "bcc2ee03ac4c2cecd702967b7f1c62024de1453d",
-      "url": "https://www.radiodos.com.ar/212263-la-uta-postergo-un-paro-de-colectivos-previsto-para-este-viernes",
-      "title": "La UTA postergó un paro de colectivos previsto para este viernes",
-      "volanta": "SERVICIO NORMAL",
-      "date": "2026-08-13T22:13:16+00:00"
     }
   ]
 }
