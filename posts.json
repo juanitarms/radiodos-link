@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T15:20:03+00:00",
+  "updated": "2026-08-17T16:48:44+00:00",
   "posts": [
+    {
+      "id": "00af2952",
+      "image": "img/00af2952.png",
+      "image_sha": "98bd9ca4ec8fdf005f37af8346d507d9727043b4",
+      "url": "https://www.radiodos.com.ar/212411-romina-gaetani-y-una-contundene-reflexion-tras-ser-victima-de-violencia-no-te-acostumbras",
+      "title": "Romina Gaetani y una contundene reflexión tras ser víctima de violencia: \"No te acostumbrás\"",
+      "volanta": "SINCERA",
+      "date": "2026-08-17T16:48:44+00:00"
+    },
     {
       "id": "c481ab80",
       "image": "img/c481ab80.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran cocaína, dinero y detienen a una mujer tras un allanamiento",
       "volanta": "CORRIENTES",
       "date": "2026-08-13T22:43:13+00:00"
-    },
-    {
-      "id": "27dc65bf",
-      "image": "img/27dc65bf.png",
-      "image_sha": "5dccb7c8f2a784f5efd9ef671eeb8b21bb441bfe",
-      "url": "https://www.radiodos.com.ar/212268-un-auto-se-incendio-sobre-cerca-del-acceso-a-itati",
-      "title": "Un auto se incendió sobre cerca del acceso a Itatí",
-      "volanta": "SOBRE LA RUTA 20",
-      "date": "2026-08-13T22:14:49+00:00"
     }
   ]
 }
