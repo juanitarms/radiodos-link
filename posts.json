@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T21:55:34+00:00",
+  "updated": "2026-08-17T21:56:16+00:00",
   "posts": [
+    {
+      "id": "30770131",
+      "image": "img/30770131.png",
+      "image_sha": "0e3b29d73401f34b7a802c1b850e07388aee5b26",
+      "url": "https://www.radiodos.com.ar/212415-el-gobernador-valdes-reivindico-el-legado-de-san-martin-durante-los-actos-centrales-en-yapeyu",
+      "title": "El gobernador Valdés reivindicó el legado de San Martín durante los actos centrales en Yapeyú",
+      "volanta": "17 DE AGOSTO",
+      "date": "2026-08-17T21:56:16+00:00"
+    },
     {
       "id": "1d2b59f2",
       "image": "img/1d2b59f2.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE VIERNES 14",
       "date": "2026-08-14T12:34:36+00:00"
-    },
-    {
-      "id": "0d81c8d7",
-      "image": "img/0d81c8d7.png",
-      "image_sha": "822bdc6afdacac8cf4d7673b5669054fe1931074",
-      "url": "https://www.radiodos.com.ar/212281-educacion-y-loteria-fortalecen-la-prevencion-de-las-apuestas-online",
-      "title": "Educación y Lotería fortalecen la prevención de las apuestas online",
-      "volanta": "CONVENIO",
-      "date": "2026-08-14T12:19:00+00:00"
     }
   ]
 }
