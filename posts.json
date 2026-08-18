@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T16:54:31+00:00",
+  "updated": "2026-08-18T18:47:36+00:00",
   "posts": [
+    {
+      "id": "43260c58",
+      "image": "img/43260c58.png",
+      "image_sha": "f4b7a35b0520ca2d46e0515d1cae53c31938016d",
+      "url": "https://www.radiodos.com.ar/212429-regatas-brillo-en-el-torneo-de-judo-dia-del-nino",
+      "title": "Regatas brilló en el Torneo de Judo Día del Niño",
+      "volanta": "JUDO",
+      "date": "2026-08-18T18:47:36+00:00"
+    },
     {
       "id": "da310d30",
       "image": "img/da310d30.png",
@@ -531,15 +540,6 @@
       "title": "La Cámara de Diputados distinguió a las ganadoras nacionales del Básquet Mini Femenino",
       "volanta": "Selección correntina",
       "date": "2026-08-14T18:19:36+00:00"
-    },
-    {
-      "id": "b57e66b1",
-      "image": "img/b57e66b1.png",
-      "image_sha": "e876a0744beecf6fadf3acee53206b35a6aea7d8",
-      "url": "https://www.radiodos.com.ar/212302-crimen-en-chaco-una-testigo-denuncio-que-quisieron-sobornarla-para-declarar-a-favor-de-victoria-luz-cantero",
-      "title": "Crimen en Chaco: una testigo denunció que quisieron sobornarla para declarar a favor de Victoria Luz Cantero",
-      "volanta": "SIGUE LA INVESTIGACIÓN",
-      "date": "2026-08-14T17:44:33+00:00"
     }
   ]
 }
