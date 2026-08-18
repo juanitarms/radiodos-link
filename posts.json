@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T13:41:03+00:00",
+  "updated": "2026-08-18T14:04:00+00:00",
   "posts": [
+    {
+      "id": "65dbf088",
+      "image": "img/65dbf088.png",
+      "image_sha": "c413474665ecb48488413807bcf5178870b5506f",
+      "url": "https://www.radiodos.com.ar/212437-femicidio-en-villa-devoto-que-revelo-la-autopsia-realizada-al-cuerpo-de-romina-calvo",
+      "title": "Femicidio en Villa Devoto: qué reveló la autopsia realizada al cuerpo de Romina Calvo",
+      "volanta": "INVESTIGACION ABIERTA",
+      "date": "2026-08-18T14:04:00+00:00"
+    },
     {
       "id": "e4123ea6",
       "image": "img/e4123ea6.png",
@@ -531,15 +540,6 @@
       "title": "Motociclista internada al chocar con un auto en el centro de Corrientes",
       "volanta": "ESTA MAÑANA",
       "date": "2026-08-14T16:44:28+00:00"
-    },
-    {
-      "id": "e65f9e42",
-      "image": "img/e65f9e42.png",
-      "image_sha": "3c8815706162fea8e06bc9065155bf951029c572",
-      "url": "https://www.radiodos.com.ar/212292-ph-podemos-hablar-promete-una-noche-de-confesiones-quienes-estaran-con-andy-kusnetzoff",
-      "title": "PH, Podemos Hablar promete una noche de confesiones: quiénes estarán con Andy Kusnetzoff",
-      "volanta": "TV ARGENTINA",
-      "date": "2026-08-14T15:00:17+00:00"
     }
   ]
 }
