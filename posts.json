@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T12:03:47+00:00",
+  "updated": "2026-08-18T12:40:43+00:00",
   "posts": [
+    {
+      "id": "bcee0b1c",
+      "image": "img/bcee0b1c.png",
+      "image_sha": "000299aab1e1ce897c7b0846b97b56b620cd3cc1",
+      "url": "https://www.radiodos.com.ar/212424-resultados-de-la-segunda-fecha-de-la-liga-provincial-de-mayores-2026",
+      "title": "Resultados de la segunda fecha de la Liga Provincial de Mayores 2026",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-18T12:40:43+00:00"
+    },
     {
       "id": "4bbe492e",
       "image": "img/4bbe492e.png",
@@ -531,15 +540,6 @@
       "title": "Moria Casán explicó por qué Susana Giménez y Lali Espósito no estuvieron en el estreno de su serie",
       "volanta": "SORPRESA",
       "date": "2026-08-14T14:16:29+00:00"
-    },
-    {
-      "id": "63ea8746",
-      "image": "img/63ea8746.png",
-      "image_sha": "85ba558f0a595d14cd49769a1a85934614f743f8",
-      "url": "https://www.radiodos.com.ar/212295-aseguran-que-el-padre-de-tini-stoessel-le-hizo-una-sugerencia-a-la-artista-y-provoco-un-estallido-que-le-dijo",
-      "title": "Aseguran que el padre de Tini Stoessel le hizo una sugerencia a la artista y provocó un estallido: qué le dijo",
-      "volanta": "TODO MAL",
-      "date": "2026-08-14T14:03:53+00:00"
     }
   ]
 }
