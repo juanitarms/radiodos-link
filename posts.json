@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T22:36:08+00:00",
+  "updated": "2026-08-18T22:37:50+00:00",
   "posts": [
+    {
+      "id": "5bad9448",
+      "image": "img/5bad9448.png",
+      "image_sha": "11312fe1ff96d012b444351a9e4f6a560479d52e",
+      "url": "https://www.radiodos.com.ar/212466-la-bandera-argentina-volvio-a-flamear-en-las-islas-malvinas-tras-44-anos",
+      "title": "La bandera argentina volvió a flamear en las Islas Malvinas tras 44 años",
+      "volanta": "histórico",
+      "date": "2026-08-18T22:37:50+00:00"
+    },
     {
       "id": "923935bb",
       "image": "img/923935bb.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio facilita el traslado a la 90ª Exposición Rural de Corrientes",
       "volanta": "SERVICIO ESPECIAL DE TRANSPORTE",
       "date": "2026-08-15T14:20:54+00:00"
-    },
-    {
-      "id": "2d3a9711",
-      "image": "img/2d3a9711.png",
-      "image_sha": "5aef3762e015f376bb19702a5ff7243eff4c5d76",
-      "url": "https://www.radiodos.com.ar/212329-en-corrientes-las-jugueterias-atenderan-hoy-de-corrido-y-el-domingo-a-la-manana",
-      "title": "En Corrientes, las jugueterías atenderán hoy de corrido y el domingo a la mañana",
-      "volanta": "DÍA DEL NIÑO",
-      "date": "2026-08-15T13:24:38+00:00"
     }
   ]
 }
