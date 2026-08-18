@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T21:15:25+00:00",
+  "updated": "2026-08-18T21:16:34+00:00",
   "posts": [
+    {
+      "id": "8ec017b5",
+      "image": "img/8ec017b5.png",
+      "image_sha": "eb8e65ff4376073497048d17de59ad12d805f77c",
+      "url": "https://www.radiodos.com.ar/212463-la-inflacion-mayorista-bajo-al-08-en-julio-y-acumula-una-suba-del-166-en-lo-que-va-del-ano",
+      "title": "La inflación mayorista bajó al 0,8% en julio y acumula una suba del 16,6% en lo que va del año",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-08-18T21:16:34+00:00"
+    },
     {
       "id": "9f798d30",
       "image": "img/9f798d30.png",
@@ -531,15 +540,6 @@
       "title": "Lo despidieron de su trabajo por no bañarse, hizo juicio y la Justicia le dio la razón a la empresa",
       "volanta": "Insólito",
       "date": "2026-08-14T21:18:21+00:00"
-    },
-    {
-      "id": "abc1bd33",
-      "image": "img/abc1bd33.png",
-      "image_sha": "95b02f0da54508ecbc97364eea9f230f0f23542f",
-      "url": "https://www.radiodos.com.ar/212318-el-poder-adquisitivo-del-sector-privado-volvio-a-caer-en-junio",
-      "title": "El poder adquisitivo del sector privado volvió a caer en junio",
-      "volanta": "ECONOMÍA",
-      "date": "2026-08-14T21:14:42+00:00"
     }
   ]
 }
