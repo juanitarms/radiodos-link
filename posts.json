@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T12:40:43+00:00",
+  "updated": "2026-08-18T13:00:49+00:00",
   "posts": [
+    {
+      "id": "ddb3b795",
+      "image": "img/ddb3b795.png",
+      "image_sha": "5e5f0ef0111a319334a27f9bc26da08b96620f35",
+      "url": "https://www.radiodos.com.ar/212428-las-ferias-de-la-ciudad-llegan-con-productos-frescos-artesanias-y-propuestas-gastronomicas",
+      "title": "Las Ferias de la Ciudad llegan con productos frescos, artesanías y propuestas gastronómicas",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-08-18T13:00:49+00:00"
+    },
     {
       "id": "bcee0b1c",
       "image": "img/bcee0b1c.png",
@@ -531,15 +540,6 @@
       "title": "Operativo de Garrafa Social: Cronograma Semanal",
       "volanta": "Ministerio de Desarrollo Social",
       "date": "2026-08-14T14:30:22+00:00"
-    },
-    {
-      "id": "4aa18c59",
-      "image": "img/4aa18c59.png",
-      "image_sha": "30db6472a97533b668d7151f5a5ea32b7168d88a",
-      "url": "https://www.radiodos.com.ar/212294-moria-casan-explico-por-que-susana-gimenez-y-lali-esposito-no-estuvieron-en-el-estreno-de-su-serie",
-      "title": "Moria Casán explicó por qué Susana Giménez y Lali Espósito no estuvieron en el estreno de su serie",
-      "volanta": "SORPRESA",
-      "date": "2026-08-14T14:16:29+00:00"
     }
   ]
 }
