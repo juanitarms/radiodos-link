@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T22:37:50+00:00",
+  "updated": "2026-08-18T23:03:18+00:00",
   "posts": [
+    {
+      "id": "3a29c74f",
+      "image": "img/3a29c74f.png",
+      "image_sha": "570bca9221ecbd85ffff1c4c1dbaa7c24ebe9a6b",
+      "url": "https://www.radiodos.com.ar/212478-megaoperativo-en-corrientes-investigaban-un-robo-simple-y-terminaron-desarticulando-kioscos-narcos-y-aguantaderos",
+      "title": "Megaoperativo en Corrientes: investigaban un robo simple y terminaron desarticulando kioscos narcos y aguantaderos",
+      "volanta": "BARRIO DR MONTAÑA",
+      "date": "2026-08-18T23:03:18+00:00"
+    },
     {
       "id": "5bad9448",
       "image": "img/5bad9448.png",
@@ -531,15 +540,6 @@
       "title": "El Banco de Corrientes lanzó \"Corrientes Potencia: Ganadería\", una herramienta histórica para impulsar la producción con el apoyo del Gobierno Provincial",
       "volanta": "AGRONEGOCIOS",
       "date": "2026-08-16T00:15:46+00:00"
-    },
-    {
-      "id": "b8f3a0f7",
-      "image": "img/b8f3a0f7.png",
-      "image_sha": "2fc4341a189ae5e56c132f5614805592dae54828",
-      "url": "https://www.radiodos.com.ar/212338-el-municipio-facilita-el-traslado-a-la-90-exposicion-rural-de-corrientes",
-      "title": "El Municipio facilita el traslado a la 90ª Exposición Rural de Corrientes",
-      "volanta": "SERVICIO ESPECIAL DE TRANSPORTE",
-      "date": "2026-08-15T14:20:54+00:00"
     }
   ]
 }
