@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T22:34:19+00:00",
+  "updated": "2026-08-18T22:34:50+00:00",
   "posts": [
+    {
+      "id": "f6743eba",
+      "image": "img/f6743eba.png",
+      "image_sha": "136b39d3e1ffc4a130a08f004acc5dc555347ed7",
+      "url": "https://www.radiodos.com.ar/212475-jefe-de-la-policia-de-corrientes-por-violencia-de-genero-en-saladas-no-toleraremos-estas-conductas",
+      "title": "Jefe de la Policía de Corrientes, por violencia de género en Saladas: \"No toleraremos éstas conductas\"",
+      "volanta": "RÁPIDA DECISIÓN",
+      "date": "2026-08-18T22:34:50+00:00"
+    },
     {
       "id": "4c42f2f8",
       "image": "img/4c42f2f8.png",
@@ -531,15 +540,6 @@
       "title": "No irán presas las mujeres involucradas en la golpiza a una joven a la salida de un boliche en Corrientes",
       "volanta": "DECISIÓN",
       "date": "2026-08-14T23:40:21+00:00"
-    },
-    {
-      "id": "2cc2c640",
-      "image": "img/2cc2c640.png",
-      "image_sha": "aaee5f1b8d1adf02e0cbb53792181b62d481f5dc",
-      "url": "https://www.radiodos.com.ar/212325-pity-alvarez-un-amigo-de-cristian-diaz-califico-de-certero-un-disparo-que-la-victima-recibio-en-el-ojo",
-      "title": "Pity\" Álvarez: un amigo de Cristian Díaz calificó de \"certero\" un disparo que la víctima recibió \"en el ojo\"",
-      "volanta": "Juicio",
-      "date": "2026-08-14T23:39:01+00:00"
     }
   ]
 }
