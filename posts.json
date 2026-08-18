@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-17T23:11:07+00:00",
+  "updated": "2026-08-18T11:03:46+00:00",
   "posts": [
+    {
+      "id": "5034a149",
+      "image": "img/5034a149.png",
+      "image_sha": "fa6ceac4657dd30d927cd34d9135bcd98e29b273",
+      "url": "https://www.radiodos.com.ar/212420-policia-agredida-abuso-de-un-jefe-policial-desato-la-furia-de-su-pareja-",
+      "title": "Policía agredida: abuso de un Jefe policial desató la furia de su pareja",
+      "volanta": "VIOLENCIA DE GÉNERO",
+      "date": "2026-08-18T11:03:46+00:00"
+    },
     {
       "id": "81aa0fb2",
       "image": "img/81aa0fb2.png",
@@ -531,15 +540,6 @@
       "title": "\"La política nos hundió\": empresario comunicó entre lágrimas el cierre de dos fábricas y los 120 despidos",
       "volanta": "CRISIS",
       "date": "2026-08-14T13:19:07+00:00"
-    },
-    {
-      "id": "f628d95e",
-      "image": "img/f628d95e.png",
-      "image_sha": "c51d865d358b3ad74653da4f29aa3123b73fb502",
-      "url": "https://www.radiodos.com.ar/212280-mas-de-250-alumnos-participaran-de-la-final-del-encuentro-provincial-de-ajedrez-educativo",
-      "title": "Más de 250 alumnos participarán de la final del Encuentro Provincial de Ajedrez Educativo",
-      "volanta": "EN EL CENTRO DE EDUCACIÓN FÍSICA N° 1 DE CAPITAL",
-      "date": "2026-08-14T13:17:29+00:00"
     }
   ]
 }
