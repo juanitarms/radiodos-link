@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T20:45:40+00:00",
+  "updated": "2026-08-18T21:13:25+00:00",
   "posts": [
+    {
+      "id": "18ed6401",
+      "image": "img/18ed6401.png",
+      "image_sha": "a691390696c06017caf7cea55f440888b3f832d5",
+      "url": "https://www.radiodos.com.ar/212462-el-plan-de-corrientes-para-dejar-de-ser-solo-un-productor-de-materia-prima",
+      "title": "El plan de Corrientes para dejar de ser solo un productor de materia prima",
+      "volanta": "POLO INDUSTRIAL",
+      "date": "2026-08-18T21:13:25+00:00"
+    },
     {
       "id": "28874e2f",
       "image": "img/28874e2f.png",
@@ -531,15 +540,6 @@
       "title": "Fin de semana en Corrientes: Peña de la Ciudad, barrileteada y propuestas deportivas se destacan en la agenda municipal",
       "volanta": "CIUDAD DE EVENTOS",
       "date": "2026-08-14T20:43:07+00:00"
-    },
-    {
-      "id": "3e4c4bfa",
-      "image": "img/3e4c4bfa.png",
-      "image_sha": "3677770dd4cb2753c193f0300d9a8a2648303d6e",
-      "url": "https://www.radiodos.com.ar/212316-incautan-un-cargamento-de-marihuana-tras-un-operativo-conjunto-entre-la-policia-y-gendarmeria",
-      "title": "Incautan un cargamento de marihuana tras un operativo conjunto entre la Policía y Gendarmería",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-14T20:35:11+00:00"
     }
   ]
 }
