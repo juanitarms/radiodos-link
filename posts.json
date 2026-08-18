@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T13:00:49+00:00",
+  "updated": "2026-08-18T13:19:25+00:00",
   "posts": [
+    {
+      "id": "543d7d8c",
+      "image": "img/543d7d8c.png",
+      "image_sha": "225aaa2358d6c4af3bfb97c01d410bf6a4db2b7e",
+      "url": "https://www.radiodos.com.ar/212433-un-mecanico-de-lanus-invento-un-dispositivo-para-facilitar-partos-y-es-reconocido-en-el-mundo",
+      "title": "Un mecánico de Lanús inventó un dispositivo para facilitar partos y es reconocido en el mundo",
+      "volanta": "INNOVADOR",
+      "date": "2026-08-18T13:19:25+00:00"
+    },
     {
       "id": "ddb3b795",
       "image": "img/ddb3b795.png",
@@ -531,15 +540,6 @@
       "title": "Martita Fort recordó a su papá y contó cómo mantiene vivo su legado: \"Me siento protegida por él\"",
       "volanta": "RECUERDO",
       "date": "2026-08-14T14:47:46+00:00"
-    },
-    {
-      "id": "bae473b5",
-      "image": "img/bae473b5.png",
-      "image_sha": "715c021ba029c360b155dd32e6ca94d8586611ad",
-      "url": "https://www.radiodos.com.ar/212297-operativo-de-garrafa-social-cronograma-semanal",
-      "title": "Operativo de Garrafa Social: Cronograma Semanal",
-      "volanta": "Ministerio de Desarrollo Social",
-      "date": "2026-08-14T14:30:22+00:00"
     }
   ]
 }
