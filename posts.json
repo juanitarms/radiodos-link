@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T21:13:25+00:00",
+  "updated": "2026-08-18T21:13:57+00:00",
   "posts": [
+    {
+      "id": "8f0d759a",
+      "image": "img/8f0d759a.png",
+      "image_sha": "45cae1493c73fcca69244d0930d8c1d802d67cff",
+      "url": "https://www.radiodos.com.ar/212465-investigan-las-causas-del-fallecimiento-de-un-hombre-hallado-junto-a-su-bicicleta",
+      "title": "Investigan las causas del fallecimiento de un hombre hallado junto a su bicicleta",
+      "volanta": "SOBRE RUTA 118",
+      "date": "2026-08-18T21:13:57+00:00"
+    },
     {
       "id": "18ed6401",
       "image": "img/18ed6401.png",
@@ -531,15 +540,6 @@
       "title": "El stock de búfalos en el país es de 205 mil y el NEA concentra el 83% de las existencias",
       "volanta": "Datos oficiales",
       "date": "2026-08-14T20:44:06+00:00"
-    },
-    {
-      "id": "9a72c965",
-      "image": "img/9a72c965.png",
-      "image_sha": "4963280ea14aa206720cc30a8b3b2f44310446ec",
-      "url": "https://www.radiodos.com.ar/212315-fin-de-semana-en-corrientes-pena-de-la-ciudad-barrileteada-y-propuestas-deportivas-se-destacan-en-la-agenda-municipal",
-      "title": "Fin de semana en Corrientes: Peña de la Ciudad, barrileteada y propuestas deportivas se destacan en la agenda municipal",
-      "volanta": "CIUDAD DE EVENTOS",
-      "date": "2026-08-14T20:43:07+00:00"
     }
   ]
 }
