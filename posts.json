@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T18:48:11+00:00",
+  "updated": "2026-08-18T18:48:46+00:00",
   "posts": [
+    {
+      "id": "db65e9ac",
+      "image": "img/db65e9ac.png",
+      "image_sha": "8dd2700ac9a585c1858967d80e7c4de40e31aac0",
+      "url": "https://www.radiodos.com.ar/212441-declaran-los-policias-que-asistieron-a-candela-arizaga-tras-su-incidente-con-facundo-moyano",
+      "title": "Declaran los policías que asistieron a Candela Arizaga tras su incidente con Facundo Moyano",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-18T18:48:46+00:00"
+    },
     {
       "id": "34e6042d",
       "image": "img/34e6042d.png",
@@ -531,15 +540,6 @@
       "title": "Emprendedores participarán de la 61° Fiesta Nacional de la pesca del Dorado",
       "volanta": "Paso de la Patria",
       "date": "2026-08-14T18:20:50+00:00"
-    },
-    {
-      "id": "c28c917f",
-      "image": "img/c28c917f.png",
-      "image_sha": "81519ad36ef7463f1151619c354e5cc54c022425",
-      "url": "https://www.radiodos.com.ar/212304-la-nuez-pecan-gana-terreno-en-el-sur-correntino-con-mas-de-250-hectareas-implantadas",
-      "title": "La nuez pecán gana terreno en el sur correntino con más de 250 hectáreas implantadas",
-      "volanta": "Producción Regional",
-      "date": "2026-08-14T18:20:16+00:00"
     }
   ]
 }
