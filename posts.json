@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T21:16:34+00:00",
+  "updated": "2026-08-18T22:04:06+00:00",
   "posts": [
+    {
+      "id": "8591b968",
+      "image": "img/8591b968.png",
+      "image_sha": "8828df00740828c97c1bcf220cf10fc643415534",
+      "url": "https://www.radiodos.com.ar/212468-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-08-18T22:04:06+00:00"
+    },
     {
       "id": "8ec017b5",
       "image": "img/8ec017b5.png",
@@ -531,15 +540,6 @@
       "title": "En localidad de Corrientes masivo encuentro de referentes que impulsan la candidatura de Kicillof",
       "volanta": "SANTA LUCIA",
       "date": "2026-08-14T21:20:04+00:00"
-    },
-    {
-      "id": "a59db990",
-      "image": "img/a59db990.png",
-      "image_sha": "5d600d757d6ef136af96ec69f826f0a0a6b7f1b9",
-      "url": "https://www.radiodos.com.ar/212321-lo-despidieron-de-su-trabajo-por-no-banarse-hizo-juicio-y-la-justicia-le-dio-la-razon-a-la-empresa",
-      "title": "Lo despidieron de su trabajo por no bañarse, hizo juicio y la Justicia le dio la razón a la empresa",
-      "volanta": "Insólito",
-      "date": "2026-08-14T21:18:21+00:00"
     }
   ]
 }
