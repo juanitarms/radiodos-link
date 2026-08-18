@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T14:04:00+00:00",
+  "updated": "2026-08-18T14:27:42+00:00",
   "posts": [
+    {
+      "id": "9829455e",
+      "image": "img/9829455e.png",
+      "image_sha": "9f23d9c42f34f21228d4308465c30b0980560e2d",
+      "url": "https://www.radiodos.com.ar/212440-karina-milei-encabezara-la-reunion-inicial-para-organizar-la-visita-historica-del-papa-leon-xiv-a-la-argentina",
+      "title": "Karina Milei encabezará la reunión inicial para organizar la visita histórica del Papa León XIV a la Argentina",
+      "volanta": "VISITA ESPERADA",
+      "date": "2026-08-18T14:27:42+00:00"
+    },
     {
       "id": "65dbf088",
       "image": "img/65dbf088.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron un hombre y secuestraron una moto, una balanza de precisión y un celular",
       "volanta": "COLONIA LIEBIG",
       "date": "2026-08-14T16:45:02+00:00"
-    },
-    {
-      "id": "6ce3dc71",
-      "image": "img/6ce3dc71.png",
-      "image_sha": "27413c5356fc676946d82416d6129daecff85d40",
-      "url": "https://www.radiodos.com.ar/212296-motociclista-internada-al-chocar-con-un-auto-en-el-centro-de-corrientes",
-      "title": "Motociclista internada al chocar con un auto en el centro de Corrientes",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-08-14T16:44:28+00:00"
     }
   ]
 }
