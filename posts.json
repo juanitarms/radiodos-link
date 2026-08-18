@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T18:47:36+00:00",
+  "updated": "2026-08-18T18:48:11+00:00",
   "posts": [
+    {
+      "id": "34e6042d",
+      "image": "img/34e6042d.png",
+      "image_sha": "a0ecbadafa6fb017c7bb8fc461f802be84ef34f5",
+      "url": "https://www.radiodos.com.ar/212434-tragedia-en-san-martin-de-los-andes-un-hombre-murio-tras-caer-con-su-auto-al-lago-lacar",
+      "title": "Tragedia en San Martín de Los Andes: un hombre murió tras caer con su auto al Lago Lácar",
+      "volanta": "NEUQUÉN",
+      "date": "2026-08-18T18:48:11+00:00"
+    },
     {
       "id": "43260c58",
       "image": "img/43260c58.png",
@@ -531,15 +540,6 @@
       "title": "La nuez pecán gana terreno en el sur correntino con más de 250 hectáreas implantadas",
       "volanta": "Producción Regional",
       "date": "2026-08-14T18:20:16+00:00"
-    },
-    {
-      "id": "816db35b",
-      "image": "img/816db35b.png",
-      "image_sha": "dd4029e60551f33717c0bbf150800dc320ad156f",
-      "url": "https://www.radiodos.com.ar/212305-la-camara-de-diputados-distinguio-a-las-ganadoras-nacionales-del-basquet-mini-femenino",
-      "title": "La Cámara de Diputados distinguió a las ganadoras nacionales del Básquet Mini Femenino",
-      "volanta": "Selección correntina",
-      "date": "2026-08-14T18:19:36+00:00"
     }
   ]
 }
