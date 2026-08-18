@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T23:03:18+00:00",
+  "updated": "2026-08-18T23:28:23+00:00",
   "posts": [
+    {
+      "id": "7d77afdc",
+      "image": "img/7d77afdc.png",
+      "image_sha": "dfcca958ab3f2287c4014083fc3aff7e7af7d625",
+      "url": "https://www.radiodos.com.ar/212479-toto-caputo-acordo-con-valdes-y-otros-gobernadores-del-norte-un-nuevo-esquema-de-subsidios-a-la-electricidad",
+      "title": "Toto Caputo acordó con Valdés y otros gobernadores del norte un nuevo esquema de subsidios a la electricidad",
+      "volanta": "ESTA TARDE",
+      "date": "2026-08-18T23:28:23+00:00"
+    },
     {
       "id": "3a29c74f",
       "image": "img/3a29c74f.png",
@@ -531,15 +540,6 @@
       "title": "Escracharon al influencer Laureano Gieco por violento y narcisista",
       "volanta": "LO MÁS VIRAL",
       "date": "2026-08-16T13:08:26+00:00"
-    },
-    {
-      "id": "1b4d5e33",
-      "image": "img/1b4d5e33.png",
-      "image_sha": "603efd024880fd457935519c98018da6e5190260",
-      "url": "https://www.radiodos.com.ar/212341-el-banco-de-corrientes-lanzo-corrientes-potencia-ganaderia-una-herramienta-historica-para-impulsar-la-produccion-con-el-apoyo-del-gobierno-provincial",
-      "title": "El Banco de Corrientes lanzó \"Corrientes Potencia: Ganadería\", una herramienta histórica para impulsar la producción con el apoyo del Gobierno Provincial",
-      "volanta": "AGRONEGOCIOS",
-      "date": "2026-08-16T00:15:46+00:00"
     }
   ]
 }
