@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T13:19:25+00:00",
+  "updated": "2026-08-18T13:41:03+00:00",
   "posts": [
+    {
+      "id": "e4123ea6",
+      "image": "img/e4123ea6.png",
+      "image_sha": "b2a677e5ec5c3f468e1ee2e2a6846e6c118906d1",
+      "url": "https://www.radiodos.com.ar/212436-el-gobernador-juan-pablo-valdes-confirmo-que-viaja-a-caba-para-avanzar-en-la-implementacion-de-zonas-calidas",
+      "title": "El gobernador Juan Pablo Valdés confirmó que viaja a CABA para avanzar en la implementación de \"zonas cálidas\"",
+      "volanta": "CONFIRMADO",
+      "date": "2026-08-18T13:41:03+00:00"
+    },
     {
       "id": "543d7d8c",
       "image": "img/543d7d8c.png",
@@ -531,15 +540,6 @@
       "title": "PH, Podemos Hablar promete una noche de confesiones: quiénes estarán con Andy Kusnetzoff",
       "volanta": "TV ARGENTINA",
       "date": "2026-08-14T15:00:17+00:00"
-    },
-    {
-      "id": "966e875c",
-      "image": "img/966e875c.png",
-      "image_sha": "f0e0b4493858e0471d64d25ce32530a641e8508b",
-      "url": "https://www.radiodos.com.ar/212291-martita-fort-recordo-a-su-papa-y-conto-como-mantiene-vivo-su-legado-me-siento-protegida-por-el",
-      "title": "Martita Fort recordó a su papá y contó cómo mantiene vivo su legado: \"Me siento protegida por él\"",
-      "volanta": "RECUERDO",
-      "date": "2026-08-14T14:47:46+00:00"
     }
   ]
 }
