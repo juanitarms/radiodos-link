@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T11:03:46+00:00",
+  "updated": "2026-08-18T12:03:47+00:00",
   "posts": [
+    {
+      "id": "4bbe492e",
+      "image": "img/4bbe492e.png",
+      "image_sha": "924b950c74b8d645e74f9efc833cb6cbe2e55bb9",
+      "url": "https://www.radiodos.com.ar/212422-corrientes-investigan-el-caso-de-un-agente-de-la-policia-herido-de-un-disparo",
+      "title": "Corrientes: investigan el caso de un agente de la Policía herido de un disparo",
+      "volanta": "BARRIO SAN ANTONIO OESTE",
+      "date": "2026-08-18T12:03:47+00:00"
+    },
     {
       "id": "5034a149",
       "image": "img/5034a149.png",
@@ -531,15 +540,6 @@
       "title": "Aseguran que el padre de Tini Stoessel le hizo una sugerencia a la artista y provocó un estallido: qué le dijo",
       "volanta": "TODO MAL",
       "date": "2026-08-14T14:03:53+00:00"
-    },
-    {
-      "id": "3b9f16a9",
-      "image": "img/3b9f16a9.png",
-      "image_sha": "8378da45d85fc1db8a5b7970cf4d2fd7ed2ec131",
-      "url": "https://www.radiodos.com.ar/212287-la-politica-nos-hundio-empresario-comunico-entre-lagrimas-el-cierre-de-dos-fabricas-y-los-120-despidos",
-      "title": "\"La política nos hundió\": empresario comunicó entre lágrimas el cierre de dos fábricas y los 120 despidos",
-      "volanta": "CRISIS",
-      "date": "2026-08-14T13:19:07+00:00"
     }
   ]
 }
