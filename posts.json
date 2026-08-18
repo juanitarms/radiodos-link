@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T14:27:42+00:00",
+  "updated": "2026-08-18T14:59:44+00:00",
   "posts": [
+    {
+      "id": "ce89db4d",
+      "image": "img/ce89db4d.png",
+      "image_sha": "c2fb24d6ff5d00a865b59e4eaa58e50542096799",
+      "url": "https://www.radiodos.com.ar/212446-gran-hermano-la-picante-frase-de-alejandra-majluf-tras-ser-eliminada",
+      "title": "Gran Hermano: la picante frase de Alejandra Majluf tras ser eliminada",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-18T14:59:44+00:00"
+    },
     {
       "id": "9829455e",
       "image": "img/9829455e.png",
@@ -531,15 +540,6 @@
       "title": "Tras siniestro vial recuperaron una moto con pedido de secuestro de Misiones: hay dos demorados",
       "volanta": "COLONIA LIEBIG",
       "date": "2026-08-14T16:45:34+00:00"
-    },
-    {
-      "id": "fe3e999c",
-      "image": "img/fe3e999c.png",
-      "image_sha": "2166710fc871ab7790b7e8c758fabe628a05935a",
-      "url": "https://www.radiodos.com.ar/212298-demoraron-un-hombre-y-secuestraron-una-moto-una-balanza-de-precision-y-un-celular",
-      "title": "Demoraron un hombre y secuestraron una moto, una balanza de precisión y un celular",
-      "volanta": "COLONIA LIEBIG",
-      "date": "2026-08-14T16:45:02+00:00"
     }
   ]
 }
