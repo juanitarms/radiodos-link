@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T22:33:11+00:00",
+  "updated": "2026-08-18T22:34:19+00:00",
   "posts": [
+    {
+      "id": "4c42f2f8",
+      "image": "img/4c42f2f8.png",
+      "image_sha": "ea693838dc9a54ddc9efec23c743976dc8c8ef58",
+      "url": "https://www.radiodos.com.ar/212471-criar-y-sostener-a-un-hijo-la-canasta-de-crianza-llego-hasta-casi-700000-en-julio",
+      "title": "Criar y sostener a un hijo: la canasta de crianza llegó hasta casi $700.000 en julio",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-08-18T22:34:19+00:00"
+    },
     {
       "id": "f88d24a5",
       "image": "img/f88d24a5.png",
@@ -531,15 +540,6 @@
       "title": "Pity\" Álvarez: un amigo de Cristian Díaz calificó de \"certero\" un disparo que la víctima recibió \"en el ojo\"",
       "volanta": "Juicio",
       "date": "2026-08-14T23:39:01+00:00"
-    },
-    {
-      "id": "d05e1bc7",
-      "image": "img/d05e1bc7.png",
-      "image_sha": "855813f25224a02551c1cd512bcdbabd0a9b4cde",
-      "url": "https://www.radiodos.com.ar/212320-el-intendente-polich-destaco-la-vision-de-piragine-niveyro-para-proyectar-a-corrientes-hacia-la-modernidad",
-      "title": "El intendente Polich destacó la visión de Piragine Niveyro para proyectar a Corrientes hacia la modernidad",
-      "volanta": "RECORDAR EL LEGADO",
-      "date": "2026-08-14T21:20:42+00:00"
     }
   ]
 }
