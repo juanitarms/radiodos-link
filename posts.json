@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T16:53:59+00:00",
+  "updated": "2026-08-18T16:54:31+00:00",
   "posts": [
+    {
+      "id": "da310d30",
+      "image": "img/da310d30.png",
+      "image_sha": "df642ecdaa2e118f5d40283252947b644e89e031",
+      "url": "https://www.radiodos.com.ar/212423-corrientes-robaron-elementos-causaron-destrozos-y-luego-defecaron-en-el-salon-de-una-escuela",
+      "title": "Corrientes: robaron elementos, causaron destrozos y luego defecaron en el salón de una escuela",
+      "volanta": "BARRIO QUINTANA",
+      "date": "2026-08-18T16:54:31+00:00"
+    },
     {
       "id": "cb121c0d",
       "image": "img/cb121c0d.png",
@@ -531,15 +540,6 @@
       "title": "Crimen en Chaco: una testigo denunció que quisieron sobornarla para declarar a favor de Victoria Luz Cantero",
       "volanta": "SIGUE LA INVESTIGACIÓN",
       "date": "2026-08-14T17:44:33+00:00"
-    },
-    {
-      "id": "27dfaaf2",
-      "image": "img/27dfaaf2.png",
-      "image_sha": "ce1bbfe0aa2d38451f82f1be4daa054468a8f477",
-      "url": "https://www.radiodos.com.ar/212303-en-riachuelo-braillard-poccard-destaco-el-esfuerzo-y-la-perseverancia-de-los-productores-arroceros",
-      "title": "En Riachuelo, Braillard Poccard destacó el esfuerzo y la perseverancia de los productores arroceros",
-      "volanta": "Apoyo",
-      "date": "2026-08-14T17:44:00+00:00"
     }
   ]
 }
