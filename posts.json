@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T18:48:46+00:00",
+  "updated": "2026-08-18T20:45:40+00:00",
   "posts": [
+    {
+      "id": "28874e2f",
+      "image": "img/28874e2f.png",
+      "image_sha": "8603784b1ca6ee1d6716f7f30b9a3d03fb6b1bc0",
+      "url": "https://www.radiodos.com.ar/212461-ya-son-dos-los-muertos-por-el-vuelco-tragico-sobre-ruta-14",
+      "title": "Ya son dos los muertos por el vuelco trágico sobre ruta 14",
+      "volanta": "CORRIENTE",
+      "date": "2026-08-18T20:45:40+00:00"
+    },
     {
       "id": "db65e9ac",
       "image": "img/db65e9ac.png",
@@ -531,15 +540,6 @@
       "title": "Incautan un cargamento de marihuana tras un operativo conjunto entre la Policía y Gendarmería",
       "volanta": "CORRIENTES",
       "date": "2026-08-14T20:35:11+00:00"
-    },
-    {
-      "id": "a9bf1c32",
-      "image": "img/a9bf1c32.png",
-      "image_sha": "6d55de17eb5afd5eaadcbb1406978c729e42b3b1",
-      "url": "https://www.radiodos.com.ar/212306-emprendedores-participaran-de-la-61°-fiesta-nacional-de-la-pesca-del-dorado",
-      "title": "Emprendedores participarán de la 61° Fiesta Nacional de la pesca del Dorado",
-      "volanta": "Paso de la Patria",
-      "date": "2026-08-14T18:20:50+00:00"
     }
   ]
 }
