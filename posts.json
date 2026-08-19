@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T22:40:06+00:00",
+  "updated": "2026-08-19T22:41:44+00:00",
   "posts": [
+    {
+      "id": "659615ed",
+      "image": "img/659615ed.png",
+      "image_sha": "f500498007bc0b80f0db5ef9569760943269c6fe",
+      "url": "https://www.radiodos.com.ar/212532-el-partido-democrata-progresista-llevo-adelante-un-agasajo-por-el-dia-del-nino-en-el-barrio-17-de-agosto",
+      "title": "El Partido Demócrata Progresista llevó adelante un agasajo por el Día del Niño en el barrio 17 de Agosto",
+      "volanta": "Mes de la niñez",
+      "date": "2026-08-19T22:41:44+00:00"
+    },
     {
       "id": "6fec5c68",
       "image": "img/6fec5c68.png",
@@ -531,15 +540,6 @@
       "title": "Policía agredida: abuso de un Jefe policial desató la furia de su pareja",
       "volanta": "VIOLENCIA DE GÉNERO",
       "date": "2026-08-18T11:03:46+00:00"
-    },
-    {
-      "id": "81aa0fb2",
-      "image": "img/81aa0fb2.png",
-      "image_sha": "17a1d9be4351b292ba5bacd99b44dbc5bb5f3f9f",
-      "url": "https://www.radiodos.com.ar/212419-trasladan-a-la-capital-a-la-cabo-agredida-por-su-pareja-en-el-interior-de-corrientes",
-      "title": "Trasladan a la capital a la Cabo agredida por su pareja en el interior de Corrientes",
-      "volanta": "SE AGRAVÓ SU ESTADO",
-      "date": "2026-08-17T23:11:07+00:00"
     }
   ]
 }
