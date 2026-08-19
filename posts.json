@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T14:42:44+00:00",
+  "updated": "2026-08-19T14:53:09+00:00",
   "posts": [
+    {
+      "id": "db5c6a77",
+      "image": "img/db5c6a77.png",
+      "image_sha": "3977df1caa64d3cf9d56a7b8f18c2fa778de6294",
+      "url": "https://www.radiodos.com.ar/212508-san-martin-inauguro-su-cancha-principal",
+      "title": "San Martín inauguró su cancha principal",
+      "volanta": "FORTÍN ROJINEGRO",
+      "date": "2026-08-19T14:53:09+00:00"
+    },
     {
       "id": "aed55187",
       "image": "img/aed55187.png",
@@ -531,15 +540,6 @@
       "title": "Volcó un colectivo por Ruta 14 entre Alvear y Santo Tomé: una persona fallecida y heridos",
       "volanta": "OTRA TRAGEDIA",
       "date": "2026-08-17T11:49:01+00:00"
-    },
-    {
-      "id": "16c10691",
-      "image": "img/16c10691.png",
-      "image_sha": "7e18be3b0283646a63e1caa177e5787a623da025",
-      "url": "https://www.radiodos.com.ar/212374-leandro-paredes-descartado-en-boca-ante-recoleta-quien-lo-reemplaza-y-cuando-volveria",
-      "title": "Leandro Paredes, descartado en Boca ante Recoleta: quién lo reemplaza y cuándo volvería",
-      "volanta": "FÚTBOL",
-      "date": "2026-08-17T00:10:24+00:00"
     }
   ]
 }
