@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T20:59:07+00:00",
+  "updated": "2026-08-19T21:00:16+00:00",
   "posts": [
+    {
+      "id": "b0c470af",
+      "image": "img/b0c470af.png",
+      "image_sha": "32e086bfd76ce40533861d8557df51a34e37dd43",
+      "url": "https://www.radiodos.com.ar/212528-docentes-salvan-sus-vidas-tras-despistar-en-una-ruta-de-corrientes",
+      "title": "Docentes salvan sus vidas tras despistar en una ruta de Corrientes",
+      "volanta": "RUTA 126",
+      "date": "2026-08-19T21:00:16+00:00"
+    },
     {
       "id": "81c99d59",
       "image": "img/81c99d59.png",
@@ -531,15 +540,6 @@
       "title": "Oscar \"Chino\" García remarcó \"un buen balance\" de la Fiesta Nacional del Dorado",
       "volanta": "FIN DE SEMANA LARGO",
       "date": "2026-08-17T18:15:37+00:00"
-    },
-    {
-      "id": "081da217",
-      "image": "img/081da217.png",
-      "image_sha": "88934bda0778253d39bbefafe911d5e8e6bc0a50",
-      "url": "https://www.radiodos.com.ar/212410-de-que-murio-hayden-panettiere-la-actriz-de-heroes-nashville-y-scream",
-      "title": "De qué murió Hayden Panettiere, la actriz de \"Héroes\", \"Nashville\" y \"Scream\"",
-      "volanta": "DESPEDIDA",
-      "date": "2026-08-17T16:49:25+00:00"
     }
   ]
 }
