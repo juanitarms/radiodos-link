@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T11:34:45+00:00",
+  "updated": "2026-08-19T11:51:20+00:00",
   "posts": [
+    {
+      "id": "537d6ba3",
+      "image": "img/537d6ba3.png",
+      "image_sha": "1839f1863d6327c288fc8e18e8de35204eade0cf",
+      "url": "https://www.radiodos.com.ar/212487-mundial-de-pesca-analizan-ampliar-el-numero-de-equipos-en-la-fiesta-del-surubi",
+      "title": "Mundial de Pesca: analizan ampliar el número de equipos en la Fiesta del Surubí",
+      "volanta": "GOYA",
+      "date": "2026-08-19T11:51:20+00:00"
+    },
     {
       "id": "12d4965d",
       "image": "img/12d4965d.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian que el Gobierno Nacional retiene $1,1 billones de fondos viales en plazos fijos mientras se multiplican los accidentes en rutas de todo el país",
       "volanta": "RUTAS MORTALES",
       "date": "2026-08-16T17:45:25+00:00"
-    },
-    {
-      "id": "a2cc6836",
-      "image": "img/a2cc6836.png",
-      "image_sha": "c14493f275339b0f1961acd576374da557db663b",
-      "url": "https://www.radiodos.com.ar/212369-yamandu-barrios-de-cada-10-accidentes-de-transito-en-al-menos-8-participan-motos",
-      "title": "Yamandú Barrios: \"De cada 10 accidentes de tránsito, en al menos 8 participan motos\"",
-      "volanta": "LO BUENO, LO MALO Y LO FEO",
-      "date": "2026-08-16T16:40:45+00:00"
     }
   ]
 }
