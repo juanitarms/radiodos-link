@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T13:17:00+00:00",
+  "updated": "2026-08-19T13:32:52+00:00",
   "posts": [
+    {
+      "id": "86e4c5cc",
+      "image": "img/86e4c5cc.png",
+      "image_sha": "238ccecc776cba84d77adf2f247dfcd76fd876d9",
+      "url": "https://www.radiodos.com.ar/212496-detienen-a-un-sargento-de-la-policia-de-corrientes-acusado-de-intentar-estrangular-a-su-pareja",
+      "title": "Detienen a un sargento de la Policía de Corrientes acusado de intentar estrangular a su pareja",
+      "volanta": "VIOLENCIA DE GÉNERO",
+      "date": "2026-08-19T13:32:52+00:00"
+    },
     {
       "id": "49ecaba5",
       "image": "img/49ecaba5.png",
@@ -531,15 +540,6 @@
       "title": "Trump dijo que \"pronto\" declarará el estrecho de Ormuz como territorio de Estados Unidos",
       "volanta": "Conflicto",
       "date": "2026-08-16T22:11:56+00:00"
-    },
-    {
-      "id": "1e976907",
-      "image": "img/1e976907.png",
-      "image_sha": "688a71e1042f4e65a8ecad18e634ca2ac72f6de1",
-      "url": "https://www.radiodos.com.ar/212327-el-correntino-romero-fue-presentado-como-nuevo-jugador-de-parma",
-      "title": "El correntino Romero fue presentado como nuevo jugador de Parma",
-      "volanta": "Mercado de pases",
-      "date": "2026-08-16T21:19:15+00:00"
     }
   ]
 }
