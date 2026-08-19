@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-18T23:28:23+00:00",
+  "updated": "2026-08-19T10:33:32+00:00",
   "posts": [
+    {
+      "id": "2ed150b1",
+      "image": "img/2ed150b1.png",
+      "image_sha": "310a84cff7df8fd03ec09af1a012a4db5dc2212f",
+      "url": "https://www.radiodos.com.ar/212483-juicio-por-la-desaparicion-de-loan-pena-declaran-cuatro-testigos",
+      "title": "Juicio por la desaparición de Loan Peña: declaran cuatro testigos",
+      "volanta": "AUDIENCIA DE HOY",
+      "date": "2026-08-19T10:33:32+00:00"
+    },
     {
       "id": "7d77afdc",
       "image": "img/7d77afdc.png",
@@ -531,15 +540,6 @@
       "title": "Infancias: uno de cada cinco menores en el mundo vive en zona de conflicto",
       "volanta": "ACNUR",
       "date": "2026-08-16T13:50:07+00:00"
-    },
-    {
-      "id": "e2bdda67",
-      "image": "img/e2bdda67.png",
-      "image_sha": "c1686464e36b8e6d7df147f11d75e4c0d3af3723",
-      "url": "https://www.radiodos.com.ar/212360-escracharon-al-influencer-laureano-gieco-por-violento-y-narcisista",
-      "title": "Escracharon al influencer Laureano Gieco por violento y narcisista",
-      "volanta": "LO MÁS VIRAL",
-      "date": "2026-08-16T13:08:26+00:00"
     }
   ]
 }
