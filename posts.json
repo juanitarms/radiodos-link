@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T15:08:22+00:00",
+  "updated": "2026-08-19T16:44:46+00:00",
   "posts": [
+    {
+      "id": "28402173",
+      "image": "img/28402173.png",
+      "image_sha": "632ec2671c025faa8bc5a04563e404690c019220",
+      "url": "https://www.radiodos.com.ar/212512-galarza-florentin-reitero-llamado-al-dialogo-comienza-una-nueva-etapa-en-mburucuya",
+      "title": "Galarza Florentín reiteró llamado al diálogo: \"Comienza una nueva etapa en Mburucuyá\"",
+      "volanta": "TRAS EL CONFLICTO",
+      "date": "2026-08-19T16:44:46+00:00"
+    },
     {
       "id": "fc5f2cf0",
       "image": "img/fc5f2cf0.png",
@@ -531,15 +540,6 @@
       "title": "En Yapeyú, el gobernador Juan Pablo Valdés destacó el legado del Padre de la Patria",
       "volanta": "176° aniversario del fallecimiento del libertador \"general san martÍn\"",
       "date": "2026-08-17T12:04:59+00:00"
-    },
-    {
-      "id": "c0a2f469",
-      "image": "img/c0a2f469.png",
-      "image_sha": "b79aa1e162f4b59c8ba9ac886f8141bc52be75b8",
-      "url": "https://www.radiodos.com.ar/212376-denuncian-que-una-cabo-de-la-policia-de-corrientes-termino-desfigurada-a-golpes-tras-fiesta-de-la-fuerza",
-      "title": "Denuncian que una Cabo de la Policía de Corrientes terminó desfigurada a golpes tras fiesta de la fuerza",
-      "volanta": "SALADAS",
-      "date": "2026-08-17T11:54:40+00:00"
     }
   ]
 }
