@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T20:54:47+00:00",
+  "updated": "2026-08-19T20:56:06+00:00",
   "posts": [
+    {
+      "id": "1352dcc7",
+      "image": "img/1352dcc7.png",
+      "image_sha": "1c4ce89cfb0d224176a5b0877901945bb1ea78a1",
+      "url": "https://www.radiodos.com.ar/212526-alerta-se-notificaron-77-nuevos-casos-sospechosos-de-dengue-en-todo-el-pais",
+      "title": "Alerta: se notificaron 77 nuevos casos sospechosos de dengue en todo el país",
+      "volanta": "A NIVELNACIONAL",
+      "date": "2026-08-19T20:56:06+00:00"
+    },
     {
       "id": "7210ec1b",
       "image": "img/7210ec1b.png",
@@ -531,15 +540,6 @@
       "title": "El sincericidio de Benjamín Vicuña sobre cómo maneja la distancia con sus hijos: \"No es cómodo, ni es lindo, ni es justo\"",
       "volanta": "A CORAZON ABIERTO",
       "date": "2026-08-17T15:20:03+00:00"
-    },
-    {
-      "id": "77fa79d8",
-      "image": "img/77fa79d8.png",
-      "image_sha": "aaa68c81fe1762cab8336f4974bf272fa5b972ef",
-      "url": "https://www.radiodos.com.ar/212408-mirtha-legrand-recordo-su-vinculo-con-la-familia-messi-y-conto-una-intima-charla-con-jorge-antes-de-su-muerte",
-      "title": "Mirtha Legrand recordó su vínculo con la familia Messi y contó una íntima charla con Jorge antes de su muerte",
-      "volanta": "Muy cercana",
-      "date": "2026-08-17T14:43:22+00:00"
     }
   ]
 }
