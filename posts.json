@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T21:43:57+00:00",
+  "updated": "2026-08-19T21:45:52+00:00",
   "posts": [
+    {
+      "id": "81feee1e",
+      "image": "img/81feee1e.png",
+      "image_sha": "e4a52aba69cf49ec099136b9b4557be20809ad4e",
+      "url": "https://www.radiodos.com.ar/212531-el-nea-es-la-segunda-region-del-pais-con-mayor-inflacion-en-alquiler-de-vivienda",
+      "title": "El NEA es la segunda región del país con mayor inflación en alquiler de vivienda",
+      "volanta": "ESCALADA DE PRECIOS",
+      "date": "2026-08-19T21:45:52+00:00"
+    },
     {
       "id": "a7f79bf9",
       "image": "img/a7f79bf9.png",
@@ -531,15 +540,6 @@
       "title": "Colocaron tobillera electrónica a un hombre denunciado por violencia familiar en Corrientes",
       "volanta": "BARRIO DR MONTAÑA",
       "date": "2026-08-17T21:05:33+00:00"
-    },
-    {
-      "id": "eb849ae8",
-      "image": "img/eb849ae8.png",
-      "image_sha": "2560d17f96ff2d84dc2af46a84cc215c0be554f5",
-      "url": "https://www.radiodos.com.ar/212413-en-distintos-operativos-detuvieron-a-cuatro-personas-secuestraron-varias-motos-y-recuperaron-diferentes-elementos",
-      "title": "En distintos operativos detuvieron a cuatro personas, secuestraron varias motos y recuperaron diferentes elementos",
-      "volanta": "PASO DE LA PATRIA",
-      "date": "2026-08-17T19:29:39+00:00"
     }
   ]
 }
