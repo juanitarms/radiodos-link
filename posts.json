@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T20:56:06+00:00",
+  "updated": "2026-08-19T20:58:29+00:00",
   "posts": [
+    {
+      "id": "3156c8f9",
+      "image": "img/3156c8f9.png",
+      "image_sha": "d73093013919e8b027a97b93a0021968e7b530a7",
+      "url": "https://www.radiodos.com.ar/212525-monteoliva-reconocio-que-subio-la-tasa-de-suicidios-en-las-fuerzas-y-que-uno-de-los-motivos-es-el-endeudamiento",
+      "title": "Monteoliva reconoció que subió la tasa de suicidios en las Fuerzas y que uno de los motivos es el endeudamiento",
+      "volanta": "Ministra de seguridad",
+      "date": "2026-08-19T20:58:29+00:00"
+    },
     {
       "id": "1352dcc7",
       "image": "img/1352dcc7.png",
@@ -531,15 +540,6 @@
       "title": "Romina Gaetani y una contundene reflexión tras ser víctima de violencia: \"No te acostumbrás\"",
       "volanta": "SINCERA",
       "date": "2026-08-17T16:48:44+00:00"
-    },
-    {
-      "id": "c481ab80",
-      "image": "img/c481ab80.png",
-      "image_sha": "b064e29b1a7a6a1949dae868306dda1a6025a590",
-      "url": "https://www.radiodos.com.ar/212407-el-sincericidio-de-benjamin-vicuna-sobre-como-maneja-la-distancia-con-sus-hijos-no-es-comodo-ni-es-lindo-ni-es-justo",
-      "title": "El sincericidio de Benjamín Vicuña sobre cómo maneja la distancia con sus hijos: \"No es cómodo, ni es lindo, ni es justo\"",
-      "volanta": "A CORAZON ABIERTO",
-      "date": "2026-08-17T15:20:03+00:00"
     }
   ]
 }
