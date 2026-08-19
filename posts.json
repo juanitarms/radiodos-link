@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T21:45:52+00:00",
+  "updated": "2026-08-19T22:36:36+00:00",
   "posts": [
+    {
+      "id": "b8dcb1e5",
+      "image": "img/b8dcb1e5.png",
+      "image_sha": "9b9392867dd52403a3a77c323b284683da70c0a8",
+      "url": "https://www.radiodos.com.ar/212535-corrientes-lleva-al-interior-un-ciclo-de-charlas-para-preparar-a-los-productores-ante-el-exceso-hidrico",
+      "title": "Corrientes lleva al interior un ciclo de charlas para preparar a los productores ante el exceso hídrico",
+      "volanta": "PREVENCIÓN ANTE EL NIÑO",
+      "date": "2026-08-19T22:36:36+00:00"
+    },
     {
       "id": "81feee1e",
       "image": "img/81feee1e.png",
@@ -531,15 +540,6 @@
       "title": "El intendente Polich llamó a transformar el legado de San Martín en compromiso para el presente",
       "volanta": "ACTO DEL 17 DE AGOSTO EN CAPITAL",
       "date": "2026-08-17T21:55:34+00:00"
-    },
-    {
-      "id": "871e0e67",
-      "image": "img/871e0e67.png",
-      "image_sha": "a41782ba240914ea31dececc80ca19cb317e87ae",
-      "url": "https://www.radiodos.com.ar/212414-colocaron-tobillera-electronica-a-un-hombre-denunciado-por-violencia-familiar-en-corrientes",
-      "title": "Colocaron tobillera electrónica a un hombre denunciado por violencia familiar en Corrientes",
-      "volanta": "BARRIO DR MONTAÑA",
-      "date": "2026-08-17T21:05:33+00:00"
     }
   ]
 }
