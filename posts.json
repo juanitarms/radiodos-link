@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T16:44:46+00:00",
+  "updated": "2026-08-19T16:45:20+00:00",
   "posts": [
+    {
+      "id": "1e99073c",
+      "image": "img/1e99073c.png",
+      "image_sha": "2dc3d97e4ea867b09dcff1661c3aeb71012a044d",
+      "url": "https://www.radiodos.com.ar/212511-tras-cuatro-allanamientos-demoraron-a-tres-personas-y-secuestraron-diversos-elementos",
+      "title": "Tras cuatro allanamientos, demoraron a tres personas y secuestraron diversos elementos",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-08-19T16:45:20+00:00"
+    },
     {
       "id": "28402173",
       "image": "img/28402173.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes inicia una etapa experimental con 1.000 hectáreas de maíz para definir su potencial por zona",
       "volanta": "PROGRAMA PROVINCIAL",
       "date": "2026-08-17T12:26:36+00:00"
-    },
-    {
-      "id": "cd8c7d88",
-      "image": "img/cd8c7d88.png",
-      "image_sha": "272b7b357ab4eca492bc7280fb6ca1adf1b3f34b",
-      "url": "https://www.radiodos.com.ar/212378-en-yapeyu-el-gobernador-juan-pablo-valdes-destaco-el-legado-del-padre-de-la-patria-",
-      "title": "En Yapeyú, el gobernador Juan Pablo Valdés destacó el legado del Padre de la Patria",
-      "volanta": "176° aniversario del fallecimiento del libertador \"general san martÍn\"",
-      "date": "2026-08-17T12:04:59+00:00"
     }
   ]
 }
