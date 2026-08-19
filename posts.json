@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T10:33:32+00:00",
+  "updated": "2026-08-19T11:20:17+00:00",
   "posts": [
+    {
+      "id": "6345841d",
+      "image": "img/6345841d.png",
+      "image_sha": "9448b00d23d3aee3a800d8b6df28d7bebf315c36",
+      "url": "https://www.radiodos.com.ar/212484-corrientes-emiten-alerta-amarilla-por-tormentas-en-todo-el-territorio-provincial",
+      "title": "Corrientes: emiten alerta Amarilla por tormentas en todo el territorio provincial",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-08-19T11:20:17+00:00"
+    },
     {
       "id": "2ed150b1",
       "image": "img/2ed150b1.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia en Santa Lucía: un motociclista murió tras chocar contra un caballo",
       "volanta": "CORRIENTES",
       "date": "2026-08-16T15:10:07+00:00"
-    },
-    {
-      "id": "1d123577",
-      "image": "img/1d123577.png",
-      "image_sha": "d11f4ee9df8353e0da9e6747fce82799e3b75e53",
-      "url": "https://www.radiodos.com.ar/212365-infancias-uno-de-cada-cinco-menores-en-el-mundo-vive-en-zona-de-conflicto",
-      "title": "Infancias: uno de cada cinco menores en el mundo vive en zona de conflicto",
-      "volanta": "ACNUR",
-      "date": "2026-08-16T13:50:07+00:00"
     }
   ]
 }
