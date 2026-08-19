@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T12:25:21+00:00",
+  "updated": "2026-08-19T12:49:00+00:00",
   "posts": [
+    {
+      "id": "f1c4312a",
+      "image": "img/f1c4312a.png",
+      "image_sha": "eff3d0c9e0e67bbfd7402d8416bf8830a5f438b5",
+      "url": "https://www.radiodos.com.ar/212491-condenaron-a-una-mujer-por-estafar-a-una-amiga-mediante-creditos-y-operaciones-bancarias",
+      "title": "Condenaron a una mujer por estafar a una amiga mediante créditos y operaciones bancarias",
+      "volanta": "MERCEDES",
+      "date": "2026-08-19T12:49:00+00:00"
+    },
     {
       "id": "75f3776b",
       "image": "img/75f3776b.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó la segunda etapa de obras en la Basílica de Itatí y clausuran temporalmente el acceso central",
       "volanta": "OBRAS",
       "date": "2026-08-16T21:18:40+00:00"
-    },
-    {
-      "id": "814017a4",
-      "image": "img/814017a4.png",
-      "image_sha": "205f4715bbe510856d9cd0557daac4f1d75439c3",
-      "url": "https://www.radiodos.com.ar/212323-premian-a-cientifica-de-la-unne-por-estudiar-enfermedades-zoonoticas",
-      "title": "Premian a científica de la UNNE por estudiar enfermedades zoonóticas",
-      "volanta": "CIENCIA",
-      "date": "2026-08-16T17:46:07+00:00"
     }
   ]
 }
