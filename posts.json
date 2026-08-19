@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T18:46:36+00:00",
+  "updated": "2026-08-19T18:47:13+00:00",
   "posts": [
+    {
+      "id": "637c95b5",
+      "image": "img/637c95b5.png",
+      "image_sha": "823b28279440b1d25ca6e8b45576b41000e92403",
+      "url": "https://www.radiodos.com.ar/212523-gabriel-rabinovich-recibira-el-titulo-doctor-honoris-causa-de-la-unne",
+      "title": "Gabriel Rabinovich recibirá el título Doctor Honoris Causa de la UNNE",
+      "volanta": "ESTE 20 DE AGOSTO",
+      "date": "2026-08-19T18:47:13+00:00"
+    },
     {
       "id": "8c92adce",
       "image": "img/8c92adce.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: policías salvaron a una cría de mono carayá que cayó desde un árbol",
       "volanta": "PRIAR",
       "date": "2026-08-17T13:48:49+00:00"
-    },
-    {
-      "id": "0a0945b7",
-      "image": "img/0a0945b7.png",
-      "image_sha": "fe38e18c317995f0e8329d2683dc6853ed2a3ccd",
-      "url": "https://www.radiodos.com.ar/212379-costanera-la-obra-frente-al-puerto-de-corrientes-busca-ordenar-el-transito-y-reforzar-la-seguridad-vial",
-      "title": "Costanera: la obra frente al Puerto de Corrientes busca ordenar el tránsito y reforzar la seguridad vial",
-      "volanta": "SEGURIDAD VIAL Y ORDENAMIENTO URBANO",
-      "date": "2026-08-17T13:35:24+00:00"
     }
   ]
 }
