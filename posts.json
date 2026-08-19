@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T21:00:16+00:00",
+  "updated": "2026-08-19T21:43:57+00:00",
   "posts": [
+    {
+      "id": "a7f79bf9",
+      "image": "img/a7f79bf9.png",
+      "image_sha": "9a4dc827a702c09422d12155f8dca06e6d788cc0",
+      "url": "https://www.radiodos.com.ar/212530-juicio-por-loan-se-pospuso-la-declaracion-de-ramon-dupuy-y-la-misma-sera-presencial",
+      "title": "Juicio por Loan: se pospuso la declaración de Ramón Dupuy y la misma será presencial",
+      "volanta": "POR JUSTICIA",
+      "date": "2026-08-19T21:43:57+00:00"
+    },
     {
       "id": "b0c470af",
       "image": "img/b0c470af.png",
@@ -531,15 +540,6 @@
       "title": "En distintos operativos detuvieron a cuatro personas, secuestraron varias motos y recuperaron diferentes elementos",
       "volanta": "PASO DE LA PATRIA",
       "date": "2026-08-17T19:29:39+00:00"
-    },
-    {
-      "id": "f69095e5",
-      "image": "img/f69095e5.png",
-      "image_sha": "411b24613dba9e15de43893b96cb267adb03496d",
-      "url": "https://www.radiodos.com.ar/212412-oscar-chino-garcia-remarco-un-buen-balance-de-la-fiesta-nacional-del-dorado",
-      "title": "Oscar \"Chino\" García remarcó \"un buen balance\" de la Fiesta Nacional del Dorado",
-      "volanta": "FIN DE SEMANA LARGO",
-      "date": "2026-08-17T18:15:37+00:00"
     }
   ]
 }
