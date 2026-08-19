@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T16:45:20+00:00",
+  "updated": "2026-08-19T18:02:31+00:00",
   "posts": [
+    {
+      "id": "e4b4de81",
+      "image": "img/e4b4de81.png",
+      "image_sha": "848449724a5f6b338198682d1b4eec13870519cd",
+      "url": "https://www.radiodos.com.ar/212513-denunciaron-a-un-chofer-de-la-linea-129-por-hablar-por-celular-y-comer-pizza-mientras-conducia",
+      "title": "Denunciaron a un chofer de la línea 129 por hablar por celular y comer pizza mientras conducía",
+      "volanta": "LA PLATA",
+      "date": "2026-08-19T18:02:31+00:00"
+    },
     {
       "id": "1e99073c",
       "image": "img/1e99073c.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno inicia los preparativos para la visita del papa León XIV en noviembre",
       "volanta": "GIRA",
       "date": "2026-08-17T12:49:50+00:00"
-    },
-    {
-      "id": "3965e7df",
-      "image": "img/3965e7df.png",
-      "image_sha": "d113486fa1a8c26e00814b4ff242266b91682aa1",
-      "url": "https://www.radiodos.com.ar/212382-corrientes-inicia-una-etapa-experimental-con-1000-hectareas-de-maiz-para-definir-su-potencial-por-zona",
-      "title": "Corrientes inicia una etapa experimental con 1.000 hectáreas de maíz para definir su potencial por zona",
-      "volanta": "PROGRAMA PROVINCIAL",
-      "date": "2026-08-17T12:26:36+00:00"
     }
   ]
 }
