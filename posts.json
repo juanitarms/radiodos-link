@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T11:20:17+00:00",
+  "updated": "2026-08-19T11:34:45+00:00",
   "posts": [
+    {
+      "id": "12d4965d",
+      "image": "img/12d4965d.png",
+      "image_sha": "184b2cfc5328977dff57f4990b39c66a12b4389f",
+      "url": "https://www.radiodos.com.ar/212486-embarcadizo-oriundo-de-corrientes-cayo-al-mar-y-fue-rescatado-de-milagro",
+      "title": "Embarcadizo oriundo de Corrientes cayó al mar y fue rescatado de milagro",
+      "volanta": "PUERTO DESEADO",
+      "date": "2026-08-19T11:34:45+00:00"
+    },
     {
       "id": "6345841d",
       "image": "img/6345841d.png",
@@ -531,15 +540,6 @@
       "title": "Yamandú Barrios: \"De cada 10 accidentes de tránsito, en al menos 8 participan motos\"",
       "volanta": "LO BUENO, LO MALO Y LO FEO",
       "date": "2026-08-16T16:40:45+00:00"
-    },
-    {
-      "id": "8854e1f6",
-      "image": "img/8854e1f6.png",
-      "image_sha": "a797bc82ac1b75fe15c4ee640d1895bb068681c2",
-      "url": "https://www.radiodos.com.ar/212366-tragedia-en-santa-lucia-un-motociclista-murio-tras-chocar-contra-un-caballo",
-      "title": "Tragedia en Santa Lucía: un motociclista murió tras chocar contra un caballo",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-16T15:10:07+00:00"
     }
   ]
 }
