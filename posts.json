@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T13:32:52+00:00",
+  "updated": "2026-08-19T14:02:24+00:00",
   "posts": [
+    {
+      "id": "1718fb2e",
+      "image": "img/1718fb2e.png",
+      "image_sha": "009fb703eca15d41616c46692e6504429cc0b331",
+      "url": "https://www.radiodos.com.ar/212492-la-municipalidad-de-corrientes-avanza-con-obras-de-bacheo-y-enripiado-en-distintos-barrios-de-la-capital",
+      "title": "La Municipalidad de Corrientes avanza con obras de bacheo y enripiado en distintos barrios de la Capital",
+      "volanta": "OBRAS",
+      "date": "2026-08-19T14:02:24+00:00"
+    },
     {
       "id": "86e4c5cc",
       "image": "img/86e4c5cc.png",
@@ -531,15 +540,6 @@
       "title": "En el campus de la UNNe detectaron un murciélago con rabia",
       "volanta": "ALERTA",
       "date": "2026-08-16T22:12:31+00:00"
-    },
-    {
-      "id": "35ba00da",
-      "image": "img/35ba00da.png",
-      "image_sha": "79ffe594c43caf60e0676d10e0096b3153208d97",
-      "url": "https://www.radiodos.com.ar/212328-trump-dijo-que-pronto-declarara-el-estrecho-de-ormuz-como-territorio-de-estados-unidos",
-      "title": "Trump dijo que \"pronto\" declarará el estrecho de Ormuz como territorio de Estados Unidos",
-      "volanta": "Conflicto",
-      "date": "2026-08-16T22:11:56+00:00"
     }
   ]
 }
