@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T14:53:09+00:00",
+  "updated": "2026-08-19T15:08:22+00:00",
   "posts": [
+    {
+      "id": "fc5f2cf0",
+      "image": "img/fc5f2cf0.png",
+      "image_sha": "2a3a32971d97aef68f5b224c2cfd03d277fbd85a",
+      "url": "https://www.radiodos.com.ar/212509-buscan-a-un-adolescente-que-no-volvio-a-su-casa-del-barrio-punta-taitalo",
+      "title": "Buscan a un adolescente que no volvió a su casa del barrio Punta Taitalo",
+      "volanta": "COMISARIA SEGUNDA DE LA MUJER Y EL MENOR",
+      "date": "2026-08-19T15:08:22+00:00"
+    },
     {
       "id": "db5c6a77",
       "image": "img/db5c6a77.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian que una Cabo de la Policía de Corrientes terminó desfigurada a golpes tras fiesta de la fuerza",
       "volanta": "SALADAS",
       "date": "2026-08-17T11:54:40+00:00"
-    },
-    {
-      "id": "6f3a116f",
-      "image": "img/6f3a116f.png",
-      "image_sha": "45f5665d3826d615f0b4e3b220dd2a0bb465d5f5",
-      "url": "https://www.radiodos.com.ar/212377-volco-un-colectivo-por-ruta-14-entre-alvear-y-santo-tome-una-persona-fallecida-y-heridos",
-      "title": "Volcó un colectivo por Ruta 14 entre Alvear y Santo Tomé: una persona fallecida y heridos",
-      "volanta": "OTRA TRAGEDIA",
-      "date": "2026-08-17T11:49:01+00:00"
     }
   ]
 }
