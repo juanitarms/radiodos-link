@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T18:47:13+00:00",
+  "updated": "2026-08-19T18:47:46+00:00",
   "posts": [
+    {
+      "id": "c650323a",
+      "image": "img/c650323a.png",
+      "image_sha": "8f8df24e86f8d1f6bd0470244d0f86bdde603f82",
+      "url": "https://www.radiodos.com.ar/212524-la-camara-de-diputados-sanciono-la-ley-de-capacitacion-en-rcp-para-salvar-vidas-",
+      "title": "La Cámara de Diputados sancionó la ley de Capacitación en RCP para salvar vidas",
+      "volanta": "Sesión 13",
+      "date": "2026-08-19T18:47:46+00:00"
+    },
     {
       "id": "637c95b5",
       "image": "img/637c95b5.png",
@@ -531,15 +540,6 @@
       "title": "Un correntino ganó mil cien millones de pesos en el Quini 6",
       "volanta": "AFORTUNADO",
       "date": "2026-08-17T14:18:58+00:00"
-    },
-    {
-      "id": "ebe4a384",
-      "image": "img/ebe4a384.png",
-      "image_sha": "6ec588f8a462bb8b3d542969feb18575162a0fbe",
-      "url": "https://www.radiodos.com.ar/212380-corrientes-policias-salvaron-a-una-cria-de-mono-caraya-que-cayo-desde-un-arbol",
-      "title": "Corrientes: policías salvaron a una cría de mono carayá que cayó desde un árbol",
-      "volanta": "PRIAR",
-      "date": "2026-08-17T13:48:49+00:00"
     }
   ]
 }
