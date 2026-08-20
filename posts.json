@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T20:47:42+00:00",
+  "updated": "2026-08-20T21:09:49+00:00",
   "posts": [
+    {
+      "id": "0a31ae85",
+      "image": "img/0a31ae85.png",
+      "image_sha": "b13358c744a929e37040b72232b18e4bc21fca14",
+      "url": "https://www.radiodos.com.ar/212584-semana-del-arbol-el-municipio-de-corrientes-prepara-actividades-de-plantacion-educacion-y-concientizacion",
+      "title": "Semana del Árbol: el Municipio de Corrientes prepara actividades de plantación, educación y concientización",
+      "volanta": "EDUCACIÓN AMBIENTAL EN LA CIUDAD",
+      "date": "2026-08-20T21:09:49+00:00"
+    },
     {
       "id": "ea0eee4a",
       "image": "img/ea0eee4a.png",
@@ -531,15 +540,6 @@
       "title": "El 60% de los argentinos agota sus ingresos antes del día 20",
       "volanta": "CRISIS",
       "date": "2026-08-18T22:36:08+00:00"
-    },
-    {
-      "id": "f6743eba",
-      "image": "img/f6743eba.png",
-      "image_sha": "136b39d3e1ffc4a130a08f004acc5dc555347ed7",
-      "url": "https://www.radiodos.com.ar/212475-jefe-de-la-policia-de-corrientes-por-violencia-de-genero-en-saladas-no-toleraremos-estas-conductas",
-      "title": "Jefe de la Policía de Corrientes, por violencia de género en Saladas: \"No toleraremos éstas conductas\"",
-      "volanta": "RÁPIDA DECISIÓN",
-      "date": "2026-08-18T22:34:50+00:00"
     }
   ]
 }
