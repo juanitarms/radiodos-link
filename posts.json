@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T21:23:13+00:00",
+  "updated": "2026-08-20T21:23:46+00:00",
   "posts": [
+    {
+      "id": "e2491383",
+      "image": "img/e2491383.png",
+      "image_sha": "2268df4a2e5496699061706950222acfb9c087fb",
+      "url": "https://www.radiodos.com.ar/212586-los-correntinos-ya-conocen-sus-zonas-y-fixtures-para-el-torneo-regional",
+      "title": "Los correntinos ya conocen sus zonas y fixtures  para el Torneo Regional",
+      "volanta": "FUTBOL DE ASCENSO",
+      "date": "2026-08-20T21:23:46+00:00"
+    },
     {
       "id": "8a2cdce6",
       "image": "img/8a2cdce6.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición de Loan Peña: declaran cuatro testigos",
       "volanta": "AUDIENCIA DE HOY",
       "date": "2026-08-19T10:33:32+00:00"
-    },
-    {
-      "id": "7d77afdc",
-      "image": "img/7d77afdc.png",
-      "image_sha": "dfcca958ab3f2287c4014083fc3aff7e7af7d625",
-      "url": "https://www.radiodos.com.ar/212479-toto-caputo-acordo-con-valdes-y-otros-gobernadores-del-norte-un-nuevo-esquema-de-subsidios-a-la-electricidad",
-      "title": "Toto Caputo acordó con Valdés y otros gobernadores del norte un nuevo esquema de subsidios a la electricidad",
-      "volanta": "ESTA TARDE",
-      "date": "2026-08-18T23:28:23+00:00"
     }
   ]
 }
