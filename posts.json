@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T18:46:26+00:00",
+  "updated": "2026-08-20T18:46:59+00:00",
   "posts": [
+    {
+      "id": "7cb3aad0",
+      "image": "img/7cb3aad0.png",
+      "image_sha": "cc135a12fb181bb9aa4095e6978888ed4cdc1b41",
+      "url": "https://www.radiodos.com.ar/212579-el-senado-aprobo-tres-leyes-avanzo-con-nuevos-proyectos-y-distinguio-a-una-joven-profesional",
+      "title": "El Senado aprobó tres leyes, avanzó con nuevos proyectos y distinguió a una joven profesional",
+      "volanta": "9° SESIÓN ORDINARIA",
+      "date": "2026-08-20T18:46:59+00:00"
+    },
     {
       "id": "97eaca39",
       "image": "img/97eaca39.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron un auto calcinado: sería el vehículo utilizado para el robo millonario en el Cambá Cuá",
       "volanta": "CORRIENTES",
       "date": "2026-08-18T22:33:11+00:00"
-    },
-    {
-      "id": "8591b968",
-      "image": "img/8591b968.png",
-      "image_sha": "8828df00740828c97c1bcf220cf10fc643415534",
-      "url": "https://www.radiodos.com.ar/212468-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-08-18T22:04:06+00:00"
     }
   ]
 }
