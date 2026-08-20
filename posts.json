@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T17:07:39+00:00",
+  "updated": "2026-08-20T17:08:13+00:00",
   "posts": [
+    {
+      "id": "e1f0f52c",
+      "image": "img/e1f0f52c.png",
+      "image_sha": "e69cadf330d450b8abe2d1ada8ab13efae207832",
+      "url": "https://www.radiodos.com.ar/212565-conmocion-en-santa-fe-encontraron-muerto-a-un-nene-de-6-anos-y-detuvieron-a-su-madre",
+      "title": "Conmoción en Santa Fe: encontraron muerto a un nene de 6 años y detuvieron a su madre",
+      "volanta": "CAUSA ABIERTA",
+      "date": "2026-08-20T17:08:13+00:00"
+    },
     {
       "id": "63a73040",
       "image": "img/63a73040.png",
@@ -531,15 +540,6 @@
       "title": "El plan de Corrientes para dejar de ser solo un productor de materia prima",
       "volanta": "POLO INDUSTRIAL",
       "date": "2026-08-18T21:13:25+00:00"
-    },
-    {
-      "id": "28874e2f",
-      "image": "img/28874e2f.png",
-      "image_sha": "8603784b1ca6ee1d6716f7f30b9a3d03fb6b1bc0",
-      "url": "https://www.radiodos.com.ar/212461-ya-son-dos-los-muertos-por-el-vuelco-tragico-sobre-ruta-14",
-      "title": "Ya son dos los muertos por el vuelco trágico sobre ruta 14",
-      "volanta": "CORRIENTE",
-      "date": "2026-08-18T20:45:40+00:00"
     }
   ]
 }
