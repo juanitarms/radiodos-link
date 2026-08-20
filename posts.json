@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T18:47:32+00:00",
+  "updated": "2026-08-20T20:47:42+00:00",
   "posts": [
+    {
+      "id": "ea0eee4a",
+      "image": "img/ea0eee4a.png",
+      "image_sha": "7c1eaf0c99ea67cc3fe6733d04a285d85cc80065",
+      "url": "https://www.radiodos.com.ar/212581-milagro-en-el-rio-parana-malloneros-rescataron-a-un-sujeto-que-se-arrojo-desde-el-puente-general-belgrano",
+      "title": "Milagro en el río Paraná: malloneros rescataron a un sujeto que se arrojó desde el puente General Belgrano",
+      "volanta": "ALERTA",
+      "date": "2026-08-20T20:47:42+00:00"
+    },
     {
       "id": "fd089f7b",
       "image": "img/fd089f7b.png",
@@ -531,15 +540,6 @@
       "title": "Jefe de la Policía de Corrientes, por violencia de género en Saladas: \"No toleraremos éstas conductas\"",
       "volanta": "RÁPIDA DECISIÓN",
       "date": "2026-08-18T22:34:50+00:00"
-    },
-    {
-      "id": "4c42f2f8",
-      "image": "img/4c42f2f8.png",
-      "image_sha": "ea693838dc9a54ddc9efec23c743976dc8c8ef58",
-      "url": "https://www.radiodos.com.ar/212471-criar-y-sostener-a-un-hijo-la-canasta-de-crianza-llego-hasta-casi-700000-en-julio",
-      "title": "Criar y sostener a un hijo: la canasta de crianza llegó hasta casi $700.000 en julio",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-08-18T22:34:19+00:00"
     }
   ]
 }
