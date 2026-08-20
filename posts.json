@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T17:08:13+00:00",
+  "updated": "2026-08-20T17:08:47+00:00",
   "posts": [
+    {
+      "id": "c7f7053f",
+      "image": "img/c7f7053f.png",
+      "image_sha": "9066b159a73430536b2631e5b11c2d4a077ab696",
+      "url": "https://www.radiodos.com.ar/212569-descarrilo-un-tren-de-carga-en-mendoza-y-el-maquinista-denuncio-haber-visto-una-fogata-junto-a-las-vias",
+      "title": "Descarriló un tren de carga en Mendoza y el maquinista denunció haber visto una fogata junto a las vías",
+      "volanta": "ADVERTENCIA",
+      "date": "2026-08-20T17:08:47+00:00"
+    },
     {
       "id": "e1f0f52c",
       "image": "img/e1f0f52c.png",
@@ -531,15 +540,6 @@
       "title": "Investigan las causas del fallecimiento de un hombre hallado junto a su bicicleta",
       "volanta": "SOBRE RUTA 118",
       "date": "2026-08-18T21:13:57+00:00"
-    },
-    {
-      "id": "18ed6401",
-      "image": "img/18ed6401.png",
-      "image_sha": "a691390696c06017caf7cea55f440888b3f832d5",
-      "url": "https://www.radiodos.com.ar/212462-el-plan-de-corrientes-para-dejar-de-ser-solo-un-productor-de-materia-prima",
-      "title": "El plan de Corrientes para dejar de ser solo un productor de materia prima",
-      "volanta": "POLO INDUSTRIAL",
-      "date": "2026-08-18T21:13:25+00:00"
     }
   ]
 }
