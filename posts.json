@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T14:56:26+00:00",
+  "updated": "2026-08-20T15:20:11+00:00",
   "posts": [
+    {
+      "id": "37d391ac",
+      "image": "img/37d391ac.png",
+      "image_sha": "4ac501ee200a0b5e4fbf5ff26aa3be4f60590ab2",
+      "url": "https://www.radiodos.com.ar/212560-escuche-dos-gritos-desesperados-testimonio-de-un-vecino-en-el-juicio-por-loan",
+      "title": "\"Escuché dos gritos desesperados\": testimonio de un vecino en el juicio por Loan",
+      "volanta": "19° AUDIENCIA",
+      "date": "2026-08-20T15:20:11+00:00"
+    },
     {
       "id": "992906c4",
       "image": "img/992906c4.png",
@@ -531,15 +540,6 @@
       "title": "Declaran los policías que asistieron a Candela Arizaga tras su incidente con Facundo Moyano",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-18T18:48:46+00:00"
-    },
-    {
-      "id": "34e6042d",
-      "image": "img/34e6042d.png",
-      "image_sha": "a0ecbadafa6fb017c7bb8fc461f802be84ef34f5",
-      "url": "https://www.radiodos.com.ar/212434-tragedia-en-san-martin-de-los-andes-un-hombre-murio-tras-caer-con-su-auto-al-lago-lacar",
-      "title": "Tragedia en San Martín de Los Andes: un hombre murió tras caer con su auto al Lago Lácar",
-      "volanta": "NEUQUÉN",
-      "date": "2026-08-18T18:48:11+00:00"
     }
   ]
 }
