@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-19T22:41:44+00:00",
+  "updated": "2026-08-20T10:35:21+00:00",
   "posts": [
+    {
+      "id": "599b147c",
+      "image": "img/599b147c.png",
+      "image_sha": "58211f2eed146562dd886c66f6d8172c48dbf059",
+      "url": "https://www.radiodos.com.ar/212538-ladron-detenido-usaba-una-cadenita-que-habia-robado-dias-antes",
+      "title": "Ladrón detenido usaba una cadenita que había robado días antes",
+      "volanta": "Barrio Río Paraná",
+      "date": "2026-08-20T10:35:21+00:00"
+    },
     {
       "id": "659615ed",
       "image": "img/659615ed.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: investigan el caso de un agente de la Policía herido de un disparo",
       "volanta": "BARRIO SAN ANTONIO OESTE",
       "date": "2026-08-18T12:03:47+00:00"
-    },
-    {
-      "id": "5034a149",
-      "image": "img/5034a149.png",
-      "image_sha": "fa6ceac4657dd30d927cd34d9135bcd98e29b273",
-      "url": "https://www.radiodos.com.ar/212420-policia-agredida-abuso-de-un-jefe-policial-desato-la-furia-de-su-pareja-",
-      "title": "Policía agredida: abuso de un Jefe policial desató la furia de su pareja",
-      "volanta": "VIOLENCIA DE GÉNERO",
-      "date": "2026-08-18T11:03:46+00:00"
     }
   ]
 }
