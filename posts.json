@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T18:46:59+00:00",
+  "updated": "2026-08-20T18:47:32+00:00",
   "posts": [
+    {
+      "id": "fd089f7b",
+      "image": "img/fd089f7b.png",
+      "image_sha": "bfd6a26263fd2d0b0b99d176a371d8207906a3c3",
+      "url": "https://www.radiodos.com.ar/212578-santa-lucia-avanza-en-el-saneamiento-integral-del-basural-municipal-",
+      "title": "Santa Lucía avanza en el saneamiento integral del basural municipal",
+      "volanta": "GESTIÓN",
+      "date": "2026-08-20T18:47:32+00:00"
+    },
     {
       "id": "7cb3aad0",
       "image": "img/7cb3aad0.png",
@@ -531,15 +540,6 @@
       "title": "Criar y sostener a un hijo: la canasta de crianza llegó hasta casi $700.000 en julio",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-08-18T22:34:19+00:00"
-    },
-    {
-      "id": "f88d24a5",
-      "image": "img/f88d24a5.png",
-      "image_sha": "bcdc9fb74b49782c8767e9c552a34e38b3e06a9d",
-      "url": "https://www.radiodos.com.ar/212472-hallaron-un-auto-calcinado-seria-el-vehiculo-utilizado-para-el-robo-millonario-en-el-camba-cua",
-      "title": "Hallaron un auto calcinado: sería el vehículo utilizado para el robo millonario en el Cambá Cuá",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-18T22:33:11+00:00"
     }
   ]
 }
