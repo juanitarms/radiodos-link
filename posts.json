@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T17:52:32+00:00",
+  "updated": "2026-08-20T18:46:26+00:00",
   "posts": [
+    {
+      "id": "97eaca39",
+      "image": "img/97eaca39.png",
+      "image_sha": "8a237ba4e7fe0a253500687400a21801baac2022",
+      "url": "https://www.radiodos.com.ar/212580-franco-mendez-el-vinculo-con-san-martin-termino-en-buenos-terminos",
+      "title": "Franco Méndez: \"El vínculo con San Martín terminó en buenos términos\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-08-20T18:46:26+00:00"
+    },
     {
       "id": "2974bb26",
       "image": "img/2974bb26.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-08-18T22:04:06+00:00"
-    },
-    {
-      "id": "8ec017b5",
-      "image": "img/8ec017b5.png",
-      "image_sha": "eb8e65ff4376073497048d17de59ad12d805f77c",
-      "url": "https://www.radiodos.com.ar/212463-la-inflacion-mayorista-bajo-al-08-en-julio-y-acumula-una-suba-del-166-en-lo-que-va-del-ano",
-      "title": "La inflación mayorista bajó al 0,8% en julio y acumula una suba del 16,6% en lo que va del año",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-08-18T21:16:34+00:00"
     }
   ]
 }
