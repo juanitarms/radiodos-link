@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T22:33:49+00:00",
+  "updated": "2026-08-20T22:34:55+00:00",
   "posts": [
+    {
+      "id": "8b767f60",
+      "image": "img/8b767f60.png",
+      "image_sha": "a67347087ebf7247226170ee85e6fef67a813b14",
+      "url": "https://www.radiodos.com.ar/212590-terremoto-en-peru-un-sismo-de-magnitud-72-sacudio-el-sur-del-pais",
+      "title": "Terremoto en Perú: un sismo de magnitud 7,2 sacudió el sur del país",
+      "volanta": "FENOMENO NATURAL",
+      "date": "2026-08-20T22:34:55+00:00"
+    },
     {
       "id": "da3b0892",
       "image": "img/da3b0892.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior provincial",
       "volanta": "ESTE MIÉRCOLES",
       "date": "2026-08-19T12:25:21+00:00"
-    },
-    {
-      "id": "537d6ba3",
-      "image": "img/537d6ba3.png",
-      "image_sha": "1839f1863d6327c288fc8e18e8de35204eade0cf",
-      "url": "https://www.radiodos.com.ar/212487-mundial-de-pesca-analizan-ampliar-el-numero-de-equipos-en-la-fiesta-del-surubi",
-      "title": "Mundial de Pesca: analizan ampliar el número de equipos en la Fiesta del Surubí",
-      "volanta": "GOYA",
-      "date": "2026-08-19T11:51:20+00:00"
     }
   ]
 }
