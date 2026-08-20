@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T21:23:46+00:00",
+  "updated": "2026-08-20T22:29:50+00:00",
   "posts": [
+    {
+      "id": "c8b676c1",
+      "image": "img/c8b676c1.png",
+      "image_sha": "657ec5b7f86d25060d11867fc97ed3f3b613032f",
+      "url": "https://www.radiodos.com.ar/212587-como-aprovechar-los-descuentos-para-jubilados-de-anses",
+      "title": "Cómo aprovechar los descuentos para jubilados de Ansés",
+      "volanta": "BENEFICIOS",
+      "date": "2026-08-20T22:29:50+00:00"
+    },
     {
       "id": "e2491383",
       "image": "img/e2491383.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: emiten alerta Amarilla por tormentas en todo el territorio provincial",
       "volanta": "PRONÓSTICO",
       "date": "2026-08-19T11:20:17+00:00"
-    },
-    {
-      "id": "2ed150b1",
-      "image": "img/2ed150b1.png",
-      "image_sha": "310a84cff7df8fd03ec09af1a012a4db5dc2212f",
-      "url": "https://www.radiodos.com.ar/212483-juicio-por-la-desaparicion-de-loan-pena-declaran-cuatro-testigos",
-      "title": "Juicio por la desaparición de Loan Peña: declaran cuatro testigos",
-      "volanta": "AUDIENCIA DE HOY",
-      "date": "2026-08-19T10:33:32+00:00"
     }
   ]
 }
