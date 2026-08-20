@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T14:13:43+00:00",
+  "updated": "2026-08-20T14:40:00+00:00",
   "posts": [
+    {
+      "id": "e033e298",
+      "image": "img/e033e298.png",
+      "image_sha": "2a4928819d4a45297cf22d82aa96827aa050b800",
+      "url": "https://www.radiodos.com.ar/212563-el-gobierno-autorizo-la-privatizacion-del-belgrano-cargas-por-los-proximos-50-anos",
+      "title": "El Gobierno autorizó la privatización del Belgrano Cargas por los próximos 50 años",
+      "volanta": "NOVEDAD",
+      "date": "2026-08-20T14:40:00+00:00"
+    },
     {
       "id": "56663c76",
       "image": "img/56663c76.png",
@@ -531,15 +540,6 @@
       "title": "Regatas brilló en el Torneo de Judo Día del Niño",
       "volanta": "JUDO",
       "date": "2026-08-18T18:47:36+00:00"
-    },
-    {
-      "id": "da310d30",
-      "image": "img/da310d30.png",
-      "image_sha": "df642ecdaa2e118f5d40283252947b644e89e031",
-      "url": "https://www.radiodos.com.ar/212423-corrientes-robaron-elementos-causaron-destrozos-y-luego-defecaron-en-el-salon-de-una-escuela",
-      "title": "Corrientes: robaron elementos, causaron destrozos y luego defecaron en el salón de una escuela",
-      "volanta": "BARRIO QUINTANA",
-      "date": "2026-08-18T16:54:31+00:00"
     }
   ]
 }
