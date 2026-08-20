@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T11:30:13+00:00",
+  "updated": "2026-08-20T12:09:29+00:00",
   "posts": [
+    {
+      "id": "7fcf1135",
+      "image": "img/7fcf1135.png",
+      "image_sha": "d6a184957706b0d82c70cfc39459949865459d58",
+      "url": "https://www.radiodos.com.ar/212543-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior",
+      "volanta": "JUEVES 20 Y VIERNES 21",
+      "date": "2026-08-20T12:09:29+00:00"
+    },
     {
       "id": "04e2e547",
       "image": "img/04e2e547.png",
@@ -531,15 +540,6 @@
       "title": "Un mecánico de Lanús inventó un dispositivo para facilitar partos y es reconocido en el mundo",
       "volanta": "INNOVADOR",
       "date": "2026-08-18T13:19:25+00:00"
-    },
-    {
-      "id": "ddb3b795",
-      "image": "img/ddb3b795.png",
-      "image_sha": "5e5f0ef0111a319334a27f9bc26da08b96620f35",
-      "url": "https://www.radiodos.com.ar/212428-las-ferias-de-la-ciudad-llegan-con-productos-frescos-artesanias-y-propuestas-gastronomicas",
-      "title": "Las Ferias de la Ciudad llegan con productos frescos, artesanías y propuestas gastronómicas",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-08-18T13:00:49+00:00"
     }
   ]
 }
