@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T21:16:12+00:00",
+  "updated": "2026-08-20T21:18:09+00:00",
   "posts": [
+    {
+      "id": "6e1ac080",
+      "image": "img/6e1ac080.png",
+      "image_sha": "0cef5fbbc0bd35d8cbf8897aed516f1841ed3cc4",
+      "url": "https://www.radiodos.com.ar/212582-los-sueldos-subieron-en-junio-un-29-pero-los-privados-no-lograron-ganarle-a-la-inflacion",
+      "title": "Los sueldos subieron en junio un 2,9% pero los privados no lograron ganarle a la inflación",
+      "volanta": "ECONOMÍA LIBERTARIA",
+      "date": "2026-08-20T21:18:09+00:00"
+    },
     {
       "id": "e9906769",
       "image": "img/e9906769.png",
@@ -531,15 +540,6 @@
       "title": "Megaoperativo en Corrientes: investigaban un robo simple y terminaron desarticulando kioscos narcos y aguantaderos",
       "volanta": "BARRIO DR MONTAÑA",
       "date": "2026-08-18T23:03:18+00:00"
-    },
-    {
-      "id": "5bad9448",
-      "image": "img/5bad9448.png",
-      "image_sha": "11312fe1ff96d012b444351a9e4f6a560479d52e",
-      "url": "https://www.radiodos.com.ar/212466-la-bandera-argentina-volvio-a-flamear-en-las-islas-malvinas-tras-44-anos",
-      "title": "La bandera argentina volvió a flamear en las Islas Malvinas tras 44 años",
-      "volanta": "histórico",
-      "date": "2026-08-18T22:37:50+00:00"
     }
   ]
 }
