@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T13:57:47+00:00",
+  "updated": "2026-08-20T14:13:43+00:00",
   "posts": [
+    {
+      "id": "56663c76",
+      "image": "img/56663c76.png",
+      "image_sha": "96f2903c542bad4db8e10ddcf1ea1f32d84f65ec",
+      "url": "https://www.radiodos.com.ar/212555-trabajadores-no-docentes-de-la-unne-reclaman-el-cumplimiento-de-la-ley-de-financiamiento-universitario",
+      "title": "Trabajadores no docentes de la UNNE reclaman el cumplimiento de la Ley de financiamiento Universitario",
+      "volanta": "RECLAMO",
+      "date": "2026-08-20T14:13:43+00:00"
+    },
     {
       "id": "c51a4652",
       "image": "img/c51a4652.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: robaron elementos, causaron destrozos y luego defecaron en el salón de una escuela",
       "volanta": "BARRIO QUINTANA",
       "date": "2026-08-18T16:54:31+00:00"
-    },
-    {
-      "id": "cb121c0d",
-      "image": "img/cb121c0d.png",
-      "image_sha": "34936dde813eeab47b3c16b623c9aed73c5b92d9",
-      "url": "https://www.radiodos.com.ar/212425-misiones-incautan-573-kilos-de-marihuana-",
-      "title": "Misiones: Incautan 573 kilos de marihuana",
-      "volanta": "PUERTO IGUAZÚ",
-      "date": "2026-08-18T16:53:59+00:00"
     }
   ]
 }
