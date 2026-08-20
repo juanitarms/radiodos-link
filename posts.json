@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T21:18:09+00:00",
+  "updated": "2026-08-20T21:23:13+00:00",
   "posts": [
+    {
+      "id": "8a2cdce6",
+      "image": "img/8a2cdce6.png",
+      "image_sha": "6f79a49d11b66ac9949e2e77f396739f9fb13898",
+      "url": "https://www.radiodos.com.ar/212585-impulsan-una-ley-para-que-manejar-borracho-sea-un-delito",
+      "title": "Impulsan una ley para que manejar borracho sea un delito",
+      "volanta": "PROYECTO",
+      "date": "2026-08-20T21:23:13+00:00"
+    },
     {
       "id": "6e1ac080",
       "image": "img/6e1ac080.png",
@@ -531,15 +540,6 @@
       "title": "Toto Caputo acordó con Valdés y otros gobernadores del norte un nuevo esquema de subsidios a la electricidad",
       "volanta": "ESTA TARDE",
       "date": "2026-08-18T23:28:23+00:00"
-    },
-    {
-      "id": "3a29c74f",
-      "image": "img/3a29c74f.png",
-      "image_sha": "570bca9221ecbd85ffff1c4c1dbaa7c24ebe9a6b",
-      "url": "https://www.radiodos.com.ar/212478-megaoperativo-en-corrientes-investigaban-un-robo-simple-y-terminaron-desarticulando-kioscos-narcos-y-aguantaderos",
-      "title": "Megaoperativo en Corrientes: investigaban un robo simple y terminaron desarticulando kioscos narcos y aguantaderos",
-      "volanta": "BARRIO DR MONTAÑA",
-      "date": "2026-08-18T23:03:18+00:00"
     }
   ]
 }
