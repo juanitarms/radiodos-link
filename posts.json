@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T17:08:47+00:00",
+  "updated": "2026-08-20T17:51:59+00:00",
   "posts": [
+    {
+      "id": "30c3cb8e",
+      "image": "img/30c3cb8e.png",
+      "image_sha": "999baec1523a58109c8643ad6bb05fcf9ab51e8e",
+      "url": "https://www.radiodos.com.ar/212567-tenia-la-visa-de-estados-unidos-vencida-viajo-a-ver-a-la-seleccion-y-la-detuvieron",
+      "title": "Tenía la visa de Estados Unidos vencida, viajó a ver a la Selección y la detuvieron",
+      "volanta": "YA ESTÁ LIBRE",
+      "date": "2026-08-20T17:51:59+00:00"
+    },
     {
       "id": "c7f7053f",
       "image": "img/c7f7053f.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad intensifica tareas de mantenimiento vial en puntos estratégicos",
       "volanta": "CORRIENTE",
       "date": "2026-08-18T21:15:25+00:00"
-    },
-    {
-      "id": "8f0d759a",
-      "image": "img/8f0d759a.png",
-      "image_sha": "45cae1493c73fcca69244d0930d8c1d802d67cff",
-      "url": "https://www.radiodos.com.ar/212465-investigan-las-causas-del-fallecimiento-de-un-hombre-hallado-junto-a-su-bicicleta",
-      "title": "Investigan las causas del fallecimiento de un hombre hallado junto a su bicicleta",
-      "volanta": "SOBRE RUTA 118",
-      "date": "2026-08-18T21:13:57+00:00"
     }
   ]
 }
