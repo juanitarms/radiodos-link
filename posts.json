@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T10:35:21+00:00",
+  "updated": "2026-08-20T11:05:17+00:00",
   "posts": [
+    {
+      "id": "f6615434",
+      "image": "img/f6615434.png",
+      "image_sha": "3bf78119983855302fd8e43c0887d6f17e117259",
+      "url": "https://www.radiodos.com.ar/212540-pescadores-paraguayos-fueron-demorados-con-39-bogas-en-un-area-de-reserva",
+      "title": "Pescadores paraguayos fueron demorados con 39 bogas en un área de reserva",
+      "volanta": "PREFECTURA NAVAL",
+      "date": "2026-08-20T11:05:17+00:00"
+    },
     {
       "id": "599b147c",
       "image": "img/599b147c.png",
@@ -531,15 +540,6 @@
       "title": "Resultados de la segunda fecha de la Liga Provincial de Mayores 2026",
       "volanta": "BÁSQUET",
       "date": "2026-08-18T12:40:43+00:00"
-    },
-    {
-      "id": "4bbe492e",
-      "image": "img/4bbe492e.png",
-      "image_sha": "924b950c74b8d645e74f9efc833cb6cbe2e55bb9",
-      "url": "https://www.radiodos.com.ar/212422-corrientes-investigan-el-caso-de-un-agente-de-la-policia-herido-de-un-disparo",
-      "title": "Corrientes: investigan el caso de un agente de la Policía herido de un disparo",
-      "volanta": "BARRIO SAN ANTONIO OESTE",
-      "date": "2026-08-18T12:03:47+00:00"
     }
   ]
 }
