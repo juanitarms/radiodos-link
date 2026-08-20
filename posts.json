@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T12:19:00+00:00",
+  "updated": "2026-08-20T12:43:59+00:00",
   "posts": [
+    {
+      "id": "d0d46625",
+      "image": "img/d0d46625.png",
+      "image_sha": "86af637a546e2c806a7aae0dc69dd56b3050e734",
+      "url": "https://www.radiodos.com.ar/212545-la-ocupacion-hotelera-supero-el-70-y-genero-un-impacto-economico-cercano-a-los-6-mil-millones-de-pesos",
+      "title": "La ocupación hotelera superó el 70% y generó un impacto económico cercano a los 6 mil millones de pesos",
+      "volanta": "FINDE LARGO EN CORRIENTES",
+      "date": "2026-08-20T12:43:59+00:00"
+    },
     {
       "id": "030e1cc7",
       "image": "img/030e1cc7.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio en Villa Devoto: qué reveló la autopsia realizada al cuerpo de Romina Calvo",
       "volanta": "INVESTIGACION ABIERTA",
       "date": "2026-08-18T14:04:00+00:00"
-    },
-    {
-      "id": "e4123ea6",
-      "image": "img/e4123ea6.png",
-      "image_sha": "b2a677e5ec5c3f468e1ee2e2a6846e6c118906d1",
-      "url": "https://www.radiodos.com.ar/212436-el-gobernador-juan-pablo-valdes-confirmo-que-viaja-a-caba-para-avanzar-en-la-implementacion-de-zonas-calidas",
-      "title": "El gobernador Juan Pablo Valdés confirmó que viaja a CABA para avanzar en la implementación de \"zonas cálidas\"",
-      "volanta": "CONFIRMADO",
-      "date": "2026-08-18T13:41:03+00:00"
     }
   ]
 }
