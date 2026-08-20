@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T22:32:33+00:00",
+  "updated": "2026-08-20T22:33:49+00:00",
   "posts": [
+    {
+      "id": "da3b0892",
+      "image": "img/da3b0892.png",
+      "image_sha": "3bc30c9811438ca44e53df5fd386d021981dda44",
+      "url": "https://www.radiodos.com.ar/212588-corrientes-hay-un-detenido-por-el-millonario-robo-a-oficinas-del-camba-cua",
+      "title": "Corrientes: hay un detenido por el millonario robo a oficinas del Camba Cuá",
+      "volanta": "VARIOS ALLANAMIENTOS",
+      "date": "2026-08-20T22:33:49+00:00"
+    },
     {
       "id": "9d783c1b",
       "image": "img/9d783c1b.png",
@@ -531,15 +540,6 @@
       "title": "Mundial de Pesca: analizan ampliar el número de equipos en la Fiesta del Surubí",
       "volanta": "GOYA",
       "date": "2026-08-19T11:51:20+00:00"
-    },
-    {
-      "id": "12d4965d",
-      "image": "img/12d4965d.png",
-      "image_sha": "184b2cfc5328977dff57f4990b39c66a12b4389f",
-      "url": "https://www.radiodos.com.ar/212486-embarcadizo-oriundo-de-corrientes-cayo-al-mar-y-fue-rescatado-de-milagro",
-      "title": "Embarcadizo oriundo de Corrientes cayó al mar y fue rescatado de milagro",
-      "volanta": "PUERTO DESEADO",
-      "date": "2026-08-19T11:34:45+00:00"
     }
   ]
 }
