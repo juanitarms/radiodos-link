@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T11:05:17+00:00",
+  "updated": "2026-08-20T11:30:13+00:00",
   "posts": [
+    {
+      "id": "04e2e547",
+      "image": "img/04e2e547.png",
+      "image_sha": "c416ce27c8d426e001b8adf6b970f7e084b067fe",
+      "url": "https://www.radiodos.com.ar/212539-adopcion-buscan-una-familia-para-un-nino-de-12-anos-que-desea-crecer-rodeado-de-afecto",
+      "title": "Adopción: buscan una familia para un niño de 12 años que desea crecer rodeado de afecto",
+      "volanta": "CONVOCATORIA PÚBLICA",
+      "date": "2026-08-20T11:30:13+00:00"
+    },
     {
       "id": "f6615434",
       "image": "img/f6615434.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad llegan con productos frescos, artesanías y propuestas gastronómicas",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-08-18T13:00:49+00:00"
-    },
-    {
-      "id": "bcee0b1c",
-      "image": "img/bcee0b1c.png",
-      "image_sha": "000299aab1e1ce897c7b0846b97b56b620cd3cc1",
-      "url": "https://www.radiodos.com.ar/212424-resultados-de-la-segunda-fecha-de-la-liga-provincial-de-mayores-2026",
-      "title": "Resultados de la segunda fecha de la Liga Provincial de Mayores 2026",
-      "volanta": "BÁSQUET",
-      "date": "2026-08-18T12:40:43+00:00"
     }
   ]
 }
