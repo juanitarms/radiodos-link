@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T13:37:07+00:00",
+  "updated": "2026-08-20T13:57:47+00:00",
   "posts": [
+    {
+      "id": "c51a4652",
+      "image": "img/c51a4652.png",
+      "image_sha": "7a8f26b52ce415c50b4bedf64c0b46383a940f4f",
+      "url": "https://www.radiodos.com.ar/212554-el-gobierno-convoco-a-una-reunion-para-actualizar-el-devaluado-salario-minimo-vital-y-movil",
+      "title": "El Gobierno convocó a una reunión para actualizar el devaluado Salario Mínimo, Vital y Móvil",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-20T13:57:47+00:00"
+    },
     {
       "id": "af4bcb21",
       "image": "img/af4bcb21.png",
@@ -531,15 +540,6 @@
       "title": "Misiones: Incautan 573 kilos de marihuana",
       "volanta": "PUERTO IGUAZÚ",
       "date": "2026-08-18T16:53:59+00:00"
-    },
-    {
-      "id": "75341134",
-      "image": "img/75341134.png",
-      "image_sha": "581dc730b29d6c319c1ebac91b1125cd40044585",
-      "url": "https://www.radiodos.com.ar/212421-hermana-de-la-victima-mi-sobrino-llamo-y-dijo-abuela-veni-mi-mama-esta-muerta-",
-      "title": "Hermana de la víctima: \"Mi sobrino llamó y dijo: abuela vení, mi mamá está muerta\"",
-      "volanta": "Raquel Ayala",
-      "date": "2026-08-18T16:53:24+00:00"
     }
   ]
 }
