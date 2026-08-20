@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T12:43:59+00:00",
+  "updated": "2026-08-20T13:06:40+00:00",
   "posts": [
+    {
+      "id": "5bd0438b",
+      "image": "img/5bd0438b.png",
+      "image_sha": "cdc656ac0e7771dc1733c0de97e5ef4e857a51ee",
+      "url": "https://www.radiodos.com.ar/212549-becaria-investigo-la-resistencia-del-sistema-de-construccion-tradicional-a-base-de-tierra-fibras-y-tacuara",
+      "title": "Becaria investigó la resistencia del sistema de construcción tradicional a base de tierra, fibras y tacuara",
+      "volanta": "CONSTRUCCIÓN",
+      "date": "2026-08-20T13:06:40+00:00"
+    },
     {
       "id": "d0d46625",
       "image": "img/d0d46625.png",
@@ -531,15 +540,6 @@
       "title": "Karina Milei encabezará la reunión inicial para organizar la visita histórica del Papa León XIV a la Argentina",
       "volanta": "VISITA ESPERADA",
       "date": "2026-08-18T14:27:42+00:00"
-    },
-    {
-      "id": "65dbf088",
-      "image": "img/65dbf088.png",
-      "image_sha": "c413474665ecb48488413807bcf5178870b5506f",
-      "url": "https://www.radiodos.com.ar/212437-femicidio-en-villa-devoto-que-revelo-la-autopsia-realizada-al-cuerpo-de-romina-calvo",
-      "title": "Femicidio en Villa Devoto: qué reveló la autopsia realizada al cuerpo de Romina Calvo",
-      "volanta": "INVESTIGACION ABIERTA",
-      "date": "2026-08-18T14:04:00+00:00"
     }
   ]
 }
