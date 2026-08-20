@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T14:40:00+00:00",
+  "updated": "2026-08-20T14:56:26+00:00",
   "posts": [
+    {
+      "id": "992906c4",
+      "image": "img/992906c4.png",
+      "image_sha": "7943c41e011111c194ba5fd6b040fd0b511bbda1",
+      "url": "https://www.radiodos.com.ar/212562-seis-meses-de-prision-preventiva-para-fernando-cerimedo-exasesor-de-javier-milei",
+      "title": "Seis meses de prisión preventiva para Fernando Cerimedo, exasesor de Javier Milei",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-20T14:56:26+00:00"
+    },
     {
       "id": "e033e298",
       "image": "img/e033e298.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia en San Martín de Los Andes: un hombre murió tras caer con su auto al Lago Lácar",
       "volanta": "NEUQUÉN",
       "date": "2026-08-18T18:48:11+00:00"
-    },
-    {
-      "id": "43260c58",
-      "image": "img/43260c58.png",
-      "image_sha": "f4b7a35b0520ca2d46e0515d1cae53c31938016d",
-      "url": "https://www.radiodos.com.ar/212429-regatas-brillo-en-el-torneo-de-judo-dia-del-nino",
-      "title": "Regatas brilló en el Torneo de Judo Día del Niño",
-      "volanta": "JUDO",
-      "date": "2026-08-18T18:47:36+00:00"
     }
   ]
 }
