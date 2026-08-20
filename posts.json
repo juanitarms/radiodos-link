@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T13:06:40+00:00",
+  "updated": "2026-08-20T13:18:40+00:00",
   "posts": [
+    {
+      "id": "fedee1ad",
+      "image": "img/fedee1ad.png",
+      "image_sha": "2f5c0f7a57483b9aaf2de9454ef592021743e152",
+      "url": "https://www.radiodos.com.ar/212550-buscan-a-un-adolescente-que-salio-de-su-casa-y-no-regreso",
+      "title": "Buscan a un adolescente que salió de su casa y no regresó",
+      "volanta": "COMISARIA VIGESIMA URBANA",
+      "date": "2026-08-20T13:18:40+00:00"
+    },
     {
       "id": "5bd0438b",
       "image": "img/5bd0438b.png",
@@ -531,15 +540,6 @@
       "title": "Gran Hermano: la picante frase de Alejandra Majluf tras ser eliminada",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-08-18T14:59:44+00:00"
-    },
-    {
-      "id": "9829455e",
-      "image": "img/9829455e.png",
-      "image_sha": "9f23d9c42f34f21228d4308465c30b0980560e2d",
-      "url": "https://www.radiodos.com.ar/212440-karina-milei-encabezara-la-reunion-inicial-para-organizar-la-visita-historica-del-papa-leon-xiv-a-la-argentina",
-      "title": "Karina Milei encabezará la reunión inicial para organizar la visita histórica del Papa León XIV a la Argentina",
-      "volanta": "VISITA ESPERADA",
-      "date": "2026-08-18T14:27:42+00:00"
     }
   ]
 }
