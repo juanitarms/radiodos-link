@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T12:09:29+00:00",
+  "updated": "2026-08-20T12:19:00+00:00",
   "posts": [
+    {
+      "id": "030e1cc7",
+      "image": "img/030e1cc7.png",
+      "image_sha": "86898794dcf66f7b9bb414fc26d6a8cad9600614",
+      "url": "https://www.radiodos.com.ar/212544-corrientes-lleva-al-interior-un-ciclo-de-charlas-para-preparar-a-los-productores-ante-el-exceso-hidrico",
+      "title": "Corrientes lleva al interior un ciclo de charlas para preparar a los productores ante el exceso hídrico",
+      "volanta": "PREVENCIÓN ANTE EL NIÑO",
+      "date": "2026-08-20T12:19:00+00:00"
+    },
     {
       "id": "7fcf1135",
       "image": "img/7fcf1135.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador Juan Pablo Valdés confirmó que viaja a CABA para avanzar en la implementación de \"zonas cálidas\"",
       "volanta": "CONFIRMADO",
       "date": "2026-08-18T13:41:03+00:00"
-    },
-    {
-      "id": "543d7d8c",
-      "image": "img/543d7d8c.png",
-      "image_sha": "225aaa2358d6c4af3bfb97c01d410bf6a4db2b7e",
-      "url": "https://www.radiodos.com.ar/212433-un-mecanico-de-lanus-invento-un-dispositivo-para-facilitar-partos-y-es-reconocido-en-el-mundo",
-      "title": "Un mecánico de Lanús inventó un dispositivo para facilitar partos y es reconocido en el mundo",
-      "volanta": "INNOVADOR",
-      "date": "2026-08-18T13:19:25+00:00"
     }
   ]
 }
