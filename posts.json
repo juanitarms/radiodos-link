@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T11:02:34+00:00",
+  "updated": "2026-08-21T11:18:17+00:00",
   "posts": [
+    {
+      "id": "8ec15dd6",
+      "image": "img/8ec15dd6.png",
+      "image_sha": "e054f0178a61f9ebe614ca8078314b624c99f602",
+      "url": "https://www.radiodos.com.ar/212597-corrientes-el-precio-de-la-papa-y-la-cebolla-estan-por-las-nubes",
+      "title": "Corrientes: el precio de la papa y la cebolla están por las nubes",
+      "volanta": "DESCONTROL",
+      "date": "2026-08-21T11:18:17+00:00"
+    },
     {
       "id": "22d85b05",
       "image": "img/22d85b05.png",
@@ -531,15 +540,6 @@
       "title": "¿Coincidencia en Corrientes?: dos delitos graves, dos autos incendiados y el mismo lugar del hallazgo",
       "volanta": "BARRIO SANTA MARTA",
       "date": "2026-08-19T13:17:00+00:00"
-    },
-    {
-      "id": "f1c4312a",
-      "image": "img/f1c4312a.png",
-      "image_sha": "eff3d0c9e0e67bbfd7402d8416bf8830a5f438b5",
-      "url": "https://www.radiodos.com.ar/212491-condenaron-a-una-mujer-por-estafar-a-una-amiga-mediante-creditos-y-operaciones-bancarias",
-      "title": "Condenaron a una mujer por estafar a una amiga mediante créditos y operaciones bancarias",
-      "volanta": "MERCEDES",
-      "date": "2026-08-19T12:49:00+00:00"
     }
   ]
 }
