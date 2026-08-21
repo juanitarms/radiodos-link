@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T22:54:10+00:00",
+  "updated": "2026-08-21T22:55:19+00:00",
   "posts": [
+    {
+      "id": "81dde032",
+      "image": "img/81dde032.png",
+      "image_sha": "6497a40355e166cd019fe182f69da6355df06e93",
+      "url": "https://www.radiodos.com.ar/212654-acordaron-un-nuevo-aumento-para-empleadas-domesticas",
+      "title": "Acordaron un nuevo aumento para empleadas domésticas",
+      "volanta": "ACTUALIZACIÓN SALARIAL",
+      "date": "2026-08-21T22:55:19+00:00"
+    },
     {
       "id": "f210eb18",
       "image": "img/f210eb18.png",
@@ -531,15 +540,6 @@
       "title": "Separaron de la fuerza a un sargento de la Policía de Corrientes denunciado por violencia de género",
       "volanta": "SANTO TOME",
       "date": "2026-08-19T22:40:06+00:00"
-    },
-    {
-      "id": "353485f8",
-      "image": "img/353485f8.png",
-      "image_sha": "9bf5b292803dba5de96ee7f22a6a47c8cb0c21c5",
-      "url": "https://www.radiodos.com.ar/212537-historico-desplome-en-2026-cuantos-kilos-de-carne-consumen-los-argentinos-al-ano",
-      "title": "Histórico desplome en 2026: cuántos kilos de carne consumen los argentinos al año",
-      "volanta": "Economía libertaria",
-      "date": "2026-08-19T22:38:57+00:00"
     }
   ]
 }
