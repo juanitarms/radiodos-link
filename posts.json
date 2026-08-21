@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T12:02:42+00:00",
+  "updated": "2026-08-21T12:19:27+00:00",
   "posts": [
+    {
+      "id": "79d091b1",
+      "image": "img/79d091b1.png",
+      "image_sha": "bc075abd04792e06371ba96a9ebf6a806951c76b",
+      "url": "https://www.radiodos.com.ar/212603-el-sabado-el-barrio-doctor-montana-sera-sede-de-una-nueva-fecha-del-certamen-jacinto-mamuh",
+      "title": "El sábado el barrio Doctor Montaña será sede de una nueva fecha del certamen \"Jacinto Mamuh\"",
+      "volanta": "CULTURA Y TALENTO LOCAL",
+      "date": "2026-08-21T12:19:27+00:00"
+    },
     {
       "id": "36c43d2d",
       "image": "img/36c43d2d.png",
@@ -531,15 +540,6 @@
       "title": "Buscan identificar a conductor de una camioneta que tras chocar a motociclista se dio a la fuga",
       "volanta": "SINIESTRO VIAL-VIDEO",
       "date": "2026-08-19T14:19:46+00:00"
-    },
-    {
-      "id": "1718fb2e",
-      "image": "img/1718fb2e.png",
-      "image_sha": "009fb703eca15d41616c46692e6504429cc0b331",
-      "url": "https://www.radiodos.com.ar/212492-la-municipalidad-de-corrientes-avanza-con-obras-de-bacheo-y-enripiado-en-distintos-barrios-de-la-capital",
-      "title": "La Municipalidad de Corrientes avanza con obras de bacheo y enripiado en distintos barrios de la Capital",
-      "volanta": "OBRAS",
-      "date": "2026-08-19T14:02:24+00:00"
     }
   ]
 }
