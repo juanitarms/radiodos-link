@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T15:06:29+00:00",
+  "updated": "2026-08-21T16:57:51+00:00",
   "posts": [
+    {
+      "id": "fc9fa21e",
+      "image": "img/fc9fa21e.png",
+      "image_sha": "cea6f837979090fd97af6a538bb271d62da78d78",
+      "url": "https://www.radiodos.com.ar/212627-aguas-de-corrientes-renueva-120-metros-de-red-de-agua-y-conexiones-domiciliarias-en-calle-rivadavia-",
+      "title": "Aguas de Corrientes renueva 120 metros de red de agua y conexiones domiciliarias en calle Rivadavia",
+      "volanta": "AMPLIACIÓN",
+      "date": "2026-08-21T16:57:51+00:00"
+    },
     {
       "id": "b6fcac65",
       "image": "img/b6fcac65.png",
@@ -531,15 +540,6 @@
       "title": "El gobierno de Javier Milei prepara un nuevo aumento para las Fuerzas Armadas y de la Seguridad",
       "volanta": "ACTUALIZACIÓN",
       "date": "2026-08-19T18:03:05+00:00"
-    },
-    {
-      "id": "e4b4de81",
-      "image": "img/e4b4de81.png",
-      "image_sha": "848449724a5f6b338198682d1b4eec13870519cd",
-      "url": "https://www.radiodos.com.ar/212513-denunciaron-a-un-chofer-de-la-linea-129-por-hablar-por-celular-y-comer-pizza-mientras-conducia",
-      "title": "Denunciaron a un chofer de la línea 129 por hablar por celular y comer pizza mientras conducía",
-      "volanta": "LA PLATA",
-      "date": "2026-08-19T18:02:31+00:00"
     }
   ]
 }
