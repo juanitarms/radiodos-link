@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T12:19:27+00:00",
+  "updated": "2026-08-21T12:53:58+00:00",
   "posts": [
+    {
+      "id": "0d1e04e7",
+      "image": "img/0d1e04e7.png",
+      "image_sha": "73a893789db0fbd6c1fd1c1812d50d88f2079639",
+      "url": "https://www.radiodos.com.ar/212608-denuncian-el-robo-de-cables-del-alumbrado-publico-en-barrio-independencia",
+      "title": "Denuncian el robo de cables del alumbrado público en barrio Independencia",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-08-21T12:53:58+00:00"
+    },
     {
       "id": "79d091b1",
       "image": "img/79d091b1.png",
@@ -531,15 +540,6 @@
       "title": "Causa ANDIS: piden citar como testigo a Nadia Beller",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-08-19T14:42:44+00:00"
-    },
-    {
-      "id": "721ecd2d",
-      "image": "img/721ecd2d.png",
-      "image_sha": "dfb672bc9b2e3716ccdb84e4450182682bd6f6ad",
-      "url": "https://www.radiodos.com.ar/212497-buscan-identificar-a-conductor-de-una-camioneta-que-tras-chocar-a-motociclista-se-dio-a-la-fuga",
-      "title": "Buscan identificar a conductor de una camioneta que tras chocar a motociclista se dio a la fuga",
-      "volanta": "SINIESTRO VIAL-VIDEO",
-      "date": "2026-08-19T14:19:46+00:00"
     }
   ]
 }
