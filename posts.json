@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T13:34:50+00:00",
+  "updated": "2026-08-21T14:09:09+00:00",
   "posts": [
+    {
+      "id": "ba2f89c6",
+      "image": "img/ba2f89c6.png",
+      "image_sha": "22ac3ad5aa2b4a67b81f04a7c5263ea29e451047",
+      "url": "https://www.radiodos.com.ar/212620-jujuy-murio-otra-integrante-de-la-familia-que-cayo-por-un-barranco-con-su-camioneta",
+      "title": "Jujuy: murió otra integrante de la familia que cayó por un barranco con su camioneta",
+      "volanta": "TRAGEDIA",
+      "date": "2026-08-21T14:09:09+00:00"
+    },
     {
       "id": "87a83ecc",
       "image": "img/87a83ecc.png",
@@ -531,15 +540,6 @@
       "title": "Galarza Florentín reiteró llamado al diálogo: \"Comienza una nueva etapa en Mburucuyá\"",
       "volanta": "TRAS EL CONFLICTO",
       "date": "2026-08-19T16:44:46+00:00"
-    },
-    {
-      "id": "fc5f2cf0",
-      "image": "img/fc5f2cf0.png",
-      "image_sha": "2a3a32971d97aef68f5b224c2cfd03d277fbd85a",
-      "url": "https://www.radiodos.com.ar/212509-buscan-a-un-adolescente-que-no-volvio-a-su-casa-del-barrio-punta-taitalo",
-      "title": "Buscan a un adolescente que no volvió a su casa del barrio Punta Taitalo",
-      "volanta": "COMISARIA SEGUNDA DE LA MUJER Y EL MENOR",
-      "date": "2026-08-19T15:08:22+00:00"
     }
   ]
 }
