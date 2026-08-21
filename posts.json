@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T17:47:24+00:00",
+  "updated": "2026-08-21T18:34:54+00:00",
   "posts": [
+    {
+      "id": "b687e546",
+      "image": "img/b687e546.png",
+      "image_sha": "1a52c0c5dea80b02cc4b2c1091f0e34b35d36394",
+      "url": "https://www.radiodos.com.ar/212636-mundialito-pena-de-la-ciudad-certamen-interbarrios-y-mas-propuestas-deportivas-se-destacan-este-fin-de-semana",
+      "title": "Mundialito, Peña de la Ciudad, certamen Interbarrios y más propuestas deportivas se destacan este fin de semana",
+      "volanta": "AGENDA MUNICIPAL",
+      "date": "2026-08-21T18:34:54+00:00"
+    },
     {
       "id": "e2976902",
       "image": "img/e2976902.png",
@@ -531,15 +540,6 @@
       "title": "Alerta: se notificaron 77 nuevos casos sospechosos de dengue en todo el país",
       "volanta": "A NIVELNACIONAL",
       "date": "2026-08-19T20:56:06+00:00"
-    },
-    {
-      "id": "7210ec1b",
-      "image": "img/7210ec1b.png",
-      "image_sha": "7d14c4d1e7febd733bf75565fc977ae5c75b8d30",
-      "url": "https://www.radiodos.com.ar/212527-un-hombre-murio-mientras-circulaba-en-bicicleta-por-un-barrio-de-corrientes",
-      "title": "Un hombre murió mientras circulaba en bicicleta por un barrio de Corrientes",
-      "volanta": "BARRIO SANTA ROSA",
-      "date": "2026-08-19T20:54:47+00:00"
     }
   ]
 }
