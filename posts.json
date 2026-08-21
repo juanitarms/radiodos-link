@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T11:18:17+00:00",
+  "updated": "2026-08-21T11:30:47+00:00",
   "posts": [
+    {
+      "id": "7122a679",
+      "image": "img/7122a679.png",
+      "image_sha": "e36101aa5ffb61111971e3d39b705783b2bb4825",
+      "url": "https://www.radiodos.com.ar/212596-motochorros-hicieron-un-boquete-y-se-llevaron-magra-cantidad-de-dinero-en-super-de-corrientes",
+      "title": "Motochorros hicieron un boquete y se llevaron magra cantidad de dinero en súper de Corrientes",
+      "volanta": "BARRIO SAN GERONIMO",
+      "date": "2026-08-21T11:30:47+00:00"
+    },
     {
       "id": "8ec15dd6",
       "image": "img/8ec15dd6.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a un sargento de la Policía de Corrientes acusado de intentar estrangular a su pareja",
       "volanta": "VIOLENCIA DE GÉNERO",
       "date": "2026-08-19T13:32:52+00:00"
-    },
-    {
-      "id": "49ecaba5",
-      "image": "img/49ecaba5.png",
-      "image_sha": "e7dcf6eb7a8cf27b686e32aa2fc990396059ac2a",
-      "url": "https://www.radiodos.com.ar/212494-coincidencia-en-corrientes-dos-delitos-graves-dos-autos-incendiados-y-el-mismo-lugar-del-hallazgo",
-      "title": "¿Coincidencia en Corrientes?: dos delitos graves, dos autos incendiados y el mismo lugar del hallazgo",
-      "volanta": "BARRIO SANTA MARTA",
-      "date": "2026-08-19T13:17:00+00:00"
     }
   ]
 }
