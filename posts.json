@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T22:34:55+00:00",
+  "updated": "2026-08-21T11:02:34+00:00",
   "posts": [
+    {
+      "id": "22d85b05",
+      "image": "img/22d85b05.png",
+      "image_sha": "d5b823f7e87e38596d38497ae2256f275a26ca10",
+      "url": "https://www.radiodos.com.ar/212592-el-gobierno-vuelve-a-llamar-al-feriado-del-12-de-octubre-como-dia-de-la-raza",
+      "title": "El Gobierno vuelve a llamar al feriado del 12 de octubre como \"Día de la Raza\"",
+      "volanta": "oficial",
+      "date": "2026-08-21T11:02:34+00:00"
+    },
     {
       "id": "8b767f60",
       "image": "img/8b767f60.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a una mujer por estafar a una amiga mediante créditos y operaciones bancarias",
       "volanta": "MERCEDES",
       "date": "2026-08-19T12:49:00+00:00"
-    },
-    {
-      "id": "75f3776b",
-      "image": "img/75f3776b.png",
-      "image_sha": "09844ad78b23d290a309a52f24816513d926a90e",
-      "url": "https://www.radiodos.com.ar/212490-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-provincial",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior provincial",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-08-19T12:25:21+00:00"
     }
   ]
 }
