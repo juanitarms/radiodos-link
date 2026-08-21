@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T22:01:56+00:00",
+  "updated": "2026-08-21T22:03:34+00:00",
   "posts": [
+    {
+      "id": "97855cf8",
+      "image": "img/97855cf8.png",
+      "image_sha": "30aef878e53960ec40d83804805abe9dc91c179c",
+      "url": "https://www.radiodos.com.ar/212653-el-nino-podria-llegar-a-una-intensidad-historica-y-alcanzar-un-nuevo-record-de-calor",
+      "title": "El Niño podría llegar a una intensidad histórica y alcanzar un nuevo récord de calor",
+      "volanta": "cambio climático",
+      "date": "2026-08-21T22:03:34+00:00"
+    },
     {
       "id": "a4f697aa",
       "image": "img/a4f697aa.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes lleva al interior un ciclo de charlas para preparar a los productores ante el exceso hídrico",
       "volanta": "PREVENCIÓN ANTE EL NIÑO",
       "date": "2026-08-19T22:36:36+00:00"
-    },
-    {
-      "id": "81feee1e",
-      "image": "img/81feee1e.png",
-      "image_sha": "e4a52aba69cf49ec099136b9b4557be20809ad4e",
-      "url": "https://www.radiodos.com.ar/212531-el-nea-es-la-segunda-region-del-pais-con-mayor-inflacion-en-alquiler-de-vivienda",
-      "title": "El NEA es la segunda región del país con mayor inflación en alquiler de vivienda",
-      "volanta": "ESCALADA DE PRECIOS",
-      "date": "2026-08-19T21:45:52+00:00"
     }
   ]
 }
