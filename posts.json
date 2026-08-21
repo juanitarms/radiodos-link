@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T11:30:47+00:00",
+  "updated": "2026-08-21T12:02:42+00:00",
   "posts": [
+    {
+      "id": "36c43d2d",
+      "image": "img/36c43d2d.png",
+      "image_sha": "645b1d01f2fe32136413d67d458f5abd700c5b68",
+      "url": "https://www.radiodos.com.ar/212593-alerta-de-faima-la-industria-maderera-perdio-mas-del-10-del-empleo-en-el-ultimo-ano",
+      "title": "Alerta de FAIMA: la industria maderera perdió más del 10% del empleo en el último año",
+      "volanta": "CRISIS",
+      "date": "2026-08-21T12:02:42+00:00"
+    },
     {
       "id": "7122a679",
       "image": "img/7122a679.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes avanza con obras de bacheo y enripiado en distintos barrios de la Capital",
       "volanta": "OBRAS",
       "date": "2026-08-19T14:02:24+00:00"
-    },
-    {
-      "id": "86e4c5cc",
-      "image": "img/86e4c5cc.png",
-      "image_sha": "238ccecc776cba84d77adf2f247dfcd76fd876d9",
-      "url": "https://www.radiodos.com.ar/212496-detienen-a-un-sargento-de-la-policia-de-corrientes-acusado-de-intentar-estrangular-a-su-pareja",
-      "title": "Detienen a un sargento de la Policía de Corrientes acusado de intentar estrangular a su pareja",
-      "volanta": "VIOLENCIA DE GÉNERO",
-      "date": "2026-08-19T13:32:52+00:00"
     }
   ]
 }
