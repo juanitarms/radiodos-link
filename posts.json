@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T14:49:31+00:00",
+  "updated": "2026-08-21T15:06:29+00:00",
   "posts": [
+    {
+      "id": "b6fcac65",
+      "image": "img/b6fcac65.png",
+      "image_sha": "a193785f6e05165351b47df0d628def3615b8f80",
+      "url": "https://www.radiodos.com.ar/212628-concepcion-del-yaguarete-cora-sera-sede-de-la-expo-ibera-desarrollo-productivo-e-innovacion",
+      "title": "Concepción del Yaguareté Corá será sede de la Expo Iberá, Desarrollo Productivo e Innovación",
+      "volanta": "TURISMO",
+      "date": "2026-08-21T15:06:29+00:00"
+    },
     {
       "id": "29abc762",
       "image": "img/29abc762.png",
@@ -531,15 +540,6 @@
       "title": "Denunciaron a un chofer de la línea 129 por hablar por celular y comer pizza mientras conducía",
       "volanta": "LA PLATA",
       "date": "2026-08-19T18:02:31+00:00"
-    },
-    {
-      "id": "1e99073c",
-      "image": "img/1e99073c.png",
-      "image_sha": "2dc3d97e4ea867b09dcff1661c3aeb71012a044d",
-      "url": "https://www.radiodos.com.ar/212511-tras-cuatro-allanamientos-demoraron-a-tres-personas-y-secuestraron-diversos-elementos",
-      "title": "Tras cuatro allanamientos, demoraron a tres personas y secuestraron diversos elementos",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-08-19T16:45:20+00:00"
     }
   ]
 }
