@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T22:03:34+00:00",
+  "updated": "2026-08-21T22:04:57+00:00",
   "posts": [
+    {
+      "id": "96c9964c",
+      "image": "img/96c9964c.png",
+      "image_sha": "3c35afb94429c0011dcd5d81df838b02d671d82e",
+      "url": "https://www.radiodos.com.ar/212651-camau-espinola-la-clase-media-busca-una-alternativa-porque-hay-un-descontento-real",
+      "title": "Camau Espínola: \"La clase media busca una alternativa porque hay un descontento real\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-08-21T22:04:57+00:00"
+    },
     {
       "id": "97855cf8",
       "image": "img/97855cf8.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron sano y salvo a un menor que era intensamente buscado",
       "volanta": "CORRIENTES",
       "date": "2026-08-19T22:37:46+00:00"
-    },
-    {
-      "id": "b8dcb1e5",
-      "image": "img/b8dcb1e5.png",
-      "image_sha": "9b9392867dd52403a3a77c323b284683da70c0a8",
-      "url": "https://www.radiodos.com.ar/212535-corrientes-lleva-al-interior-un-ciclo-de-charlas-para-preparar-a-los-productores-ante-el-exceso-hidrico",
-      "title": "Corrientes lleva al interior un ciclo de charlas para preparar a los productores ante el exceso hídrico",
-      "volanta": "PREVENCIÓN ANTE EL NIÑO",
-      "date": "2026-08-19T22:36:36+00:00"
     }
   ]
 }
