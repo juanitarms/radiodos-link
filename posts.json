@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T21:18:51+00:00",
+  "updated": "2026-08-21T22:01:56+00:00",
   "posts": [
+    {
+      "id": "a4f697aa",
+      "image": "img/a4f697aa.png",
+      "image_sha": "66d00dc50b3a526ba699c6885f7ac76beae2f305",
+      "url": "https://www.radiodos.com.ar/212648-corrientes-avanzan-los-trabajos-municipales-de-refuncionalizacion-de-un-sector-de-la-plaza-cabral",
+      "title": "Corrientes: avanzan los trabajos municipales de refuncionalización de un sector de la plaza Cabral",
+      "volanta": "MEJORAS EN LA CIUDAD",
+      "date": "2026-08-21T22:01:56+00:00"
+    },
     {
       "id": "bcd44aca",
       "image": "img/bcd44aca.png",
@@ -531,15 +540,6 @@
       "title": "El NEA es la segunda región del país con mayor inflación en alquiler de vivienda",
       "volanta": "ESCALADA DE PRECIOS",
       "date": "2026-08-19T21:45:52+00:00"
-    },
-    {
-      "id": "a7f79bf9",
-      "image": "img/a7f79bf9.png",
-      "image_sha": "9a4dc827a702c09422d12155f8dca06e6d788cc0",
-      "url": "https://www.radiodos.com.ar/212530-juicio-por-loan-se-pospuso-la-declaracion-de-ramon-dupuy-y-la-misma-sera-presencial",
-      "title": "Juicio por Loan: se pospuso la declaración de Ramón Dupuy y la misma será presencial",
-      "volanta": "POR JUSTICIA",
-      "date": "2026-08-19T21:43:57+00:00"
     }
   ]
 }
