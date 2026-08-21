@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T20:48:27+00:00",
+  "updated": "2026-08-21T21:17:51+00:00",
   "posts": [
+    {
+      "id": "f56963c1",
+      "image": "img/f56963c1.png",
+      "image_sha": "3bc41ed4169704af75fef373d3590ce17928369f",
+      "url": "https://www.radiodos.com.ar/212646-la-policia-federal-desmantelo-dos-puntos-de-venta-de-droga-y-detuvo-a-dos-personas-en-corrientes",
+      "title": "La Policía Federal desmanteló dos puntos de venta de droga y detuvo a dos personas en Corrientes",
+      "volanta": "SEGURIDAD",
+      "date": "2026-08-21T21:17:51+00:00"
+    },
     {
       "id": "a8facbc3",
       "image": "img/a8facbc3.png",
@@ -531,15 +540,6 @@
       "title": "Docentes salvan sus vidas tras despistar en una ruta de Corrientes",
       "volanta": "RUTA 126",
       "date": "2026-08-19T21:00:16+00:00"
-    },
-    {
-      "id": "81c99d59",
-      "image": "img/81c99d59.png",
-      "image_sha": "dcee5f3dcf9f19dc3e15f18d2d0e94b76acf9e2b",
-      "url": "https://www.radiodos.com.ar/212529-kicillof-en-chaco-cuestiono-a-milei-y-pidio-mirar-el-impacto-en-la-gente",
-      "title": "Kicillof en Chaco cuestionó a Milei y pidió mirar el impacto en la gente",
-      "volanta": "En campaña",
-      "date": "2026-08-19T20:59:07+00:00"
     }
   ]
 }
