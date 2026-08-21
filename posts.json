@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T16:58:27+00:00",
+  "updated": "2026-08-21T16:58:59+00:00",
   "posts": [
+    {
+      "id": "00f1f4df",
+      "image": "img/00f1f4df.png",
+      "image_sha": "2b3eeac034996b69922c3df1ce8acd5f998b2308",
+      "url": "https://www.radiodos.com.ar/212629-isabel-macedo-rechazo-ph-yanina-latorre-revelo-por-que-no-quiso-estar-junto-a-pampita",
+      "title": "Isabel Macedo rechazó PH: Yanina Latorre reveló por qué no quiso estar junto a Pampita",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-21T16:58:59+00:00"
+    },
     {
       "id": "d3adf2f1",
       "image": "img/d3adf2f1.png",
@@ -531,15 +540,6 @@
       "title": "Gabriel Rabinovich recibirá el título Doctor Honoris Causa de la UNNE",
       "volanta": "ESTE 20 DE AGOSTO",
       "date": "2026-08-19T18:47:13+00:00"
-    },
-    {
-      "id": "8c92adce",
-      "image": "img/8c92adce.png",
-      "image_sha": "1376170d43be787327a319d3e450a6bcd302141b",
-      "url": "https://www.radiodos.com.ar/212522-el-municipio-amplia-la-limpieza-de-sumideros-para-mejorar-el-drenaje-en-avenidas-y-calles-de-la-ciudad",
-      "title": "El Municipio amplía la limpieza de sumideros para mejorar el drenaje en avenidas y calles de la ciudad",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-08-19T18:46:36+00:00"
     }
   ]
 }
