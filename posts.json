@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T16:58:59+00:00",
+  "updated": "2026-08-21T17:46:43+00:00",
   "posts": [
+    {
+      "id": "6a32f774",
+      "image": "img/6a32f774.png",
+      "image_sha": "ace2a4beeaa7ea75742c23f3b891874276ff5404",
+      "url": "https://www.radiodos.com.ar/212632-confirman-la-segunda-temporada-de-la-serie-de-menem-cuando-estrena-y-que-esperar",
+      "title": "Confirman la segunda temporada de la serie de Menem: cuándo estrena y qué esperar",
+      "volanta": "ÉXITO",
+      "date": "2026-08-21T17:46:43+00:00"
+    },
     {
       "id": "00f1f4df",
       "image": "img/00f1f4df.png",
@@ -531,15 +540,6 @@
       "title": "La Cámara de Diputados sancionó la ley de Capacitación en RCP para salvar vidas",
       "volanta": "Sesión 13",
       "date": "2026-08-19T18:47:46+00:00"
-    },
-    {
-      "id": "637c95b5",
-      "image": "img/637c95b5.png",
-      "image_sha": "823b28279440b1d25ca6e8b45576b41000e92403",
-      "url": "https://www.radiodos.com.ar/212523-gabriel-rabinovich-recibira-el-titulo-doctor-honoris-causa-de-la-unne",
-      "title": "Gabriel Rabinovich recibirá el título Doctor Honoris Causa de la UNNE",
-      "volanta": "ESTE 20 DE AGOSTO",
-      "date": "2026-08-19T18:47:13+00:00"
     }
   ]
 }
