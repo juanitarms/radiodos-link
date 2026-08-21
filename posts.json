@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T20:47:58+00:00",
+  "updated": "2026-08-21T20:48:27+00:00",
   "posts": [
+    {
+      "id": "a8facbc3",
+      "image": "img/a8facbc3.png",
+      "image_sha": "47dad9e3f966ad935dc9677e8d162117c862760a",
+      "url": "https://www.radiodos.com.ar/212647-las-ventas-en-supermercados-y-mayoristas-cayeron-31-en-junio",
+      "title": "Las ventas en supermercados y mayoristas cayeron 3,1% en junio",
+      "volanta": "El consumo no repunta",
+      "date": "2026-08-21T20:48:27+00:00"
+    },
     {
       "id": "c2ca53ec",
       "image": "img/c2ca53ec.png",
@@ -531,15 +540,6 @@
       "title": "Kicillof en Chaco cuestionó a Milei y pidió mirar el impacto en la gente",
       "volanta": "En campaña",
       "date": "2026-08-19T20:59:07+00:00"
-    },
-    {
-      "id": "3156c8f9",
-      "image": "img/3156c8f9.png",
-      "image_sha": "d73093013919e8b027a97b93a0021968e7b530a7",
-      "url": "https://www.radiodos.com.ar/212525-monteoliva-reconocio-que-subio-la-tasa-de-suicidios-en-las-fuerzas-y-que-uno-de-los-motivos-es-el-endeudamiento",
-      "title": "Monteoliva reconoció que subió la tasa de suicidios en las Fuerzas y que uno de los motivos es el endeudamiento",
-      "volanta": "Ministra de seguridad",
-      "date": "2026-08-19T20:58:29+00:00"
     }
   ]
 }
