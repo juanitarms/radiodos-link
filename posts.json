@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-21T21:17:51+00:00",
+  "updated": "2026-08-21T21:18:51+00:00",
   "posts": [
+    {
+      "id": "bcd44aca",
+      "image": "img/bcd44aca.png",
+      "image_sha": "3a693cd7f85d7dcc8c8bd14018cb695ab8325854",
+      "url": "https://www.radiodos.com.ar/212649-el-empleo-privado-en-corrientes-cayo-a-niveles-minimos",
+      "title": "El empleo privado en Corrientes cayó a niveles mínimos",
+      "volanta": "Crisis",
+      "date": "2026-08-21T21:18:51+00:00"
+    },
     {
       "id": "f56963c1",
       "image": "img/f56963c1.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: se pospuso la declaración de Ramón Dupuy y la misma será presencial",
       "volanta": "POR JUSTICIA",
       "date": "2026-08-19T21:43:57+00:00"
-    },
-    {
-      "id": "b0c470af",
-      "image": "img/b0c470af.png",
-      "image_sha": "32e086bfd76ce40533861d8557df51a34e37dd43",
-      "url": "https://www.radiodos.com.ar/212528-docentes-salvan-sus-vidas-tras-despistar-en-una-ruta-de-corrientes",
-      "title": "Docentes salvan sus vidas tras despistar en una ruta de Corrientes",
-      "volanta": "RUTA 126",
-      "date": "2026-08-19T21:00:16+00:00"
     }
   ]
 }
