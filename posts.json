@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-22T14:48:36+00:00",
+  "updated": "2026-08-22T16:53:21+00:00",
   "posts": [
+    {
+      "id": "e3565424",
+      "image": "img/e3565424.png",
+      "image_sha": "41fefeae9b8abef97d5795c8375e1ea2277f973e",
+      "url": "https://www.radiodos.com.ar/212672-suman-camaras-para-observar-y-monitorear-la-fauna-presente-en-una-reserva-natural-de-la-ciudad-de-corrientes",
+      "title": "Suman cámaras para observar y monitorear la fauna presente en una reserva natural de la ciudad de Corrientes",
+      "volanta": "REGISTRO Y PRESERVACIÓN",
+      "date": "2026-08-22T16:53:21+00:00"
+    },
     {
       "id": "10ce0f68",
       "image": "img/10ce0f68.png",
@@ -531,15 +540,6 @@
       "title": "Pescadores paraguayos fueron demorados con 39 bogas en un área de reserva",
       "volanta": "PREFECTURA NAVAL",
       "date": "2026-08-20T11:05:17+00:00"
-    },
-    {
-      "id": "599b147c",
-      "image": "img/599b147c.png",
-      "image_sha": "58211f2eed146562dd886c66f6d8172c48dbf059",
-      "url": "https://www.radiodos.com.ar/212538-ladron-detenido-usaba-una-cadenita-que-habia-robado-dias-antes",
-      "title": "Ladrón detenido usaba una cadenita que había robado días antes",
-      "volanta": "Barrio Río Paraná",
-      "date": "2026-08-20T10:35:21+00:00"
     }
   ]
 }
