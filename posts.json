@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-22T22:05:29+00:00",
+  "updated": "2026-08-22T22:26:04+00:00",
   "posts": [
+    {
+      "id": "fecd2777",
+      "image": "img/fecd2777.png",
+      "image_sha": "6311dbbc76544c3cf0a4c56c0a5849ea4820d779",
+      "url": "https://www.radiodos.com.ar/212676-el-mundialito-concluyo-con-mas-de-500-chicos-participantes-y-los-cachorros-campeones",
+      "title": "\"El Mundialito\" concluyó con más de 500 chicos participantes y \"Los Cachorros\" campeones",
+      "volanta": "PROMOCIÓN DEL DEPORTE Y LA INCLUSIÓN",
+      "date": "2026-08-22T22:26:04+00:00"
+    },
     {
       "id": "4f18f096",
       "image": "img/4f18f096.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior",
       "volanta": "JUEVES 20 Y VIERNES 21",
       "date": "2026-08-20T12:09:29+00:00"
-    },
-    {
-      "id": "04e2e547",
-      "image": "img/04e2e547.png",
-      "image_sha": "c416ce27c8d426e001b8adf6b970f7e084b067fe",
-      "url": "https://www.radiodos.com.ar/212539-adopcion-buscan-una-familia-para-un-nino-de-12-anos-que-desea-crecer-rodeado-de-afecto",
-      "title": "Adopción: buscan una familia para un niño de 12 años que desea crecer rodeado de afecto",
-      "volanta": "CONVOCATORIA PÚBLICA",
-      "date": "2026-08-20T11:30:13+00:00"
     }
   ]
 }
