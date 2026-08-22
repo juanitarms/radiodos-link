@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-22T13:17:45+00:00",
+  "updated": "2026-08-22T14:48:36+00:00",
   "posts": [
+    {
+      "id": "10ce0f68",
+      "image": "img/10ce0f68.png",
+      "image_sha": "aaac193a2b86224162080d8a4d9e43d984d5b7c6",
+      "url": "https://www.radiodos.com.ar/212671-en-barrio-de-corrientes-conductor-alcoholizado-choco-autos-estacionados-volco-y-se-dio-a-la-fuga",
+      "title": "En barrio de Corrientes, conductor alcoholizado chocó autos estacionados, volcó y se dio a la fuga",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-08-22T14:48:36+00:00"
+    },
     {
       "id": "07749183",
       "image": "img/07749183.png",
@@ -531,15 +540,6 @@
       "title": "Ladrón detenido usaba una cadenita que había robado días antes",
       "volanta": "Barrio Río Paraná",
       "date": "2026-08-20T10:35:21+00:00"
-    },
-    {
-      "id": "659615ed",
-      "image": "img/659615ed.png",
-      "image_sha": "f500498007bc0b80f0db5ef9569760943269c6fe",
-      "url": "https://www.radiodos.com.ar/212532-el-partido-democrata-progresista-llevo-adelante-un-agasajo-por-el-dia-del-nino-en-el-barrio-17-de-agosto",
-      "title": "El Partido Demócrata Progresista llevó adelante un agasajo por el Día del Niño en el barrio 17 de Agosto",
-      "volanta": "Mes de la niñez",
-      "date": "2026-08-19T22:41:44+00:00"
     }
   ]
 }
