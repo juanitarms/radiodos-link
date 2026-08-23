@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T16:59:11+00:00",
+  "updated": "2026-08-23T16:59:45+00:00",
   "posts": [
+    {
+      "id": "570d6659",
+      "image": "img/570d6659.png",
+      "image_sha": "9b5bed6a83510ddd69402c37cf2b4ee614ba1fae",
+      "url": "https://www.radiodos.com.ar/212709-yomif-kejelcha-gano-la-media-maraton-y-logro-un-nuevo-record-mundial",
+      "title": "Yomif Kejelcha ganó la Media Maratón y logró un nuevo récord mundial",
+      "volanta": "Buenos Aires",
+      "date": "2026-08-23T16:59:45+00:00"
+    },
     {
       "id": "abd78f39",
       "image": "img/abd78f39.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno convocó a una reunión para actualizar el devaluado Salario Mínimo, Vital y Móvil",
       "volanta": "ECONOMÍA",
       "date": "2026-08-20T13:57:47+00:00"
-    },
-    {
-      "id": "af4bcb21",
-      "image": "img/af4bcb21.png",
-      "image_sha": "05c81837d6afaf8e0f96a30469696095469c30d6",
-      "url": "https://www.radiodos.com.ar/212551-buscan-a-una-mujer-que-no-volvio-a-su-domicilio-del-barrio-17-de-agosto-",
-      "title": "Buscan a una mujer que no volvió a su domicilio del barrio 17 de agosto",
-      "volanta": "COMISARIA DECIMO OCTAVA URBANA",
-      "date": "2026-08-20T13:37:07+00:00"
     }
   ]
 }
