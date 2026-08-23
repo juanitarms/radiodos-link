@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T16:59:45+00:00",
+  "updated": "2026-08-23T18:20:33+00:00",
   "posts": [
+    {
+      "id": "a414b1b5",
+      "image": "img/a414b1b5.png",
+      "image_sha": "5cda36802d2f246f89820d3af51c2c0e7d053ff9",
+      "url": "https://www.radiodos.com.ar/212710-corrientes-comisario-herido-tras-volcar-y-caer-con-su-auto-en-un-arroyo",
+      "title": "Corrientes: comisario herido tras volcar y caer con su auto en un arroyo",
+      "volanta": "INVESTIGAN LAS CAUSAS",
+      "date": "2026-08-23T18:20:33+00:00"
+    },
     {
       "id": "570d6659",
       "image": "img/570d6659.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores no docentes de la UNNE reclaman el cumplimiento de la Ley de financiamiento Universitario",
       "volanta": "RECLAMO",
       "date": "2026-08-20T14:13:43+00:00"
-    },
-    {
-      "id": "c51a4652",
-      "image": "img/c51a4652.png",
-      "image_sha": "7a8f26b52ce415c50b4bedf64c0b46383a940f4f",
-      "url": "https://www.radiodos.com.ar/212554-el-gobierno-convoco-a-una-reunion-para-actualizar-el-devaluado-salario-minimo-vital-y-movil",
-      "title": "El Gobierno convocó a una reunión para actualizar el devaluado Salario Mínimo, Vital y Móvil",
-      "volanta": "ECONOMÍA",
-      "date": "2026-08-20T13:57:47+00:00"
     }
   ]
 }
