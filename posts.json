@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T14:06:15+00:00",
+  "updated": "2026-08-23T15:48:58+00:00",
   "posts": [
+    {
+      "id": "dcdf0912",
+      "image": "img/dcdf0912.png",
+      "image_sha": "170fccfb4aeedd59e83f3d285bed9c814fd57dcf",
+      "url": "https://www.radiodos.com.ar/212707-un-terremoto-de-59-sacudio-tokio-y-el-este-de-japon-hay-al-menos-37-heridos",
+      "title": "Un terremoto de 5,9 sacudió Tokio y el este de Japón: hay al menos 37 heridos",
+      "volanta": "JAPÓN",
+      "date": "2026-08-23T15:48:58+00:00"
+    },
     {
       "id": "f49bc74f",
       "image": "img/f49bc74f.png",
@@ -531,15 +540,6 @@
       "title": "Becaria investigó la resistencia del sistema de construcción tradicional a base de tierra, fibras y tacuara",
       "volanta": "CONSTRUCCIÓN",
       "date": "2026-08-20T13:06:40+00:00"
-    },
-    {
-      "id": "d0d46625",
-      "image": "img/d0d46625.png",
-      "image_sha": "86af637a546e2c806a7aae0dc69dd56b3050e734",
-      "url": "https://www.radiodos.com.ar/212545-la-ocupacion-hotelera-supero-el-70-y-genero-un-impacto-economico-cercano-a-los-6-mil-millones-de-pesos",
-      "title": "La ocupación hotelera superó el 70% y generó un impacto económico cercano a los 6 mil millones de pesos",
-      "volanta": "FINDE LARGO EN CORRIENTES",
-      "date": "2026-08-20T12:43:59+00:00"
     }
   ]
 }
