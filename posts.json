@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T16:14:10+00:00",
+  "updated": "2026-08-23T16:59:11+00:00",
   "posts": [
+    {
+      "id": "abd78f39",
+      "image": "img/abd78f39.png",
+      "image_sha": "d2f943b11c59141b64ee96261def0786feb8ab3e",
+      "url": "https://www.radiodos.com.ar/212708-hallaron-el-auto-usado-por-falsos-policias-en-asalto-a-mujer-e-hijos",
+      "title": "Hallaron el auto usado por falsos policías en asalto a mujer e hijos",
+      "volanta": "Corrientes",
+      "date": "2026-08-23T16:59:11+00:00"
+    },
     {
       "id": "d0e743fb",
       "image": "img/d0e743fb.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una mujer que no volvió a su domicilio del barrio 17 de agosto",
       "volanta": "COMISARIA DECIMO OCTAVA URBANA",
       "date": "2026-08-20T13:37:07+00:00"
-    },
-    {
-      "id": "fedee1ad",
-      "image": "img/fedee1ad.png",
-      "image_sha": "2f5c0f7a57483b9aaf2de9454ef592021743e152",
-      "url": "https://www.radiodos.com.ar/212550-buscan-a-un-adolescente-que-salio-de-su-casa-y-no-regreso",
-      "title": "Buscan a un adolescente que salió de su casa y no regresó",
-      "volanta": "COMISARIA VIGESIMA URBANA",
-      "date": "2026-08-20T13:18:40+00:00"
     }
   ]
 }
