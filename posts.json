@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T13:31:31+00:00",
+  "updated": "2026-08-23T14:06:15+00:00",
   "posts": [
+    {
+      "id": "f49bc74f",
+      "image": "img/f49bc74f.png",
+      "image_sha": "8a43dace00fad40f00aea1f7bb613c49b8948633",
+      "url": "https://www.radiodos.com.ar/212705-mecanico-dijo-que-dos-hombres-lo-amenazaron-con-una-escopeta",
+      "title": "Mecánico dijo que dos hombres lo amenazaron con una escopeta",
+      "volanta": "corrientes",
+      "date": "2026-08-23T14:06:15+00:00"
+    },
     {
       "id": "3df722d0",
       "image": "img/3df722d0.png",
@@ -531,15 +540,6 @@
       "title": "La ocupación hotelera superó el 70% y generó un impacto económico cercano a los 6 mil millones de pesos",
       "volanta": "FINDE LARGO EN CORRIENTES",
       "date": "2026-08-20T12:43:59+00:00"
-    },
-    {
-      "id": "030e1cc7",
-      "image": "img/030e1cc7.png",
-      "image_sha": "86898794dcf66f7b9bb414fc26d6a8cad9600614",
-      "url": "https://www.radiodos.com.ar/212544-corrientes-lleva-al-interior-un-ciclo-de-charlas-para-preparar-a-los-productores-ante-el-exceso-hidrico",
-      "title": "Corrientes lleva al interior un ciclo de charlas para preparar a los productores ante el exceso hídrico",
-      "volanta": "PREVENCIÓN ANTE EL NIÑO",
-      "date": "2026-08-20T12:19:00+00:00"
     }
   ]
 }
