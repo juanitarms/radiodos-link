@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T15:48:58+00:00",
+  "updated": "2026-08-23T16:14:10+00:00",
   "posts": [
+    {
+      "id": "d0e743fb",
+      "image": "img/d0e743fb.png",
+      "image_sha": "a7c81cecdd457ff0502cb56716e9654f8425cb03",
+      "url": "https://www.radiodos.com.ar/212706-milei-dijo-que-buscara-la-reeleccion-en-2027-estoy-haciendo-el-mejor-gobierno-de-la-historia",
+      "title": "Milei dijo que buscará la reelección en 2027: \"Estoy haciendo el mejor gobierno de la historia\"",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-08-23T16:14:10+00:00"
+    },
     {
       "id": "dcdf0912",
       "image": "img/dcdf0912.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un adolescente que salió de su casa y no regresó",
       "volanta": "COMISARIA VIGESIMA URBANA",
       "date": "2026-08-20T13:18:40+00:00"
-    },
-    {
-      "id": "5bd0438b",
-      "image": "img/5bd0438b.png",
-      "image_sha": "cdc656ac0e7771dc1733c0de97e5ef4e857a51ee",
-      "url": "https://www.radiodos.com.ar/212549-becaria-investigo-la-resistencia-del-sistema-de-construccion-tradicional-a-base-de-tierra-fibras-y-tacuara",
-      "title": "Becaria investigó la resistencia del sistema de construcción tradicional a base de tierra, fibras y tacuara",
-      "volanta": "CONSTRUCCIÓN",
-      "date": "2026-08-20T13:06:40+00:00"
     }
   ]
 }
