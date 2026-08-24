@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T16:43:17+00:00",
+  "updated": "2026-08-24T18:45:26+00:00",
   "posts": [
+    {
+      "id": "ac5babb6",
+      "image": "img/ac5babb6.png",
+      "image_sha": "caca9ffb72c52b2336170367c268eac07fa4d51e",
+      "url": "https://www.radiodos.com.ar/212759-l-gante-hablo-de-wanda-nara-y-nego-que-la-historia-esta-cerrada-fue-una-batalla-de-quien-se-la-mandaba-mas",
+      "title": "L-Gante habló de Wanda Nara y negó que la historia está cerrada: \"Fue una batalla de quien se la mandaba más\"",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-24T18:45:26+00:00"
+    },
     {
       "id": "a32a7028",
       "image": "img/a32a7028.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno vuelve a llamar al feriado del 12 de octubre como \"Día de la Raza\"",
       "volanta": "oficial",
       "date": "2026-08-21T11:02:34+00:00"
-    },
-    {
-      "id": "8b767f60",
-      "image": "img/8b767f60.png",
-      "image_sha": "a67347087ebf7247226170ee85e6fef67a813b14",
-      "url": "https://www.radiodos.com.ar/212590-terremoto-en-peru-un-sismo-de-magnitud-72-sacudio-el-sur-del-pais",
-      "title": "Terremoto en Perú: un sismo de magnitud 7,2 sacudió el sur del país",
-      "volanta": "FENOMENO NATURAL",
-      "date": "2026-08-20T22:34:55+00:00"
     }
   ]
 }
