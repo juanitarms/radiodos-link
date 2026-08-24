@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T14:33:21+00:00",
+  "updated": "2026-08-24T15:01:08+00:00",
   "posts": [
+    {
+      "id": "8525fb2b",
+      "image": "img/8525fb2b.png",
+      "image_sha": "80516d2a43e4416592a9c126d0f7c00056c6e110",
+      "url": "https://www.radiodos.com.ar/212756-mirtha-legrand-sorprendio-a-beto-casella-con-una-pregunta-tras-una-inesperada-confesion",
+      "title": "Mirtha Legrand sorprendió a Beto Casella con una pregunta tras una inesperada confesión",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-08-24T15:01:08+00:00"
+    },
     {
       "id": "b4be7bc7",
       "image": "img/b4be7bc7.png",
@@ -531,15 +540,6 @@
       "title": "Los sueldos subieron en junio un 2,9% pero los privados no lograron ganarle a la inflación",
       "volanta": "ECONOMÍA LIBERTARIA",
       "date": "2026-08-20T21:18:09+00:00"
-    },
-    {
-      "id": "e9906769",
-      "image": "img/e9906769.png",
-      "image_sha": "eb9e39c166bc15b66685e1a57716795b57b40ead",
-      "url": "https://www.radiodos.com.ar/212583-corrientes-la-policia-rescato-un-pequeno-carpincho-que-pretendia-ser-criado-como-mascota",
-      "title": "Corrientes: la Policía rescató un pequeño carpincho que pretendía ser criado como mascota",
-      "volanta": "ITUZAINGO",
-      "date": "2026-08-20T21:16:12+00:00"
     }
   ]
 }
