@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T21:24:08+00:00",
+  "updated": "2026-08-24T21:25:04+00:00",
   "posts": [
+    {
+      "id": "d323ca7f",
+      "image": "img/d323ca7f.png",
+      "image_sha": "d7b1a04ae8d8119ba27624b03d9da433b23e115c",
+      "url": "https://www.radiodos.com.ar/212775-corrientes-el-consumo-en-supermercados-cayo-un-328-respecto-de-su-promedio-historico",
+      "title": "Corrientes: el consumo en supermercados cayó un 32,8% respecto de su promedio histórico",
+      "volanta": "CONSUMO EN CRISIS",
+      "date": "2026-08-24T21:25:04+00:00"
+    },
     {
       "id": "bf459020",
       "image": "img/bf459020.png",
@@ -531,15 +540,6 @@
       "title": "Caso Brian Lanzelotta: los acusados niegan haber participado de la presunta estafa",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-21T13:34:50+00:00"
-    },
-    {
-      "id": "3d9033a9",
-      "image": "img/3d9033a9.png",
-      "image_sha": "5b03b02090ceeb9fa97e6eb1bc40d1969dbac46f",
-      "url": "https://www.radiodos.com.ar/212602-informe-especial-el-60-de-los-que-viven-en-barrios-populares-esta-endeudado",
-      "title": "Informe especial: el 60% de los que viven en barrios populares está endeudado",
-      "volanta": "EN TODO EL PAIS",
-      "date": "2026-08-21T13:07:11+00:00"
     }
   ]
 }
