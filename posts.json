@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T12:33:34+00:00",
+  "updated": "2026-08-24T12:51:44+00:00",
   "posts": [
+    {
+      "id": "5f2f828c",
+      "image": "img/5f2f828c.png",
+      "image_sha": "3e605bf082a8aef1f940d3c767316c30856c3720",
+      "url": "https://www.radiodos.com.ar/212734-corrientes-encontraron-un-chanchito-que-se-perdio-y-lo-devolvieron-a-su-dueno",
+      "title": "Corrientes: encontraron un chanchito que se perdió y lo devolvieron a su dueño",
+      "volanta": "ITATI",
+      "date": "2026-08-24T12:51:44+00:00"
+    },
     {
       "id": "4b5b3d78",
       "image": "img/4b5b3d78.png",
@@ -531,15 +540,6 @@
       "title": "El Senado aprobó tres leyes, avanzó con nuevos proyectos y distinguió a una joven profesional",
       "volanta": "9° SESIÓN ORDINARIA",
       "date": "2026-08-20T18:46:59+00:00"
-    },
-    {
-      "id": "97eaca39",
-      "image": "img/97eaca39.png",
-      "image_sha": "8a237ba4e7fe0a253500687400a21801baac2022",
-      "url": "https://www.radiodos.com.ar/212580-franco-mendez-el-vinculo-con-san-martin-termino-en-buenos-terminos",
-      "title": "Franco Méndez: \"El vínculo con San Martín terminó en buenos términos\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-08-20T18:46:26+00:00"
     }
   ]
 }
