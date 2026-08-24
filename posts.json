@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T11:06:50+00:00",
+  "updated": "2026-08-24T11:34:36+00:00",
   "posts": [
+    {
+      "id": "79b305a8",
+      "image": "img/79b305a8.png",
+      "image_sha": "b33cf37b0dfa13691bfb64ff033b66247678567c",
+      "url": "https://www.radiodos.com.ar/212726-patrullero-de-la-policia-se-incrusto-en-una-casa-en-pleno-centro-de-corrientes",
+      "title": "Patrullero de la Policía se incrustó en una casa en pleno centro de Corrientes",
+      "volanta": "BARRIO LIBERTAD",
+      "date": "2026-08-24T11:34:36+00:00"
+    },
     {
       "id": "d3eaefea",
       "image": "img/d3eaefea.png",
@@ -531,15 +540,6 @@
       "title": "Descarriló un tren de carga en Mendoza y el maquinista denunció haber visto una fogata junto a las vías",
       "volanta": "ADVERTENCIA",
       "date": "2026-08-20T17:08:47+00:00"
-    },
-    {
-      "id": "e1f0f52c",
-      "image": "img/e1f0f52c.png",
-      "image_sha": "e69cadf330d450b8abe2d1ada8ab13efae207832",
-      "url": "https://www.radiodos.com.ar/212565-conmocion-en-santa-fe-encontraron-muerto-a-un-nene-de-6-anos-y-detuvieron-a-su-madre",
-      "title": "Conmoción en Santa Fe: encontraron muerto a un nene de 6 años y detuvieron a su madre",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-08-20T17:08:13+00:00"
     }
   ]
 }
