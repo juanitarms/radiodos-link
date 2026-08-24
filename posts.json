@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T13:41:13+00:00",
+  "updated": "2026-08-24T14:04:29+00:00",
   "posts": [
+    {
+      "id": "b16847ae",
+      "image": "img/b16847ae.png",
+      "image_sha": "8ffcccfe01e09090aa7a6ecb25c70f9c14e3bc85",
+      "url": "https://www.radiodos.com.ar/212743-aun-sin-cumplir-con-la-ley-de-emergencia-en-discapacidad-milei-aprobo-una-nueva-suba-en-el-nomenclador",
+      "title": "Aún sin cumplir con la Ley de Emergencia en Discapacidad, Milei aprobó una nueva suba en el nomenclador",
+      "volanta": "GOBIERNO NACIONAL",
+      "date": "2026-08-24T14:04:29+00:00"
+    },
     {
       "id": "073f22a5",
       "image": "img/073f22a5.png",
@@ -531,15 +540,6 @@
       "title": "Semana del Árbol: el Municipio de Corrientes prepara actividades de plantación, educación y concientización",
       "volanta": "EDUCACIÓN AMBIENTAL EN LA CIUDAD",
       "date": "2026-08-20T21:09:49+00:00"
-    },
-    {
-      "id": "ea0eee4a",
-      "image": "img/ea0eee4a.png",
-      "image_sha": "7c1eaf0c99ea67cc3fe6733d04a285d85cc80065",
-      "url": "https://www.radiodos.com.ar/212581-milagro-en-el-rio-parana-malloneros-rescataron-a-un-sujeto-que-se-arrojo-desde-el-puente-general-belgrano",
-      "title": "Milagro en el río Paraná: malloneros rescataron a un sujeto que se arrojó desde el puente General Belgrano",
-      "volanta": "ALERTA",
-      "date": "2026-08-20T20:47:42+00:00"
     }
   ]
 }
