@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-23T21:25:05+00:00",
+  "updated": "2026-08-24T10:48:03+00:00",
   "posts": [
+    {
+      "id": "170085ef",
+      "image": "img/170085ef.png",
+      "image_sha": "b33417604d19c5c57b49696f95f0fefcc65288e5",
+      "url": "https://www.radiodos.com.ar/212719-corrientes-se-esperan-jornadas-agradables-y-temperaturas-en-aumento-durante-la-semana",
+      "title": "Corrientes: Se esperan jornadas agradables y temperaturas en aumento durante la semana",
+      "volanta": "Tiempo",
+      "date": "2026-08-24T10:48:03+00:00"
+    },
     {
       "id": "4030479d",
       "image": "img/4030479d.png",
@@ -531,15 +540,6 @@
       "title": "Detectan falsas notificaciones que exigen fotos del DNI y son estafas",
       "volanta": "ALERTA",
       "date": "2026-08-20T17:07:39+00:00"
-    },
-    {
-      "id": "37d391ac",
-      "image": "img/37d391ac.png",
-      "image_sha": "4ac501ee200a0b5e4fbf5ff26aa3be4f60590ab2",
-      "url": "https://www.radiodos.com.ar/212560-escuche-dos-gritos-desesperados-testimonio-de-un-vecino-en-el-juicio-por-loan",
-      "title": "\"Escuché dos gritos desesperados\": testimonio de un vecino en el juicio por Loan",
-      "volanta": "19° AUDIENCIA",
-      "date": "2026-08-20T15:20:11+00:00"
     }
   ]
 }
