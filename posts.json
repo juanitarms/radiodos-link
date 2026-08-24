@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T15:30:30+00:00",
+  "updated": "2026-08-24T16:41:33+00:00",
   "posts": [
+    {
+      "id": "743c1a8d",
+      "image": "img/743c1a8d.png",
+      "image_sha": "dacb6cf80727ed54c307ea7c3098929d032f50b9",
+      "url": "https://www.radiodos.com.ar/212742-nadia-beller-denuncio-otro-intento-de-atentado-quien-es-el-hombre-que-quiso-entrar-al-hospital",
+      "title": "Nadia Beller denunció otro intento de atentado: ¿quién es el hombre que quiso entrar al hospital?",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-24T16:41:33+00:00"
+    },
     {
       "id": "23d555df",
       "image": "img/23d555df.png",
@@ -531,15 +540,6 @@
       "title": "Cómo aprovechar los descuentos para jubilados de Ansés",
       "volanta": "BENEFICIOS",
       "date": "2026-08-20T22:29:50+00:00"
-    },
-    {
-      "id": "e2491383",
-      "image": "img/e2491383.png",
-      "image_sha": "2268df4a2e5496699061706950222acfb9c087fb",
-      "url": "https://www.radiodos.com.ar/212586-los-correntinos-ya-conocen-sus-zonas-y-fixtures-para-el-torneo-regional",
-      "title": "Los correntinos ya conocen sus zonas y fixtures  para el Torneo Regional",
-      "volanta": "FUTBOL DE ASCENSO",
-      "date": "2026-08-20T21:23:46+00:00"
     }
   ]
 }
