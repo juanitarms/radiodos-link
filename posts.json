@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T10:48:03+00:00",
+  "updated": "2026-08-24T11:06:50+00:00",
   "posts": [
+    {
+      "id": "d3eaefea",
+      "image": "img/d3eaefea.png",
+      "image_sha": "f48e2cd455d52936a3d59ee4aa92dd2fe7991048",
+      "url": "https://www.radiodos.com.ar/212724-mensajes-a-su-novia-del-joven-que-mato-a-su-companera-en-corrientes-quiero-cumplir-todo-lo-que-me-pidas",
+      "title": "Mensajes a su novia del joven que mató a su compañera en Corrientes: \"Quiero cumplir todo lo que me pidas\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-08-24T11:06:50+00:00"
+    },
     {
       "id": "170085ef",
       "image": "img/170085ef.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción en Santa Fe: encontraron muerto a un nene de 6 años y detuvieron a su madre",
       "volanta": "CAUSA ABIERTA",
       "date": "2026-08-20T17:08:13+00:00"
-    },
-    {
-      "id": "63a73040",
-      "image": "img/63a73040.png",
-      "image_sha": "a0a7c3aa2d278e768ba8eea89a2801f8814772c2",
-      "url": "https://www.radiodos.com.ar/212566-detectan-falsas-notificaciones-que-exigen-fotos-del-dni-y-son-estafas",
-      "title": "Detectan falsas notificaciones que exigen fotos del DNI y son estafas",
-      "volanta": "ALERTA",
-      "date": "2026-08-20T17:07:39+00:00"
     }
   ]
 }
