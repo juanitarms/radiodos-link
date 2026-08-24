@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T16:42:12+00:00",
+  "updated": "2026-08-24T16:42:44+00:00",
   "posts": [
+    {
+      "id": "2db95d97",
+      "image": "img/2db95d97.png",
+      "image_sha": "f57b3d04872ad5e679a7074a89fa53c2194d5e8a",
+      "url": "https://www.radiodos.com.ar/212747-el-gobierno-creo-un-plan-nacional-para-la-atencion-a-personas-autistas-pero-sin-presupuesto",
+      "title": "El Gobierno creó un plan nacional para la atención a personas autistas pero sin presupuesto",
+      "volanta": "SIN SENTIDO",
+      "date": "2026-08-24T16:42:44+00:00"
+    },
     {
       "id": "1c3c0596",
       "image": "img/1c3c0596.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: hay un detenido por el millonario robo a oficinas del Camba Cuá",
       "volanta": "VARIOS ALLANAMIENTOS",
       "date": "2026-08-20T22:33:49+00:00"
-    },
-    {
-      "id": "9d783c1b",
-      "image": "img/9d783c1b.png",
-      "image_sha": "e17124a1f876d24adece5f6d21f965481749f633",
-      "url": "https://www.radiodos.com.ar/212589-corrientes-una-mujer-de-89-anos-murio-tras-el-incendio-de-su-vivienda",
-      "title": "Corrientes: una mujer de 89 años murió tras el incendio de su vivienda",
-      "volanta": "TRAGEDIA",
-      "date": "2026-08-20T22:32:33+00:00"
     }
   ]
 }
