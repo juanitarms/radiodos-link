@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T21:23:00+00:00",
+  "updated": "2026-08-24T21:24:08+00:00",
   "posts": [
+    {
+      "id": "bf459020",
+      "image": "img/bf459020.png",
+      "image_sha": "c1baf4417f4686740538acb663ca9adefbc7375c",
+      "url": "https://www.radiodos.com.ar/212776-detienen-a-ivancito-tras-asaltar-a-una-joven-que-llevaba-a-su-bebe-en-brazos",
+      "title": "Detienen a \"Ivancito\" tras asaltar a una joven que llevaba a su bebé en brazos",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-24T21:24:08+00:00"
+    },
     {
       "id": "3f1e21ea",
       "image": "img/3f1e21ea.png",
@@ -531,15 +540,6 @@
       "title": "Informe especial: el 60% de los que viven en barrios populares está endeudado",
       "volanta": "EN TODO EL PAIS",
       "date": "2026-08-21T13:07:11+00:00"
-    },
-    {
-      "id": "0d1e04e7",
-      "image": "img/0d1e04e7.png",
-      "image_sha": "73a893789db0fbd6c1fd1c1812d50d88f2079639",
-      "url": "https://www.radiodos.com.ar/212608-denuncian-el-robo-de-cables-del-alumbrado-publico-en-barrio-independencia",
-      "title": "Denuncian el robo de cables del alumbrado público en barrio Independencia",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-08-21T12:53:58+00:00"
     }
   ]
 }
