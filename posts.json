@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T22:36:20+00:00",
+  "updated": "2026-08-24T23:22:28+00:00",
   "posts": [
+    {
+      "id": "7c946bda",
+      "image": "img/7c946bda.png",
+      "image_sha": "459501c8fe03a2f0d33af0c759847fb91c7c54da",
+      "url": "https://www.radiodos.com.ar/212780-iran-ofrece-una-recompensa-de-10-millones-de-dolares-a-quien-mate-a-barron-trump",
+      "title": "Irán ofrece una recompensa de 10 millones de dólares a quien mate a Barron Trump",
+      "volanta": "ALERTA",
+      "date": "2026-08-24T23:22:28+00:00"
+    },
     {
       "id": "af68f0d0",
       "image": "img/af68f0d0.png",
@@ -531,15 +540,6 @@
       "title": "Aguas de Corrientes renueva 120 metros de red de agua y conexiones domiciliarias en calle Rivadavia",
       "volanta": "AMPLIACIÓN",
       "date": "2026-08-21T16:57:51+00:00"
-    },
-    {
-      "id": "b6fcac65",
-      "image": "img/b6fcac65.png",
-      "image_sha": "a193785f6e05165351b47df0d628def3615b8f80",
-      "url": "https://www.radiodos.com.ar/212628-concepcion-del-yaguarete-cora-sera-sede-de-la-expo-ibera-desarrollo-productivo-e-innovacion",
-      "title": "Concepción del Yaguareté Corá será sede de la Expo Iberá, Desarrollo Productivo e Innovación",
-      "volanta": "TURISMO",
-      "date": "2026-08-21T15:06:29+00:00"
     }
   ]
 }
