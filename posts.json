@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T11:51:41+00:00",
+  "updated": "2026-08-24T12:13:58+00:00",
   "posts": [
+    {
+      "id": "197dc4c6",
+      "image": "img/197dc4c6.png",
+      "image_sha": "eb5a84b891a09fde15875743b524d8749b5e66e1",
+      "url": "https://www.radiodos.com.ar/212729-mato-al-perro-del-vecino-de-un-disparo-en-el-interior-de-corrientes",
+      "title": "Mató al perro del vecino de un disparo en el interior de Corrientes",
+      "volanta": "SANTO TOME",
+      "date": "2026-08-24T12:13:58+00:00"
+    },
     {
       "id": "5d60ffc4",
       "image": "img/5d60ffc4.png",
@@ -531,15 +540,6 @@
       "title": "Cris Morena prepara el regreso de Chiquititas con Facundo Arana y Agustina Cherri",
       "volanta": "MUY ESPERADO",
       "date": "2026-08-20T17:52:32+00:00"
-    },
-    {
-      "id": "30c3cb8e",
-      "image": "img/30c3cb8e.png",
-      "image_sha": "999baec1523a58109c8643ad6bb05fcf9ab51e8e",
-      "url": "https://www.radiodos.com.ar/212567-tenia-la-visa-de-estados-unidos-vencida-viajo-a-ver-a-la-seleccion-y-la-detuvieron",
-      "title": "Tenía la visa de Estados Unidos vencida, viajó a ver a la Selección y la detuvieron",
-      "volanta": "YA ESTÁ LIBRE",
-      "date": "2026-08-20T17:51:59+00:00"
     }
   ]
 }
