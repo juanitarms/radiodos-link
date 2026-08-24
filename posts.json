@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T12:13:58+00:00",
+  "updated": "2026-08-24T12:33:34+00:00",
   "posts": [
+    {
+      "id": "4b5b3d78",
+      "image": "img/4b5b3d78.png",
+      "image_sha": "2e6cde4c5b5235ec0768d3b1a11d739a3671e13d",
+      "url": "https://www.radiodos.com.ar/212730-corrientes-un-rottweiler-ataco-a-otro-perro-mas-pequeno-y-lo-mato",
+      "title": "Corrientes: un rottweiler atacó a otro perro más pequeño y lo mató",
+      "volanta": "UNA MUJER HERIDA",
+      "date": "2026-08-24T12:33:34+00:00"
+    },
     {
       "id": "197dc4c6",
       "image": "img/197dc4c6.png",
@@ -531,15 +540,6 @@
       "title": "Franco Méndez: \"El vínculo con San Martín terminó en buenos términos\"",
       "volanta": "NOTA EXCLUSIVA",
       "date": "2026-08-20T18:46:26+00:00"
-    },
-    {
-      "id": "2974bb26",
-      "image": "img/2974bb26.png",
-      "image_sha": "17b39e3cee1463f8566745583ecab0a5f155d2eb",
-      "url": "https://www.radiodos.com.ar/212571-cris-morena-prepara-el-regreso-de-chiquititas-con-facundo-arana-y-agustina-cherri",
-      "title": "Cris Morena prepara el regreso de Chiquititas con Facundo Arana y Agustina Cherri",
-      "volanta": "MUY ESPERADO",
-      "date": "2026-08-20T17:52:32+00:00"
     }
   ]
 }
