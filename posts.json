@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T12:51:44+00:00",
+  "updated": "2026-08-24T13:26:26+00:00",
   "posts": [
+    {
+      "id": "e99e67c3",
+      "image": "img/e99e67c3.png",
+      "image_sha": "b0283cd7ffac3898683fd48c111615a4203fd545",
+      "url": "https://www.radiodos.com.ar/212738-un-afortunado-de-esquina-gano-mas-de-42-millones-en-la-poceada",
+      "title": "Un afortunado de Esquina ganó más de $42 millones en la Poceada",
+      "volanta": "APUESTA",
+      "date": "2026-08-24T13:26:26+00:00"
+    },
     {
       "id": "5f2f828c",
       "image": "img/5f2f828c.png",
@@ -531,15 +540,6 @@
       "title": "Santa Lucía avanza en el saneamiento integral del basural municipal",
       "volanta": "GESTIÓN",
       "date": "2026-08-20T18:47:32+00:00"
-    },
-    {
-      "id": "7cb3aad0",
-      "image": "img/7cb3aad0.png",
-      "image_sha": "cc135a12fb181bb9aa4095e6978888ed4cdc1b41",
-      "url": "https://www.radiodos.com.ar/212579-el-senado-aprobo-tres-leyes-avanzo-con-nuevos-proyectos-y-distinguio-a-una-joven-profesional",
-      "title": "El Senado aprobó tres leyes, avanzó con nuevos proyectos y distinguió a una joven profesional",
-      "volanta": "9° SESIÓN ORDINARIA",
-      "date": "2026-08-20T18:46:59+00:00"
     }
   ]
 }
