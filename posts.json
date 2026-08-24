@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T20:23:28+00:00",
+  "updated": "2026-08-24T21:15:17+00:00",
   "posts": [
+    {
+      "id": "0bae93fa",
+      "image": "img/0bae93fa.png",
+      "image_sha": "44f8838181d13957789b625dbbace09b73c40bc8",
+      "url": "https://www.radiodos.com.ar/212773-corrientes-acumulo-usd-216-millones-en-exportaciones-durante-el-primer-semestre",
+      "title": "Corrientes acumuló USD 216 millones en exportaciones durante el primer semestre",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-08-24T21:15:17+00:00"
+    },
     {
       "id": "ea540558",
       "image": "img/ea540558.png",
@@ -531,15 +540,6 @@
       "title": "El sábado el barrio Doctor Montaña será sede de una nueva fecha del certamen \"Jacinto Mamuh\"",
       "volanta": "CULTURA Y TALENTO LOCAL",
       "date": "2026-08-21T12:19:27+00:00"
-    },
-    {
-      "id": "36c43d2d",
-      "image": "img/36c43d2d.png",
-      "image_sha": "645b1d01f2fe32136413d67d458f5abd700c5b68",
-      "url": "https://www.radiodos.com.ar/212593-alerta-de-faima-la-industria-maderera-perdio-mas-del-10-del-empleo-en-el-ultimo-ano",
-      "title": "Alerta de FAIMA: la industria maderera perdió más del 10% del empleo en el último año",
-      "volanta": "CRISIS",
-      "date": "2026-08-21T12:02:42+00:00"
     }
   ]
 }
