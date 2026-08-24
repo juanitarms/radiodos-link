@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T15:23:50+00:00",
+  "updated": "2026-08-24T15:30:30+00:00",
   "posts": [
+    {
+      "id": "23d555df",
+      "image": "img/23d555df.png",
+      "image_sha": "8a2e0cb7cb2986566652c69eb7abd7125786c959",
+      "url": "https://www.radiodos.com.ar/212757-el-crudo-relato-de-sofia-gonet-en-ph-podemos-hablar-sobre-su-adiccion-inopinada-estuve-seis-meses",
+      "title": "El crudo relato de Sofía Gonet en PH, Podemos Hablar sobre su adicción inopinada: \"Estuve seis meses...\"",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-08-24T15:30:30+00:00"
+    },
     {
       "id": "2f2a1ce5",
       "image": "img/2f2a1ce5.png",
@@ -531,15 +540,6 @@
       "title": "Los correntinos ya conocen sus zonas y fixtures  para el Torneo Regional",
       "volanta": "FUTBOL DE ASCENSO",
       "date": "2026-08-20T21:23:46+00:00"
-    },
-    {
-      "id": "8a2cdce6",
-      "image": "img/8a2cdce6.png",
-      "image_sha": "6f79a49d11b66ac9949e2e77f396739f9fb13898",
-      "url": "https://www.radiodos.com.ar/212585-impulsan-una-ley-para-que-manejar-borracho-sea-un-delito",
-      "title": "Impulsan una ley para que manejar borracho sea un delito",
-      "volanta": "PROYECTO",
-      "date": "2026-08-20T21:23:13+00:00"
     }
   ]
 }
