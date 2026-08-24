@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T21:15:17+00:00",
+  "updated": "2026-08-24T21:23:00+00:00",
   "posts": [
+    {
+      "id": "3f1e21ea",
+      "image": "img/3f1e21ea.png",
+      "image_sha": "1bf7e0415c80fb8b1c25192227a80eaff968c2fa",
+      "url": "https://www.radiodos.com.ar/212772-manuel-adorni-pidio-una-prorroga-para-justificar-su-patrimonio",
+      "title": "Manuel Adorni pidió una prórroga para justificar su patrimonio",
+      "volanta": "EXMINISTRO DE MILEI",
+      "date": "2026-08-24T21:23:00+00:00"
+    },
     {
       "id": "0bae93fa",
       "image": "img/0bae93fa.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian el robo de cables del alumbrado público en barrio Independencia",
       "volanta": "INSEGURIDAD",
       "date": "2026-08-21T12:53:58+00:00"
-    },
-    {
-      "id": "79d091b1",
-      "image": "img/79d091b1.png",
-      "image_sha": "bc075abd04792e06371ba96a9ebf6a806951c76b",
-      "url": "https://www.radiodos.com.ar/212603-el-sabado-el-barrio-doctor-montana-sera-sede-de-una-nueva-fecha-del-certamen-jacinto-mamuh",
-      "title": "El sábado el barrio Doctor Montaña será sede de una nueva fecha del certamen \"Jacinto Mamuh\"",
-      "volanta": "CULTURA Y TALENTO LOCAL",
-      "date": "2026-08-21T12:19:27+00:00"
     }
   ]
 }
