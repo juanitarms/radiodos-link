@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T18:45:26+00:00",
+  "updated": "2026-08-24T18:46:01+00:00",
   "posts": [
+    {
+      "id": "d8be2ea0",
+      "image": "img/d8be2ea0.png",
+      "image_sha": "003450ef0dba9785ce49c548c1311bf75115653e",
+      "url": "https://www.radiodos.com.ar/212760-corrientes-y-resistencia-son-sedes-del-argentino-de-selecciones-a-de-futsal",
+      "title": "Corrientes y Resistencia son sedes del Argentino de Selecciones A de Futsal",
+      "volanta": "INAUGURACIÓN EN LA SECRETARÍA DE DEPORTES",
+      "date": "2026-08-24T18:46:01+00:00"
+    },
     {
       "id": "ac5babb6",
       "image": "img/ac5babb6.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: el precio de la papa y la cebolla están por las nubes",
       "volanta": "DESCONTROL",
       "date": "2026-08-21T11:18:17+00:00"
-    },
-    {
-      "id": "22d85b05",
-      "image": "img/22d85b05.png",
-      "image_sha": "d5b823f7e87e38596d38497ae2256f275a26ca10",
-      "url": "https://www.radiodos.com.ar/212592-el-gobierno-vuelve-a-llamar-al-feriado-del-12-de-octubre-como-dia-de-la-raza",
-      "title": "El Gobierno vuelve a llamar al feriado del 12 de octubre como \"Día de la Raza\"",
-      "volanta": "oficial",
-      "date": "2026-08-21T11:02:34+00:00"
     }
   ]
 }
