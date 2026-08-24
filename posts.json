@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T11:34:36+00:00",
+  "updated": "2026-08-24T11:51:41+00:00",
   "posts": [
+    {
+      "id": "5d60ffc4",
+      "image": "img/5d60ffc4.png",
+      "image_sha": "9580cfcee9c7ec56cd658d1548e18ed9f88c495e",
+      "url": "https://www.radiodos.com.ar/212728-estudian-la-mejora-genetica-de-un-pasto-clave-para-la-ganaderia-del-nea",
+      "title": "Estudian la mejora genética de un pasto clave para la ganadería del NEA",
+      "volanta": "Con drones y técnicas de selección",
+      "date": "2026-08-24T11:51:41+00:00"
+    },
     {
       "id": "79b305a8",
       "image": "img/79b305a8.png",
@@ -531,15 +540,6 @@
       "title": "Tenía la visa de Estados Unidos vencida, viajó a ver a la Selección y la detuvieron",
       "volanta": "YA ESTÁ LIBRE",
       "date": "2026-08-20T17:51:59+00:00"
-    },
-    {
-      "id": "c7f7053f",
-      "image": "img/c7f7053f.png",
-      "image_sha": "9066b159a73430536b2631e5b11c2d4a077ab696",
-      "url": "https://www.radiodos.com.ar/212569-descarrilo-un-tren-de-carga-en-mendoza-y-el-maquinista-denuncio-haber-visto-una-fogata-junto-a-las-vias",
-      "title": "Descarriló un tren de carga en Mendoza y el maquinista denunció haber visto una fogata junto a las vías",
-      "volanta": "ADVERTENCIA",
-      "date": "2026-08-20T17:08:47+00:00"
     }
   ]
 }
