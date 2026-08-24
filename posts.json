@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T18:46:37+00:00",
+  "updated": "2026-08-24T20:23:28+00:00",
   "posts": [
+    {
+      "id": "ea540558",
+      "image": "img/ea540558.png",
+      "image_sha": "34d231edc6710f270acf66e102fb25cdcd03b2ff",
+      "url": "https://www.radiodos.com.ar/212770-un-informe-de-la-universidad-di-tella-asegura-que-crece-la-confianza-en-el-gobierno-nacional",
+      "title": "Un informe de la Universidad Di Tella asegura que crece la confianza en el Gobierno Nacional",
+      "volanta": "NUMEROS",
+      "date": "2026-08-24T20:23:28+00:00"
+    },
     {
       "id": "633203dc",
       "image": "img/633203dc.png",
@@ -531,15 +540,6 @@
       "title": "Alerta de FAIMA: la industria maderera perdió más del 10% del empleo en el último año",
       "volanta": "CRISIS",
       "date": "2026-08-21T12:02:42+00:00"
-    },
-    {
-      "id": "7122a679",
-      "image": "img/7122a679.png",
-      "image_sha": "e36101aa5ffb61111971e3d39b705783b2bb4825",
-      "url": "https://www.radiodos.com.ar/212596-motochorros-hicieron-un-boquete-y-se-llevaron-magra-cantidad-de-dinero-en-super-de-corrientes",
-      "title": "Motochorros hicieron un boquete y se llevaron magra cantidad de dinero en súper de Corrientes",
-      "volanta": "BARRIO SAN GERONIMO",
-      "date": "2026-08-21T11:30:47+00:00"
     }
   ]
 }
