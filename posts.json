@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T16:41:33+00:00",
+  "updated": "2026-08-24T16:42:12+00:00",
   "posts": [
+    {
+      "id": "1c3c0596",
+      "image": "img/1c3c0596.png",
+      "image_sha": "bbcccd32d6804ff97de3c008a7609adc0450290a",
+      "url": "https://www.radiodos.com.ar/212741-abogado-defensor-de-yamil-gane-el-no-tiene-participacion-en-el-grupo-exen",
+      "title": "Abogado defensor de Yamil Gane: \"Él no tiene participación en el grupo Exen\"",
+      "volanta": "DETENIDO",
+      "date": "2026-08-24T16:42:12+00:00"
+    },
     {
       "id": "743c1a8d",
       "image": "img/743c1a8d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: una mujer de 89 años murió tras el incendio de su vivienda",
       "volanta": "TRAGEDIA",
       "date": "2026-08-20T22:32:33+00:00"
-    },
-    {
-      "id": "c8b676c1",
-      "image": "img/c8b676c1.png",
-      "image_sha": "657ec5b7f86d25060d11867fc97ed3f3b613032f",
-      "url": "https://www.radiodos.com.ar/212587-como-aprovechar-los-descuentos-para-jubilados-de-anses",
-      "title": "Cómo aprovechar los descuentos para jubilados de Ansés",
-      "volanta": "BENEFICIOS",
-      "date": "2026-08-20T22:29:50+00:00"
     }
   ]
 }
