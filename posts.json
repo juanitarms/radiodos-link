@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-24T18:46:01+00:00",
+  "updated": "2026-08-24T18:46:37+00:00",
   "posts": [
+    {
+      "id": "633203dc",
+      "image": "img/633203dc.png",
+      "image_sha": "f0432d34e235a64e9e17e750948416dba23a8e0a",
+      "url": "https://www.radiodos.com.ar/212761-un-informe-asegura-que-la-caida-del-consumo-arrastra-la-recaudacion-tributaria-y-afecta-a-las-provincias",
+      "title": "Un informe asegura que la caída del consumo arrastra la recaudación tributaria y afecta a las provincias",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-24T18:46:37+00:00"
+    },
     {
       "id": "d8be2ea0",
       "image": "img/d8be2ea0.png",
@@ -531,15 +540,6 @@
       "title": "Motochorros hicieron un boquete y se llevaron magra cantidad de dinero en súper de Corrientes",
       "volanta": "BARRIO SAN GERONIMO",
       "date": "2026-08-21T11:30:47+00:00"
-    },
-    {
-      "id": "8ec15dd6",
-      "image": "img/8ec15dd6.png",
-      "image_sha": "e054f0178a61f9ebe614ca8078314b624c99f602",
-      "url": "https://www.radiodos.com.ar/212597-corrientes-el-precio-de-la-papa-y-la-cebolla-estan-por-las-nubes",
-      "title": "Corrientes: el precio de la papa y la cebolla están por las nubes",
-      "volanta": "DESCONTROL",
-      "date": "2026-08-21T11:18:17+00:00"
     }
   ]
 }
