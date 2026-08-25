@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T11:31:47+00:00",
+  "updated": "2026-08-25T11:58:53+00:00",
   "posts": [
+    {
+      "id": "27acd246",
+      "image": "img/27acd246.png",
+      "image_sha": "fc249424d6a0505f5e20c7f0224fa13a6972a4c7",
+      "url": "https://www.radiodos.com.ar/212783-goya-conmocionada-por-la-muerte-de-un-ex-empleado-de-la-textil-alal",
+      "title": "Goya conmocionada por la muerte de un ex empleado de la textil Alal",
+      "volanta": "TRAS EL CIERRE Y DESPIDOS",
+      "date": "2026-08-25T11:58:53+00:00"
+    },
     {
       "id": "3cb1d3f1",
       "image": "img/3cb1d3f1.png",
@@ -531,15 +540,6 @@
       "title": "Quiénes son los invitados de PH, Podemos Hablar para este sábado 22 de agosto",
       "volanta": "ESTE SÁBADO",
       "date": "2026-08-21T17:47:24+00:00"
-    },
-    {
-      "id": "6a32f774",
-      "image": "img/6a32f774.png",
-      "image_sha": "ace2a4beeaa7ea75742c23f3b891874276ff5404",
-      "url": "https://www.radiodos.com.ar/212632-confirman-la-segunda-temporada-de-la-serie-de-menem-cuando-estrena-y-que-esperar",
-      "title": "Confirman la segunda temporada de la serie de Menem: cuándo estrena y qué esperar",
-      "volanta": "ÉXITO",
-      "date": "2026-08-21T17:46:43+00:00"
     }
   ]
 }
