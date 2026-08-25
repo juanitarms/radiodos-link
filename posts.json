@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T14:14:00+00:00",
+  "updated": "2026-08-25T14:29:20+00:00",
   "posts": [
+    {
+      "id": "08af1a6f",
+      "image": "img/08af1a6f.png",
+      "image_sha": "4988e05e3b2a0082b3426f8f15de3bc5bb8483af",
+      "url": "https://www.radiodos.com.ar/212815-tierra-del-fuego-cruzo-al-gobierno-por-la-operacion-de-un-buque-petrolero-britanico-en-el-puerto-de-ushuaia",
+      "title": "Tierra del Fuego cruzó al Gobierno por la operación de un buque petrolero británico en el puerto de Ushuaia",
+      "volanta": "POLÉMICA",
+      "date": "2026-08-25T14:29:20+00:00"
+    },
     {
       "id": "5ff7d8d3",
       "image": "img/5ff7d8d3.png",
@@ -531,15 +540,6 @@
       "title": "El Niño podría llegar a una intensidad histórica y alcanzar un nuevo récord de calor",
       "volanta": "cambio climático",
       "date": "2026-08-21T22:03:34+00:00"
-    },
-    {
-      "id": "a4f697aa",
-      "image": "img/a4f697aa.png",
-      "image_sha": "66d00dc50b3a526ba699c6885f7ac76beae2f305",
-      "url": "https://www.radiodos.com.ar/212648-corrientes-avanzan-los-trabajos-municipales-de-refuncionalizacion-de-un-sector-de-la-plaza-cabral",
-      "title": "Corrientes: avanzan los trabajos municipales de refuncionalización de un sector de la plaza Cabral",
-      "volanta": "MEJORAS EN LA CIUDAD",
-      "date": "2026-08-21T22:01:56+00:00"
     }
   ]
 }
