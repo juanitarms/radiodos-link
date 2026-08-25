@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T17:29:22+00:00",
+  "updated": "2026-08-25T19:29:27+00:00",
   "posts": [
+    {
+      "id": "64be1f4f",
+      "image": "img/64be1f4f.png",
+      "image_sha": "73611558f6a9df6cd8591b76332e55d136c2d5b8",
+      "url": "https://www.radiodos.com.ar/212823-quienes-avanzaron-a-la-proxima-etapa-de-popstars-tras-el-casting",
+      "title": "Quiénes avanzaron a la próxima etapa de Popstars tras el casting",
+      "volanta": "GRAN COMIENZO",
+      "date": "2026-08-25T19:29:27+00:00"
+    },
     {
       "id": "10e3cdd8",
       "image": "img/10e3cdd8.png",
@@ -531,15 +540,6 @@
       "title": "Suman cámaras para observar y monitorear la fauna presente en una reserva natural de la ciudad de Corrientes",
       "volanta": "REGISTRO Y PRESERVACIÓN",
       "date": "2026-08-22T16:53:21+00:00"
-    },
-    {
-      "id": "10ce0f68",
-      "image": "img/10ce0f68.png",
-      "image_sha": "aaac193a2b86224162080d8a4d9e43d984d5b7c6",
-      "url": "https://www.radiodos.com.ar/212671-en-barrio-de-corrientes-conductor-alcoholizado-choco-autos-estacionados-volco-y-se-dio-a-la-fuga",
-      "title": "En barrio de Corrientes, conductor alcoholizado chocó autos estacionados, volcó y se dio a la fuga",
-      "volanta": "ESTA MADRUGADA",
-      "date": "2026-08-22T14:48:36+00:00"
     }
   ]
 }
