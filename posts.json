@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T22:24:23+00:00",
+  "updated": "2026-08-25T22:35:53+00:00",
   "posts": [
+    {
+      "id": "307a628f",
+      "image": "img/307a628f.png",
+      "image_sha": "8623a7d4387dec325bfa8ec185b4f03d8edd3ef0",
+      "url": "https://www.radiodos.com.ar/212836-pitin-aragon-yo-amo-a-cristina-pero-ella-no-es-eterna-y-hoy-es-tiempo-de-axel",
+      "title": "Pitín Aragón: \"Yo amo a Cristina, pero ella no es eterna y hoy es tiempo de Axel\"",
+      "volanta": "VOZ PERONISTA",
+      "date": "2026-08-25T22:35:53+00:00"
+    },
     {
       "id": "3b3ec13b",
       "image": "img/3b3ec13b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: comisario herido tras volcar y caer con su auto en un arroyo",
       "volanta": "INVESTIGAN LAS CAUSAS",
       "date": "2026-08-23T18:20:33+00:00"
-    },
-    {
-      "id": "570d6659",
-      "image": "img/570d6659.png",
-      "image_sha": "9b5bed6a83510ddd69402c37cf2b4ee614ba1fae",
-      "url": "https://www.radiodos.com.ar/212709-yomif-kejelcha-gano-la-media-maraton-y-logro-un-nuevo-record-mundial",
-      "title": "Yomif Kejelcha ganó la Media Maratón y logró un nuevo récord mundial",
-      "volanta": "Buenos Aires",
-      "date": "2026-08-23T16:59:45+00:00"
     }
   ]
 }
