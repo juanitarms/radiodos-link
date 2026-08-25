@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T20:52:14+00:00",
+  "updated": "2026-08-25T20:53:23+00:00",
   "posts": [
+    {
+      "id": "637c3af7",
+      "image": "img/637c3af7.png",
+      "image_sha": "2c11c77a86948411d53e706cd64c563d2a2184fe",
+      "url": "https://www.radiodos.com.ar/212831-clase-media-en-crisis-casi-el-50-tiene-dificultades-para-llegar-a-fin-de-mes",
+      "title": "Clase media, en crisis: casi el 50% tiene \"dificultades\" para llegar a fin de mes",
+      "volanta": "EFECTO DE LA ECONOMÍA LIBERTARIA",
+      "date": "2026-08-25T20:53:23+00:00"
+    },
     {
       "id": "6ce2fa52",
       "image": "img/6ce2fa52.png",
@@ -531,15 +540,6 @@
       "title": "Un terremoto de 5,9 sacudió Tokio y el este de Japón: hay al menos 37 heridos",
       "volanta": "JAPÓN",
       "date": "2026-08-23T15:48:58+00:00"
-    },
-    {
-      "id": "f49bc74f",
-      "image": "img/f49bc74f.png",
-      "image_sha": "8a43dace00fad40f00aea1f7bb613c49b8948633",
-      "url": "https://www.radiodos.com.ar/212705-mecanico-dijo-que-dos-hombres-lo-amenazaron-con-una-escopeta",
-      "title": "Mecánico dijo que dos hombres lo amenazaron con una escopeta",
-      "volanta": "corrientes",
-      "date": "2026-08-23T14:06:15+00:00"
     }
   ]
 }
