@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T13:08:35+00:00",
+  "updated": "2026-08-25T13:33:23+00:00",
   "posts": [
+    {
+      "id": "c284e0a6",
+      "image": "img/c284e0a6.png",
+      "image_sha": "084c25736d697d70a70e19944eeb49b594536ced",
+      "url": "https://www.radiodos.com.ar/212806-encontraron-muerto-en-la-carcel-al-abogado-condenado-por-el-femicidio-de-su-mujer-en-un-country-de-salta",
+      "title": "Encontraron muerto en la cárcel al abogado condenado por el femicidio de su mujer en un country de Salta",
+      "volanta": "MISTERIO",
+      "date": "2026-08-25T13:33:23+00:00"
+    },
     {
       "id": "10958719",
       "image": "img/10958719.png",
@@ -531,15 +540,6 @@
       "title": "La Policía Federal desmanteló dos puntos de venta de droga y detuvo a dos personas en Corrientes",
       "volanta": "SEGURIDAD",
       "date": "2026-08-21T21:17:51+00:00"
-    },
-    {
-      "id": "a8facbc3",
-      "image": "img/a8facbc3.png",
-      "image_sha": "47dad9e3f966ad935dc9677e8d162117c862760a",
-      "url": "https://www.radiodos.com.ar/212647-las-ventas-en-supermercados-y-mayoristas-cayeron-31-en-junio",
-      "title": "Las ventas en supermercados y mayoristas cayeron 3,1% en junio",
-      "volanta": "El consumo no repunta",
-      "date": "2026-08-21T20:48:27+00:00"
     }
   ]
 }
