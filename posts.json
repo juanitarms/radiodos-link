@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T19:30:32+00:00",
+  "updated": "2026-08-25T20:48:34+00:00",
   "posts": [
+    {
+      "id": "3b564d16",
+      "image": "img/3b564d16.png",
+      "image_sha": "2ba2ea75485db00ea3c766d0134cad2bc2792f01",
+      "url": "https://www.radiodos.com.ar/212830-juicio-por-loan-pena-pidieron-citar-a-declarar-al-abogado-fernando-burlando",
+      "title": "Juicio por Loan Peña: pidieron citar a declarar al abogado Fernando Burlando",
+      "volanta": "EN CORRIENTES",
+      "date": "2026-08-25T20:48:34+00:00"
+    },
     {
       "id": "5dc7a539",
       "image": "img/5dc7a539.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Una tarde de cinco partidos con tres que terminaron igualados en 0",
       "volanta": "Ganaron Newell's y Gimnasia de Mendoza",
       "date": "2026-08-23T13:31:31+00:00"
-    },
-    {
-      "id": "fecd2777",
-      "image": "img/fecd2777.png",
-      "image_sha": "6311dbbc76544c3cf0a4c56c0a5849ea4820d779",
-      "url": "https://www.radiodos.com.ar/212676-el-mundialito-concluyo-con-mas-de-500-chicos-participantes-y-los-cachorros-campeones",
-      "title": "\"El Mundialito\" concluyó con más de 500 chicos participantes y \"Los Cachorros\" campeones",
-      "volanta": "PROMOCIÓN DEL DEPORTE Y LA INCLUSIÓN",
-      "date": "2026-08-22T22:26:04+00:00"
     }
   ]
 }
