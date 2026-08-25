@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T20:48:34+00:00",
+  "updated": "2026-08-25T20:52:14+00:00",
   "posts": [
+    {
+      "id": "6ce2fa52",
+      "image": "img/6ce2fa52.png",
+      "image_sha": "0873f046c48a98d16b7faeb8dbf454b83eb27bc3",
+      "url": "https://www.radiodos.com.ar/212832-un-comerciante-descubrio-que-su-empleado-de-confianza-le-robo-mas-de-2-millones",
+      "title": "Un comerciante descubrió que su empleado de confianza le robó más de $2 millones",
+      "volanta": "CORRIENTES",
+      "date": "2026-08-25T20:52:14+00:00"
+    },
     {
       "id": "3b564d16",
       "image": "img/3b564d16.png",
@@ -531,15 +540,6 @@
       "title": "Mecánico dijo que dos hombres lo amenazaron con una escopeta",
       "volanta": "corrientes",
       "date": "2026-08-23T14:06:15+00:00"
-    },
-    {
-      "id": "3df722d0",
-      "image": "img/3df722d0.png",
-      "image_sha": "e518a3b6807afa17510e8839ca616da4858f75ca",
-      "url": "https://www.radiodos.com.ar/212703-torneo-clausura-una-tarde-de-cinco-partidos-con-tres-que-terminaron-igualados-en-0",
-      "title": "Torneo Clausura: Una tarde de cinco partidos con tres que terminaron igualados en 0",
-      "volanta": "Ganaron Newell's y Gimnasia de Mendoza",
-      "date": "2026-08-23T13:31:31+00:00"
     }
   ]
 }
