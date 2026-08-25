@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T22:35:53+00:00",
+  "updated": "2026-08-25T22:37:02+00:00",
   "posts": [
+    {
+      "id": "8cd61e70",
+      "image": "img/8cd61e70.png",
+      "image_sha": "cb9c1147894751318deab060df24d07f52915b2b",
+      "url": "https://www.radiodos.com.ar/212837-detuvieron-a-15-agentes-penitenciarios-acusados-de-torturas-y-abuso-sexual-contra-presas",
+      "title": "Detuvieron a 15 agentes penitenciarios acusados de torturas y abuso sexual contra presas",
+      "volanta": "PRESAS",
+      "date": "2026-08-25T22:37:02+00:00"
+    },
     {
       "id": "307a628f",
       "image": "img/307a628f.png",
@@ -531,15 +540,6 @@
       "title": "Maldonado Yonna: \"Estamos trabajando muy fuerte en la prevención por El Niño\"",
       "volanta": "LO BUENO, LO MALO Y LO FEO",
       "date": "2026-08-23T18:21:08+00:00"
-    },
-    {
-      "id": "a414b1b5",
-      "image": "img/a414b1b5.png",
-      "image_sha": "5cda36802d2f246f89820d3af51c2c0e7d053ff9",
-      "url": "https://www.radiodos.com.ar/212710-corrientes-comisario-herido-tras-volcar-y-caer-con-su-auto-en-un-arroyo",
-      "title": "Corrientes: comisario herido tras volcar y caer con su auto en un arroyo",
-      "volanta": "INVESTIGAN LAS CAUSAS",
-      "date": "2026-08-23T18:20:33+00:00"
     }
   ]
 }
