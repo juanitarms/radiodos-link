@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T12:33:33+00:00",
+  "updated": "2026-08-25T12:53:25+00:00",
   "posts": [
+    {
+      "id": "d650bc59",
+      "image": "img/d650bc59.png",
+      "image_sha": "fa9e8bd6e28e946df210327230f9064c4f473760",
+      "url": "https://www.radiodos.com.ar/212796-el-gobernador-acompano-a-san-luis-en-el-inicio-de-sus-festejos-patronales",
+      "title": "El gobernador acompañó a San Luis en el inicio de sus festejos patronales",
+      "volanta": "FE Y DEVOCIÓN",
+      "date": "2026-08-25T12:53:25+00:00"
+    },
     {
       "id": "89acbcf7",
       "image": "img/89acbcf7.png",
@@ -531,15 +540,6 @@
       "title": "Está acusada de matar a su hijo y se le atribuye una llamativa frase: \"Fue por el Gauchito Gil... ya va a revivir\"",
       "volanta": "IMPACTANTE",
       "date": "2026-08-21T20:47:58+00:00"
-    },
-    {
-      "id": "b687e546",
-      "image": "img/b687e546.png",
-      "image_sha": "1a52c0c5dea80b02cc4b2c1091f0e34b35d36394",
-      "url": "https://www.radiodos.com.ar/212636-mundialito-pena-de-la-ciudad-certamen-interbarrios-y-mas-propuestas-deportivas-se-destacan-este-fin-de-semana",
-      "title": "Mundialito, Peña de la Ciudad, certamen Interbarrios y más propuestas deportivas se destacan este fin de semana",
-      "volanta": "AGENDA MUNICIPAL",
-      "date": "2026-08-21T18:34:54+00:00"
     }
   ]
 }
