@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T12:53:25+00:00",
+  "updated": "2026-08-25T13:08:35+00:00",
   "posts": [
+    {
+      "id": "10958719",
+      "image": "img/10958719.png",
+      "image_sha": "db7e225e463f077ee3869a5b8bfded8f285ac783",
+      "url": "https://www.radiodos.com.ar/212797-emocion-y-agradecimiento-eterno-para-salvador-miqueri-en-el-teatro-vera",
+      "title": "Emoción y agradecimiento eterno para Salvador Miqueri en el teatro Vera",
+      "volanta": "HOMENAJE",
+      "date": "2026-08-25T13:08:35+00:00"
+    },
     {
       "id": "d650bc59",
       "image": "img/d650bc59.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas en supermercados y mayoristas cayeron 3,1% en junio",
       "volanta": "El consumo no repunta",
       "date": "2026-08-21T20:48:27+00:00"
-    },
-    {
-      "id": "c2ca53ec",
-      "image": "img/c2ca53ec.png",
-      "image_sha": "9549af7248d4dc3b0d4baca7cd31b25a4370593c",
-      "url": "https://www.radiodos.com.ar/212645-esta-acusada-de-matar-a-su-hijo-y-se-le-atribuye-una-llamativa-frase-fue-por-el-gauchito-gil-ya-va-a-revivir",
-      "title": "Está acusada de matar a su hijo y se le atribuye una llamativa frase: \"Fue por el Gauchito Gil... ya va a revivir\"",
-      "volanta": "IMPACTANTE",
-      "date": "2026-08-21T20:47:58+00:00"
     }
   ]
 }
