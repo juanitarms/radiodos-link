@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T21:10:54+00:00",
+  "updated": "2026-08-25T22:14:46+00:00",
   "posts": [
+    {
+      "id": "e1d3c6a1",
+      "image": "img/e1d3c6a1.png",
+      "image_sha": "d4dc22414ceff2d80a9c8118c6783ef13a289b1e",
+      "url": "https://www.radiodos.com.ar/212835-concejal-correntina-perdio-el-control-de-su-moto-tras-embestir-a-un-animal-y-fue-internada",
+      "title": "Concejal correntina perdió el control de su moto tras embestir a un animal y fue internada",
+      "volanta": "este martes",
+      "date": "2026-08-25T22:14:46+00:00"
+    },
     {
       "id": "8a5efc0a",
       "image": "img/8a5efc0a.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron el auto usado por falsos policías en asalto a mujer e hijos",
       "volanta": "Corrientes",
       "date": "2026-08-23T16:59:11+00:00"
-    },
-    {
-      "id": "d0e743fb",
-      "image": "img/d0e743fb.png",
-      "image_sha": "a7c81cecdd457ff0502cb56716e9654f8425cb03",
-      "url": "https://www.radiodos.com.ar/212706-milei-dijo-que-buscara-la-reeleccion-en-2027-estoy-haciendo-el-mejor-gobierno-de-la-historia",
-      "title": "Milei dijo que buscará la reelección en 2027: \"Estoy haciendo el mejor gobierno de la historia\"",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-08-23T16:14:10+00:00"
     }
   ]
 }
