@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T11:58:53+00:00",
+  "updated": "2026-08-25T12:33:33+00:00",
   "posts": [
+    {
+      "id": "89acbcf7",
+      "image": "img/89acbcf7.png",
+      "image_sha": "9c58ab93e297a1320caed7532fda483a603982e7",
+      "url": "https://www.radiodos.com.ar/212790-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-provincial",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior provincial",
+      "volanta": "ESTE MARTES",
+      "date": "2026-08-25T12:33:33+00:00"
+    },
     {
       "id": "27acd246",
       "image": "img/27acd246.png",
@@ -531,15 +540,6 @@
       "title": "Mundialito, Peña de la Ciudad, certamen Interbarrios y más propuestas deportivas se destacan este fin de semana",
       "volanta": "AGENDA MUNICIPAL",
       "date": "2026-08-21T18:34:54+00:00"
-    },
-    {
-      "id": "e2976902",
-      "image": "img/e2976902.png",
-      "image_sha": "b0b720d2c9811337ba2c6668a3fa5033686a28fa",
-      "url": "https://www.radiodos.com.ar/212631-quienes-son-los-invitados-de-ph-podemos-hablar-para-este-sabado-22-de-agosto",
-      "title": "Quiénes son los invitados de PH, Podemos Hablar para este sábado 22 de agosto",
-      "volanta": "ESTE SÁBADO",
-      "date": "2026-08-21T17:47:24+00:00"
     }
   ]
 }
