@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T14:49:07+00:00",
+  "updated": "2026-08-25T15:01:26+00:00",
   "posts": [
+    {
+      "id": "142b9a13",
+      "image": "img/142b9a13.png",
+      "image_sha": "b77cf707ce00738de837e5008aac29881e2997ae",
+      "url": "https://www.radiodos.com.ar/212819-gran-hermano-a-quien-pidio-ver-tamara-paganini-tras-ser-eliminada",
+      "title": "Gran Hermano: a quién pidió ver Tamara Paganini tras ser eliminada",
+      "volanta": "QUEDAN 7 JUGADORAS",
+      "date": "2026-08-25T15:01:26+00:00"
+    },
     {
       "id": "87f9e2e9",
       "image": "img/87f9e2e9.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno nacional concesionó casi 4.000 kilómetros de rutas, entre ellas trazas clave de Corrientes",
       "volanta": "Red Federal de Concesiones",
       "date": "2026-08-21T22:54:10+00:00"
-    },
-    {
-      "id": "96c9964c",
-      "image": "img/96c9964c.png",
-      "image_sha": "3c35afb94429c0011dcd5d81df838b02d671d82e",
-      "url": "https://www.radiodos.com.ar/212651-camau-espinola-la-clase-media-busca-una-alternativa-porque-hay-un-descontento-real",
-      "title": "Camau Espínola: \"La clase media busca una alternativa porque hay un descontento real\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-08-21T22:04:57+00:00"
     }
   ]
 }
