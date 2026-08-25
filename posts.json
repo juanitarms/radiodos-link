@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T15:01:26+00:00",
+  "updated": "2026-08-25T17:28:13+00:00",
   "posts": [
+    {
+      "id": "ce626782",
+      "image": "img/ce626782.png",
+      "image_sha": "b3abf948ac07775771aebecebc369b230c492771",
+      "url": "https://www.radiodos.com.ar/212821-telefe-anuncio-los-primeros-confirmados-de-masterchef-celebrity-y-estallo-el-morbo",
+      "title": "Telefe anunció los primeros confirmados de MasterChef Celebrity y estalló el morbo",
+      "volanta": "GRAN EXPECTATIVA",
+      "date": "2026-08-25T17:28:13+00:00"
+    },
     {
       "id": "142b9a13",
       "image": "img/142b9a13.png",
@@ -531,15 +540,6 @@
       "title": "Acordaron un nuevo aumento para empleadas domésticas",
       "volanta": "ACTUALIZACIÓN SALARIAL",
       "date": "2026-08-21T22:55:19+00:00"
-    },
-    {
-      "id": "f210eb18",
-      "image": "img/f210eb18.png",
-      "image_sha": "017befd68d2b93cbed85d3caad528e1afbe0e3b8",
-      "url": "https://www.radiodos.com.ar/212655-el-gobierno-nacional-concesiono-casi-4000-kilometros-de-rutas-entre-ellas-trazas-clave-de-corrientes",
-      "title": "El Gobierno nacional concesionó casi 4.000 kilómetros de rutas, entre ellas trazas clave de Corrientes",
-      "volanta": "Red Federal de Concesiones",
-      "date": "2026-08-21T22:54:10+00:00"
     }
   ]
 }
