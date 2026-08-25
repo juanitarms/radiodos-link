@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T19:30:05+00:00",
+  "updated": "2026-08-25T19:30:32+00:00",
   "posts": [
+    {
+      "id": "5dc7a539",
+      "image": "img/5dc7a539.png",
+      "image_sha": "5f8736e9093e8c4ae45e4bbcae260cbd5ebe5c5f",
+      "url": "https://www.radiodos.com.ar/212826-delfina-buffil-fue-convocada-a-la-seleccion-argentina-de-judo",
+      "title": "Delfina Buffil fue convocada a la Selección Argentina de judo",
+      "volanta": "Judo",
+      "date": "2026-08-25T19:30:32+00:00"
+    },
     {
       "id": "0eac8d70",
       "image": "img/0eac8d70.png",
@@ -531,15 +540,6 @@
       "title": "\"El Mundialito\" concluyó con más de 500 chicos participantes y \"Los Cachorros\" campeones",
       "volanta": "PROMOCIÓN DEL DEPORTE Y LA INCLUSIÓN",
       "date": "2026-08-22T22:26:04+00:00"
-    },
-    {
-      "id": "4f18f096",
-      "image": "img/4f18f096.png",
-      "image_sha": "84361b8ba1d18273ad14f98374210d6bb037420c",
-      "url": "https://www.radiodos.com.ar/212674-f1-lando-norris-dio-el-golpe-y-se-quedo-con-la-pole-de-paises-bajos-y-franco-colapinto-14°",
-      "title": "F1: Lando Norris dio el golpe y se quedó con la pole de Países Bajos y Franco Colapinto 14°",
-      "volanta": "En la carrera Sprint terminó 12°",
-      "date": "2026-08-22T22:05:29+00:00"
     }
   ]
 }
