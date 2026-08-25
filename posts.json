@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T14:00:12+00:00",
+  "updated": "2026-08-25T14:14:00+00:00",
   "posts": [
+    {
+      "id": "5ff7d8d3",
+      "image": "img/5ff7d8d3.png",
+      "image_sha": "c6a18c4303f911d87ebda2059b0fe22d7251af54",
+      "url": "https://www.radiodos.com.ar/212817-anses-se-confirmo-el-plus-de-hasta-150000-y-a-quienes-se-acreditara",
+      "title": "ANSES: se confirmó el plus de hasta $150.000 y a quiénes se acreditará",
+      "volanta": "INFO IMPORTANTE",
+      "date": "2026-08-25T14:14:00+00:00"
+    },
     {
       "id": "c18df455",
       "image": "img/c18df455.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: avanzan los trabajos municipales de refuncionalización de un sector de la plaza Cabral",
       "volanta": "MEJORAS EN LA CIUDAD",
       "date": "2026-08-21T22:01:56+00:00"
-    },
-    {
-      "id": "bcd44aca",
-      "image": "img/bcd44aca.png",
-      "image_sha": "3a693cd7f85d7dcc8c8bd14018cb695ab8325854",
-      "url": "https://www.radiodos.com.ar/212649-el-empleo-privado-en-corrientes-cayo-a-niveles-minimos",
-      "title": "El empleo privado en Corrientes cayó a niveles mínimos",
-      "volanta": "Crisis",
-      "date": "2026-08-21T21:18:51+00:00"
     }
   ]
 }
