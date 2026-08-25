@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T11:06:08+00:00",
+  "updated": "2026-08-25T11:31:47+00:00",
   "posts": [
+    {
+      "id": "3cb1d3f1",
+      "image": "img/3cb1d3f1.png",
+      "image_sha": "a36cb62385efbbff86b5bb4f7f67a16f60c778e6",
+      "url": "https://www.radiodos.com.ar/212787-con-un-fin-solidario-corrientes-prepara-su-segunda-batalla-de-aura",
+      "title": "Con un fin solidario, Corrientes prepara su segunda \"Batalla de Aura\"",
+      "volanta": "EN EL PARQUE CAMBA CUA",
+      "date": "2026-08-25T11:31:47+00:00"
+    },
     {
       "id": "00421c70",
       "image": "img/00421c70.png",
@@ -531,15 +540,6 @@
       "title": "Confirman la segunda temporada de la serie de Menem: cuándo estrena y qué esperar",
       "volanta": "ÉXITO",
       "date": "2026-08-21T17:46:43+00:00"
-    },
-    {
-      "id": "00f1f4df",
-      "image": "img/00f1f4df.png",
-      "image_sha": "2b3eeac034996b69922c3df1ce8acd5f998b2308",
-      "url": "https://www.radiodos.com.ar/212629-isabel-macedo-rechazo-ph-yanina-latorre-revelo-por-que-no-quiso-estar-junto-a-pampita",
-      "title": "Isabel Macedo rechazó PH: Yanina Latorre reveló por qué no quiso estar junto a Pampita",
-      "volanta": "¿QUÉ DIJO?",
-      "date": "2026-08-21T16:58:59+00:00"
     }
   ]
 }
