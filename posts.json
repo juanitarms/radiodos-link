@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T17:28:13+00:00",
+  "updated": "2026-08-25T17:28:50+00:00",
   "posts": [
+    {
+      "id": "d0b467d0",
+      "image": "img/d0b467d0.png",
+      "image_sha": "3e37af94b4ff776658f3bd3bb0ae3cd6f72c0dff",
+      "url": "https://www.radiodos.com.ar/212820-griselda-siciliani-se-harto-de-sabrina-rojas-y-respondio-a-sus-polemicos-comentarios",
+      "title": "Griselda Siciliani se hartó de Sabrina Rojas y respondió a sus polémicos comentarios",
+      "volanta": "¡Guerra total!",
+      "date": "2026-08-25T17:28:50+00:00"
+    },
     {
       "id": "ce626782",
       "image": "img/ce626782.png",
@@ -531,15 +540,6 @@
       "title": "Mundial de Hockey 2026: Súper sábado de acción para Las Leonas y Los Leones por la segunda ronda",
       "volanta": "Países Bajos y Bélgica 2026",
       "date": "2026-08-22T13:17:45+00:00"
-    },
-    {
-      "id": "81dde032",
-      "image": "img/81dde032.png",
-      "image_sha": "6497a40355e166cd019fe182f69da6355df06e93",
-      "url": "https://www.radiodos.com.ar/212654-acordaron-un-nuevo-aumento-para-empleadas-domesticas",
-      "title": "Acordaron un nuevo aumento para empleadas domésticas",
-      "volanta": "ACTUALIZACIÓN SALARIAL",
-      "date": "2026-08-21T22:55:19+00:00"
     }
   ]
 }
