@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T20:53:23+00:00",
+  "updated": "2026-08-25T21:10:54+00:00",
   "posts": [
+    {
+      "id": "8a5efc0a",
+      "image": "img/8a5efc0a.png",
+      "image_sha": "e647fbcb880733e234e732557d3d41e8643390cd",
+      "url": "https://www.radiodos.com.ar/212833-caso-loan-en-pleno-juicio-sobreseyeron-a-imputados-por-trata",
+      "title": "Caso Loan: en pleno juicio sobreseyeron a imputados por  \"trata\"",
+      "volanta": "DECISIÓN JUDICIAL",
+      "date": "2026-08-25T21:10:54+00:00"
+    },
     {
       "id": "637c3af7",
       "image": "img/637c3af7.png",
@@ -531,15 +540,6 @@
       "title": "Milei dijo que buscará la reelección en 2027: \"Estoy haciendo el mejor gobierno de la historia\"",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-08-23T16:14:10+00:00"
-    },
-    {
-      "id": "dcdf0912",
-      "image": "img/dcdf0912.png",
-      "image_sha": "170fccfb4aeedd59e83f3d285bed9c814fd57dcf",
-      "url": "https://www.radiodos.com.ar/212707-un-terremoto-de-59-sacudio-tokio-y-el-este-de-japon-hay-al-menos-37-heridos",
-      "title": "Un terremoto de 5,9 sacudió Tokio y el este de Japón: hay al menos 37 heridos",
-      "volanta": "JAPÓN",
-      "date": "2026-08-23T15:48:58+00:00"
     }
   ]
 }
