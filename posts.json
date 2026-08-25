@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T13:33:23+00:00",
+  "updated": "2026-08-25T14:00:12+00:00",
   "posts": [
+    {
+      "id": "c18df455",
+      "image": "img/c18df455.png",
+      "image_sha": "6ac8d7d2f7a3f57183130ede1c83e473783be7f1",
+      "url": "https://www.radiodos.com.ar/212804-comienza-el-juicio-contra-un-comerciante-que-asesino-a-un-yaguarete-y-lo-expuso-en-un-video",
+      "title": "Comienza el juicio contra un comerciante que asesinó a un Yaguareté y lo expuso en un video",
+      "volanta": "EN DICIEMBRE DE 2022",
+      "date": "2026-08-25T14:00:12+00:00"
+    },
     {
       "id": "c284e0a6",
       "image": "img/c284e0a6.png",
@@ -531,15 +540,6 @@
       "title": "El empleo privado en Corrientes cayó a niveles mínimos",
       "volanta": "Crisis",
       "date": "2026-08-21T21:18:51+00:00"
-    },
-    {
-      "id": "f56963c1",
-      "image": "img/f56963c1.png",
-      "image_sha": "3bc41ed4169704af75fef373d3590ce17928369f",
-      "url": "https://www.radiodos.com.ar/212646-la-policia-federal-desmantelo-dos-puntos-de-venta-de-droga-y-detuvo-a-dos-personas-en-corrientes",
-      "title": "La Policía Federal desmanteló dos puntos de venta de droga y detuvo a dos personas en Corrientes",
-      "volanta": "SEGURIDAD",
-      "date": "2026-08-21T21:17:51+00:00"
     }
   ]
 }
