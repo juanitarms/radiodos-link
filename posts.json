@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T22:17:14+00:00",
+  "updated": "2026-08-26T22:18:13+00:00",
   "posts": [
+    {
+      "id": "29c2bc4f",
+      "image": "img/29c2bc4f.png",
+      "image_sha": "c2b4a8d91da5c5099781943bb2a2a5401434c700",
+      "url": "https://www.radiodos.com.ar/212897-juicio-a-pity-alvarez-el-tribunal-rechazo-la-nulidad-del-proceso-y-el-musico-se-durmio-en-la-audiencia",
+      "title": "Juicio a Pity Álvarez: el Tribunal rechazó la nulidad del proceso y el músico se durmió en la audiencia",
+      "volanta": "CANTANTE EN EL BANQUILLO",
+      "date": "2026-08-26T22:18:13+00:00"
+    },
     {
       "id": "068600cf",
       "image": "img/068600cf.png",
@@ -531,15 +540,6 @@
       "title": "Manuel Adorni pidió una prórroga para justificar su patrimonio",
       "volanta": "EXMINISTRO DE MILEI",
       "date": "2026-08-24T21:23:00+00:00"
-    },
-    {
-      "id": "0bae93fa",
-      "image": "img/0bae93fa.png",
-      "image_sha": "44f8838181d13957789b625dbbace09b73c40bc8",
-      "url": "https://www.radiodos.com.ar/212773-corrientes-acumulo-usd-216-millones-en-exportaciones-durante-el-primer-semestre",
-      "title": "Corrientes acumuló USD 216 millones en exportaciones durante el primer semestre",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-08-24T21:15:17+00:00"
     }
   ]
 }
