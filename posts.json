@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T11:08:05+00:00",
+  "updated": "2026-08-26T11:25:36+00:00",
   "posts": [
+    {
+      "id": "d4da49c5",
+      "image": "img/d4da49c5.png",
+      "image_sha": "d36c49501f20ef2fa80adf0cc4347a1b06120a37",
+      "url": "https://www.radiodos.com.ar/212843-puma-suelto-en-corrientes-captaron-imagenes-del-felino-cerca-de-campos-rurales",
+      "title": "Puma suelto en Corrientes: captaron imágenes del felino cerca de campos rurales",
+      "volanta": "Colonia Libertad",
+      "date": "2026-08-26T11:25:36+00:00"
+    },
     {
       "id": "2b303875",
       "image": "img/2b303875.png",
@@ -531,15 +540,6 @@
       "title": "Mensajes a su novia del joven que mató a su compañera en Corrientes: \"Quiero cumplir todo lo que me pidas\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-24T11:06:50+00:00"
-    },
-    {
-      "id": "170085ef",
-      "image": "img/170085ef.png",
-      "image_sha": "b33417604d19c5c57b49696f95f0fefcc65288e5",
-      "url": "https://www.radiodos.com.ar/212719-corrientes-se-esperan-jornadas-agradables-y-temperaturas-en-aumento-durante-la-semana",
-      "title": "Corrientes: Se esperan jornadas agradables y temperaturas en aumento durante la semana",
-      "volanta": "Tiempo",
-      "date": "2026-08-24T10:48:03+00:00"
     }
   ]
 }
