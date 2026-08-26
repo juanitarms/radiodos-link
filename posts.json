@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T20:59:11+00:00",
+  "updated": "2026-08-26T20:59:43+00:00",
   "posts": [
+    {
+      "id": "d194444b",
+      "image": "img/d194444b.png",
+      "image_sha": "c4eb3aa00c78722859578ad7307e1daacfa5ad71",
+      "url": "https://www.radiodos.com.ar/212890-diputado-de-milei-sobre-la-mora-compraron-la-tele-para-el-mundial-argentina-perdio-y-ahora-no-quieren-pagar",
+      "title": "Diputado de Milei, sobre la Mora: \"Compraron la tele para el Mundial, Argentina perdió y ahora no quieren pagar\"",
+      "volanta": "INSOLITO",
+      "date": "2026-08-26T20:59:43+00:00"
+    },
     {
       "id": "855ff9f1",
       "image": "img/855ff9f1.png",
@@ -531,15 +540,6 @@
       "title": "L-Gante habló de Wanda Nara y negó que la historia está cerrada: \"Fue una batalla de quien se la mandaba más\"",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-08-24T18:45:26+00:00"
-    },
-    {
-      "id": "a32a7028",
-      "image": "img/a32a7028.png",
-      "image_sha": "1889de8fde01f00e7cd36192844e0e02f7c639d1",
-      "url": "https://www.radiodos.com.ar/212746-accidente-en-el-tren-sarmiento-una-mujer-fue-arrollada",
-      "title": "Accidente en el Tren Sarmiento: una mujer fue arrollada",
-      "volanta": "TERRIBLE",
-      "date": "2026-08-24T16:43:17+00:00"
     }
   ]
 }
