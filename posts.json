@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T16:45:23+00:00",
+  "updated": "2026-08-26T16:46:02+00:00",
   "posts": [
+    {
+      "id": "d29b6ad4",
+      "image": "img/d29b6ad4.png",
+      "image_sha": "98399d43f452f4d5397bea6c0b4e671afae1a754",
+      "url": "https://www.radiodos.com.ar/212857-visita-del-papa-leon-xiv-a-argentina-estara-en-buenos-aires-cordoba-y-lujan",
+      "title": "Visita del Papa León XIV a Argentina: estará en Buenos Aires, Córdoba y Luján",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-08-26T16:46:02+00:00"
+    },
     {
       "id": "56853ed4",
       "image": "img/56853ed4.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand sorprendió a Beto Casella con una pregunta tras una inesperada confesión",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-08-24T15:01:08+00:00"
-    },
-    {
-      "id": "b4be7bc7",
-      "image": "img/b4be7bc7.png",
-      "image_sha": "aceb4fa38f4bb737f09701dbed2dbe80fdb14f52",
-      "url": "https://www.radiodos.com.ar/212749-la-catedral-de-la-plata-y-gano-el-mundial-de-catedrales-tras-una-votacion-record",
-      "title": "La Catedral de La Plata y ganó el Mundial de Catedrales tras una votación récord",
-      "volanta": "RECONOCIMIENTO",
-      "date": "2026-08-24T14:33:21+00:00"
     }
   ]
 }
