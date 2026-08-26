@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T21:00:20+00:00",
+  "updated": "2026-08-26T21:03:39+00:00",
   "posts": [
+    {
+      "id": "93280034",
+      "image": "img/93280034.png",
+      "image_sha": "896862b5383b4f19f1baccfe86d042acaf90c738",
+      "url": "https://www.radiodos.com.ar/212894-san-cosme-invita-a-disfrutar-la-luna-de-sangre-en-la-laguna-totora",
+      "title": "San Cosme invita a disfrutar la Luna de Sangre en la Laguna Totora",
+      "volanta": "PAISAJE NATURAL",
+      "date": "2026-08-26T21:03:39+00:00"
+    },
     {
       "id": "59aa3cd4",
       "image": "img/59aa3cd4.png",
@@ -531,15 +540,6 @@
       "title": "Un informe asegura que la caída del consumo arrastra la recaudación tributaria y afecta a las provincias",
       "volanta": "ECONOMÍA",
       "date": "2026-08-24T18:46:37+00:00"
-    },
-    {
-      "id": "d8be2ea0",
-      "image": "img/d8be2ea0.png",
-      "image_sha": "003450ef0dba9785ce49c548c1311bf75115653e",
-      "url": "https://www.radiodos.com.ar/212760-corrientes-y-resistencia-son-sedes-del-argentino-de-selecciones-a-de-futsal",
-      "title": "Corrientes y Resistencia son sedes del Argentino de Selecciones A de Futsal",
-      "volanta": "INAUGURACIÓN EN LA SECRETARÍA DE DEPORTES",
-      "date": "2026-08-24T18:46:01+00:00"
     }
   ]
 }
