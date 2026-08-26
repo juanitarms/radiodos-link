@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T10:48:30+00:00",
+  "updated": "2026-08-26T11:08:05+00:00",
   "posts": [
+    {
+      "id": "2b303875",
+      "image": "img/2b303875.png",
+      "image_sha": "b5904e32845f06dd3389eb8cfd28d0e6a61c2a0f",
+      "url": "https://www.radiodos.com.ar/212842-caso-bartlett-ratifican-acusacion-de-homicidio-contra-los-policias",
+      "title": "Caso Bartlett: ratifican acusación de homicidio contra los policías",
+      "volanta": "GOYA",
+      "date": "2026-08-26T11:08:05+00:00"
+    },
     {
       "id": "b41b2cc8",
       "image": "img/b41b2cc8.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: Se esperan jornadas agradables y temperaturas en aumento durante la semana",
       "volanta": "Tiempo",
       "date": "2026-08-24T10:48:03+00:00"
-    },
-    {
-      "id": "4030479d",
-      "image": "img/4030479d.png",
-      "image_sha": "e02f9a63b3a305095028af654c3959cf114bd904",
-      "url": "https://www.radiodos.com.ar/212713-f1-lando-norris-logro-un-triunfo-en-paises-bajos-y-franco-colapinto-sufrio-doble-penalizacion-y-quedo-14°",
-      "title": "F1: Lando Norris logró un triunfo en Países Bajos y Franco Colapinto sufrió doble penalización y quedó 14°",
-      "volanta": "Tras haber quedado en zona de puntos",
-      "date": "2026-08-23T21:25:05+00:00"
     }
   ]
 }
