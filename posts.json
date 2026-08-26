@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T18:10:15+00:00",
+  "updated": "2026-08-26T18:10:54+00:00",
   "posts": [
+    {
+      "id": "d22efc51",
+      "image": "img/d22efc51.png",
+      "image_sha": "13f2cdca49b3885b656a482fff04bcf784695e7c",
+      "url": "https://www.radiodos.com.ar/212875-barcelona-insiste-por-julian-alvarez-la-postura-de-joan-laporta-ante-el-atletico-de-madrid",
+      "title": "Barcelona insiste por Julián Álvarez: la postura de Joan Laporta ante el Atlético de Madrid",
+      "volanta": "ESPAÑA",
+      "date": "2026-08-26T18:10:54+00:00"
+    },
     {
       "id": "039d8fc9",
       "image": "img/039d8fc9.png",
@@ -531,15 +540,6 @@
       "title": "Nadia Beller denunció otro intento de atentado: ¿quién es el hombre que quiso entrar al hospital?",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-08-24T16:41:33+00:00"
-    },
-    {
-      "id": "23d555df",
-      "image": "img/23d555df.png",
-      "image_sha": "8a2e0cb7cb2986566652c69eb7abd7125786c959",
-      "url": "https://www.radiodos.com.ar/212757-el-crudo-relato-de-sofia-gonet-en-ph-podemos-hablar-sobre-su-adiccion-inopinada-estuve-seis-meses",
-      "title": "El crudo relato de Sofía Gonet en PH, Podemos Hablar sobre su adicción inopinada: \"Estuve seis meses...\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-08-24T15:30:30+00:00"
     }
   ]
 }
