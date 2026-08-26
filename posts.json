@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T14:37:23+00:00",
+  "updated": "2026-08-26T16:45:23+00:00",
   "posts": [
+    {
+      "id": "56853ed4",
+      "image": "img/56853ed4.png",
+      "image_sha": "ef09bd3c9a3ba822b2376996bf85dcaaa460bc27",
+      "url": "https://www.radiodos.com.ar/212872-mendoza-murio-el-tio-de-las-dos-hermanas-y-ya-son-cinco-los-fallecidos-por-el-choque-en-la-ruta-60",
+      "title": "Mendoza: murió el tío de las dos hermanas y ya son cinco los fallecidos por el choque en la Ruta 60",
+      "volanta": "TRAGEDIA",
+      "date": "2026-08-26T16:45:23+00:00"
+    },
     {
       "id": "2d5795ba",
       "image": "img/2d5795ba.png",
@@ -531,15 +540,6 @@
       "title": "La Catedral de La Plata y ganó el Mundial de Catedrales tras una votación récord",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-08-24T14:33:21+00:00"
-    },
-    {
-      "id": "b16847ae",
-      "image": "img/b16847ae.png",
-      "image_sha": "8ffcccfe01e09090aa7a6ecb25c70f9c14e3bc85",
-      "url": "https://www.radiodos.com.ar/212743-aun-sin-cumplir-con-la-ley-de-emergencia-en-discapacidad-milei-aprobo-una-nueva-suba-en-el-nomenclador",
-      "title": "Aún sin cumplir con la Ley de Emergencia en Discapacidad, Milei aprobó una nueva suba en el nomenclador",
-      "volanta": "GOBIERNO NACIONAL",
-      "date": "2026-08-24T14:04:29+00:00"
     }
   ]
 }
