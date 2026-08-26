@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T21:04:11+00:00",
+  "updated": "2026-08-26T22:17:14+00:00",
   "posts": [
+    {
+      "id": "068600cf",
+      "image": "img/068600cf.png",
+      "image_sha": "5fab489a852b9cb10ccaeeb98fbf218ff2a492df",
+      "url": "https://www.radiodos.com.ar/212895-corrientes-cerca-brindara-servicios-y-tramites-gratuitos-en-loreto",
+      "title": "Corrientes Cerca brindará servicios y trámites gratuitos en Loreto",
+      "volanta": "ESTE VIERNES",
+      "date": "2026-08-26T22:17:14+00:00"
+    },
     {
       "id": "9e67ff4f",
       "image": "img/9e67ff4f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes acumuló USD 216 millones en exportaciones durante el primer semestre",
       "volanta": "DATOS OFICIALES",
       "date": "2026-08-24T21:15:17+00:00"
-    },
-    {
-      "id": "ea540558",
-      "image": "img/ea540558.png",
-      "image_sha": "34d231edc6710f270acf66e102fb25cdcd03b2ff",
-      "url": "https://www.radiodos.com.ar/212770-un-informe-de-la-universidad-di-tella-asegura-que-crece-la-confianza-en-el-gobierno-nacional",
-      "title": "Un informe de la Universidad Di Tella asegura que crece la confianza en el Gobierno Nacional",
-      "volanta": "NUMEROS",
-      "date": "2026-08-24T20:23:28+00:00"
     }
   ]
 }
