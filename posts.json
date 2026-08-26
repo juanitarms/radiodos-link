@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T14:20:39+00:00",
+  "updated": "2026-08-26T14:37:23+00:00",
   "posts": [
+    {
+      "id": "2d5795ba",
+      "image": "img/2d5795ba.png",
+      "image_sha": "9c81e35f1c4a60cf56947edfb0e975abccbcf11f",
+      "url": "https://www.radiodos.com.ar/212871-tension-por-su-futuro-julian-alvarez-falto-al-entrenamiento-del-atletico-de-madrid",
+      "title": "Tensión por su futuro: Julián Álvarez faltó al entrenamiento del Atlético de Madrid",
+      "volanta": "ESPAÑA",
+      "date": "2026-08-26T14:37:23+00:00"
+    },
     {
       "id": "78343469",
       "image": "img/78343469.png",
@@ -531,15 +540,6 @@
       "title": "Aún sin cumplir con la Ley de Emergencia en Discapacidad, Milei aprobó una nueva suba en el nomenclador",
       "volanta": "GOBIERNO NACIONAL",
       "date": "2026-08-24T14:04:29+00:00"
-    },
-    {
-      "id": "073f22a5",
-      "image": "img/073f22a5.png",
-      "image_sha": "b6ad299259a189b26a90c0fd3544a7614505af97",
-      "url": "https://www.radiodos.com.ar/212744-la-polemica-sancion-a-franco-colapinto-en-zandvoort-el-video-que-cuestiona-el-castigo-de-la-f1",
-      "title": "La polémica sanción a Franco Colapinto en Zandvoort: el video que cuestiona el castigo de la F1",
-      "volanta": "FÓRMULA 1",
-      "date": "2026-08-24T13:41:13+00:00"
     }
   ]
 }
