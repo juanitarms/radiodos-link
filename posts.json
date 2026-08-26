@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T22:19:11+00:00",
+  "updated": "2026-08-26T22:19:58+00:00",
   "posts": [
+    {
+      "id": "6f38ee8e",
+      "image": "img/6f38ee8e.png",
+      "image_sha": "b73a1cff804a6a2bc42d912c1d882cc0d1b76cdc",
+      "url": "https://www.radiodos.com.ar/212899-corrientes-un-detenido-por-el-robo-de-una-lampara-led-de-alumbrado-publico",
+      "title": "Corrientes: un detenido por el robo de una lámpara LED de alumbrado público",
+      "volanta": "BARRIO LA CHOLA",
+      "date": "2026-08-26T22:19:58+00:00"
+    },
     {
       "id": "5be3fed9",
       "image": "img/5be3fed9.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: el consumo en supermercados cayó un 32,8% respecto de su promedio histórico",
       "volanta": "CONSUMO EN CRISIS",
       "date": "2026-08-24T21:25:04+00:00"
-    },
-    {
-      "id": "bf459020",
-      "image": "img/bf459020.png",
-      "image_sha": "c1baf4417f4686740538acb663ca9adefbc7375c",
-      "url": "https://www.radiodos.com.ar/212776-detienen-a-ivancito-tras-asaltar-a-una-joven-que-llevaba-a-su-bebe-en-brazos",
-      "title": "Detienen a \"Ivancito\" tras asaltar a una joven que llevaba a su bebé en brazos",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-24T21:24:08+00:00"
     }
   ]
 }
