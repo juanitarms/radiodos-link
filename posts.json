@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T21:03:39+00:00",
+  "updated": "2026-08-26T21:04:11+00:00",
   "posts": [
+    {
+      "id": "9e67ff4f",
+      "image": "img/9e67ff4f.png",
+      "image_sha": "6d0be9d55160645df10b141e2a72a29122216f87",
+      "url": "https://www.radiodos.com.ar/212893-la-camara-de-diputados-de-corrientes-aprobo-un-proyecto-para-prevenir-suicidios-en-el-puente-general-belgrano",
+      "title": "La Cámara de Diputados de Corrientes aprobó un proyecto para prevenir suicidios en el Puente General Belgrano",
+      "volanta": "IMPULSO DE SOFÍA BRAMBILLA",
+      "date": "2026-08-26T21:04:11+00:00"
+    },
     {
       "id": "93280034",
       "image": "img/93280034.png",
@@ -531,15 +540,6 @@
       "title": "Un informe de la Universidad Di Tella asegura que crece la confianza en el Gobierno Nacional",
       "volanta": "NUMEROS",
       "date": "2026-08-24T20:23:28+00:00"
-    },
-    {
-      "id": "633203dc",
-      "image": "img/633203dc.png",
-      "image_sha": "f0432d34e235a64e9e17e750948416dba23a8e0a",
-      "url": "https://www.radiodos.com.ar/212761-un-informe-asegura-que-la-caida-del-consumo-arrastra-la-recaudacion-tributaria-y-afecta-a-las-provincias",
-      "title": "Un informe asegura que la caída del consumo arrastra la recaudación tributaria y afecta a las provincias",
-      "volanta": "ECONOMÍA",
-      "date": "2026-08-24T18:46:37+00:00"
     }
   ]
 }
