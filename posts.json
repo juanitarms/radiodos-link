@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T11:25:36+00:00",
+  "updated": "2026-08-26T11:40:38+00:00",
   "posts": [
+    {
+      "id": "2746fa5b",
+      "image": "img/2746fa5b.png",
+      "image_sha": "784990a8f3184d8b33ea1b042fba70bf4e07767c",
+      "url": "https://www.radiodos.com.ar/212844-causa-gimnasios-viva-liberaron-a-lucas-menocchio-y-a-su-madre-y-continuan-los-allanamientos-por-narcotrafico",
+      "title": "Causa gimnasios Viva: liberaron a Lucas Menocchio y a su madre y continúan los allanamientos por narcotráfico",
+      "volanta": "SIGUEN IMPUTADOS",
+      "date": "2026-08-26T11:40:38+00:00"
+    },
     {
       "id": "d4da49c5",
       "image": "img/d4da49c5.png",
@@ -531,15 +540,6 @@
       "title": "Patrullero de la Policía se incrustó en una casa en pleno centro de Corrientes",
       "volanta": "BARRIO LIBERTAD",
       "date": "2026-08-24T11:34:36+00:00"
-    },
-    {
-      "id": "d3eaefea",
-      "image": "img/d3eaefea.png",
-      "image_sha": "f48e2cd455d52936a3d59ee4aa92dd2fe7991048",
-      "url": "https://www.radiodos.com.ar/212724-mensajes-a-su-novia-del-joven-que-mato-a-su-companera-en-corrientes-quiero-cumplir-todo-lo-que-me-pidas",
-      "title": "Mensajes a su novia del joven que mató a su compañera en Corrientes: \"Quiero cumplir todo lo que me pidas\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-24T11:06:50+00:00"
     }
   ]
 }
