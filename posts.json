@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T16:46:36+00:00",
+  "updated": "2026-08-26T18:10:15+00:00",
   "posts": [
+    {
+      "id": "039d8fc9",
+      "image": "img/039d8fc9.png",
+      "image_sha": "5b1260cb0f3c31903300af7b3734f03c25a609bf",
+      "url": "https://www.radiodos.com.ar/212873-llaryora-presento-el-plan-alivio-cordobes",
+      "title": "Llaryora presentó el plan \"Alivio Cordobés\"",
+      "volanta": "PROPUESTA",
+      "date": "2026-08-26T18:10:15+00:00"
+    },
     {
       "id": "8a589d70",
       "image": "img/8a589d70.png",
@@ -531,15 +540,6 @@
       "title": "El crudo relato de Sofía Gonet en PH, Podemos Hablar sobre su adicción inopinada: \"Estuve seis meses...\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-08-24T15:30:30+00:00"
-    },
-    {
-      "id": "2f2a1ce5",
-      "image": "img/2f2a1ce5.png",
-      "image_sha": "7cb0685d32f5f9a2e1ae90ec56d68507f9ca987b",
-      "url": "https://www.radiodos.com.ar/212758-dpec-alerta-sobre-estafas-falso-asistente-virtual-y-ofrecimientos-de-descuentos",
-      "title": "DPEC alerta sobre estafas: falso asistente virtual y ofrecimientos de descuentos",
-      "volanta": "Importante",
-      "date": "2026-08-24T15:23:50+00:00"
     }
   ]
 }
