@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T20:59:43+00:00",
+  "updated": "2026-08-26T21:00:20+00:00",
   "posts": [
+    {
+      "id": "59aa3cd4",
+      "image": "img/59aa3cd4.png",
+      "image_sha": "6beb531bd0fec5db99aa6e8bd9bd36ab64be9462",
+      "url": "https://www.radiodos.com.ar/212889-murio-el-musico-uruguayo-ruben-rada-a-los-83-anos",
+      "title": "Murió el músico uruguayo Rubén Rada a los 83 años",
+      "volanta": "EN MONTEVIDEO",
+      "date": "2026-08-26T21:00:20+00:00"
+    },
     {
       "id": "d194444b",
       "image": "img/d194444b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes y Resistencia son sedes del Argentino de Selecciones A de Futsal",
       "volanta": "INAUGURACIÓN EN LA SECRETARÍA DE DEPORTES",
       "date": "2026-08-24T18:46:01+00:00"
-    },
-    {
-      "id": "ac5babb6",
-      "image": "img/ac5babb6.png",
-      "image_sha": "caca9ffb72c52b2336170367c268eac07fa4d51e",
-      "url": "https://www.radiodos.com.ar/212759-l-gante-hablo-de-wanda-nara-y-nego-que-la-historia-esta-cerrada-fue-una-batalla-de-quien-se-la-mandaba-mas",
-      "title": "L-Gante habló de Wanda Nara y negó que la historia está cerrada: \"Fue una batalla de quien se la mandaba más\"",
-      "volanta": "¿QUÉ DIJO?",
-      "date": "2026-08-24T18:45:26+00:00"
     }
   ]
 }
