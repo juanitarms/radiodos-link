@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T20:58:17+00:00",
+  "updated": "2026-08-26T20:59:11+00:00",
   "posts": [
+    {
+      "id": "855ff9f1",
+      "image": "img/855ff9f1.png",
+      "image_sha": "58f928d9037380ea238527fe953f666ddfd804b8",
+      "url": "https://www.radiodos.com.ar/212892-corrientes-produce-270-millones-de-kilos-de-carne-al-ano-y-retiene-mas-del-50-de-sus-terneros",
+      "title": "Corrientes produce 270 millones de kilos de carne al año y retiene más del 50% de sus terneros",
+      "volanta": "CAMPO",
+      "date": "2026-08-26T20:59:11+00:00"
+    },
     {
       "id": "fa998fea",
       "image": "img/fa998fea.png",
@@ -531,15 +540,6 @@
       "title": "Accidente en el Tren Sarmiento: una mujer fue arrollada",
       "volanta": "TERRIBLE",
       "date": "2026-08-24T16:43:17+00:00"
-    },
-    {
-      "id": "2db95d97",
-      "image": "img/2db95d97.png",
-      "image_sha": "f57b3d04872ad5e679a7074a89fa53c2194d5e8a",
-      "url": "https://www.radiodos.com.ar/212747-el-gobierno-creo-un-plan-nacional-para-la-atencion-a-personas-autistas-pero-sin-presupuesto",
-      "title": "El Gobierno creó un plan nacional para la atención a personas autistas pero sin presupuesto",
-      "volanta": "SIN SENTIDO",
-      "date": "2026-08-24T16:42:44+00:00"
     }
   ]
 }
