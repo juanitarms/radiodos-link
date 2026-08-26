@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T12:34:38+00:00",
+  "updated": "2026-08-26T12:55:20+00:00",
   "posts": [
+    {
+      "id": "a489b331",
+      "image": "img/a489b331.png",
+      "image_sha": "b43ab4fc2dbc7310917f4dd22769f44eae47075a",
+      "url": "https://www.radiodos.com.ar/212854-se-viene-la-xxxviii°-peregrinacion-de-la-policia-de-corrientes-a-itati",
+      "title": "Se viene la XXXVIII° Peregrinación de la Policía de Corrientes a Itatí",
+      "volanta": "FE MARIANA",
+      "date": "2026-08-26T12:55:20+00:00"
+    },
     {
       "id": "58d3139b",
       "image": "img/58d3139b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: un rottweiler atacó a otro perro más pequeño y lo mató",
       "volanta": "UNA MUJER HERIDA",
       "date": "2026-08-24T12:33:34+00:00"
-    },
-    {
-      "id": "197dc4c6",
-      "image": "img/197dc4c6.png",
-      "image_sha": "eb5a84b891a09fde15875743b524d8749b5e66e1",
-      "url": "https://www.radiodos.com.ar/212729-mato-al-perro-del-vecino-de-un-disparo-en-el-interior-de-corrientes",
-      "title": "Mató al perro del vecino de un disparo en el interior de Corrientes",
-      "volanta": "SANTO TOME",
-      "date": "2026-08-24T12:13:58+00:00"
     }
   ]
 }
