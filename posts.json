@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T12:08:28+00:00",
+  "updated": "2026-08-26T12:34:38+00:00",
   "posts": [
+    {
+      "id": "58d3139b",
+      "image": "img/58d3139b.png",
+      "image_sha": "33e1920901996421f00cb9795a7d59fa68b52e0e",
+      "url": "https://www.radiodos.com.ar/212848-corrientes-policias-salvaron-la-vida-de-un-nene-con-problemas-respiratorios",
+      "title": "Corrientes: policías salvaron la vida de un nene con problemas respiratorios",
+      "volanta": "BARRIO JARDIN",
+      "date": "2026-08-26T12:34:38+00:00"
+    },
     {
       "id": "0f5f247f",
       "image": "img/0f5f247f.png",
@@ -531,15 +540,6 @@
       "title": "Mató al perro del vecino de un disparo en el interior de Corrientes",
       "volanta": "SANTO TOME",
       "date": "2026-08-24T12:13:58+00:00"
-    },
-    {
-      "id": "5d60ffc4",
-      "image": "img/5d60ffc4.png",
-      "image_sha": "9580cfcee9c7ec56cd658d1548e18ed9f88c495e",
-      "url": "https://www.radiodos.com.ar/212728-estudian-la-mejora-genetica-de-un-pasto-clave-para-la-ganaderia-del-nea",
-      "title": "Estudian la mejora genética de un pasto clave para la ganadería del NEA",
-      "volanta": "Con drones y técnicas de selección",
-      "date": "2026-08-24T11:51:41+00:00"
     }
   ]
 }
