@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T11:40:38+00:00",
+  "updated": "2026-08-26T12:08:28+00:00",
   "posts": [
+    {
+      "id": "0f5f247f",
+      "image": "img/0f5f247f.png",
+      "image_sha": "4069b70d84e2981c5119b3434f91665b8d6d276e",
+      "url": "https://www.radiodos.com.ar/212846-polich-acompano-la-presentacion-del-primer-compendio-de-la-mesa-de-consenso-urbano-de-corrientes",
+      "title": "Polich acompañó la presentación del Primer Compendio de la Mesa de Consenso Urbano de Corrientes",
+      "volanta": "MODERNIZACIÓN Y CRECIMIENTO",
+      "date": "2026-08-26T12:08:28+00:00"
+    },
     {
       "id": "2746fa5b",
       "image": "img/2746fa5b.png",
@@ -531,15 +540,6 @@
       "title": "Estudian la mejora genética de un pasto clave para la ganadería del NEA",
       "volanta": "Con drones y técnicas de selección",
       "date": "2026-08-24T11:51:41+00:00"
-    },
-    {
-      "id": "79b305a8",
-      "image": "img/79b305a8.png",
-      "image_sha": "b33cf37b0dfa13691bfb64ff033b66247678567c",
-      "url": "https://www.radiodos.com.ar/212726-patrullero-de-la-policia-se-incrusto-en-una-casa-en-pleno-centro-de-corrientes",
-      "title": "Patrullero de la Policía se incrustó en una casa en pleno centro de Corrientes",
-      "volanta": "BARRIO LIBERTAD",
-      "date": "2026-08-24T11:34:36+00:00"
     }
   ]
 }
