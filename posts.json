@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T13:57:40+00:00",
+  "updated": "2026-08-26T14:20:39+00:00",
   "posts": [
+    {
+      "id": "78343469",
+      "image": "img/78343469.png",
+      "image_sha": "35ddfed96a18a45408a0bea3aaac94bee19ec91d",
+      "url": "https://www.radiodos.com.ar/212862-renuncio-el-titular-de-la-direccion-general-de-aduanas-jose-andres-velis",
+      "title": "Renunció el titular de la Dirección General de Aduanas, José Andrés Velis",
+      "volanta": "CAMBIOS",
+      "date": "2026-08-26T14:20:39+00:00"
+    },
     {
       "id": "7954efb1",
       "image": "img/7954efb1.png",
@@ -531,15 +540,6 @@
       "title": "La polémica sanción a Franco Colapinto en Zandvoort: el video que cuestiona el castigo de la F1",
       "volanta": "FÓRMULA 1",
       "date": "2026-08-24T13:41:13+00:00"
-    },
-    {
-      "id": "e99e67c3",
-      "image": "img/e99e67c3.png",
-      "image_sha": "b0283cd7ffac3898683fd48c111615a4203fd545",
-      "url": "https://www.radiodos.com.ar/212738-un-afortunado-de-esquina-gano-mas-de-42-millones-en-la-poceada",
-      "title": "Un afortunado de Esquina ganó más de $42 millones en la Poceada",
-      "volanta": "APUESTA",
-      "date": "2026-08-24T13:26:26+00:00"
     }
   ]
 }
