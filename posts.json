@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T12:55:20+00:00",
+  "updated": "2026-08-26T13:38:46+00:00",
   "posts": [
+    {
+      "id": "d2baddc8",
+      "image": "img/d2baddc8.png",
+      "image_sha": "64663738e89573cf2e5caa6877d4b925bd20f910",
+      "url": "https://www.radiodos.com.ar/212864-tragedia-un-adolescente-recibio-una-descarga-electrica-dentro-de-una-escuela-y-murio",
+      "title": "Tragedia: un adolescente recibió una descarga eléctrica dentro de una escuela y murió",
+      "volanta": "MISIONES",
+      "date": "2026-08-26T13:38:46+00:00"
+    },
     {
       "id": "a489b331",
       "image": "img/a489b331.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: encontraron un chanchito que se perdió y lo devolvieron a su dueño",
       "volanta": "ITATI",
       "date": "2026-08-24T12:51:44+00:00"
-    },
-    {
-      "id": "4b5b3d78",
-      "image": "img/4b5b3d78.png",
-      "image_sha": "2e6cde4c5b5235ec0768d3b1a11d739a3671e13d",
-      "url": "https://www.radiodos.com.ar/212730-corrientes-un-rottweiler-ataco-a-otro-perro-mas-pequeno-y-lo-mato",
-      "title": "Corrientes: un rottweiler atacó a otro perro más pequeño y lo mató",
-      "volanta": "UNA MUJER HERIDA",
-      "date": "2026-08-24T12:33:34+00:00"
     }
   ]
 }
