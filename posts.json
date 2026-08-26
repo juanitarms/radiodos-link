@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T13:38:46+00:00",
+  "updated": "2026-08-26T13:57:40+00:00",
   "posts": [
+    {
+      "id": "7954efb1",
+      "image": "img/7954efb1.png",
+      "image_sha": "96450014b9dc00e168c48c079209389599e605a0",
+      "url": "https://www.radiodos.com.ar/212858-buscan-a-un-nino-que-no-volvio-a-su-casa",
+      "title": "Buscan a un niño que no volvió a su casa",
+      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
+      "date": "2026-08-26T13:57:40+00:00"
+    },
     {
       "id": "d2baddc8",
       "image": "img/d2baddc8.png",
@@ -531,15 +540,6 @@
       "title": "Un afortunado de Esquina ganó más de $42 millones en la Poceada",
       "volanta": "APUESTA",
       "date": "2026-08-24T13:26:26+00:00"
-    },
-    {
-      "id": "5f2f828c",
-      "image": "img/5f2f828c.png",
-      "image_sha": "3e605bf082a8aef1f940d3c767316c30856c3720",
-      "url": "https://www.radiodos.com.ar/212734-corrientes-encontraron-un-chanchito-que-se-perdio-y-lo-devolvieron-a-su-dueno",
-      "title": "Corrientes: encontraron un chanchito que se perdió y lo devolvieron a su dueño",
-      "volanta": "ITATI",
-      "date": "2026-08-24T12:51:44+00:00"
     }
   ]
 }
