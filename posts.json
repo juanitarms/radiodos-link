@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T18:10:54+00:00",
+  "updated": "2026-08-26T18:11:34+00:00",
   "posts": [
+    {
+      "id": "5a31e380",
+      "image": "img/5a31e380.png",
+      "image_sha": "67acbe31d118573d56520139ca1d9bf894c24878",
+      "url": "https://www.radiodos.com.ar/212877-river-va-por-la-clasificacion-ante-independiente-santa-fe-el-11-del-chacho-coudet",
+      "title": "River va por la clasificación ante Independiente Santa Fe: el 11 del Chacho Coudet",
+      "volanta": "A TODO O NADA",
+      "date": "2026-08-26T18:11:34+00:00"
+    },
     {
       "id": "d22efc51",
       "image": "img/d22efc51.png",
@@ -531,15 +540,6 @@
       "title": "Abogado defensor de Yamil Gane: \"Él no tiene participación en el grupo Exen\"",
       "volanta": "DETENIDO",
       "date": "2026-08-24T16:42:12+00:00"
-    },
-    {
-      "id": "743c1a8d",
-      "image": "img/743c1a8d.png",
-      "image_sha": "dacb6cf80727ed54c307ea7c3098929d032f50b9",
-      "url": "https://www.radiodos.com.ar/212742-nadia-beller-denuncio-otro-intento-de-atentado-quien-es-el-hombre-que-quiso-entrar-al-hospital",
-      "title": "Nadia Beller denunció otro intento de atentado: ¿quién es el hombre que quiso entrar al hospital?",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-08-24T16:41:33+00:00"
     }
   ]
 }
