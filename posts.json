@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-26T22:18:13+00:00",
+  "updated": "2026-08-26T22:19:11+00:00",
   "posts": [
+    {
+      "id": "5be3fed9",
+      "image": "img/5be3fed9.png",
+      "image_sha": "cddc8bbd037ce6c0eec56787f4600ac2f319aaab",
+      "url": "https://www.radiodos.com.ar/212896-juicio-por-loan-detenido-por-narcotrafico-apunto-contra-el-yankee-soria",
+      "title": "Juicio por Loan: detenido por narcotráfico apuntó contra el \"Yankee\" Soria",
+      "volanta": "COBERTURA ESPECIAL",
+      "date": "2026-08-26T22:19:11+00:00"
+    },
     {
       "id": "29c2bc4f",
       "image": "img/29c2bc4f.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a \"Ivancito\" tras asaltar a una joven que llevaba a su bebé en brazos",
       "volanta": "CORRIENTES",
       "date": "2026-08-24T21:24:08+00:00"
-    },
-    {
-      "id": "3f1e21ea",
-      "image": "img/3f1e21ea.png",
-      "image_sha": "1bf7e0415c80fb8b1c25192227a80eaff968c2fa",
-      "url": "https://www.radiodos.com.ar/212772-manuel-adorni-pidio-una-prorroga-para-justificar-su-patrimonio",
-      "title": "Manuel Adorni pidió una prórroga para justificar su patrimonio",
-      "volanta": "EXMINISTRO DE MILEI",
-      "date": "2026-08-24T21:23:00+00:00"
     }
   ]
 }
