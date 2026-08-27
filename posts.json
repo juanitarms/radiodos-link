@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T17:27:40+00:00",
+  "updated": "2026-08-27T17:28:18+00:00",
   "posts": [
+    {
+      "id": "4c180108",
+      "image": "img/4c180108.png",
+      "image_sha": "e0dae25a71b2968782929427fa89a1a3314258d2",
+      "url": "https://www.radiodos.com.ar/212945-desarrollo-social-coordina-un-plan-integral-en-comedores-oficiales-de-capital",
+      "title": "Desarrollo Social coordina un plan integral en comedores oficiales de Capital",
+      "volanta": "REUNIÓN DE TRABAJO",
+      "date": "2026-08-27T17:28:18+00:00"
+    },
     {
       "id": "d6c9ca80",
       "image": "img/d6c9ca80.png",
@@ -531,15 +540,6 @@
       "title": "Griselda Siciliani se hartó de Sabrina Rojas y respondió a sus polémicos comentarios",
       "volanta": "¡Guerra total!",
       "date": "2026-08-25T17:28:50+00:00"
-    },
-    {
-      "id": "ce626782",
-      "image": "img/ce626782.png",
-      "image_sha": "b3abf948ac07775771aebecebc369b230c492771",
-      "url": "https://www.radiodos.com.ar/212821-telefe-anuncio-los-primeros-confirmados-de-masterchef-celebrity-y-estallo-el-morbo",
-      "title": "Telefe anunció los primeros confirmados de MasterChef Celebrity y estalló el morbo",
-      "volanta": "GRAN EXPECTATIVA",
-      "date": "2026-08-25T17:28:13+00:00"
     }
   ]
 }
