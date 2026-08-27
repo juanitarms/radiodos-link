@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T21:06:49+00:00",
+  "updated": "2026-08-27T21:07:42+00:00",
   "posts": [
+    {
+      "id": "10b77940",
+      "image": "img/10b77940.png",
+      "image_sha": "bdc4fc2cca46aae06a92b89c71893ae6df808ccc",
+      "url": "https://www.radiodos.com.ar/212962-el-gobernador-jp-valdes-acompano-el-aniversario-de-santo-tome-y-destaco-su-potencial-estrategico-y-productivo",
+      "title": "El gobernador JP Valdés acompañó el aniversario de Santo Tomé y destacó su potencial estratégico y productivo",
+      "volanta": "ACTO Y DESFILE",
+      "date": "2026-08-27T21:07:42+00:00"
+    },
     {
       "id": "0ec7a72a",
       "image": "img/0ec7a72a.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: en pleno juicio sobreseyeron a imputados por  \"trata\"",
       "volanta": "DECISIÓN JUDICIAL",
       "date": "2026-08-25T21:10:54+00:00"
-    },
-    {
-      "id": "637c3af7",
-      "image": "img/637c3af7.png",
-      "image_sha": "2c11c77a86948411d53e706cd64c563d2a2184fe",
-      "url": "https://www.radiodos.com.ar/212831-clase-media-en-crisis-casi-el-50-tiene-dificultades-para-llegar-a-fin-de-mes",
-      "title": "Clase media, en crisis: casi el 50% tiene \"dificultades\" para llegar a fin de mes",
-      "volanta": "EFECTO DE LA ECONOMÍA LIBERTARIA",
-      "date": "2026-08-25T20:53:23+00:00"
     }
   ]
 }
