@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T21:20:15+00:00",
+  "updated": "2026-08-27T21:22:25+00:00",
   "posts": [
+    {
+      "id": "cf5e4490",
+      "image": "img/cf5e4490.png",
+      "image_sha": "db62095c3625a3ad1945986542c1c4e4eb1d2d02",
+      "url": "https://www.radiodos.com.ar/212965-conocido-arrebatador-fue-detenido-tras-persecucion-por-varias-calles-de-corrientes",
+      "title": "Conocido arrebatador fue detenido tras persecución por varias calles de Corrientes",
+      "volanta": "TERMINÓ EN EL BARRIO PROGRESO",
+      "date": "2026-08-27T21:22:25+00:00"
+    },
     {
       "id": "a21c74ee",
       "image": "img/a21c74ee.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a un comerciante acusado de cazar un yaguareté",
       "volanta": "HISTÓRICO",
       "date": "2026-08-25T22:24:23+00:00"
-    },
-    {
-      "id": "e1d3c6a1",
-      "image": "img/e1d3c6a1.png",
-      "image_sha": "d4dc22414ceff2d80a9c8118c6783ef13a289b1e",
-      "url": "https://www.radiodos.com.ar/212835-concejal-correntina-perdio-el-control-de-su-moto-tras-embestir-a-un-animal-y-fue-internada",
-      "title": "Concejal correntina perdió el control de su moto tras embestir a un animal y fue internada",
-      "volanta": "este martes",
-      "date": "2026-08-25T22:14:46+00:00"
     }
   ]
 }
