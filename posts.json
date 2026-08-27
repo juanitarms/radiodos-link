@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T14:21:26+00:00",
+  "updated": "2026-08-27T14:36:06+00:00",
   "posts": [
+    {
+      "id": "5969b8d5",
+      "image": "img/5969b8d5.png",
+      "image_sha": "cbc0ed645d2ffa6180452e6125694a4e0cab967a",
+      "url": "https://www.radiodos.com.ar/212936-sofia-gala-minimizo-los-posibles-juicios-por-la-serie-de-moria-y-lanzo-una-frase-sobre-luis-vadala",
+      "title": "Sofía Gala minimizó los posibles juicios por la serie de Moria y lanzó una frase sobre Luis Vadalá",
+      "volanta": "PUSO LÍMITES",
+      "date": "2026-08-27T14:36:06+00:00"
+    },
     {
       "id": "87bc16dd",
       "image": "img/87bc16dd.png",
@@ -531,15 +540,6 @@
       "title": "Comienza el juicio contra un comerciante que asesinó a un Yaguareté y lo expuso en un video",
       "volanta": "EN DICIEMBRE DE 2022",
       "date": "2026-08-25T14:00:12+00:00"
-    },
-    {
-      "id": "c284e0a6",
-      "image": "img/c284e0a6.png",
-      "image_sha": "084c25736d697d70a70e19944eeb49b594536ced",
-      "url": "https://www.radiodos.com.ar/212806-encontraron-muerto-en-la-carcel-al-abogado-condenado-por-el-femicidio-de-su-mujer-en-un-country-de-salta",
-      "title": "Encontraron muerto en la cárcel al abogado condenado por el femicidio de su mujer en un country de Salta",
-      "volanta": "MISTERIO",
-      "date": "2026-08-25T13:33:23+00:00"
     }
   ]
 }
