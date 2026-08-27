@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T17:28:18+00:00",
+  "updated": "2026-08-27T17:28:53+00:00",
   "posts": [
+    {
+      "id": "4c5f40ff",
+      "image": "img/4c5f40ff.png",
+      "image_sha": "8c17c0554056de72bc2b9cc0719301fc96b52abe",
+      "url": "https://www.radiodos.com.ar/212948-sebastian-orresta-estoy-contento-de-llegar-a-una-institucion-tan-importante",
+      "title": "Sebastián Orresta: \"estoy contento de llegar a una institución tan importante\"",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-08-27T17:28:53+00:00"
+    },
     {
       "id": "4c180108",
       "image": "img/4c180108.png",
@@ -531,15 +540,6 @@
       "title": "La llamativa reacción del público hacia Luck Ra tras su polémica ruptura con La Joaqui: \"No bailás\"",
       "volanta": "TODO MAL",
       "date": "2026-08-25T17:29:22+00:00"
-    },
-    {
-      "id": "d0b467d0",
-      "image": "img/d0b467d0.png",
-      "image_sha": "3e37af94b4ff776658f3bd3bb0ae3cd6f72c0dff",
-      "url": "https://www.radiodos.com.ar/212820-griselda-siciliani-se-harto-de-sabrina-rojas-y-respondio-a-sus-polemicos-comentarios",
-      "title": "Griselda Siciliani se hartó de Sabrina Rojas y respondió a sus polémicos comentarios",
-      "volanta": "¡Guerra total!",
-      "date": "2026-08-25T17:28:50+00:00"
     }
   ]
 }
