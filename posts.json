@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T16:41:51+00:00",
+  "updated": "2026-08-27T17:27:40+00:00",
   "posts": [
+    {
+      "id": "d6c9ca80",
+      "image": "img/d6c9ca80.png",
+      "image_sha": "4e6c8e50a0305e26b8962bad57aac223f378591e",
+      "url": "https://www.radiodos.com.ar/212946-se-busca-declarar-la-emergencia-del-sistema-urbano-de-veredas-en-corrientes",
+      "title": "Se busca declarar la Emergencia del Sistema Urbano de Veredas en Corrientes",
+      "volanta": "Nueva Sesión",
+      "date": "2026-08-27T17:27:40+00:00"
+    },
     {
       "id": "e3e4a46e",
       "image": "img/e3e4a46e.png",
@@ -531,15 +540,6 @@
       "title": "Telefe anunció los primeros confirmados de MasterChef Celebrity y estalló el morbo",
       "volanta": "GRAN EXPECTATIVA",
       "date": "2026-08-25T17:28:13+00:00"
-    },
-    {
-      "id": "142b9a13",
-      "image": "img/142b9a13.png",
-      "image_sha": "b77cf707ce00738de837e5008aac29881e2997ae",
-      "url": "https://www.radiodos.com.ar/212819-gran-hermano-a-quien-pidio-ver-tamara-paganini-tras-ser-eliminada",
-      "title": "Gran Hermano: a quién pidió ver Tamara Paganini tras ser eliminada",
-      "volanta": "QUEDAN 7 JUGADORAS",
-      "date": "2026-08-25T15:01:26+00:00"
     }
   ]
 }
