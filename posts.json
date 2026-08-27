@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T16:40:30+00:00",
+  "updated": "2026-08-27T16:41:07+00:00",
   "posts": [
+    {
+      "id": "a70f755e",
+      "image": "img/a70f755e.png",
+      "image_sha": "a0760861dd6407a2672b12fec4edee794ebc43e9",
+      "url": "https://www.radiodos.com.ar/212942-extienden-el-regimen-para-garantizar-el-suministro-de-gas-licuado-gratuito-a-cuarteles-de-bomberos-voluntarios",
+      "title": "Extienden el régimen para garantizar el suministro de gas licuado gratuito a cuarteles de bomberos voluntarios",
+      "volanta": "BUENA NOTICIA",
+      "date": "2026-08-27T16:41:07+00:00"
+    },
     {
       "id": "529577a8",
       "image": "img/529577a8.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio realiza operativos de control de tránsito en el Corredor Belgrano",
       "volanta": "CONTINUARÁN REALIZÁNDOSE",
       "date": "2026-08-25T14:49:07+00:00"
-    },
-    {
-      "id": "08af1a6f",
-      "image": "img/08af1a6f.png",
-      "image_sha": "4988e05e3b2a0082b3426f8f15de3bc5bb8483af",
-      "url": "https://www.radiodos.com.ar/212815-tierra-del-fuego-cruzo-al-gobierno-por-la-operacion-de-un-buque-petrolero-britanico-en-el-puerto-de-ushuaia",
-      "title": "Tierra del Fuego cruzó al Gobierno por la operación de un buque petrolero británico en el puerto de Ushuaia",
-      "volanta": "POLÉMICA",
-      "date": "2026-08-25T14:29:20+00:00"
     }
   ]
 }
