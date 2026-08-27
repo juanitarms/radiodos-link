@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T16:41:07+00:00",
+  "updated": "2026-08-27T16:41:51+00:00",
   "posts": [
+    {
+      "id": "e3e4a46e",
+      "image": "img/e3e4a46e.png",
+      "image_sha": "dd47f92f01abb0b3ef40795f40d0d67ab524a56d",
+      "url": "https://www.radiodos.com.ar/212944-festival-por-el-dia-de-la-persona-donante-de-organos",
+      "title": "Festival por el Día de la Persona Donante de Órganos",
+      "volanta": "FIN DE SEMANA",
+      "date": "2026-08-27T16:41:51+00:00"
+    },
     {
       "id": "a70f755e",
       "image": "img/a70f755e.png",
@@ -531,15 +540,6 @@
       "title": "Gran Hermano: a quién pidió ver Tamara Paganini tras ser eliminada",
       "volanta": "QUEDAN 7 JUGADORAS",
       "date": "2026-08-25T15:01:26+00:00"
-    },
-    {
-      "id": "87f9e2e9",
-      "image": "img/87f9e2e9.png",
-      "image_sha": "99dd3e8c30f3894e1749fbf1f143b2098e8316ae",
-      "url": "https://www.radiodos.com.ar/212811-el-municipio-realiza-operativos-de-control-de-transito-en-el-corredor-belgrano",
-      "title": "El Municipio realiza operativos de control de tránsito en el Corredor Belgrano",
-      "volanta": "CONTINUARÁN REALIZÁNDOSE",
-      "date": "2026-08-25T14:49:07+00:00"
     }
   ]
 }
