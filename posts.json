@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T20:30:05+00:00",
+  "updated": "2026-08-27T21:06:12+00:00",
   "posts": [
+    {
+      "id": "e8f1e3d2",
+      "image": "img/e8f1e3d2.png",
+      "image_sha": "0daac7e2135a3a744f9505607276d828c12f2f68",
+      "url": "https://www.radiodos.com.ar/212960-se-busca-declarar-la-emergencia-del-sistema-urbano-de-veredas-en-corrientes",
+      "title": "Se busca declarar la Emergencia del Sistema Urbano de Veredas en Corrientes",
+      "volanta": "RECLAMO URBANO",
+      "date": "2026-08-27T21:06:12+00:00"
+    },
     {
       "id": "996f7c77",
       "image": "img/996f7c77.png",
@@ -531,15 +540,6 @@
       "title": "Un comerciante descubrió que su empleado de confianza le robó más de $2 millones",
       "volanta": "CORRIENTES",
       "date": "2026-08-25T20:52:14+00:00"
-    },
-    {
-      "id": "3b564d16",
-      "image": "img/3b564d16.png",
-      "image_sha": "2ba2ea75485db00ea3c766d0134cad2bc2792f01",
-      "url": "https://www.radiodos.com.ar/212830-juicio-por-loan-pena-pidieron-citar-a-declarar-al-abogado-fernando-burlando",
-      "title": "Juicio por Loan Peña: pidieron citar a declarar al abogado Fernando Burlando",
-      "volanta": "EN CORRIENTES",
-      "date": "2026-08-25T20:48:34+00:00"
     }
   ]
 }
