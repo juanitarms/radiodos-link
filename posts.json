@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T12:58:46+00:00",
+  "updated": "2026-08-27T13:20:10+00:00",
   "posts": [
+    {
+      "id": "df118b12",
+      "image": "img/df118b12.png",
+      "image_sha": "0ef5cb9d064196806c37b275598d145b6311dcc0",
+      "url": "https://www.radiodos.com.ar/212922-franco-colapinto-celebro-su-continuidad-en-alpine-y-ya-piensa-en-2027-competir-y-ganar",
+      "title": "Franco Colapinto celebró su continuidad en Alpine y ya piensa en 2027: \"Competir y ganar\"",
+      "volanta": "FÓRMULA 1",
+      "date": "2026-08-27T13:20:10+00:00"
+    },
     {
       "id": "408ed0a9",
       "image": "img/408ed0a9.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior provincial",
       "volanta": "ESTE MARTES",
       "date": "2026-08-25T12:33:33+00:00"
-    },
-    {
-      "id": "27acd246",
-      "image": "img/27acd246.png",
-      "image_sha": "fc249424d6a0505f5e20c7f0224fa13a6972a4c7",
-      "url": "https://www.radiodos.com.ar/212783-goya-conmocionada-por-la-muerte-de-un-ex-empleado-de-la-textil-alal",
-      "title": "Goya conmocionada por la muerte de un ex empleado de la textil Alal",
-      "volanta": "TRAS EL CIERRE Y DESPIDOS",
-      "date": "2026-08-25T11:58:53+00:00"
     }
   ]
 }
