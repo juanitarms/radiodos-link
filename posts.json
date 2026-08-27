@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T17:28:53+00:00",
+  "updated": "2026-08-27T18:44:52+00:00",
   "posts": [
+    {
+      "id": "a6695956",
+      "image": "img/a6695956.png",
+      "image_sha": "716fb61601282b9b33c3c1f0a1cadbd6cf24dac5",
+      "url": "https://www.radiodos.com.ar/212951-un-camionero-evito-que-un-delincuente-lo-asalte-abatiendolo-y-quedo-libre-por-legitima-defensa",
+      "title": "Un camionero evitó que un delincuente lo asalte abatiéndolo y quedó libre por \"legítima defensa\"",
+      "volanta": "Santa Fe",
+      "date": "2026-08-27T18:44:52+00:00"
+    },
     {
       "id": "4c5f40ff",
       "image": "img/4c5f40ff.png",
@@ -531,15 +540,6 @@
       "title": "Quiénes avanzaron a la próxima etapa de Popstars tras el casting",
       "volanta": "GRAN COMIENZO",
       "date": "2026-08-25T19:29:27+00:00"
-    },
-    {
-      "id": "10e3cdd8",
-      "image": "img/10e3cdd8.png",
-      "image_sha": "16e6f7cababec183c46e144ceecc9d479464adee",
-      "url": "https://www.radiodos.com.ar/212822-la-llamativa-reaccion-del-publico-hacia-luck-ra-tras-su-polemica-ruptura-con-la-joaqui-no-bailas",
-      "title": "La llamativa reacción del público hacia Luck Ra tras su polémica ruptura con La Joaqui: \"No bailás\"",
-      "volanta": "TODO MAL",
-      "date": "2026-08-25T17:29:22+00:00"
     }
   ]
 }
