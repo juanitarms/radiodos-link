@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T14:36:06+00:00",
+  "updated": "2026-08-27T15:13:07+00:00",
   "posts": [
+    {
+      "id": "17684e79",
+      "image": "img/17684e79.png",
+      "image_sha": "4d8af82fade1c277998f43c450c4bfeee525e24a",
+      "url": "https://www.radiodos.com.ar/212941-natalia-oreiro-despidio-a-ruben-rada-con-un-emotivo-mensaje-fuiste-sos-y-seras-lo-mas-grande-del-uruguay",
+      "title": "Natalia Oreiro despidió a Rubén Rada con un emotivo mensaje: \"Fuiste, sos y serás lo más grande del Uruguay\"",
+      "volanta": "ÚLTIMO ADIÓS",
+      "date": "2026-08-27T15:13:07+00:00"
+    },
     {
       "id": "5969b8d5",
       "image": "img/5969b8d5.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: se confirmó el plus de hasta $150.000 y a quiénes se acreditará",
       "volanta": "INFO IMPORTANTE",
       "date": "2026-08-25T14:14:00+00:00"
-    },
-    {
-      "id": "c18df455",
-      "image": "img/c18df455.png",
-      "image_sha": "6ac8d7d2f7a3f57183130ede1c83e473783be7f1",
-      "url": "https://www.radiodos.com.ar/212804-comienza-el-juicio-contra-un-comerciante-que-asesino-a-un-yaguarete-y-lo-expuso-en-un-video",
-      "title": "Comienza el juicio contra un comerciante que asesinó a un Yaguareté y lo expuso en un video",
-      "volanta": "EN DICIEMBRE DE 2022",
-      "date": "2026-08-25T14:00:12+00:00"
     }
   ]
 }
