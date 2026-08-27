@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T18:45:30+00:00",
+  "updated": "2026-08-27T18:46:00+00:00",
   "posts": [
+    {
+      "id": "01a4efb0",
+      "image": "img/01a4efb0.png",
+      "image_sha": "c72dafc653e56a1ad657c8755dc23129dddbbf9c",
+      "url": "https://www.radiodos.com.ar/212953-santa-fe-un-fuerte-temporal-de-viento-y-granizo-azoto-a-las-rosas",
+      "title": "Santa Fe: un fuerte temporal de viento y granizó azotó a Las Rosas",
+      "volanta": "TERRIBLE",
+      "date": "2026-08-27T18:46:00+00:00"
+    },
     {
       "id": "604330a6",
       "image": "img/604330a6.png",
@@ -531,15 +540,6 @@
       "title": "Delfina Buffil fue convocada a la Selección Argentina de judo",
       "volanta": "Judo",
       "date": "2026-08-25T19:30:32+00:00"
-    },
-    {
-      "id": "0eac8d70",
-      "image": "img/0eac8d70.png",
-      "image_sha": "e566562312e26432b09ebff7d6fb7f1793ff248f",
-      "url": "https://www.radiodos.com.ar/212824-el-gobierno-extendio-el-programa-de-bloqueo-de-celulares-ahora-tambien-a-las-carceles-provinciales",
-      "title": "El Gobierno extendió el programa de bloqueo de celulares ahora también a las cárceles provinciales",
-      "volanta": "MEDIDAS",
-      "date": "2026-08-25T19:30:05+00:00"
     }
   ]
 }
