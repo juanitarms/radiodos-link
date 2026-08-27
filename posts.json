@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T12:44:41+00:00",
+  "updated": "2026-08-27T12:58:46+00:00",
   "posts": [
+    {
+      "id": "408ed0a9",
+      "image": "img/408ed0a9.png",
+      "image_sha": "0fb6e697d1d92230da9735f2fb953e2b46086d96",
+      "url": "https://www.radiodos.com.ar/212914-arranca-la-liga-provincial-de-mayores-femenina",
+      "title": "Arranca la Liga Provincial de Mayores Femenina",
+      "volanta": "BÁSQUET",
+      "date": "2026-08-27T12:58:46+00:00"
+    },
     {
       "id": "ed5046b5",
       "image": "img/ed5046b5.png",
@@ -531,15 +540,6 @@
       "title": "Goya conmocionada por la muerte de un ex empleado de la textil Alal",
       "volanta": "TRAS EL CIERRE Y DESPIDOS",
       "date": "2026-08-25T11:58:53+00:00"
-    },
-    {
-      "id": "3cb1d3f1",
-      "image": "img/3cb1d3f1.png",
-      "image_sha": "a36cb62385efbbff86b5bb4f7f67a16f60c778e6",
-      "url": "https://www.radiodos.com.ar/212787-con-un-fin-solidario-corrientes-prepara-su-segunda-batalla-de-aura",
-      "title": "Con un fin solidario, Corrientes prepara su segunda \"Batalla de Aura\"",
-      "volanta": "EN EL PARQUE CAMBA CUA",
-      "date": "2026-08-25T11:31:47+00:00"
     }
   ]
 }
