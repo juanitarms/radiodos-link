@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T21:22:25+00:00",
+  "updated": "2026-08-27T21:23:11+00:00",
   "posts": [
+    {
+      "id": "eab01edf",
+      "image": "img/eab01edf.png",
+      "image_sha": "7b53715c248dbfe621874d294dc452d631a2fdaa",
+      "url": "https://www.radiodos.com.ar/212964-el-70-de-los-jovenes-entre-18-y-25-anos-no-tienen-trabajo-formal-o-estan-desocupados",
+      "title": "El 70% de los jóvenes entre 18 y 25 años no tienen trabajo formal o están desocupados",
+      "volanta": "sEGÚN UN estudio de la UCA",
+      "date": "2026-08-27T21:23:11+00:00"
+    },
     {
       "id": "cf5e4490",
       "image": "img/cf5e4490.png",
@@ -531,15 +540,6 @@
       "title": "Pitín Aragón: \"Yo amo a Cristina, pero ella no es eterna y hoy es tiempo de Axel\"",
       "volanta": "VOZ PERONISTA",
       "date": "2026-08-25T22:35:53+00:00"
-    },
-    {
-      "id": "3b3ec13b",
-      "image": "img/3b3ec13b.png",
-      "image_sha": "a765e778e8ebdb45a682b5907a63379ca5d1d9a5",
-      "url": "https://www.radiodos.com.ar/212834-condenaron-a-un-comerciante-acusado-de-cazar-un-yaguarete",
-      "title": "Condenaron a un comerciante acusado de cazar un yaguareté",
-      "volanta": "HISTÓRICO",
-      "date": "2026-08-25T22:24:23+00:00"
     }
   ]
 }
