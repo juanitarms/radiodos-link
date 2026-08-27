@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T18:44:52+00:00",
+  "updated": "2026-08-27T18:45:30+00:00",
   "posts": [
+    {
+      "id": "604330a6",
+      "image": "img/604330a6.png",
+      "image_sha": "77aba5626be3711eb75e6fc2eaff82ca4466f41d",
+      "url": "https://www.radiodos.com.ar/212954-donald-trump-excluyo-a-la-argentina-de-la-importacion-sin-aranceles-de-300-mil-toneladas-de-carne",
+      "title": "Donald Trump excluyó a la Argentina de la importación sin aranceles de 300 mil toneladas de carne",
+      "volanta": "NORMATIVA",
+      "date": "2026-08-27T18:45:30+00:00"
+    },
     {
       "id": "a6695956",
       "image": "img/a6695956.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno extendió el programa de bloqueo de celulares ahora también a las cárceles provinciales",
       "volanta": "MEDIDAS",
       "date": "2026-08-25T19:30:05+00:00"
-    },
-    {
-      "id": "64be1f4f",
-      "image": "img/64be1f4f.png",
-      "image_sha": "73611558f6a9df6cd8591b76332e55d136c2d5b8",
-      "url": "https://www.radiodos.com.ar/212823-quienes-avanzaron-a-la-proxima-etapa-de-popstars-tras-el-casting",
-      "title": "Quiénes avanzaron a la próxima etapa de Popstars tras el casting",
-      "volanta": "GRAN COMIENZO",
-      "date": "2026-08-25T19:29:27+00:00"
     }
   ]
 }
