@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T15:13:07+00:00",
+  "updated": "2026-08-27T16:40:30+00:00",
   "posts": [
+    {
+      "id": "529577a8",
+      "image": "img/529577a8.png",
+      "image_sha": "ec8538d1223c413076f7799f9ad9411f4fc713fe",
+      "url": "https://www.radiodos.com.ar/212935-la-morosidad-en-la-argentina-sigue-en-alza-y-ya-duplica-el-promedio-de-la-region",
+      "title": "La morosidad en la Argentina sigue en alza y ya duplica el promedio de la región",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-27T16:40:30+00:00"
+    },
     {
       "id": "17684e79",
       "image": "img/17684e79.png",
@@ -531,15 +540,6 @@
       "title": "Tierra del Fuego cruzó al Gobierno por la operación de un buque petrolero británico en el puerto de Ushuaia",
       "volanta": "POLÉMICA",
       "date": "2026-08-25T14:29:20+00:00"
-    },
-    {
-      "id": "5ff7d8d3",
-      "image": "img/5ff7d8d3.png",
-      "image_sha": "c6a18c4303f911d87ebda2059b0fe22d7251af54",
-      "url": "https://www.radiodos.com.ar/212817-anses-se-confirmo-el-plus-de-hasta-150000-y-a-quienes-se-acreditara",
-      "title": "ANSES: se confirmó el plus de hasta $150.000 y a quiénes se acreditará",
-      "volanta": "INFO IMPORTANTE",
-      "date": "2026-08-25T14:14:00+00:00"
     }
   ]
 }
