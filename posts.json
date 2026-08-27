@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T21:23:11+00:00",
+  "updated": "2026-08-27T21:23:42+00:00",
   "posts": [
+    {
+      "id": "56426748",
+      "image": "img/56426748.png",
+      "image_sha": "e2f168c968e7c7d4ccbaba1f912daa562ad78017",
+      "url": "https://www.radiodos.com.ar/212963-la-ciudad-de-corrientes-pone-el-foco-en-los-adultos-mayores-para-construir-una-movilidad-mas-inclusiva",
+      "title": "La ciudad de Corrientes pone el foco en los adultos mayores para construir una movilidad más inclusiva",
+      "volanta": "CONCIENTIZACIÓN COMUNITARIA",
+      "date": "2026-08-27T21:23:42+00:00"
+    },
     {
       "id": "eab01edf",
       "image": "img/eab01edf.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a 15 agentes penitenciarios acusados de torturas y abuso sexual contra presas",
       "volanta": "PRESAS",
       "date": "2026-08-25T22:37:02+00:00"
-    },
-    {
-      "id": "307a628f",
-      "image": "img/307a628f.png",
-      "image_sha": "8623a7d4387dec325bfa8ec185b4f03d8edd3ef0",
-      "url": "https://www.radiodos.com.ar/212836-pitin-aragon-yo-amo-a-cristina-pero-ella-no-es-eterna-y-hoy-es-tiempo-de-axel",
-      "title": "Pitín Aragón: \"Yo amo a Cristina, pero ella no es eterna y hoy es tiempo de Axel\"",
-      "volanta": "VOZ PERONISTA",
-      "date": "2026-08-25T22:35:53+00:00"
     }
   ]
 }
