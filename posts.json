@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T10:48:47+00:00",
+  "updated": "2026-08-27T11:21:01+00:00",
   "posts": [
+    {
+      "id": "c4626792",
+      "image": "img/c4626792.png",
+      "image_sha": "a5302163426feda94bd673c0f0227ca73bb83ead",
+      "url": "https://www.radiodos.com.ar/212906-mercedes-mas-de-240-carnets-de-conducir-habrian-sido-cobrados-pero-el-dinero-no-ingreso-al-municipio",
+      "title": "Mercedes: más de 240 carnets de conducir habrían sido cobrados pero el dinero no ingresó al Municipio",
+      "volanta": "DENUNCIA DEL INTENDENTE",
+      "date": "2026-08-27T11:21:01+00:00"
+    },
     {
       "id": "d6f0c4d0",
       "image": "img/d6f0c4d0.png",
@@ -531,15 +540,6 @@
       "title": "Irán ofrece una recompensa de 10 millones de dólares a quien mate a Barron Trump",
       "volanta": "ALERTA",
       "date": "2026-08-24T23:22:28+00:00"
-    },
-    {
-      "id": "af68f0d0",
-      "image": "img/af68f0d0.png",
-      "image_sha": "d0fa0522654729c006ac157cd39e185187a1b8e4",
-      "url": "https://www.radiodos.com.ar/212778-sigue-la-semana-del-arbol-plantar-es-importante-pero-cuidarlo-es-un-compromiso-de-todos",
-      "title": "Sigue la Semana del Árbol: \"Plantar es importante, pero cuidarlo es un compromiso de todos\"",
-      "volanta": "MEDIO AMBIENTE",
-      "date": "2026-08-24T22:36:20+00:00"
     }
   ]
 }
