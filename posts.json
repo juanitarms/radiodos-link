@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T18:46:00+00:00",
+  "updated": "2026-08-27T20:30:05+00:00",
   "posts": [
+    {
+      "id": "996f7c77",
+      "image": "img/996f7c77.png",
+      "image_sha": "9c7f2080ddd7a54f31cc4320bd5a7d4897189f31",
+      "url": "https://www.radiodos.com.ar/212958-coudet-dejo-de-ser-el-dt-de-river-plate-y-leonardo-ponzio-asumira-como-interino",
+      "title": "Coudet dejó de ser el DT de River Plate y Leonardo Ponzio asumirá como interino",
+      "volanta": "FINAL ANUNCIADO",
+      "date": "2026-08-27T20:30:05+00:00"
+    },
     {
       "id": "01a4efb0",
       "image": "img/01a4efb0.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan Peña: pidieron citar a declarar al abogado Fernando Burlando",
       "volanta": "EN CORRIENTES",
       "date": "2026-08-25T20:48:34+00:00"
-    },
-    {
-      "id": "5dc7a539",
-      "image": "img/5dc7a539.png",
-      "image_sha": "5f8736e9093e8c4ae45e4bbcae260cbd5ebe5c5f",
-      "url": "https://www.radiodos.com.ar/212826-delfina-buffil-fue-convocada-a-la-seleccion-argentina-de-judo",
-      "title": "Delfina Buffil fue convocada a la Selección Argentina de judo",
-      "volanta": "Judo",
-      "date": "2026-08-25T19:30:32+00:00"
     }
   ]
 }
