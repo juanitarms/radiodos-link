@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T13:36:32+00:00",
+  "updated": "2026-08-27T14:03:03+00:00",
   "posts": [
+    {
+      "id": "34fdd0bc",
+      "image": "img/34fdd0bc.png",
+      "image_sha": "d775b78e30c6fa76f84f8b82dc7307afc6c09210",
+      "url": "https://www.radiodos.com.ar/212930-femicidio-de-agostina-vega-claudio-barrelier-cambio-de-abogado-y-pidio-ampliar-su-declaracion-indagatoria",
+      "title": "Femicidio de Agostina Vega: Claudio Barrelier cambió de abogado y pidió ampliar su declaración indagatoria",
+      "volanta": "CASO ABIERTO",
+      "date": "2026-08-27T14:03:03+00:00"
+    },
     {
       "id": "6b508ff5",
       "image": "img/6b508ff5.png",
@@ -531,15 +540,6 @@
       "title": "Emoción y agradecimiento eterno para Salvador Miqueri en el teatro Vera",
       "volanta": "HOMENAJE",
       "date": "2026-08-25T13:08:35+00:00"
-    },
-    {
-      "id": "d650bc59",
-      "image": "img/d650bc59.png",
-      "image_sha": "fa9e8bd6e28e946df210327230f9064c4f473760",
-      "url": "https://www.radiodos.com.ar/212796-el-gobernador-acompano-a-san-luis-en-el-inicio-de-sus-festejos-patronales",
-      "title": "El gobernador acompañó a San Luis en el inicio de sus festejos patronales",
-      "volanta": "FE Y DEVOCIÓN",
-      "date": "2026-08-25T12:53:25+00:00"
     }
   ]
 }
