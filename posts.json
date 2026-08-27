@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T10:34:56+00:00",
+  "updated": "2026-08-27T10:48:47+00:00",
   "posts": [
+    {
+      "id": "d6f0c4d0",
+      "image": "img/d6f0c4d0.png",
+      "image_sha": "89d4d73de9b52952c68e03999d88bd096cbec3dd",
+      "url": "https://www.radiodos.com.ar/212904-dia-de-la-radiodifusion-argentina-por-que-se-celebra-hoy",
+      "title": "Día de la Radiodifusión Argentina: por qué se celebra hoy",
+      "volanta": "FELÍZ DÍA RADIO DOS",
+      "date": "2026-08-27T10:48:47+00:00"
+    },
     {
       "id": "e30f134a",
       "image": "img/e30f134a.png",
@@ -531,15 +540,6 @@
       "title": "Sigue la Semana del Árbol: \"Plantar es importante, pero cuidarlo es un compromiso de todos\"",
       "volanta": "MEDIO AMBIENTE",
       "date": "2026-08-24T22:36:20+00:00"
-    },
-    {
-      "id": "08ef2844",
-      "image": "img/08ef2844.png",
-      "image_sha": "620b45f66d5862516275211abf13b526784a06fc",
-      "url": "https://www.radiodos.com.ar/212777-las-leonas-se-cruzaran-ante-australia-por-las-semifinales-del-mundial",
-      "title": "Las Leonas se cruzarán ante Australia por las semifinales del Mundial",
-      "volanta": "HOCKEY",
-      "date": "2026-08-24T22:35:03+00:00"
     }
   ]
 }
