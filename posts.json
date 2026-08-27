@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T13:20:10+00:00",
+  "updated": "2026-08-27T13:36:32+00:00",
   "posts": [
+    {
+      "id": "6b508ff5",
+      "image": "img/6b508ff5.png",
+      "image_sha": "b550d99a6460eddfdeb570a2228b4db1c35ad549",
+      "url": "https://www.radiodos.com.ar/212920-cada-vez-hay-mas-avistajes-de-yaguaretes-que-hacer-si-te-cruzas-con-uno",
+      "title": "Cada vez hay más avistajes de yaguaretés: ¿qué hacer si te cruzás con uno?",
+      "volanta": "REINTRODUCCIÓN DE LA ESPECIE",
+      "date": "2026-08-27T13:36:32+00:00"
+    },
     {
       "id": "df118b12",
       "image": "img/df118b12.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador acompañó a San Luis en el inicio de sus festejos patronales",
       "volanta": "FE Y DEVOCIÓN",
       "date": "2026-08-25T12:53:25+00:00"
-    },
-    {
-      "id": "89acbcf7",
-      "image": "img/89acbcf7.png",
-      "image_sha": "9c58ab93e297a1320caed7532fda483a603982e7",
-      "url": "https://www.radiodos.com.ar/212790-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-provincial",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior provincial",
-      "volanta": "ESTE MARTES",
-      "date": "2026-08-25T12:33:33+00:00"
     }
   ]
 }
