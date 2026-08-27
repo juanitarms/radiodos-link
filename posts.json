@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T11:39:29+00:00",
+  "updated": "2026-08-27T12:19:03+00:00",
   "posts": [
+    {
+      "id": "7e060d99",
+      "image": "img/7e060d99.png",
+      "image_sha": "acf85c63d63487e0b1d121311157f59627a0bdb8",
+      "url": "https://www.radiodos.com.ar/212909-cerca-de-700-ninas-y-ninos-de-los-cdi-se-convirtieron-en-los-primeros-guardianes-ambientales-de-corrientes",
+      "title": "Cerca de 700 niñas y niños de los CDI se convirtieron en los primeros Guardianes Ambientales de Corrientes",
+      "volanta": "EN EL PARQUE CAMBA CUA",
+      "date": "2026-08-27T12:19:03+00:00"
+    },
     {
       "id": "7e93dd87",
       "image": "img/7e93dd87.png",
@@ -531,15 +540,6 @@
       "title": "Preso por robar caños de gas de una escuela de Corrientes",
       "volanta": "RATERO",
       "date": "2026-08-25T11:06:08+00:00"
-    },
-    {
-      "id": "1f8f4865",
-      "image": "img/1f8f4865.png",
-      "image_sha": "66dda784381efa2ab7c2c42974fc2a69f68b0ac6",
-      "url": "https://www.radiodos.com.ar/212782-juicio-por-la-desaparicion-de-loan-declaran-un-policia-un-periodista-y-un-camarografo",
-      "title": "Juicio por la desaparición de Loan: declaran un policía, un periodista y un camarógrafo",
-      "volanta": "AUDIENCIA",
-      "date": "2026-08-25T10:35:02+00:00"
     }
   ]
 }
