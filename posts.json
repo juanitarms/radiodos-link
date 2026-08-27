@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T21:07:42+00:00",
+  "updated": "2026-08-27T21:20:15+00:00",
   "posts": [
+    {
+      "id": "a21c74ee",
+      "image": "img/a21c74ee.png",
+      "image_sha": "dafbfeb9858e5e039a231faadb270aa5d7b3bcdc",
+      "url": "https://www.radiodos.com.ar/212966-nacion-adjudico-el-concesion-de-las-rutas-en-corrientes-chaco-y-misiones",
+      "title": "Nación adjudicó el concesión de las rutas en Corrientes, Chaco y Misiones",
+      "volanta": "Por 20 años",
+      "date": "2026-08-27T21:20:15+00:00"
+    },
     {
       "id": "10b77940",
       "image": "img/10b77940.png",
@@ -531,15 +540,6 @@
       "title": "Concejal correntina perdió el control de su moto tras embestir a un animal y fue internada",
       "volanta": "este martes",
       "date": "2026-08-25T22:14:46+00:00"
-    },
-    {
-      "id": "8a5efc0a",
-      "image": "img/8a5efc0a.png",
-      "image_sha": "e647fbcb880733e234e732557d3d41e8643390cd",
-      "url": "https://www.radiodos.com.ar/212833-caso-loan-en-pleno-juicio-sobreseyeron-a-imputados-por-trata",
-      "title": "Caso Loan: en pleno juicio sobreseyeron a imputados por  \"trata\"",
-      "volanta": "DECISIÓN JUDICIAL",
-      "date": "2026-08-25T21:10:54+00:00"
     }
   ]
 }
