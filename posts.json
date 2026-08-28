@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T20:40:16+00:00",
+  "updated": "2026-08-28T20:41:51+00:00",
   "posts": [
+    {
+      "id": "811e24b2",
+      "image": "img/811e24b2.png",
+      "image_sha": "1aca35ca2814a42a4aad4ade095903eac1b3a9b8",
+      "url": "https://www.radiodos.com.ar/213026-fracaso-el-consejo-del-salario-el-gobierno-definira-por-decreto-el-nuevo-sueldo-minimo",
+      "title": "Fracasó el Consejo del Salario: el Gobierno definirá por decreto el nuevo sueldo mínimo",
+      "volanta": "Revés",
+      "date": "2026-08-28T20:41:51+00:00"
+    },
     {
       "id": "03476636",
       "image": "img/03476636.png",
@@ -531,15 +540,6 @@
       "title": "San Cosme invita a disfrutar la Luna de Sangre en la Laguna Totora",
       "volanta": "PAISAJE NATURAL",
       "date": "2026-08-26T21:03:39+00:00"
-    },
-    {
-      "id": "59aa3cd4",
-      "image": "img/59aa3cd4.png",
-      "image_sha": "6beb531bd0fec5db99aa6e8bd9bd36ab64be9462",
-      "url": "https://www.radiodos.com.ar/212889-murio-el-musico-uruguayo-ruben-rada-a-los-83-anos",
-      "title": "Murió el músico uruguayo Rubén Rada a los 83 años",
-      "volanta": "EN MONTEVIDEO",
-      "date": "2026-08-26T21:00:20+00:00"
     }
   ]
 }
