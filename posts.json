@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T17:20:46+00:00",
+  "updated": "2026-08-28T17:21:29+00:00",
   "posts": [
+    {
+      "id": "f0d49895",
+      "image": "img/f0d49895.png",
+      "image_sha": "f9b28859ff0519928204dc9bb73e50e11a49a6d5",
+      "url": "https://www.radiodos.com.ar/212998-vuelve-ver-para-ser-libres-y-llega-a-capital-con-controles-oftalmologicos",
+      "title": "Vuelve Ver para Ser Libres y llega a Capital con controles oftalmológicos",
+      "volanta": "DESARROLLO SOCIAL",
+      "date": "2026-08-28T17:21:29+00:00"
+    },
     {
       "id": "61c1cd82",
       "image": "img/61c1cd82.png",
@@ -531,15 +540,6 @@
       "title": "Llaryora presentó el plan \"Alivio Cordobés\"",
       "volanta": "PROPUESTA",
       "date": "2026-08-26T18:10:15+00:00"
-    },
-    {
-      "id": "8a589d70",
-      "image": "img/8a589d70.png",
-      "image_sha": "293d8534aa0b9ca805efde8618c47305148e4c3b",
-      "url": "https://www.radiodos.com.ar/212874-la-diputada-amendola-presento-el-proyecto-de-ley-bufalo",
-      "title": "La diputada Améndola presentó el proyecto de Ley Búfalo",
-      "volanta": "LEGISLATURA PROVINCIAL",
-      "date": "2026-08-26T16:46:36+00:00"
     }
   ]
 }
