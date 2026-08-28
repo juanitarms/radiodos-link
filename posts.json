@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T12:15:07+00:00",
+  "updated": "2026-08-28T12:36:04+00:00",
   "posts": [
+    {
+      "id": "04c6bb38",
+      "image": "img/04c6bb38.png",
+      "image_sha": "e81d53ec23c1140d0da7c3566e6218d1315652b8",
+      "url": "https://www.radiodos.com.ar/212985-el-gobierno-de-corrientes-convoca-a-proyectos-productivos-que-buscan-financiacion",
+      "title": "El Gobierno de Corrientes convoca a proyectos productivos que buscan financiación",
+      "volanta": "IMPULSO A PROPUESTAS INDUSTRIALES",
+      "date": "2026-08-28T12:36:04+00:00"
+    },
     {
       "id": "258bfa1a",
       "image": "img/258bfa1a.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: un adolescente recibió una descarga eléctrica dentro de una escuela y murió",
       "volanta": "MISIONES",
       "date": "2026-08-26T13:38:46+00:00"
-    },
-    {
-      "id": "a489b331",
-      "image": "img/a489b331.png",
-      "image_sha": "b43ab4fc2dbc7310917f4dd22769f44eae47075a",
-      "url": "https://www.radiodos.com.ar/212854-se-viene-la-xxxviii°-peregrinacion-de-la-policia-de-corrientes-a-itati",
-      "title": "Se viene la XXXVIII° Peregrinación de la Policía de Corrientes a Itatí",
-      "volanta": "FE MARIANA",
-      "date": "2026-08-26T12:55:20+00:00"
     }
   ]
 }
