@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T17:22:04+00:00",
+  "updated": "2026-08-28T19:07:59+00:00",
   "posts": [
+    {
+      "id": "9ff974c5",
+      "image": "img/9ff974c5.png",
+      "image_sha": "5ce06ffeeb8ad1597e901f309dcfa47591ca8fc2",
+      "url": "https://www.radiodos.com.ar/213004-emprendedores-y-actividades-para-los-ninos-en-el-paseo-ibera-y-parque-mitre",
+      "title": "Emprendedores y actividades para los niños en el Paseo Iberá y Parque Mitre",
+      "volanta": "ESTE FIN DE SEMANA",
+      "date": "2026-08-28T19:07:59+00:00"
+    },
     {
       "id": "2c055720",
       "image": "img/2c055720.png",
@@ -531,15 +540,6 @@
       "title": "River va por la clasificación ante Independiente Santa Fe: el 11 del Chacho Coudet",
       "volanta": "A TODO O NADA",
       "date": "2026-08-26T18:11:34+00:00"
-    },
-    {
-      "id": "d22efc51",
-      "image": "img/d22efc51.png",
-      "image_sha": "13f2cdca49b3885b656a482fff04bcf784695e7c",
-      "url": "https://www.radiodos.com.ar/212875-barcelona-insiste-por-julian-alvarez-la-postura-de-joan-laporta-ante-el-atletico-de-madrid",
-      "title": "Barcelona insiste por Julián Álvarez: la postura de Joan Laporta ante el Atlético de Madrid",
-      "volanta": "ESPAÑA",
-      "date": "2026-08-26T18:10:54+00:00"
     }
   ]
 }
