@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T21:33:58+00:00",
+  "updated": "2026-08-28T21:35:13+00:00",
   "posts": [
+    {
+      "id": "f81b0331",
+      "image": "img/f81b0331.png",
+      "image_sha": "e6eb842088f25db484e3d63c4442612513252abe",
+      "url": "https://www.radiodos.com.ar/213022-gabriela-valenzuela-festejo-la-media-sancion-que-recibio-el-proyecto-que-quiere-elevar-a-nivel-nacional-la-fiesta-del-mate-y-la-amistad",
+      "title": "Gabriela Valenzuela festejó la media sanción que recibió el proyecto que quiere elevar a nivel Nacional la Fiesta del Mate y la Amistad",
+      "volanta": "Habló de producción, turismo y gestión",
+      "date": "2026-08-28T21:35:13+00:00"
+    },
     {
       "id": "4990434b",
       "image": "img/4990434b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: un detenido por el robo de una lámpara LED de alumbrado público",
       "volanta": "BARRIO LA CHOLA",
       "date": "2026-08-26T22:19:58+00:00"
-    },
-    {
-      "id": "5be3fed9",
-      "image": "img/5be3fed9.png",
-      "image_sha": "cddc8bbd037ce6c0eec56787f4600ac2f319aaab",
-      "url": "https://www.radiodos.com.ar/212896-juicio-por-loan-detenido-por-narcotrafico-apunto-contra-el-yankee-soria",
-      "title": "Juicio por Loan: detenido por narcotráfico apuntó contra el \"Yankee\" Soria",
-      "volanta": "COBERTURA ESPECIAL",
-      "date": "2026-08-26T22:19:11+00:00"
     }
   ]
 }
