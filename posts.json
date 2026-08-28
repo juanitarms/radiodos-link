@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T14:38:35+00:00",
+  "updated": "2026-08-28T14:59:28+00:00",
   "posts": [
+    {
+      "id": "3d7f64f9",
+      "image": "img/3d7f64f9.png",
+      "image_sha": "c2743926f8faef1d4c1ca74806ab233a1d761d4b",
+      "url": "https://www.radiodos.com.ar/212986-sorpresiva-neblina-oculto-parcialmente-el-puente-chaco-corrientes",
+      "title": "Sorpresiva neblina ocultó parcialmente el puente Chaco-Corrientes",
+      "volanta": "PASA AHORA",
+      "date": "2026-08-28T14:59:28+00:00"
+    },
     {
       "id": "0795de6e",
       "image": "img/0795de6e.png",
@@ -531,15 +540,6 @@
       "title": "Visita del Papa León XIV a Argentina: estará en Buenos Aires, Córdoba y Luján",
       "volanta": "NOTA EXCLUSIVA",
       "date": "2026-08-26T16:46:02+00:00"
-    },
-    {
-      "id": "56853ed4",
-      "image": "img/56853ed4.png",
-      "image_sha": "ef09bd3c9a3ba822b2376996bf85dcaaa460bc27",
-      "url": "https://www.radiodos.com.ar/212872-mendoza-murio-el-tio-de-las-dos-hermanas-y-ya-son-cinco-los-fallecidos-por-el-choque-en-la-ruta-60",
-      "title": "Mendoza: murió el tío de las dos hermanas y ya son cinco los fallecidos por el choque en la Ruta 60",
-      "volanta": "TRAGEDIA",
-      "date": "2026-08-26T16:45:23+00:00"
     }
   ]
 }
