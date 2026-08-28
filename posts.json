@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T19:07:59+00:00",
+  "updated": "2026-08-28T19:08:34+00:00",
   "posts": [
+    {
+      "id": "cfbcf33c",
+      "image": "img/cfbcf33c.png",
+      "image_sha": "d421bd8a952950b6beee9e2bdd12f4c7e99fd2d7",
+      "url": "https://www.radiodos.com.ar/213003-se-reestrena-el-documental-margarita-belen-un-sueno-inconcluso",
+      "title": "Se reestrena el documental \"Margarita Belén, un sueño inconcluso\"",
+      "volanta": "En conmemoración del Día del Detenido Desaparecido",
+      "date": "2026-08-28T19:08:34+00:00"
+    },
     {
       "id": "9ff974c5",
       "image": "img/9ff974c5.png",
@@ -531,15 +540,6 @@
       "title": "Valdés y Polich visitaron el Parque Solar de Santa Catalina: la obra ya supera el 60% de avance",
       "volanta": "TRANSICIÓN ENERGÉTICA Y DESARROLLO PRODUCTIVO",
       "date": "2026-08-26T20:58:17+00:00"
-    },
-    {
-      "id": "5a31e380",
-      "image": "img/5a31e380.png",
-      "image_sha": "67acbe31d118573d56520139ca1d9bf894c24878",
-      "url": "https://www.radiodos.com.ar/212877-river-va-por-la-clasificacion-ante-independiente-santa-fe-el-11-del-chacho-coudet",
-      "title": "River va por la clasificación ante Independiente Santa Fe: el 11 del Chacho Coudet",
-      "volanta": "A TODO O NADA",
-      "date": "2026-08-26T18:11:34+00:00"
     }
   ]
 }
