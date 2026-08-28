@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T11:27:51+00:00",
+  "updated": "2026-08-28T11:44:11+00:00",
   "posts": [
+    {
+      "id": "b6ba4adc",
+      "image": "img/b6ba4adc.png",
+      "image_sha": "85866f45ccd7852809a608375670694e95a0c05c",
+      "url": "https://www.radiodos.com.ar/212975-casi-una-tragedia-por-vaca-suelta-en-ruta-de-acceso-a-villa-turistica-de-corrientes",
+      "title": "Casi una tragedia por vaca suelta en ruta de acceso a villa turística de Corrientes",
+      "volanta": "VIVO DE MILAGRO",
+      "date": "2026-08-28T11:44:11+00:00"
+    },
     {
       "id": "f6c67814",
       "image": "img/f6c67814.png",
@@ -531,15 +540,6 @@
       "title": "Polich acompañó la presentación del Primer Compendio de la Mesa de Consenso Urbano de Corrientes",
       "volanta": "MODERNIZACIÓN Y CRECIMIENTO",
       "date": "2026-08-26T12:08:28+00:00"
-    },
-    {
-      "id": "2746fa5b",
-      "image": "img/2746fa5b.png",
-      "image_sha": "784990a8f3184d8b33ea1b042fba70bf4e07767c",
-      "url": "https://www.radiodos.com.ar/212844-causa-gimnasios-viva-liberaron-a-lucas-menocchio-y-a-su-madre-y-continuan-los-allanamientos-por-narcotrafico",
-      "title": "Causa gimnasios Viva: liberaron a Lucas Menocchio y a su madre y continúan los allanamientos por narcotráfico",
-      "volanta": "SIGUEN IMPUTADOS",
-      "date": "2026-08-26T11:40:38+00:00"
     }
   ]
 }
