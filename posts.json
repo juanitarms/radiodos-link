@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T19:08:34+00:00",
+  "updated": "2026-08-28T19:09:11+00:00",
   "posts": [
+    {
+      "id": "ad949e1d",
+      "image": "img/ad949e1d.png",
+      "image_sha": "4023df5996da72d50a7d903341d6395a1adc26f9",
+      "url": "https://www.radiodos.com.ar/213002-la-legislatura-recibio-a-los-primeros-pasantes-universitarios-de-la-fadycc-unne",
+      "title": "La Legislatura recibió a los primeros pasantes universitarios de la FADyCC-UNNE",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-08-28T19:09:11+00:00"
+    },
     {
       "id": "cfbcf33c",
       "image": "img/cfbcf33c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes produce 270 millones de kilos de carne al año y retiene más del 50% de sus terneros",
       "volanta": "CAMPO",
       "date": "2026-08-26T20:59:11+00:00"
-    },
-    {
-      "id": "fa998fea",
-      "image": "img/fa998fea.png",
-      "image_sha": "dbfb733f37c73c547dcc57273a825166d4c50da6",
-      "url": "https://www.radiodos.com.ar/212888-valdes-y-polich-visitaron-el-parque-solar-de-santa-catalina-la-obra-ya-supera-el-60-de-avance",
-      "title": "Valdés y Polich visitaron el Parque Solar de Santa Catalina: la obra ya supera el 60% de avance",
-      "volanta": "TRANSICIÓN ENERGÉTICA Y DESARROLLO PRODUCTIVO",
-      "date": "2026-08-26T20:58:17+00:00"
     }
   ]
 }
