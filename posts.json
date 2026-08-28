@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-27T22:15:19+00:00",
+  "updated": "2026-08-28T10:29:02+00:00",
   "posts": [
+    {
+      "id": "67febe04",
+      "image": "img/67febe04.png",
+      "image_sha": "f6c8e613c007c13f98d0e9c6e35c5b824049d8c6",
+      "url": "https://www.radiodos.com.ar/212971-copa-argentina-estudiantes-y-platense-avanzaron-a-cuartos-de-final",
+      "title": "Copa Argentina: Estudiantes y Platense avanzaron a cuartos de final",
+      "volanta": "Sólo falta un equipo: ¿Boca o Vélez?",
+      "date": "2026-08-28T10:29:02+00:00"
+    },
     {
       "id": "21511003",
       "image": "img/21511003.png",
@@ -531,15 +540,6 @@
       "title": "Caso Bartlett: ratifican acusación de homicidio contra los policías",
       "volanta": "GOYA",
       "date": "2026-08-26T11:08:05+00:00"
-    },
-    {
-      "id": "b41b2cc8",
-      "image": "img/b41b2cc8.png",
-      "image_sha": "9f979664ae6d49ad1a939fae02971fa80039f513",
-      "url": "https://www.radiodos.com.ar/212841-el-presidente-del-circulo-de-periodistas-deportivos-de-corrientes-tras-recuperar-la-sede-busca-ponerla-a-punto-y-en-accion",
-      "title": "El Presidente del Círculo de Periodistas Deportivos de Corrientes, tras recuperar la sede, busca ponerla a punto y en acción",
-      "volanta": "Desde el 29 de mayo",
-      "date": "2026-08-26T10:48:30+00:00"
     }
   ]
 }
