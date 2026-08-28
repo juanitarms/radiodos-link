@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T14:59:28+00:00",
+  "updated": "2026-08-28T17:20:46+00:00",
   "posts": [
+    {
+      "id": "61c1cd82",
+      "image": "img/61c1cd82.png",
+      "image_sha": "ec0e5b263b2ccc8dc302c73ede431519e8d074f3",
+      "url": "https://www.radiodos.com.ar/212997-no-por-favor-para-la-desgarradora-frase-de-un-hombre-antes-de-ser-asesinado",
+      "title": "\"No, por favor, pará\": la desgarradora frase de un hombre antes de ser asesinado",
+      "volanta": "Villa Ballester",
+      "date": "2026-08-28T17:20:46+00:00"
+    },
     {
       "id": "3d7f64f9",
       "image": "img/3d7f64f9.png",
@@ -531,15 +540,6 @@
       "title": "La diputada Améndola presentó el proyecto de Ley Búfalo",
       "volanta": "LEGISLATURA PROVINCIAL",
       "date": "2026-08-26T16:46:36+00:00"
-    },
-    {
-      "id": "d29b6ad4",
-      "image": "img/d29b6ad4.png",
-      "image_sha": "98399d43f452f4d5397bea6c0b4e671afae1a754",
-      "url": "https://www.radiodos.com.ar/212857-visita-del-papa-leon-xiv-a-argentina-estara-en-buenos-aires-cordoba-y-lujan",
-      "title": "Visita del Papa León XIV a Argentina: estará en Buenos Aires, Córdoba y Luján",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-08-26T16:46:02+00:00"
     }
   ]
 }
