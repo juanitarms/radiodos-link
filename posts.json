@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T14:04:42+00:00",
+  "updated": "2026-08-28T14:25:37+00:00",
   "posts": [
+    {
+      "id": "49f524a8",
+      "image": "img/49f524a8.png",
+      "image_sha": "2154d892fe7a98fca38806d277ed6ef2f923dc9c",
+      "url": "https://www.radiodos.com.ar/212996-la-diputada-karen-reichardt-presento-su-polemico-proyecto-para-habilitar-criaderos-de-perros-y-gatos",
+      "title": "La diputada Karen Reichardt presentó su polémico proyecto para habilitar criaderos de perros y gatos",
+      "volanta": "DEBATE",
+      "date": "2026-08-28T14:25:37+00:00"
+    },
     {
       "id": "1b8028f0",
       "image": "img/1b8028f0.png",
@@ -531,15 +540,6 @@
       "title": "Tensión por su futuro: Julián Álvarez faltó al entrenamiento del Atlético de Madrid",
       "volanta": "ESPAÑA",
       "date": "2026-08-26T14:37:23+00:00"
-    },
-    {
-      "id": "78343469",
-      "image": "img/78343469.png",
-      "image_sha": "35ddfed96a18a45408a0bea3aaac94bee19ec91d",
-      "url": "https://www.radiodos.com.ar/212862-renuncio-el-titular-de-la-direccion-general-de-aduanas-jose-andres-velis",
-      "title": "Renunció el titular de la Dirección General de Aduanas, José Andrés Velis",
-      "volanta": "CAMBIOS",
-      "date": "2026-08-26T14:20:39+00:00"
     }
   ]
 }
