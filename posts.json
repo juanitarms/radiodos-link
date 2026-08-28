@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T10:29:02+00:00",
+  "updated": "2026-08-28T10:50:24+00:00",
   "posts": [
+    {
+      "id": "85d12be5",
+      "image": "img/85d12be5.png",
+      "image_sha": "989b480e169b27ee7869a3624a4ab562953bb37e",
+      "url": "https://www.radiodos.com.ar/212972-el-gobernador-de-corrientes-inauguro-la-pavimentacion-del-acceso-a-la-maderera-zozzoli-en-santo-tome",
+      "title": "El Gobernador de Corrientes inauguró la pavimentación del acceso a la maderera Zozzoli en Santo Tomé",
+      "volanta": "APOYO AL SECTOR INDUSTRIAL",
+      "date": "2026-08-28T10:50:24+00:00"
+    },
     {
       "id": "67febe04",
       "image": "img/67febe04.png",
@@ -531,15 +540,6 @@
       "title": "Puma suelto en Corrientes: captaron imágenes del felino cerca de campos rurales",
       "volanta": "Colonia Libertad",
       "date": "2026-08-26T11:25:36+00:00"
-    },
-    {
-      "id": "2b303875",
-      "image": "img/2b303875.png",
-      "image_sha": "b5904e32845f06dd3389eb8cfd28d0e6a61c2a0f",
-      "url": "https://www.radiodos.com.ar/212842-caso-bartlett-ratifican-acusacion-de-homicidio-contra-los-policias",
-      "title": "Caso Bartlett: ratifican acusación de homicidio contra los policías",
-      "volanta": "GOYA",
-      "date": "2026-08-26T11:08:05+00:00"
     }
   ]
 }
