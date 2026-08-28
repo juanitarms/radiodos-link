@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T12:36:04+00:00",
+  "updated": "2026-08-28T13:05:48+00:00",
   "posts": [
+    {
+      "id": "6034a2b5",
+      "image": "img/6034a2b5.png",
+      "image_sha": "348e635b9e3b300a324da884f008c63b7ea07a15",
+      "url": "https://www.radiodos.com.ar/212992-un-efectivo-de-la-policia-federal-abatio-a-un-delincuente-durante-un-intento-de-robo",
+      "title": "Un efectivo de la Policía Federal abatió a un delincuente durante un intento de robo",
+      "volanta": "Lomas del Mirador",
+      "date": "2026-08-28T13:05:48+00:00"
+    },
     {
       "id": "04c6bb38",
       "image": "img/04c6bb38.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un niño que no volvió a su casa",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-08-26T13:57:40+00:00"
-    },
-    {
-      "id": "d2baddc8",
-      "image": "img/d2baddc8.png",
-      "image_sha": "64663738e89573cf2e5caa6877d4b925bd20f910",
-      "url": "https://www.radiodos.com.ar/212864-tragedia-un-adolescente-recibio-una-descarga-electrica-dentro-de-una-escuela-y-murio",
-      "title": "Tragedia: un adolescente recibió una descarga eléctrica dentro de una escuela y murió",
-      "volanta": "MISIONES",
-      "date": "2026-08-26T13:38:46+00:00"
     }
   ]
 }
