@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T19:09:11+00:00",
+  "updated": "2026-08-28T20:14:29+00:00",
   "posts": [
+    {
+      "id": "6f4b33e7",
+      "image": "img/6f4b33e7.png",
+      "image_sha": "8e66cfcf148eec3825a649a278f8f70ddedc1066",
+      "url": "https://www.radiodos.com.ar/213023-el-banco-nacion-consolida-su-liderazgo-en-el-financiamiento-al-agro-con-una-cartera-agropecuaria-de-45-billones",
+      "title": "El Banco Nación consolida su liderazgo en el financiamiento al agro, con una cartera agropecuaria de $4,5 billones",
+      "volanta": "CRECIMIENTO RECORD",
+      "date": "2026-08-28T20:14:29+00:00"
+    },
     {
       "id": "ad949e1d",
       "image": "img/ad949e1d.png",
@@ -531,15 +540,6 @@
       "title": "Diputado de Milei, sobre la Mora: \"Compraron la tele para el Mundial, Argentina perdió y ahora no quieren pagar\"",
       "volanta": "INSOLITO",
       "date": "2026-08-26T20:59:43+00:00"
-    },
-    {
-      "id": "855ff9f1",
-      "image": "img/855ff9f1.png",
-      "image_sha": "58f928d9037380ea238527fe953f666ddfd804b8",
-      "url": "https://www.radiodos.com.ar/212892-corrientes-produce-270-millones-de-kilos-de-carne-al-ano-y-retiene-mas-del-50-de-sus-terneros",
-      "title": "Corrientes produce 270 millones de kilos de carne al año y retiene más del 50% de sus terneros",
-      "volanta": "CAMPO",
-      "date": "2026-08-26T20:59:11+00:00"
     }
   ]
 }
