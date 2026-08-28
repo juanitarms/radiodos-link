@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T21:32:26+00:00",
+  "updated": "2026-08-28T21:33:58+00:00",
   "posts": [
+    {
+      "id": "4990434b",
+      "image": "img/4990434b.png",
+      "image_sha": "7e572d5cb6e2fa841bd52edf0a776e974893f28a",
+      "url": "https://www.radiodos.com.ar/213029-detuvieron-a-bebote-alvarez-por-una-causa-de-narcotrafico-internacional",
+      "title": "Detuvieron a \"Bebote\" Álvarez por una causa de narcotráfico internacional",
+      "volanta": "EXBARRA DE INDEPENDIENTE",
+      "date": "2026-08-28T21:33:58+00:00"
+    },
     {
       "id": "ad6b4b79",
       "image": "img/ad6b4b79.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: detenido por narcotráfico apuntó contra el \"Yankee\" Soria",
       "volanta": "COBERTURA ESPECIAL",
       "date": "2026-08-26T22:19:11+00:00"
-    },
-    {
-      "id": "29c2bc4f",
-      "image": "img/29c2bc4f.png",
-      "image_sha": "c2b4a8d91da5c5099781943bb2a2a5401434c700",
-      "url": "https://www.radiodos.com.ar/212897-juicio-a-pity-alvarez-el-tribunal-rechazo-la-nulidad-del-proceso-y-el-musico-se-durmio-en-la-audiencia",
-      "title": "Juicio a Pity Álvarez: el Tribunal rechazó la nulidad del proceso y el músico se durmió en la audiencia",
-      "volanta": "CANTANTE EN EL BANQUILLO",
-      "date": "2026-08-26T22:18:13+00:00"
     }
   ]
 }
