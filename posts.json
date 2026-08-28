@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T10:50:24+00:00",
+  "updated": "2026-08-28T11:27:51+00:00",
   "posts": [
+    {
+      "id": "f6c67814",
+      "image": "img/f6c67814.png",
+      "image_sha": "9bdffcfd087f17b451b08527329adc4dba958260",
+      "url": "https://www.radiodos.com.ar/212973-la-familia-de-la-policia-de-corrientes-camina-hacia-itati",
+      "title": "La familia de la Policía de Corrientes camina hacia Itatí",
+      "volanta": "AHORA",
+      "date": "2026-08-28T11:27:51+00:00"
+    },
     {
       "id": "85d12be5",
       "image": "img/85d12be5.png",
@@ -531,15 +540,6 @@
       "title": "Causa gimnasios Viva: liberaron a Lucas Menocchio y a su madre y continúan los allanamientos por narcotráfico",
       "volanta": "SIGUEN IMPUTADOS",
       "date": "2026-08-26T11:40:38+00:00"
-    },
-    {
-      "id": "d4da49c5",
-      "image": "img/d4da49c5.png",
-      "image_sha": "d36c49501f20ef2fa80adf0cc4347a1b06120a37",
-      "url": "https://www.radiodos.com.ar/212843-puma-suelto-en-corrientes-captaron-imagenes-del-felino-cerca-de-campos-rurales",
-      "title": "Puma suelto en Corrientes: captaron imágenes del felino cerca de campos rurales",
-      "volanta": "Colonia Libertad",
-      "date": "2026-08-26T11:25:36+00:00"
     }
   ]
 }
