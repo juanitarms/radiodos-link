@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T20:41:51+00:00",
+  "updated": "2026-08-28T20:59:13+00:00",
   "posts": [
+    {
+      "id": "48a70292",
+      "image": "img/48a70292.png",
+      "image_sha": "0fa46b7ff941bb739c6a966ccf88a13746d0ac18",
+      "url": "https://www.radiodos.com.ar/213028-escalofriante-amenaza-en-una-universidad-privada-de-corrientes-voy-a-hacer-una-masacrelos-voy-a-fusilar-a-todos",
+      "title": "Escalofriante amenaza en una universidad privada de Corrientes: \"Voy a hacer una masacre..los voy a fusilar a todos\"",
+      "volanta": "ALERTA MÁXIMA",
+      "date": "2026-08-28T20:59:13+00:00"
+    },
     {
       "id": "811e24b2",
       "image": "img/811e24b2.png",
@@ -531,15 +540,6 @@
       "title": "La Cámara de Diputados de Corrientes aprobó un proyecto para prevenir suicidios en el Puente General Belgrano",
       "volanta": "IMPULSO DE SOFÍA BRAMBILLA",
       "date": "2026-08-26T21:04:11+00:00"
-    },
-    {
-      "id": "93280034",
-      "image": "img/93280034.png",
-      "image_sha": "896862b5383b4f19f1baccfe86d042acaf90c738",
-      "url": "https://www.radiodos.com.ar/212894-san-cosme-invita-a-disfrutar-la-luna-de-sangre-en-la-laguna-totora",
-      "title": "San Cosme invita a disfrutar la Luna de Sangre en la Laguna Totora",
-      "volanta": "PAISAJE NATURAL",
-      "date": "2026-08-26T21:03:39+00:00"
     }
   ]
 }
