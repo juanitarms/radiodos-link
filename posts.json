@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T11:44:11+00:00",
+  "updated": "2026-08-28T12:00:57+00:00",
   "posts": [
+    {
+      "id": "9abaec93",
+      "image": "img/9abaec93.png",
+      "image_sha": "f742d8c87b7e2f467074ab53afec946b17f329fc",
+      "url": "https://www.radiodos.com.ar/212974-luna-de-sangre-asi-se-vio-el-cielo-en-una-localidad-de-corrientes",
+      "title": "Luna de sangre: así se vio el cielo en una localidad de Corrientes",
+      "volanta": "FOTO EXCLUSIVA DESDE ESQUINA",
+      "date": "2026-08-28T12:00:57+00:00"
+    },
     {
       "id": "b6ba4adc",
       "image": "img/b6ba4adc.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: policías salvaron la vida de un nene con problemas respiratorios",
       "volanta": "BARRIO JARDIN",
       "date": "2026-08-26T12:34:38+00:00"
-    },
-    {
-      "id": "0f5f247f",
-      "image": "img/0f5f247f.png",
-      "image_sha": "4069b70d84e2981c5119b3434f91665b8d6d276e",
-      "url": "https://www.radiodos.com.ar/212846-polich-acompano-la-presentacion-del-primer-compendio-de-la-mesa-de-consenso-urbano-de-corrientes",
-      "title": "Polich acompañó la presentación del Primer Compendio de la Mesa de Consenso Urbano de Corrientes",
-      "volanta": "MODERNIZACIÓN Y CRECIMIENTO",
-      "date": "2026-08-26T12:08:28+00:00"
     }
   ]
 }
