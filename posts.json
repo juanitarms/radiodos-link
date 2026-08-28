@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T21:35:13+00:00",
+  "updated": "2026-08-28T21:49:53+00:00",
   "posts": [
+    {
+      "id": "3eb38324",
+      "image": "img/3eb38324.png",
+      "image_sha": "98deabaaae513f573095b154189e57e4e24a5798",
+      "url": "https://www.radiodos.com.ar/213034-encuentran-muerto-a-un-hombre-en-un-hotel-de-la-peatonal-de-corrientes",
+      "title": "Encuentran muerto a un hombre en un hotel de la peatonal de Corrientes",
+      "volanta": "ESTA SIESTA",
+      "date": "2026-08-28T21:49:53+00:00"
+    },
     {
       "id": "f81b0331",
       "image": "img/f81b0331.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un hombre acusado de comprar $3 millones en mercadería con cheques falsos",
       "volanta": "CORRIENTES",
       "date": "2026-08-26T22:21:14+00:00"
-    },
-    {
-      "id": "6f38ee8e",
-      "image": "img/6f38ee8e.png",
-      "image_sha": "b73a1cff804a6a2bc42d912c1d882cc0d1b76cdc",
-      "url": "https://www.radiodos.com.ar/212899-corrientes-un-detenido-por-el-robo-de-una-lampara-led-de-alumbrado-publico",
-      "title": "Corrientes: un detenido por el robo de una lámpara LED de alumbrado público",
-      "volanta": "BARRIO LA CHOLA",
-      "date": "2026-08-26T22:19:58+00:00"
     }
   ]
 }
