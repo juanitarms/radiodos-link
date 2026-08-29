@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T21:50:27+00:00",
+  "updated": "2026-08-29T14:57:23+00:00",
   "posts": [
+    {
+      "id": "ef5e5c59",
+      "image": "img/ef5e5c59.png",
+      "image_sha": "7cbaf914c0acbcd741d13f1badea9547abea93e5",
+      "url": "https://www.radiodos.com.ar/213043-exitosa-intervencion-traumatologica-con-articulacion-interhospitalaria-en-corrientes",
+      "title": "Exitosa intervención traumatológica con articulación interhospitalaria en Corrientes",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-08-29T14:57:23+00:00"
+    },
     {
       "id": "1734f61d",
       "image": "img/1734f61d.png",
@@ -531,15 +540,6 @@
       "title": "Día de la Radiodifusión Argentina: por qué se celebra hoy",
       "volanta": "FELÍZ DÍA RADIO DOS",
       "date": "2026-08-27T10:48:47+00:00"
-    },
-    {
-      "id": "e30f134a",
-      "image": "img/e30f134a.png",
-      "image_sha": "3ed89fbfe976b922906786516e5d0c618bd25880",
-      "url": "https://www.radiodos.com.ar/212903-copa-sudamericana-river-quedo-eliminado-desde-la-serie-de-penales-y-la-gente-silbo-a-todo-el-plantel",
-      "title": "Copa Sudamericana: River quedó eliminado desde la serie de penales y la gente silbó a todo el plantel",
-      "volanta": "Fue 8 a 7",
-      "date": "2026-08-27T10:34:56+00:00"
     }
   ]
 }
