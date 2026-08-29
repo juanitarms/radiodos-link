@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29T18:38:05+00:00",
+  "updated": "2026-08-29T21:43:56+00:00",
   "posts": [
+    {
+      "id": "45e962ce",
+      "image": "img/45e962ce.png",
+      "image_sha": "5572ed6834619af08a662118888d1e9206857988",
+      "url": "https://www.radiodos.com.ar/213047-exitosa-primera-maraton-de-carnaval-en-costanera-sur",
+      "title": "Exitosa Primera Maratón de Carnaval en Costanera Sur",
+      "volanta": "“PASIÓN QUE CORRE”",
+      "date": "2026-08-29T21:43:56+00:00"
+    },
     {
       "id": "621cf638",
       "image": "img/621cf638.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes Cerca brindará servicios y trámites gratuitos en Loreto",
       "volanta": "ESTE VIERNES",
       "date": "2026-08-27T12:44:41+00:00"
-    },
-    {
-      "id": "7e060d99",
-      "image": "img/7e060d99.png",
-      "image_sha": "acf85c63d63487e0b1d121311157f59627a0bdb8",
-      "url": "https://www.radiodos.com.ar/212909-cerca-de-700-ninas-y-ninos-de-los-cdi-se-convirtieron-en-los-primeros-guardianes-ambientales-de-corrientes",
-      "title": "Cerca de 700 niñas y niños de los CDI se convirtieron en los primeros Guardianes Ambientales de Corrientes",
-      "volanta": "EN EL PARQUE CAMBA CUA",
-      "date": "2026-08-27T12:19:03+00:00"
     }
   ]
 }
