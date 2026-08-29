@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29T14:57:23+00:00",
+  "updated": "2026-08-29T14:58:57+00:00",
   "posts": [
+    {
+      "id": "99c98856",
+      "image": "img/99c98856.png",
+      "image_sha": "50ca51bbc1320fab1c93566e04dfc59c41a7b82b",
+      "url": "https://www.radiodos.com.ar/213039-ituzaingo-fue-sede-de-los-juegos-correntinos-2026-para-adultos-mayores",
+      "title": "Ituzaingó fue sede de los Juegos Correntinos 2026 para Adultos Mayores",
+      "volanta": "INTEGRACIÓN, SALUD Y ENCUENTRO COMUNITARIO",
+      "date": "2026-08-29T14:58:57+00:00"
+    },
     {
       "id": "ef5e5c59",
       "image": "img/ef5e5c59.png",
@@ -531,15 +540,6 @@
       "title": "Mercedes: más de 240 carnets de conducir habrían sido cobrados pero el dinero no ingresó al Municipio",
       "volanta": "DENUNCIA DEL INTENDENTE",
       "date": "2026-08-27T11:21:01+00:00"
-    },
-    {
-      "id": "d6f0c4d0",
-      "image": "img/d6f0c4d0.png",
-      "image_sha": "89d4d73de9b52952c68e03999d88bd096cbec3dd",
-      "url": "https://www.radiodos.com.ar/212904-dia-de-la-radiodifusion-argentina-por-que-se-celebra-hoy",
-      "title": "Día de la Radiodifusión Argentina: por qué se celebra hoy",
-      "volanta": "FELÍZ DÍA RADIO DOS",
-      "date": "2026-08-27T10:48:47+00:00"
     }
   ]
 }
