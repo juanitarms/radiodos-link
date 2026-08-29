@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29T21:43:56+00:00",
+  "updated": "2026-08-29T22:44:05+00:00",
   "posts": [
+    {
+      "id": "4f75ac4b",
+      "image": "img/4f75ac4b.png",
+      "image_sha": "8c73b5aecb210b36a5b8cb8158722bc8ef25a3da",
+      "url": "https://www.radiodos.com.ar/213050-la-peregrinacion-de-la-familia-policial-llego-a-los-pies-de-la-virgen-maria",
+      "title": "La peregrinación de la familia policial llegó a los pies de la Virgen María",
+      "volanta": "ESTE SÁBADO",
+      "date": "2026-08-29T22:44:05+00:00"
+    },
     {
       "id": "45e962ce",
       "image": "img/45e962ce.png",
@@ -531,15 +540,6 @@
       "title": "Arranca la Liga Provincial de Mayores Femenina",
       "volanta": "BÁSQUET",
       "date": "2026-08-27T12:58:46+00:00"
-    },
-    {
-      "id": "ed5046b5",
-      "image": "img/ed5046b5.png",
-      "image_sha": "f79ba2121e4539cf797f46f1d5acd65ae6089058",
-      "url": "https://www.radiodos.com.ar/212915-corrientes-cerca-brindara-servicios-y-tramites-gratuitos-en-loreto",
-      "title": "Corrientes Cerca brindará servicios y trámites gratuitos en Loreto",
-      "volanta": "ESTE VIERNES",
-      "date": "2026-08-27T12:44:41+00:00"
     }
   ]
 }
