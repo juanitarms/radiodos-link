@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29T18:37:28+00:00",
+  "updated": "2026-08-29T18:38:05+00:00",
   "posts": [
+    {
+      "id": "621cf638",
+      "image": "img/621cf638.png",
+      "image_sha": "0f36da869fe7dca28e250bf055137faa16259f7b",
+      "url": "https://www.radiodos.com.ar/213045-mandiyu-no-podra-llevar-hinchas-en-el-clasico-ante-huracan-corrientes",
+      "title": "Mandiyú no podrá llevar hinchas en el clásico ante Huracán Corrientes",
+      "volanta": "REGIONAL AMATEUR",
+      "date": "2026-08-29T18:38:05+00:00"
+    },
     {
       "id": "d1de1c8c",
       "image": "img/d1de1c8c.png",
@@ -531,15 +540,6 @@
       "title": "Cerca de 700 niñas y niños de los CDI se convirtieron en los primeros Guardianes Ambientales de Corrientes",
       "volanta": "EN EL PARQUE CAMBA CUA",
       "date": "2026-08-27T12:19:03+00:00"
-    },
-    {
-      "id": "7e93dd87",
-      "image": "img/7e93dd87.png",
-      "image_sha": "c700576310ec931b929559e69f16da3a45d75e8c",
-      "url": "https://www.radiodos.com.ar/212908-la-iglesia-de-corrientes-se-sumo-al-pedido-de-poner-vallas-en-el-puente-belgrano",
-      "title": "La Iglesia de Corrientes se sumó al pedido de poner vallas en el puente Belgrano",
-      "volanta": "RECLAMAN MAYOR SEGURIDAD SOBRE EL VIADUCTO",
-      "date": "2026-08-27T11:39:29+00:00"
     }
   ]
 }
