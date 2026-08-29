@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29T14:58:57+00:00",
+  "updated": "2026-08-29T18:37:28+00:00",
   "posts": [
+    {
+      "id": "d1de1c8c",
+      "image": "img/d1de1c8c.png",
+      "image_sha": "48f1d11911df1e7eaec6b24d70816ecf16ef1eae",
+      "url": "https://www.radiodos.com.ar/213046-las-leonas-vencieron-a-paises-bajos-en-los-penales-y-se-consagraron-campeonas-del-mundo",
+      "title": "Las Leonas vencieron a Países Bajos en los penales y se consagraron campeonas del mundo",
+      "volanta": "HISTORICO",
+      "date": "2026-08-29T18:37:28+00:00"
+    },
     {
       "id": "99c98856",
       "image": "img/99c98856.png",
@@ -531,15 +540,6 @@
       "title": "La Iglesia de Corrientes se sumó al pedido de poner vallas en el puente Belgrano",
       "volanta": "RECLAMAN MAYOR SEGURIDAD SOBRE EL VIADUCTO",
       "date": "2026-08-27T11:39:29+00:00"
-    },
-    {
-      "id": "c4626792",
-      "image": "img/c4626792.png",
-      "image_sha": "a5302163426feda94bd673c0f0227ca73bb83ead",
-      "url": "https://www.radiodos.com.ar/212906-mercedes-mas-de-240-carnets-de-conducir-habrian-sido-cobrados-pero-el-dinero-no-ingreso-al-municipio",
-      "title": "Mercedes: más de 240 carnets de conducir habrían sido cobrados pero el dinero no ingresó al Municipio",
-      "volanta": "DENUNCIA DEL INTENDENTE",
-      "date": "2026-08-27T11:21:01+00:00"
     }
   ]
 }
