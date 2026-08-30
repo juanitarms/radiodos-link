@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-30T13:32:11+00:00",
+  "updated": "2026-08-30T14:05:10+00:00",
   "posts": [
+    {
+      "id": "d11f63e8",
+      "image": "img/d11f63e8.png",
+      "image_sha": "1d3c8157046d7002ddb516455f70bf85af8b5dcf",
+      "url": "https://www.radiodos.com.ar/213067-tragedia-en-corrientes-murio-un-adolescente-tras-chocar-con-una-camioneta",
+      "title": "Tragedia en Corrientes: murió un adolescente tras chocar con una camioneta",
+      "volanta": "CAPITAL",
+      "date": "2026-08-30T14:05:10+00:00"
+    },
     {
       "id": "16cea91e",
       "image": "img/16cea91e.png",
@@ -531,15 +540,6 @@
       "title": "Aseguran que Tini Stoessel es severamente controlada por sus padres: \"Si gasta en algo, les suena una alarma\"",
       "volanta": "CRISIS FAMILIAR",
       "date": "2026-08-27T14:21:26+00:00"
-    },
-    {
-      "id": "34fdd0bc",
-      "image": "img/34fdd0bc.png",
-      "image_sha": "d775b78e30c6fa76f84f8b82dc7307afc6c09210",
-      "url": "https://www.radiodos.com.ar/212930-femicidio-de-agostina-vega-claudio-barrelier-cambio-de-abogado-y-pidio-ampliar-su-declaracion-indagatoria",
-      "title": "Femicidio de Agostina Vega: Claudio Barrelier cambió de abogado y pidió ampliar su declaración indagatoria",
-      "volanta": "CASO ABIERTO",
-      "date": "2026-08-27T14:03:03+00:00"
     }
   ]
 }
