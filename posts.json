@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-30T16:30:33+00:00",
+  "updated": "2026-08-30T18:21:34+00:00",
   "posts": [
+    {
+      "id": "8468aa12",
+      "image": "img/8468aa12.png",
+      "image_sha": "52fcc9cd878afb4eb480b96fd33978a4a641a236",
+      "url": "https://www.radiodos.com.ar/213069-proteger-a-las-familias-endeudadas-no-es-populismo-es-nivelar-la-cancha",
+      "title": "Proteger a las familias endeudadas no es populismo: es nivelar la cancha",
+      "volanta": "ECONOMÍA",
+      "date": "2026-08-30T18:21:34+00:00"
+    },
     {
       "id": "c0b1ba79",
       "image": "img/c0b1ba79.png",
@@ -531,15 +540,6 @@
       "title": "La morosidad en la Argentina sigue en alza y ya duplica el promedio de la región",
       "volanta": "ECONOMÍA",
       "date": "2026-08-27T16:40:30+00:00"
-    },
-    {
-      "id": "17684e79",
-      "image": "img/17684e79.png",
-      "image_sha": "4d8af82fade1c277998f43c450c4bfeee525e24a",
-      "url": "https://www.radiodos.com.ar/212941-natalia-oreiro-despidio-a-ruben-rada-con-un-emotivo-mensaje-fuiste-sos-y-seras-lo-mas-grande-del-uruguay",
-      "title": "Natalia Oreiro despidió a Rubén Rada con un emotivo mensaje: \"Fuiste, sos y serás lo más grande del Uruguay\"",
-      "volanta": "ÚLTIMO ADIÓS",
-      "date": "2026-08-27T15:13:07+00:00"
     }
   ]
 }
