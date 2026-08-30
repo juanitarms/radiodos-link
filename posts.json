@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-30T14:57:25+00:00",
+  "updated": "2026-08-30T16:30:33+00:00",
   "posts": [
+    {
+      "id": "c0b1ba79",
+      "image": "img/c0b1ba79.png",
+      "image_sha": "b9da036a017f7e10d8d191f7707c4aeb75c58866",
+      "url": "https://www.radiodos.com.ar/213068-el-patrimonio-legislativo-protagonista-de-una-nueva-visita-guiada",
+      "title": "El patrimonio Legislativo, protagonista de una nueva visita guiada",
+      "volanta": "corrientes",
+      "date": "2026-08-30T16:30:33+00:00"
+    },
     {
       "id": "6a7f706f",
       "image": "img/6a7f706f.png",
@@ -531,15 +540,6 @@
       "title": "Natalia Oreiro despidió a Rubén Rada con un emotivo mensaje: \"Fuiste, sos y serás lo más grande del Uruguay\"",
       "volanta": "ÚLTIMO ADIÓS",
       "date": "2026-08-27T15:13:07+00:00"
-    },
-    {
-      "id": "5969b8d5",
-      "image": "img/5969b8d5.png",
-      "image_sha": "cbc0ed645d2ffa6180452e6125694a4e0cab967a",
-      "url": "https://www.radiodos.com.ar/212936-sofia-gala-minimizo-los-posibles-juicios-por-la-serie-de-moria-y-lanzo-una-frase-sobre-luis-vadala",
-      "title": "Sofía Gala minimizó los posibles juicios por la serie de Moria y lanzó una frase sobre Luis Vadalá",
-      "volanta": "PUSO LÍMITES",
-      "date": "2026-08-27T14:36:06+00:00"
     }
   ]
 }
