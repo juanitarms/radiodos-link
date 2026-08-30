@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-30T14:05:10+00:00",
+  "updated": "2026-08-30T14:57:25+00:00",
   "posts": [
+    {
+      "id": "6a7f706f",
+      "image": "img/6a7f706f.png",
+      "image_sha": "892415886b0b4064db745fcc2c69be9c07bfe8b2",
+      "url": "https://www.radiodos.com.ar/213066-en-el-aniversario-de-santa-rosa-el-gobernador-inauguro-un-hospital-y-un-cuartel-de-bomberos",
+      "title": "En el aniversario de Santa Rosa, el gobernador inauguró un hospital y un cuartel de bomberos",
+      "volanta": "INVERSIÓN MILLONARIA",
+      "date": "2026-08-30T14:57:25+00:00"
+    },
     {
       "id": "d11f63e8",
       "image": "img/d11f63e8.png",
@@ -531,15 +540,6 @@
       "title": "Sofía Gala minimizó los posibles juicios por la serie de Moria y lanzó una frase sobre Luis Vadalá",
       "volanta": "PUSO LÍMITES",
       "date": "2026-08-27T14:36:06+00:00"
-    },
-    {
-      "id": "87bc16dd",
-      "image": "img/87bc16dd.png",
-      "image_sha": "842c55bfce3c5e2feca834b92ce294aa3363a6b4",
-      "url": "https://www.radiodos.com.ar/212937-aseguran-que-tini-stoessel-es-severamente-controlada-por-sus-padres-si-gasta-en-algo-les-suena-una-alarma",
-      "title": "Aseguran que Tini Stoessel es severamente controlada por sus padres: \"Si gasta en algo, les suena una alarma\"",
-      "volanta": "CRISIS FAMILIAR",
-      "date": "2026-08-27T14:21:26+00:00"
     }
   ]
 }
