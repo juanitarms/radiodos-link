@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T15:34:08+00:00",
+  "updated": "2026-08-31T17:09:47+00:00",
   "posts": [
+    {
+      "id": "10698c44",
+      "image": "img/10698c44.png",
+      "image_sha": "519c9f3007daa7ade6b1e6ec765196c897c4600f",
+      "url": "https://www.radiodos.com.ar/213122-emotivo-mensaje-de-la-afa-tras-el-retiro-de-messi-de-la-seleccion-gracias-eternas-leo",
+      "title": "Emotivo mensaje de la AFA tras el retiro de Messi de la Selección: \"Gracias eternas, Leo\"",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-08-31T17:09:47+00:00"
+    },
     {
       "id": "3b0f69b6",
       "image": "img/3b0f69b6.png",
@@ -531,15 +540,6 @@
       "title": "Conocido arrebatador fue detenido tras persecución por varias calles de Corrientes",
       "volanta": "TERMINÓ EN EL BARRIO PROGRESO",
       "date": "2026-08-27T21:22:25+00:00"
-    },
-    {
-      "id": "a21c74ee",
-      "image": "img/a21c74ee.png",
-      "image_sha": "dafbfeb9858e5e039a231faadb270aa5d7b3bcdc",
-      "url": "https://www.radiodos.com.ar/212966-nacion-adjudico-el-concesion-de-las-rutas-en-corrientes-chaco-y-misiones",
-      "title": "Nación adjudicó el concesión de las rutas en Corrientes, Chaco y Misiones",
-      "volanta": "Por 20 años",
-      "date": "2026-08-27T21:20:15+00:00"
     }
   ]
 }
