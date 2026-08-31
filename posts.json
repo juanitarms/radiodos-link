@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T23:02:19+00:00",
+  "updated": "2026-08-31T23:03:25+00:00",
   "posts": [
+    {
+      "id": "605e73d5",
+      "image": "img/605e73d5.png",
+      "image_sha": "4f7458389a08d7ce3f935d520f0a475cc87f3705",
+      "url": "https://www.radiodos.com.ar/213135-trump-advirtio-que-estados-unidos-podria-revisar-su-postura-sobre-la-soberania-de-las-islas-malvinas",
+      "title": "Trump advirtió que Estados Unidos podría revisar su postura sobre la soberanía de las Islas Malvinas",
+      "volanta": "NEUTRALIDAD EN REVISIÓN",
+      "date": "2026-08-31T23:03:25+00:00"
+    },
     {
       "id": "e01e49b0",
       "image": "img/e01e49b0.png",
@@ -531,15 +540,6 @@
       "title": "La diputada Karen Reichardt presentó su polémico proyecto para habilitar criaderos de perros y gatos",
       "volanta": "DEBATE",
       "date": "2026-08-28T14:25:37+00:00"
-    },
-    {
-      "id": "1b8028f0",
-      "image": "img/1b8028f0.png",
-      "image_sha": "d9f7419aba72eebd0660e3df158ab24f5e0ff823",
-      "url": "https://www.radiodos.com.ar/212988-el-calvario-de-una-argentina-detenida-por-ice-en-estados-unidos",
-      "title": "El calvario de una argentina detenida por ICE en Estados Unidos",
-      "volanta": "HISTORIA",
-      "date": "2026-08-28T14:04:42+00:00"
     }
   ]
 }
