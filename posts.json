@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T13:03:35+00:00",
+  "updated": "2026-08-31T13:34:05+00:00",
   "posts": [
+    {
+      "id": "5574d06f",
+      "image": "img/5574d06f.png",
+      "image_sha": "e1fb075654256c9c9316e2e114f0be287075c872",
+      "url": "https://www.radiodos.com.ar/213091-convenio-stj-unicef-fortalecimiento-del-acceso-a-la-justicia-de-ninas-ninos-y-adolescentes",
+      "title": "Convenio STJ-UNICEF: fortalecimiento del acceso a la justicia de niñas, niños y adolescentes",
+      "volanta": "ACCIONES CONJUNTAS",
+      "date": "2026-08-31T13:34:05+00:00"
+    },
     {
       "id": "eda872f3",
       "image": "img/eda872f3.png",
@@ -531,15 +540,6 @@
       "title": "Coudet dejó de ser el DT de River Plate y Leonardo Ponzio asumirá como interino",
       "volanta": "FINAL ANUNCIADO",
       "date": "2026-08-27T20:30:05+00:00"
-    },
-    {
-      "id": "01a4efb0",
-      "image": "img/01a4efb0.png",
-      "image_sha": "c72dafc653e56a1ad657c8755dc23129dddbbf9c",
-      "url": "https://www.radiodos.com.ar/212953-santa-fe-un-fuerte-temporal-de-viento-y-granizo-azoto-a-las-rosas",
-      "title": "Santa Fe: un fuerte temporal de viento y granizó azotó a Las Rosas",
-      "volanta": "TERRIBLE",
-      "date": "2026-08-27T18:46:00+00:00"
     }
   ]
 }
