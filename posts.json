@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T20:34:07+00:00",
+  "updated": "2026-08-31T21:19:16+00:00",
   "posts": [
+    {
+      "id": "acac4735",
+      "image": "img/acac4735.png",
+      "image_sha": "be9993ca5892f21fb39f61e918c1e2910308f684",
+      "url": "https://www.radiodos.com.ar/213129-el-circulo-de-periodistas-deportivos-reactiva-su-sede-con-talleres-y-proyectos-comunitarios",
+      "title": "El Círculo de Periodistas Deportivos reactiva su sede con talleres y proyectos comunitarios",
+      "volanta": "Sede recuperada",
+      "date": "2026-08-31T21:19:16+00:00"
+    },
     {
       "id": "d5572026",
       "image": "img/d5572026.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: otra jornada con la mirada puesta en \"el yankee\" Soria",
       "volanta": "SE RETOMA EL OTRO MIÉRCOLES",
       "date": "2026-08-27T22:15:19+00:00"
-    },
-    {
-      "id": "95cdae7b",
-      "image": "img/95cdae7b.png",
-      "image_sha": "d563ff10615b589e6e042f052190983342b28221",
-      "url": "https://www.radiodos.com.ar/212967-caso-exen-y-la-situacion-de-yamil-gane-comunicado-de-su-defensa",
-      "title": "Caso Exen y la situación de Yamil Gane: comunicado de su Defensa",
-      "volanta": "DE INTERES",
-      "date": "2026-08-27T22:10:54+00:00"
     }
   ]
 }
