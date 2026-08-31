@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T10:52:50+00:00",
+  "updated": "2026-08-31T11:34:33+00:00",
   "posts": [
+    {
+      "id": "63a15f2a",
+      "image": "img/63a15f2a.png",
+      "image_sha": "cc1fa7f09510c9124c30665d3deb5cf19374ee05",
+      "url": "https://www.radiodos.com.ar/213079-vialidad-nacional-informo-sobre-un-corte-total-en-el-transito-por-rn-14-en-el-ingreso-a-misiones",
+      "title": "Vialidad Nacional informó sobre un corte total en el tránsito por RN 14 en el ingreso a Misiones",
+      "volanta": "HABRÁ CORTE TOTAL",
+      "date": "2026-08-31T11:34:33+00:00"
+    },
     {
       "id": "d83c8f5d",
       "image": "img/d83c8f5d.png",
@@ -531,15 +540,6 @@
       "title": "Desarrollo Social coordina un plan integral en comedores oficiales de Capital",
       "volanta": "REUNIÓN DE TRABAJO",
       "date": "2026-08-27T17:28:18+00:00"
-    },
-    {
-      "id": "d6c9ca80",
-      "image": "img/d6c9ca80.png",
-      "image_sha": "4e6c8e50a0305e26b8962bad57aac223f378591e",
-      "url": "https://www.radiodos.com.ar/212946-se-busca-declarar-la-emergencia-del-sistema-urbano-de-veredas-en-corrientes",
-      "title": "Se busca declarar la Emergencia del Sistema Urbano de Veredas en Corrientes",
-      "volanta": "Nueva Sesión",
-      "date": "2026-08-27T17:27:40+00:00"
     }
   ]
 }
