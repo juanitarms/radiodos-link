@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T14:36:50+00:00",
+  "updated": "2026-08-31T15:12:49+00:00",
   "posts": [
+    {
+      "id": "ba347b75",
+      "image": "img/ba347b75.png",
+      "image_sha": "7c6fc5d39417ea07b454ff362bb76ee4060389bb",
+      "url": "https://www.radiodos.com.ar/213109-elegi-seguir-maxi-lopez-le-respondio-a-wanda-nara-tras-sus-dichos-sobre-las-fiestas-en-rusia",
+      "title": "\"Elegí seguir...\": Maxi López le respondió a Wanda Nara tras sus dichos sobre las fiestas en Rusia",
+      "volanta": "POLÉMICA",
+      "date": "2026-08-31T15:12:49+00:00"
+    },
     {
       "id": "d6b606e4",
       "image": "img/d6b606e4.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés acompañó el aniversario de Santo Tomé y destacó su potencial estratégico y productivo",
       "volanta": "ACTO Y DESFILE",
       "date": "2026-08-27T21:07:42+00:00"
-    },
-    {
-      "id": "0ec7a72a",
-      "image": "img/0ec7a72a.png",
-      "image_sha": "3469dd8132322ea8435268e449ccfc0bafd358f7",
-      "url": "https://www.radiodos.com.ar/212959-se-disparan-los-casos-de-la-super-gripe-en-argentina-por-que-dura-mas-tiempo-y-afecta-tanto-a-los-chicos",
-      "title": "Se disparan los casos de la \"súper gripe\" en Argentina: por qué dura más tiempo y afecta tanto a los chicos",
-      "volanta": "ALERTA",
-      "date": "2026-08-27T21:06:49+00:00"
     }
   ]
 }
