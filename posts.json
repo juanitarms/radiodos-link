@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T12:43:33+00:00",
+  "updated": "2026-08-31T13:03:35+00:00",
   "posts": [
+    {
+      "id": "eda872f3",
+      "image": "img/eda872f3.png",
+      "image_sha": "f3ec33caf5256553bca2ffbe95f7c5a71035215f",
+      "url": "https://www.radiodos.com.ar/213085-desde-hoy-se-paga-sueldos-a-empleados-de-la-municipalidad-de-corrientes",
+      "title": "Desde hoy, se paga sueldos a empleados de la Municipalidad de Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-08-31T13:03:35+00:00"
+    },
     {
       "id": "0f902a85",
       "image": "img/0f902a85.png",
@@ -531,15 +540,6 @@
       "title": "Santa Fe: un fuerte temporal de viento y granizó azotó a Las Rosas",
       "volanta": "TERRIBLE",
       "date": "2026-08-27T18:46:00+00:00"
-    },
-    {
-      "id": "604330a6",
-      "image": "img/604330a6.png",
-      "image_sha": "77aba5626be3711eb75e6fc2eaff82ca4466f41d",
-      "url": "https://www.radiodos.com.ar/212954-donald-trump-excluyo-a-la-argentina-de-la-importacion-sin-aranceles-de-300-mil-toneladas-de-carne",
-      "title": "Donald Trump excluyó a la Argentina de la importación sin aranceles de 300 mil toneladas de carne",
-      "volanta": "NORMATIVA",
-      "date": "2026-08-27T18:45:30+00:00"
     }
   ]
 }
