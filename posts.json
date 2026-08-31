@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T13:56:52+00:00",
+  "updated": "2026-08-31T14:36:50+00:00",
   "posts": [
+    {
+      "id": "d6b606e4",
+      "image": "img/d6b606e4.png",
+      "image_sha": "8f98211aa4548ff908ccfef046cfca4c62a46732",
+      "url": "https://www.radiodos.com.ar/213105-migue-granados-revelo-si-vendio-su-parte-de-olga-y-como-sigue-su-futuro-laboral",
+      "title": "Migue Granados reveló si vendió su parte de Olga y cómo sigue su futuro laboral",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-08-31T14:36:50+00:00"
+    },
     {
       "id": "ecb2727d",
       "image": "img/ecb2727d.png",
@@ -531,15 +540,6 @@
       "title": "Se disparan los casos de la \"súper gripe\" en Argentina: por qué dura más tiempo y afecta tanto a los chicos",
       "volanta": "ALERTA",
       "date": "2026-08-27T21:06:49+00:00"
-    },
-    {
-      "id": "e8f1e3d2",
-      "image": "img/e8f1e3d2.png",
-      "image_sha": "0daac7e2135a3a744f9505607276d828c12f2f68",
-      "url": "https://www.radiodos.com.ar/212960-se-busca-declarar-la-emergencia-del-sistema-urbano-de-veredas-en-corrientes",
-      "title": "Se busca declarar la Emergencia del Sistema Urbano de Veredas en Corrientes",
-      "volanta": "RECLAMO URBANO",
-      "date": "2026-08-27T21:06:12+00:00"
     }
   ]
 }
