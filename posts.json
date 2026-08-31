@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T21:21:23+00:00",
+  "updated": "2026-08-31T21:21:52+00:00",
   "posts": [
+    {
+      "id": "ba9813cf",
+      "image": "img/ba9813cf.png",
+      "image_sha": "7e65bbf19ef4cf6cf67a410550bcee700a9b57dc",
+      "url": "https://www.radiodos.com.ar/213130-corrientes-lidera-la-produccion-nacional-de-arroz",
+      "title": "Corrientes lidera la producción nacional de arroz",
+      "volanta": "Liderazgo arrocero",
+      "date": "2026-08-31T21:21:52+00:00"
+    },
     {
       "id": "c0e0e4f7",
       "image": "img/c0e0e4f7.png",
@@ -531,15 +540,6 @@
       "title": "La familia de la Policía de Corrientes camina hacia Itatí",
       "volanta": "AHORA",
       "date": "2026-08-28T11:27:51+00:00"
-    },
-    {
-      "id": "85d12be5",
-      "image": "img/85d12be5.png",
-      "image_sha": "989b480e169b27ee7869a3624a4ab562953bb37e",
-      "url": "https://www.radiodos.com.ar/212972-el-gobernador-de-corrientes-inauguro-la-pavimentacion-del-acceso-a-la-maderera-zozzoli-en-santo-tome",
-      "title": "El Gobernador de Corrientes inauguró la pavimentación del acceso a la maderera Zozzoli en Santo Tomé",
-      "volanta": "APOYO AL SECTOR INDUSTRIAL",
-      "date": "2026-08-28T10:50:24+00:00"
     }
   ]
 }
