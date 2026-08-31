@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T20:33:35+00:00",
+  "updated": "2026-08-31T20:34:07+00:00",
   "posts": [
+    {
+      "id": "d5572026",
+      "image": "img/d5572026.png",
+      "image_sha": "1ec3f77c89384b294cda9d7ea476ac4e80b1d5fc",
+      "url": "https://www.radiodos.com.ar/213124-se-posterga-el-corte-de-transito-por-rn14-en-el-acceso-a-misiones",
+      "title": "Se posterga el corte de tránsito por RN14 en el acceso a Misiones",
+      "volanta": "ARROYO PINDAPOY GRANDE",
+      "date": "2026-08-31T20:34:07+00:00"
+    },
     {
       "id": "983c2ec2",
       "image": "img/983c2ec2.png",
@@ -531,15 +540,6 @@
       "title": "Caso Exen y la situación de Yamil Gane: comunicado de su Defensa",
       "volanta": "DE INTERES",
       "date": "2026-08-27T22:10:54+00:00"
-    },
-    {
-      "id": "56426748",
-      "image": "img/56426748.png",
-      "image_sha": "e2f168c968e7c7d4ccbaba1f912daa562ad78017",
-      "url": "https://www.radiodos.com.ar/212963-la-ciudad-de-corrientes-pone-el-foco-en-los-adultos-mayores-para-construir-una-movilidad-mas-inclusiva",
-      "title": "La ciudad de Corrientes pone el foco en los adultos mayores para construir una movilidad más inclusiva",
-      "volanta": "CONCIENTIZACIÓN COMUNITARIA",
-      "date": "2026-08-27T21:23:42+00:00"
     }
   ]
 }
