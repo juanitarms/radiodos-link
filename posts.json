@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T21:22:19+00:00",
+  "updated": "2026-08-31T21:22:50+00:00",
   "posts": [
+    {
+      "id": "9392f67c",
+      "image": "img/9392f67c.png",
+      "image_sha": "ef9439920d3c9049f618abbdc999d66729b58279",
+      "url": "https://www.radiodos.com.ar/213131-con-gran-convocatoria-en-capital-la-provincia-despliega-el-programa-ver-para-ser-libres-y-centros-de-familia",
+      "title": "Con gran convocatoria en Capital, la Provincia despliega el programa \"Ver para Ser Libres\" y \"Centros de Familia\"",
+      "volanta": "HASTA EL VIERNES 4",
+      "date": "2026-08-31T21:22:50+00:00"
+    },
     {
       "id": "e7da78fa",
       "image": "img/e7da78fa.png",
@@ -531,15 +540,6 @@
       "title": "Luna de sangre: así se vio el cielo en una localidad de Corrientes",
       "volanta": "FOTO EXCLUSIVA DESDE ESQUINA",
       "date": "2026-08-28T12:00:57+00:00"
-    },
-    {
-      "id": "b6ba4adc",
-      "image": "img/b6ba4adc.png",
-      "image_sha": "85866f45ccd7852809a608375670694e95a0c05c",
-      "url": "https://www.radiodos.com.ar/212975-casi-una-tragedia-por-vaca-suelta-en-ruta-de-acceso-a-villa-turistica-de-corrientes",
-      "title": "Casi una tragedia por vaca suelta en ruta de acceso a villa turística de Corrientes",
-      "volanta": "VIVO DE MILAGRO",
-      "date": "2026-08-28T11:44:11+00:00"
     }
   ]
 }
