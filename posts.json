@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T21:20:39+00:00",
+  "updated": "2026-08-31T21:21:23+00:00",
   "posts": [
+    {
+      "id": "c0e0e4f7",
+      "image": "img/c0e0e4f7.png",
+      "image_sha": "385000268d3c4b029c63264be96aa424ce785097",
+      "url": "https://www.radiodos.com.ar/213126-visita-de-leon-xiv-la-iglesia-toma-distancia-del-gobierno-por-la-organizacion-de-las-misas",
+      "title": "Visita de León XIV: la Iglesia toma distancia del Gobierno por la organización de las misas",
+      "volanta": "CRECE LA EXPECTATIVA",
+      "date": "2026-08-31T21:21:23+00:00"
+    },
     {
       "id": "d8e28067",
       "image": "img/d8e28067.png",
@@ -531,15 +540,6 @@
       "title": "El Gobernador de Corrientes inauguró la pavimentación del acceso a la maderera Zozzoli en Santo Tomé",
       "volanta": "APOYO AL SECTOR INDUSTRIAL",
       "date": "2026-08-28T10:50:24+00:00"
-    },
-    {
-      "id": "67febe04",
-      "image": "img/67febe04.png",
-      "image_sha": "f6c8e613c007c13f98d0e9c6e35c5b824049d8c6",
-      "url": "https://www.radiodos.com.ar/212971-copa-argentina-estudiantes-y-platense-avanzaron-a-cuartos-de-final",
-      "title": "Copa Argentina: Estudiantes y Platense avanzaron a cuartos de final",
-      "volanta": "Sólo falta un equipo: ¿Boca o Vélez?",
-      "date": "2026-08-28T10:29:02+00:00"
     }
   ]
 }
