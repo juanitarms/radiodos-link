@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T13:34:05+00:00",
+  "updated": "2026-08-31T13:56:52+00:00",
   "posts": [
+    {
+      "id": "ecb2727d",
+      "image": "img/ecb2727d.png",
+      "image_sha": "b0d9f65424868ebbdadf8c6c68f120f87545a1fe",
+      "url": "https://www.radiodos.com.ar/213097-jp-valdes-participara-de-un-encuentro-con-el-presidente-milei-junto-a-otros-gobernadores",
+      "title": "JP Valdés participará de un encuentro con el presidente Milei junto a otros gobernadores",
+      "volanta": "GOBERNADOR",
+      "date": "2026-08-31T13:56:52+00:00"
+    },
     {
       "id": "5574d06f",
       "image": "img/5574d06f.png",
@@ -531,15 +540,6 @@
       "title": "Se busca declarar la Emergencia del Sistema Urbano de Veredas en Corrientes",
       "volanta": "RECLAMO URBANO",
       "date": "2026-08-27T21:06:12+00:00"
-    },
-    {
-      "id": "996f7c77",
-      "image": "img/996f7c77.png",
-      "image_sha": "9c7f2080ddd7a54f31cc4320bd5a7d4897189f31",
-      "url": "https://www.radiodos.com.ar/212958-coudet-dejo-de-ser-el-dt-de-river-plate-y-leonardo-ponzio-asumira-como-interino",
-      "title": "Coudet dejó de ser el DT de River Plate y Leonardo Ponzio asumirá como interino",
-      "volanta": "FINAL ANUNCIADO",
-      "date": "2026-08-27T20:30:05+00:00"
     }
   ]
 }
