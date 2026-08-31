@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T21:19:16+00:00",
+  "updated": "2026-08-31T21:20:39+00:00",
   "posts": [
+    {
+      "id": "d8e28067",
+      "image": "img/d8e28067.png",
+      "image_sha": "a7a5f0f5253306762bfdadbe50acbf8650415713",
+      "url": "https://www.radiodos.com.ar/213128-el-gobierno-nacional-anuncio-el-cierre-de-400-registros-del-automotor",
+      "title": "El Gobierno Nacional anunció el cierre de 400 Registros del Automotor",
+      "volanta": "NACIONAL",
+      "date": "2026-08-31T21:20:39+00:00"
+    },
     {
       "id": "acac4735",
       "image": "img/acac4735.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina: Estudiantes y Platense avanzaron a cuartos de final",
       "volanta": "Sólo falta un equipo: ¿Boca o Vélez?",
       "date": "2026-08-28T10:29:02+00:00"
-    },
-    {
-      "id": "21511003",
-      "image": "img/21511003.png",
-      "image_sha": "6cbba14890628765fd222abbe4a989036c295e39",
-      "url": "https://www.radiodos.com.ar/212968-juicio-por-loan-otra-jornada-con-la-mirada-puesta-en-el-yankee-soria",
-      "title": "Juicio por Loan: otra jornada con la mirada puesta en \"el yankee\" Soria",
-      "volanta": "SE RETOMA EL OTRO MIÉRCOLES",
-      "date": "2026-08-27T22:15:19+00:00"
     }
   ]
 }
