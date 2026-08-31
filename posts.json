@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T21:21:52+00:00",
+  "updated": "2026-08-31T21:22:19+00:00",
   "posts": [
+    {
+      "id": "e7da78fa",
+      "image": "img/e7da78fa.png",
+      "image_sha": "85eed2df3923bdd5075ba01095e166e6c2d87a90",
+      "url": "https://www.radiodos.com.ar/213132-la-industria-maderera-de-corrientes-en-alerta-roja-por-los-aumentos-en-la-tarifa-electrica",
+      "title": "La industria maderera de Corrientes, en alerta roja por los aumentos en la tarifa eléctrica",
+      "volanta": "RECLAMO",
+      "date": "2026-08-31T21:22:19+00:00"
+    },
     {
       "id": "ba9813cf",
       "image": "img/ba9813cf.png",
@@ -531,15 +540,6 @@
       "title": "Casi una tragedia por vaca suelta en ruta de acceso a villa turística de Corrientes",
       "volanta": "VIVO DE MILAGRO",
       "date": "2026-08-28T11:44:11+00:00"
-    },
-    {
-      "id": "f6c67814",
-      "image": "img/f6c67814.png",
-      "image_sha": "9bdffcfd087f17b451b08527329adc4dba958260",
-      "url": "https://www.radiodos.com.ar/212973-la-familia-de-la-policia-de-corrientes-camina-hacia-itati",
-      "title": "La familia de la Policía de Corrientes camina hacia Itatí",
-      "volanta": "AHORA",
-      "date": "2026-08-28T11:27:51+00:00"
     }
   ]
 }
