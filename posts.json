@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T22:58:47+00:00",
+  "updated": "2026-08-31T23:00:49+00:00",
   "posts": [
+    {
+      "id": "6b50f979",
+      "image": "img/6b50f979.png",
+      "image_sha": "5b18c8f22efbd57c7a50629ed5ae92ccad091f69",
+      "url": "https://www.radiodos.com.ar/213134-la-justicia-pidio-al-gobierno-informacion-sobre-fondos-destinados-a-rutas-nacionales",
+      "title": "La Justicia pidió al Gobierno información sobre fondos destinados a rutas nacionales",
+      "volanta": "DURO RECLAMO",
+      "date": "2026-08-31T23:00:49+00:00"
+    },
     {
       "id": "f0af8797",
       "image": "img/f0af8797.png",
@@ -531,15 +540,6 @@
       "title": "Un efectivo de la Policía Federal abatió a un delincuente durante un intento de robo",
       "volanta": "Lomas del Mirador",
       "date": "2026-08-28T13:05:48+00:00"
-    },
-    {
-      "id": "04c6bb38",
-      "image": "img/04c6bb38.png",
-      "image_sha": "e81d53ec23c1140d0da7c3566e6218d1315652b8",
-      "url": "https://www.radiodos.com.ar/212985-el-gobierno-de-corrientes-convoca-a-proyectos-productivos-que-buscan-financiacion",
-      "title": "El Gobierno de Corrientes convoca a proyectos productivos que buscan financiación",
-      "volanta": "IMPULSO A PROPUESTAS INDUSTRIALES",
-      "date": "2026-08-28T12:36:04+00:00"
     }
   ]
 }
