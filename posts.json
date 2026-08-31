@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-30T18:22:07+00:00",
+  "updated": "2026-08-31T10:33:36+00:00",
   "posts": [
+    {
+      "id": "d96914f5",
+      "image": "img/d96914f5.png",
+      "image_sha": "6f6d65e0bd1b2bb2338131ad5e93cb5294b43961",
+      "url": "https://www.radiodos.com.ar/213075-cierre-de-musimundo-en-corrientes-nos-enteramos-esa-misma-noche",
+      "title": "Cierre de Musimundo en Corrientes: \"Nos enteramos esa misma noche\"",
+      "volanta": "CADENA DE  ELECTRODOMÉSTICOS",
+      "date": "2026-08-31T10:33:36+00:00"
+    },
     {
       "id": "3ceb5121",
       "image": "img/3ceb5121.png",
@@ -531,15 +540,6 @@
       "title": "Festival por el Día de la Persona Donante de Órganos",
       "volanta": "FIN DE SEMANA",
       "date": "2026-08-27T16:41:51+00:00"
-    },
-    {
-      "id": "a70f755e",
-      "image": "img/a70f755e.png",
-      "image_sha": "a0760861dd6407a2672b12fec4edee794ebc43e9",
-      "url": "https://www.radiodos.com.ar/212942-extienden-el-regimen-para-garantizar-el-suministro-de-gas-licuado-gratuito-a-cuarteles-de-bomberos-voluntarios",
-      "title": "Extienden el régimen para garantizar el suministro de gas licuado gratuito a cuarteles de bomberos voluntarios",
-      "volanta": "BUENA NOTICIA",
-      "date": "2026-08-27T16:41:07+00:00"
     }
   ]
 }
