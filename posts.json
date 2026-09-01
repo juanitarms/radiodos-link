@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T14:48:35+00:00",
+  "updated": "2026-09-01T15:03:30+00:00",
   "posts": [
+    {
+      "id": "1f63123a",
+      "image": "img/1f63123a.png",
+      "image_sha": "6d488d346d3ecc3c008e1f7614c5c1e17c4cd251",
+      "url": "https://www.radiodos.com.ar/213164-idiomas-unne-abrieron-las-inscripciones-para-la-certificacion-internacional",
+      "title": "Idiomas UNNE: abrieron las inscripciones para la certificación internacional",
+      "volanta": "INGLÉS",
+      "date": "2026-09-01T15:03:30+00:00"
+    },
     {
       "id": "e370fec6",
       "image": "img/e370fec6.png",
@@ -531,15 +540,6 @@
       "title": "Dictaron \"falta de mérito\" y recupera la libertad el empresario correntino involucrado en la \"causa Exen\"",
       "volanta": "ADELANTO",
       "date": "2026-08-28T20:59:52+00:00"
-    },
-    {
-      "id": "48a70292",
-      "image": "img/48a70292.png",
-      "image_sha": "0fa46b7ff941bb739c6a966ccf88a13746d0ac18",
-      "url": "https://www.radiodos.com.ar/213028-escalofriante-amenaza-en-una-universidad-privada-de-corrientes-voy-a-hacer-una-masacrelos-voy-a-fusilar-a-todos",
-      "title": "Escalofriante amenaza en una universidad privada de Corrientes: \"Voy a hacer una masacre..los voy a fusilar a todos\"",
-      "volanta": "ALERTA MÁXIMA",
-      "date": "2026-08-28T20:59:13+00:00"
     }
   ]
 }
