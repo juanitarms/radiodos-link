@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T18:57:24+00:00",
+  "updated": "2026-09-01T19:41:57+00:00",
   "posts": [
+    {
+      "id": "01534622",
+      "image": "img/01534622.png",
+      "image_sha": "275dd21092fbdabcf8daeb72905b4a3013e6e63b",
+      "url": "https://www.radiodos.com.ar/213178-ate-lanza-un-paro-por-48-horas-en-aeropuertos-y-podrian-verse-afectados-los-vuelos-en-todo-el-pais",
+      "title": "ATE lanza un paro por 48 horas en aeropuertos y podrían verse afectados los vuelos en todo el país",
+      "volanta": "RECLAMOS",
+      "date": "2026-09-01T19:41:57+00:00"
+    },
     {
       "id": "e0c98ff9",
       "image": "img/e0c98ff9.png",
@@ -531,15 +540,6 @@
       "title": "Las Leonas vencieron a Países Bajos en los penales y se consagraron campeonas del mundo",
       "volanta": "HISTORICO",
       "date": "2026-08-29T18:37:28+00:00"
-    },
-    {
-      "id": "99c98856",
-      "image": "img/99c98856.png",
-      "image_sha": "50ca51bbc1320fab1c93566e04dfc59c41a7b82b",
-      "url": "https://www.radiodos.com.ar/213039-ituzaingo-fue-sede-de-los-juegos-correntinos-2026-para-adultos-mayores",
-      "title": "Ituzaingó fue sede de los Juegos Correntinos 2026 para Adultos Mayores",
-      "volanta": "INTEGRACIÓN, SALUD Y ENCUENTRO COMUNITARIO",
-      "date": "2026-08-29T14:58:57+00:00"
     }
   ]
 }
