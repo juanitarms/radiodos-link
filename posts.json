@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T23:38:49+00:00",
+  "updated": "2026-09-01T23:39:17+00:00",
   "posts": [
+    {
+      "id": "75e9a771",
+      "image": "img/75e9a771.png",
+      "image_sha": "3982c983b74d966005a44f82c428c3432242dc84",
+      "url": "https://www.radiodos.com.ar/213202-chaco-lanzo-un-incentivo-de-100000-mensuales-para-estudiantes-del-ultimo-ano-del-secundario",
+      "title": "Chaco lanzó un incentivo de $100.000 mensuales para estudiantes del último año del secundario",
+      "volanta": "INICIATIVA",
+      "date": "2026-09-01T23:39:17+00:00"
+    },
     {
       "id": "a5744795",
       "image": "img/a5744795.png",
@@ -531,15 +540,6 @@
       "title": "Vialidad Nacional informó sobre un corte total en el tránsito por RN 14 en el ingreso a Misiones",
       "volanta": "HABRÁ CORTE TOTAL",
       "date": "2026-08-31T11:34:33+00:00"
-    },
-    {
-      "id": "d83c8f5d",
-      "image": "img/d83c8f5d.png",
-      "image_sha": "acf468d810ec65dcfa7571e67ff01b5439d51579",
-      "url": "https://www.radiodos.com.ar/213076-cruce-de-capitalinos-huracan-y-mandiyu-empataron-1-a-1",
-      "title": "Cruce de capitalinos: Huracán y Mandiyú empataron 1 a 1",
-      "volanta": "FÚTBOL",
-      "date": "2026-08-31T10:52:50+00:00"
     }
   ]
 }
