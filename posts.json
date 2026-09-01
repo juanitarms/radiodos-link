@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T14:27:54+00:00",
+  "updated": "2026-09-01T14:48:35+00:00",
   "posts": [
+    {
+      "id": "e370fec6",
+      "image": "img/e370fec6.png",
+      "image_sha": "d14b25bc3f77627acff43e12eb96f51198412554",
+      "url": "https://www.radiodos.com.ar/213174-sorpresiva-ultima-eliminacion-en-gran-hermano-quienes-son-las-seis-finalistas",
+      "title": "Sorpresiva última eliminación en Gran Hermano: quiénes son las seis finalistas",
+      "volanta": "RECTA FINAL",
+      "date": "2026-09-01T14:48:35+00:00"
+    },
     {
       "id": "c7922fd5",
       "image": "img/c7922fd5.png",
@@ -531,15 +540,6 @@
       "title": "Escalofriante amenaza en una universidad privada de Corrientes: \"Voy a hacer una masacre..los voy a fusilar a todos\"",
       "volanta": "ALERTA MÁXIMA",
       "date": "2026-08-28T20:59:13+00:00"
-    },
-    {
-      "id": "811e24b2",
-      "image": "img/811e24b2.png",
-      "image_sha": "1aca35ca2814a42a4aad4ade095903eac1b3a9b8",
-      "url": "https://www.radiodos.com.ar/213026-fracaso-el-consejo-del-salario-el-gobierno-definira-por-decreto-el-nuevo-sueldo-minimo",
-      "title": "Fracasó el Consejo del Salario: el Gobierno definirá por decreto el nuevo sueldo mínimo",
-      "volanta": "Revés",
-      "date": "2026-08-28T20:41:51+00:00"
     }
   ]
 }
