@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T13:34:48+00:00",
+  "updated": "2026-09-01T13:54:51+00:00",
   "posts": [
+    {
+      "id": "a2da0bb1",
+      "image": "img/a2da0bb1.png",
+      "image_sha": "0d11b3b044301e426f61ae84aaece94df29fa75f",
+      "url": "https://www.radiodos.com.ar/213170-la-carta-de-antonela-roccuzzo-a-messi-tras-su-retiro-de-la-seleccion-argentina-que-orgullo-verte-cerrar-esta-etapa-asi",
+      "title": "La carta de Antonela Roccuzzo a Messi tras su retiro de la Selección Argentina: \"Qué orgullo verte cerrar esta etapa así\"",
+      "volanta": "GRAN COMPAÑERA",
+      "date": "2026-09-01T13:54:51+00:00"
+    },
     {
       "id": "c92e70b8",
       "image": "img/c92e70b8.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú presentó su nueva camiseta para el Torneo Regional",
       "volanta": "FUTBOL",
       "date": "2026-08-28T20:40:16+00:00"
-    },
-    {
-      "id": "6f4b33e7",
-      "image": "img/6f4b33e7.png",
-      "image_sha": "8e66cfcf148eec3825a649a278f8f70ddedc1066",
-      "url": "https://www.radiodos.com.ar/213023-el-banco-nacion-consolida-su-liderazgo-en-el-financiamiento-al-agro-con-una-cartera-agropecuaria-de-45-billones",
-      "title": "El Banco Nación consolida su liderazgo en el financiamiento al agro, con una cartera agropecuaria de $4,5 billones",
-      "volanta": "CRECIMIENTO RECORD",
-      "date": "2026-08-28T20:14:29+00:00"
     }
   ]
 }
