@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T21:23:00+00:00",
+  "updated": "2026-09-01T21:23:57+00:00",
   "posts": [
+    {
+      "id": "45c532f9",
+      "image": "img/45c532f9.png",
+      "image_sha": "45e8107cf6672118379f276c02243256957bdfc9",
+      "url": "https://www.radiodos.com.ar/213196-la-forestacion-y-el-te-salvan-el-semestre-exportador-de-corrientes",
+      "title": "La forestación y el té salvan el semestre exportador de Corrientes",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-09-01T21:23:57+00:00"
+    },
     {
       "id": "5e2bbca3",
       "image": "img/5e2bbca3.png",
@@ -531,15 +540,6 @@
       "title": "En el aniversario de Santa Rosa, el gobernador inauguró un hospital y un cuartel de bomberos",
       "volanta": "INVERSIÓN MILLONARIA",
       "date": "2026-08-30T14:57:25+00:00"
-    },
-    {
-      "id": "d11f63e8",
-      "image": "img/d11f63e8.png",
-      "image_sha": "1d3c8157046d7002ddb516455f70bf85af8b5dcf",
-      "url": "https://www.radiodos.com.ar/213067-tragedia-en-corrientes-murio-un-adolescente-tras-chocar-con-una-camioneta",
-      "title": "Tragedia en Corrientes: murió un adolescente tras chocar con una camioneta",
-      "volanta": "CAPITAL",
-      "date": "2026-08-30T14:05:10+00:00"
     }
   ]
 }
