@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T16:30:57+00:00",
+  "updated": "2026-09-01T16:31:33+00:00",
   "posts": [
+    {
+      "id": "ad271c8c",
+      "image": "img/ad271c8c.png",
+      "image_sha": "dcb6aae7c939a5caa7ddd1958de97eb76b9ba91d",
+      "url": "https://www.radiodos.com.ar/213175-cruz-roja-dictara-cursos-de-lengua-de-senas-y-rcp",
+      "title": "Cruz Roja dictará cursos de lengua de señas y RCP",
+      "volanta": "Filial Corrientes",
+      "date": "2026-09-01T16:31:33+00:00"
+    },
     {
       "id": "e7cba385",
       "image": "img/e7cba385.png",
@@ -531,15 +540,6 @@
       "title": "Gabriela Valenzuela festejó la media sanción que recibió el proyecto que quiere elevar a nivel Nacional la Fiesta del Mate y la Amistad",
       "volanta": "Habló de producción, turismo y gestión",
       "date": "2026-08-28T21:35:13+00:00"
-    },
-    {
-      "id": "4990434b",
-      "image": "img/4990434b.png",
-      "image_sha": "7e572d5cb6e2fa841bd52edf0a776e974893f28a",
-      "url": "https://www.radiodos.com.ar/213029-detuvieron-a-bebote-alvarez-por-una-causa-de-narcotrafico-internacional",
-      "title": "Detuvieron a \"Bebote\" Álvarez por una causa de narcotráfico internacional",
-      "volanta": "EXBARRA DE INDEPENDIENTE",
-      "date": "2026-08-28T21:33:58+00:00"
     }
   ]
 }
