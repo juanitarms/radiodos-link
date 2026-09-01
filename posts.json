@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T21:27:35+00:00",
+  "updated": "2026-09-01T23:38:13+00:00",
   "posts": [
+    {
+      "id": "7e07bf45",
+      "image": "img/7e07bf45.png",
+      "image_sha": "33c5b00e591d8160358badb2217100c5ae74969f",
+      "url": "https://www.radiodos.com.ar/213200-el-gobierno-ofrecio-un-6-de-aumento-en-dos-tramos-a-los-docentes-universitarios",
+      "title": "El Gobierno ofreció un 6% de aumento en dos tramos a los docentes universitarios",
+      "volanta": "Fracasó la paritaria",
+      "date": "2026-09-01T23:38:13+00:00"
+    },
     {
       "id": "678eb0ab",
       "image": "img/678eb0ab.png",
@@ -531,15 +540,6 @@
       "title": "Cierre de Musimundo en Corrientes: \"Nos enteramos esa misma noche\"",
       "volanta": "CADENA DE  ELECTRODOMÉSTICOS",
       "date": "2026-08-31T10:33:36+00:00"
-    },
-    {
-      "id": "3ceb5121",
-      "image": "img/3ceb5121.png",
-      "image_sha": "6b92b0302a398e636d52000806db836ea5f776b3",
-      "url": "https://www.radiodos.com.ar/213070-los-leones-vencieron-a-paises-bajos-y-se-quedaron-con-la-medalla-de-bronce",
-      "title": "Los Leones vencieron a Países Bajos y se quedaron con la medalla de bronce",
-      "volanta": "Mundial de Hockey masculino",
-      "date": "2026-08-30T18:22:07+00:00"
     }
   ]
 }
