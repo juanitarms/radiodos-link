@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T13:09:26+00:00",
+  "updated": "2026-09-01T13:34:48+00:00",
   "posts": [
+    {
+      "id": "c92e70b8",
+      "image": "img/c92e70b8.png",
+      "image_sha": "03de515c68832d9ff1ad1c586bdddc729468d51c",
+      "url": "https://www.radiodos.com.ar/213167-donald-trump-confirmo-que-estados-unidos-podria-revisar-su-postura-sobre-las-malvinas",
+      "title": "Donald Trump confirmó que Estados Unidos podría revisar su postura sobre las Malvinas",
+      "volanta": "CONFLICTO",
+      "date": "2026-09-01T13:34:48+00:00"
+    },
     {
       "id": "0df04be5",
       "image": "img/0df04be5.png",
@@ -531,15 +540,6 @@
       "title": "El Banco Nación consolida su liderazgo en el financiamiento al agro, con una cartera agropecuaria de $4,5 billones",
       "volanta": "CRECIMIENTO RECORD",
       "date": "2026-08-28T20:14:29+00:00"
-    },
-    {
-      "id": "ad949e1d",
-      "image": "img/ad949e1d.png",
-      "image_sha": "4023df5996da72d50a7d903341d6395a1adc26f9",
-      "url": "https://www.radiodos.com.ar/213002-la-legislatura-recibio-a-los-primeros-pasantes-universitarios-de-la-fadycc-unne",
-      "title": "La Legislatura recibió a los primeros pasantes universitarios de la FADyCC-UNNE",
-      "volanta": "EDUCACIÓN",
-      "date": "2026-08-28T19:09:11+00:00"
     }
   ]
 }
