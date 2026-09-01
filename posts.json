@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T20:35:48+00:00",
+  "updated": "2026-09-01T21:19:46+00:00",
   "posts": [
+    {
+      "id": "4572c4b0",
+      "image": "img/4572c4b0.png",
+      "image_sha": "046dc0938fd1677d6010fa258511d0c0489106d9",
+      "url": "https://www.radiodos.com.ar/213192-javier-milei-hablara-en-cadena-nacional-el-jueves-por-el-tema-malvinas",
+      "title": "Javier Milei hablará en cadena nacional el jueves por el tema Malvinas",
+      "volanta": "EN CAMPAÑA",
+      "date": "2026-09-01T21:19:46+00:00"
+    },
     {
       "id": "908248d3",
       "image": "img/908248d3.png",
@@ -531,15 +540,6 @@
       "title": "TFA: Con un golazo de Villanueva, Boca Unidos empató en el Jardín de la República",
       "volanta": "Fue 2 a 2",
       "date": "2026-08-30T04:04:52+00:00"
-    },
-    {
-      "id": "812bd12c",
-      "image": "img/812bd12c.png",
-      "image_sha": "cc94b2253dfd57cf3e7b6a21bea95e2bd0f7cf2b",
-      "url": "https://www.radiodos.com.ar/213064-torneo-clausura-sabado-plagado-de-empates",
-      "title": "Torneo Clausura: Sábado plagado de empates",
-      "volanta": "7° Fecha",
-      "date": "2026-08-30T04:04:25+00:00"
     }
   ]
 }
