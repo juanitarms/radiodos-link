@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T18:56:52+00:00",
+  "updated": "2026-09-01T18:57:24+00:00",
   "posts": [
+    {
+      "id": "e0c98ff9",
+      "image": "img/e0c98ff9.png",
+      "image_sha": "14017e9587070284d5e0281c95149b5ebb8bd4ee",
+      "url": "https://www.radiodos.com.ar/213179-argentina-cayo-ante-canada-en-un-partidazo-intactas-chances-de-llegar-al-mundial-2027",
+      "title": "Argentina cayó ante Canadá en un partidazo: intactas chances de llegar al Mundial 2027",
+      "volanta": "BÁSQUET",
+      "date": "2026-09-01T18:57:24+00:00"
+    },
     {
       "id": "529acd2f",
       "image": "img/529acd2f.png",
@@ -531,15 +540,6 @@
       "title": "Ituzaingó fue sede de los Juegos Correntinos 2026 para Adultos Mayores",
       "volanta": "INTEGRACIÓN, SALUD Y ENCUENTRO COMUNITARIO",
       "date": "2026-08-29T14:58:57+00:00"
-    },
-    {
-      "id": "ef5e5c59",
-      "image": "img/ef5e5c59.png",
-      "image_sha": "7cbaf914c0acbcd741d13f1badea9547abea93e5",
-      "url": "https://www.radiodos.com.ar/213043-exitosa-intervencion-traumatologica-con-articulacion-interhospitalaria-en-corrientes",
-      "title": "Exitosa intervención traumatológica con articulación interhospitalaria en Corrientes",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-08-29T14:57:23+00:00"
     }
   ]
 }
