@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T13:54:51+00:00",
+  "updated": "2026-09-01T14:27:54+00:00",
   "posts": [
+    {
+      "id": "c7922fd5",
+      "image": "img/c7922fd5.png",
+      "image_sha": "7624e2b5ae84cfd42814af524551036eb76907ee",
+      "url": "https://www.radiodos.com.ar/213171-la-inesperada-publicacion-de-luck-ra-que-genero-debate-esta-buscando-llamar-la-atencion-de-la-joaqui",
+      "title": "La inesperada publicación de Luck Ra que generó debate: ¿está buscando llamar la atención de La Joaqui?",
+      "volanta": "SORPRESA",
+      "date": "2026-09-01T14:27:54+00:00"
+    },
     {
       "id": "a2da0bb1",
       "image": "img/a2da0bb1.png",
@@ -531,15 +540,6 @@
       "title": "Fracasó el Consejo del Salario: el Gobierno definirá por decreto el nuevo sueldo mínimo",
       "volanta": "Revés",
       "date": "2026-08-28T20:41:51+00:00"
-    },
-    {
-      "id": "03476636",
-      "image": "img/03476636.png",
-      "image_sha": "1cec4732781481ce3d2b2e16eeb547af0e94cefb",
-      "url": "https://www.radiodos.com.ar/213027-mandiyu-presento-su-nueva-camiseta-para-el-torneo-regional",
-      "title": "Mandiyú presentó su nueva camiseta para el Torneo Regional",
-      "volanta": "FUTBOL",
-      "date": "2026-08-28T20:40:16+00:00"
     }
   ]
 }
