@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T12:28:56+00:00",
+  "updated": "2026-09-01T12:54:08+00:00",
   "posts": [
+    {
+      "id": "287917b0",
+      "image": "img/287917b0.png",
+      "image_sha": "e1b29c7538ff594e1fa54bdc5902faf1e37f04cb",
+      "url": "https://www.radiodos.com.ar/213150-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+      "volanta": "ESTE MARTES",
+      "date": "2026-09-01T12:54:08+00:00"
+    },
     {
       "id": "432bd63f",
       "image": "img/432bd63f.png",
@@ -531,15 +540,6 @@
       "title": "Se reestrena el documental \"Margarita Belén, un sueño inconcluso\"",
       "volanta": "En conmemoración del Día del Detenido Desaparecido",
       "date": "2026-08-28T19:08:34+00:00"
-    },
-    {
-      "id": "9ff974c5",
-      "image": "img/9ff974c5.png",
-      "image_sha": "5ce06ffeeb8ad1597e901f309dcfa47591ca8fc2",
-      "url": "https://www.radiodos.com.ar/213004-emprendedores-y-actividades-para-los-ninos-en-el-paseo-ibera-y-parque-mitre",
-      "title": "Emprendedores y actividades para los niños en el Paseo Iberá y Parque Mitre",
-      "volanta": "ESTE FIN DE SEMANA",
-      "date": "2026-08-28T19:07:59+00:00"
     }
   ]
 }
