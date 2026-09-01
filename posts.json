@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T12:54:08+00:00",
+  "updated": "2026-09-01T13:09:26+00:00",
   "posts": [
+    {
+      "id": "0df04be5",
+      "image": "img/0df04be5.png",
+      "image_sha": "6c9905c3da4e9b7652390a41b1a25bd74fd740c2",
+      "url": "https://www.radiodos.com.ar/213161-el-obelisco-homenajeo-a-messi-con-los-colores-de-la-seleccion-tras-su-adios-a-la-argentina",
+      "title": "El Obelisco homenajeó a Messi con los colores de la Selección tras su adiós a la Argentina",
+      "volanta": "MERECIDO",
+      "date": "2026-09-01T13:09:26+00:00"
+    },
     {
       "id": "287917b0",
       "image": "img/287917b0.png",
@@ -531,15 +540,6 @@
       "title": "La Legislatura recibió a los primeros pasantes universitarios de la FADyCC-UNNE",
       "volanta": "EDUCACIÓN",
       "date": "2026-08-28T19:09:11+00:00"
-    },
-    {
-      "id": "cfbcf33c",
-      "image": "img/cfbcf33c.png",
-      "image_sha": "d421bd8a952950b6beee9e2bdd12f4c7e99fd2d7",
-      "url": "https://www.radiodos.com.ar/213003-se-reestrena-el-documental-margarita-belen-un-sueno-inconcluso",
-      "title": "Se reestrena el documental \"Margarita Belén, un sueño inconcluso\"",
-      "volanta": "En conmemoración del Día del Detenido Desaparecido",
-      "date": "2026-08-28T19:08:34+00:00"
     }
   ]
 }
