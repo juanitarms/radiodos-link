@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T23:39:17+00:00",
+  "updated": "2026-09-01T23:40:01+00:00",
   "posts": [
+    {
+      "id": "98eaf1c4",
+      "image": "img/98eaf1c4.png",
+      "image_sha": "5eb0041f3f3e2110c6285b9ab18d882d9b608efb",
+      "url": "https://www.radiodos.com.ar/213201-el-gobierno-suspenderan-la-licencia-de-conducir-a-quienes-cometan-esta-falta",
+      "title": "El Gobierno suspenderán la licencia de conducir a quienes cometan esta falta",
+      "volanta": "DECRETO",
+      "date": "2026-09-01T23:40:01+00:00"
+    },
     {
       "id": "75e9a771",
       "image": "img/75e9a771.png",
@@ -531,15 +540,6 @@
       "title": "La Policía recuperó reflectores robados a una iglesia de Corrientes",
       "volanta": "SAN BENITO",
       "date": "2026-08-31T11:50:32+00:00"
-    },
-    {
-      "id": "63a15f2a",
-      "image": "img/63a15f2a.png",
-      "image_sha": "cc1fa7f09510c9124c30665d3deb5cf19374ee05",
-      "url": "https://www.radiodos.com.ar/213079-vialidad-nacional-informo-sobre-un-corte-total-en-el-transito-por-rn-14-en-el-ingreso-a-misiones",
-      "title": "Vialidad Nacional informó sobre un corte total en el tránsito por RN 14 en el ingreso a Misiones",
-      "volanta": "HABRÁ CORTE TOTAL",
-      "date": "2026-08-31T11:34:33+00:00"
     }
   ]
 }
