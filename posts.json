@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-31T23:04:31+00:00",
+  "updated": "2026-09-01T10:49:46+00:00",
   "posts": [
+    {
+      "id": "872165d5",
+      "image": "img/872165d5.png",
+      "image_sha": "df43c510f02fbe4a151df81240c1c139bd9da313",
+      "url": "https://www.radiodos.com.ar/213139-transitaba-en-moto-haciendo-willy-atropello-otra-moto-y-una-beba-termino-con-graves-lesiones",
+      "title": "Transitaba en moto haciendo \"Willy\", atropelló otra moto y una beba terminó con graves lesiones",
+      "volanta": "ESQUINA",
+      "date": "2026-09-01T10:49:46+00:00"
+    },
     {
       "id": "4eec9559",
       "image": "img/4eec9559.png",
@@ -531,15 +540,6 @@
       "title": "Sorpresiva neblina ocultó parcialmente el puente Chaco-Corrientes",
       "volanta": "PASA AHORA",
       "date": "2026-08-28T14:59:28+00:00"
-    },
-    {
-      "id": "0795de6e",
-      "image": "img/0795de6e.png",
-      "image_sha": "a003c4e55dc5af9d08800aceb9cb2a70f2da1cd2",
-      "url": "https://www.radiodos.com.ar/212994-fernando-cerimedo-desde-la-carcel-en-bolivia-pronto-la-verdad-de-esta-atrocidad-saldra-a-la-luz",
-      "title": "Fernando Cerimedo, desde la cárcel en Bolivia: \"Pronto la verdad de esta atrocidad saldrá a la luz\"",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-08-28T14:38:35+00:00"
     }
   ]
 }
