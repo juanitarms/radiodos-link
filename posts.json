@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T12:08:46+00:00",
+  "updated": "2026-09-01T12:28:56+00:00",
   "posts": [
+    {
+      "id": "432bd63f",
+      "image": "img/432bd63f.png",
+      "image_sha": "8ed119400d7763d483c857b9c877661be95115d4",
+      "url": "https://www.radiodos.com.ar/213143-dos-apostadores-correntinos-ganaron-mas-de-17-millones-en-el-quini-6",
+      "title": "Dos apostadores correntinos ganaron más de $17 millones en el Quini 6",
+      "volanta": "AFORTUNADOS",
+      "date": "2026-09-01T12:28:56+00:00"
+    },
     {
       "id": "6be7b080",
       "image": "img/6be7b080.png",
@@ -531,15 +540,6 @@
       "title": "Emprendedores y actividades para los niños en el Paseo Iberá y Parque Mitre",
       "volanta": "ESTE FIN DE SEMANA",
       "date": "2026-08-28T19:07:59+00:00"
-    },
-    {
-      "id": "2c055720",
-      "image": "img/2c055720.png",
-      "image_sha": "506d0073d33c9d2b0fafaec82b1c175a2ba151cf",
-      "url": "https://www.radiodos.com.ar/212999-incautaron-mas-de-seis-kilos-de-cocaina-en-san-juan",
-      "title": "Incautaron más de seis kilos de cocaína en San Juan",
-      "volanta": "OPERATIVO",
-      "date": "2026-08-28T17:22:04+00:00"
     }
   ]
 }
