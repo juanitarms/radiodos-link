@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T18:56:22+00:00",
+  "updated": "2026-09-01T18:56:52+00:00",
   "posts": [
+    {
+      "id": "529acd2f",
+      "image": "img/529acd2f.png",
+      "image_sha": "2461bd9f353a704a5ada185e846faaf380c6d35b",
+      "url": "https://www.radiodos.com.ar/213180-junto-con-los-vecinos-el-municipio-desarrollara-una-jornada-de-recuperacion-urbana-y-haran-un-mural-comunitario",
+      "title": "Junto con los vecinos, el Municipio desarrollará una jornada de recuperación urbana y harán un mural comunitario",
+      "volanta": "CONCIENCIA AMBIENTAL Y CIUDADANA",
+      "date": "2026-09-01T18:56:52+00:00"
+    },
     {
       "id": "863b0753",
       "image": "img/863b0753.png",
@@ -531,15 +540,6 @@
       "title": "Exitosa intervención traumatológica con articulación interhospitalaria en Corrientes",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-08-29T14:57:23+00:00"
-    },
-    {
-      "id": "1734f61d",
-      "image": "img/1734f61d.png",
-      "image_sha": "99ddd78a28b6c2bbdb6ab734f57ab5cd628fae4d",
-      "url": "https://www.radiodos.com.ar/213031-fin-de-semana-en-la-ciudad-propuestas-libres-y-gratuitas-para-disfrutar-en-familia",
-      "title": "Fin de semana en la ciudad: propuestas libres y gratuitas para disfrutar en familia",
-      "volanta": "CORRIENTES",
-      "date": "2026-08-28T21:50:27+00:00"
     }
   ]
 }
