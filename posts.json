@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T23:38:13+00:00",
+  "updated": "2026-09-01T23:38:49+00:00",
   "posts": [
+    {
+      "id": "a5744795",
+      "image": "img/a5744795.png",
+      "image_sha": "5af54eb584c67c638590bdde406bd62cf3d32779",
+      "url": "https://www.radiodos.com.ar/213203-polich-en-operativo-oftalmologico-en-corrientes-es-importante-que-los-chicos-puedan-ver-bien-y-mejorar-su-calidad-de-vida",
+      "title": "Polich en operativo oftalmológico en Corrientes: \"Es importante que los chicos puedan ver bien y mejorar su calidad de vida\"",
+      "volanta": "PROGRAMA “VER PARA SER LIBRES”",
+      "date": "2026-09-01T23:38:49+00:00"
+    },
     {
       "id": "7e07bf45",
       "image": "img/7e07bf45.png",
@@ -531,15 +540,6 @@
       "title": "Cruce de capitalinos: Huracán y Mandiyú empataron 1 a 1",
       "volanta": "FÚTBOL",
       "date": "2026-08-31T10:52:50+00:00"
-    },
-    {
-      "id": "d96914f5",
-      "image": "img/d96914f5.png",
-      "image_sha": "6f6d65e0bd1b2bb2338131ad5e93cb5294b43961",
-      "url": "https://www.radiodos.com.ar/213075-cierre-de-musimundo-en-corrientes-nos-enteramos-esa-misma-noche",
-      "title": "Cierre de Musimundo en Corrientes: \"Nos enteramos esa misma noche\"",
-      "volanta": "CADENA DE  ELECTRODOMÉSTICOS",
-      "date": "2026-08-31T10:33:36+00:00"
     }
   ]
 }
