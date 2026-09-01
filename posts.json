@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T23:40:01+00:00",
+  "updated": "2026-09-01T23:41:29+00:00",
   "posts": [
+    {
+      "id": "7afaf72d",
+      "image": "img/7afaf72d.png",
+      "image_sha": "5c8be31cb3ce2316471175bc97ec0b9f3f026142",
+      "url": "https://www.radiodos.com.ar/213204-crimen-de-cecilia-lazcano-las-camaras-captaron-al-sospechoso-con-una-pala-antes-del-ataque",
+      "title": "Crimen de Cecilia Lazcano: las cámaras captaron al sospechoso con una pala antes del ataque",
+      "volanta": "FEMICIDIO",
+      "date": "2026-09-01T23:41:29+00:00"
+    },
     {
       "id": "98eaf1c4",
       "image": "img/98eaf1c4.png",
@@ -531,15 +540,6 @@
       "title": "Brutal golpiza en Corrientes: un joven lucha por su vida luego de ser golpeado por el actual novio de su ex",
       "volanta": "BARRIO PÍO X",
       "date": "2026-08-31T12:14:43+00:00"
-    },
-    {
-      "id": "7b5d6bda",
-      "image": "img/7b5d6bda.png",
-      "image_sha": "cc22aef3e8c9bdb84b8e206c33d6782a4f8dcb4b",
-      "url": "https://www.radiodos.com.ar/213078-la-policia-recupero-reflectores-robados-a-una-iglesia-de-corrientes",
-      "title": "La Policía recuperó reflectores robados a una iglesia de Corrientes",
-      "volanta": "SAN BENITO",
-      "date": "2026-08-31T11:50:32+00:00"
     }
   ]
 }
