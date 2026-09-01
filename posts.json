@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T19:43:00+00:00",
+  "updated": "2026-09-01T20:33:20+00:00",
   "posts": [
+    {
+      "id": "7015250b",
+      "image": "img/7015250b.png",
+      "image_sha": "411ad97abe8d9fafacf5bff734bf3764b20e7a84",
+      "url": "https://www.radiodos.com.ar/213191-una-mujer-murio-tras-chocar-con-un-patrullero-en-corrientes",
+      "title": "Una mujer murió tras chocar con un patrullero en Corrientes",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-09-01T20:33:20+00:00"
+    },
     {
       "id": "95e16de2",
       "image": "img/95e16de2.png",
@@ -531,15 +540,6 @@
       "title": "La peregrinación de la familia policial llegó a los pies de la Virgen María",
       "volanta": "ESTE SÁBADO",
       "date": "2026-08-29T22:44:05+00:00"
-    },
-    {
-      "id": "45e962ce",
-      "image": "img/45e962ce.png",
-      "image_sha": "5572ed6834619af08a662118888d1e9206857988",
-      "url": "https://www.radiodos.com.ar/213047-exitosa-primera-maraton-de-carnaval-en-costanera-sur",
-      "title": "Exitosa Primera Maratón de Carnaval en Costanera Sur",
-      "volanta": "“PASIÓN QUE CORRE”",
-      "date": "2026-08-29T21:43:56+00:00"
     }
   ]
 }
