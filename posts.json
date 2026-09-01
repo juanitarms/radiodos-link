@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T19:42:31+00:00",
+  "updated": "2026-09-01T19:43:00+00:00",
   "posts": [
+    {
+      "id": "95e16de2",
+      "image": "img/95e16de2.png",
+      "image_sha": "32cc493712928390a051fa60bf38e9635c76b4d5",
+      "url": "https://www.radiodos.com.ar/213182-articulan-acciones-para-fortalecer-a-los-emprendedores-locales",
+      "title": "Articulan acciones para fortalecer a los emprendedores locales",
+      "volanta": "En Riachuelo",
+      "date": "2026-09-01T19:43:00+00:00"
+    },
     {
       "id": "9bbafecf",
       "image": "img/9bbafecf.png",
@@ -531,15 +540,6 @@
       "title": "Exitosa Primera Maratón de Carnaval en Costanera Sur",
       "volanta": "“PASIÓN QUE CORRE”",
       "date": "2026-08-29T21:43:56+00:00"
-    },
-    {
-      "id": "621cf638",
-      "image": "img/621cf638.png",
-      "image_sha": "0f36da869fe7dca28e250bf055137faa16259f7b",
-      "url": "https://www.radiodos.com.ar/213045-mandiyu-no-podra-llevar-hinchas-en-el-clasico-ante-huracan-corrientes",
-      "title": "Mandiyú no podrá llevar hinchas en el clásico ante Huracán Corrientes",
-      "volanta": "REGIONAL AMATEUR",
-      "date": "2026-08-29T18:38:05+00:00"
     }
   ]
 }
