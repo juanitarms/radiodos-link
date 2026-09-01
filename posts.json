@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T21:23:57+00:00",
+  "updated": "2026-09-01T21:24:52+00:00",
   "posts": [
+    {
+      "id": "8e1e063c",
+      "image": "img/8e1e063c.png",
+      "image_sha": "fa5e4e0651cefc433619cca2d20e37a329b9ba11",
+      "url": "https://www.radiodos.com.ar/213195-la-municipalidad-de-corrientes-concluyo-con-exito-un-nuevo-taller-de-huertas-familiares-comunitarias",
+      "title": "La Municipalidad de Corrientes concluyó con éxito un nuevo taller de huertas familiares comunitarias",
+      "volanta": "ÑANDE HUERTA",
+      "date": "2026-09-01T21:24:52+00:00"
+    },
     {
       "id": "45c532f9",
       "image": "img/45c532f9.png",
@@ -531,15 +540,6 @@
       "title": "El patrimonio Legislativo, protagonista de una nueva visita guiada",
       "volanta": "corrientes",
       "date": "2026-08-30T16:30:33+00:00"
-    },
-    {
-      "id": "6a7f706f",
-      "image": "img/6a7f706f.png",
-      "image_sha": "892415886b0b4064db745fcc2c69be9c07bfe8b2",
-      "url": "https://www.radiodos.com.ar/213066-en-el-aniversario-de-santa-rosa-el-gobernador-inauguro-un-hospital-y-un-cuartel-de-bomberos",
-      "title": "En el aniversario de Santa Rosa, el gobernador inauguró un hospital y un cuartel de bomberos",
-      "volanta": "INVERSIÓN MILLONARIA",
-      "date": "2026-08-30T14:57:25+00:00"
     }
   ]
 }
