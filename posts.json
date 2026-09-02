@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T16:44:58+00:00",
+  "updated": "2026-09-02T16:45:35+00:00",
   "posts": [
+    {
+      "id": "158a04da",
+      "image": "img/158a04da.png",
+      "image_sha": "b2c9dd4228f01d5c73091896cd1eddd8012f37e0",
+      "url": "https://www.radiodos.com.ar/213247-fentanilo-contaminado-la-justicia-proceso-a-dos-ex-funcionarias-de-la-anmat-como-participes-necesarias",
+      "title": "Fentanilo contaminado: la justicia procesó a dos ex funcionarias de la Anmat como partícipes necesarias",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-09-02T16:45:35+00:00"
+    },
     {
       "id": "d1f5a47c",
       "image": "img/d1f5a47c.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno Nacional anunció el cierre de 400 Registros del Automotor",
       "volanta": "NACIONAL",
       "date": "2026-08-31T21:20:39+00:00"
-    },
-    {
-      "id": "acac4735",
-      "image": "img/acac4735.png",
-      "image_sha": "be9993ca5892f21fb39f61e918c1e2910308f684",
-      "url": "https://www.radiodos.com.ar/213129-el-circulo-de-periodistas-deportivos-reactiva-su-sede-con-talleres-y-proyectos-comunitarios",
-      "title": "El Círculo de Periodistas Deportivos reactiva su sede con talleres y proyectos comunitarios",
-      "volanta": "Sede recuperada",
-      "date": "2026-08-31T21:19:16+00:00"
     }
   ]
 }
