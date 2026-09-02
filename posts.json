@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T10:43:26+00:00",
+  "updated": "2026-09-02T11:09:06+00:00",
   "posts": [
+    {
+      "id": "86f54b8b",
+      "image": "img/86f54b8b.png",
+      "image_sha": "de6039e97279bcb0e2a438515ebb0e4eca4032bd",
+      "url": "https://www.radiodos.com.ar/213206-jp-valdes-lleva-a-iguazu-la-estrategia-provincial-para-atraer-inversiones",
+      "title": "JP Valdés lleva a Iguazú la estrategia provincial para atraer inversiones",
+      "volanta": "GOBERNADOR",
+      "date": "2026-09-02T11:09:06+00:00"
+    },
     {
       "id": "ca5a0b03",
       "image": "img/ca5a0b03.png",
@@ -531,15 +540,6 @@
       "title": "Desde hoy, se paga sueldos a empleados de la Municipalidad de Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-08-31T13:03:35+00:00"
-    },
-    {
-      "id": "0f902a85",
-      "image": "img/0f902a85.png",
-      "image_sha": "a674689ee8579fde214b7bd03208d23f5430567e",
-      "url": "https://www.radiodos.com.ar/213086-desde-ayer-buscan-a-una-adolescente-que-no-volvio-a-su-hogar",
-      "title": "Desde ayer buscan a una adolescente que no volvió a su hogar",
-      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
-      "date": "2026-08-31T12:43:33+00:00"
     }
   ]
 }
