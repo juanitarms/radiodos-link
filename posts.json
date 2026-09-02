@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T22:14:11+00:00",
+  "updated": "2026-09-02T22:15:04+00:00",
   "posts": [
+    {
+      "id": "4d34f7d2",
+      "image": "img/4d34f7d2.png",
+      "image_sha": "d021483e1fc360fc50bbc9eaa123bda8a4caaac4",
+      "url": "https://www.radiodos.com.ar/213263-procesaron-con-prision-preventiva-a-cinco-personas-por-lavar-dinero-a-traves-de-una-cadena-de-gimnasios-en-chaco-y-corrientes",
+      "title": "Procesaron con prisión preventiva a cinco personas por lavar dinero a través de una cadena de gimnasios en Chaco y Corrientes",
+      "volanta": "Caso Exen",
+      "date": "2026-09-02T22:15:04+00:00"
+    },
     {
       "id": "40dcae76",
       "image": "img/40dcae76.png",
@@ -531,15 +540,6 @@
       "title": "Multitudinaria marcha en el interior de Corrientes para reclamar justicia por el crimen de Cecilia Lazcano",
       "volanta": "ALVEAR",
       "date": "2026-09-01T12:08:46+00:00"
-    },
-    {
-      "id": "578f55e2",
-      "image": "img/578f55e2.png",
-      "image_sha": "8ca2df05e563b9144a1b51465fc6d511a9ea53ca",
-      "url": "https://www.radiodos.com.ar/213141-detuvieron-al-abogado-de-uno-de-los-acusados-en-el-caso-loan-por-presuntos-nexos-con-narcos",
-      "title": "Detuvieron al abogado de uno de los acusados en el caso Loan, por presuntos nexos con narcos",
-      "volanta": "EN BUENOS AIRES",
-      "date": "2026-09-01T11:43:27+00:00"
     }
   ]
 }
