@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T12:25:12+00:00",
+  "updated": "2026-09-02T12:37:45+00:00",
   "posts": [
+    {
+      "id": "38774fcd",
+      "image": "img/38774fcd.png",
+      "image_sha": "71591cee9323604ad15fae8c755c635726802573",
+      "url": "https://www.radiodos.com.ar/213218-fernando-cerimedo-reitero-jamas-tuve-la-intencion-ni-la-capacidad-de-hacerle-dano-a-nadia",
+      "title": "Fernando Cerimedo reiteró: \"Jamás tuve la intención ni la capacidad de hacerle daño a Nadia\"",
+      "volanta": "SIGUE LA INVESTIGACIÓN",
+      "date": "2026-09-02T12:37:45+00:00"
+    },
     {
       "id": "b6810cd6",
       "image": "img/b6810cd6.png",
@@ -531,15 +540,6 @@
       "title": "Migue Granados reveló si vendió su parte de Olga y cómo sigue su futuro laboral",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-08-31T14:36:50+00:00"
-    },
-    {
-      "id": "ecb2727d",
-      "image": "img/ecb2727d.png",
-      "image_sha": "b0d9f65424868ebbdadf8c6c68f120f87545a1fe",
-      "url": "https://www.radiodos.com.ar/213097-jp-valdes-participara-de-un-encuentro-con-el-presidente-milei-junto-a-otros-gobernadores",
-      "title": "JP Valdés participará de un encuentro con el presidente Milei junto a otros gobernadores",
-      "volanta": "GOBERNADOR",
-      "date": "2026-08-31T13:56:52+00:00"
     }
   ]
 }
