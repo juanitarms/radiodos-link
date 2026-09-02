@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T21:06:45+00:00",
+  "updated": "2026-09-02T21:14:31+00:00",
   "posts": [
+    {
+      "id": "f3844bbe",
+      "image": "img/f3844bbe.png",
+      "image_sha": "a426f9dc896be54c2c7aeee9a7e77a7decc8aac4",
+      "url": "https://www.radiodos.com.ar/213254-en-el-hospital-juan-pablo-ii-de-corrientes-se-utilizo-por-primera-vez-una-tecnologia-de-neuronavegacion",
+      "title": "En el Hospital Juan Pablo II de Corrientes se utilizó por primera vez una tecnología de neuronavegación",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-09-02T21:14:31+00:00"
+    },
     {
       "id": "6490d1a3",
       "image": "img/6490d1a3.png",
@@ -531,15 +540,6 @@
       "title": "Trump advirtió que Estados Unidos podría revisar su postura sobre la soberanía de las Islas Malvinas",
       "volanta": "NEUTRALIDAD EN REVISIÓN",
       "date": "2026-08-31T23:03:25+00:00"
-    },
-    {
-      "id": "e01e49b0",
-      "image": "img/e01e49b0.png",
-      "image_sha": "a9bb263910214f65b9564de02f337ca361637642",
-      "url": "https://www.radiodos.com.ar/213136-la-decision-de-lionel-messi-de-retirarse-de-la-seleccion-abre-varios-interrogantes",
-      "title": "La decisión de Lionel Messi de retirarse de la Selección abre varios interrogantes",
-      "volanta": "Y AHORA?",
-      "date": "2026-08-31T23:02:19+00:00"
     }
   ]
 }
