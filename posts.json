@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T18:47:51+00:00",
+  "updated": "2026-09-02T21:04:42+00:00",
   "posts": [
+    {
+      "id": "b5804f2a",
+      "image": "img/b5804f2a.png",
+      "image_sha": "3c263fab905fa9a6bdbbfa92c0a7737046f9f9ed",
+      "url": "https://www.radiodos.com.ar/213256-carolina-rinde-tributo-a-sus-agricultores-en-la-42-edicion-de-su-fiesta-provincial",
+      "title": "Carolina rinde tributo a sus agricultores en la 42º edición de su fiesta provincial",
+      "volanta": "EL CAMPO CORRENTINO DE FIESTA",
+      "date": "2026-09-02T21:04:42+00:00"
+    },
     {
       "id": "bdd119ce",
       "image": "img/bdd119ce.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia pidió al Gobierno información sobre fondos destinados a rutas nacionales",
       "volanta": "DURO RECLAMO",
       "date": "2026-08-31T23:00:49+00:00"
-    },
-    {
-      "id": "f0af8797",
-      "image": "img/f0af8797.png",
-      "image_sha": "e815efc9144ce8886e9af9db74e1d16978e36644",
-      "url": "https://www.radiodos.com.ar/213127-trfa-conoce-los-resultados-de-los-correntinos",
-      "title": "TRFA: Conocé los resultados de los correntinos",
-      "volanta": "1ra fecha",
-      "date": "2026-08-31T22:58:47+00:00"
     }
   ]
 }
