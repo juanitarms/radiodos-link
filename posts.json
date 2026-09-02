@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T12:06:23+00:00",
+  "updated": "2026-09-02T12:25:12+00:00",
   "posts": [
+    {
+      "id": "b6810cd6",
+      "image": "img/b6810cd6.png",
+      "image_sha": "a800517593c1c9d82d14c25f3ea3ed5fc6bb51b2",
+      "url": "https://www.radiodos.com.ar/213212-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
+      "volanta": "ESTE MIÉRCOLES",
+      "date": "2026-09-02T12:25:12+00:00"
+    },
     {
       "id": "b9021fe2",
       "image": "img/b9021fe2.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés participará de un encuentro con el presidente Milei junto a otros gobernadores",
       "volanta": "GOBERNADOR",
       "date": "2026-08-31T13:56:52+00:00"
-    },
-    {
-      "id": "5574d06f",
-      "image": "img/5574d06f.png",
-      "image_sha": "e1fb075654256c9c9316e2e114f0be287075c872",
-      "url": "https://www.radiodos.com.ar/213091-convenio-stj-unicef-fortalecimiento-del-acceso-a-la-justicia-de-ninas-ninos-y-adolescentes",
-      "title": "Convenio STJ-UNICEF: fortalecimiento del acceso a la justicia de niñas, niños y adolescentes",
-      "volanta": "ACCIONES CONJUNTAS",
-      "date": "2026-08-31T13:34:05+00:00"
     }
   ]
 }
