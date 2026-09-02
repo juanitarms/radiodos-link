@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T18:47:14+00:00",
+  "updated": "2026-09-02T18:47:51+00:00",
   "posts": [
+    {
+      "id": "bdd119ce",
+      "image": "img/bdd119ce.png",
+      "image_sha": "52a73e79d6b890300140628a181e31fe6c3920fc",
+      "url": "https://www.radiodos.com.ar/213251-el-gobierno-lanzo-un-plan-de-accion-para-el-abordaje-integral-de-la-salud-mental-y-la-prevencion-del-suicidio",
+      "title": "El Gobierno lanzó un plan de acción para el abordaje integral de la salud mental y la prevención del suicidio",
+      "volanta": "INICIATIVA",
+      "date": "2026-09-02T18:47:51+00:00"
+    },
     {
       "id": "020fe849",
       "image": "img/020fe849.png",
@@ -531,15 +540,6 @@
       "title": "TRFA: Conocé los resultados de los correntinos",
       "volanta": "1ra fecha",
       "date": "2026-08-31T22:58:47+00:00"
-    },
-    {
-      "id": "a5cbe318",
-      "image": "img/a5cbe318.png",
-      "image_sha": "b0c9faafd8df5433c45ac3ff13e760587886bc64",
-      "url": "https://www.radiodos.com.ar/213133-tini-stoessel-rompio-el-silencio-en-medio-del-escandalo-familiar",
-      "title": "Tini Stoessel rompió el silencio en medio del escándalo familiar",
-      "volanta": "SU PALABRA",
-      "date": "2026-08-31T22:52:06+00:00"
     }
   ]
 }
