@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T21:04:42+00:00",
+  "updated": "2026-09-02T21:06:45+00:00",
   "posts": [
+    {
+      "id": "6490d1a3",
+      "image": "img/6490d1a3.png",
+      "image_sha": "3bf16ebb7ac397c8f9229d29ad9af1d66953d447",
+      "url": "https://www.radiodos.com.ar/213255-la-municipalidad-de-corrientes-invita-a-participar-del-primer-mercado-de-pulgas",
+      "title": "La Municipalidad de Corrientes invita a participar del primer Mercado de Pulgas",
+      "volanta": "CIRCULARIDAD DE OBJETOS",
+      "date": "2026-09-02T21:06:45+00:00"
+    },
     {
       "id": "b5804f2a",
       "image": "img/b5804f2a.png",
@@ -531,15 +540,6 @@
       "title": "La decisión de Lionel Messi de retirarse de la Selección abre varios interrogantes",
       "volanta": "Y AHORA?",
       "date": "2026-08-31T23:02:19+00:00"
-    },
-    {
-      "id": "6b50f979",
-      "image": "img/6b50f979.png",
-      "image_sha": "5b18c8f22efbd57c7a50629ed5ae92ccad091f69",
-      "url": "https://www.radiodos.com.ar/213134-la-justicia-pidio-al-gobierno-informacion-sobre-fondos-destinados-a-rutas-nacionales",
-      "title": "La Justicia pidió al Gobierno información sobre fondos destinados a rutas nacionales",
-      "volanta": "DURO RECLAMO",
-      "date": "2026-08-31T23:00:49+00:00"
     }
   ]
 }
