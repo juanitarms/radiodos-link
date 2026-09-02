@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-01T23:41:29+00:00",
+  "updated": "2026-09-02T10:43:26+00:00",
   "posts": [
+    {
+      "id": "ca5a0b03",
+      "image": "img/ca5a0b03.png",
+      "image_sha": "3d4f5f970ea2338b895bec377b1a3ff6055eba91",
+      "url": "https://www.radiodos.com.ar/213205-patota-de-adolescentes-hirio-a-un-joven-para-robarle-una-bicicleta",
+      "title": "Patota de adolescentes hirió a un joven para robarle una bicicleta",
+      "volanta": "BARRIO PONCE",
+      "date": "2026-09-02T10:43:26+00:00"
+    },
     {
       "id": "7afaf72d",
       "image": "img/7afaf72d.png",
@@ -531,15 +540,6 @@
       "title": "Desde ayer buscan a una adolescente que no volvió a su hogar",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-08-31T12:43:33+00:00"
-    },
-    {
-      "id": "80fd9374",
-      "image": "img/80fd9374.png",
-      "image_sha": "94e3ba68b76b8ab079726694fa22f901909a00c8",
-      "url": "https://www.radiodos.com.ar/213081-brutal-golpiza-en-corrientes-un-joven-lucha-por-su-vida-luego-de-ser-golpeado-por-el-actual-novio-de-su-ex",
-      "title": "Brutal golpiza en Corrientes: un joven lucha por su vida luego de ser golpeado por el actual novio de su ex",
-      "volanta": "BARRIO PÍO X",
-      "date": "2026-08-31T12:14:43+00:00"
     }
   ]
 }
