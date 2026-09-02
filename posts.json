@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T15:05:24+00:00",
+  "updated": "2026-09-02T16:44:58+00:00",
   "posts": [
+    {
+      "id": "d1f5a47c",
+      "image": "img/d1f5a47c.png",
+      "image_sha": "a3072412334238e1680f488a474f9fe629d66450",
+      "url": "https://www.radiodos.com.ar/213242-el-rumor-que-vincula-a-emilia-mernes-con-rodrigo-de-paul-y-habria-profundizado-su-pelea-con-tini-stoessel",
+      "title": "El rumor que vincula a Emilia Mernes con Rodrigo De Paul y habría profundizado su pelea con Tini Stoessel",
+      "volanta": "TODO MAL",
+      "date": "2026-09-02T16:44:58+00:00"
+    },
     {
       "id": "d0b2d036",
       "image": "img/d0b2d036.png",
@@ -531,15 +540,6 @@
       "title": "El Círculo de Periodistas Deportivos reactiva su sede con talleres y proyectos comunitarios",
       "volanta": "Sede recuperada",
       "date": "2026-08-31T21:19:16+00:00"
-    },
-    {
-      "id": "d5572026",
-      "image": "img/d5572026.png",
-      "image_sha": "1ec3f77c89384b294cda9d7ea476ac4e80b1d5fc",
-      "url": "https://www.radiodos.com.ar/213124-se-posterga-el-corte-de-transito-por-rn14-en-el-acceso-a-misiones",
-      "title": "Se posterga el corte de tránsito por RN14 en el acceso a Misiones",
-      "volanta": "ARROYO PINDAPOY GRANDE",
-      "date": "2026-08-31T20:34:07+00:00"
     }
   ]
 }
