@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T18:46:37+00:00",
+  "updated": "2026-09-02T18:47:14+00:00",
   "posts": [
+    {
+      "id": "020fe849",
+      "image": "img/020fe849.png",
+      "image_sha": "1c8c4480b5f701117963a2c611d24c0fb8d76812",
+      "url": "https://www.radiodos.com.ar/213252-hallaron-muerta-a-una-joven-de-28-anos-que-era-buscada",
+      "title": "Hallaron muerta a una joven de 28 años que era buscada",
+      "volanta": "Ramos Mejía",
+      "date": "2026-09-02T18:47:14+00:00"
+    },
     {
       "id": "01553242",
       "image": "img/01553242.png",
@@ -531,15 +540,6 @@
       "title": "Tini Stoessel rompió el silencio en medio del escándalo familiar",
       "volanta": "SU PALABRA",
       "date": "2026-08-31T22:52:06+00:00"
-    },
-    {
-      "id": "9392f67c",
-      "image": "img/9392f67c.png",
-      "image_sha": "ef9439920d3c9049f618abbdc999d66729b58279",
-      "url": "https://www.radiodos.com.ar/213131-con-gran-convocatoria-en-capital-la-provincia-despliega-el-programa-ver-para-ser-libres-y-centros-de-familia",
-      "title": "Con gran convocatoria en Capital, la Provincia despliega el programa \"Ver para Ser Libres\" y \"Centros de Familia\"",
-      "volanta": "HASTA EL VIERNES 4",
-      "date": "2026-08-31T21:22:50+00:00"
     }
   ]
 }
