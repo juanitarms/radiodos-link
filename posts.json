@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T17:31:21+00:00",
+  "updated": "2026-09-02T17:31:56+00:00",
   "posts": [
+    {
+      "id": "bb8e68ae",
+      "image": "img/bb8e68ae.png",
+      "image_sha": "fd72baf4d75edcbeb595a852a4d4eef959fa4455",
+      "url": "https://www.radiodos.com.ar/213245-mburucuya-proyecta-otra-obra-su-primera-cancha-de-hockey",
+      "title": "Mburucuyá proyecta otra obra: su primera cancha de hockey",
+      "volanta": "GESTIÓN",
+      "date": "2026-09-02T17:31:56+00:00"
+    },
     {
       "id": "e9b5ece3",
       "image": "img/e9b5ece3.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes lidera la producción nacional de arroz",
       "volanta": "Liderazgo arrocero",
       "date": "2026-08-31T21:21:52+00:00"
-    },
-    {
-      "id": "c0e0e4f7",
-      "image": "img/c0e0e4f7.png",
-      "image_sha": "385000268d3c4b029c63264be96aa424ce785097",
-      "url": "https://www.radiodos.com.ar/213126-visita-de-leon-xiv-la-iglesia-toma-distancia-del-gobierno-por-la-organizacion-de-las-misas",
-      "title": "Visita de León XIV: la Iglesia toma distancia del Gobierno por la organización de las misas",
-      "volanta": "CRECE LA EXPECTATIVA",
-      "date": "2026-08-31T21:21:23+00:00"
     }
   ]
 }
