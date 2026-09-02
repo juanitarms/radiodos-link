@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T22:15:04+00:00",
+  "updated": "2026-09-02T22:50:14+00:00",
   "posts": [
+    {
+      "id": "c1156fc9",
+      "image": "img/c1156fc9.png",
+      "image_sha": "65c5fa127d45e3a3ace4dee160ef6787428326a4",
+      "url": "https://www.radiodos.com.ar/213265-la-uia-advirtio-que-se-perdieron-90000-empleos-industriales-desde-2023",
+      "title": "La UIA advirtió que se perdieron 90.000 empleos industriales desde 2023",
+      "volanta": "CRISIS EN EL SECTOR",
+      "date": "2026-09-02T22:50:14+00:00"
+    },
     {
       "id": "4d34f7d2",
       "image": "img/4d34f7d2.png",
@@ -531,15 +540,6 @@
       "title": "Dos apostadores correntinos ganaron más de $17 millones en el Quini 6",
       "volanta": "AFORTUNADOS",
       "date": "2026-09-01T12:28:56+00:00"
-    },
-    {
-      "id": "6be7b080",
-      "image": "img/6be7b080.png",
-      "image_sha": "7d44b67f701c3bf7b897c42ea4c989c0c79a5ff2",
-      "url": "https://www.radiodos.com.ar/213144-multitudinaria-marcha-en-el-interior-de-corrientes-para-reclamar-justicia-por-el-crimen-de-cecilia-lazcano",
-      "title": "Multitudinaria marcha en el interior de Corrientes para reclamar justicia por el crimen de Cecilia Lazcano",
-      "volanta": "ALVEAR",
-      "date": "2026-09-01T12:08:46+00:00"
     }
   ]
 }
