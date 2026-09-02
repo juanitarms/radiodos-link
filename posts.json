@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T16:45:35+00:00",
+  "updated": "2026-09-02T17:31:21+00:00",
   "posts": [
+    {
+      "id": "e9b5ece3",
+      "image": "img/e9b5ece3.png",
+      "image_sha": "a6eaa4781a6a720ba620ed452b4ede4c753f9196",
+      "url": "https://www.radiodos.com.ar/213246-regresan-las-4x4-y-cuatriciclos-a-pinamar-la-prohibicion-absoluta-que-cambiara-las-vacaciones-de-muchos",
+      "title": "Regresan las 4x4 y cuatriciclos a Pinamar: la prohibición absoluta que cambiará las vacaciones de muchos",
+      "volanta": "PARA EL VERANO",
+      "date": "2026-09-02T17:31:21+00:00"
+    },
     {
       "id": "158a04da",
       "image": "img/158a04da.png",
@@ -531,15 +540,6 @@
       "title": "Visita de León XIV: la Iglesia toma distancia del Gobierno por la organización de las misas",
       "volanta": "CRECE LA EXPECTATIVA",
       "date": "2026-08-31T21:21:23+00:00"
-    },
-    {
-      "id": "d8e28067",
-      "image": "img/d8e28067.png",
-      "image_sha": "a7a5f0f5253306762bfdadbe50acbf8650415713",
-      "url": "https://www.radiodos.com.ar/213128-el-gobierno-nacional-anuncio-el-cierre-de-400-registros-del-automotor",
-      "title": "El Gobierno Nacional anunció el cierre de 400 Registros del Automotor",
-      "volanta": "NACIONAL",
-      "date": "2026-08-31T21:20:39+00:00"
     }
   ]
 }
