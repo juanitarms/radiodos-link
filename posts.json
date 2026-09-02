@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T11:09:06+00:00",
+  "updated": "2026-09-02T12:06:23+00:00",
   "posts": [
+    {
+      "id": "b9021fe2",
+      "image": "img/b9021fe2.png",
+      "image_sha": "7fcd5527ae8871aa0bcf51e881df935f32140814",
+      "url": "https://www.radiodos.com.ar/213207-interior-de-corrientes-peleas-y-corridas-en-una-final-de-campeonato-de-barrios",
+      "title": "Interior de Corrientes: peleas y corridas en una final de campeonato de barrios",
+      "volanta": "FÚTBOL",
+      "date": "2026-09-02T12:06:23+00:00"
+    },
     {
       "id": "86f54b8b",
       "image": "img/86f54b8b.png",
@@ -531,15 +540,6 @@
       "title": "Convenio STJ-UNICEF: fortalecimiento del acceso a la justicia de niñas, niños y adolescentes",
       "volanta": "ACCIONES CONJUNTAS",
       "date": "2026-08-31T13:34:05+00:00"
-    },
-    {
-      "id": "eda872f3",
-      "image": "img/eda872f3.png",
-      "image_sha": "f3ec33caf5256553bca2ffbe95f7c5a71035215f",
-      "url": "https://www.radiodos.com.ar/213085-desde-hoy-se-paga-sueldos-a-empleados-de-la-municipalidad-de-corrientes",
-      "title": "Desde hoy, se paga sueldos a empleados de la Municipalidad de Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-08-31T13:03:35+00:00"
     }
   ]
 }
