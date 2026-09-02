@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T17:32:37+00:00",
+  "updated": "2026-09-02T18:46:37+00:00",
   "posts": [
+    {
+      "id": "01553242",
+      "image": "img/01553242.png",
+      "image_sha": "f07672b6fd4dcd6d1e6345001b530b99c74c1e60",
+      "url": "https://www.radiodos.com.ar/213249-exequiel-zeballos-entre-lagrimas-se-despidio-de-los-hinchas-de-boca-espero-volver",
+      "title": "Exequiel Zeballos, entre lágrimas, se despidió de los hinchas de Boca: \"Espero volver\"",
+      "volanta": "SE VA A EUROPA",
+      "date": "2026-09-02T18:46:37+00:00"
+    },
     {
       "id": "9942411d",
       "image": "img/9942411d.png",
@@ -531,15 +540,6 @@
       "title": "Con gran convocatoria en Capital, la Provincia despliega el programa \"Ver para Ser Libres\" y \"Centros de Familia\"",
       "volanta": "HASTA EL VIERNES 4",
       "date": "2026-08-31T21:22:50+00:00"
-    },
-    {
-      "id": "e7da78fa",
-      "image": "img/e7da78fa.png",
-      "image_sha": "85eed2df3923bdd5075ba01095e166e6c2d87a90",
-      "url": "https://www.radiodos.com.ar/213132-la-industria-maderera-de-corrientes-en-alerta-roja-por-los-aumentos-en-la-tarifa-electrica",
-      "title": "La industria maderera de Corrientes, en alerta roja por los aumentos en la tarifa eléctrica",
-      "volanta": "RECLAMO",
-      "date": "2026-08-31T21:22:19+00:00"
     }
   ]
 }
