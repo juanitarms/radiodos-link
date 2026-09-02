@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T17:31:56+00:00",
+  "updated": "2026-09-02T17:32:37+00:00",
   "posts": [
+    {
+      "id": "9942411d",
+      "image": "img/9942411d.png",
+      "image_sha": "9054cfd521f61c6d276c70bf4b8d0d124cb16090",
+      "url": "https://www.radiodos.com.ar/213250-femicidio-una-mujer-de-47-anos-fue-asesinada-a-golpes-y-detuvieron-a-su-pareja",
+      "title": "Femicidio: una mujer de 47 años fue asesinada a golpes y detuvieron a su pareja",
+      "volanta": "Concordia",
+      "date": "2026-09-02T17:32:37+00:00"
+    },
     {
       "id": "bb8e68ae",
       "image": "img/bb8e68ae.png",
@@ -531,15 +540,6 @@
       "title": "La industria maderera de Corrientes, en alerta roja por los aumentos en la tarifa eléctrica",
       "volanta": "RECLAMO",
       "date": "2026-08-31T21:22:19+00:00"
-    },
-    {
-      "id": "ba9813cf",
-      "image": "img/ba9813cf.png",
-      "image_sha": "7e65bbf19ef4cf6cf67a410550bcee700a9b57dc",
-      "url": "https://www.radiodos.com.ar/213130-corrientes-lidera-la-produccion-nacional-de-arroz",
-      "title": "Corrientes lidera la producción nacional de arroz",
-      "volanta": "Liderazgo arrocero",
-      "date": "2026-08-31T21:21:52+00:00"
     }
   ]
 }
