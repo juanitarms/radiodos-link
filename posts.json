@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T14:11:42+00:00",
+  "updated": "2026-09-02T14:31:29+00:00",
   "posts": [
+    {
+      "id": "db962f3b",
+      "image": "img/db962f3b.png",
+      "image_sha": "3deb208c65f621e5f6fc5f45997a68cb9cc6b01b",
+      "url": "https://www.radiodos.com.ar/213237-presentaron-un-proyecto-para-nombrar-a-lionel-messi-como-embajador-ilustre-e-itinerante-de-la-argentina",
+      "title": "Presentaron un proyecto para nombrar a Lionel Messi como embajador \"ilustre e itinerante\" de la Argentina",
+      "volanta": "RECONOCIMIENTO",
+      "date": "2026-09-02T14:31:29+00:00"
+    },
     {
       "id": "03fc3cf9",
       "image": "img/03fc3cf9.png",
@@ -531,15 +540,6 @@
       "title": "Marcelo Gallardo, a un paso de ser el nuevo entrenador de una selección de Conmebol",
       "volanta": "BOMBA",
       "date": "2026-08-31T17:51:35+00:00"
-    },
-    {
-      "id": "10698c44",
-      "image": "img/10698c44.png",
-      "image_sha": "519c9f3007daa7ade6b1e6ec765196c897c4600f",
-      "url": "https://www.radiodos.com.ar/213122-emotivo-mensaje-de-la-afa-tras-el-retiro-de-messi-de-la-seleccion-gracias-eternas-leo",
-      "title": "Emotivo mensaje de la AFA tras el retiro de Messi de la Selección: \"Gracias eternas, Leo\"",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-08-31T17:09:47+00:00"
     }
   ]
 }
