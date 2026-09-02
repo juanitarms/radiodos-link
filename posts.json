@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T21:17:23+00:00",
+  "updated": "2026-09-02T21:21:25+00:00",
   "posts": [
+    {
+      "id": "9b761d12",
+      "image": "img/9b761d12.png",
+      "image_sha": "6fcb757776c8868c0c429746ba56a6062a0fed19",
+      "url": "https://www.radiodos.com.ar/213261-erradicaron-un-mini-basural-y-crearon-un-espacio-de-recreacion-en-el-barrio-anahi",
+      "title": "Erradicaron un mini basural y crearon un espacio de recreación en el barrio Anahí",
+      "volanta": "Trabajo conjuntO",
+      "date": "2026-09-02T21:21:25+00:00"
+    },
     {
       "id": "1cd4e372",
       "image": "img/1cd4e372.png",
@@ -531,15 +540,6 @@
       "title": "Ordenaron la detención del secretario judicial que usó una causa narco para espiar a su esposa",
       "volanta": "CORRIENTES",
       "date": "2026-09-01T11:04:31+00:00"
-    },
-    {
-      "id": "872165d5",
-      "image": "img/872165d5.png",
-      "image_sha": "df43c510f02fbe4a151df81240c1c139bd9da313",
-      "url": "https://www.radiodos.com.ar/213139-transitaba-en-moto-haciendo-willy-atropello-otra-moto-y-una-beba-termino-con-graves-lesiones",
-      "title": "Transitaba en moto haciendo \"Willy\", atropelló otra moto y una beba terminó con graves lesiones",
-      "volanta": "ESQUINA",
-      "date": "2026-09-01T10:49:46+00:00"
     }
   ]
 }
