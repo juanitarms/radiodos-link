@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T22:50:14+00:00",
+  "updated": "2026-09-02T22:52:45+00:00",
   "posts": [
+    {
+      "id": "d5e9c83f",
+      "image": "img/d5e9c83f.png",
+      "image_sha": "9abb41c843585d648a6816ce7140dfb3ff459c3c",
+      "url": "https://www.radiodos.com.ar/213266-mas-del-50-de-los-argentinos-pertenece-a-la-clase-baja",
+      "title": "Más del 50% de los argentinos pertenece a la clase baja",
+      "volanta": "economía libertaria",
+      "date": "2026-09-02T22:52:45+00:00"
+    },
     {
       "id": "c1156fc9",
       "image": "img/c1156fc9.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "ESTE MARTES",
       "date": "2026-09-01T12:54:08+00:00"
-    },
-    {
-      "id": "432bd63f",
-      "image": "img/432bd63f.png",
-      "image_sha": "8ed119400d7763d483c857b9c877661be95115d4",
-      "url": "https://www.radiodos.com.ar/213143-dos-apostadores-correntinos-ganaron-mas-de-17-millones-en-el-quini-6",
-      "title": "Dos apostadores correntinos ganaron más de $17 millones en el Quini 6",
-      "volanta": "AFORTUNADOS",
-      "date": "2026-09-01T12:28:56+00:00"
     }
   ]
 }
