@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T14:49:13+00:00",
+  "updated": "2026-09-02T15:05:24+00:00",
   "posts": [
+    {
+      "id": "d0b2d036",
+      "image": "img/d0b2d036.png",
+      "image_sha": "f99d11c22e0e09c009392994550d0e4e2fd9359c",
+      "url": "https://www.radiodos.com.ar/213243-bomba-en-la-television-marcelo-tinelli-a-la-tv-publica",
+      "title": "Bomba en la televisión: Marcelo Tinelli a la TV Pública",
+      "volanta": "VUELVE A LA TV",
+      "date": "2026-09-02T15:05:24+00:00"
+    },
     {
       "id": "fa48253c",
       "image": "img/fa48253c.png",
@@ -531,15 +540,6 @@
       "title": "Se posterga el corte de tránsito por RN14 en el acceso a Misiones",
       "volanta": "ARROYO PINDAPOY GRANDE",
       "date": "2026-08-31T20:34:07+00:00"
-    },
-    {
-      "id": "983c2ec2",
-      "image": "img/983c2ec2.png",
-      "image_sha": "6b1219ab16cbd76d69b7719a418589460a2c3d8f",
-      "url": "https://www.radiodos.com.ar/213125-la-provincia-repavimentara-y-ampliara-la-zona-de-carga-y-descarga-del-puerto-de-corrientes",
-      "title": "La Provincia repavimentará y ampliará la zona de carga y descarga del Puerto de Corrientes",
-      "volanta": "ANTE LA ACTIVIDAD PORTUARIA RÉCORD",
-      "date": "2026-08-31T20:33:35+00:00"
     }
   ]
 }
