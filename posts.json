@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T13:38:02+00:00",
+  "updated": "2026-09-02T14:11:42+00:00",
   "posts": [
+    {
+      "id": "03fc3cf9",
+      "image": "img/03fc3cf9.png",
+      "image_sha": "df7d909902ff4f1890182e52128649c4e96672b5",
+      "url": "https://www.radiodos.com.ar/213238-cordoba-analizan-habilitar-los-entierros-de-personas-junto-a-sus-mascotas",
+      "title": "Córdoba: analizan habilitar los entierros de personas junto a sus mascotas",
+      "volanta": "INICIATIVA",
+      "date": "2026-09-02T14:11:42+00:00"
+    },
     {
       "id": "2416b6d5",
       "image": "img/2416b6d5.png",
@@ -531,15 +540,6 @@
       "title": "Emotivo mensaje de la AFA tras el retiro de Messi de la Selección: \"Gracias eternas, Leo\"",
       "volanta": "REDES SOCIALES",
       "date": "2026-08-31T17:09:47+00:00"
-    },
-    {
-      "id": "3b0f69b6",
-      "image": "img/3b0f69b6.png",
-      "image_sha": "7adec71f6a967cf07ca1ec1b1468d74d83cf9ae0",
-      "url": "https://www.radiodos.com.ar/213111-lionel-messi-se-retiro-de-la-seleccion-argentina",
-      "title": "Lionel Messi se retiró de la Selección Argentina",
-      "volanta": "CERRÓ LA PUERTA",
-      "date": "2026-08-31T15:34:08+00:00"
     }
   ]
 }
