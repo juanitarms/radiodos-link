@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T13:59:43+00:00",
+  "updated": "2026-09-03T14:17:03+00:00",
   "posts": [
+    {
+      "id": "e394d11c",
+      "image": "img/e394d11c.png",
+      "image_sha": "bc326b075bdbc9922d440423575db312ebe61f2c",
+      "url": "https://www.radiodos.com.ar/213285-empleadas-domesticas-el-gobierno-oficializo-subas-mensuales-por-debajo-del-2-hasta-diciembre-proximo",
+      "title": "Empleadas domésticas: el Gobierno oficializó subas mensuales por debajo del 2% hasta diciembre próximo",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-03T14:17:03+00:00"
+    },
     {
       "id": "c852b174",
       "image": "img/c852b174.png",
@@ -531,15 +540,6 @@
       "title": "Michael Bublé acompañó a Luisana Lopilato en el estreno de Pepita, la pistolera: las fotos de los famosos",
       "volanta": "SIEMPRE JUNTOS",
       "date": "2026-09-01T16:30:57+00:00"
-    },
-    {
-      "id": "e62b728e",
-      "image": "img/e62b728e.png",
-      "image_sha": "f468932fca974128c2d0de2ca744a70925a7c944",
-      "url": "https://www.radiodos.com.ar/213173-alarma-en-el-mundo-de-la-musica-lionel-richie-esta-internado-en-terapia-intensiva",
-      "title": "Alarma en el mundo de la música: Lionel Richie está internado en terapia intensiva",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-09-01T16:30:26+00:00"
     }
   ]
 }
