@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T14:43:27+00:00",
+  "updated": "2026-09-03T14:52:03+00:00",
   "posts": [
+    {
+      "id": "9644c014",
+      "image": "img/9644c014.png",
+      "image_sha": "4a507c6411dd594f748e3487866810a14bbf635b",
+      "url": "https://www.radiodos.com.ar/213303-islas-malvinas-donald-trump-evito-ratificar-abiertamente-el-respaldo-a-londres-en-la-disputa-de-soberania",
+      "title": "Islas Malvinas: Donald Trump evitó ratificar abiertamente el respaldo a Londres en la disputa de soberanía",
+      "volanta": "POSTURA",
+      "date": "2026-09-03T14:52:03+00:00"
+    },
     {
       "id": "0f18aeea",
       "image": "img/0f18aeea.png",
@@ -531,15 +540,6 @@
       "title": "Megaoperativo contra el narcotráfico en Florencio Varela y Quilmes: así cayó \"Paranacito\"",
       "volanta": "OPERATIVO",
       "date": "2026-09-01T18:55:46+00:00"
-    },
-    {
-      "id": "ad271c8c",
-      "image": "img/ad271c8c.png",
-      "image_sha": "dcb6aae7c939a5caa7ddd1958de97eb76b9ba91d",
-      "url": "https://www.radiodos.com.ar/213175-cruz-roja-dictara-cursos-de-lengua-de-senas-y-rcp",
-      "title": "Cruz Roja dictará cursos de lengua de señas y RCP",
-      "volanta": "Filial Corrientes",
-      "date": "2026-09-01T16:31:33+00:00"
     }
   ]
 }
