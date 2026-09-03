@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T15:07:27+00:00",
+  "updated": "2026-09-03T16:45:10+00:00",
   "posts": [
+    {
+      "id": "9019aa14",
+      "image": "img/9019aa14.png",
+      "image_sha": "7e4ef84e62cf17d2f2cce2d3a2bac5837571d7e0",
+      "url": "https://www.radiodos.com.ar/213298-aguas-de-corrientes-inicio-la-extension-de-2400-metros-de-desagues-cloacales-en-san-luis-del-palmar",
+      "title": "Aguas de Corrientes inició la extensión de 2.400 metros de desagües cloacales en San Luis del Palmar",
+      "volanta": "AMPLIACIÓN",
+      "date": "2026-09-03T16:45:10+00:00"
+    },
     {
       "id": "54381332",
       "image": "img/54381332.png",
@@ -531,15 +540,6 @@
       "title": "Junto con los vecinos, el Municipio desarrollará una jornada de recuperación urbana y harán un mural comunitario",
       "volanta": "CONCIENCIA AMBIENTAL Y CIUDADANA",
       "date": "2026-09-01T18:56:52+00:00"
-    },
-    {
-      "id": "863b0753",
-      "image": "img/863b0753.png",
-      "image_sha": "d85bf210521adb0aa33c89dc3e9c9973665193a8",
-      "url": "https://www.radiodos.com.ar/213176-jp-valdes-confirmo-que-el-viernes-participara-de-una-cumbre-economica-en-iguazu",
-      "title": "JP Valdés confirmó que el viernes participará de una cumbre económica en Iguazú",
-      "volanta": "CON OTROS GOBERNADORES",
-      "date": "2026-09-01T18:56:22+00:00"
     }
   ]
 }
