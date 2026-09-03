@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T17:42:38+00:00",
+  "updated": "2026-09-03T18:57:22+00:00",
   "posts": [
+    {
+      "id": "c2e41b37",
+      "image": "img/c2e41b37.png",
+      "image_sha": "961a6edca1df28db4809d14d4bd72192b1b56d01",
+      "url": "https://www.radiodos.com.ar/213319-dura-critica-de-la-iglesia-a-la-gestion-de-javier-milei-mientras-se-prepara-la-visita-de-leon-xiv-al-pais",
+      "title": "Dura crítica de la Iglesia a la gestión de Javier Milei mientras se prepara la visita de León XIV al país",
+      "volanta": "CRISIS",
+      "date": "2026-09-03T18:57:22+00:00"
+    },
     {
       "id": "6ffe81ec",
       "image": "img/6ffe81ec.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer murió tras chocar con un patrullero en Corrientes",
       "volanta": "ESTA MAÑANA",
       "date": "2026-09-01T20:33:20+00:00"
-    },
-    {
-      "id": "95e16de2",
-      "image": "img/95e16de2.png",
-      "image_sha": "32cc493712928390a051fa60bf38e9635c76b4d5",
-      "url": "https://www.radiodos.com.ar/213182-articulan-acciones-para-fortalecer-a-los-emprendedores-locales",
-      "title": "Articulan acciones para fortalecer a los emprendedores locales",
-      "volanta": "En Riachuelo",
-      "date": "2026-09-01T19:43:00+00:00"
     }
   ]
 }
