@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T11:04:23+00:00",
+  "updated": "2026-09-03T11:29:32+00:00",
   "posts": [
+    {
+      "id": "d026d55d",
+      "image": "img/d026d55d.png",
+      "image_sha": "7f1343a6373d1328cc93e10e087a51b14abc4ef8",
+      "url": "https://www.radiodos.com.ar/213269-robo-en-un-comercio-y-amenazo-con-un-cuchillo-a-la-empleada-fue-detenida",
+      "title": "Robó en un comercio y amenazó con un cuchillo a la empleada: fue detenida",
+      "volanta": "GOYA",
+      "date": "2026-09-03T11:29:32+00:00"
+    },
     {
       "id": "3bb97890",
       "image": "img/3bb97890.png",
@@ -531,15 +540,6 @@
       "title": "La carta de Antonela Roccuzzo a Messi tras su retiro de la Selección Argentina: \"Qué orgullo verte cerrar esta etapa así\"",
       "volanta": "GRAN COMPAÑERA",
       "date": "2026-09-01T13:54:51+00:00"
-    },
-    {
-      "id": "c92e70b8",
-      "image": "img/c92e70b8.png",
-      "image_sha": "03de515c68832d9ff1ad1c586bdddc729468d51c",
-      "url": "https://www.radiodos.com.ar/213167-donald-trump-confirmo-que-estados-unidos-podria-revisar-su-postura-sobre-las-malvinas",
-      "title": "Donald Trump confirmó que Estados Unidos podría revisar su postura sobre las Malvinas",
-      "volanta": "CONFLICTO",
-      "date": "2026-09-01T13:34:48+00:00"
     }
   ]
 }
