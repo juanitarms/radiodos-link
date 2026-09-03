@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T21:22:51+00:00",
+  "updated": "2026-09-03T21:44:45+00:00",
   "posts": [
+    {
+      "id": "8cee7e24",
+      "image": "img/8cee7e24.png",
+      "image_sha": "b7af1587ddab2bf18dfaa755a1bda4d45ef2c7f7",
+      "url": "https://www.radiodos.com.ar/213328-como-adherirse-gratis-al-telepase-y-evitar-el-recargo-del-50-en-el-peaje",
+      "title": "Cómo adherirse gratis al TelePASE  y evitar el recargo del 50% en el peaje",
+      "volanta": "PUENTE CHACO-CORRIENTES",
+      "date": "2026-09-03T21:44:45+00:00"
+    },
     {
       "id": "05106e1e",
       "image": "img/05106e1e.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insiste en que las vacunas para el ingreso escolar deben colocarse a los 5 años",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-09-01T21:23:00+00:00"
-    },
-    {
-      "id": "9086529e",
-      "image": "img/9086529e.png",
-      "image_sha": "1d8b81ebf7244ddbe0888f0c74f4645b56cb0ace",
-      "url": "https://www.radiodos.com.ar/213194-ben-sulayem-presidente-de-la-fia-argentina-se-merece-el-regreso-de-la-formula-1",
-      "title": "Ben Sulayem, presidente de la FIA: \"Argentina se merece el regreso de la Fórmula 1\"",
-      "volanta": "EXPECTATIVA",
-      "date": "2026-09-01T21:21:44+00:00"
     }
   ]
 }
