@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T16:46:24+00:00",
+  "updated": "2026-09-03T17:42:02+00:00",
   "posts": [
+    {
+      "id": "a3a42b2a",
+      "image": "img/a3a42b2a.png",
+      "image_sha": "55a32d59c4ce3069778ee9fbdbf5ab1d77725a88",
+      "url": "https://www.radiodos.com.ar/213310-pesistas-correntinos-se-destacaron-en-los-juegos-sudamericanos-en-ecuador",
+      "title": "Pesistas correntinos se destacaron en los Juegos Sudamericanos en Ecuador",
+      "volanta": "LEVANTAMIENTO OLÍMPICO",
+      "date": "2026-09-03T17:42:02+00:00"
+    },
     {
       "id": "7f61b1fe",
       "image": "img/7f61b1fe.png",
@@ -531,15 +540,6 @@
       "title": "Salvaje robo a una familia: le fracturaron la cadera a una abuela de 92 años y casi la atropellan",
       "volanta": "LANÚS",
       "date": "2026-09-01T19:42:31+00:00"
-    },
-    {
-      "id": "01534622",
-      "image": "img/01534622.png",
-      "image_sha": "275dd21092fbdabcf8daeb72905b4a3013e6e63b",
-      "url": "https://www.radiodos.com.ar/213178-ate-lanza-un-paro-por-48-horas-en-aeropuertos-y-podrian-verse-afectados-los-vuelos-en-todo-el-pais",
-      "title": "ATE lanza un paro por 48 horas en aeropuertos y podrían verse afectados los vuelos en todo el país",
-      "volanta": "RECLAMOS",
-      "date": "2026-09-01T19:41:57+00:00"
     }
   ]
 }
