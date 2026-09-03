@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-02T22:52:45+00:00",
+  "updated": "2026-09-03T10:36:23+00:00",
   "posts": [
+    {
+      "id": "cc6c34ee",
+      "image": "img/cc6c34ee.png",
+      "image_sha": "c88afcd1b155493928dbe89b670263f9e38ccfa8",
+      "url": "https://www.radiodos.com.ar/213267-juicio-por-loan-el-excomisario-maciel-pidio-hablar-ante-el-tribunal-y-contar-su-verdad",
+      "title": "Juicio por Loan: el excomisario Maciel pidió hablar ante el Tribunal y contar su verdad",
+      "volanta": "IMPUTADO",
+      "date": "2026-09-03T10:36:23+00:00"
+    },
     {
       "id": "d5e9c83f",
       "image": "img/d5e9c83f.png",
@@ -531,15 +540,6 @@
       "title": "El Obelisco homenajeó a Messi con los colores de la Selección tras su adiós a la Argentina",
       "volanta": "MERECIDO",
       "date": "2026-09-01T13:09:26+00:00"
-    },
-    {
-      "id": "287917b0",
-      "image": "img/287917b0.png",
-      "image_sha": "e1b29c7538ff594e1fa54bdc5902faf1e37f04cb",
-      "url": "https://www.radiodos.com.ar/213150-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
-      "volanta": "ESTE MARTES",
-      "date": "2026-09-01T12:54:08+00:00"
     }
   ]
 }
