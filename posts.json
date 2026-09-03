@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T21:22:18+00:00",
+  "updated": "2026-09-03T21:22:51+00:00",
   "posts": [
+    {
+      "id": "05106e1e",
+      "image": "img/05106e1e.png",
+      "image_sha": "49b93f3f71c41026245475770a7d3ad7ae768be0",
+      "url": "https://www.radiodos.com.ar/213324-los-ministerios-de-salud-y-seguridad-de-corrientes-formalizaron-el-protocolo-de-actuacion-ante-casos-de-suicidio",
+      "title": "Los ministerios de Salud y Seguridad de Corrientes formalizaron el protocolo de actuación ante casos de suicidio",
+      "volanta": "GOBIERNO PROVINCIAL",
+      "date": "2026-09-03T21:22:51+00:00"
+    },
     {
       "id": "b37140c0",
       "image": "img/b37140c0.png",
@@ -531,15 +540,6 @@
       "title": "Ben Sulayem, presidente de la FIA: \"Argentina se merece el regreso de la Fórmula 1\"",
       "volanta": "EXPECTATIVA",
       "date": "2026-09-01T21:21:44+00:00"
-    },
-    {
-      "id": "4572c4b0",
-      "image": "img/4572c4b0.png",
-      "image_sha": "046dc0938fd1677d6010fa258511d0c0489106d9",
-      "url": "https://www.radiodos.com.ar/213192-javier-milei-hablara-en-cadena-nacional-el-jueves-por-el-tema-malvinas",
-      "title": "Javier Milei hablará en cadena nacional el jueves por el tema Malvinas",
-      "volanta": "EN CAMPAÑA",
-      "date": "2026-09-01T21:19:46+00:00"
     }
   ]
 }
