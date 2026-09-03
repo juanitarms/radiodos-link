@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T10:36:23+00:00",
+  "updated": "2026-09-03T11:04:23+00:00",
   "posts": [
+    {
+      "id": "3bb97890",
+      "image": "img/3bb97890.png",
+      "image_sha": "c2a92c32dbc28531a21ebdc08270fa74ad4a2fb4",
+      "url": "https://www.radiodos.com.ar/213268-comienza-el-juicio-contra-un-medico-de-santo-tome-por-matar-un-perro-de-un-balazo",
+      "title": "Comienza el juicio contra un médico de Santo Tomé por matar un perro de un balazo",
+      "volanta": "MALTRATO ANIMAL",
+      "date": "2026-09-03T11:04:23+00:00"
+    },
     {
       "id": "cc6c34ee",
       "image": "img/cc6c34ee.png",
@@ -531,15 +540,6 @@
       "title": "Donald Trump confirmó que Estados Unidos podría revisar su postura sobre las Malvinas",
       "volanta": "CONFLICTO",
       "date": "2026-09-01T13:34:48+00:00"
-    },
-    {
-      "id": "0df04be5",
-      "image": "img/0df04be5.png",
-      "image_sha": "6c9905c3da4e9b7652390a41b1a25bd74fd740c2",
-      "url": "https://www.radiodos.com.ar/213161-el-obelisco-homenajeo-a-messi-con-los-colores-de-la-seleccion-tras-su-adios-a-la-argentina",
-      "title": "El Obelisco homenajeó a Messi con los colores de la Selección tras su adiós a la Argentina",
-      "volanta": "MERECIDO",
-      "date": "2026-09-01T13:09:26+00:00"
     }
   ]
 }
