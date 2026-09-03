@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T17:42:02+00:00",
+  "updated": "2026-09-03T17:42:38+00:00",
   "posts": [
+    {
+      "id": "6ffe81ec",
+      "image": "img/6ffe81ec.png",
+      "image_sha": "36fe51c553890b968612ed5a615bc048dfc90ea7",
+      "url": "https://www.radiodos.com.ar/213313-valdes-encabezo-la-apertura-del-4°-congreso-ecoturistico-del-litoral",
+      "title": "Valdés encabezó la apertura del 4° Congreso Ecoturístico del Litoral",
+      "volanta": "CON RÉCORD DE PARTICIPANTES",
+      "date": "2026-09-03T17:42:38+00:00"
+    },
     {
       "id": "a3a42b2a",
       "image": "img/a3a42b2a.png",
@@ -531,15 +540,6 @@
       "title": "Articulan acciones para fortalecer a los emprendedores locales",
       "volanta": "En Riachuelo",
       "date": "2026-09-01T19:43:00+00:00"
-    },
-    {
-      "id": "9bbafecf",
-      "image": "img/9bbafecf.png",
-      "image_sha": "b68cf571f060f9819f53d08388e808f5b521099d",
-      "url": "https://www.radiodos.com.ar/213183-salvaje-robo-a-una-familia-le-fracturaron-la-cadera-a-una-abuela-de-92-anos-y-casi-la-atropellan",
-      "title": "Salvaje robo a una familia: le fracturaron la cadera a una abuela de 92 años y casi la atropellan",
-      "volanta": "LANÚS",
-      "date": "2026-09-01T19:42:31+00:00"
     }
   ]
 }
