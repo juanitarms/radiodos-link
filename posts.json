@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T21:44:45+00:00",
+  "updated": "2026-09-03T22:13:00+00:00",
   "posts": [
+    {
+      "id": "e5c63239",
+      "image": "img/e5c63239.png",
+      "image_sha": "195a191305838fa70360accd23d94aa05207f9f1",
+      "url": "https://www.radiodos.com.ar/213329-un-choque-multiple-termina-con-un-auto-en-un-canal-de-desague-en-el-interior-de-corrientes",
+      "title": "Un choque múltiple termina con un auto en un canal de desagüe en el interior de Corrientes",
+      "volanta": "ACCESO A SALADAS",
+      "date": "2026-09-03T22:13:00+00:00"
+    },
     {
       "id": "8cee7e24",
       "image": "img/8cee7e24.png",
@@ -531,15 +540,6 @@
       "title": "La forestación y el té salvan el semestre exportador de Corrientes",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-09-01T21:23:57+00:00"
-    },
-    {
-      "id": "5e2bbca3",
-      "image": "img/5e2bbca3.png",
-      "image_sha": "cf7ec941dc516afc775a4879bee73e8559704be0",
-      "url": "https://www.radiodos.com.ar/213197-salud-publica-de-corrientes-insiste-en-que-las-vacunas-para-el-ingreso-escolar-deben-colocarse-a-los-5-anos",
-      "title": "Salud Pública de Corrientes insiste en que las vacunas para el ingreso escolar deben colocarse a los 5 años",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-09-01T21:23:00+00:00"
     }
   ]
 }
