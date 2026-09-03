@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T16:45:10+00:00",
+  "updated": "2026-09-03T16:45:50+00:00",
   "posts": [
+    {
+      "id": "4139f601",
+      "image": "img/4139f601.png",
+      "image_sha": "9eb6de5392ee9acf2ecba1e4f47e8e7d4b708098",
+      "url": "https://www.radiodos.com.ar/213297-un-alerta-del-fbi-por-consultas-a-una-ia-para-cometer-un-homicidio-termino-en-un-allanamiento-en-una-casa",
+      "title": "Un alerta del FBI por consultas a una IA para cometer un homicidio terminó en un allanamiento en una casa",
+      "volanta": "CHACO",
+      "date": "2026-09-03T16:45:50+00:00"
+    },
     {
       "id": "9019aa14",
       "image": "img/9019aa14.png",
@@ -531,15 +540,6 @@
       "title": "Argentina cayó ante Canadá en un partidazo: intactas chances de llegar al Mundial 2027",
       "volanta": "BÁSQUET",
       "date": "2026-09-01T18:57:24+00:00"
-    },
-    {
-      "id": "529acd2f",
-      "image": "img/529acd2f.png",
-      "image_sha": "2461bd9f353a704a5ada185e846faaf380c6d35b",
-      "url": "https://www.radiodos.com.ar/213180-junto-con-los-vecinos-el-municipio-desarrollara-una-jornada-de-recuperacion-urbana-y-haran-un-mural-comunitario",
-      "title": "Junto con los vecinos, el Municipio desarrollará una jornada de recuperación urbana y harán un mural comunitario",
-      "volanta": "CONCIENCIA AMBIENTAL Y CIUDADANA",
-      "date": "2026-09-01T18:56:52+00:00"
     }
   ]
 }
