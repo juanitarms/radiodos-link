@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T22:13:00+00:00",
+  "updated": "2026-09-03T22:13:46+00:00",
   "posts": [
+    {
+      "id": "8094b269",
+      "image": "img/8094b269.png",
+      "image_sha": "70888939f39c495f3d0b5f556162a1996d0c2775",
+      "url": "https://www.radiodos.com.ar/213327-malvinas-afirman-que-trump-mando-al-congreso-de-usa-un-documento-sobre-las-islas",
+      "title": "Malvinas: Afirman que Trump mandó al Congreso de USA un documento sobre las Islas",
+      "volanta": "ESPERANDO LA CADENA",
+      "date": "2026-09-03T22:13:46+00:00"
+    },
     {
       "id": "e5c63239",
       "image": "img/e5c63239.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes concluyó con éxito un nuevo taller de huertas familiares comunitarias",
       "volanta": "ÑANDE HUERTA",
       "date": "2026-09-01T21:24:52+00:00"
-    },
-    {
-      "id": "45c532f9",
-      "image": "img/45c532f9.png",
-      "image_sha": "45e8107cf6672118379f276c02243256957bdfc9",
-      "url": "https://www.radiodos.com.ar/213196-la-forestacion-y-el-te-salvan-el-semestre-exportador-de-corrientes",
-      "title": "La forestación y el té salvan el semestre exportador de Corrientes",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-09-01T21:23:57+00:00"
     }
   ]
 }
