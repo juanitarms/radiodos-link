@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T21:11:40+00:00",
+  "updated": "2026-09-04T21:12:10+00:00",
   "posts": [
+    {
+      "id": "e66691b5",
+      "image": "img/e66691b5.png",
+      "image_sha": "24bac73002d54ae4e4d0bc328da2bb31184d437a",
+      "url": "https://www.radiodos.com.ar/213385-una-escuela-del-interior-de-corrientes-prohibira-el-celular-desde-el-lunes",
+      "title": "Una escuela del interior de Corrientes prohibirá el celular desde el lunes",
+      "volanta": "MEDIDA POLÉMICA",
+      "date": "2026-09-04T21:12:10+00:00"
+    },
     {
       "id": "e7fc1299",
       "image": "img/e7fc1299.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron muerta a una joven de 28 años que era buscada",
       "volanta": "Ramos Mejía",
       "date": "2026-09-02T18:47:14+00:00"
-    },
-    {
-      "id": "01553242",
-      "image": "img/01553242.png",
-      "image_sha": "f07672b6fd4dcd6d1e6345001b530b99c74c1e60",
-      "url": "https://www.radiodos.com.ar/213249-exequiel-zeballos-entre-lagrimas-se-despidio-de-los-hinchas-de-boca-espero-volver",
-      "title": "Exequiel Zeballos, entre lágrimas, se despidió de los hinchas de Boca: \"Espero volver\"",
-      "volanta": "SE VA A EUROPA",
-      "date": "2026-09-02T18:46:37+00:00"
     }
   ]
 }
