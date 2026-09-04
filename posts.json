@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T10:26:34+00:00",
+  "updated": "2026-09-04T10:38:37+00:00",
   "posts": [
+    {
+      "id": "824eddfb",
+      "image": "img/824eddfb.png",
+      "image_sha": "32fea41bebcbc9566e6795f91d3ef97c5000903f",
+      "url": "https://www.radiodos.com.ar/213334-corrientes-conductor-derrapo-y-volco-en-rp-27-cerca-de-lavalle",
+      "title": "Corrientes: conductor derrapó y volcó en RP 27 cerca de Lavalle",
+      "volanta": "ESTA MADRUGADA",
+      "date": "2026-09-04T10:38:37+00:00"
+    },
     {
       "id": "d49eef84",
       "image": "img/d49eef84.png",
@@ -531,15 +540,6 @@
       "title": "Polich en operativo oftalmológico en Corrientes: \"Es importante que los chicos puedan ver bien y mejorar su calidad de vida\"",
       "volanta": "PROGRAMA “VER PARA SER LIBRES”",
       "date": "2026-09-01T23:38:49+00:00"
-    },
-    {
-      "id": "7e07bf45",
-      "image": "img/7e07bf45.png",
-      "image_sha": "33c5b00e591d8160358badb2217100c5ae74969f",
-      "url": "https://www.radiodos.com.ar/213200-el-gobierno-ofrecio-un-6-de-aumento-en-dos-tramos-a-los-docentes-universitarios",
-      "title": "El Gobierno ofreció un 6% de aumento en dos tramos a los docentes universitarios",
-      "volanta": "Fracasó la paritaria",
-      "date": "2026-09-01T23:38:13+00:00"
     }
   ]
 }
