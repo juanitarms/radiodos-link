@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T22:23:03+00:00",
+  "updated": "2026-09-04T22:23:36+00:00",
   "posts": [
+    {
+      "id": "77117dfa",
+      "image": "img/77117dfa.png",
+      "image_sha": "0763c81b8872d62df6c7aeeb199b63661cd8d1f2",
+      "url": "https://www.radiodos.com.ar/213392-encuesta-javier-milei-conserva-su-piso-electoral-pero-mas-del-50-pide-cambiar-el-rumbo",
+      "title": "Encuesta: Javier Milei conserva su piso electoral, pero más del 50% pide cambiar el rumbo",
+      "volanta": "Comicios 2027",
+      "date": "2026-09-04T22:23:36+00:00"
+    },
     {
       "id": "66d52ad5",
       "image": "img/66d52ad5.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes invita a participar del primer Mercado de Pulgas",
       "volanta": "CIRCULARIDAD DE OBJETOS",
       "date": "2026-09-02T21:06:45+00:00"
-    },
-    {
-      "id": "b5804f2a",
-      "image": "img/b5804f2a.png",
-      "image_sha": "3c263fab905fa9a6bdbbfa92c0a7737046f9f9ed",
-      "url": "https://www.radiodos.com.ar/213256-carolina-rinde-tributo-a-sus-agricultores-en-la-42-edicion-de-su-fiesta-provincial",
-      "title": "Carolina rinde tributo a sus agricultores en la 42º edición de su fiesta provincial",
-      "volanta": "EL CAMPO CORRENTINO DE FIESTA",
-      "date": "2026-09-02T21:04:42+00:00"
     }
   ]
 }
