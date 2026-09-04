@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T21:10:33+00:00",
+  "updated": "2026-09-04T21:11:06+00:00",
   "posts": [
+    {
+      "id": "1cb064c3",
+      "image": "img/1cb064c3.png",
+      "image_sha": "c3d6067c3e5c1d050c88a4f47840e61119c7b354",
+      "url": "https://www.radiodos.com.ar/213387-la-pastoral-judicial-advirtio-que-el-nuevo-regimen-penal-juvenil-no-debe-agravar-la-vulnerabilidad-de-los-menores",
+      "title": "La Pastoral Judicial advirtió que el nuevo régimen penal juvenil no debe agravar la vulnerabilidad de los menores",
+      "volanta": "JUSTICIA",
+      "date": "2026-09-04T21:11:06+00:00"
+    },
     {
       "id": "d3d50c5b",
       "image": "img/d3d50c5b.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio: una mujer de 47 años fue asesinada a golpes y detuvieron a su pareja",
       "volanta": "Concordia",
       "date": "2026-09-02T17:32:37+00:00"
-    },
-    {
-      "id": "bb8e68ae",
-      "image": "img/bb8e68ae.png",
-      "image_sha": "fd72baf4d75edcbeb595a852a4d4eef959fa4455",
-      "url": "https://www.radiodos.com.ar/213245-mburucuya-proyecta-otra-obra-su-primera-cancha-de-hockey",
-      "title": "Mburucuyá proyecta otra obra: su primera cancha de hockey",
-      "volanta": "GESTIÓN",
-      "date": "2026-09-02T17:31:56+00:00"
     }
   ]
 }
