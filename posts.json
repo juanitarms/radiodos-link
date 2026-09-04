@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T21:12:10+00:00",
+  "updated": "2026-09-04T21:57:59+00:00",
   "posts": [
+    {
+      "id": "ffbb09b8",
+      "image": "img/ffbb09b8.png",
+      "image_sha": "2a1769fa93241551652b00a2c7bb5f5d6353210d",
+      "url": "https://www.radiodos.com.ar/213389-condenaron-a-un-excomisario-por-fraude-a-la-administracion-publica-y-malversacion",
+      "title": "Condenaron a un excomisario por fraude a la administración pública y malversación",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-04T21:57:59+00:00"
+    },
     {
       "id": "e66691b5",
       "image": "img/e66691b5.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno lanzó un plan de acción para el abordaje integral de la salud mental y la prevención del suicidio",
       "volanta": "INICIATIVA",
       "date": "2026-09-02T18:47:51+00:00"
-    },
-    {
-      "id": "020fe849",
-      "image": "img/020fe849.png",
-      "image_sha": "1c8c4480b5f701117963a2c611d24c0fb8d76812",
-      "url": "https://www.radiodos.com.ar/213252-hallaron-muerta-a-una-joven-de-28-anos-que-era-buscada",
-      "title": "Hallaron muerta a una joven de 28 años que era buscada",
-      "volanta": "Ramos Mejía",
-      "date": "2026-09-02T18:47:14+00:00"
     }
   ]
 }
