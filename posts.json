@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T21:09:57+00:00",
+  "updated": "2026-09-04T21:10:33+00:00",
   "posts": [
+    {
+      "id": "d3d50c5b",
+      "image": "img/d3d50c5b.png",
+      "image_sha": "50ba3227dfa7e531c7c0036b6fd9082c68637b35",
+      "url": "https://www.radiodos.com.ar/213388-vandalismo-en-plazas-de-corrientes-destrozan-luminarias-y-ponen-en-riesgo-a-los-vecinos",
+      "title": "Vandalismo en plazas de Corrientes: destrozan luminarias y ponen en riesgo a los vecinos",
+      "volanta": "DEPLORABLE",
+      "date": "2026-09-04T21:10:33+00:00"
+    },
     {
       "id": "d950e61f",
       "image": "img/d950e61f.png",
@@ -531,15 +540,6 @@
       "title": "Mburucuyá proyecta otra obra: su primera cancha de hockey",
       "volanta": "GESTIÓN",
       "date": "2026-09-02T17:31:56+00:00"
-    },
-    {
-      "id": "e9b5ece3",
-      "image": "img/e9b5ece3.png",
-      "image_sha": "a6eaa4781a6a720ba620ed452b4ede4c753f9196",
-      "url": "https://www.radiodos.com.ar/213246-regresan-las-4x4-y-cuatriciclos-a-pinamar-la-prohibicion-absoluta-que-cambiara-las-vacaciones-de-muchos",
-      "title": "Regresan las 4x4 y cuatriciclos a Pinamar: la prohibición absoluta que cambiará las vacaciones de muchos",
-      "volanta": "PARA EL VERANO",
-      "date": "2026-09-02T17:31:21+00:00"
     }
   ]
 }
