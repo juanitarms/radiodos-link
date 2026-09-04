@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T13:58:23+00:00",
+  "updated": "2026-09-04T14:28:30+00:00",
   "posts": [
+    {
+      "id": "d89786af",
+      "image": "img/d89786af.png",
+      "image_sha": "7f0dd191f27e9b0abefbf3628e9af3d628bfccc5",
+      "url": "https://www.radiodos.com.ar/213359-wanda-nara-movio-una-ficha-y-mauro-icardi-volvio-a-ver-a-sus-hijas-tras-dos-meses-lo-convencio",
+      "title": "Wanda Nara movió una ficha y Mauro Icardi volvió a ver a sus hijas tras dos meses: \"Lo convenció\"",
+      "volanta": "FIRMÓ LA PAZ",
+      "date": "2026-09-04T14:28:30+00:00"
+    },
     {
       "id": "4020f683",
       "image": "img/4020f683.png",
@@ -531,15 +540,6 @@
       "title": "Fernando Cerimedo reiteró: \"Jamás tuve la intención ni la capacidad de hacerle daño a Nadia\"",
       "volanta": "SIGUE LA INVESTIGACIÓN",
       "date": "2026-09-02T12:37:45+00:00"
-    },
-    {
-      "id": "b6810cd6",
-      "image": "img/b6810cd6.png",
-      "image_sha": "a800517593c1c9d82d14c25f3ea3ed5fc6bb51b2",
-      "url": "https://www.radiodos.com.ar/213212-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-09-02T12:25:12+00:00"
     }
   ]
 }
