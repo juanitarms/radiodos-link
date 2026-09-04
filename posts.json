@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T15:08:17+00:00",
+  "updated": "2026-09-04T16:45:56+00:00",
   "posts": [
+    {
+      "id": "a0c40e68",
+      "image": "img/a0c40e68.png",
+      "image_sha": "43fe0d1f6730b02f9073d920d80fb5c16998ce00",
+      "url": "https://www.radiodos.com.ar/213365-el-arte-de-fracasar-alex-segovia-y-amanda-buneta-llegan-a-corrientes",
+      "title": "\"El arte de fracasar\": Alex Segovia y Amanda Buneta llegan a Corrientes",
+      "volanta": "TEATRO",
+      "date": "2026-09-04T16:45:56+00:00"
+    },
     {
       "id": "49338997",
       "image": "img/49338997.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba: analizan habilitar los entierros de personas junto a sus mascotas",
       "volanta": "INICIATIVA",
       "date": "2026-09-02T14:11:42+00:00"
-    },
-    {
-      "id": "2416b6d5",
-      "image": "img/2416b6d5.png",
-      "image_sha": "9110f969c39bfdd26a0752fdb88890973a0b8003",
-      "url": "https://www.radiodos.com.ar/213226-se-retoma-el-juicio-a-pity-alvarez-y-declaran-seis-testigos-clave",
-      "title": "Se retoma el juicio a Pity Álvarez y declaran seis testigos clave",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-09-02T13:38:02+00:00"
     }
   ]
 }
