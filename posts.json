@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T17:28:52+00:00",
+  "updated": "2026-09-04T17:29:22+00:00",
   "posts": [
+    {
+      "id": "c0eb9c10",
+      "image": "img/c0eb9c10.png",
+      "image_sha": "d969744e9a857d51ef03acbb79718e04b3c90ba8",
+      "url": "https://www.radiodos.com.ar/213370-presentaron-oficialmente-la-expo-ibera-en-el-paseo-de-emprendedores",
+      "title": "Presentaron oficialmente la Expo Iberá en el Paseo de Emprendedores",
+      "volanta": "Corrientes",
+      "date": "2026-09-04T17:29:22+00:00"
+    },
     {
       "id": "70b81d04",
       "image": "img/70b81d04.png",
@@ -531,15 +540,6 @@
       "title": "El rumor que vincula a Emilia Mernes con Rodrigo De Paul y habría profundizado su pelea con Tini Stoessel",
       "volanta": "TODO MAL",
       "date": "2026-09-02T16:44:58+00:00"
-    },
-    {
-      "id": "d0b2d036",
-      "image": "img/d0b2d036.png",
-      "image_sha": "f99d11c22e0e09c009392994550d0e4e2fd9359c",
-      "url": "https://www.radiodos.com.ar/213243-bomba-en-la-television-marcelo-tinelli-a-la-tv-publica",
-      "title": "Bomba en la televisión: Marcelo Tinelli a la TV Pública",
-      "volanta": "VUELVE A LA TV",
-      "date": "2026-09-02T15:05:24+00:00"
     }
   ]
 }
