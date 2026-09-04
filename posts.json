@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T12:41:04+00:00",
+  "updated": "2026-09-04T13:05:16+00:00",
   "posts": [
+    {
+      "id": "88719dd8",
+      "image": "img/88719dd8.png",
+      "image_sha": "161c975dd91d42e02220621f5e1e2aa2abf7f6a2",
+      "url": "https://www.radiodos.com.ar/213345-se-encuentran-habilitadas-las-tarjetas-sapucay",
+      "title": "Se encuentran habilitadas las Tarjetas Sapucay",
+      "volanta": "Gobierno de Corrientes",
+      "date": "2026-09-04T13:05:16+00:00"
+    },
     {
       "id": "435334bb",
       "image": "img/435334bb.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés lleva a Iguazú la estrategia provincial para atraer inversiones",
       "volanta": "GOBERNADOR",
       "date": "2026-09-02T11:09:06+00:00"
-    },
-    {
-      "id": "ca5a0b03",
-      "image": "img/ca5a0b03.png",
-      "image_sha": "3d4f5f970ea2338b895bec377b1a3ff6055eba91",
-      "url": "https://www.radiodos.com.ar/213205-patota-de-adolescentes-hirio-a-un-joven-para-robarle-una-bicicleta",
-      "title": "Patota de adolescentes hirió a un joven para robarle una bicicleta",
-      "volanta": "BARRIO PONCE",
-      "date": "2026-09-02T10:43:26+00:00"
     }
   ]
 }
