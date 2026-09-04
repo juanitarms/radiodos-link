@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-03T22:33:44+00:00",
+  "updated": "2026-09-04T10:26:34+00:00",
   "posts": [
+    {
+      "id": "d49eef84",
+      "image": "img/d49eef84.png",
+      "image_sha": "70e52f89144dd4c42946ca493bd4778578292af9",
+      "url": "https://www.radiodos.com.ar/213332-milei-anuncio-la-construccion-de-una-base-naval-en-tierra-del-fuego-y-sanciones-a-petroleras-que-operen-en-malvinas",
+      "title": "Milei anunció la construcción de una base naval en Tierra del Fuego y sanciones a petroleras que operen en Malvinas",
+      "volanta": "TENSIÓN INTERNACIONAL",
+      "date": "2026-09-04T10:26:34+00:00"
+    },
     {
       "id": "3465f620",
       "image": "img/3465f620.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno ofreció un 6% de aumento en dos tramos a los docentes universitarios",
       "volanta": "Fracasó la paritaria",
       "date": "2026-09-01T23:38:13+00:00"
-    },
-    {
-      "id": "678eb0ab",
-      "image": "img/678eb0ab.png",
-      "image_sha": "01670f51d42d8fa7560c309fedfce277680e97c1",
-      "url": "https://www.radiodos.com.ar/213198-confirman-que-es-un-gendarme-el-motociclista-que-atropello-a-una-bebe",
-      "title": "Confirman que es un gendarme el motociclista que atropelló a una bebé",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-01T21:27:35+00:00"
     }
   ]
 }
