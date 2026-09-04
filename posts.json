@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T13:38:10+00:00",
+  "updated": "2026-09-04T13:58:23+00:00",
   "posts": [
+    {
+      "id": "4020f683",
+      "image": "img/4020f683.png",
+      "image_sha": "d648eae9bdea7185458429d76364b60bc75a4f26",
+      "url": "https://www.radiodos.com.ar/213355-tiene-14-anos-y-creo-un-dispositivo-que-permite-a-personas-sordas-sentir-el-canto-de-las-aves",
+      "title": "Tiene 14 años y creó un dispositivo que permite a personas sordas \"sentir\" el canto de las aves",
+      "volanta": "Inclusión",
+      "date": "2026-09-04T13:58:23+00:00"
+    },
     {
       "id": "37be517c",
       "image": "img/37be517c.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE MIÉRCOLES",
       "date": "2026-09-02T12:25:12+00:00"
-    },
-    {
-      "id": "b9021fe2",
-      "image": "img/b9021fe2.png",
-      "image_sha": "7fcd5527ae8871aa0bcf51e881df935f32140814",
-      "url": "https://www.radiodos.com.ar/213207-interior-de-corrientes-peleas-y-corridas-en-una-final-de-campeonato-de-barrios",
-      "title": "Interior de Corrientes: peleas y corridas en una final de campeonato de barrios",
-      "volanta": "FÚTBOL",
-      "date": "2026-09-02T12:06:23+00:00"
     }
   ]
 }
