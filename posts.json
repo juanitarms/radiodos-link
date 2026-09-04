@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T16:45:56+00:00",
+  "updated": "2026-09-04T16:46:33+00:00",
   "posts": [
+    {
+      "id": "ffd28de2",
+      "image": "img/ffd28de2.png",
+      "image_sha": "e294a2546f9cb3507ca5b4ffd63969cb1a43bfed",
+      "url": "https://www.radiodos.com.ar/213364-video-impresionante-choque-multiple-con-final-inesperado-en-rosario",
+      "title": "VIDEO: Impresionante choque múltiple con final inesperado en Rosario",
+      "volanta": "Ruta 18",
+      "date": "2026-09-04T16:46:33+00:00"
+    },
     {
       "id": "a0c40e68",
       "image": "img/a0c40e68.png",
@@ -531,15 +540,6 @@
       "title": "Presentaron un proyecto para nombrar a Lionel Messi como embajador \"ilustre e itinerante\" de la Argentina",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-09-02T14:31:29+00:00"
-    },
-    {
-      "id": "03fc3cf9",
-      "image": "img/03fc3cf9.png",
-      "image_sha": "df7d909902ff4f1890182e52128649c4e96672b5",
-      "url": "https://www.radiodos.com.ar/213238-cordoba-analizan-habilitar-los-entierros-de-personas-junto-a-sus-mascotas",
-      "title": "Córdoba: analizan habilitar los entierros de personas junto a sus mascotas",
-      "volanta": "INICIATIVA",
-      "date": "2026-09-02T14:11:42+00:00"
     }
   ]
 }
