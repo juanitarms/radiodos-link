@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T10:50:25+00:00",
+  "updated": "2026-09-04T11:26:07+00:00",
   "posts": [
+    {
+      "id": "1cff261d",
+      "image": "img/1cff261d.png",
+      "image_sha": "fa3ce280a0e60267e9e850d14d8a1cdf17bd0a11",
+      "url": "https://www.radiodos.com.ar/213335-el-corte-en-ruta-14-en-el-limite-entre-corrientes-y-misiones-sera-por-al-menos-un-mes",
+      "title": "El corte en ruta 14 en el límite entre Corrientes y Misiones será por al menos un mes",
+      "volanta": "DESVIOS",
+      "date": "2026-09-04T11:26:07+00:00"
+    },
     {
       "id": "da3307d1",
       "image": "img/da3307d1.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno suspenderán la licencia de conducir a quienes cometan esta falta",
       "volanta": "DECRETO",
       "date": "2026-09-01T23:40:01+00:00"
-    },
-    {
-      "id": "75e9a771",
-      "image": "img/75e9a771.png",
-      "image_sha": "3982c983b74d966005a44f82c428c3432242dc84",
-      "url": "https://www.radiodos.com.ar/213202-chaco-lanzo-un-incentivo-de-100000-mensuales-para-estudiantes-del-ultimo-ano-del-secundario",
-      "title": "Chaco lanzó un incentivo de $100.000 mensuales para estudiantes del último año del secundario",
-      "volanta": "INICIATIVA",
-      "date": "2026-09-01T23:39:17+00:00"
     }
   ]
 }
