@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T10:38:37+00:00",
+  "updated": "2026-09-04T10:50:25+00:00",
   "posts": [
+    {
+      "id": "da3307d1",
+      "image": "img/da3307d1.png",
+      "image_sha": "68da97b49a54717a4d2c5ca7fef3272282722813",
+      "url": "https://www.radiodos.com.ar/213333-juan-pablo-valdes-viaja-a-puerto-iguazu-para-exponer-en-el-foro-empresarial-del-iaef",
+      "title": "Juan Pablo Valdés viaja a Puerto Iguazú para exponer en el foro empresarial del IAEF",
+      "volanta": "CUMBRE",
+      "date": "2026-09-04T10:50:25+00:00"
+    },
     {
       "id": "824eddfb",
       "image": "img/824eddfb.png",
@@ -531,15 +540,6 @@
       "title": "Chaco lanzó un incentivo de $100.000 mensuales para estudiantes del último año del secundario",
       "volanta": "INICIATIVA",
       "date": "2026-09-01T23:39:17+00:00"
-    },
-    {
-      "id": "a5744795",
-      "image": "img/a5744795.png",
-      "image_sha": "5af54eb584c67c638590bdde406bd62cf3d32779",
-      "url": "https://www.radiodos.com.ar/213203-polich-en-operativo-oftalmologico-en-corrientes-es-importante-que-los-chicos-puedan-ver-bien-y-mejorar-su-calidad-de-vida",
-      "title": "Polich en operativo oftalmológico en Corrientes: \"Es importante que los chicos puedan ver bien y mejorar su calidad de vida\"",
-      "volanta": "PROGRAMA “VER PARA SER LIBRES”",
-      "date": "2026-09-01T23:38:49+00:00"
     }
   ]
 }
