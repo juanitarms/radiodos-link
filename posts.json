@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T22:23:36+00:00",
+  "updated": "2026-09-05T13:14:09+00:00",
   "posts": [
+    {
+      "id": "23aab7ad",
+      "image": "img/23aab7ad.png",
+      "image_sha": "b20ed842e816ffb6751644ad75cf4fa9a519ac2c",
+      "url": "https://www.radiodos.com.ar/213394-el-gobernador-jp-valdes-presento-en-iguazu-el-modelo-correntino-para-atraer-inversiones-y-generar-desarrollo",
+      "title": "El gobernador JP Valdés presentó en Iguazú el modelo correntino para atraer inversiones y generar desarrollo",
+      "volanta": "EN MISIONES",
+      "date": "2026-09-05T13:14:09+00:00"
+    },
     {
       "id": "77117dfa",
       "image": "img/77117dfa.png",
@@ -531,15 +540,6 @@
       "title": "En el Hospital Juan Pablo II de Corrientes se utilizó por primera vez una tecnología de neuronavegación",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-09-02T21:14:31+00:00"
-    },
-    {
-      "id": "6490d1a3",
-      "image": "img/6490d1a3.png",
-      "image_sha": "3bf16ebb7ac397c8f9229d29ad9af1d66953d447",
-      "url": "https://www.radiodos.com.ar/213255-la-municipalidad-de-corrientes-invita-a-participar-del-primer-mercado-de-pulgas",
-      "title": "La Municipalidad de Corrientes invita a participar del primer Mercado de Pulgas",
-      "volanta": "CIRCULARIDAD DE OBJETOS",
-      "date": "2026-09-02T21:06:45+00:00"
     }
   ]
 }
