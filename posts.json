@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-05T13:14:09+00:00",
+  "updated": "2026-09-05T15:37:42+00:00",
   "posts": [
+    {
+      "id": "bc632702",
+      "image": "img/bc632702.png",
+      "image_sha": "fa2abe478fbbc91e23a033a0d221e16efc791180",
+      "url": "https://www.radiodos.com.ar/213402-violencia-de-genero-preso-tras-incumplir-orden-judicial-y-volver-a-agredir-a-su-expareja",
+      "title": "Violencia de género: preso tras incumplir orden judicial y volver a agredir a su expareja",
+      "volanta": "EMPEDRADO",
+      "date": "2026-09-05T15:37:42+00:00"
+    },
     {
       "id": "23aab7ad",
       "image": "img/23aab7ad.png",
@@ -531,15 +540,6 @@
       "title": "\"Pity\" Álvarez se descompensó durante el juicio por el crimen de Cristian Díaz",
       "volanta": "JUZGADO POR HOMICIDIO",
       "date": "2026-09-02T21:15:40+00:00"
-    },
-    {
-      "id": "f3844bbe",
-      "image": "img/f3844bbe.png",
-      "image_sha": "a426f9dc896be54c2c7aeee9a7e77a7decc8aac4",
-      "url": "https://www.radiodos.com.ar/213254-en-el-hospital-juan-pablo-ii-de-corrientes-se-utilizo-por-primera-vez-una-tecnologia-de-neuronavegacion",
-      "title": "En el Hospital Juan Pablo II de Corrientes se utilizó por primera vez una tecnología de neuronavegación",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-09-02T21:14:31+00:00"
     }
   ]
 }
