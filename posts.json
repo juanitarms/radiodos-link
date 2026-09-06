@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T13:34:25+00:00",
+  "updated": "2026-09-06T14:13:46+00:00",
   "posts": [
+    {
+      "id": "4520e186",
+      "image": "img/4520e186.png",
+      "image_sha": "a2ed98789b7cfd9793621bd5b470b17698bf828d",
+      "url": "https://www.radiodos.com.ar/213431-murio-una-nena-de-6-anos-en-un-incendio",
+      "title": "Murió una nena de 6 años en un incendio",
+      "volanta": "Tragedia en Berisso",
+      "date": "2026-09-06T14:13:46+00:00"
+    },
     {
       "id": "a7c5e2c8",
       "image": "img/a7c5e2c8.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés, desde el puerto de Corrientes: \"Generamos las condiciones para que nos elijan\"",
       "volanta": "HITO HISTÓRICO",
       "date": "2026-09-02T22:14:11+00:00"
-    },
-    {
-      "id": "9b761d12",
-      "image": "img/9b761d12.png",
-      "image_sha": "6fcb757776c8868c0c429746ba56a6062a0fed19",
-      "url": "https://www.radiodos.com.ar/213261-erradicaron-un-mini-basural-y-crearon-un-espacio-de-recreacion-en-el-barrio-anahi",
-      "title": "Erradicaron un mini basural y crearon un espacio de recreación en el barrio Anahí",
-      "volanta": "Trabajo conjuntO",
-      "date": "2026-09-02T21:21:25+00:00"
     }
   ]
 }
