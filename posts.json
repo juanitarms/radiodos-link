@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T13:18:36+00:00",
+  "updated": "2026-09-06T13:34:25+00:00",
   "posts": [
+    {
+      "id": "a7c5e2c8",
+      "image": "img/a7c5e2c8.png",
+      "image_sha": "07f15382da43fd8aa758e4e212e0e623c34b1b0f",
+      "url": "https://www.radiodos.com.ar/213428-robaron-los-canos-de-bronce-de-los-aires-acondicionados-de-una-escuela-de-corrientes",
+      "title": "Robaron los caños de bronce de los aires acondicionados de una escuela de Corrientes",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-09-06T13:34:25+00:00"
+    },
     {
       "id": "1e9e1079",
       "image": "img/1e9e1079.png",
@@ -531,15 +540,6 @@
       "title": "Erradicaron un mini basural y crearon un espacio de recreación en el barrio Anahí",
       "volanta": "Trabajo conjuntO",
       "date": "2026-09-02T21:21:25+00:00"
-    },
-    {
-      "id": "1cd4e372",
-      "image": "img/1cd4e372.png",
-      "image_sha": "ba91c229952aae11a83c7864f4fc5fe9b4d11829",
-      "url": "https://www.radiodos.com.ar/213257-messi-sera-homenajeado-en-los-partidos-del-futbol-argentino-de-este-fin-de-semana",
-      "title": "Messi será homenajeado en los partidos del fútbol argentino de este fin de semana",
-      "volanta": "TRAS SU RETIRO DE LA SELECCIÓN",
-      "date": "2026-09-02T21:17:23+00:00"
     }
   ]
 }
