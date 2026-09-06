@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T20:53:44+00:00",
+  "updated": "2026-09-06T22:28:53+00:00",
   "posts": [
+    {
+      "id": "b039fe56",
+      "image": "img/b039fe56.png",
+      "image_sha": "ae15b438ec0a227d6b65a17e03ae29e3723aa5b8",
+      "url": "https://www.radiodos.com.ar/213425-que-pasa-entre-la-joaqui-y-tiago-pzk-la-foto-que-los-muestra-juntos-tras-la-ruptura-de-la-artista-con-luck-ra",
+      "title": "Qué pasa entre La Joaqui y Tiago PZK: la foto que los muestra juntos tras la ruptura de la artista con Luck Ra",
+      "volanta": "SORPRESA",
+      "date": "2026-09-06T22:28:53+00:00"
+    },
     {
       "id": "cd3b0e3e",
       "image": "img/cd3b0e3e.png",
@@ -531,15 +540,6 @@
       "title": "Robó en un comercio y amenazó con un cuchillo a la empleada: fue detenida",
       "volanta": "GOYA",
       "date": "2026-09-03T11:29:32+00:00"
-    },
-    {
-      "id": "3bb97890",
-      "image": "img/3bb97890.png",
-      "image_sha": "c2a92c32dbc28531a21ebdc08270fa74ad4a2fb4",
-      "url": "https://www.radiodos.com.ar/213268-comienza-el-juicio-contra-un-medico-de-santo-tome-por-matar-un-perro-de-un-balazo",
-      "title": "Comienza el juicio contra un médico de Santo Tomé por matar un perro de un balazo",
-      "volanta": "MALTRATO ANIMAL",
-      "date": "2026-09-03T11:04:23+00:00"
     }
   ]
 }
