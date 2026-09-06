@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T16:43:30+00:00",
+  "updated": "2026-09-06T16:44:11+00:00",
   "posts": [
+    {
+      "id": "89181ff6",
+      "image": "img/89181ff6.png",
+      "image_sha": "dd349cc9e486683527a9641d2aecc9764b3ac8da",
+      "url": "https://www.radiodos.com.ar/213434-con-buena-participacion-concluyo-el-provincial-de-feria-de-ciencias",
+      "title": "Con buena participación concluyó el provincial de Feria de Ciencias",
+      "volanta": "Saldo positivo",
+      "date": "2026-09-06T16:44:11+00:00"
+    },
     {
       "id": "5a134a87",
       "image": "img/5a134a87.png",
@@ -531,15 +540,6 @@
       "title": "Más del 50% de los argentinos pertenece a la clase baja",
       "volanta": "economía libertaria",
       "date": "2026-09-02T22:52:45+00:00"
-    },
-    {
-      "id": "c1156fc9",
-      "image": "img/c1156fc9.png",
-      "image_sha": "65c5fa127d45e3a3ace4dee160ef6787428326a4",
-      "url": "https://www.radiodos.com.ar/213265-la-uia-advirtio-que-se-perdieron-90000-empleos-industriales-desde-2023",
-      "title": "La UIA advirtió que se perdieron 90.000 empleos industriales desde 2023",
-      "volanta": "CRISIS EN EL SECTOR",
-      "date": "2026-09-02T22:50:14+00:00"
     }
   ]
 }
