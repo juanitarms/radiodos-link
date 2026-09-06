@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T20:53:07+00:00",
+  "updated": "2026-09-06T20:53:44+00:00",
   "posts": [
+    {
+      "id": "cd3b0e3e",
+      "image": "img/cd3b0e3e.png",
+      "image_sha": "858cb19ed9d1d6bb6f4f35b1aac3b1862e2ef1bb",
+      "url": "https://www.radiodos.com.ar/213433-scaloni-aparecio-en-el-gp-de-italia-de-formula-1-ahora-estoy-disfrutando",
+      "title": "Scaloni apareció en el GP de Italia de Fórmula 1: \"Ahora estoy disfrutando\"",
+      "volanta": "ITALIA",
+      "date": "2026-09-06T20:53:44+00:00"
+    },
     {
       "id": "d60bbece",
       "image": "img/d60bbece.png",
@@ -531,15 +540,6 @@
       "title": "Comienza el juicio contra un médico de Santo Tomé por matar un perro de un balazo",
       "volanta": "MALTRATO ANIMAL",
       "date": "2026-09-03T11:04:23+00:00"
-    },
-    {
-      "id": "cc6c34ee",
-      "image": "img/cc6c34ee.png",
-      "image_sha": "c88afcd1b155493928dbe89b670263f9e38ccfa8",
-      "url": "https://www.radiodos.com.ar/213267-juicio-por-loan-el-excomisario-maciel-pidio-hablar-ante-el-tribunal-y-contar-su-verdad",
-      "title": "Juicio por Loan: el excomisario Maciel pidió hablar ante el Tribunal y contar su verdad",
-      "volanta": "IMPUTADO",
-      "date": "2026-09-03T10:36:23+00:00"
     }
   ]
 }
