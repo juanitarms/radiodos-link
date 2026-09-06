@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T22:28:53+00:00",
+  "updated": "2026-09-06T22:29:32+00:00",
   "posts": [
+    {
+      "id": "dde3bba0",
+      "image": "img/dde3bba0.png",
+      "image_sha": "028b6d85043ee5c39e1f72d8bec8c50f70eea557",
+      "url": "https://www.radiodos.com.ar/213426-santiago-maratea-sorprendio-al-confirmar-su-romance-con-tini-stoessel-es-una-dulce",
+      "title": "Santiago Maratea sorprendió al confirmar su romance con Tini Stoessel: \"Es una dulce\"",
+      "volanta": "¿Qué dijo?",
+      "date": "2026-09-06T22:29:32+00:00"
+    },
     {
       "id": "b039fe56",
       "image": "img/b039fe56.png",
@@ -531,15 +540,6 @@
       "title": "Persecución: detuvieron a un ladrón rompevidrios tras ser sorprendido por el dueño de un auto",
       "volanta": "BARRIO SAN MARTÍN",
       "date": "2026-09-03T12:13:50+00:00"
-    },
-    {
-      "id": "d026d55d",
-      "image": "img/d026d55d.png",
-      "image_sha": "7f1343a6373d1328cc93e10e087a51b14abc4ef8",
-      "url": "https://www.radiodos.com.ar/213269-robo-en-un-comercio-y-amenazo-con-un-cuchillo-a-la-empleada-fue-detenida",
-      "title": "Robó en un comercio y amenazó con un cuchillo a la empleada: fue detenida",
-      "volanta": "GOYA",
-      "date": "2026-09-03T11:29:32+00:00"
     }
   ]
 }
