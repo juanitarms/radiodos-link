@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T14:13:46+00:00",
+  "updated": "2026-09-06T14:46:00+00:00",
   "posts": [
+    {
+      "id": "e3f724ab",
+      "image": "img/e3f724ab.png",
+      "image_sha": "e4ae0836d3d444c40b54ac38e0458b418c618122",
+      "url": "https://www.radiodos.com.ar/213429-huyeron-de-un-intento-de-robo-y-a-la-hora-cometieron-otro-delito",
+      "title": "Huyeron de un intento de robo y a la hora cometieron otro delito",
+      "volanta": "En la zona sur de la capital provincial",
+      "date": "2026-09-06T14:46:00+00:00"
+    },
     {
       "id": "4520e186",
       "image": "img/4520e186.png",
@@ -531,15 +540,6 @@
       "title": "Procesaron con prisión preventiva a cinco personas por lavar dinero a través de una cadena de gimnasios en Chaco y Corrientes",
       "volanta": "Caso Exen",
       "date": "2026-09-02T22:15:04+00:00"
-    },
-    {
-      "id": "40dcae76",
-      "image": "img/40dcae76.png",
-      "image_sha": "f5ce41f3c7be1943113001a710ace7c70f0c02a4",
-      "url": "https://www.radiodos.com.ar/213264-juan-pablo-valdes-desde-el-puerto-de-corrientes-generamos-las-condiciones-para-que-nos-elijan",
-      "title": "Juan Pablo Valdés, desde el puerto de Corrientes: \"Generamos las condiciones para que nos elijan\"",
-      "volanta": "HITO HISTÓRICO",
-      "date": "2026-09-02T22:14:11+00:00"
     }
   ]
 }
