@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T14:46:00+00:00",
+  "updated": "2026-09-06T16:43:30+00:00",
   "posts": [
+    {
+      "id": "5a134a87",
+      "image": "img/5a134a87.png",
+      "image_sha": "6f9e0b4149aceeb991ce5aabb99909d55ea3abd0",
+      "url": "https://www.radiodos.com.ar/213435-colapinto-termino-noveno-en-el-gran-premio-de-italia-y-sumo-dos-puntos-para-alpine",
+      "title": "Colapinto terminó noveno en el Gran Premio de Italia y sumó dos puntos para Alpine",
+      "volanta": "fórmula 1",
+      "date": "2026-09-06T16:43:30+00:00"
+    },
     {
       "id": "e3f724ab",
       "image": "img/e3f724ab.png",
@@ -531,15 +540,6 @@
       "title": "La UIA advirtió que se perdieron 90.000 empleos industriales desde 2023",
       "volanta": "CRISIS EN EL SECTOR",
       "date": "2026-09-02T22:50:14+00:00"
-    },
-    {
-      "id": "4d34f7d2",
-      "image": "img/4d34f7d2.png",
-      "image_sha": "d021483e1fc360fc50bbc9eaa123bda8a4caaac4",
-      "url": "https://www.radiodos.com.ar/213263-procesaron-con-prision-preventiva-a-cinco-personas-por-lavar-dinero-a-traves-de-una-cadena-de-gimnasios-en-chaco-y-corrientes",
-      "title": "Procesaron con prisión preventiva a cinco personas por lavar dinero a través de una cadena de gimnasios en Chaco y Corrientes",
-      "volanta": "Caso Exen",
-      "date": "2026-09-02T22:15:04+00:00"
     }
   ]
 }
