@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-05T15:37:42+00:00",
+  "updated": "2026-09-06T13:18:36+00:00",
   "posts": [
+    {
+      "id": "1e9e1079",
+      "image": "img/1e9e1079.png",
+      "image_sha": "0cebb6b8745939c0beacdfddab859d0f8be81a44",
+      "url": "https://www.radiodos.com.ar/213427-la-justicia-inhibio-los-bienes-musimundo-para-pagar-sus-deudas",
+      "title": "La Justicia inhibió los bienes Musimundo para pagar sus deudas",
+      "volanta": "Quiebra de la empresa chaqueÑa",
+      "date": "2026-09-06T13:18:36+00:00"
+    },
     {
       "id": "bc632702",
       "image": "img/bc632702.png",
@@ -531,15 +540,6 @@
       "title": "Messi será homenajeado en los partidos del fútbol argentino de este fin de semana",
       "volanta": "TRAS SU RETIRO DE LA SELECCIÓN",
       "date": "2026-09-02T21:17:23+00:00"
-    },
-    {
-      "id": "5552c6f7",
-      "image": "img/5552c6f7.png",
-      "image_sha": "ce79b6097f6e1660ce35e22d3d9b810a36ada56c",
-      "url": "https://www.radiodos.com.ar/213258-pity-alvarez-se-descompenso-durante-el-juicio-por-el-crimen-de-cristian-diaz",
-      "title": "\"Pity\" Álvarez se descompensó durante el juicio por el crimen de Cristian Díaz",
-      "volanta": "JUZGADO POR HOMICIDIO",
-      "date": "2026-09-02T21:15:40+00:00"
     }
   ]
 }
