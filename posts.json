@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T16:51:37+00:00",
+  "updated": "2026-09-07T16:52:06+00:00",
   "posts": [
+    {
+      "id": "5931b1ad",
+      "image": "img/5931b1ad.png",
+      "image_sha": "de1b631585b16781d36440bb236baf3d5b050f3b",
+      "url": "https://www.radiodos.com.ar/213447-despedidos-de-musimundo-estan-con-incertidumbre-y-desesperados-dijo-el-abogado",
+      "title": "Despedidos de Musimundo: \"Están con incertidumbre y desesperados\", dijo el abogado",
+      "volanta": "DR. GONZALO SARAVIA",
+      "date": "2026-09-07T16:52:06+00:00"
+    },
     {
       "id": "4696b91d",
       "image": "img/4696b91d.png",
@@ -531,15 +540,6 @@
       "title": "Dura crítica de la Iglesia a la gestión de Javier Milei mientras se prepara la visita de León XIV al país",
       "volanta": "CRISIS",
       "date": "2026-09-03T18:57:22+00:00"
-    },
-    {
-      "id": "6ffe81ec",
-      "image": "img/6ffe81ec.png",
-      "image_sha": "36fe51c553890b968612ed5a615bc048dfc90ea7",
-      "url": "https://www.radiodos.com.ar/213313-valdes-encabezo-la-apertura-del-4°-congreso-ecoturistico-del-litoral",
-      "title": "Valdés encabezó la apertura del 4° Congreso Ecoturístico del Litoral",
-      "volanta": "CON RÉCORD DE PARTICIPANTES",
-      "date": "2026-09-03T17:42:38+00:00"
     }
   ]
 }
