@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T13:21:55+00:00",
+  "updated": "2026-09-07T13:55:05+00:00",
   "posts": [
+    {
+      "id": "44817984",
+      "image": "img/44817984.png",
+      "image_sha": "0b7b13eb70619dd699db0ce79f802073204d94ec",
+      "url": "https://www.radiodos.com.ar/213468-las-ferias-de-la-ciudad-continuan-en-septiembre-con-productos-frescos-artesanias-y-propuestas-para-toda-la-familia",
+      "title": "Las Ferias de la Ciudad continúan en septiembre con productos frescos, artesanías y propuestas para toda la familia",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-09-07T13:55:05+00:00"
+    },
     {
       "id": "635bf37e",
       "image": "img/635bf37e.png",
@@ -531,15 +540,6 @@
       "title": "Tini Stoessel rompió el silencio en pleno conflicto con su papá: \"Estoy más firme que nunca\"",
       "volanta": "NO HAY RETORNO",
       "date": "2026-09-03T15:07:27+00:00"
-    },
-    {
-      "id": "9644c014",
-      "image": "img/9644c014.png",
-      "image_sha": "4a507c6411dd594f748e3487866810a14bbf635b",
-      "url": "https://www.radiodos.com.ar/213303-islas-malvinas-donald-trump-evito-ratificar-abiertamente-el-respaldo-a-londres-en-la-disputa-de-soberania",
-      "title": "Islas Malvinas: Donald Trump evitó ratificar abiertamente el respaldo a Londres en la disputa de soberanía",
-      "volanta": "POSTURA",
-      "date": "2026-09-03T14:52:03+00:00"
     }
   ]
 }
