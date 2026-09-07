@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-06T22:29:32+00:00",
+  "updated": "2026-09-07T10:34:18+00:00",
   "posts": [
+    {
+      "id": "8a64c1e8",
+      "image": "img/8a64c1e8.png",
+      "image_sha": "86d94db51b40615616edb5a656de2377db1b76e9",
+      "url": "https://www.radiodos.com.ar/213444-mandiyu-goleo-a-union-de-bv-para-sumar-su-primer-festejo-en-el-regional-amateur",
+      "title": "Mandiyú goleó a Unión de BV para sumar su primer festejo en el Regional Amateur",
+      "volanta": "3 A 0",
+      "date": "2026-09-07T10:34:18+00:00"
+    },
     {
       "id": "dde3bba0",
       "image": "img/dde3bba0.png",
@@ -531,15 +540,6 @@
       "title": "Según Javier Milei, los salarios de trabajadores informales \"están volando\": la exorbitante cifra que brindó",
       "volanta": "ECONOMÍA",
       "date": "2026-09-03T12:57:57+00:00"
-    },
-    {
-      "id": "aaf84e86",
-      "image": "img/aaf84e86.png",
-      "image_sha": "44628d84cc4b16b044fbd063f20f8d55b850c569",
-      "url": "https://www.radiodos.com.ar/213271-persecucion-detuvieron-a-un-ladron-rompevidrios-tras-ser-sorprendido-por-el-dueno-de-un-auto",
-      "title": "Persecución: detuvieron a un ladrón rompevidrios tras ser sorprendido por el dueño de un auto",
-      "volanta": "BARRIO SAN MARTÍN",
-      "date": "2026-09-03T12:13:50+00:00"
     }
   ]
 }
