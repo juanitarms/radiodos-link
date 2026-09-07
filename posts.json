@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T20:38:29+00:00",
+  "updated": "2026-09-07T20:56:01+00:00",
   "posts": [
+    {
+      "id": "bedf9308",
+      "image": "img/bedf9308.png",
+      "image_sha": "c369a2f76534131e71aa957f3623c58f7c1b2a26",
+      "url": "https://www.radiodos.com.ar/213493-transferencias-no-automaticas-corrientes-acumula-36972-millones-en-lo-que-va-del-ano",
+      "title": "Transferencias no automáticas: Corrientes acumula $36.972 millones en lo que va del año",
+      "volanta": "Reparto federal de recursos",
+      "date": "2026-09-07T20:56:01+00:00"
+    },
     {
       "id": "7d740eb3",
       "image": "img/7d740eb3.png",
@@ -531,15 +540,6 @@
       "title": "Malvinas: Afirman que Trump mandó al Congreso de USA un documento sobre las Islas",
       "volanta": "ESPERANDO LA CADENA",
       "date": "2026-09-03T22:13:46+00:00"
-    },
-    {
-      "id": "e5c63239",
-      "image": "img/e5c63239.png",
-      "image_sha": "195a191305838fa70360accd23d94aa05207f9f1",
-      "url": "https://www.radiodos.com.ar/213329-un-choque-multiple-termina-con-un-auto-en-un-canal-de-desague-en-el-interior-de-corrientes",
-      "title": "Un choque múltiple termina con un auto en un canal de desagüe en el interior de Corrientes",
-      "volanta": "ACCESO A SALADAS",
-      "date": "2026-09-03T22:13:00+00:00"
     }
   ]
 }
