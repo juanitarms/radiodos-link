@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T14:57:34+00:00",
+  "updated": "2026-09-07T15:11:02+00:00",
   "posts": [
+    {
+      "id": "4749eadc",
+      "image": "img/4749eadc.png",
+      "image_sha": "f422ba2a47825d86385847c0de3253f4079eedd1",
+      "url": "https://www.radiodos.com.ar/213471-victoria-villarruel-volvio-a-criticar-el-modelo-economico-de-milei-y-reclamo-mejorar-los-salarios",
+      "title": "Victoria Villarruel volvió a criticar el modelo económico de Milei y reclamó \"mejorar los salarios\"",
+      "volanta": "CHIVILCOY",
+      "date": "2026-09-07T15:11:02+00:00"
+    },
     {
       "id": "2aee13bb",
       "image": "img/2aee13bb.png",
@@ -531,15 +540,6 @@
       "title": "Demoran a cinco personas y secuestran cosas de dudosa procedencia en diferentes procedimientos",
       "volanta": "A LA MADRUGADA",
       "date": "2026-09-03T16:46:24+00:00"
-    },
-    {
-      "id": "4139f601",
-      "image": "img/4139f601.png",
-      "image_sha": "9eb6de5392ee9acf2ecba1e4f47e8e7d4b708098",
-      "url": "https://www.radiodos.com.ar/213297-un-alerta-del-fbi-por-consultas-a-una-ia-para-cometer-un-homicidio-termino-en-un-allanamiento-en-una-casa",
-      "title": "Un alerta del FBI por consultas a una IA para cometer un homicidio terminó en un allanamiento en una casa",
-      "volanta": "CHACO",
-      "date": "2026-09-03T16:45:50+00:00"
     }
   ]
 }
