@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T14:15:04+00:00",
+  "updated": "2026-09-07T14:57:34+00:00",
   "posts": [
+    {
+      "id": "2aee13bb",
+      "image": "img/2aee13bb.png",
+      "image_sha": "6554768846a0df6aa7029a1c666bc60a74456d36",
+      "url": "https://www.radiodos.com.ar/213470-derrumbe-en-india-un-edificio-estudiantil-colapso-y-dejo-siete-muertos-en-nueva-delhi",
+      "title": "Derrumbe en India: un edificio estudiantil colapsó y dejó siete muertos en Nueva Delhi",
+      "volanta": "TRAGEDIA",
+      "date": "2026-09-07T14:57:34+00:00"
+    },
     {
       "id": "50e1f894",
       "image": "img/50e1f894.png",
@@ -531,15 +540,6 @@
       "title": "Un alerta del FBI por consultas a una IA para cometer un homicidio terminó en un allanamiento en una casa",
       "volanta": "CHACO",
       "date": "2026-09-03T16:45:50+00:00"
-    },
-    {
-      "id": "9019aa14",
-      "image": "img/9019aa14.png",
-      "image_sha": "7e4ef84e62cf17d2f2cce2d3a2bac5837571d7e0",
-      "url": "https://www.radiodos.com.ar/213298-aguas-de-corrientes-inicio-la-extension-de-2400-metros-de-desagues-cloacales-en-san-luis-del-palmar",
-      "title": "Aguas de Corrientes inició la extensión de 2.400 metros de desagües cloacales en San Luis del Palmar",
-      "volanta": "AMPLIACIÓN",
-      "date": "2026-09-03T16:45:10+00:00"
     }
   ]
 }
