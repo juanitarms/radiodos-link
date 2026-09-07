@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T21:50:38+00:00",
+  "updated": "2026-09-07T23:54:10+00:00",
   "posts": [
+    {
+      "id": "ffcca256",
+      "image": "img/ffcca256.png",
+      "image_sha": "4a4bfd3649cf1eb70d2f8bee77b471383a0e52e1",
+      "url": "https://www.radiodos.com.ar/213500-dos-heridos-tras-el-vuelco-de-una-camioneta",
+      "title": "Dos heridos tras el vuelco de una camioneta",
+      "volanta": "corrientes",
+      "date": "2026-09-07T23:54:10+00:00"
+    },
     {
       "id": "676d5cc4",
       "image": "img/676d5cc4.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés viaja a Puerto Iguazú para exponer en el foro empresarial del IAEF",
       "volanta": "CUMBRE",
       "date": "2026-09-04T10:50:25+00:00"
-    },
-    {
-      "id": "824eddfb",
-      "image": "img/824eddfb.png",
-      "image_sha": "32fea41bebcbc9566e6795f91d3ef97c5000903f",
-      "url": "https://www.radiodos.com.ar/213334-corrientes-conductor-derrapo-y-volco-en-rp-27-cerca-de-lavalle",
-      "title": "Corrientes: conductor derrapó y volcó en RP 27 cerca de Lavalle",
-      "volanta": "ESTA MADRUGADA",
-      "date": "2026-09-04T10:38:37+00:00"
     }
   ]
 }
