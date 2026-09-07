@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T18:25:39+00:00",
+  "updated": "2026-09-07T20:37:01+00:00",
   "posts": [
+    {
+      "id": "b6b4a975",
+      "image": "img/b6b4a975.png",
+      "image_sha": "c605ac726c3f848d92e2b84472a218a83e11dcde",
+      "url": "https://www.radiodos.com.ar/213492-hablo-el-pity-alvarez-en-medio-del-juicio-no-se-me-ve-bien",
+      "title": "Habló el Pity Álvarez en medio del juicio: \"¿No se me ve bien?\"",
+      "volanta": "dudas sobre su estado de salud",
+      "date": "2026-09-07T20:37:01+00:00"
+    },
     {
       "id": "b51d4978",
       "image": "img/b51d4978.png",
@@ -531,15 +540,6 @@
       "title": "Cómo adherirse gratis al TelePASE  y evitar el recargo del 50% en el peaje",
       "volanta": "PUENTE CHACO-CORRIENTES",
       "date": "2026-09-03T21:44:45+00:00"
-    },
-    {
-      "id": "05106e1e",
-      "image": "img/05106e1e.png",
-      "image_sha": "49b93f3f71c41026245475770a7d3ad7ae768be0",
-      "url": "https://www.radiodos.com.ar/213324-los-ministerios-de-salud-y-seguridad-de-corrientes-formalizaron-el-protocolo-de-actuacion-ante-casos-de-suicidio",
-      "title": "Los ministerios de Salud y Seguridad de Corrientes formalizaron el protocolo de actuación ante casos de suicidio",
-      "volanta": "GOBIERNO PROVINCIAL",
-      "date": "2026-09-03T21:22:51+00:00"
     }
   ]
 }
