@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T16:52:06+00:00",
+  "updated": "2026-09-07T18:24:37+00:00",
   "posts": [
+    {
+      "id": "278a62d9",
+      "image": "img/278a62d9.png",
+      "image_sha": "19b9bbb56378c94b7ae964a8f467eae3ac7c2cee",
+      "url": "https://www.radiodos.com.ar/213451-nuevo-logro-en-un-hospital-publico-de-corrientes-salva-la-vida-a-un-recien-nacido",
+      "title": "Nuevo logro en un hospital público de Corrientes salva la vida a un recién nacido",
+      "volanta": "Conocé la hipotermia terapéutica neonatal",
+      "date": "2026-09-07T18:24:37+00:00"
+    },
     {
       "id": "5931b1ad",
       "image": "img/5931b1ad.png",
@@ -531,15 +540,6 @@
       "title": "El Senado dio media sanción al Plan Provincial de Conservación de Grandes Felinos",
       "volanta": "10MA SESIÓN ORDINARIA",
       "date": "2026-09-03T18:57:56+00:00"
-    },
-    {
-      "id": "c2e41b37",
-      "image": "img/c2e41b37.png",
-      "image_sha": "961a6edca1df28db4809d14d4bd72192b1b56d01",
-      "url": "https://www.radiodos.com.ar/213319-dura-critica-de-la-iglesia-a-la-gestion-de-javier-milei-mientras-se-prepara-la-visita-de-leon-xiv-al-pais",
-      "title": "Dura crítica de la Iglesia a la gestión de Javier Milei mientras se prepara la visita de León XIV al país",
-      "volanta": "CRISIS",
-      "date": "2026-09-03T18:57:22+00:00"
     }
   ]
 }
