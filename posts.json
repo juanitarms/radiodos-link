@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T11:36:07+00:00",
+  "updated": "2026-09-07T12:48:48+00:00",
   "posts": [
+    {
+      "id": "cfb37953",
+      "image": "img/cfb37953.png",
+      "image_sha": "541eb9c873a01a6590b13099629019507b5416c7",
+      "url": "https://www.radiodos.com.ar/213458-manana-comienza-el-pago-del-plus-unificado-para-la-administracion-publica",
+      "title": "Mañana comienza el pago del Plus Unificado para la administración pública",
+      "volanta": "GOBIERNO DE LA PROVINCIA",
+      "date": "2026-09-07T12:48:48+00:00"
+    },
     {
       "id": "37d69ab3",
       "image": "img/37d69ab3.png",
@@ -531,15 +540,6 @@
       "title": "\"Quiero que me llame y me diga \"estoy vivo\"\": la desesperación de la madre del joven desaparecido",
       "volanta": "LA PLATA",
       "date": "2026-09-03T14:43:27+00:00"
-    },
-    {
-      "id": "e394d11c",
-      "image": "img/e394d11c.png",
-      "image_sha": "bc326b075bdbc9922d440423575db312ebe61f2c",
-      "url": "https://www.radiodos.com.ar/213285-empleadas-domesticas-el-gobierno-oficializo-subas-mensuales-por-debajo-del-2-hasta-diciembre-proximo",
-      "title": "Empleadas domésticas: el Gobierno oficializó subas mensuales por debajo del 2% hasta diciembre próximo",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-03T14:17:03+00:00"
     }
   ]
 }
