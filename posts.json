@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T11:20:43+00:00",
+  "updated": "2026-09-07T11:36:07+00:00",
   "posts": [
+    {
+      "id": "37d69ab3",
+      "image": "img/37d69ab3.png",
+      "image_sha": "d61d8c25689f1e7d3d6f4af1dc85aeda17b5c906",
+      "url": "https://www.radiodos.com.ar/213446-ciudad-del-interior-de-corrientes-amanecio-tenida-de-blanco-por-heladas",
+      "title": "Ciudad del interior de Corrientes amaneció teñida de blanco por heladas",
+      "volanta": "FIN DEL INVIERNO",
+      "date": "2026-09-07T11:36:07+00:00"
+    },
     {
       "id": "610d53b9",
       "image": "img/610d53b9.png",
@@ -531,15 +540,6 @@
       "title": "Empleadas domésticas: el Gobierno oficializó subas mensuales por debajo del 2% hasta diciembre próximo",
       "volanta": "ECONOMÍA",
       "date": "2026-09-03T14:17:03+00:00"
-    },
-    {
-      "id": "c852b174",
-      "image": "img/c852b174.png",
-      "image_sha": "dc3385b821f02b470ee0f486ff143b4153290162",
-      "url": "https://www.radiodos.com.ar/213294-hablo-el-patinador-agredido-en-la-linea-b-a-la-segunda-vez-que-me-puso-el-pie-me-rompio-el-patin",
-      "title": "Habló el patinador agredido en la Línea B: \"A la segunda vez que me puso el pie me rompió el patín\"",
-      "volanta": "DESUBICADA ACTITUD",
-      "date": "2026-09-03T13:59:43+00:00"
     }
   ]
 }
