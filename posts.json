@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T18:25:09+00:00",
+  "updated": "2026-09-07T18:25:39+00:00",
   "posts": [
+    {
+      "id": "b51d4978",
+      "image": "img/b51d4978.png",
+      "image_sha": "7203460a9e6b5d34dfe21d91847004b6ada57cf5",
+      "url": "https://www.radiodos.com.ar/213453-las-ventas-minoristas-pyme-descendieron-02-interanual-en-agosto",
+      "title": "Las ventas minoristas pyme descendieron 0,2% interanual en agosto",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-09-07T18:25:39+00:00"
+    },
     {
       "id": "b384e29d",
       "image": "img/b384e29d.png",
@@ -531,15 +540,6 @@
       "title": "Los ministerios de Salud y Seguridad de Corrientes formalizaron el protocolo de actuación ante casos de suicidio",
       "volanta": "GOBIERNO PROVINCIAL",
       "date": "2026-09-03T21:22:51+00:00"
-    },
-    {
-      "id": "b37140c0",
-      "image": "img/b37140c0.png",
-      "image_sha": "c79836052d946d79ef4eef2be58adc62084b35fd",
-      "url": "https://www.radiodos.com.ar/213322-detuvieron-en-mendoza-a-la-falsa-perito-que-trabajo-en-la-desaparicion-de-loan-pena",
-      "title": "Detuvieron en Mendoza a la \"falsa perito\" que trabajó en la desaparición de Loan Peña",
-      "volanta": "ADELANTO",
-      "date": "2026-09-03T21:22:18+00:00"
     }
   ]
 }
