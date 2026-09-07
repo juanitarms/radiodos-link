@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T13:55:05+00:00",
+  "updated": "2026-09-07T14:15:04+00:00",
   "posts": [
+    {
+      "id": "50e1f894",
+      "image": "img/50e1f894.png",
+      "image_sha": "3c26a4d6e95dfa095df4af59ea3af42c8cb011ca",
+      "url": "https://www.radiodos.com.ar/213469-velocidad-habilitan-nuevos-radares-en-rutas-de-corrientes",
+      "title": "Velocidad: habilitan nuevos radares en rutas de Corrientes",
+      "volanta": "CONTROL",
+      "date": "2026-09-07T14:15:04+00:00"
+    },
     {
       "id": "44817984",
       "image": "img/44817984.png",
@@ -531,15 +540,6 @@
       "title": "Aguas de Corrientes inició la extensión de 2.400 metros de desagües cloacales en San Luis del Palmar",
       "volanta": "AMPLIACIÓN",
       "date": "2026-09-03T16:45:10+00:00"
-    },
-    {
-      "id": "54381332",
-      "image": "img/54381332.png",
-      "image_sha": "7d289b7b6cb9a1da2b8ac2544045128e60cf93c8",
-      "url": "https://www.radiodos.com.ar/213305-tini-stoessel-rompio-el-silencio-en-pleno-conflicto-con-su-papa-estoy-mas-firme-que-nunca",
-      "title": "Tini Stoessel rompió el silencio en pleno conflicto con su papá: \"Estoy más firme que nunca\"",
-      "volanta": "NO HAY RETORNO",
-      "date": "2026-09-03T15:07:27+00:00"
     }
   ]
 }
