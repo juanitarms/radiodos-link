@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T13:05:32+00:00",
+  "updated": "2026-09-08T13:26:38+00:00",
   "posts": [
+    {
+      "id": "c932ba54",
+      "image": "img/c932ba54.png",
+      "image_sha": "94a3056075b59d7daabe4376b2d9600d5c8c1394",
+      "url": "https://www.radiodos.com.ar/213528-se-cumplen-37-anos-de-la-tragedia-de-los-chamameceros-en-bella-vista",
+      "title": "Se cumplen 37 años de \"la tragedia de los chamameceros\" en Bella Vista",
+      "volanta": "LUTO ETERNO",
+      "date": "2026-09-08T13:26:38+00:00"
+    },
     {
       "id": "a36797f5",
       "image": "img/a36797f5.png",
@@ -531,15 +540,6 @@
       "title": "Las imágenes de Mariano Martínez en Córdoba: su familia sigue sin localizarlo",
       "volanta": "BÚSQUEDA",
       "date": "2026-09-04T15:08:17+00:00"
-    },
-    {
-      "id": "22b96193",
-      "image": "img/22b96193.png",
-      "image_sha": "28aab7b7cc3547ba856b160ec247b149f98c097a",
-      "url": "https://www.radiodos.com.ar/213356-el-vice-del-banco-central-reconocio-que-la-mora-llega-a-su-pico-pero-descarto-la-intervencion-del-estado",
-      "title": "El vice del Banco Central reconoció que la mora llega \"a su pico\" pero descartó la intervención del Estado",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-04T14:44:48+00:00"
     }
   ]
 }
