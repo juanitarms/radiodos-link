@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T18:19:08+00:00",
+  "updated": "2026-09-08T18:19:43+00:00",
   "posts": [
+    {
+      "id": "2ed3192a",
+      "image": "img/2ed3192a.png",
+      "image_sha": "0fdc886a01f303c199ca72f7551016cef68f21b9",
+      "url": "https://www.radiodos.com.ar/213545-violento-arrebato-de-motochorros-a-un-joven-la-fiscal-espera-actuaciones-policiales-para-pedir-la-detencion-de-los-supuestos-autores",
+      "title": "Violento arrebato de motochorros a un joven: La fiscal espera actuaciones policiales para pedir la detención de los supuestos autores",
+      "volanta": "BARRIO SAN BENITO",
+      "date": "2026-09-08T18:19:43+00:00"
+    },
     {
       "id": "5ce0ff6e",
       "image": "img/5ce0ff6e.png",
@@ -531,15 +540,6 @@
       "title": "Pablo Quirno calificó como \"una amenaza\" las empresas petroleras que buscan operar en las Islas Malvinas",
       "volanta": "Conflicto",
       "date": "2026-09-04T21:11:40+00:00"
-    },
-    {
-      "id": "1cb064c3",
-      "image": "img/1cb064c3.png",
-      "image_sha": "c3d6067c3e5c1d050c88a4f47840e61119c7b354",
-      "url": "https://www.radiodos.com.ar/213387-la-pastoral-judicial-advirtio-que-el-nuevo-regimen-penal-juvenil-no-debe-agravar-la-vulnerabilidad-de-los-menores",
-      "title": "La Pastoral Judicial advirtió que el nuevo régimen penal juvenil no debe agravar la vulnerabilidad de los menores",
-      "volanta": "JUSTICIA",
-      "date": "2026-09-04T21:11:06+00:00"
     }
   ]
 }
