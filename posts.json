@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T11:13:45+00:00",
+  "updated": "2026-09-08T11:33:22+00:00",
   "posts": [
+    {
+      "id": "3797d5c2",
+      "image": "img/3797d5c2.png",
+      "image_sha": "c6be6a9fb37b2b2b3ae6a245fac55d4ddfbbb09b",
+      "url": "https://www.radiodos.com.ar/213503-triple-choque-en-ruta-119-dos-personas-quedaron-atrapadas-en-un-auto-y-resultaron-heridas",
+      "title": "Triple choque en Ruta 119: dos personas quedaron atrapadas en un auto y resultaron heridas",
+      "volanta": "CERCA DE CURUZÚ CUATIÁ",
+      "date": "2026-09-08T11:33:22+00:00"
+    },
     {
       "id": "4651775f",
       "image": "img/4651775f.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una mujer que se fue de su casa y no regresó",
       "volanta": "COMISARIA 7MA. URBANA",
       "date": "2026-09-04T12:41:04+00:00"
-    },
-    {
-      "id": "ae879559",
-      "image": "img/ae879559.png",
-      "image_sha": "b995e2f87b95e4a1417c384a6386d5c3fb2b6361",
-      "url": "https://www.radiodos.com.ar/213338-insolito-boca-unidos-y-mandiyu-juegan-en-corrientes-el-mismo-dia-y-en-el-mismo-horario",
-      "title": "Insólito: Boca Unidos y Mandiyú juegan en Corrientes el mismo día y en el mismo horario",
-      "volanta": "AGENDA COMPLICADA",
-      "date": "2026-09-04T12:22:18+00:00"
     }
   ]
 }
