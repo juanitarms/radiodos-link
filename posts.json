@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T20:33:11+00:00",
+  "updated": "2026-09-08T20:58:35+00:00",
   "posts": [
+    {
+      "id": "0b131d72",
+      "image": "img/0b131d72.png",
+      "image_sha": "ee107e93d41bac7839b045d93ca11e53a13f5650",
+      "url": "https://www.radiodos.com.ar/213553-juicio-por-loan-tres-imputados-fueron-atendidos-tras-descomposturas-por-la-comida",
+      "title": "Juicio por Loan: tres imputados fueron atendidos tras descomposturas por la comida",
+      "volanta": "INOPORTUNO",
+      "date": "2026-09-08T20:58:35+00:00"
+    },
     {
       "id": "23fe01cb",
       "image": "img/23fe01cb.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés presentó en Iguazú el modelo correntino para atraer inversiones y generar desarrollo",
       "volanta": "EN MISIONES",
       "date": "2026-09-05T13:14:09+00:00"
-    },
-    {
-      "id": "77117dfa",
-      "image": "img/77117dfa.png",
-      "image_sha": "0763c81b8872d62df6c7aeeb199b63661cd8d1f2",
-      "url": "https://www.radiodos.com.ar/213392-encuesta-javier-milei-conserva-su-piso-electoral-pero-mas-del-50-pide-cambiar-el-rumbo",
-      "title": "Encuesta: Javier Milei conserva su piso electoral, pero más del 50% pide cambiar el rumbo",
-      "volanta": "Comicios 2027",
-      "date": "2026-09-04T22:23:36+00:00"
     }
   ]
 }
