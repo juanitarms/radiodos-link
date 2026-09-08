@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T14:24:41+00:00",
+  "updated": "2026-09-08T14:47:14+00:00",
   "posts": [
+    {
+      "id": "5fc8d399",
+      "image": "img/5fc8d399.png",
+      "image_sha": "2a3263a80754c0f95b1effa16cda35705dac525e",
+      "url": "https://www.radiodos.com.ar/213539-devoto-encontraron-muerto-a-un-hombre-de-74-anos-sobre-las-vias-del-tren-urquiza",
+      "title": "Devoto: encontraron muerto a un hombre de 74 años sobre las vías del Tren Urquiza",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-09-08T14:47:14+00:00"
+    },
     {
       "id": "ac0401be",
       "image": "img/ac0401be.png",
@@ -531,15 +540,6 @@
       "title": "Franco Colapinto rompió el silencio tras renovar con Alpine: \"Obviamente me lo merecía\"",
       "volanta": "FÓRMULA 1",
       "date": "2026-09-04T17:28:52+00:00"
-    },
-    {
-      "id": "de2b7a8d",
-      "image": "img/de2b7a8d.png",
-      "image_sha": "dfa3b6e7f282fd2aafd2e14a5775831db8372dca",
-      "url": "https://www.radiodos.com.ar/213367-este-fin-de-semana-se-juega-la-quinta-fecha-de-la-liga-provincial-de-mayores-2026",
-      "title": "Este fin de semana se juega la quinta fecha de la Liga Provincial de Mayores 2026",
-      "volanta": "BÁSQUET LOCAL",
-      "date": "2026-09-04T17:28:18+00:00"
     }
   ]
 }
