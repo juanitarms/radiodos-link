@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:56:54+00:00",
+  "updated": "2026-09-08T21:57:22+00:00",
   "posts": [
+    {
+      "id": "8408efb6",
+      "image": "img/8408efb6.png",
+      "image_sha": "3846e7b16e957940abf9f9d537eb6f7ba48fd9da",
+      "url": "https://www.radiodos.com.ar/213558-delincuentes-violentaron-un-comercio-y-sustrajeron-prendas-por-medio-millon-de-pesos",
+      "title": "Delincuentes violentaron un comercio y sustrajeron prendas por medio millón de pesos",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-09-08T21:57:22+00:00"
+    },
     {
       "id": "b13d004b",
       "image": "img/b13d004b.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni apareció en el GP de Italia de Fórmula 1: \"Ahora estoy disfrutando\"",
       "volanta": "ITALIA",
       "date": "2026-09-06T20:53:44+00:00"
-    },
-    {
-      "id": "d60bbece",
-      "image": "img/d60bbece.png",
-      "image_sha": "921cabad58c86a1d0f520441680cdb7295b72653",
-      "url": "https://www.radiodos.com.ar/213430-una-escuela-correntina-prohibe-el-uso-de-los-celulares-en-las-aulas",
-      "title": "Una escuela correntina prohíbe el uso de los celulares en las aulas",
-      "volanta": "NORMAL DE GOYA",
-      "date": "2026-09-06T20:53:07+00:00"
     }
   ]
 }
