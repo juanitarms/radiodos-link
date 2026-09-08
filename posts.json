@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T11:12:57+00:00",
+  "updated": "2026-09-08T11:13:45+00:00",
   "posts": [
+    {
+      "id": "4651775f",
+      "image": "img/4651775f.png",
+      "image_sha": "491a42391b7fa4cc72750c3aca072b3c584aae14",
+      "url": "https://www.radiodos.com.ar/213502-disponen-liberacion-de-los-acusados-de-apunalar-a-un-adolescente-para-robarle-la-mochila",
+      "title": "Disponen liberación de los acusados de apuñalar a un adolescente para robarle la mochila",
+      "volanta": "DETENIDOS AYER",
+      "date": "2026-09-08T11:13:45+00:00"
+    },
     {
       "id": "85f84b1c",
       "image": "img/85f84b1c.png",
@@ -531,15 +540,6 @@
       "title": "Insólito: Boca Unidos y Mandiyú juegan en Corrientes el mismo día y en el mismo horario",
       "volanta": "AGENDA COMPLICADA",
       "date": "2026-09-04T12:22:18+00:00"
-    },
-    {
-      "id": "1cff261d",
-      "image": "img/1cff261d.png",
-      "image_sha": "fa3ce280a0e60267e9e850d14d8a1cdf17bd0a11",
-      "url": "https://www.radiodos.com.ar/213335-el-corte-en-ruta-14-en-el-limite-entre-corrientes-y-misiones-sera-por-al-menos-un-mes",
-      "title": "El corte en ruta 14 en el límite entre Corrientes y Misiones será por al menos un mes",
-      "volanta": "DESVIOS",
-      "date": "2026-09-04T11:26:07+00:00"
     }
   ]
 }
