@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:30:06+00:00",
+  "updated": "2026-09-08T21:30:36+00:00",
   "posts": [
+    {
+      "id": "a2803764",
+      "image": "img/a2803764.png",
+      "image_sha": "5b79232bcaa622949de726186f4efd6bb1c6eb70",
+      "url": "https://www.radiodos.com.ar/213554-juan-pablo-valdes-anuncio-que-el-litio-de-jujuy-saldra-por-puertos-correntinos",
+      "title": "Juan Pablo Valdés anunció que el litio de Jujuy saldrá por puertos correntinos",
+      "volanta": "DESARROLLO FEDERAL",
+      "date": "2026-09-08T21:30:36+00:00"
+    },
     {
       "id": "dd2bc41f",
       "image": "img/dd2bc41f.png",
@@ -531,15 +540,6 @@
       "title": "Colapinto terminó noveno en el Gran Premio de Italia y sumó dos puntos para Alpine",
       "volanta": "fórmula 1",
       "date": "2026-09-06T16:43:30+00:00"
-    },
-    {
-      "id": "e3f724ab",
-      "image": "img/e3f724ab.png",
-      "image_sha": "e4ae0836d3d444c40b54ac38e0458b418c618122",
-      "url": "https://www.radiodos.com.ar/213429-huyeron-de-un-intento-de-robo-y-a-la-hora-cometieron-otro-delito",
-      "title": "Huyeron de un intento de robo y a la hora cometieron otro delito",
-      "volanta": "En la zona sur de la capital provincial",
-      "date": "2026-09-06T14:46:00+00:00"
     }
   ]
 }
