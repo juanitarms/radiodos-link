@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-07T23:54:10+00:00",
+  "updated": "2026-09-08T11:12:57+00:00",
   "posts": [
+    {
+      "id": "85f84b1c",
+      "image": "img/85f84b1c.png",
+      "image_sha": "5a01cde37c5c93b68f08a65d6c1b309614a48ff3",
+      "url": "https://www.radiodos.com.ar/213501-corrientes-detuvieron-a-los-motochorros-que-hirieron-a-un-estudiante-para-robarle",
+      "title": "Corrientes: detuvieron a los motochorros que hirieron a un estudiante para robarle",
+      "volanta": "BARRIO SAN BENITO",
+      "date": "2026-09-08T11:12:57+00:00"
+    },
     {
       "id": "ffcca256",
       "image": "img/ffcca256.png",
@@ -531,15 +540,6 @@
       "title": "El corte en ruta 14 en el límite entre Corrientes y Misiones será por al menos un mes",
       "volanta": "DESVIOS",
       "date": "2026-09-04T11:26:07+00:00"
-    },
-    {
-      "id": "da3307d1",
-      "image": "img/da3307d1.png",
-      "image_sha": "68da97b49a54717a4d2c5ca7fef3272282722813",
-      "url": "https://www.radiodos.com.ar/213333-juan-pablo-valdes-viaja-a-puerto-iguazu-para-exponer-en-el-foro-empresarial-del-iaef",
-      "title": "Juan Pablo Valdés viaja a Puerto Iguazú para exponer en el foro empresarial del IAEF",
-      "volanta": "CUMBRE",
-      "date": "2026-09-04T10:50:25+00:00"
     }
   ]
 }
