@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T13:26:38+00:00",
+  "updated": "2026-09-08T13:42:17+00:00",
   "posts": [
+    {
+      "id": "fcd03b9c",
+      "image": "img/fcd03b9c.png",
+      "image_sha": "2393647ea86491ee9f2e1b52cc3b0601b4825930",
+      "url": "https://www.radiodos.com.ar/213532-los-dias-11-y-21-de-septiembre-no-habra-clases-en-corrientes",
+      "title": "Los días 11 y 21 de septiembre no habrá clases en Corrientes",
+      "volanta": "SIN ACTIVIDAD ESCOLAR",
+      "date": "2026-09-08T13:42:17+00:00"
+    },
     {
       "id": "c932ba54",
       "image": "img/c932ba54.png",
@@ -531,15 +540,6 @@
       "title": "\"El arte de fracasar\": Alex Segovia y Amanda Buneta llegan a Corrientes",
       "volanta": "TEATRO",
       "date": "2026-09-04T16:45:56+00:00"
-    },
-    {
-      "id": "49338997",
-      "image": "img/49338997.png",
-      "image_sha": "21cf5bdc46d4f08d4d8588dafaf54437227882a8",
-      "url": "https://www.radiodos.com.ar/213354-las-imagenes-de-mariano-martinez-en-cordoba-su-familia-sigue-sin-localizarlo",
-      "title": "Las imágenes de Mariano Martínez en Córdoba: su familia sigue sin localizarlo",
-      "volanta": "BÚSQUEDA",
-      "date": "2026-09-04T15:08:17+00:00"
     }
   ]
 }
