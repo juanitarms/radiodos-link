@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T12:54:01+00:00",
+  "updated": "2026-09-08T13:05:32+00:00",
   "posts": [
+    {
+      "id": "a36797f5",
+      "image": "img/a36797f5.png",
+      "image_sha": "fa534ace6766af5a2478e2bf571c6c6b519c3d5e",
+      "url": "https://www.radiodos.com.ar/213526-covid-19-detectaron-en-la-argentina-los-primeros-tres-casos-de-la-variante-ba32",
+      "title": "Covid-19: detectaron en la Argentina los primeros tres casos de la variante BA.3.2",
+      "volanta": "ALERTA",
+      "date": "2026-09-08T13:05:32+00:00"
+    },
     {
       "id": "d9d0f495",
       "image": "img/d9d0f495.png",
@@ -531,15 +540,6 @@
       "title": "El vice del Banco Central reconoció que la mora llega \"a su pico\" pero descartó la intervención del Estado",
       "volanta": "ECONOMÍA",
       "date": "2026-09-04T14:44:48+00:00"
-    },
-    {
-      "id": "d89786af",
-      "image": "img/d89786af.png",
-      "image_sha": "7f0dd191f27e9b0abefbf3628e9af3d628bfccc5",
-      "url": "https://www.radiodos.com.ar/213359-wanda-nara-movio-una-ficha-y-mauro-icardi-volvio-a-ver-a-sus-hijas-tras-dos-meses-lo-convencio",
-      "title": "Wanda Nara movió una ficha y Mauro Icardi volvió a ver a sus hijas tras dos meses: \"Lo convenció\"",
-      "volanta": "FIRMÓ LA PAZ",
-      "date": "2026-09-04T14:28:30+00:00"
     }
   ]
 }
