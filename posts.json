@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T12:11:08+00:00",
+  "updated": "2026-09-08T12:31:58+00:00",
   "posts": [
+    {
+      "id": "699a8e22",
+      "image": "img/699a8e22.png",
+      "image_sha": "b5da3afe196bdb011c8e28cfadd99c1a9dc8f8ca",
+      "url": "https://www.radiodos.com.ar/213506-acusan-a-una-docente-de-haber-prendido-fuego-el-auto-de-un-trabajador-judicial",
+      "title": "Acusan a una docente de haber prendido fuego el auto de un trabajador judicial",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-09-08T12:31:58+00:00"
+    },
     {
       "id": "095df957",
       "image": "img/095df957.png",
@@ -531,15 +540,6 @@
       "title": "Tiene 14 años y creó un dispositivo que permite a personas sordas \"sentir\" el canto de las aves",
       "volanta": "Inclusión",
       "date": "2026-09-04T13:58:23+00:00"
-    },
-    {
-      "id": "37be517c",
-      "image": "img/37be517c.png",
-      "image_sha": "e2aefd6444355023e9d3ed6b00d7ac61595c5664",
-      "url": "https://www.radiodos.com.ar/213353-detuvieron-a-una-mujer-que-ocultaba-mas-de-54-kilos-de-droga-en-peluches-de-carpinchos",
-      "title": "Detuvieron a una mujer que ocultaba más de 54 kilos de droga en peluches de carpinchos",
-      "volanta": "Catamarca",
-      "date": "2026-09-04T13:38:10+00:00"
     }
   ]
 }
