@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T15:05:35+00:00",
+  "updated": "2026-09-08T16:20:02+00:00",
   "posts": [
+    {
+      "id": "ae307caf",
+      "image": "img/ae307caf.png",
+      "image_sha": "92cbd3729b26e17fe517d1d8e04cd7b4ecc9b064",
+      "url": "https://www.radiodos.com.ar/213541-con-turismo-produccion-e-innovacion-se-realizo-la-expo-ibera",
+      "title": "Con turismo, producción e innovación, se realizó la Expo Iberá",
+      "volanta": "Apostando a los Emprendedores",
+      "date": "2026-09-08T16:20:02+00:00"
+    },
     {
       "id": "0ad061de",
       "image": "img/0ad061de.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: audaces sobrinos le robaron las ovejas al tío",
       "volanta": "EN VIRASORO",
       "date": "2026-09-04T20:59:36+00:00"
-    },
-    {
-      "id": "c0eb9c10",
-      "image": "img/c0eb9c10.png",
-      "image_sha": "d969744e9a857d51ef03acbb79718e04b3c90ba8",
-      "url": "https://www.radiodos.com.ar/213370-presentaron-oficialmente-la-expo-ibera-en-el-paseo-de-emprendedores",
-      "title": "Presentaron oficialmente la Expo Iberá en el Paseo de Emprendedores",
-      "volanta": "Corrientes",
-      "date": "2026-09-04T17:29:22+00:00"
     }
   ]
 }
