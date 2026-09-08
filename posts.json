@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:00:50+00:00",
+  "updated": "2026-09-08T21:09:00+00:00",
   "posts": [
+    {
+      "id": "a8ae1658",
+      "image": "img/a8ae1658.png",
+      "image_sha": "0388649132703441bcc37a69a194e8995716ca79",
+      "url": "https://www.radiodos.com.ar/213555-en-caba-tassano-diserto-sobre-la-tarea-de-modernizacion-que-lleva-adelante-en-corrientes",
+      "title": "En CABA, Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
+      "volanta": "EN LA LEGISLATURA",
+      "date": "2026-09-08T21:09:00+00:00"
+    },
     {
       "id": "3cbd55d9",
       "image": "img/3cbd55d9.png",
@@ -531,15 +540,6 @@
       "title": "Murió una nena de 6 años en un incendio",
       "volanta": "Tragedia en Berisso",
       "date": "2026-09-06T14:13:46+00:00"
-    },
-    {
-      "id": "a7c5e2c8",
-      "image": "img/a7c5e2c8.png",
-      "image_sha": "07f15382da43fd8aa758e4e212e0e623c34b1b0f",
-      "url": "https://www.radiodos.com.ar/213428-robaron-los-canos-de-bronce-de-los-aires-acondicionados-de-una-escuela-de-corrientes",
-      "title": "Robaron los caños de bronce de los aires acondicionados de una escuela de Corrientes",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-09-06T13:34:25+00:00"
     }
   ]
 }
