@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:56:03+00:00",
+  "updated": "2026-09-08T21:56:54+00:00",
   "posts": [
+    {
+      "id": "b13d004b",
+      "image": "img/b13d004b.png",
+      "image_sha": "fce2ecb8f546611a2b10b0f096323b4132590e02",
+      "url": "https://www.radiodos.com.ar/213559-regatas-presento-su-plantel-para-la-temporada-2026-2027",
+      "title": "Regatas presentó su plantel para la temporada 2026/2027",
+      "volanta": "LIGA NACIONAL",
+      "date": "2026-09-08T21:56:54+00:00"
+    },
     {
       "id": "ebda2a10",
       "image": "img/ebda2a10.png",
@@ -531,15 +540,6 @@
       "title": "Una escuela correntina prohíbe el uso de los celulares en las aulas",
       "volanta": "NORMAL DE GOYA",
       "date": "2026-09-06T20:53:07+00:00"
-    },
-    {
-      "id": "89181ff6",
-      "image": "img/89181ff6.png",
-      "image_sha": "dd349cc9e486683527a9641d2aecc9764b3ac8da",
-      "url": "https://www.radiodos.com.ar/213434-con-buena-participacion-concluyo-el-provincial-de-feria-de-ciencias",
-      "title": "Con buena participación concluyó el provincial de Feria de Ciencias",
-      "volanta": "Saldo positivo",
-      "date": "2026-09-06T16:44:11+00:00"
     }
   ]
 }
