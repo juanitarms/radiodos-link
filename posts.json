@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T18:20:18+00:00",
+  "updated": "2026-09-08T18:20:50+00:00",
   "posts": [
+    {
+      "id": "f06cb97c",
+      "image": "img/f06cb97c.png",
+      "image_sha": "e07d82be7b217f11c5fb34bd3d3383d6bc14bda2",
+      "url": "https://www.radiodos.com.ar/213547-curuzu-cuatia-confirmo-su-carnaval-2027-sera-en-enero-y-febrero-con-cinco-noches",
+      "title": "Curuzú Cuatiá confirmó su carnaval 2027: será en enero y febrero con cinco noches",
+      "volanta": "FIESTA DE MOMO",
+      "date": "2026-09-08T18:20:50+00:00"
+    },
     {
       "id": "73fcfbd5",
       "image": "img/73fcfbd5.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a un excomisario por fraude a la administración pública y malversación",
       "volanta": "CORRIENTES",
       "date": "2026-09-04T21:57:59+00:00"
-    },
-    {
-      "id": "e66691b5",
-      "image": "img/e66691b5.png",
-      "image_sha": "24bac73002d54ae4e4d0bc328da2bb31184d437a",
-      "url": "https://www.radiodos.com.ar/213385-una-escuela-del-interior-de-corrientes-prohibira-el-celular-desde-el-lunes",
-      "title": "Una escuela del interior de Corrientes prohibirá el celular desde el lunes",
-      "volanta": "MEDIDA POLÉMICA",
-      "date": "2026-09-04T21:12:10+00:00"
     }
   ]
 }
