@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T20:59:53+00:00",
+  "updated": "2026-09-08T21:00:50+00:00",
   "posts": [
+    {
+      "id": "3cbd55d9",
+      "image": "img/3cbd55d9.png",
+      "image_sha": "fd701f47d469249c4e18a932ca2d4a993de9b294",
+      "url": "https://www.radiodos.com.ar/213550-corrientes-logro-su-mayor-nivel-de-exportaciones-semestrales-en-una-decada",
+      "title": "Corrientes logró su mayor nivel de exportaciones semestrales en una década",
+      "volanta": "Crecimiento récord",
+      "date": "2026-09-08T21:00:50+00:00"
+    },
     {
       "id": "a047bb29",
       "image": "img/a047bb29.png",
@@ -531,15 +540,6 @@
       "title": "Robaron los caños de bronce de los aires acondicionados de una escuela de Corrientes",
       "volanta": "INSEGURIDAD",
       "date": "2026-09-06T13:34:25+00:00"
-    },
-    {
-      "id": "1e9e1079",
-      "image": "img/1e9e1079.png",
-      "image_sha": "0cebb6b8745939c0beacdfddab859d0f8be81a44",
-      "url": "https://www.radiodos.com.ar/213427-la-justicia-inhibio-los-bienes-musimundo-para-pagar-sus-deudas",
-      "title": "La Justicia inhibió los bienes Musimundo para pagar sus deudas",
-      "volanta": "Quiebra de la empresa chaqueÑa",
-      "date": "2026-09-06T13:18:36+00:00"
     }
   ]
 }
