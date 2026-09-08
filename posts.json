@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T20:58:35+00:00",
+  "updated": "2026-09-08T20:59:21+00:00",
   "posts": [
+    {
+      "id": "cbeda188",
+      "image": "img/cbeda188.png",
+      "image_sha": "29dc86c5c65acf9a924495e392315acdae6127a3",
+      "url": "https://www.radiodos.com.ar/213552-con-turismo-produccion-e-innovacion-se-realizo-la-expo-ibera",
+      "title": "Con turismo, producción e innovación, se realizó la Expo Iberá",
+      "volanta": "CONCEPCIÓN DEL YAGUARETÉ CORÁ",
+      "date": "2026-09-08T20:59:21+00:00"
+    },
     {
       "id": "0b131d72",
       "image": "img/0b131d72.png",
@@ -531,15 +540,6 @@
       "title": "Violencia de género: preso tras incumplir orden judicial y volver a agredir a su expareja",
       "volanta": "EMPEDRADO",
       "date": "2026-09-05T15:37:42+00:00"
-    },
-    {
-      "id": "23aab7ad",
-      "image": "img/23aab7ad.png",
-      "image_sha": "b20ed842e816ffb6751644ad75cf4fa9a519ac2c",
-      "url": "https://www.radiodos.com.ar/213394-el-gobernador-jp-valdes-presento-en-iguazu-el-modelo-correntino-para-atraer-inversiones-y-generar-desarrollo",
-      "title": "El gobernador JP Valdés presentó en Iguazú el modelo correntino para atraer inversiones y generar desarrollo",
-      "volanta": "EN MISIONES",
-      "date": "2026-09-05T13:14:09+00:00"
     }
   ]
 }
