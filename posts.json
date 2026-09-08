@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:30:36+00:00",
+  "updated": "2026-09-08T21:56:03+00:00",
   "posts": [
+    {
+      "id": "ebda2a10",
+      "image": "img/ebda2a10.png",
+      "image_sha": "5d8e9b406605e7d8bb276eb3d1ad9f90609d0065",
+      "url": "https://www.radiodos.com.ar/213557-corrientes-hallaron-el-cuerpo-del-pescador-que-desaparecio-en-el-rio-parana",
+      "title": "Corrientes: hallaron el cuerpo del pescador que desapareció en el río Paraná",
+      "volanta": "TRAGEDIA",
+      "date": "2026-09-08T21:56:03+00:00"
+    },
     {
       "id": "a2803764",
       "image": "img/a2803764.png",
@@ -531,15 +540,6 @@
       "title": "Con buena participación concluyó el provincial de Feria de Ciencias",
       "volanta": "Saldo positivo",
       "date": "2026-09-06T16:44:11+00:00"
-    },
-    {
-      "id": "5a134a87",
-      "image": "img/5a134a87.png",
-      "image_sha": "6f9e0b4149aceeb991ce5aabb99909d55ea3abd0",
-      "url": "https://www.radiodos.com.ar/213435-colapinto-termino-noveno-en-el-gran-premio-de-italia-y-sumo-dos-puntos-para-alpine",
-      "title": "Colapinto terminó noveno en el Gran Premio de Italia y sumó dos puntos para Alpine",
-      "volanta": "fórmula 1",
-      "date": "2026-09-06T16:43:30+00:00"
     }
   ]
 }
