@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T20:59:21+00:00",
+  "updated": "2026-09-08T20:59:53+00:00",
   "posts": [
+    {
+      "id": "a047bb29",
+      "image": "img/a047bb29.png",
+      "image_sha": "ea08c066c2c77d84062b3927090267b8eed75423",
+      "url": "https://www.radiodos.com.ar/213551-corrientes-mas-de-150-personas-se-capacitaron-en-el-uso-seguro-del-fuego-para-prevenir-incendios",
+      "title": "Corrientes: más de 150 personas se capacitaron en el uso seguro del fuego para prevenir incendios",
+      "volanta": "PREVENCIÓN Y MANEJO DEL FUEGO",
+      "date": "2026-09-08T20:59:53+00:00"
+    },
     {
       "id": "cbeda188",
       "image": "img/cbeda188.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia inhibió los bienes Musimundo para pagar sus deudas",
       "volanta": "Quiebra de la empresa chaqueÑa",
       "date": "2026-09-06T13:18:36+00:00"
-    },
-    {
-      "id": "bc632702",
-      "image": "img/bc632702.png",
-      "image_sha": "fa2abe478fbbc91e23a033a0d221e16efc791180",
-      "url": "https://www.radiodos.com.ar/213402-violencia-de-genero-preso-tras-incumplir-orden-judicial-y-volver-a-agredir-a-su-expareja",
-      "title": "Violencia de género: preso tras incumplir orden judicial y volver a agredir a su expareja",
-      "volanta": "EMPEDRADO",
-      "date": "2026-09-05T15:37:42+00:00"
     }
   ]
 }
