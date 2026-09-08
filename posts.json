@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T18:21:21+00:00",
+  "updated": "2026-09-08T20:33:11+00:00",
   "posts": [
+    {
+      "id": "23fe01cb",
+      "image": "img/23fe01cb.png",
+      "image_sha": "401b57f19909677c1fc52405e3c389aa5a00bac1",
+      "url": "https://www.radiodos.com.ar/213549-la-industria-se-desplomo-un-5-en-julio-y-no-da-senales-de-recuperacion",
+      "title": "La industria se desplomó un 5% en julio y no da señales de recuperación",
+      "volanta": "crisis",
+      "date": "2026-09-08T20:33:11+00:00"
+    },
     {
       "id": "bf7ab533",
       "image": "img/bf7ab533.png",
@@ -531,15 +540,6 @@
       "title": "Encuesta: Javier Milei conserva su piso electoral, pero más del 50% pide cambiar el rumbo",
       "volanta": "Comicios 2027",
       "date": "2026-09-04T22:23:36+00:00"
-    },
-    {
-      "id": "66d52ad5",
-      "image": "img/66d52ad5.png",
-      "image_sha": "1ee1c99db5ab952a4f00667ae02edea543c02f15",
-      "url": "https://www.radiodos.com.ar/213391-el-20-encuentro-de-educadores-catolicos-en-corrientes-trato-sobre-la-ultima-enciclica-papal-sobre-inteligencia-artificial",
-      "title": "El 20º Encuentro de Educadores Católicos en Corrientes trató sobre  la última encíclica papal sobre inteligencia artificial",
-      "volanta": "JORNADA DE REFLEXION",
-      "date": "2026-09-04T22:23:03+00:00"
     }
   ]
 }
