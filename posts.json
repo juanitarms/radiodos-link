@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T18:19:43+00:00",
+  "updated": "2026-09-08T18:20:18+00:00",
   "posts": [
+    {
+      "id": "73fcfbd5",
+      "image": "img/73fcfbd5.png",
+      "image_sha": "4042908965c25423dcb1565c574bed5a8e7d90be",
+      "url": "https://www.radiodos.com.ar/213546-tassano-diserto-sobre-la-tarea-de-modernizacion-que-lleva-adelante-en-corrientes",
+      "title": "Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
+      "volanta": "En Legislatura CABA",
+      "date": "2026-09-08T18:20:18+00:00"
+    },
     {
       "id": "2ed3192a",
       "image": "img/2ed3192a.png",
@@ -531,15 +540,6 @@
       "title": "Una escuela del interior de Corrientes prohibirá el celular desde el lunes",
       "volanta": "MEDIDA POLÉMICA",
       "date": "2026-09-04T21:12:10+00:00"
-    },
-    {
-      "id": "e7fc1299",
-      "image": "img/e7fc1299.png",
-      "image_sha": "5704b451a33757a2e6a6c333bdf73d7208ba7932",
-      "url": "https://www.radiodos.com.ar/213386-pablo-quirno-califico-como-una-amenaza-las-empresas-petroleras-que-buscan-operar-en-las-islas-malvinas",
-      "title": "Pablo Quirno calificó como \"una amenaza\" las empresas petroleras que buscan operar en las Islas Malvinas",
-      "volanta": "Conflicto",
-      "date": "2026-09-04T21:11:40+00:00"
     }
   ]
 }
