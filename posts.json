@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T12:31:58+00:00",
+  "updated": "2026-09-08T12:54:01+00:00",
   "posts": [
+    {
+      "id": "d9d0f495",
+      "image": "img/d9d0f495.png",
+      "image_sha": "5cdbbfaf4dc9ea2a4565e1f647fd70f2793a7b1f",
+      "url": "https://www.radiodos.com.ar/213518-la-mesa-politica-del-gobierno-se-renune-este-martes-para-tratar-el-tema-de-las-islas-malvinas",
+      "title": "La Mesa Política del Gobierno se renúne este martes para tratar el tema de las Islas Malvinas",
+      "volanta": "IMPORTANTE",
+      "date": "2026-09-08T12:54:01+00:00"
+    },
     {
       "id": "699a8e22",
       "image": "img/699a8e22.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara movió una ficha y Mauro Icardi volvió a ver a sus hijas tras dos meses: \"Lo convenció\"",
       "volanta": "FIRMÓ LA PAZ",
       "date": "2026-09-04T14:28:30+00:00"
-    },
-    {
-      "id": "4020f683",
-      "image": "img/4020f683.png",
-      "image_sha": "d648eae9bdea7185458429d76364b60bc75a4f26",
-      "url": "https://www.radiodos.com.ar/213355-tiene-14-anos-y-creo-un-dispositivo-que-permite-a-personas-sordas-sentir-el-canto-de-las-aves",
-      "title": "Tiene 14 años y creó un dispositivo que permite a personas sordas \"sentir\" el canto de las aves",
-      "volanta": "Inclusión",
-      "date": "2026-09-04T13:58:23+00:00"
     }
   ]
 }
