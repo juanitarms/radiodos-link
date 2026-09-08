@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T18:20:50+00:00",
+  "updated": "2026-09-08T18:21:21+00:00",
   "posts": [
+    {
+      "id": "bf7ab533",
+      "image": "img/bf7ab533.png",
+      "image_sha": "b84ea3543cd5f919d7254f252fcceaeaaa0735af",
+      "url": "https://www.radiodos.com.ar/213548-laudelina-pena-no-se-donde-esta-loan-los-unicos-que-podrian-saber-son-millapi-ramirez-y-benitez",
+      "title": "Laudelina Peña: \"No sé dónde está Loan los únicos que podrían saber son Millapi, Ramírez y Benítez\"",
+      "volanta": "JUICIO",
+      "date": "2026-09-08T18:21:21+00:00"
+    },
     {
       "id": "f06cb97c",
       "image": "img/f06cb97c.png",
@@ -531,15 +540,6 @@
       "title": "El 20º Encuentro de Educadores Católicos en Corrientes trató sobre  la última encíclica papal sobre inteligencia artificial",
       "volanta": "JORNADA DE REFLEXION",
       "date": "2026-09-04T22:23:03+00:00"
-    },
-    {
-      "id": "ffbb09b8",
-      "image": "img/ffbb09b8.png",
-      "image_sha": "2a1769fa93241551652b00a2c7bb5f5d6353210d",
-      "url": "https://www.radiodos.com.ar/213389-condenaron-a-un-excomisario-por-fraude-a-la-administracion-publica-y-malversacion",
-      "title": "Condenaron a un excomisario por fraude a la administración pública y malversación",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-04T21:57:59+00:00"
     }
   ]
 }
