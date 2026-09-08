@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T16:20:38+00:00",
+  "updated": "2026-09-08T16:21:15+00:00",
   "posts": [
+    {
+      "id": "96aa6929",
+      "image": "img/96aa6929.png",
+      "image_sha": "0b860b622f27616d823dcfc967a894a4b14626ab",
+      "url": "https://www.radiodos.com.ar/213543-video-asi-retiraron-la-camioneta-que-provoco-destrozos-en-pampa-del-leoncito",
+      "title": "Video: así retiraron la camioneta que provocó destrozos en Pampa del Leoncito",
+      "volanta": "SAN JUAN",
+      "date": "2026-09-08T16:21:15+00:00"
+    },
     {
       "id": "d63a7962",
       "image": "img/d63a7962.png",
@@ -531,15 +540,6 @@
       "title": "Vandalismo en plazas de Corrientes: destrozan luminarias y ponen en riesgo a los vecinos",
       "volanta": "DEPLORABLE",
       "date": "2026-09-04T21:10:33+00:00"
-    },
-    {
-      "id": "d950e61f",
-      "image": "img/d950e61f.png",
-      "image_sha": "8aea0a3c4556f497e6201b56c871c20081361f44",
-      "url": "https://www.radiodos.com.ar/213384-productores-y-organizaciones-sociales-se-movilizan-contra-milei-en-puerto-iguazu",
-      "title": "Productores y organizaciones sociales se movilizan contra Milei en Puerto Iguazú",
-      "volanta": "COMPLICACIONES",
-      "date": "2026-09-04T21:09:57+00:00"
     }
   ]
 }
