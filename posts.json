@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T21:57:22+00:00",
+  "updated": "2026-09-08T22:03:21+00:00",
   "posts": [
+    {
+      "id": "c2067da9",
+      "image": "img/c2067da9.png",
+      "image_sha": "ab0c53b9e0a579e9477ffcd70d4c637b660d843e",
+      "url": "https://www.radiodos.com.ar/213560-las-murcielagas-vencieron-a-brasil-y-son-campeonas-de-la-primera-copa-america",
+      "title": "Las Murciélagas vencieron a Brasil y son campeonas de la primera Copa América",
+      "volanta": "HICIERON HISTORIA",
+      "date": "2026-09-08T22:03:21+00:00"
+    },
     {
       "id": "8408efb6",
       "image": "img/8408efb6.png",
@@ -531,15 +540,6 @@
       "title": "Qué pasa entre La Joaqui y Tiago PZK: la foto que los muestra juntos tras la ruptura de la artista con Luck Ra",
       "volanta": "SORPRESA",
       "date": "2026-09-06T22:28:53+00:00"
-    },
-    {
-      "id": "cd3b0e3e",
-      "image": "img/cd3b0e3e.png",
-      "image_sha": "858cb19ed9d1d6bb6f4f35b1aac3b1862e2ef1bb",
-      "url": "https://www.radiodos.com.ar/213433-scaloni-aparecio-en-el-gp-de-italia-de-formula-1-ahora-estoy-disfrutando",
-      "title": "Scaloni apareció en el GP de Italia de Fórmula 1: \"Ahora estoy disfrutando\"",
-      "volanta": "ITALIA",
-      "date": "2026-09-06T20:53:44+00:00"
     }
   ]
 }
