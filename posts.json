@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T14:01:02+00:00",
+  "updated": "2026-09-09T14:25:18+00:00",
   "posts": [
+    {
+      "id": "68bc57b7",
+      "image": "img/68bc57b7.png",
+      "image_sha": "f2632ca959c154311f73fc0f14035e57bd4c65f8",
+      "url": "https://www.radiodos.com.ar/213584-luis-caputo-a-estudiantes-universitarios-convenzan-a-sus-padres-de-que-saquen-los-dolares-del-colchon",
+      "title": "Luis Caputo a estudiantes universitarios: \"Convenzan a sus padres de que saquen los dólares del colchón\"",
+      "volanta": "PEDIDO",
+      "date": "2026-09-09T14:25:18+00:00"
+    },
     {
       "id": "e8a11726",
       "image": "img/e8a11726.png",
@@ -531,15 +540,6 @@
       "title": "Derrumbe en India: un edificio estudiantil colapsó y dejó siete muertos en Nueva Delhi",
       "volanta": "TRAGEDIA",
       "date": "2026-09-07T14:57:34+00:00"
-    },
-    {
-      "id": "50e1f894",
-      "image": "img/50e1f894.png",
-      "image_sha": "3c26a4d6e95dfa095df4af59ea3af42c8cb011ca",
-      "url": "https://www.radiodos.com.ar/213469-velocidad-habilitan-nuevos-radares-en-rutas-de-corrientes",
-      "title": "Velocidad: habilitan nuevos radares en rutas de Corrientes",
-      "volanta": "CONTROL",
-      "date": "2026-09-07T14:15:04+00:00"
     }
   ]
 }
