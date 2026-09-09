@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:15:19+00:00",
+  "updated": "2026-09-09T21:56:03+00:00",
   "posts": [
+    {
+      "id": "4350baa7",
+      "image": "img/4350baa7.png",
+      "image_sha": "02a482aa8b34a4c21d20e24cc8bd672723680950",
+      "url": "https://www.radiodos.com.ar/213612-el-programa-la-muni-en-tu-barrio-acerco-controles-vacunas-y-medicamentos-al-ongay",
+      "title": "El programa \"La Muni en tu Barrio\" acercó controles, vacunas y medicamentos al Ongay",
+      "volanta": "corrientes",
+      "date": "2026-09-09T21:56:03+00:00"
+    },
     {
       "id": "6a3f19f9",
       "image": "img/6a3f19f9.png",
@@ -531,15 +540,6 @@
       "title": "El certamen interbarrios Jacinto Mamuh reunió a un centenar de artistas en Laguna Seca",
       "volanta": "RECORD DE PARTICIPACIÓN",
       "date": "2026-09-07T21:48:41+00:00"
-    },
-    {
-      "id": "b446ee75",
-      "image": "img/b446ee75.png",
-      "image_sha": "fa06b94173e007ed0773b42bb42a84c050fd7ba8",
-      "url": "https://www.radiodos.com.ar/213495-6-de-cada-10-argentinos-aseguraron-que-su-economia-esta-empeorando",
-      "title": "6 de cada 10 argentinos aseguraron que su economía \"está empeorando\"",
-      "volanta": "CRISIS",
-      "date": "2026-09-07T21:48:10+00:00"
     }
   ]
 }
