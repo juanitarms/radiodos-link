@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:13:53+00:00",
+  "updated": "2026-09-09T21:15:19+00:00",
   "posts": [
+    {
+      "id": "6a3f19f9",
+      "image": "img/6a3f19f9.png",
+      "image_sha": "09d51054a8354c2537f072acfcff990d19792046",
+      "url": "https://www.radiodos.com.ar/213609-declaro-benitez-en-el-juicio-por-loan-lo-digo-con-la-mano-en-el-corazon-soy-inocente",
+      "title": "Declaró Benítez en el juicio por Loan: \"Lo digo con la mano en el corazón, soy inocente\"",
+      "volanta": "POR JUSTICIA",
+      "date": "2026-09-09T21:15:19+00:00"
+    },
     {
       "id": "5ae3cbea",
       "image": "img/5ae3cbea.png",
@@ -531,15 +540,6 @@
       "title": "6 de cada 10 argentinos aseguraron que su economía \"está empeorando\"",
       "volanta": "CRISIS",
       "date": "2026-09-07T21:48:10+00:00"
-    },
-    {
-      "id": "bedf9308",
-      "image": "img/bedf9308.png",
-      "image_sha": "c369a2f76534131e71aa957f3623c58f7c1b2a26",
-      "url": "https://www.radiodos.com.ar/213493-transferencias-no-automaticas-corrientes-acumula-36972-millones-en-lo-que-va-del-ano",
-      "title": "Transferencias no automáticas: Corrientes acumula $36.972 millones en lo que va del año",
-      "volanta": "Reparto federal de recursos",
-      "date": "2026-09-07T20:56:01+00:00"
     }
   ]
 }
