@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T11:48:55+00:00",
+  "updated": "2026-09-09T12:08:44+00:00",
   "posts": [
+    {
+      "id": "739c86f4",
+      "image": "img/739c86f4.png",
+      "image_sha": "604659190a435e5669bb4b2133ad470bf4956d4c",
+      "url": "https://www.radiodos.com.ar/213569-textil-alal-presento-su-proyeccion-financiera-en-medio-del-concurso-preventivo-y-pone-en-jaque-indemnizaciones",
+      "title": "Textil Alal presentó su proyección financiera en medio del concurso preventivo y pone en jaque indemnizaciónes",
+      "volanta": "GOYA",
+      "date": "2026-09-09T12:08:44+00:00"
+    },
     {
       "id": "9e93cece",
       "image": "img/9e93cece.png",
@@ -531,15 +540,6 @@
       "title": "Ciudad del interior de Corrientes amaneció teñida de blanco por heladas",
       "volanta": "FIN DEL INVIERNO",
       "date": "2026-09-07T11:36:07+00:00"
-    },
-    {
-      "id": "610d53b9",
-      "image": "img/610d53b9.png",
-      "image_sha": "2a38d389e8bb90344a8556c6a59465340790c224",
-      "url": "https://www.radiodos.com.ar/213448-buscan-a-un-menor-internado-en-un-hogar-que-se-escapo-en-medio-de-un-paseo",
-      "title": "Buscan a un menor internado en un hogar que se escapó en medio de un paseo",
-      "volanta": "BUSQUEDA",
-      "date": "2026-09-07T11:20:43+00:00"
     }
   ]
 }
