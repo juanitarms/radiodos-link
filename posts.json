@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T13:33:45+00:00",
+  "updated": "2026-09-09T14:01:02+00:00",
   "posts": [
+    {
+      "id": "e8a11726",
+      "image": "img/e8a11726.png",
+      "image_sha": "e7cff8f65e379d150eb052d94b006fbdd3b031b4",
+      "url": "https://www.radiodos.com.ar/213581-por-medio-de-una-orden-judicial-detuvieron-a-un-hombre-por-una-causa-de-abuso",
+      "title": "Por medio de una orden judicial detuvieron a un hombre por una causa de abuso",
+      "volanta": "RIACHUELO",
+      "date": "2026-09-09T14:01:02+00:00"
+    },
     {
       "id": "a6bdb489",
       "image": "img/a6bdb489.png",
@@ -531,15 +540,6 @@
       "title": "Velocidad: habilitan nuevos radares en rutas de Corrientes",
       "volanta": "CONTROL",
       "date": "2026-09-07T14:15:04+00:00"
-    },
-    {
-      "id": "44817984",
-      "image": "img/44817984.png",
-      "image_sha": "0b7b13eb70619dd699db0ce79f802073204d94ec",
-      "url": "https://www.radiodos.com.ar/213468-las-ferias-de-la-ciudad-continuan-en-septiembre-con-productos-frescos-artesanias-y-propuestas-para-toda-la-familia",
-      "title": "Las Ferias de la Ciudad continúan en septiembre con productos frescos, artesanías y propuestas para toda la familia",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-09-07T13:55:05+00:00"
     }
   ]
 }
