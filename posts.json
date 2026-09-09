@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:13:06+00:00",
+  "updated": "2026-09-09T21:13:53+00:00",
   "posts": [
+    {
+      "id": "5ae3cbea",
+      "image": "img/5ae3cbea.png",
+      "image_sha": "f1633e1a9c5319cd8700b5cec325ab1775417249",
+      "url": "https://www.radiodos.com.ar/213610-motociclista-termino-en-el-hospital-tras-sufrir-un-accidente-sobre-avenida-ferre",
+      "title": "Motociclista terminó en el hospital tras sufrir un accidente sobre avenida Ferré",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-09T21:13:53+00:00"
+    },
     {
       "id": "357a7994",
       "image": "img/357a7994.png",
@@ -531,15 +540,6 @@
       "title": "Transferencias no automáticas: Corrientes acumula $36.972 millones en lo que va del año",
       "volanta": "Reparto federal de recursos",
       "date": "2026-09-07T20:56:01+00:00"
-    },
-    {
-      "id": "7d740eb3",
-      "image": "img/7d740eb3.png",
-      "image_sha": "9a237ec78e90f725044a7c4443cc4aaf53e3a79d",
-      "url": "https://www.radiodos.com.ar/213491-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-09-07T20:38:29+00:00"
     }
   ]
 }
