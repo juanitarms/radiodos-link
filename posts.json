@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T19:46:34+00:00",
+  "updated": "2026-09-09T19:47:07+00:00",
   "posts": [
+    {
+      "id": "1f654e35",
+      "image": "img/1f654e35.png",
+      "image_sha": "9fc4488c9c0116747d9899cf43fd5ab48399e526",
+      "url": "https://www.radiodos.com.ar/213602-cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-el-retiro-de-lionel-messi",
+      "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
+      "volanta": "EL ELEGIDO",
+      "date": "2026-09-09T19:47:07+00:00"
+    },
     {
       "id": "6cb52ec2",
       "image": "img/6cb52ec2.png",
@@ -531,15 +540,6 @@
       "title": "Primer juicio oral y público por narcomenudeo: Condenaron a una mujer a cuatro años y seis meses de prisión",
       "volanta": "GOYA",
       "date": "2026-09-07T18:25:09+00:00"
-    },
-    {
-      "id": "278a62d9",
-      "image": "img/278a62d9.png",
-      "image_sha": "19b9bbb56378c94b7ae964a8f467eae3ac7c2cee",
-      "url": "https://www.radiodos.com.ar/213451-nuevo-logro-en-un-hospital-publico-de-corrientes-salva-la-vida-a-un-recien-nacido",
-      "title": "Nuevo logro en un hospital público de Corrientes salva la vida a un recién nacido",
-      "volanta": "Conocé la hipotermia terapéutica neonatal",
-      "date": "2026-09-07T18:24:37+00:00"
     }
   ]
 }
