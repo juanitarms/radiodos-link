@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T13:18:28+00:00",
+  "updated": "2026-09-09T13:33:45+00:00",
   "posts": [
+    {
+      "id": "a6bdb489",
+      "image": "img/a6bdb489.png",
+      "image_sha": "1baeeb0501d082fa568ed54ae33fedadb46ed644",
+      "url": "https://www.radiodos.com.ar/213575-la-yerra-y-el-maestrazo-dos-eventos-en-la-agenda-del-fin-de-semana-en-corrientes",
+      "title": "\"La Yerra\" y el \"Maestrazo\", dos eventos en la agenda del fin de semana en Corrientes",
+      "volanta": "ITUZAINGÓ Y PASO DE LA PATRIA",
+      "date": "2026-09-09T13:33:45+00:00"
+    },
     {
       "id": "874b8c85",
       "image": "img/874b8c85.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad continúan en septiembre con productos frescos, artesanías y propuestas para toda la familia",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-09-07T13:55:05+00:00"
-    },
-    {
-      "id": "635bf37e",
-      "image": "img/635bf37e.png",
-      "image_sha": "b30439e6b86e299eb1dce746c17d3253a87a2229",
-      "url": "https://www.radiodos.com.ar/213461-mercedes-murio-un-hombre-haciendo-un-deporte-acuatico-en-una-represa",
-      "title": "Mercedes: murió un hombre haciendo un deporte acuático en una represa",
-      "volanta": "INVETIGAN CAUSA",
-      "date": "2026-09-07T13:21:55+00:00"
     }
   ]
 }
