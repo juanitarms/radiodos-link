@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T13:04:44+00:00",
+  "updated": "2026-09-09T13:18:28+00:00",
   "posts": [
+    {
+      "id": "874b8c85",
+      "image": "img/874b8c85.png",
+      "image_sha": "ea08c066c2c77d84062b3927090267b8eed75423",
+      "url": "https://www.radiodos.com.ar/213577-corrientes-mas-de-150-personas-se-capacitaron-en-el-uso-seguro-del-fuego-para-prevenir-incendios",
+      "title": "Corrientes: más de 150 personas se capacitaron en el uso seguro del fuego para prevenir incendios",
+      "volanta": "PREVENCIÓN Y MANEJO DEL FUEGO",
+      "date": "2026-09-09T13:18:28+00:00"
+    },
     {
       "id": "91e44e26",
       "image": "img/91e44e26.png",
@@ -531,15 +540,6 @@
       "title": "Mercedes: murió un hombre haciendo un deporte acuático en una represa",
       "volanta": "INVETIGAN CAUSA",
       "date": "2026-09-07T13:21:55+00:00"
-    },
-    {
-      "id": "cfb37953",
-      "image": "img/cfb37953.png",
-      "image_sha": "541eb9c873a01a6590b13099629019507b5416c7",
-      "url": "https://www.radiodos.com.ar/213458-manana-comienza-el-pago-del-plus-unificado-para-la-administracion-publica",
-      "title": "Mañana comienza el pago del Plus Unificado para la administración pública",
-      "volanta": "GOBIERNO DE LA PROVINCIA",
-      "date": "2026-09-07T12:48:48+00:00"
     }
   ]
 }
