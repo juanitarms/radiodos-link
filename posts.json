@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:56:03+00:00",
+  "updated": "2026-09-09T21:56:42+00:00",
   "posts": [
+    {
+      "id": "a0c380fc",
+      "image": "img/a0c380fc.png",
+      "image_sha": "518cdfc3e3449db2a67df9f81b32961876a08e8f",
+      "url": "https://www.radiodos.com.ar/213614-convocan-a-jovenes-lideres-a-participar-por-becas-para-formarse-en-buenos-aires-y-estados-unidos",
+      "title": "Convocan a jóvenes líderes a participar por becas para formarse en Buenos Aires y Estados Unidos",
+      "volanta": "corrientes",
+      "date": "2026-09-09T21:56:42+00:00"
+    },
     {
       "id": "4350baa7",
       "image": "img/4350baa7.png",
@@ -531,15 +540,6 @@
       "title": "Papa León XIV en Argentina: abrieron la inscripción para ser voluntario en su visita",
       "volanta": "VISITA PAPAL",
       "date": "2026-09-07T21:49:46+00:00"
-    },
-    {
-      "id": "2aa6bbbf",
-      "image": "img/2aa6bbbf.png",
-      "image_sha": "54ede038ac33b066d792caca680d8ad2aeb03221",
-      "url": "https://www.radiodos.com.ar/213494-el-certamen-interbarrios-jacinto-mamuh-reunio-a-un-centenar-de-artistas-en-laguna-seca",
-      "title": "El certamen interbarrios Jacinto Mamuh reunió a un centenar de artistas en Laguna Seca",
-      "volanta": "RECORD DE PARTICIPACIÓN",
-      "date": "2026-09-07T21:48:41+00:00"
     }
   ]
 }
