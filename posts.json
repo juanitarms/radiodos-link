@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:56:42+00:00",
+  "updated": "2026-09-09T21:57:13+00:00",
   "posts": [
+    {
+      "id": "7ca31687",
+      "image": "img/7ca31687.png",
+      "image_sha": "0ca22c906e9149478908379558004e58ea5ec6f7",
+      "url": "https://www.radiodos.com.ar/213615-cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-el-retiro-de-lionel-messi",
+      "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
+      "volanta": "CONFIRMADO",
+      "date": "2026-09-09T21:57:13+00:00"
+    },
     {
       "id": "a0c380fc",
       "image": "img/a0c380fc.png",
@@ -531,15 +540,6 @@
       "title": "Estudio porteño advierte que 4 de cada 10 secundarios sufren ansiedad, depresión o somnolencia por el uso del celular",
       "volanta": "ALERTA",
       "date": "2026-09-07T21:50:38+00:00"
-    },
-    {
-      "id": "08ea8600",
-      "image": "img/08ea8600.png",
-      "image_sha": "7b9e6d7eca9051350865f2c7511e6a4482cf5e18",
-      "url": "https://www.radiodos.com.ar/213496-papa-leon-xiv-en-argentina-abrieron-la-inscripcion-para-ser-voluntario-en-su-visita",
-      "title": "Papa León XIV en Argentina: abrieron la inscripción para ser voluntario en su visita",
-      "volanta": "VISITA PAPAL",
-      "date": "2026-09-07T21:49:46+00:00"
     }
   ]
 }
