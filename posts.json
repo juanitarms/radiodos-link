@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T14:39:22+00:00",
+  "updated": "2026-09-09T15:04:31+00:00",
   "posts": [
+    {
+      "id": "df90077c",
+      "image": "img/df90077c.png",
+      "image_sha": "8ec745af762533a341d6187a206f3d69ecbefb3b",
+      "url": "https://www.radiodos.com.ar/213592-salud-de-mirtha-legrand-que-es-el-hamartoma-pulmonar-que-detectaron-los-medicos",
+      "title": "Salud de Mirtha Legrand: qué es el \"hamartoma pulmonar\" que detectaron los médicos",
+      "volanta": "SIGUE INTERNADA",
+      "date": "2026-09-09T15:04:31+00:00"
+    },
     {
       "id": "eac20b9e",
       "image": "img/eac20b9e.png",
@@ -531,15 +540,6 @@
       "title": "Milei reunirá al Gabinete en Casa Rosada con Malvinas y el Presupuesto 2027 como ejes centrales",
       "volanta": "POLÍTICA",
       "date": "2026-09-07T16:51:08+00:00"
-    },
-    {
-      "id": "4749eadc",
-      "image": "img/4749eadc.png",
-      "image_sha": "f422ba2a47825d86385847c0de3253f4079eedd1",
-      "url": "https://www.radiodos.com.ar/213471-victoria-villarruel-volvio-a-criticar-el-modelo-economico-de-milei-y-reclamo-mejorar-los-salarios",
-      "title": "Victoria Villarruel volvió a criticar el modelo económico de Milei y reclamó \"mejorar los salarios\"",
-      "volanta": "CHIVILCOY",
-      "date": "2026-09-07T15:11:02+00:00"
     }
   ]
 }
