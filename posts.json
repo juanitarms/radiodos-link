@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-08T22:03:21+00:00",
+  "updated": "2026-09-09T10:55:08+00:00",
   "posts": [
+    {
+      "id": "f8e6613e",
+      "image": "img/f8e6613e.png",
+      "image_sha": "92edb8f6ddc05a2bd5ec43943ccd0ae227ea0360",
+      "url": "https://www.radiodos.com.ar/213563-juicio-por-loan-declaran-una-testigo-del-hallazgo-del-botin-una-perito-y-un-vecino",
+      "title": "Juicio por Loan: declaran una testigo del hallazgo del botín, una perito y un vecino",
+      "volanta": "AUDIENCIA DE HOY",
+      "date": "2026-09-09T10:55:08+00:00"
+    },
     {
       "id": "c2067da9",
       "image": "img/c2067da9.png",
@@ -531,15 +540,6 @@
       "title": "Santiago Maratea sorprendió al confirmar su romance con Tini Stoessel: \"Es una dulce\"",
       "volanta": "¿Qué dijo?",
       "date": "2026-09-06T22:29:32+00:00"
-    },
-    {
-      "id": "b039fe56",
-      "image": "img/b039fe56.png",
-      "image_sha": "ae15b438ec0a227d6b65a17e03ae29e3723aa5b8",
-      "url": "https://www.radiodos.com.ar/213425-que-pasa-entre-la-joaqui-y-tiago-pzk-la-foto-que-los-muestra-juntos-tras-la-ruptura-de-la-artista-con-luck-ra",
-      "title": "Qué pasa entre La Joaqui y Tiago PZK: la foto que los muestra juntos tras la ruptura de la artista con Luck Ra",
-      "volanta": "SORPRESA",
-      "date": "2026-09-06T22:28:53+00:00"
     }
   ]
 }
