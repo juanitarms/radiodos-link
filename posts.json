@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T19:47:07+00:00",
+  "updated": "2026-09-09T21:02:40+00:00",
   "posts": [
+    {
+      "id": "2c1224ce",
+      "image": "img/2c1224ce.png",
+      "image_sha": "848ce6162a6f9750861311f8282a7724ea3d18a2",
+      "url": "https://www.radiodos.com.ar/213608-alianza-entre-el-municipio-y-la-ucp-para-mejorar-los-servicios-de-la-ciudad",
+      "title": "Alianza entre el Municipio y la UCP para mejorar los servicios de la ciudad",
+      "volanta": "corrientes",
+      "date": "2026-09-09T21:02:40+00:00"
+    },
     {
       "id": "1f654e35",
       "image": "img/1f654e35.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas minoristas pyme descendieron 0,2% interanual en agosto",
       "volanta": "COMUNICADO DE PRENSA",
       "date": "2026-09-07T18:25:39+00:00"
-    },
-    {
-      "id": "b384e29d",
-      "image": "img/b384e29d.png",
-      "image_sha": "63c99c392b80e14a8a9ac69d8560692b6782b7ea",
-      "url": "https://www.radiodos.com.ar/213455-primer-juicio-oral-y-publico-por-narcomenudeo-condenaron-a-una-mujer-a-cuatro-anos-y-seis-meses-de-prision",
-      "title": "Primer juicio oral y público por narcomenudeo: Condenaron a una mujer a cuatro años y seis meses de prisión",
-      "volanta": "GOYA",
-      "date": "2026-09-07T18:25:09+00:00"
     }
   ]
 }
