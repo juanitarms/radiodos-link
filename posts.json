@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T21:11:55+00:00",
+  "updated": "2026-09-09T21:13:06+00:00",
   "posts": [
+    {
+      "id": "357a7994",
+      "image": "img/357a7994.png",
+      "image_sha": "2d25a92df5e1ac719b6030a4bb5e4222647e81d0",
+      "url": "https://www.radiodos.com.ar/213611-las-lagrimas-de-virginia-gallardo-en-diputados-al-despedir-a-chiche-gelblung-te-quiero",
+      "title": "Las lágrimas de Virginia Gallardo en Diputados al despedir a Chiche Gelblung: \"Te quiero\"",
+      "volanta": "LEGISLADORA CORRENTINA",
+      "date": "2026-09-09T21:13:06+00:00"
+    },
     {
       "id": "514599a6",
       "image": "img/514599a6.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-09-07T20:38:29+00:00"
-    },
-    {
-      "id": "b6b4a975",
-      "image": "img/b6b4a975.png",
-      "image_sha": "c605ac726c3f848d92e2b84472a218a83e11dcde",
-      "url": "https://www.radiodos.com.ar/213492-hablo-el-pity-alvarez-en-medio-del-juicio-no-se-me-ve-bien",
-      "title": "Habló el Pity Álvarez en medio del juicio: \"¿No se me ve bien?\"",
-      "volanta": "dudas sobre su estado de salud",
-      "date": "2026-09-07T20:37:01+00:00"
     }
   ]
 }
