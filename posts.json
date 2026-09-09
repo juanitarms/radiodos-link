@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T16:40:24+00:00",
+  "updated": "2026-09-09T19:46:34+00:00",
   "posts": [
+    {
+      "id": "6cb52ec2",
+      "image": "img/6cb52ec2.png",
+      "image_sha": "9f691eacb32a9dbd91bbe48653bdca3947d634c7",
+      "url": "https://www.radiodos.com.ar/213603-maria-noguera-todo-lo-que-dijo-laudelina-fue-mentira-quiso-hundir-a-la-familia",
+      "title": "María Noguera: \"Todo lo que dijo Laudelina fue mentira, quiso hundir a la familia\"",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-09-09T19:46:34+00:00"
+    },
     {
       "id": "61e557f9",
       "image": "img/61e557f9.png",
@@ -531,15 +540,6 @@
       "title": "Nuevo logro en un hospital público de Corrientes salva la vida a un recién nacido",
       "volanta": "Conocé la hipotermia terapéutica neonatal",
       "date": "2026-09-07T18:24:37+00:00"
-    },
-    {
-      "id": "5931b1ad",
-      "image": "img/5931b1ad.png",
-      "image_sha": "de1b631585b16781d36440bb236baf3d5b050f3b",
-      "url": "https://www.radiodos.com.ar/213447-despedidos-de-musimundo-estan-con-incertidumbre-y-desesperados-dijo-el-abogado",
-      "title": "Despedidos de Musimundo: \"Están con incertidumbre y desesperados\", dijo el abogado",
-      "volanta": "DR. GONZALO SARAVIA",
-      "date": "2026-09-07T16:52:06+00:00"
     }
   ]
 }
