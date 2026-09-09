@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T14:25:18+00:00",
+  "updated": "2026-09-09T14:39:22+00:00",
   "posts": [
+    {
+      "id": "eac20b9e",
+      "image": "img/eac20b9e.png",
+      "image_sha": "abb7cc13b8dfac60784045c3f52ddb8bc0218dce",
+      "url": "https://www.radiodos.com.ar/213587-revelaron-la-posible-causa-de-la-mortal-avalancha-en-nepal",
+      "title": "Revelaron la posible causa de la mortal avalancha en Nepal",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-09-09T14:39:22+00:00"
+    },
     {
       "id": "68bc57b7",
       "image": "img/68bc57b7.png",
@@ -531,15 +540,6 @@
       "title": "Victoria Villarruel volvió a criticar el modelo económico de Milei y reclamó \"mejorar los salarios\"",
       "volanta": "CHIVILCOY",
       "date": "2026-09-07T15:11:02+00:00"
-    },
-    {
-      "id": "2aee13bb",
-      "image": "img/2aee13bb.png",
-      "image_sha": "6554768846a0df6aa7029a1c666bc60a74456d36",
-      "url": "https://www.radiodos.com.ar/213470-derrumbe-en-india-un-edificio-estudiantil-colapso-y-dejo-siete-muertos-en-nueva-delhi",
-      "title": "Derrumbe en India: un edificio estudiantil colapsó y dejó siete muertos en Nueva Delhi",
-      "volanta": "TRAGEDIA",
-      "date": "2026-09-07T14:57:34+00:00"
     }
   ]
 }
