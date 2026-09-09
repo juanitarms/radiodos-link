@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T11:06:56+00:00",
+  "updated": "2026-09-09T11:34:01+00:00",
   "posts": [
+    {
+      "id": "dc307165",
+      "image": "img/dc307165.png",
+      "image_sha": "c0b096277d682abba7f495cb235ce9a7f36a646b",
+      "url": "https://www.radiodos.com.ar/213567-un-muerto-tras-despiste-y-vuelco-cerca-del-acceso-a-una-localidad-del-interior-de-corrientes",
+      "title": "Un muerto tras despiste y vuelco cerca del acceso a una localidad del interior de Corrientes",
+      "volanta": "TRAGEDIA EN LA RUTA PROVINCIAL 129",
+      "date": "2026-09-09T11:34:01+00:00"
+    },
     {
       "id": "29eab13a",
       "image": "img/29eab13a.png",
@@ -531,15 +540,6 @@
       "title": "Becaria de Criminalística de la UNNe investigó el orden exacto de firmas e impresiones en documentos dudosos",
       "volanta": "NUEVOS CONOCIMIENTOS",
       "date": "2026-09-07T11:07:12+00:00"
-    },
-    {
-      "id": "8a64c1e8",
-      "image": "img/8a64c1e8.png",
-      "image_sha": "86d94db51b40615616edb5a656de2377db1b76e9",
-      "url": "https://www.radiodos.com.ar/213444-mandiyu-goleo-a-union-de-bv-para-sumar-su-primer-festejo-en-el-regional-amateur",
-      "title": "Mandiyú goleó a Unión de BV para sumar su primer festejo en el Regional Amateur",
-      "volanta": "3 A 0",
-      "date": "2026-09-07T10:34:18+00:00"
     }
   ]
 }
