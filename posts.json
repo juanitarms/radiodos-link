@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T11:35:11+00:00",
+  "updated": "2026-09-10T12:47:58+00:00",
   "posts": [
+    {
+      "id": "19f8aa40",
+      "image": "img/19f8aa40.png",
+      "image_sha": "100035e3214151b7ee2c152d77cb24935b9b62a4",
+      "url": "https://www.radiodos.com.ar/213631-crudo-documento-de-caritas-argentina-por-el-dia-mundial-para-la-prevencion-del-suicidio",
+      "title": "Crudo documento de Cáritas Argentina por el Día Mundial para la Prevención del Suicidio",
+      "volanta": "ALERTA",
+      "date": "2026-09-10T12:47:58+00:00"
+    },
     {
       "id": "22e9c39a",
       "image": "img/22e9c39a.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: Laudelina Peña declararía hoy ante el Tribunal por la desaparición del niño",
       "volanta": "CLAVE",
       "date": "2026-09-08T11:46:45+00:00"
-    },
-    {
-      "id": "3797d5c2",
-      "image": "img/3797d5c2.png",
-      "image_sha": "c6be6a9fb37b2b2b3ae6a245fac55d4ddfbbb09b",
-      "url": "https://www.radiodos.com.ar/213503-triple-choque-en-ruta-119-dos-personas-quedaron-atrapadas-en-un-auto-y-resultaron-heridas",
-      "title": "Triple choque en Ruta 119: dos personas quedaron atrapadas en un auto y resultaron heridas",
-      "volanta": "CERCA DE CURUZÚ CUATIÁ",
-      "date": "2026-09-08T11:33:22+00:00"
     }
   ]
 }
