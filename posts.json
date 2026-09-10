@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T14:55:46+00:00",
+  "updated": "2026-09-10T15:11:07+00:00",
   "posts": [
+    {
+      "id": "2d5f4408",
+      "image": "img/2d5f4408.png",
+      "image_sha": "aea3c04b126d9277534d599982192ebbdc558e35",
+      "url": "https://www.radiodos.com.ar/213662-los-restos-de-chiche-gelblung-ya-descansan-en-la-tablada-tras-su-emotiva-despedida",
+      "title": "Los restos de Chiche Gelblung ya descansan en La Tablada tras su emotiva despedida",
+      "volanta": "EN PAZ",
+      "date": "2026-09-10T15:11:07+00:00"
+    },
     {
       "id": "3bcfbc5e",
       "image": "img/3bcfbc5e.png",
@@ -531,15 +540,6 @@
       "title": "Los días 11 y 21 de septiembre no habrá clases en Corrientes",
       "volanta": "SIN ACTIVIDAD ESCOLAR",
       "date": "2026-09-08T13:42:17+00:00"
-    },
-    {
-      "id": "c932ba54",
-      "image": "img/c932ba54.png",
-      "image_sha": "94a3056075b59d7daabe4376b2d9600d5c8c1394",
-      "url": "https://www.radiodos.com.ar/213528-se-cumplen-37-anos-de-la-tragedia-de-los-chamameceros-en-bella-vista",
-      "title": "Se cumplen 37 años de \"la tragedia de los chamameceros\" en Bella Vista",
-      "volanta": "LUTO ETERNO",
-      "date": "2026-09-08T13:26:38+00:00"
     }
   ]
 }
