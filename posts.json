@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T13:06:11+00:00",
+  "updated": "2026-09-10T13:39:27+00:00",
   "posts": [
+    {
+      "id": "3b75831e",
+      "image": "img/3b75831e.png",
+      "image_sha": "813aceff2cb67481223402e8941e040b613e8de2",
+      "url": "https://www.radiodos.com.ar/213643-dividendo-trump-prometio-us5-mil-para-cada-ciudadano-si-gana-su-partido",
+      "title": "Dividendo Trump: prometió US$5 mil para cada ciudadano si gana su partido",
+      "volanta": "Presidente de Estados Unidos",
+      "date": "2026-09-10T13:39:27+00:00"
+    },
     {
       "id": "79560c36",
       "image": "img/79560c36.png",
@@ -531,15 +540,6 @@
       "title": "Acusan a una docente de haber prendido fuego el auto de un trabajador judicial",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-09-08T12:31:58+00:00"
-    },
-    {
-      "id": "095df957",
-      "image": "img/095df957.png",
-      "image_sha": "1ab10c8761a5c16c9e7b36f589dba713678c1027",
-      "url": "https://www.radiodos.com.ar/213510-gendarmeria-incauto-235-kilos-de-droga-sobre-la-costa-del-rio-parana",
-      "title": "Gendarmería incautó 235 kilos de droga sobre la costa del Río Paraná",
-      "volanta": "OPERATIVO NOCHE SIN LUNA",
-      "date": "2026-09-08T12:11:08+00:00"
     }
   ]
 }
