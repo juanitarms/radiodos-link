@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-09T22:38:55+00:00",
+  "updated": "2026-09-10T10:24:22+00:00",
   "posts": [
+    {
+      "id": "c3f34195",
+      "image": "img/c3f34195.png",
+      "image_sha": "b7ce7508c3a3c9ed936ab8a983b9a75d581e504b",
+      "url": "https://www.radiodos.com.ar/213619-juicio-por-loan-hoy-el-unico-declarante-sera-el-comisario-maciel",
+      "title": "Juicio por Loan: hoy el único declarante será el comisario Maciel",
+      "volanta": "AUDIENCIA REDUCIDA",
+      "date": "2026-09-10T10:24:22+00:00"
+    },
     {
       "id": "f942449e",
       "image": "img/f942449e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: detuvieron a los motochorros que hirieron a un estudiante para robarle",
       "volanta": "BARRIO SAN BENITO",
       "date": "2026-09-08T11:12:57+00:00"
-    },
-    {
-      "id": "ffcca256",
-      "image": "img/ffcca256.png",
-      "image_sha": "4a4bfd3649cf1eb70d2f8bee77b471383a0e52e1",
-      "url": "https://www.radiodos.com.ar/213500-dos-heridos-tras-el-vuelco-de-una-camioneta",
-      "title": "Dos heridos tras el vuelco de una camioneta",
-      "volanta": "corrientes",
-      "date": "2026-09-07T23:54:10+00:00"
     }
   ]
 }
