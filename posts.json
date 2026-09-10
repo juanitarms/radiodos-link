@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T16:49:11+00:00",
+  "updated": "2026-09-10T16:49:45+00:00",
   "posts": [
+    {
+      "id": "983de23b",
+      "image": "img/983de23b.png",
+      "image_sha": "d6f40b21bfd28ca5c3cc1f2d33567075c0cbfc3c",
+      "url": "https://www.radiodos.com.ar/213637-la-investigadora-de-la-unne-carolina-gandulfo-recibio-el-premio-konex-2026",
+      "title": "La investigadora de la UNNE Carolina Gandulfo recibió el Premio Konex 2026",
+      "volanta": "PERSONALIDAD DESTACADA EN EDUCACION",
+      "date": "2026-09-10T16:49:45+00:00"
+    },
     {
       "id": "e2d641c2",
       "image": "img/e2d641c2.png",
@@ -531,15 +540,6 @@
       "title": "El drástico gesto de Tiago PZK y Luck Ra que pone fin a su amistad por La Joaqui: qué pasó",
       "volanta": "TODO MAL",
       "date": "2026-09-08T14:24:41+00:00"
-    },
-    {
-      "id": "072a336d",
-      "image": "img/072a336d.png",
-      "image_sha": "de00e50282f4dcb8ece6e98eb6822db9a13ed36b",
-      "url": "https://www.radiodos.com.ar/213525-laudelina-se-quebro-en-su-declaracion-y-conto-detalles-del-dia-de-la-desaparicion-y-busqueda-del-nino",
-      "title": "Laudelina se quebró en su declaración y contó detalles del día de la desaparición y búsqueda del niño",
-      "volanta": "JUICIO POR LOAN",
-      "date": "2026-09-08T13:56:24+00:00"
     }
   ]
 }
