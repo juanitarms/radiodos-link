@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T14:34:18+00:00",
+  "updated": "2026-09-10T14:55:46+00:00",
   "posts": [
+    {
+      "id": "3bcfbc5e",
+      "image": "img/3bcfbc5e.png",
+      "image_sha": "862269c844fa995c07b9d101411443cb12cf2b0a",
+      "url": "https://www.radiodos.com.ar/213655-detuvieron-al-joven-acusado-por-el-femicidio-de-su-novia",
+      "title": "Detuvieron al joven acusado por el femicidio de su novia",
+      "volanta": "Ituzaingó",
+      "date": "2026-09-10T14:55:46+00:00"
+    },
     {
       "id": "4158fd8e",
       "image": "img/4158fd8e.png",
@@ -531,15 +540,6 @@
       "title": "Se cumplen 37 años de \"la tragedia de los chamameceros\" en Bella Vista",
       "volanta": "LUTO ETERNO",
       "date": "2026-09-08T13:26:38+00:00"
-    },
-    {
-      "id": "a36797f5",
-      "image": "img/a36797f5.png",
-      "image_sha": "fa534ace6766af5a2478e2bf571c6c6b519c3d5e",
-      "url": "https://www.radiodos.com.ar/213526-covid-19-detectaron-en-la-argentina-los-primeros-tres-casos-de-la-variante-ba32",
-      "title": "Covid-19: detectaron en la Argentina los primeros tres casos de la variante BA.3.2",
-      "volanta": "ALERTA",
-      "date": "2026-09-08T13:05:32+00:00"
     }
   ]
 }
