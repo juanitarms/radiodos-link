@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T20:54:56+00:00",
+  "updated": "2026-09-10T21:00:47+00:00",
   "posts": [
+    {
+      "id": "9c720865",
+      "image": "img/9c720865.png",
+      "image_sha": "f3f017a7cb98b4879d9cb9a2721a5e8e5d1beefa",
+      "url": "https://www.radiodos.com.ar/213674-la-industria-manufacturera-y-el-consumo-lideran-la-morosidad-en-corrientes",
+      "title": "La industria manufacturera y el consumo lideran la morosidad en Corrientes",
+      "volanta": "CRISIS",
+      "date": "2026-09-10T21:00:47+00:00"
+    },
     {
       "id": "0f15c9fb",
       "image": "img/0f15c9fb.png",
@@ -531,15 +540,6 @@
       "title": "Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
       "volanta": "En Legislatura CABA",
       "date": "2026-09-08T18:20:18+00:00"
-    },
-    {
-      "id": "2ed3192a",
-      "image": "img/2ed3192a.png",
-      "image_sha": "0fdc886a01f303c199ca72f7551016cef68f21b9",
-      "url": "https://www.radiodos.com.ar/213545-violento-arrebato-de-motochorros-a-un-joven-la-fiscal-espera-actuaciones-policiales-para-pedir-la-detencion-de-los-supuestos-autores",
-      "title": "Violento arrebato de motochorros a un joven: La fiscal espera actuaciones policiales para pedir la detención de los supuestos autores",
-      "volanta": "BARRIO SAN BENITO",
-      "date": "2026-09-08T18:19:43+00:00"
     }
   ]
 }
