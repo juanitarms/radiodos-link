@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T17:47:24+00:00",
+  "updated": "2026-09-10T17:47:59+00:00",
   "posts": [
+    {
+      "id": "d561d569",
+      "image": "img/d561d569.png",
+      "image_sha": "16e54f4750836dfa905b53a2837d1f1c43526bdf",
+      "url": "https://www.radiodos.com.ar/213635-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+      "volanta": "ESTE JUEVES",
+      "date": "2026-09-10T17:47:59+00:00"
+    },
     {
       "id": "43b7f4d3",
       "image": "img/43b7f4d3.png",
@@ -531,15 +540,6 @@
       "title": "Lautaro Martínez habló sobre Julián Álvarez y su conflicto en Atlético de Madrid: \"Que siga...\"",
       "volanta": "COMPAÑERO",
       "date": "2026-09-08T15:05:35+00:00"
-    },
-    {
-      "id": "5fc8d399",
-      "image": "img/5fc8d399.png",
-      "image_sha": "2a3263a80754c0f95b1effa16cda35705dac525e",
-      "url": "https://www.radiodos.com.ar/213539-devoto-encontraron-muerto-a-un-hombre-de-74-anos-sobre-las-vias-del-tren-urquiza",
-      "title": "Devoto: encontraron muerto a un hombre de 74 años sobre las vías del Tren Urquiza",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-09-08T14:47:14+00:00"
     }
   ]
 }
