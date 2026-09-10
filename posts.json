@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T21:03:48+00:00",
+  "updated": "2026-09-10T21:04:19+00:00",
   "posts": [
+    {
+      "id": "9a1935b0",
+      "image": "img/9a1935b0.png",
+      "image_sha": "cf514c7c88a7f23aa49e17d2c856d9a7a9e4e4ad",
+      "url": "https://www.radiodos.com.ar/213675-se-presento-en-corrientes-la-muni-oficios-una-herramienta-digital-que-acerca-a-proveedores-de-oficios-y-vecinos",
+      "title": "Se presentó en Corrientes  \"La Muni Oficios\", una herramienta digital que acerca a proveedores de oficios y vecinos",
+      "volanta": "PLATAFORMA GRATUITA",
+      "date": "2026-09-10T21:04:19+00:00"
+    },
     {
       "id": "4c29278b",
       "image": "img/4c29278b.png",
@@ -531,15 +540,6 @@
       "title": "Laudelina Peña: \"No sé dónde está Loan los únicos que podrían saber son Millapi, Ramírez y Benítez\"",
       "volanta": "JUICIO",
       "date": "2026-09-08T18:21:21+00:00"
-    },
-    {
-      "id": "f06cb97c",
-      "image": "img/f06cb97c.png",
-      "image_sha": "e07d82be7b217f11c5fb34bd3d3383d6bc14bda2",
-      "url": "https://www.radiodos.com.ar/213547-curuzu-cuatia-confirmo-su-carnaval-2027-sera-en-enero-y-febrero-con-cinco-noches",
-      "title": "Curuzú Cuatiá confirmó su carnaval 2027: será en enero y febrero con cinco noches",
-      "volanta": "FIESTA DE MOMO",
-      "date": "2026-09-08T18:20:50+00:00"
     }
   ]
 }
