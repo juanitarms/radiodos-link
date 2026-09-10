@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T22:09:24+00:00",
+  "updated": "2026-09-10T22:16:04+00:00",
   "posts": [
+    {
+      "id": "edb649fd",
+      "image": "img/edb649fd.png",
+      "image_sha": "458258c5824a99ec48575c184ed8e5e7363e53d6",
+      "url": "https://www.radiodos.com.ar/213678-cuanto-aumentaran-las-jubilaciones-la-auh-y-otras-asignaciones-en-octubre",
+      "title": "Cuánto aumentarán las jubilaciones, la AUH y otras asignaciones en octubre",
+      "volanta": "Tras el dato de la inflación",
+      "date": "2026-09-10T22:16:04+00:00"
+    },
     {
       "id": "08684005",
       "image": "img/08684005.png",
@@ -531,15 +540,6 @@
       "title": "Con turismo, producción e innovación, se realizó la Expo Iberá",
       "volanta": "CONCEPCIÓN DEL YAGUARETÉ CORÁ",
       "date": "2026-09-08T20:59:21+00:00"
-    },
-    {
-      "id": "0b131d72",
-      "image": "img/0b131d72.png",
-      "image_sha": "ee107e93d41bac7839b045d93ca11e53a13f5650",
-      "url": "https://www.radiodos.com.ar/213553-juicio-por-loan-tres-imputados-fueron-atendidos-tras-descomposturas-por-la-comida",
-      "title": "Juicio por Loan: tres imputados fueron atendidos tras descomposturas por la comida",
-      "volanta": "INOPORTUNO",
-      "date": "2026-09-08T20:58:35+00:00"
     }
   ]
 }
