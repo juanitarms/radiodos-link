@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T14:15:30+00:00",
+  "updated": "2026-09-10T14:34:18+00:00",
   "posts": [
+    {
+      "id": "4158fd8e",
+      "image": "img/4158fd8e.png",
+      "image_sha": "8f47258f075b331e4e8dbddca2550c9ece53243f",
+      "url": "https://www.radiodos.com.ar/213661-la-empresa-crucero-del-norte-dejo-de-operar-sus-servicios-de-larga-distancia",
+      "title": "La empresa Crucero del Norte dejó de operar sus servicios de larga distancia",
+      "volanta": "GRAVE",
+      "date": "2026-09-10T14:34:18+00:00"
+    },
     {
       "id": "6afe3b9f",
       "image": "img/6afe3b9f.png",
@@ -531,15 +540,6 @@
       "title": "Covid-19: detectaron en la Argentina los primeros tres casos de la variante BA.3.2",
       "volanta": "ALERTA",
       "date": "2026-09-08T13:05:32+00:00"
-    },
-    {
-      "id": "d9d0f495",
-      "image": "img/d9d0f495.png",
-      "image_sha": "5cdbbfaf4dc9ea2a4565e1f647fd70f2793a7b1f",
-      "url": "https://www.radiodos.com.ar/213518-la-mesa-politica-del-gobierno-se-renune-este-martes-para-tratar-el-tema-de-las-islas-malvinas",
-      "title": "La Mesa Política del Gobierno se renúne este martes para tratar el tema de las Islas Malvinas",
-      "volanta": "IMPORTANTE",
-      "date": "2026-09-08T12:54:01+00:00"
     }
   ]
 }
