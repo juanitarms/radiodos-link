@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T22:20:09+00:00",
+  "updated": "2026-09-10T23:03:29+00:00",
   "posts": [
+    {
+      "id": "b88b0f5c",
+      "image": "img/b88b0f5c.png",
+      "image_sha": "a5067e3dc3cea813ac703a4d854457bb17e6c9c1",
+      "url": "https://www.radiodos.com.ar/213684-anuncian-tormentas-fuertes-para-este-viernes-en-corrientes",
+      "title": "Anuncian tormentas fuertes para este viernes en Corrientes",
+      "volanta": "TIEMPO",
+      "date": "2026-09-10T23:03:29+00:00"
+    },
     {
       "id": "149bb203",
       "image": "img/149bb203.png",
@@ -531,15 +540,6 @@
       "title": "Malvinas: Argentina inició sanciones contra otros 15 sujetos por actividades hidrocarburíferas ilegítimas",
       "volanta": "AUMENTA LA TENSIÓN",
       "date": "2026-09-08T21:30:06+00:00"
-    },
-    {
-      "id": "a8ae1658",
-      "image": "img/a8ae1658.png",
-      "image_sha": "0388649132703441bcc37a69a194e8995716ca79",
-      "url": "https://www.radiodos.com.ar/213555-en-caba-tassano-diserto-sobre-la-tarea-de-modernizacion-que-lleva-adelante-en-corrientes",
-      "title": "En CABA, Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
-      "volanta": "EN LA LEGISLATURA",
-      "date": "2026-09-08T21:09:00+00:00"
     }
   ]
 }
