@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T22:18:47+00:00",
+  "updated": "2026-09-10T22:20:09+00:00",
   "posts": [
+    {
+      "id": "149bb203",
+      "image": "img/149bb203.png",
+      "image_sha": "7f56f1218af1be061a490ddce543d000b32fd1ae",
+      "url": "https://www.radiodos.com.ar/213682-lanzan-un-taller-gratuito-de-fotografia-profesional",
+      "title": "Lanzan un taller gratuito de fotografía profesional",
+      "volanta": "​Cultura Corrientes",
+      "date": "2026-09-10T22:20:09+00:00"
+    },
     {
       "id": "de27fd52",
       "image": "img/de27fd52.png",
@@ -531,15 +540,6 @@
       "title": "En CABA, Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
       "volanta": "EN LA LEGISLATURA",
       "date": "2026-09-08T21:09:00+00:00"
-    },
-    {
-      "id": "3cbd55d9",
-      "image": "img/3cbd55d9.png",
-      "image_sha": "fd701f47d469249c4e18a932ca2d4a993de9b294",
-      "url": "https://www.radiodos.com.ar/213550-corrientes-logro-su-mayor-nivel-de-exportaciones-semestrales-en-una-decada",
-      "title": "Corrientes logró su mayor nivel de exportaciones semestrales en una década",
-      "volanta": "Crecimiento récord",
-      "date": "2026-09-08T21:00:50+00:00"
     }
   ]
 }
