@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T15:11:07+00:00",
+  "updated": "2026-09-10T16:49:11+00:00",
   "posts": [
+    {
+      "id": "e2d641c2",
+      "image": "img/e2d641c2.png",
+      "image_sha": "e99c51e6a0678f58d33947aa5f199a6297fa8e20",
+      "url": "https://www.radiodos.com.ar/213625-fiscal-schaefer-afirmo-que-no-le-cree-a-benitez-y-destaco-la-declaracion-de-cristian-gutierrez",
+      "title": "Fiscal Schaefer afirmó que no le cree a Benítez y destacó la declaración de Cristian Gutiérrez",
+      "volanta": "JUICIO POR LOAN",
+      "date": "2026-09-10T16:49:11+00:00"
+    },
     {
       "id": "2d5f4408",
       "image": "img/2d5f4408.png",
@@ -531,15 +540,6 @@
       "title": "Laudelina se quebró en su declaración y contó detalles del día de la desaparición y búsqueda del niño",
       "volanta": "JUICIO POR LOAN",
       "date": "2026-09-08T13:56:24+00:00"
-    },
-    {
-      "id": "fcd03b9c",
-      "image": "img/fcd03b9c.png",
-      "image_sha": "2393647ea86491ee9f2e1b52cc3b0601b4825930",
-      "url": "https://www.radiodos.com.ar/213532-los-dias-11-y-21-de-septiembre-no-habra-clases-en-corrientes",
-      "title": "Los días 11 y 21 de septiembre no habrá clases en Corrientes",
-      "volanta": "SIN ACTIVIDAD ESCOLAR",
-      "date": "2026-09-08T13:42:17+00:00"
     }
   ]
 }
