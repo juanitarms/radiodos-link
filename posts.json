@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T20:52:38+00:00",
+  "updated": "2026-09-10T20:54:56+00:00",
   "posts": [
+    {
+      "id": "0f15c9fb",
+      "image": "img/0f15c9fb.png",
+      "image_sha": "d012b4995aaa681bc7c6f8e3b28784287908fc38",
+      "url": "https://www.radiodos.com.ar/213671-la-inflacion-de-agosto-fue-del-17-y-acumulo-un-213-desde-enero",
+      "title": "La inflación de agosto fue del 1,7% y acumuló un 21,3% desde enero",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-09-10T20:54:56+00:00"
+    },
     {
       "id": "214112c5",
       "image": "img/214112c5.png",
@@ -531,15 +540,6 @@
       "title": "Violento arrebato de motochorros a un joven: La fiscal espera actuaciones policiales para pedir la detención de los supuestos autores",
       "volanta": "BARRIO SAN BENITO",
       "date": "2026-09-08T18:19:43+00:00"
-    },
-    {
-      "id": "5ce0ff6e",
-      "image": "img/5ce0ff6e.png",
-      "image_sha": "55918abc34787a3f773b6577467c3b4c780a8350",
-      "url": "https://www.radiodos.com.ar/213544-balon-de-oro-2026-uno-por-uno-todos-y-cada-uno-de-los-nominados-en-cada-categoria",
-      "title": "Balón de Oro 2026: uno por uno, todos y cada uno de los nominados en cada categoría",
-      "volanta": "PREMIOS",
-      "date": "2026-09-08T18:19:08+00:00"
     }
   ]
 }
