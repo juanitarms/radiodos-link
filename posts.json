@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T17:48:30+00:00",
+  "updated": "2026-09-10T19:02:17+00:00",
   "posts": [
+    {
+      "id": "925d9648",
+      "image": "img/925d9648.png",
+      "image_sha": "cc384596cf3f4d09844062dd1f2ee3013701ae2c",
+      "url": "https://www.radiodos.com.ar/213638-ayudar-es-nuestra-bandera-cruz-roja-argentina-lanza-su-colecta-anual-2026",
+      "title": "Ayudar es nuestra bandera: Cruz Roja Argentina lanza su Colecta Anual 2026",
+      "volanta": "AYUDA HUMANITARIA",
+      "date": "2026-09-10T19:02:17+00:00"
+    },
     {
       "id": "0809fc16",
       "image": "img/0809fc16.png",
@@ -531,15 +540,6 @@
       "title": "Pruebas PISA 2025: Argentina volvió a caer en todas las materias y obtuvo el peor resultado en 20 años",
       "volanta": "PREOCUPANTE",
       "date": "2026-09-08T16:20:38+00:00"
-    },
-    {
-      "id": "ae307caf",
-      "image": "img/ae307caf.png",
-      "image_sha": "92cbd3729b26e17fe517d1d8e04cd7b4ecc9b064",
-      "url": "https://www.radiodos.com.ar/213541-con-turismo-produccion-e-innovacion-se-realizo-la-expo-ibera",
-      "title": "Con turismo, producción e innovación, se realizó la Expo Iberá",
-      "volanta": "Apostando a los Emprendedores",
-      "date": "2026-09-08T16:20:02+00:00"
     }
   ]
 }
