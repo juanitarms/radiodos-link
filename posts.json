@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T13:39:27+00:00",
+  "updated": "2026-09-10T14:15:30+00:00",
   "posts": [
+    {
+      "id": "6afe3b9f",
+      "image": "img/6afe3b9f.png",
+      "image_sha": "db4dd3d60914b82b3c8a58b2a2b743be1f20e378",
+      "url": "https://www.radiodos.com.ar/213651-nuevo-juicio-por-abuso-sexual-con-acceso-carnal-contra-el-ginecologo-gerardo-dahse",
+      "title": "Nuevo juicio por abuso sexual con acceso carnal contra el ginecólogo Gerardo Dahse",
+      "volanta": "EL 14 DE SEPTIEMBRE",
+      "date": "2026-09-10T14:15:30+00:00"
+    },
     {
       "id": "3b75831e",
       "image": "img/3b75831e.png",
@@ -531,15 +540,6 @@
       "title": "La Mesa Política del Gobierno se renúne este martes para tratar el tema de las Islas Malvinas",
       "volanta": "IMPORTANTE",
       "date": "2026-09-08T12:54:01+00:00"
-    },
-    {
-      "id": "699a8e22",
-      "image": "img/699a8e22.png",
-      "image_sha": "b5da3afe196bdb011c8e28cfadd99c1a9dc8f8ca",
-      "url": "https://www.radiodos.com.ar/213506-acusan-a-una-docente-de-haber-prendido-fuego-el-auto-de-un-trabajador-judicial",
-      "title": "Acusan a una docente de haber prendido fuego el auto de un trabajador judicial",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-09-08T12:31:58+00:00"
     }
   ]
 }
