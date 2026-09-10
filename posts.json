@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T21:00:47+00:00",
+  "updated": "2026-09-10T21:03:48+00:00",
   "posts": [
+    {
+      "id": "4c29278b",
+      "image": "img/4c29278b.png",
+      "image_sha": "bc748b3556bd6b362aec3a31100cb5fee4ebd748",
+      "url": "https://www.radiodos.com.ar/213676-fijan-la-pena-maxima-y-una-millonaria-reparacion-economica-por-la-muerte-de-un-yaguarete",
+      "title": "Fijan la pena máxima y una millonaria reparación económica por la muerte de un yaguareté",
+      "volanta": "FALLO EJEMPLAR",
+      "date": "2026-09-10T21:03:48+00:00"
+    },
     {
       "id": "9c720865",
       "image": "img/9c720865.png",
@@ -531,15 +540,6 @@
       "title": "Curuzú Cuatiá confirmó su carnaval 2027: será en enero y febrero con cinco noches",
       "volanta": "FIESTA DE MOMO",
       "date": "2026-09-08T18:20:50+00:00"
-    },
-    {
-      "id": "73fcfbd5",
-      "image": "img/73fcfbd5.png",
-      "image_sha": "4042908965c25423dcb1565c574bed5a8e7d90be",
-      "url": "https://www.radiodos.com.ar/213546-tassano-diserto-sobre-la-tarea-de-modernizacion-que-lleva-adelante-en-corrientes",
-      "title": "Tassano disertó sobre la tarea de modernización que lleva adelante en Corrientes",
-      "volanta": "En Legislatura CABA",
-      "date": "2026-09-08T18:20:18+00:00"
     }
   ]
 }
