@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T18:30:33+00:00",
+  "updated": "2026-09-11T19:14:35+00:00",
   "posts": [
+    {
+      "id": "3e4a0469",
+      "image": "img/3e4a0469.png",
+      "image_sha": "2d29984780dde5dc2c043ffcaeb2e29a4887c7e8",
+      "url": "https://www.radiodos.com.ar/213728-angel-de-brito-afirmo-que-gime-accardi-le-fue-infiel-a-nico-vazquez-con-andres-gil-y-revelo-detalles-explosivos",
+      "title": "Ángel de Brito afirmó que Gime Accardi le fue infiel a Nico Vázquez con Andrés Gil y reveló detalles explosivos",
+      "volanta": "BOMBA",
+      "date": "2026-09-11T19:14:35+00:00"
+    },
     {
       "id": "11d27c12",
       "image": "img/11d27c12.png",
@@ -531,15 +540,6 @@
       "title": "María Noguera: \"Todo lo que dijo Laudelina fue mentira, quiso hundir a la familia\"",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-09-09T19:46:34+00:00"
-    },
-    {
-      "id": "61e557f9",
-      "image": "img/61e557f9.png",
-      "image_sha": "8ee62336baa5699253f3dadd546c8450b39da7f4",
-      "url": "https://www.radiodos.com.ar/213590-masterchef-celebrity-confirmo-a-sus-24-participantes-quienes-estaran-en-la-nueva-edicion",
-      "title": "MasterChef Celebrity confirmó a sus 24 participantes: quiénes estarán en la nueva edición",
-      "volanta": "VUELVE CON TODO",
-      "date": "2026-09-09T16:40:24+00:00"
     }
   ]
 }
