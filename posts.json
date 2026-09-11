@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T20:41:19+00:00",
+  "updated": "2026-09-11T21:07:49+00:00",
   "posts": [
+    {
+      "id": "069cd732",
+      "image": "img/069cd732.png",
+      "image_sha": "74dbc5b6acf973793969214cff8193df9ef1f8e7",
+      "url": "https://www.radiodos.com.ar/213739-otra-causa-contra-chiqui-tapia-lo-investigan-por-enriquecimiento-ilicito-en-la-ceamse",
+      "title": "Otra causa contra \"Chiqui\" Tapia: lo investigan por enriquecimiento ilícito en la Ceamse",
+      "volanta": "Presidente de la afa",
+      "date": "2026-09-11T21:07:49+00:00"
+    },
     {
       "id": "6cf04800",
       "image": "img/6cf04800.png",
@@ -531,15 +540,6 @@
       "title": "Declaró Benítez en el juicio por Loan: \"Lo digo con la mano en el corazón, soy inocente\"",
       "volanta": "POR JUSTICIA",
       "date": "2026-09-09T21:15:19+00:00"
-    },
-    {
-      "id": "5ae3cbea",
-      "image": "img/5ae3cbea.png",
-      "image_sha": "f1633e1a9c5319cd8700b5cec325ab1775417249",
-      "url": "https://www.radiodos.com.ar/213610-motociclista-termino-en-el-hospital-tras-sufrir-un-accidente-sobre-avenida-ferre",
-      "title": "Motociclista terminó en el hospital tras sufrir un accidente sobre avenida Ferré",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-09T21:13:53+00:00"
     }
   ]
 }
