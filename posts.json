@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T12:31:47+00:00",
+  "updated": "2026-09-11T12:48:57+00:00",
   "posts": [
+    {
+      "id": "b5acbf97",
+      "image": "img/b5acbf97.png",
+      "image_sha": "d775333d51ef8bc536bc22d61e4504a9b5de3a15",
+      "url": "https://www.radiodos.com.ar/213698-justicia-por-milagros-sigue-el-juicio-por-la-atroz-muerte-de-la-adolescente-en-monte-caseros",
+      "title": "Justicia por Milagros: sigue el juicio por la atroz muerte de la adolescente en Monte Caseros",
+      "volanta": "A MAS DE DOS AÑOS",
+      "date": "2026-09-11T12:48:57+00:00"
+    },
     {
       "id": "ee3e0fe0",
       "image": "img/ee3e0fe0.png",
@@ -531,15 +540,6 @@
       "title": "Las Murciélagas vencieron a Brasil y son campeonas de la primera Copa América",
       "volanta": "HICIERON HISTORIA",
       "date": "2026-09-08T22:03:21+00:00"
-    },
-    {
-      "id": "8408efb6",
-      "image": "img/8408efb6.png",
-      "image_sha": "3846e7b16e957940abf9f9d537eb6f7ba48fd9da",
-      "url": "https://www.radiodos.com.ar/213558-delincuentes-violentaron-un-comercio-y-sustrajeron-prendas-por-medio-millon-de-pesos",
-      "title": "Delincuentes violentaron un comercio y sustrajeron prendas por medio millón de pesos",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-09-08T21:57:22+00:00"
     }
   ]
 }
