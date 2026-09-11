@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T21:09:17+00:00",
+  "updated": "2026-09-11T21:13:54+00:00",
   "posts": [
+    {
+      "id": "d7af2cd2",
+      "image": "img/d7af2cd2.png",
+      "image_sha": "0d8303970b5d2362ab0824085bef682db9ad4de5",
+      "url": "https://www.radiodos.com.ar/213744-casacion-rechazo-la-recusacion-contra-los-jueces-y-el-juicio-contra-pity-alvarez-continua",
+      "title": "Casación rechazó la recusación contra los jueces y el juicio contra Pity Álvarez continúa",
+      "volanta": "Acusado de homicidio",
+      "date": "2026-09-11T21:13:54+00:00"
+    },
     {
       "id": "62ad7492",
       "image": "img/62ad7492.png",
@@ -531,15 +540,6 @@
       "title": "Convocan a jóvenes líderes a participar por becas para formarse en Buenos Aires y Estados Unidos",
       "volanta": "corrientes",
       "date": "2026-09-09T21:56:42+00:00"
-    },
-    {
-      "id": "4350baa7",
-      "image": "img/4350baa7.png",
-      "image_sha": "02a482aa8b34a4c21d20e24cc8bd672723680950",
-      "url": "https://www.radiodos.com.ar/213612-el-programa-la-muni-en-tu-barrio-acerco-controles-vacunas-y-medicamentos-al-ongay",
-      "title": "El programa \"La Muni en tu Barrio\" acercó controles, vacunas y medicamentos al Ongay",
-      "volanta": "corrientes",
-      "date": "2026-09-09T21:56:03+00:00"
     }
   ]
 }
