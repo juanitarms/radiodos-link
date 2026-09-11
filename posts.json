@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T18:28:48+00:00",
+  "updated": "2026-09-11T18:29:25+00:00",
   "posts": [
+    {
+      "id": "f716bbf3",
+      "image": "img/f716bbf3.png",
+      "image_sha": "8d89fa5d46341625bfac7bd2a7e1edd5ea3b90ac",
+      "url": "https://www.radiodos.com.ar/213723-donde-dirigira-walter-samuel-tras-dejar-el-cuerpo-tecnico-de-lionel-scaloni",
+      "title": "Dónde dirigirá Walter Samuel tras dejar el cuerpo técnico de Lionel Scaloni",
+      "volanta": "NUEVO CAMINO",
+      "date": "2026-09-11T18:29:25+00:00"
+    },
     {
       "id": "e673aad5",
       "image": "img/e673aad5.png",
@@ -531,15 +540,6 @@
       "title": "Salud de Mirtha Legrand: qué es el \"hamartoma pulmonar\" que detectaron los médicos",
       "volanta": "SIGUE INTERNADA",
       "date": "2026-09-09T15:04:31+00:00"
-    },
-    {
-      "id": "eac20b9e",
-      "image": "img/eac20b9e.png",
-      "image_sha": "abb7cc13b8dfac60784045c3f52ddb8bc0218dce",
-      "url": "https://www.radiodos.com.ar/213587-revelaron-la-posible-causa-de-la-mortal-avalancha-en-nepal",
-      "title": "Revelaron la posible causa de la mortal avalancha en Nepal",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-09-09T14:39:22+00:00"
     }
   ]
 }
