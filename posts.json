@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T17:23:36+00:00",
+  "updated": "2026-09-11T17:24:08+00:00",
   "posts": [
+    {
+      "id": "d8e1c07d",
+      "image": "img/d8e1c07d.png",
+      "image_sha": "25a936bef81ea761a964dd5d76b608babc3f6ebc",
+      "url": "https://www.radiodos.com.ar/213714-el-gobierno-nacional-designo-al-nuevo-presidente-del-incucai",
+      "title": "El gobierno nacional designó al nuevo presidente del Incucai",
+      "volanta": "OFICIAL",
+      "date": "2026-09-11T17:24:08+00:00"
+    },
     {
       "id": "49050c78",
       "image": "img/49050c78.png",
@@ -531,15 +540,6 @@
       "title": "Por medio de una orden judicial detuvieron a un hombre por una causa de abuso",
       "volanta": "RIACHUELO",
       "date": "2026-09-09T14:01:02+00:00"
-    },
-    {
-      "id": "a6bdb489",
-      "image": "img/a6bdb489.png",
-      "image_sha": "1baeeb0501d082fa568ed54ae33fedadb46ed644",
-      "url": "https://www.radiodos.com.ar/213575-la-yerra-y-el-maestrazo-dos-eventos-en-la-agenda-del-fin-de-semana-en-corrientes",
-      "title": "\"La Yerra\" y el \"Maestrazo\", dos eventos en la agenda del fin de semana en Corrientes",
-      "volanta": "ITUZAINGÓ Y PASO DE LA PATRIA",
-      "date": "2026-09-09T13:33:45+00:00"
     }
   ]
 }
