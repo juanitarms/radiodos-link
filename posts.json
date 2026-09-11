@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T19:15:09+00:00",
+  "updated": "2026-09-11T20:38:36+00:00",
   "posts": [
+    {
+      "id": "4653fddb",
+      "image": "img/4653fddb.png",
+      "image_sha": "594095ad02b51a530f6c1a14b0571d3e084bd622",
+      "url": "https://www.radiodos.com.ar/213737-un-hombre-murio-en-misiones-a-causa-de-un-fuerte-temporal",
+      "title": "Un hombre murió en Misiones a causa de un fuerte temporal",
+      "volanta": "Tragedia",
+      "date": "2026-09-11T20:38:36+00:00"
+    },
     {
       "id": "569b0c33",
       "image": "img/569b0c33.png",
@@ -531,15 +540,6 @@
       "title": "Alianza entre el Municipio y la UCP para mejorar los servicios de la ciudad",
       "volanta": "corrientes",
       "date": "2026-09-09T21:02:40+00:00"
-    },
-    {
-      "id": "1f654e35",
-      "image": "img/1f654e35.png",
-      "image_sha": "9fc4488c9c0116747d9899cf43fd5ab48399e526",
-      "url": "https://www.radiodos.com.ar/213602-cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-el-retiro-de-lionel-messi",
-      "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
-      "volanta": "EL ELEGIDO",
-      "date": "2026-09-09T19:47:07+00:00"
     }
   ]
 }
