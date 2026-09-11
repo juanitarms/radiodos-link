@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T21:07:49+00:00",
+  "updated": "2026-09-11T21:09:17+00:00",
   "posts": [
+    {
+      "id": "62ad7492",
+      "image": "img/62ad7492.png",
+      "image_sha": "61351d470573095ed174339bb98c5fb2985e540e",
+      "url": "https://www.radiodos.com.ar/213738-vecinos-justicieros-en-corrientes-ataron-a-un-poste-y-golpearon-a-ladrones-de-una-quinta-horticola",
+      "title": "Vecinos justicieros en Corrientes: ataron a un poste y golpearon a ladrones de una quinta hortícola",
+      "volanta": "BARRIO ESPERANZA",
+      "date": "2026-09-11T21:09:17+00:00"
+    },
     {
       "id": "069cd732",
       "image": "img/069cd732.png",
@@ -531,15 +540,6 @@
       "title": "El programa \"La Muni en tu Barrio\" acercó controles, vacunas y medicamentos al Ongay",
       "volanta": "corrientes",
       "date": "2026-09-09T21:56:03+00:00"
-    },
-    {
-      "id": "6a3f19f9",
-      "image": "img/6a3f19f9.png",
-      "image_sha": "09d51054a8354c2537f072acfcff990d19792046",
-      "url": "https://www.radiodos.com.ar/213609-declaro-benitez-en-el-juicio-por-loan-lo-digo-con-la-mano-en-el-corazon-soy-inocente",
-      "title": "Declaró Benítez en el juicio por Loan: \"Lo digo con la mano en el corazón, soy inocente\"",
-      "volanta": "POR JUSTICIA",
-      "date": "2026-09-09T21:15:19+00:00"
     }
   ]
 }
