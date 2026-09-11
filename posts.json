@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T13:48:22+00:00",
+  "updated": "2026-09-11T14:15:53+00:00",
   "posts": [
+    {
+      "id": "8e5b5c52",
+      "image": "img/8e5b5c52.png",
+      "image_sha": "8a44db74db35e4da9c23506025e9f3b1ed6c68c7",
+      "url": "https://www.radiodos.com.ar/213705-argentina-quedo-segunda-en-el-ranking-latinoamericano-de-inflacion-con-una-acumulacion-anual-del-335",
+      "title": "Argentina quedó segunda en el ranking latinoamericano de inflación con una acumulación anual del 33,5%",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-11T14:15:53+00:00"
+    },
     {
       "id": "2452f1e9",
       "image": "img/2452f1e9.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: rescataron a un hombre entre las llamas tras incendio de una vivienda",
       "volanta": "BARRIO SUR",
       "date": "2026-09-09T11:48:55+00:00"
-    },
-    {
-      "id": "dc307165",
-      "image": "img/dc307165.png",
-      "image_sha": "c0b096277d682abba7f495cb235ce9a7f36a646b",
-      "url": "https://www.radiodos.com.ar/213567-un-muerto-tras-despiste-y-vuelco-cerca-del-acceso-a-una-localidad-del-interior-de-corrientes",
-      "title": "Un muerto tras despiste y vuelco cerca del acceso a una localidad del interior de Corrientes",
-      "volanta": "TRAGEDIA EN LA RUTA PROVINCIAL 129",
-      "date": "2026-09-09T11:34:01+00:00"
     }
   ]
 }
