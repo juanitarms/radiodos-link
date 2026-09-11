@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T20:38:36+00:00",
+  "updated": "2026-09-11T20:39:55+00:00",
   "posts": [
+    {
+      "id": "652ce96e",
+      "image": "img/652ce96e.png",
+      "image_sha": "8b7184d3f9975d7d3ad5cdbe0095967c44629252",
+      "url": "https://www.radiodos.com.ar/213736-el-secretario-de-cultura-de-nacion-visito-corrientes-y-ratifico-su-apoyo-al-chamame",
+      "title": "El secretario de Cultura de Nación visitó Corrientes y ratificó su apoyo al chamamé",
+      "volanta": "VÍNCULOS INSTITUCIONALES",
+      "date": "2026-09-11T20:39:55+00:00"
+    },
     {
       "id": "4653fddb",
       "image": "img/4653fddb.png",
@@ -531,15 +540,6 @@
       "title": "Más del 50% de los hogares urbanos recurrió al financiamiento durante el primer trimestre de 2026",
       "volanta": "CRISIS",
       "date": "2026-09-09T21:11:55+00:00"
-    },
-    {
-      "id": "2c1224ce",
-      "image": "img/2c1224ce.png",
-      "image_sha": "848ce6162a6f9750861311f8282a7724ea3d18a2",
-      "url": "https://www.radiodos.com.ar/213608-alianza-entre-el-municipio-y-la-ucp-para-mejorar-los-servicios-de-la-ciudad",
-      "title": "Alianza entre el Municipio y la UCP para mejorar los servicios de la ciudad",
-      "volanta": "corrientes",
-      "date": "2026-09-09T21:02:40+00:00"
     }
   ]
 }
