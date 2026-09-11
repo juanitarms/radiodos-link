@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T23:03:29+00:00",
+  "updated": "2026-09-11T11:18:27+00:00",
   "posts": [
+    {
+      "id": "d80661ce",
+      "image": "img/d80661ce.png",
+      "image_sha": "2da14dd87c859632bf295c356cd6a109f8f7c627",
+      "url": "https://www.radiodos.com.ar/213685-el-norte-grande-apunto-sus-criticas-a-milei-las-provincias-acusaron-al-gobierno-de-no-dialogar-y-dividir",
+      "title": "El Norte Grande apuntó sus críticas a Milei: las provincias acusaron al Gobierno de \"no dialogar y dividir\"",
+      "volanta": "EN LA RIOJA",
+      "date": "2026-09-11T11:18:27+00:00"
+    },
     {
       "id": "b88b0f5c",
       "image": "img/b88b0f5c.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés anunció que el litio de Jujuy saldrá por puertos correntinos",
       "volanta": "DESARROLLO FEDERAL",
       "date": "2026-09-08T21:30:36+00:00"
-    },
-    {
-      "id": "dd2bc41f",
-      "image": "img/dd2bc41f.png",
-      "image_sha": "aa967915318ba6104d7fb49009a36991987dffe1",
-      "url": "https://www.radiodos.com.ar/213556-malvinas-argentina-inicio-sanciones-contra-otros-15-sujetos-por-actividades-hidrocarburiferas-ilegitimas",
-      "title": "Malvinas: Argentina inició sanciones contra otros 15 sujetos por actividades hidrocarburíferas ilegítimas",
-      "volanta": "AUMENTA LA TENSIÓN",
-      "date": "2026-09-08T21:30:06+00:00"
     }
   ]
 }
