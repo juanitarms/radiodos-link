@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T17:24:41+00:00",
+  "updated": "2026-09-11T18:28:48+00:00",
   "posts": [
+    {
+      "id": "e673aad5",
+      "image": "img/e673aad5.png",
+      "image_sha": "07b521bc291b6c870f553f785a9dc9e84f758e0a",
+      "url": "https://www.radiodos.com.ar/213720-corrientes-recibira-a-la-elite-mundial-de-la-fisica-quimica-teorica-en-el-congreso-istcp-2027",
+      "title": "Corrientes recibirá a la elite mundial de la física química teórica en el congreso ISTCP 2027",
+      "volanta": "CIENCIA",
+      "date": "2026-09-11T18:28:48+00:00"
+    },
     {
       "id": "798d2232",
       "image": "img/798d2232.png",
@@ -531,15 +540,6 @@
       "title": "Revelaron la posible causa de la mortal avalancha en Nepal",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-09-09T14:39:22+00:00"
-    },
-    {
-      "id": "68bc57b7",
-      "image": "img/68bc57b7.png",
-      "image_sha": "f2632ca959c154311f73fc0f14035e57bd4c65f8",
-      "url": "https://www.radiodos.com.ar/213584-luis-caputo-a-estudiantes-universitarios-convenzan-a-sus-padres-de-que-saquen-los-dolares-del-colchon",
-      "title": "Luis Caputo a estudiantes universitarios: \"Convenzan a sus padres de que saquen los dólares del colchón\"",
-      "volanta": "PEDIDO",
-      "date": "2026-09-09T14:25:18+00:00"
     }
   ]
 }
