@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T21:13:54+00:00",
+  "updated": "2026-09-11T22:21:20+00:00",
   "posts": [
+    {
+      "id": "56a90f96",
+      "image": "img/56a90f96.png",
+      "image_sha": "3b03c31b64b00bd99d9b043691ccef1760675a89",
+      "url": "https://www.radiodos.com.ar/213743-pequena-de-3-anos-oriunda-de-corrientes-murio-en-un-hospital-bonaerense-tenia-varios-hematomas-y-golpes-recientes",
+      "title": "Pequeña de 3 años oriunda de Corrientes murió en un hospital bonaerense: tenía varios hematomas y golpes recientes",
+      "volanta": "MUCHAS DUDAS",
+      "date": "2026-09-11T22:21:20+00:00"
+    },
     {
       "id": "d7af2cd2",
       "image": "img/d7af2cd2.png",
@@ -531,15 +540,6 @@
       "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
       "volanta": "CONFIRMADO",
       "date": "2026-09-09T21:57:13+00:00"
-    },
-    {
-      "id": "a0c380fc",
-      "image": "img/a0c380fc.png",
-      "image_sha": "518cdfc3e3449db2a67df9f81b32961876a08e8f",
-      "url": "https://www.radiodos.com.ar/213614-convocan-a-jovenes-lideres-a-participar-por-becas-para-formarse-en-buenos-aires-y-estados-unidos",
-      "title": "Convocan a jóvenes líderes a participar por becas para formarse en Buenos Aires y Estados Unidos",
-      "volanta": "corrientes",
-      "date": "2026-09-09T21:56:42+00:00"
     }
   ]
 }
