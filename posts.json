@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T14:15:53+00:00",
+  "updated": "2026-09-11T14:36:57+00:00",
   "posts": [
+    {
+      "id": "d2e2a9dd",
+      "image": "img/d2e2a9dd.png",
+      "image_sha": "11e9f088a54f2aa32cd36b2670469a2465e533f0",
+      "url": "https://www.radiodos.com.ar/213700-el-parque-camba-cua-recibira-este-domingo-al-primer-mercado-de-pulgas-municipal-en-corrientes",
+      "title": "El parque Cambá Cuá recibirá este domingo al primer Mercado de Pulgas municipal en Corrientes",
+      "volanta": "ECONOMÍA CIRCULAR",
+      "date": "2026-09-11T14:36:57+00:00"
+    },
     {
       "id": "8e5b5c52",
       "image": "img/8e5b5c52.png",
@@ -531,15 +540,6 @@
       "title": "Textil Alal presentó su proyección financiera en medio del concurso preventivo y pone en jaque indemnizaciónes",
       "volanta": "GOYA",
       "date": "2026-09-09T12:08:44+00:00"
-    },
-    {
-      "id": "9e93cece",
-      "image": "img/9e93cece.png",
-      "image_sha": "2d0af231f4854e1d12c32d08609a75d5f3e6bafd",
-      "url": "https://www.radiodos.com.ar/213566-corrientes-rescataron-a-un-hombre-entre-las-llamas-tras-incendio-de-una-vivienda",
-      "title": "Corrientes: rescataron a un hombre entre las llamas tras incendio de una vivienda",
-      "volanta": "BARRIO SUR",
-      "date": "2026-09-09T11:48:55+00:00"
     }
   ]
 }
