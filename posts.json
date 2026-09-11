@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T14:57:37+00:00",
+  "updated": "2026-09-11T15:20:53+00:00",
   "posts": [
+    {
+      "id": "4aa4be48",
+      "image": "img/4aa4be48.png",
+      "image_sha": "bcd092324a6229146122b5054fd9f1435acb3e2f",
+      "url": "https://www.radiodos.com.ar/213713-san-cosme-se-prepara-para-celebrar-sus-fiestas-patronales-con-una-amplia-agenda-de-actividades",
+      "title": "San Cosme se prepara para celebrar sus Fiestas Patronales con una amplia agenda de actividades",
+      "volanta": "Arte, deporte, cultura",
+      "date": "2026-09-11T15:20:53+00:00"
+    },
     {
       "id": "197d94fc",
       "image": "img/197d94fc.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: más de 150 personas se capacitaron en el uso seguro del fuego para prevenir incendios",
       "volanta": "PREVENCIÓN Y MANEJO DEL FUEGO",
       "date": "2026-09-09T13:18:28+00:00"
-    },
-    {
-      "id": "91e44e26",
-      "image": "img/91e44e26.png",
-      "image_sha": "4038f50515a1553aea0496450fdf16e60cecf8b3",
-      "url": "https://www.radiodos.com.ar/213570-juan-pablo-valdes-encabezo-el-acto-por-el-209°-aniversario-de-loreto",
-      "title": "Juan Pablo Valdés encabezó el acto por el 209° aniversario de Loreto",
-      "volanta": "ACTIVIDADES CONMEMORATIVAS",
-      "date": "2026-09-09T13:04:44+00:00"
     }
   ]
 }
