@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T19:14:35+00:00",
+  "updated": "2026-09-11T19:15:09+00:00",
   "posts": [
+    {
+      "id": "569b0c33",
+      "image": "img/569b0c33.png",
+      "image_sha": "4d1f6dee21630f46d00d57aaac33bc0c44cde146",
+      "url": "https://www.radiodos.com.ar/213727-una-vestuarista-denuncio-a-axel-por-acoso-sexual-escucho-celebra-la-vida-y-me-descompongo",
+      "title": "Una vestuarista denunció a Axel por acoso sexual: \"Escucho \"Celebra la vida\" y me descompongo\"",
+      "volanta": "UNA MÁS",
+      "date": "2026-09-11T19:15:09+00:00"
+    },
     {
       "id": "3e4a0469",
       "image": "img/3e4a0469.png",
@@ -531,15 +540,6 @@
       "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
       "volanta": "EL ELEGIDO",
       "date": "2026-09-09T19:47:07+00:00"
-    },
-    {
-      "id": "6cb52ec2",
-      "image": "img/6cb52ec2.png",
-      "image_sha": "9f691eacb32a9dbd91bbe48653bdca3947d634c7",
-      "url": "https://www.radiodos.com.ar/213603-maria-noguera-todo-lo-que-dijo-laudelina-fue-mentira-quiso-hundir-a-la-familia",
-      "title": "María Noguera: \"Todo lo que dijo Laudelina fue mentira, quiso hundir a la familia\"",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-09-09T19:46:34+00:00"
     }
   ]
 }
