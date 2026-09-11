@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T11:48:47+00:00",
+  "updated": "2026-09-11T12:31:47+00:00",
   "posts": [
+    {
+      "id": "ee3e0fe0",
+      "image": "img/ee3e0fe0.png",
+      "image_sha": "875d5fdbf86053b47390f9fd3077ea82ef11aa9c",
+      "url": "https://www.radiodos.com.ar/213691-se-lanzo-el-programa-torditos-amarillos-educacion-ambiental-y-avistaje-de-aves-para-desconectar-a-los-ninos-de-las-pantallas",
+      "title": "Se lanzó el programa \"Torditos amarillos\": educación ambiental y avistaje de aves para desconectar a los niños de las pantallas",
+      "volanta": "INICIATIVA",
+      "date": "2026-09-11T12:31:47+00:00"
+    },
     {
       "id": "df8ec4bb",
       "image": "img/df8ec4bb.png",
@@ -531,15 +540,6 @@
       "title": "Delincuentes violentaron un comercio y sustrajeron prendas por medio millón de pesos",
       "volanta": "INSEGURIDAD",
       "date": "2026-09-08T21:57:22+00:00"
-    },
-    {
-      "id": "b13d004b",
-      "image": "img/b13d004b.png",
-      "image_sha": "fce2ecb8f546611a2b10b0f096323b4132590e02",
-      "url": "https://www.radiodos.com.ar/213559-regatas-presento-su-plantel-para-la-temporada-2026-2027",
-      "title": "Regatas presentó su plantel para la temporada 2026/2027",
-      "volanta": "LIGA NACIONAL",
-      "date": "2026-09-08T21:56:54+00:00"
     }
   ]
 }
