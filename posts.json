@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T20:40:47+00:00",
+  "updated": "2026-09-11T20:41:19+00:00",
   "posts": [
+    {
+      "id": "6cf04800",
+      "image": "img/6cf04800.png",
+      "image_sha": "8f6db935993f7c52d400674ede6d6b47fc2a0b3f",
+      "url": "https://www.radiodos.com.ar/213732-juan-pablo-valdes-presento-destino-corrientes-y-destaco-al-turismo-como-motor-de-desarrollo",
+      "title": "Juan Pablo Valdés presentó \"Destino Corrientes\" y destacó al turismo como motor de desarrollo",
+      "volanta": "AUDITORIO JULIÁN ZINI",
+      "date": "2026-09-11T20:41:19+00:00"
+    },
     {
       "id": "6f276786",
       "image": "img/6f276786.png",
@@ -531,15 +540,6 @@
       "title": "Motociclista terminó en el hospital tras sufrir un accidente sobre avenida Ferré",
       "volanta": "CORRIENTES",
       "date": "2026-09-09T21:13:53+00:00"
-    },
-    {
-      "id": "357a7994",
-      "image": "img/357a7994.png",
-      "image_sha": "2d25a92df5e1ac719b6030a4bb5e4222647e81d0",
-      "url": "https://www.radiodos.com.ar/213611-las-lagrimas-de-virginia-gallardo-en-diputados-al-despedir-a-chiche-gelblung-te-quiero",
-      "title": "Las lágrimas de Virginia Gallardo en Diputados al despedir a Chiche Gelblung: \"Te quiero\"",
-      "volanta": "LEGISLADORA CORRENTINA",
-      "date": "2026-09-09T21:13:06+00:00"
     }
   ]
 }
