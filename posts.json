@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T13:10:43+00:00",
+  "updated": "2026-09-11T13:24:02+00:00",
   "posts": [
+    {
+      "id": "ec5896ed",
+      "image": "img/ec5896ed.png",
+      "image_sha": "7d42bb8769907a201a1689da6238a8d5690693f4",
+      "url": "https://www.radiodos.com.ar/213692-cultura-ofrece-un-curso-gratuito-de-fotografia-profesional-para-principiantes",
+      "title": "Cultura ofrece un curso gratuito de fotografía profesional para principiantes",
+      "volanta": "DESTINADA A MAYORES DE 18 AÑOS",
+      "date": "2026-09-11T13:24:02+00:00"
+    },
     {
       "id": "71ca2722",
       "image": "img/71ca2722.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: Ladrones simularon ser albañiles para robar moto de un edificio",
       "volanta": "BARRIO VILLA GARCÍA",
       "date": "2026-09-09T11:06:56+00:00"
-    },
-    {
-      "id": "f8e6613e",
-      "image": "img/f8e6613e.png",
-      "image_sha": "92edb8f6ddc05a2bd5ec43943ccd0ae227ea0360",
-      "url": "https://www.radiodos.com.ar/213563-juicio-por-loan-declaran-una-testigo-del-hallazgo-del-botin-una-perito-y-un-vecino",
-      "title": "Juicio por Loan: declaran una testigo del hallazgo del botín, una perito y un vecino",
-      "volanta": "AUDIENCIA DE HOY",
-      "date": "2026-09-09T10:55:08+00:00"
     }
   ]
 }
