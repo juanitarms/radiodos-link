@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T15:20:53+00:00",
+  "updated": "2026-09-11T17:23:36+00:00",
   "posts": [
+    {
+      "id": "49050c78",
+      "image": "img/49050c78.png",
+      "image_sha": "a7449da59b17328105e4d9b31ac465bc0608f126",
+      "url": "https://www.radiodos.com.ar/213715-alerta-por-un-reto-viral-que-premia-a-adolescentes-por-desaparecer-durante-dos-dias",
+      "title": "Alerta por un reto viral que premia a adolescentes por desaparecer durante dos días",
+      "volanta": "TIKTOK",
+      "date": "2026-09-11T17:23:36+00:00"
+    },
     {
       "id": "4aa4be48",
       "image": "img/4aa4be48.png",
@@ -531,15 +540,6 @@
       "title": "\"La Yerra\" y el \"Maestrazo\", dos eventos en la agenda del fin de semana en Corrientes",
       "volanta": "ITUZAINGÓ Y PASO DE LA PATRIA",
       "date": "2026-09-09T13:33:45+00:00"
-    },
-    {
-      "id": "874b8c85",
-      "image": "img/874b8c85.png",
-      "image_sha": "ea08c066c2c77d84062b3927090267b8eed75423",
-      "url": "https://www.radiodos.com.ar/213577-corrientes-mas-de-150-personas-se-capacitaron-en-el-uso-seguro-del-fuego-para-prevenir-incendios",
-      "title": "Corrientes: más de 150 personas se capacitaron en el uso seguro del fuego para prevenir incendios",
-      "volanta": "PREVENCIÓN Y MANEJO DEL FUEGO",
-      "date": "2026-09-09T13:18:28+00:00"
     }
   ]
 }
