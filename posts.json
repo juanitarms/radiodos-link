@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T13:24:02+00:00",
+  "updated": "2026-09-11T13:48:22+00:00",
   "posts": [
+    {
+      "id": "2452f1e9",
+      "image": "img/2452f1e9.png",
+      "image_sha": "7c3e61a44eaaed11817cf6e1687c27b842c51dad",
+      "url": "https://www.radiodos.com.ar/213701-la-policia-de-corrientes-realizara-un-importante-dispositivo-de-seguridad-por-el-concierto-de-la-renga",
+      "title": "La Policía de Corrientes realizará un importante dispositivo de seguridad por el concierto de \"La Renga\"",
+      "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
+      "date": "2026-09-11T13:48:22+00:00"
+    },
     {
       "id": "ec5896ed",
       "image": "img/ec5896ed.png",
@@ -531,15 +540,6 @@
       "title": "Un muerto tras despiste y vuelco cerca del acceso a una localidad del interior de Corrientes",
       "volanta": "TRAGEDIA EN LA RUTA PROVINCIAL 129",
       "date": "2026-09-09T11:34:01+00:00"
-    },
-    {
-      "id": "29eab13a",
-      "image": "img/29eab13a.png",
-      "image_sha": "eefdba9ec423f8ace83ab9aceca50dedaa541d56",
-      "url": "https://www.radiodos.com.ar/213562-corrientes-ladrones-simularon-ser-albaniles-para-robar-moto-de-un-edificio",
-      "title": "Corrientes: Ladrones simularon ser albañiles para robar moto de un edificio",
-      "volanta": "BARRIO VILLA GARCÍA",
-      "date": "2026-09-09T11:06:56+00:00"
     }
   ]
 }
