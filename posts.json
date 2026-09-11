@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T20:39:55+00:00",
+  "updated": "2026-09-11T20:40:47+00:00",
   "posts": [
+    {
+      "id": "6f276786",
+      "image": "img/6f276786.png",
+      "image_sha": "03d6b0ff4b65a52c767738ce73cfc85dc45b1ed1",
+      "url": "https://www.radiodos.com.ar/213734-corrientes-recibira-a-la-elite-mundial-de-la-fisica-quimica-teorica-en-el-congreso-istcp-2027",
+      "title": "Corrientes recibirá a la elite mundial de la física química teórica en el congreso ISTCP 2027",
+      "volanta": "SEDE",
+      "date": "2026-09-11T20:40:47+00:00"
+    },
     {
       "id": "652ce96e",
       "image": "img/652ce96e.png",
@@ -531,15 +540,6 @@
       "title": "Las lágrimas de Virginia Gallardo en Diputados al despedir a Chiche Gelblung: \"Te quiero\"",
       "volanta": "LEGISLADORA CORRENTINA",
       "date": "2026-09-09T21:13:06+00:00"
-    },
-    {
-      "id": "514599a6",
-      "image": "img/514599a6.png",
-      "image_sha": "6fac2cb73fd3783824491f9beff17fdd103fcb42",
-      "url": "https://www.radiodos.com.ar/213607-mas-del-50-de-los-hogares-urbanos-recurrio-al-financiamiento-durante-el-primer-trimestre-de-2026",
-      "title": "Más del 50% de los hogares urbanos recurrió al financiamiento durante el primer trimestre de 2026",
-      "volanta": "CRISIS",
-      "date": "2026-09-09T21:11:55+00:00"
     }
   ]
 }
