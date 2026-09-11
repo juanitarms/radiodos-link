@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T11:18:27+00:00",
+  "updated": "2026-09-11T11:36:04+00:00",
   "posts": [
+    {
+      "id": "8f0e9385",
+      "image": "img/8f0e9385.png",
+      "image_sha": "85ebf46c10a75f484e58e064c99c58a909e0b06e",
+      "url": "https://www.radiodos.com.ar/213687-corrientes-una-mujer-asumio-por-primera-vez-la-jefatura-de-una-unidad-del-priar",
+      "title": "Corrientes: una mujer asumió por primera vez la Jefatura de una unidad del PRIAR",
+      "volanta": "CURUZU CUATIA",
+      "date": "2026-09-11T11:36:04+00:00"
+    },
     {
       "id": "d80661ce",
       "image": "img/d80661ce.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: hallaron el cuerpo del pescador que desapareció en el río Paraná",
       "volanta": "TRAGEDIA",
       "date": "2026-09-08T21:56:03+00:00"
-    },
-    {
-      "id": "a2803764",
-      "image": "img/a2803764.png",
-      "image_sha": "5b79232bcaa622949de726186f4efd6bb1c6eb70",
-      "url": "https://www.radiodos.com.ar/213554-juan-pablo-valdes-anuncio-que-el-litio-de-jujuy-saldra-por-puertos-correntinos",
-      "title": "Juan Pablo Valdés anunció que el litio de Jujuy saldrá por puertos correntinos",
-      "volanta": "DESARROLLO FEDERAL",
-      "date": "2026-09-08T21:30:36+00:00"
     }
   ]
 }
