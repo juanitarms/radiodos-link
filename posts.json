@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T22:21:20+00:00",
+  "updated": "2026-09-11T22:35:34+00:00",
   "posts": [
+    {
+      "id": "9e3f7ccc",
+      "image": "img/9e3f7ccc.png",
+      "image_sha": "498cbc6500335a69cc2f583264bd3e253962c98e",
+      "url": "https://www.radiodos.com.ar/213742-caso-cecilia-lazcano-la-querella-recuso-al-fiscal-y-apelara-la-prision-domiciliaria-de-la-menor-acusada",
+      "title": "Caso Cecilia Lazcano: la querella recusó al fiscal y apelará la prisión domiciliaria de la menor acusada",
+      "volanta": "SANTO TOME",
+      "date": "2026-09-11T22:35:34+00:00"
+    },
     {
       "id": "56a90f96",
       "image": "img/56a90f96.png",
@@ -531,15 +540,6 @@
       "title": "Caso Cecilia Lazcano: la querella insiste con un tercer implicado",
       "volanta": "CRIMEN",
       "date": "2026-09-09T22:38:55+00:00"
-    },
-    {
-      "id": "7ca31687",
-      "image": "img/7ca31687.png",
-      "image_sha": "0ca22c906e9149478908379558004e58ea5ec6f7",
-      "url": "https://www.radiodos.com.ar/213615-cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-el-retiro-de-lionel-messi",
-      "title": "Cuti Romero será el nuevo capitán de la Selección Argentina tras el retiro de Lionel Messi",
-      "volanta": "CONFIRMADO",
-      "date": "2026-09-09T21:57:13+00:00"
     }
   ]
 }
