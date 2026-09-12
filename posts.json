@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-11T22:41:16+00:00",
+  "updated": "2026-09-12T12:34:05+00:00",
   "posts": [
+    {
+      "id": "61c7f306",
+      "image": "img/61c7f306.png",
+      "image_sha": "92ecf6ef2f9a9aa1edbfc0eadf99fda98cb1c72e",
+      "url": "https://www.radiodos.com.ar/213751-la-renga-en-corrientes-ultimas-entradas-y-toda-la-informacion-para-este-sabado",
+      "title": "La Renga en Corrientes: últimas entradas y toda la información para este sábado",
+      "volanta": "en el anfiteatro",
+      "date": "2026-09-12T12:34:05+00:00"
+    },
     {
       "id": "1de751b0",
       "image": "img/1de751b0.png",
@@ -531,15 +540,6 @@
       "title": "Un camión despistó y volcó sobre la Ruta Nacional 14",
       "volanta": "CERCA DE COLONIA LIBERTAD",
       "date": "2026-09-10T11:18:33+00:00"
-    },
-    {
-      "id": "c3f34195",
-      "image": "img/c3f34195.png",
-      "image_sha": "b7ce7508c3a3c9ed936ab8a983b9a75d581e504b",
-      "url": "https://www.radiodos.com.ar/213619-juicio-por-loan-hoy-el-unico-declarante-sera-el-comisario-maciel",
-      "title": "Juicio por Loan: hoy el único declarante será el comisario Maciel",
-      "volanta": "AUDIENCIA REDUCIDA",
-      "date": "2026-09-10T10:24:22+00:00"
     }
   ]
 }
