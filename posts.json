@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-12T13:17:40+00:00",
+  "updated": "2026-09-12T14:16:39+00:00",
   "posts": [
+    {
+      "id": "e49bd5b3",
+      "image": "img/e49bd5b3.png",
+      "image_sha": "10e81889c14743bd4dc7a829f4abb12a33221a04",
+      "url": "https://www.radiodos.com.ar/213754-en-corrientes-remiseros-correntinos-lanzaran-una-app-para-competir-con-uber",
+      "title": "En Corrientes, remiseros correntinos lanzarán una app para competir con Uber",
+      "volanta": "Hacia finales de septiembre",
+      "date": "2026-09-12T14:16:39+00:00"
+    },
     {
       "id": "ddf77629",
       "image": "img/ddf77629.png",
@@ -531,15 +540,6 @@
       "title": "Crudo documento de Cáritas Argentina por el Día Mundial para la Prevención del Suicidio",
       "volanta": "ALERTA",
       "date": "2026-09-10T12:47:58+00:00"
-    },
-    {
-      "id": "22e9c39a",
-      "image": "img/22e9c39a.png",
-      "image_sha": "89f7bf89577fb680fd2f76350bc5615bca637615",
-      "url": "https://www.radiodos.com.ar/213623-horror-en-un-colectivo-en-ruta-de-corrientes-viajaba-con-su-hijo-muerto-en-sus-brazos",
-      "title": "Horror en un colectivo en ruta de Corrientes: viajaba con su hijo muerto en sus brazos",
-      "volanta": "CERCA DE ESTACIÓN TORRENT",
-      "date": "2026-09-10T11:35:11+00:00"
     }
   ]
 }
