@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-12T12:34:05+00:00",
+  "updated": "2026-09-12T13:17:40+00:00",
   "posts": [
+    {
+      "id": "ddf77629",
+      "image": "img/ddf77629.png",
+      "image_sha": "bf2f0451b2fdc516aa1a66b9edc543fc47cf22ce",
+      "url": "https://www.radiodos.com.ar/213740-la-policia-de-corrientes-busca-profesionales-universitarios-como-inscribirse-y-que-carreras-convocan",
+      "title": "La Policía de Corrientes busca profesionales universitarios: cómo inscribirse y qué carreras convocan",
+      "volanta": "Convocatoria",
+      "date": "2026-09-12T13:17:40+00:00"
+    },
     {
       "id": "61c7f306",
       "image": "img/61c7f306.png",
@@ -531,15 +540,6 @@
       "title": "Horror en un colectivo en ruta de Corrientes: viajaba con su hijo muerto en sus brazos",
       "volanta": "CERCA DE ESTACIÓN TORRENT",
       "date": "2026-09-10T11:35:11+00:00"
-    },
-    {
-      "id": "d22141fe",
-      "image": "img/d22141fe.png",
-      "image_sha": "c256f76618fc16277e32d366ce9005dc9a80d589",
-      "url": "https://www.radiodos.com.ar/213622-un-camion-despisto-y-volco-sobre-la-ruta-nacional-14",
-      "title": "Un camión despistó y volcó sobre la Ruta Nacional 14",
-      "volanta": "CERCA DE COLONIA LIBERTAD",
-      "date": "2026-09-10T11:18:33+00:00"
     }
   ]
 }
