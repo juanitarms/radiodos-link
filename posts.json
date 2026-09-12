@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-12T15:03:33+00:00",
+  "updated": "2026-09-12T19:37:03+00:00",
   "posts": [
+    {
+      "id": "7899cf09",
+      "image": "img/7899cf09.png",
+      "image_sha": "b4cecfda4efb3f7aa5578e16f4952a37b9edb13c",
+      "url": "https://www.radiodos.com.ar/213756-supuesto-ladron-denuncio-a-sus-golpeadores-tras-caso-de-vecinos-justicieros-en-corrientes",
+      "title": "Supuesto ladrón denunció a sus golpeadores tras caso de \"vecinos justicieros\" en Corrientes",
+      "volanta": "BARRIO ESPERANZA",
+      "date": "2026-09-12T19:37:03+00:00"
+    },
     {
       "id": "83907824",
       "image": "img/83907824.png",
@@ -531,15 +540,6 @@
       "title": "Dividendo Trump: prometió US$5 mil para cada ciudadano si gana su partido",
       "volanta": "Presidente de Estados Unidos",
       "date": "2026-09-10T13:39:27+00:00"
-    },
-    {
-      "id": "79560c36",
-      "image": "img/79560c36.png",
-      "image_sha": "3da05df99f87bee9dd6f682f94df898e5b5199a9",
-      "url": "https://www.radiodos.com.ar/213642-el-fuerte-respaldo-que-recibio-julian-alvarez-en-atletico-de-madrid-lo-tienen-que-dejar-en-paz",
-      "title": "El fuerte respaldo que recibió Julián Álvarez en Atlético de Madrid: \"Lo tienen que dejar en paz\"",
-      "volanta": "ESPAÑA",
-      "date": "2026-09-10T13:06:11+00:00"
     }
   ]
 }
