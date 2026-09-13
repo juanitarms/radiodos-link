@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T15:25:58+00:00",
+  "updated": "2026-09-13T15:34:27+00:00",
   "posts": [
+    {
+      "id": "2510238c",
+      "image": "img/2510238c.png",
+      "image_sha": "37c59c1cd1f00c40c4ffa539519569cf0b6df176",
+      "url": "https://www.radiodos.com.ar/213792-finalizo-con-exito-el-operativo-de-seguridad-por-el-recital-de-la-renga-en-corrientes",
+      "title": "Finalizó con éxito el operativo de seguridad por el recital de La Renga en Corrientes",
+      "volanta": "ANFITEATRO COCOMAROLA",
+      "date": "2026-09-13T15:34:27+00:00"
+    },
     {
       "id": "d1b148cc",
       "image": "img/d1b148cc.png",
@@ -531,15 +540,6 @@
       "title": "Fiscal Schaefer afirmó que no le cree a Benítez y destacó la declaración de Cristian Gutiérrez",
       "volanta": "JUICIO POR LOAN",
       "date": "2026-09-10T16:49:11+00:00"
-    },
-    {
-      "id": "2d5f4408",
-      "image": "img/2d5f4408.png",
-      "image_sha": "aea3c04b126d9277534d599982192ebbdc558e35",
-      "url": "https://www.radiodos.com.ar/213662-los-restos-de-chiche-gelblung-ya-descansan-en-la-tablada-tras-su-emotiva-despedida",
-      "title": "Los restos de Chiche Gelblung ya descansan en La Tablada tras su emotiva despedida",
-      "volanta": "EN PAZ",
-      "date": "2026-09-10T15:11:07+00:00"
     }
   ]
 }
