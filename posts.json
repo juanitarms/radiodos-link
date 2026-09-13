@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T17:09:08+00:00",
+  "updated": "2026-09-13T20:05:09+00:00",
   "posts": [
+    {
+      "id": "1fdd6666",
+      "image": "img/1fdd6666.png",
+      "image_sha": "21ae82efd054e14d4da963416da24e255af0dd83",
+      "url": "https://www.radiodos.com.ar/213796-si-la-zona-fria-tiene-ley-la-zona-calida-tambien-tiene-que-tener-su-ley-reclamo-gonzalez",
+      "title": "\"Si la zona fría tiene ley, la zona cálida también tiene que tener su ley\", reclamó González",
+      "volanta": "ENTREVISTA EN RADIO DOS",
+      "date": "2026-09-13T20:05:09+00:00"
+    },
     {
       "id": "35c810d5",
       "image": "img/35c810d5.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "ESTE JUEVES",
       "date": "2026-09-10T17:47:59+00:00"
-    },
-    {
-      "id": "43b7f4d3",
-      "image": "img/43b7f4d3.png",
-      "image_sha": "f016d1d064c438b0d0c77a63dc5a750da460484f",
-      "url": "https://www.radiodos.com.ar/213636-el-municipio-firmo-un-convenio-con-la-universidad-de-la-cuenca-del-plata-para-pasantias-y-practicas-profesionales",
-      "title": "El Municipio firmó un convenio con la Universidad de la Cuenca del Plata para pasantías y prácticas profesionales",
-      "volanta": "EDUCACIÓN Y FORMACIÓN",
-      "date": "2026-09-10T17:47:24+00:00"
     }
   ]
 }
