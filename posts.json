@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T14:29:27+00:00",
+  "updated": "2026-09-13T15:25:58+00:00",
   "posts": [
+    {
+      "id": "d1b148cc",
+      "image": "img/d1b148cc.png",
+      "image_sha": "d1400f5f43ef5fdd87415023a31b734b3e1b3b34",
+      "url": "https://www.radiodos.com.ar/213790-delegacion-de-la-cgt-expuso-ante-el-papa-la-situacion-del-pais",
+      "title": "Delegación de la CGT expuso ante el Papa la situación del país",
+      "volanta": "VATICANO",
+      "date": "2026-09-13T15:25:58+00:00"
+    },
     {
       "id": "90a2323d",
       "image": "img/90a2323d.png",
@@ -531,15 +540,6 @@
       "title": "Los restos de Chiche Gelblung ya descansan en La Tablada tras su emotiva despedida",
       "volanta": "EN PAZ",
       "date": "2026-09-10T15:11:07+00:00"
-    },
-    {
-      "id": "3bcfbc5e",
-      "image": "img/3bcfbc5e.png",
-      "image_sha": "862269c844fa995c07b9d101411443cb12cf2b0a",
-      "url": "https://www.radiodos.com.ar/213655-detuvieron-al-joven-acusado-por-el-femicidio-de-su-novia",
-      "title": "Detuvieron al joven acusado por el femicidio de su novia",
-      "volanta": "Ituzaingó",
-      "date": "2026-09-10T14:55:46+00:00"
     }
   ]
 }
