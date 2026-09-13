@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-12T19:37:03+00:00",
+  "updated": "2026-09-13T13:38:50+00:00",
   "posts": [
+    {
+      "id": "875dfd0a",
+      "image": "img/875dfd0a.png",
+      "image_sha": "8929f8f71eb4822f91d76cac9b29e989031ef421",
+      "url": "https://www.radiodos.com.ar/213781-quien-se-va-de-gran-hermano-el-lunes-14-de-septiembre-de-2026-segun-las-encuestas",
+      "title": "Quién se va de Gran Hermano el lunes 14 de septiembre de 2026 según las encuestas",
+      "volanta": "LLEGA LA GRAN FINAL",
+      "date": "2026-09-13T13:38:50+00:00"
+    },
     {
       "id": "7899cf09",
       "image": "img/7899cf09.png",
@@ -531,15 +540,6 @@
       "title": "Nuevo juicio por abuso sexual con acceso carnal contra el ginecólogo Gerardo Dahse",
       "volanta": "EL 14 DE SEPTIEMBRE",
       "date": "2026-09-10T14:15:30+00:00"
-    },
-    {
-      "id": "3b75831e",
-      "image": "img/3b75831e.png",
-      "image_sha": "813aceff2cb67481223402e8941e040b613e8de2",
-      "url": "https://www.radiodos.com.ar/213643-dividendo-trump-prometio-us5-mil-para-cada-ciudadano-si-gana-su-partido",
-      "title": "Dividendo Trump: prometió US$5 mil para cada ciudadano si gana su partido",
-      "volanta": "Presidente de Estados Unidos",
-      "date": "2026-09-10T13:39:27+00:00"
     }
   ]
 }
