@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T13:38:50+00:00",
+  "updated": "2026-09-13T13:48:47+00:00",
   "posts": [
+    {
+      "id": "455de411",
+      "image": "img/455de411.png",
+      "image_sha": "5589a06665d77e144c9202a696125356d64c2045",
+      "url": "https://www.radiodos.com.ar/213788-el-4067-de-los-hogares-argentinos-presenta-deficit-habitacional",
+      "title": "El 40,67% de los hogares argentinos presenta déficit habitacional",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-13T13:48:47+00:00"
+    },
     {
       "id": "875dfd0a",
       "image": "img/875dfd0a.png",
@@ -531,15 +540,6 @@
       "title": "La empresa Crucero del Norte dejó de operar sus servicios de larga distancia",
       "volanta": "GRAVE",
       "date": "2026-09-10T14:34:18+00:00"
-    },
-    {
-      "id": "6afe3b9f",
-      "image": "img/6afe3b9f.png",
-      "image_sha": "db4dd3d60914b82b3c8a58b2a2b743be1f20e378",
-      "url": "https://www.radiodos.com.ar/213651-nuevo-juicio-por-abuso-sexual-con-acceso-carnal-contra-el-ginecologo-gerardo-dahse",
-      "title": "Nuevo juicio por abuso sexual con acceso carnal contra el ginecólogo Gerardo Dahse",
-      "volanta": "EL 14 DE SEPTIEMBRE",
-      "date": "2026-09-10T14:15:30+00:00"
     }
   ]
 }
