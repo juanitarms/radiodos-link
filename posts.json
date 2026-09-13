@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T15:34:27+00:00",
+  "updated": "2026-09-13T17:08:35+00:00",
   "posts": [
+    {
+      "id": "360e0073",
+      "image": "img/360e0073.png",
+      "image_sha": "c802040c785df5f9666ca7ca7930966d326578f4",
+      "url": "https://www.radiodos.com.ar/213794-capataz-de-estancia-seria-parte-de-una-banda-de-ladrones-de-ganado",
+      "title": "Capataz de estancia sería parte de una banda de ladrones de ganado",
+      "volanta": "corrientes",
+      "date": "2026-09-13T17:08:35+00:00"
+    },
     {
       "id": "2510238c",
       "image": "img/2510238c.png",
@@ -531,15 +540,6 @@
       "title": "La investigadora de la UNNE Carolina Gandulfo recibió el Premio Konex 2026",
       "volanta": "PERSONALIDAD DESTACADA EN EDUCACION",
       "date": "2026-09-10T16:49:45+00:00"
-    },
-    {
-      "id": "e2d641c2",
-      "image": "img/e2d641c2.png",
-      "image_sha": "e99c51e6a0678f58d33947aa5f199a6297fa8e20",
-      "url": "https://www.radiodos.com.ar/213625-fiscal-schaefer-afirmo-que-no-le-cree-a-benitez-y-destaco-la-declaracion-de-cristian-gutierrez",
-      "title": "Fiscal Schaefer afirmó que no le cree a Benítez y destacó la declaración de Cristian Gutiérrez",
-      "volanta": "JUICIO POR LOAN",
-      "date": "2026-09-10T16:49:11+00:00"
     }
   ]
 }
