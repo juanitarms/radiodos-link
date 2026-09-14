@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T17:17:54+00:00",
+  "updated": "2026-09-14T17:18:24+00:00",
   "posts": [
+    {
+      "id": "d151d9a6",
+      "image": "img/d151d9a6.png",
+      "image_sha": "7767dd2e7c51ed1cf39cf8caf88c06ab667d02a0",
+      "url": "https://www.radiodos.com.ar/213854-se-realizaron-controles-de-agroquimicos-en-santa-lucia-y-bella-vista",
+      "title": "Se realizaron controles de agroquímicos en Santa Lucía y Bella Vista",
+      "volanta": "FISCALIZACIÓN FITOSANITARIA",
+      "date": "2026-09-14T17:18:24+00:00"
+    },
     {
       "id": "47df047d",
       "image": "img/47df047d.png",
@@ -531,15 +540,6 @@
       "title": "Anuncian tormentas fuertes para este viernes en Corrientes",
       "volanta": "TIEMPO",
       "date": "2026-09-10T23:03:29+00:00"
-    },
-    {
-      "id": "149bb203",
-      "image": "img/149bb203.png",
-      "image_sha": "7f56f1218af1be061a490ddce543d000b32fd1ae",
-      "url": "https://www.radiodos.com.ar/213682-lanzan-un-taller-gratuito-de-fotografia-profesional",
-      "title": "Lanzan un taller gratuito de fotografía profesional",
-      "volanta": "​Cultura Corrientes",
-      "date": "2026-09-10T22:20:09+00:00"
     }
   ]
 }
