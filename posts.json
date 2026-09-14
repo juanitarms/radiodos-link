@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T21:00:55+00:00",
+  "updated": "2026-09-14T21:35:17+00:00",
   "posts": [
+    {
+      "id": "49fce855",
+      "image": "img/49fce855.png",
+      "image_sha": "a4bf7fc2ba101c4ae6049ad74b6efffc9e5ebe93",
+      "url": "https://www.radiodos.com.ar/213870-corrientes-en-el-acumulado-anual-los-patentamientos-de-autos-cayeron-153",
+      "title": "Corrientes: en el acumulado anual los patentamientos de autos cayeron -15,3%",
+      "volanta": "MERCADO AUTOMOTRIZ",
+      "date": "2026-09-14T21:35:17+00:00"
+    },
     {
       "id": "fa6e04e6",
       "image": "img/fa6e04e6.png",
@@ -531,15 +540,6 @@
       "title": "El gobierno nacional designó al nuevo presidente del Incucai",
       "volanta": "OFICIAL",
       "date": "2026-09-11T17:24:08+00:00"
-    },
-    {
-      "id": "49050c78",
-      "image": "img/49050c78.png",
-      "image_sha": "a7449da59b17328105e4d9b31ac465bc0608f126",
-      "url": "https://www.radiodos.com.ar/213715-alerta-por-un-reto-viral-que-premia-a-adolescentes-por-desaparecer-durante-dos-dias",
-      "title": "Alerta por un reto viral que premia a adolescentes por desaparecer durante dos días",
-      "volanta": "TIKTOK",
-      "date": "2026-09-11T17:23:36+00:00"
     }
   ]
 }
