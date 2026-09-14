@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T20:55:41+00:00",
+  "updated": "2026-09-14T20:57:15+00:00",
   "posts": [
+    {
+      "id": "474eb300",
+      "image": "img/474eb300.png",
+      "image_sha": "ed14331c141f3973021138bee777295c37e9ea94",
+      "url": "https://www.radiodos.com.ar/213862-juicio-por-loan-no-habra-careo-entre-laudelina-pena-y-walter-maciel",
+      "title": "Juicio por Loan: no habrá careo entre Laudelina Peña y Walter Maciel",
+      "volanta": "MAÑANA SE RETOMAN LAS AUDIENCIAS",
+      "date": "2026-09-14T20:57:15+00:00"
+    },
     {
       "id": "f47369b0",
       "image": "img/f47369b0.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes realizará un importante dispositivo de seguridad por el concierto de \"La Renga\"",
       "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
       "date": "2026-09-11T13:48:22+00:00"
-    },
-    {
-      "id": "ec5896ed",
-      "image": "img/ec5896ed.png",
-      "image_sha": "7d42bb8769907a201a1689da6238a8d5690693f4",
-      "url": "https://www.radiodos.com.ar/213692-cultura-ofrece-un-curso-gratuito-de-fotografia-profesional-para-principiantes",
-      "title": "Cultura ofrece un curso gratuito de fotografía profesional para principiantes",
-      "volanta": "DESTINADA A MAYORES DE 18 AÑOS",
-      "date": "2026-09-11T13:24:02+00:00"
     }
   ]
 }
