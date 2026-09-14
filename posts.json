@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T20:59:20+00:00",
+  "updated": "2026-09-14T21:00:55+00:00",
   "posts": [
+    {
+      "id": "fa6e04e6",
+      "image": "img/fa6e04e6.png",
+      "image_sha": "a4060d71d853eebb134df5f022669fca051777a1",
+      "url": "https://www.radiodos.com.ar/213867-este-martes-15-de-septiembre-inicia-el-pago-del-plus-extraordinario-para-municipales-de-la-ciudad-de-corrientes",
+      "title": "Este martes 15 de septiembre inicia el pago del plus extraordinario para municipales de la ciudad de Corrientes",
+      "volanta": "COMPLEMENTO SALARIAL",
+      "date": "2026-09-14T21:00:55+00:00"
+    },
     {
       "id": "9f9f709e",
       "image": "img/9f9f709e.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por un reto viral que premia a adolescentes por desaparecer durante dos días",
       "volanta": "TIKTOK",
       "date": "2026-09-11T17:23:36+00:00"
-    },
-    {
-      "id": "4aa4be48",
-      "image": "img/4aa4be48.png",
-      "image_sha": "bcd092324a6229146122b5054fd9f1435acb3e2f",
-      "url": "https://www.radiodos.com.ar/213713-san-cosme-se-prepara-para-celebrar-sus-fiestas-patronales-con-una-amplia-agenda-de-actividades",
-      "title": "San Cosme se prepara para celebrar sus Fiestas Patronales con una amplia agenda de actividades",
-      "volanta": "Arte, deporte, cultura",
-      "date": "2026-09-11T15:20:53+00:00"
     }
   ]
 }
