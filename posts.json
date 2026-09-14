@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T23:10:36+00:00",
+  "updated": "2026-09-14T23:11:43+00:00",
   "posts": [
+    {
+      "id": "00f7af36",
+      "image": "img/00f7af36.png",
+      "image_sha": "420019724a50426c18e50c4da465cca70b8add6d",
+      "url": "https://www.radiodos.com.ar/213871-visita-del-papa-leon-xiv-como-anotarse-para-ser-voluntario",
+      "title": "Visita del Papa León XIV: cómo anotarse para ser voluntario",
+      "volanta": "Crece la expectativa",
+      "date": "2026-09-14T23:11:43+00:00"
+    },
     {
       "id": "6fd4248d",
       "image": "img/6fd4248d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes recibirá a la elite mundial de la física química teórica en el congreso ISTCP 2027",
       "volanta": "CIENCIA",
       "date": "2026-09-11T18:28:48+00:00"
-    },
-    {
-      "id": "798d2232",
-      "image": "img/798d2232.png",
-      "image_sha": "437e63717b6c61dcfcae0afd9c725290ae8486d2",
-      "url": "https://www.radiodos.com.ar/213716-boca-rota-y-cambia-el-equipo-ante-central-cordoba-la-formacion-que-prepara-arruabarrena",
-      "title": "Boca rota y cambia el equipo ante Central Córdoba: la formación que prepara Arruabarrena",
-      "volanta": "FÚTBOL ARGENTINO",
-      "date": "2026-09-11T17:24:41+00:00"
     }
   ]
 }
