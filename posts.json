@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T17:18:56+00:00",
+  "updated": "2026-09-14T18:09:39+00:00",
   "posts": [
+    {
+      "id": "bd857929",
+      "image": "img/bd857929.png",
+      "image_sha": "8760e6c50aaa490c1b9991f887136986024bccc0",
+      "url": "https://www.radiodos.com.ar/213856-julian-alvarez-se-lesiono-en-atletico-de-madrid-el-parte-medico-oficial-y-que-partidos-se-perderia",
+      "title": "Julián Álvarez se lesionó en Atlético de Madrid: el parte médico oficial y qué partidos se perdería",
+      "volanta": "ESPAÑA",
+      "date": "2026-09-14T18:09:39+00:00"
+    },
     {
       "id": "8da8bce2",
       "image": "img/8da8bce2.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: una mujer asumió por primera vez la Jefatura de una unidad del PRIAR",
       "volanta": "CURUZU CUATIA",
       "date": "2026-09-11T11:36:04+00:00"
-    },
-    {
-      "id": "d80661ce",
-      "image": "img/d80661ce.png",
-      "image_sha": "2da14dd87c859632bf295c356cd6a109f8f7c627",
-      "url": "https://www.radiodos.com.ar/213685-el-norte-grande-apunto-sus-criticas-a-milei-las-provincias-acusaron-al-gobierno-de-no-dialogar-y-dividir",
-      "title": "El Norte Grande apuntó sus críticas a Milei: las provincias acusaron al Gobierno de \"no dialogar y dividir\"",
-      "volanta": "EN LA RIOJA",
-      "date": "2026-09-11T11:18:27+00:00"
     }
   ]
 }
