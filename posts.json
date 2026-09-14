@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T13:39:13+00:00",
+  "updated": "2026-09-14T13:59:27+00:00",
   "posts": [
+    {
+      "id": "affe40cf",
+      "image": "img/affe40cf.png",
+      "image_sha": "bb574b2a52b3b6b4824a8536e883bb734fc215ab",
+      "url": "https://www.radiodos.com.ar/213829-luck-ra-volvio-a-hablar-y-su-respuesta-tras-el-romance-de-la-joaqui-y-tiago-pzk-sorprendio",
+      "title": "Luck Ra volvió a hablar y su respuesta tras el romance de La Joaqui y Tiago PZK sorprendió",
+      "volanta": "NO SUELTA",
+      "date": "2026-09-14T13:59:27+00:00"
+    },
     {
       "id": "9ff5355b",
       "image": "img/9ff5355b.png",
@@ -531,15 +540,6 @@
       "title": "Chile: un diputado aseguró que las Islas Malvinas \"son inglesas\"",
       "volanta": "POLÉMICA",
       "date": "2026-09-10T22:07:15+00:00"
-    },
-    {
-      "id": "9a1935b0",
-      "image": "img/9a1935b0.png",
-      "image_sha": "cf514c7c88a7f23aa49e17d2c856d9a7a9e4e4ad",
-      "url": "https://www.radiodos.com.ar/213675-se-presento-en-corrientes-la-muni-oficios-una-herramienta-digital-que-acerca-a-proveedores-de-oficios-y-vecinos",
-      "title": "Se presentó en Corrientes  \"La Muni Oficios\", una herramienta digital que acerca a proveedores de oficios y vecinos",
-      "volanta": "PLATAFORMA GRATUITA",
-      "date": "2026-09-10T21:04:19+00:00"
     }
   ]
 }
