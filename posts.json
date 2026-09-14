@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T20:50:29+00:00",
+  "updated": "2026-09-14T20:55:41+00:00",
   "posts": [
+    {
+      "id": "f47369b0",
+      "image": "img/f47369b0.png",
+      "image_sha": "2a6dd914ce0e32c5bd9c14da28c74f8366ecb266",
+      "url": "https://www.radiodos.com.ar/213863-un-diario-kelper-afirmo-que-javier-milei-usa-la-causa-malvinas-para-distraer-a-la-gente-de-sus-fracasos",
+      "title": "Un diario kelper afirmó que Javier Milei usa la causa Malvinas para \"distraer a la gente de sus fracasos\"",
+      "volanta": "Tras anuncio del gobierno",
+      "date": "2026-09-14T20:55:41+00:00"
+    },
     {
       "id": "c0f7d7a8",
       "image": "img/c0f7d7a8.png",
@@ -531,15 +540,6 @@
       "title": "Cultura ofrece un curso gratuito de fotografía profesional para principiantes",
       "volanta": "DESTINADA A MAYORES DE 18 AÑOS",
       "date": "2026-09-11T13:24:02+00:00"
-    },
-    {
-      "id": "71ca2722",
-      "image": "img/71ca2722.png",
-      "image_sha": "2c99b3a9a2d5475b9070ba53e170930f26fc0f71",
-      "url": "https://www.radiodos.com.ar/213696-monte-caseros-recibe-este-fin-de-semana-al-provincial-de-mayores-femenino",
-      "title": "Monte Caseros recibe este fin de semana al Provincial de Mayores Femenino",
-      "volanta": "BÁSQUET",
-      "date": "2026-09-11T13:10:43+00:00"
     }
   ]
 }
