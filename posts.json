@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T12:34:20+00:00",
+  "updated": "2026-09-14T13:01:14+00:00",
   "posts": [
+    {
+      "id": "0e8eb40c",
+      "image": "img/0e8eb40c.png",
+      "image_sha": "5685efcc85ce19b6a0266a86fa6a6ba9aff2ff80",
+      "url": "https://www.radiodos.com.ar/213821-brutal-agresion-a-un-arbitro-en-un-partido-del-ascenso-de-la-liga-correntina-de-futbol",
+      "title": "Brutal agresión a un árbitro en un partido del ascenso de la Liga Correntina de Fútbol",
+      "volanta": "INCONCEBIBLE",
+      "date": "2026-09-14T13:01:14+00:00"
+    },
     {
       "id": "a9db3903",
       "image": "img/a9db3903.png",
@@ -531,15 +540,6 @@
       "title": "La industria manufacturera y el consumo lideran la morosidad en Corrientes",
       "volanta": "CRISIS",
       "date": "2026-09-10T21:00:47+00:00"
-    },
-    {
-      "id": "0f15c9fb",
-      "image": "img/0f15c9fb.png",
-      "image_sha": "d012b4995aaa681bc7c6f8e3b28784287908fc38",
-      "url": "https://www.radiodos.com.ar/213671-la-inflacion-de-agosto-fue-del-17-y-acumulo-un-213-desde-enero",
-      "title": "La inflación de agosto fue del 1,7% y acumuló un 21,3% desde enero",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-09-10T20:54:56+00:00"
     }
   ]
 }
