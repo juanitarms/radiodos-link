@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T14:59:22+00:00",
+  "updated": "2026-09-14T15:13:47+00:00",
   "posts": [
+    {
+      "id": "c52e5db5",
+      "image": "img/c52e5db5.png",
+      "image_sha": "8fac52fdad494a754ecceebb7957eaa830fc1973",
+      "url": "https://www.radiodos.com.ar/213847-chaco-el-diputado-aldo-leiva-choco-contra-un-camion-sobre-la-ruta-nacional-11",
+      "title": "Chaco: el diputado Aldo Leiva chocó contra un camión sobre la Ruta Nacional 11",
+      "volanta": "Colonia Benítez",
+      "date": "2026-09-14T15:13:47+00:00"
+    },
     {
       "id": "ac837fc5",
       "image": "img/ac837fc5.png",
@@ -531,15 +540,6 @@
       "title": "Gustavo Valdés participó de la 59° Sesión Plenaria del Parlamento del Norte Grande",
       "volanta": "EN LA RIOJA",
       "date": "2026-09-10T22:17:49+00:00"
-    },
-    {
-      "id": "edb649fd",
-      "image": "img/edb649fd.png",
-      "image_sha": "458258c5824a99ec48575c184ed8e5e7363e53d6",
-      "url": "https://www.radiodos.com.ar/213678-cuanto-aumentaran-las-jubilaciones-la-auh-y-otras-asignaciones-en-octubre",
-      "title": "Cuánto aumentarán las jubilaciones, la AUH y otras asignaciones en octubre",
-      "volanta": "Tras el dato de la inflación",
-      "date": "2026-09-10T22:16:04+00:00"
     }
   ]
 }
