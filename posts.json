@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T23:36:34+00:00",
+  "updated": "2026-09-14T23:37:21+00:00",
   "posts": [
+    {
+      "id": "35da1132",
+      "image": "img/35da1132.png",
+      "image_sha": "7de2cb56297b90f89e8ce8bb773fecb05ed1d30d",
+      "url": "https://www.radiodos.com.ar/213875-como-funcionaria-es-un-orgullo-y-una-responsabilidad-porque-estamos-siendo-parte-de-la-historia",
+      "title": "\"Como funcionaria, es un orgullo y una responsabilidad porque estamos siendo parte de la historia\"",
+      "volanta": "Julieta Canoniero",
+      "date": "2026-09-14T23:37:21+00:00"
+    },
     {
       "id": "a4b702d9",
       "image": "img/a4b702d9.png",
@@ -531,15 +540,6 @@
       "title": "Hallazgo sobre Malvinas: revelan una carta inédita de 1833 con un duro reclamo argentino frente a los ingleses",
       "volanta": "HISTORIA",
       "date": "2026-09-11T18:29:56+00:00"
-    },
-    {
-      "id": "f716bbf3",
-      "image": "img/f716bbf3.png",
-      "image_sha": "8d89fa5d46341625bfac7bd2a7e1edd5ea3b90ac",
-      "url": "https://www.radiodos.com.ar/213723-donde-dirigira-walter-samuel-tras-dejar-el-cuerpo-tecnico-de-lionel-scaloni",
-      "title": "Dónde dirigirá Walter Samuel tras dejar el cuerpo técnico de Lionel Scaloni",
-      "volanta": "NUEVO CAMINO",
-      "date": "2026-09-11T18:29:25+00:00"
     }
   ]
 }
