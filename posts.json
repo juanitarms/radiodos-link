@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T20:57:15+00:00",
+  "updated": "2026-09-14T20:57:46+00:00",
   "posts": [
+    {
+      "id": "2eb25d00",
+      "image": "img/2eb25d00.png",
+      "image_sha": "7a2901b51bb047e0191e6d6d3a524f8400167284",
+      "url": "https://www.radiodos.com.ar/213865-el-mercado-de-pulgas-del-municipio-supero-las-expectativas-y-ya-se-perfila-una-nueva-edicion",
+      "title": "El Mercado de Pulgas del Municipio superó las expectativas y ya se perfila una nueva edición",
+      "volanta": "ECONOMÍA CIRCULAR",
+      "date": "2026-09-14T20:57:46+00:00"
+    },
     {
       "id": "474eb300",
       "image": "img/474eb300.png",
@@ -531,15 +540,6 @@
       "title": "Argentina quedó segunda en el ranking latinoamericano de inflación con una acumulación anual del 33,5%",
       "volanta": "ECONOMÍA",
       "date": "2026-09-11T14:15:53+00:00"
-    },
-    {
-      "id": "2452f1e9",
-      "image": "img/2452f1e9.png",
-      "image_sha": "7c3e61a44eaaed11817cf6e1687c27b842c51dad",
-      "url": "https://www.radiodos.com.ar/213701-la-policia-de-corrientes-realizara-un-importante-dispositivo-de-seguridad-por-el-concierto-de-la-renga",
-      "title": "La Policía de Corrientes realizará un importante dispositivo de seguridad por el concierto de \"La Renga\"",
-      "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
-      "date": "2026-09-11T13:48:22+00:00"
     }
   ]
 }
