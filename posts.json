@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T19:37:33+00:00",
+  "updated": "2026-09-14T19:38:07+00:00",
   "posts": [
+    {
+      "id": "74f65bbd",
+      "image": "img/74f65bbd.png",
+      "image_sha": "c6697e85f302f090510d7295133136e90b482bda",
+      "url": "https://www.radiodos.com.ar/213857-empedrado-celebro-su-bicentenario-con-una-historica-jornada-festiva",
+      "title": "Empedrado celebró su bicentenario con una histórica jornada festiva",
+      "volanta": "PROVINCIA",
+      "date": "2026-09-14T19:38:07+00:00"
+    },
     {
       "id": "dc324dc4",
       "image": "img/dc324dc4.png",
@@ -531,15 +540,6 @@
       "title": "Justicia por Milagros: sigue el juicio por la atroz muerte de la adolescente en Monte Caseros",
       "volanta": "A MAS DE DOS AÑOS",
       "date": "2026-09-11T12:48:57+00:00"
-    },
-    {
-      "id": "ee3e0fe0",
-      "image": "img/ee3e0fe0.png",
-      "image_sha": "875d5fdbf86053b47390f9fd3077ea82ef11aa9c",
-      "url": "https://www.radiodos.com.ar/213691-se-lanzo-el-programa-torditos-amarillos-educacion-ambiental-y-avistaje-de-aves-para-desconectar-a-los-ninos-de-las-pantallas",
-      "title": "Se lanzó el programa \"Torditos amarillos\": educación ambiental y avistaje de aves para desconectar a los niños de las pantallas",
-      "volanta": "INICIATIVA",
-      "date": "2026-09-11T12:31:47+00:00"
     }
   ]
 }
