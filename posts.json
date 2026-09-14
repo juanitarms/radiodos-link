@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T20:57:46+00:00",
+  "updated": "2026-09-14T20:58:18+00:00",
   "posts": [
+    {
+      "id": "8899cc73",
+      "image": "img/8899cc73.png",
+      "image_sha": "c6697e85f302f090510d7295133136e90b482bda",
+      "url": "https://www.radiodos.com.ar/213864-empedrado-celebro-su-bicentenario-con-una-historica-jornada-festiva",
+      "title": "Empedrado celebró su bicentenario con una histórica jornada festiva",
+      "volanta": "PROVINCIA",
+      "date": "2026-09-14T20:58:18+00:00"
+    },
     {
       "id": "2eb25d00",
       "image": "img/2eb25d00.png",
@@ -531,15 +540,6 @@
       "title": "El parque Cambá Cuá recibirá este domingo al primer Mercado de Pulgas municipal en Corrientes",
       "volanta": "ECONOMÍA CIRCULAR",
       "date": "2026-09-11T14:36:57+00:00"
-    },
-    {
-      "id": "8e5b5c52",
-      "image": "img/8e5b5c52.png",
-      "image_sha": "8a44db74db35e4da9c23506025e9f3b1ed6c68c7",
-      "url": "https://www.radiodos.com.ar/213705-argentina-quedo-segunda-en-el-ranking-latinoamericano-de-inflacion-con-una-acumulacion-anual-del-335",
-      "title": "Argentina quedó segunda en el ranking latinoamericano de inflación con una acumulación anual del 33,5%",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-11T14:15:53+00:00"
     }
   ]
 }
