@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T17:17:19+00:00",
+  "updated": "2026-09-14T17:17:54+00:00",
   "posts": [
+    {
+      "id": "47df047d",
+      "image": "img/47df047d.png",
+      "image_sha": "88ebe8afe742f18d60493eeba879ace166c9b86c",
+      "url": "https://www.radiodos.com.ar/213852-regatas-fue-de-bronce-en-la-liga-federal-de-cadetes",
+      "title": "Regatas fue de bronce en la Liga Federal de Cadetes",
+      "volanta": "Liga Federal Formativa",
+      "date": "2026-09-14T17:17:54+00:00"
+    },
     {
       "id": "7bafb2bf",
       "image": "img/7bafb2bf.png",
@@ -531,15 +540,6 @@
       "title": "Lanzan un taller gratuito de fotografía profesional",
       "volanta": "​Cultura Corrientes",
       "date": "2026-09-10T22:20:09+00:00"
-    },
-    {
-      "id": "de27fd52",
-      "image": "img/de27fd52.png",
-      "image_sha": "8e175cf22cca4e412c6b3225f3bb19e347f86a24",
-      "url": "https://www.radiodos.com.ar/213681-milei-suspendio-un-viaje-a-londres-en-medio-de-la-tension-por-malvinas",
-      "title": "Milei suspendió un viaje a Londres en medio de la tensión por Malvinas",
-      "volanta": "GIRA POSTERGADA",
-      "date": "2026-09-10T22:18:47+00:00"
     }
   ]
 }
