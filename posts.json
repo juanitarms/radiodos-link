@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T13:59:27+00:00",
+  "updated": "2026-09-14T14:19:08+00:00",
   "posts": [
+    {
+      "id": "95c28b5a",
+      "image": "img/95c28b5a.png",
+      "image_sha": "5ffdcaaf276be173c6927b9ed272744d56866853",
+      "url": "https://www.radiodos.com.ar/213830-mirtha-legrand-recibio-el-alta-medica-como-continua-su-recuperacion",
+      "title": "Mirtha Legrand recibió el alta médica: cómo continúa su recuperación",
+      "volanta": "A CUIDARSE",
+      "date": "2026-09-14T14:19:08+00:00"
+    },
     {
       "id": "affe40cf",
       "image": "img/affe40cf.png",
@@ -531,15 +540,6 @@
       "title": "Una pequeña correntina fue elegida Baby Universe Beauty Argentina 2026",
       "volanta": "6 AÑOS",
       "date": "2026-09-10T22:09:24+00:00"
-    },
-    {
-      "id": "30209569",
-      "image": "img/30209569.png",
-      "image_sha": "43c712daa6941e6da21ecd0a1b87b2fb94297a1c",
-      "url": "https://www.radiodos.com.ar/213680-chile-un-diputado-aseguro-que-las-islas-malvinas-son-inglesas",
-      "title": "Chile: un diputado aseguró que las Islas Malvinas \"son inglesas\"",
-      "volanta": "POLÉMICA",
-      "date": "2026-09-10T22:07:15+00:00"
     }
   ]
 }
