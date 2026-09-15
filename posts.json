@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T16:06:26+00:00",
+  "updated": "2026-09-15T16:06:58+00:00",
   "posts": [
+    {
+      "id": "35e78afa",
+      "image": "img/35e78afa.png",
+      "image_sha": "c9edb55240e66af9089d07d6d295ac8411ca4644",
+      "url": "https://www.radiodos.com.ar/213917-el-renatre-inauguro-una-plaza-de-juegos-en-una-escuela-rural-del-impenetrable-chaqueno",
+      "title": "El RENATRE inauguró una plaza de juegos en una escuela rural del Impenetrable chaqueño",
+      "volanta": "Reconocimiento a la docente Gloria Cisneros",
+      "date": "2026-09-15T16:06:58+00:00"
+    },
     {
       "id": "3e51746a",
       "image": "img/3e51746a.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes busca profesionales universitarios: cómo inscribirse y qué carreras convocan",
       "volanta": "Convocatoria",
       "date": "2026-09-12T13:17:40+00:00"
-    },
-    {
-      "id": "61c7f306",
-      "image": "img/61c7f306.png",
-      "image_sha": "92ecf6ef2f9a9aa1edbfc0eadf99fda98cb1c72e",
-      "url": "https://www.radiodos.com.ar/213751-la-renga-en-corrientes-ultimas-entradas-y-toda-la-informacion-para-este-sabado",
-      "title": "La Renga en Corrientes: últimas entradas y toda la información para este sábado",
-      "volanta": "en el anfiteatro",
-      "date": "2026-09-12T12:34:05+00:00"
     }
   ]
 }
