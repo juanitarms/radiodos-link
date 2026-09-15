@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T21:13:36+00:00",
+  "updated": "2026-09-15T21:14:11+00:00",
   "posts": [
+    {
+      "id": "9e84c108",
+      "image": "img/9e84c108.png",
+      "image_sha": "c2f7f3403e60b2afc02c2c28271314ff569ed5bf",
+      "url": "https://www.radiodos.com.ar/213934-lionel-messi-tendra-su-partido-de-despedida-con-la-seleccion-argentina-en-el-monumental",
+      "title": "Lionel Messi tendrá su partido de despedida con la selección argentina en el Monumental",
+      "volanta": "EL 6 DE OCTUBRE",
+      "date": "2026-09-15T21:14:11+00:00"
+    },
     {
       "id": "ef81454c",
       "image": "img/ef81454c.png",
@@ -531,15 +540,6 @@
       "title": "Finalizó con éxito el operativo de seguridad por el recital de La Renga en Corrientes",
       "volanta": "ANFITEATRO COCOMAROLA",
       "date": "2026-09-13T15:34:27+00:00"
-    },
-    {
-      "id": "d1b148cc",
-      "image": "img/d1b148cc.png",
-      "image_sha": "d1400f5f43ef5fdd87415023a31b734b3e1b3b34",
-      "url": "https://www.radiodos.com.ar/213790-delegacion-de-la-cgt-expuso-ante-el-papa-la-situacion-del-pais",
-      "title": "Delegación de la CGT expuso ante el Papa la situación del país",
-      "volanta": "VATICANO",
-      "date": "2026-09-13T15:25:58+00:00"
     }
   ]
 }
