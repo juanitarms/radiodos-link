@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T17:34:47+00:00",
+  "updated": "2026-09-15T21:12:53+00:00",
   "posts": [
+    {
+      "id": "bc57c279",
+      "image": "img/bc57c279.png",
+      "image_sha": "c6dd34946f4dcc7028773aebdf1f1c436ba56954",
+      "url": "https://www.radiodos.com.ar/213932-el-gobierno-presento-el-presupuesto-2027-inflacion-del-211-y-crecimiento-del-pbi-del-4",
+      "title": "El Gobierno presentó el Presupuesto 2027: inflación del 21,1% y crecimiento del PBI del 4%",
+      "volanta": "LEY DE LEYES",
+      "date": "2026-09-15T21:12:53+00:00"
+    },
     {
       "id": "6444536c",
       "image": "img/6444536c.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una joven de 26 años que se encuentra desaparecida desde el 11 de septiembre",
       "volanta": "corrientes",
       "date": "2026-09-13T14:29:27+00:00"
-    },
-    {
-      "id": "455de411",
-      "image": "img/455de411.png",
-      "image_sha": "5589a06665d77e144c9202a696125356d64c2045",
-      "url": "https://www.radiodos.com.ar/213788-el-4067-de-los-hogares-argentinos-presenta-deficit-habitacional",
-      "title": "El 40,67% de los hogares argentinos presenta déficit habitacional",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-13T13:48:47+00:00"
     }
   ]
 }
