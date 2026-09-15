@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T14:47:34+00:00",
+  "updated": "2026-09-15T15:11:17+00:00",
   "posts": [
+    {
+      "id": "ee2ff9ab",
+      "image": "img/ee2ff9ab.png",
+      "image_sha": "4713b57a46fd8ef69b9646790d73c3d8417f4fb0",
+      "url": "https://www.radiodos.com.ar/213912-abel-pintos-hablo-sobre-la-interna-familiar-de-tini-stoessel-y-dejo-una-contundente-reflexion",
+      "title": "Abel Pintos habló sobre la interna familiar de Tini Stoessel y dejó una contundente reflexión",
+      "volanta": "SINCERO",
+      "date": "2026-09-15T15:11:17+00:00"
+    },
     {
       "id": "aa6baa04",
       "image": "img/aa6baa04.png",
@@ -531,15 +540,6 @@
       "title": "Valdés anunció $10.000 millones para impulsar el turismo en Corrientes junto al Banco de Corrientes",
       "volanta": "CORRIENTES POTENCIA AL TURISMO",
       "date": "2026-09-11T22:41:16+00:00"
-    },
-    {
-      "id": "9e3f7ccc",
-      "image": "img/9e3f7ccc.png",
-      "image_sha": "498cbc6500335a69cc2f583264bd3e253962c98e",
-      "url": "https://www.radiodos.com.ar/213742-caso-cecilia-lazcano-la-querella-recuso-al-fiscal-y-apelara-la-prision-domiciliaria-de-la-menor-acusada",
-      "title": "Caso Cecilia Lazcano: la querella recusó al fiscal y apelará la prisión domiciliaria de la menor acusada",
-      "volanta": "SANTO TOME",
-      "date": "2026-09-11T22:35:34+00:00"
     }
   ]
 }
