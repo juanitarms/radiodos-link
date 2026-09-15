@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T21:36:20+00:00",
+  "updated": "2026-09-15T21:37:49+00:00",
   "posts": [
+    {
+      "id": "99519c20",
+      "image": "img/99519c20.png",
+      "image_sha": "2bd59e638bc16f49fb3bcd7cfd42bd226ff6baff",
+      "url": "https://www.radiodos.com.ar/213933-fuimos-con-un-plantel-para-hacer-un-buen-papel-y-tuvimos-lindas-y-gratas-satisfacciones",
+      "title": "\"Fuimos con un plantel, para hacer un buen papel y tuvimos lindas y gratas satisfacciones\"",
+      "volanta": "Corrientes Campeón Nacional de Handball en Cadetes",
+      "date": "2026-09-15T21:37:49+00:00"
+    },
     {
       "id": "ecf61bc3",
       "image": "img/ecf61bc3.png",
@@ -531,15 +540,6 @@
       "title": "Despiste, vuelco y milagro sobre Ruta 118 al esquivar un carpincho",
       "volanta": "CERCA DE SAN MIGUEL",
       "date": "2026-09-14T10:28:00+00:00"
-    },
-    {
-      "id": "1fdd6666",
-      "image": "img/1fdd6666.png",
-      "image_sha": "21ae82efd054e14d4da963416da24e255af0dd83",
-      "url": "https://www.radiodos.com.ar/213796-si-la-zona-fria-tiene-ley-la-zona-calida-tambien-tiene-que-tener-su-ley-reclamo-gonzalez",
-      "title": "\"Si la zona fría tiene ley, la zona cálida también tiene que tener su ley\", reclamó González",
-      "volanta": "ENTREVISTA EN RADIO DOS",
-      "date": "2026-09-13T20:05:09+00:00"
     }
   ]
 }
