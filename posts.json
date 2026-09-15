@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T11:10:00+00:00",
+  "updated": "2026-09-15T12:08:29+00:00",
   "posts": [
+    {
+      "id": "7ae1e93c",
+      "image": "img/7ae1e93c.png",
+      "image_sha": "d8f25fb0ef7a448884fb6b7ea3a2430a56941339",
+      "url": "https://www.radiodos.com.ar/213883-san-cosme-se-prepara-para-la-12-pesca-de-la-palometa-con-degustacion-y-1-fiesta-provincial",
+      "title": "San Cosme se prepara para la  12ª Pesca de la Palometa con Degustación y 1ª Fiesta Provincial",
+      "volanta": "10 Y 11 DE OCTUBRE",
+      "date": "2026-09-15T12:08:29+00:00"
+    },
     {
       "id": "ce904aed",
       "image": "img/ce904aed.png",
@@ -531,15 +540,6 @@
       "title": "El secretario de Cultura de Nación visitó Corrientes y ratificó su apoyo al chamamé",
       "volanta": "VÍNCULOS INSTITUCIONALES",
       "date": "2026-09-11T20:39:55+00:00"
-    },
-    {
-      "id": "4653fddb",
-      "image": "img/4653fddb.png",
-      "image_sha": "594095ad02b51a530f6c1a14b0571d3e084bd622",
-      "url": "https://www.radiodos.com.ar/213737-un-hombre-murio-en-misiones-a-causa-de-un-fuerte-temporal",
-      "title": "Un hombre murió en Misiones a causa de un fuerte temporal",
-      "volanta": "Tragedia",
-      "date": "2026-09-11T20:38:36+00:00"
     }
   ]
 }
