@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T16:07:29+00:00",
+  "updated": "2026-09-15T17:31:16+00:00",
   "posts": [
+    {
+      "id": "284672d1",
+      "image": "img/284672d1.png",
+      "image_sha": "055316111779b65d62e6a1571c558761f5a64491",
+      "url": "https://www.radiodos.com.ar/213915-el-basquet-de-la-provincia-crece-a-pasos-agigantados-en-jugadores-y-partidos",
+      "title": "El básquet de la provincia crece a pasos agigantados en jugadores y partidos",
+      "volanta": "GRAN LOGRO",
+      "date": "2026-09-15T17:31:16+00:00"
+    },
     {
       "id": "6ee4097f",
       "image": "img/6ee4097f.png",
@@ -531,15 +540,6 @@
       "title": "Trump advirtió que un conflicto entre la Argentina y el Reino Unido por Malvinas sería \"un desastre potencial\"",
       "volanta": "CONFLICTO GLOBAL",
       "date": "2026-09-12T15:03:33+00:00"
-    },
-    {
-      "id": "e49bd5b3",
-      "image": "img/e49bd5b3.png",
-      "image_sha": "10e81889c14743bd4dc7a829f4abb12a33221a04",
-      "url": "https://www.radiodos.com.ar/213754-en-corrientes-remiseros-correntinos-lanzaran-una-app-para-competir-con-uber",
-      "title": "En Corrientes, remiseros correntinos lanzarán una app para competir con Uber",
-      "volanta": "Hacia finales de septiembre",
-      "date": "2026-09-12T14:16:39+00:00"
     }
   ]
 }
