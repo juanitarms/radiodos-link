@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T13:43:33+00:00",
+  "updated": "2026-09-15T14:27:20+00:00",
   "posts": [
+    {
+      "id": "bfc1d637",
+      "image": "img/bfc1d637.png",
+      "image_sha": "e4e9920f7e34683d84fc2cf8f0161edb4531667e",
+      "url": "https://www.radiodos.com.ar/213910-el-nuevo-reves-judicial-que-enfrenta-l-gante-tras-su-desvinculacion-de-masterchef-celebrity",
+      "title": "El nuevo revés judicial que enfrenta L-Gante tras su desvinculación de MasterChef Celebrity",
+      "volanta": "¿TODO MAL?",
+      "date": "2026-09-15T14:27:20+00:00"
+    },
     {
       "id": "52a9274a",
       "image": "img/52a9274a.png",
@@ -531,15 +540,6 @@
       "title": "Pequeña de 3 años oriunda de Corrientes murió en un hospital bonaerense: tenía varios hematomas y golpes recientes",
       "volanta": "MUCHAS DUDAS",
       "date": "2026-09-11T22:21:20+00:00"
-    },
-    {
-      "id": "d7af2cd2",
-      "image": "img/d7af2cd2.png",
-      "image_sha": "0d8303970b5d2362ab0824085bef682db9ad4de5",
-      "url": "https://www.radiodos.com.ar/213744-casacion-rechazo-la-recusacion-contra-los-jueces-y-el-juicio-contra-pity-alvarez-continua",
-      "title": "Casación rechazó la recusación contra los jueces y el juicio contra Pity Álvarez continúa",
-      "volanta": "Acusado de homicidio",
-      "date": "2026-09-11T21:13:54+00:00"
     }
   ]
 }
