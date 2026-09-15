@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T23:37:56+00:00",
+  "updated": "2026-09-15T10:31:39+00:00",
   "posts": [
+    {
+      "id": "acad73e9",
+      "image": "img/acad73e9.png",
+      "image_sha": "6d07adf0e6da2712e2283bebc2d6f45f2d6a83b1",
+      "url": "https://www.radiodos.com.ar/213877-tension-en-usurpacion-de-viviendas-en-corrientes-hubo-policias-heridos-y-recien-hoy-se-daria-el-desalojo",
+      "title": "Tensión en usurpación de viviendas en Corrientes: hubo policías heridos y recién hoy se daría el desalojo",
+      "volanta": "MOMENTOS DE TENSIÓN",
+      "date": "2026-09-15T10:31:39+00:00"
+    },
     {
       "id": "aa69b7dc",
       "image": "img/aa69b7dc.png",
@@ -531,15 +540,6 @@
       "title": "Ángel de Brito afirmó que Gime Accardi le fue infiel a Nico Vázquez con Andrés Gil y reveló detalles explosivos",
       "volanta": "BOMBA",
       "date": "2026-09-11T19:14:35+00:00"
-    },
-    {
-      "id": "11d27c12",
-      "image": "img/11d27c12.png",
-      "image_sha": "afe69ddd26c8fe3fd205a7d862581d4ef72668f6",
-      "url": "https://www.radiodos.com.ar/213721-uso-la-inteligencia-artificial-para-planificar-una-masacre-escolar-lo-detecto-el-fbi-y-fue-allanado",
-      "title": "Usó la inteligencia artificial para planificar una masacre escolar, lo detectó el FBI y fue allanado",
-      "volanta": "Quilmes",
-      "date": "2026-09-11T18:30:33+00:00"
     }
   ]
 }
