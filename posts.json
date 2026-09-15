@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T10:48:40+00:00",
+  "updated": "2026-09-15T11:10:00+00:00",
   "posts": [
+    {
+      "id": "ce904aed",
+      "image": "img/ce904aed.png",
+      "image_sha": "98c40f627e7c2583a51b04cafcb4a9bc5522dbbc",
+      "url": "https://www.radiodos.com.ar/213879-plus-de-refuerzo-comenzo-el-pago-a-empleados-publicos-provinciales",
+      "title": "Plus de Refuerzo: comenzó el pago a empleados públicos provinciales",
+      "volanta": "HASTA EL 21",
+      "date": "2026-09-15T11:10:00+00:00"
+    },
     {
       "id": "d0ada3c5",
       "image": "img/d0ada3c5.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre murió en Misiones a causa de un fuerte temporal",
       "volanta": "Tragedia",
       "date": "2026-09-11T20:38:36+00:00"
-    },
-    {
-      "id": "569b0c33",
-      "image": "img/569b0c33.png",
-      "image_sha": "4d1f6dee21630f46d00d57aaac33bc0c44cde146",
-      "url": "https://www.radiodos.com.ar/213727-una-vestuarista-denuncio-a-axel-por-acoso-sexual-escucho-celebra-la-vida-y-me-descompongo",
-      "title": "Una vestuarista denunció a Axel por acoso sexual: \"Escucho \"Celebra la vida\" y me descompongo\"",
-      "volanta": "UNA MÁS",
-      "date": "2026-09-11T19:15:09+00:00"
     }
   ]
 }
