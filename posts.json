@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T17:34:13+00:00",
+  "updated": "2026-09-15T17:34:47+00:00",
   "posts": [
+    {
+      "id": "6444536c",
+      "image": "img/6444536c.png",
+      "image_sha": "36f24a3c96d265e5485a5ae37fde661bce087b70",
+      "url": "https://www.radiodos.com.ar/213922-se-extendio-hasta-el-20-de-septiembre-el-concurso-fotografico-la-ciudad-que-queremos-florecer",
+      "title": "Se extendió hasta el 20 de septiembre el concurso fotográfico \"La ciudad que queremos florecer\"",
+      "volanta": "PARTICIPACIÓN CIUDADANA",
+      "date": "2026-09-15T17:34:47+00:00"
+    },
     {
       "id": "77b3964a",
       "image": "img/77b3964a.png",
@@ -531,15 +540,6 @@
       "title": "El 40,67% de los hogares argentinos presenta déficit habitacional",
       "volanta": "ECONOMÍA",
       "date": "2026-09-13T13:48:47+00:00"
-    },
-    {
-      "id": "875dfd0a",
-      "image": "img/875dfd0a.png",
-      "image_sha": "8929f8f71eb4822f91d76cac9b29e989031ef421",
-      "url": "https://www.radiodos.com.ar/213781-quien-se-va-de-gran-hermano-el-lunes-14-de-septiembre-de-2026-segun-las-encuestas",
-      "title": "Quién se va de Gran Hermano el lunes 14 de septiembre de 2026 según las encuestas",
-      "volanta": "LLEGA LA GRAN FINAL",
-      "date": "2026-09-13T13:38:50+00:00"
     }
   ]
 }
