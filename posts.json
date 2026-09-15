@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T13:27:27+00:00",
+  "updated": "2026-09-15T13:43:33+00:00",
   "posts": [
+    {
+      "id": "52a9274a",
+      "image": "img/52a9274a.png",
+      "image_sha": "7805e8d93a41c8cf2f892e73d78beca8e29a1f66",
+      "url": "https://www.radiodos.com.ar/213898-operativo-nocturno-en-el-rio-parana-para-proteger-un-cardumen-de-peces",
+      "title": "Operativo nocturno en el río Paraná para proteger un cardumen de peces",
+      "volanta": "RECURSOS NATURALES",
+      "date": "2026-09-15T13:43:33+00:00"
+    },
     {
       "id": "53c3fbbc",
       "image": "img/53c3fbbc.png",
@@ -531,15 +540,6 @@
       "title": "Casación rechazó la recusación contra los jueces y el juicio contra Pity Álvarez continúa",
       "volanta": "Acusado de homicidio",
       "date": "2026-09-11T21:13:54+00:00"
-    },
-    {
-      "id": "62ad7492",
-      "image": "img/62ad7492.png",
-      "image_sha": "61351d470573095ed174339bb98c5fb2985e540e",
-      "url": "https://www.radiodos.com.ar/213738-vecinos-justicieros-en-corrientes-ataron-a-un-poste-y-golpearon-a-ladrones-de-una-quinta-horticola",
-      "title": "Vecinos justicieros en Corrientes: ataron a un poste y golpearon a ladrones de una quinta hortícola",
-      "volanta": "BARRIO ESPERANZA",
-      "date": "2026-09-11T21:09:17+00:00"
     }
   ]
 }
