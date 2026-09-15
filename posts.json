@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T17:31:16+00:00",
+  "updated": "2026-09-15T17:31:48+00:00",
   "posts": [
+    {
+      "id": "de3ffe86",
+      "image": "img/de3ffe86.png",
+      "image_sha": "4cce72f6577c1bdfe8bd1f9848fc97786eb0fbd1",
+      "url": "https://www.radiodos.com.ar/213914-capacitacion-en-manejo-y-aplicacion-de-fitosanitarios",
+      "title": "Capacitación en manejo y aplicación de fitosanitarios",
+      "volanta": "MEJORAS",
+      "date": "2026-09-15T17:31:48+00:00"
+    },
     {
       "id": "284672d1",
       "image": "img/284672d1.png",
@@ -531,15 +540,6 @@
       "title": "Supuesto ladrón denunció a sus golpeadores tras caso de \"vecinos justicieros\" en Corrientes",
       "volanta": "BARRIO ESPERANZA",
       "date": "2026-09-12T19:37:03+00:00"
-    },
-    {
-      "id": "83907824",
-      "image": "img/83907824.png",
-      "image_sha": "9031a4e8112458c553777a1d2d0a16cf2aaafd9e",
-      "url": "https://www.radiodos.com.ar/213749-trump-advirtio-que-un-conflicto-entre-la-argentina-y-el-reino-unido-por-malvinas-seria-un-desastre-potencial",
-      "title": "Trump advirtió que un conflicto entre la Argentina y el Reino Unido por Malvinas sería \"un desastre potencial\"",
-      "volanta": "CONFLICTO GLOBAL",
-      "date": "2026-09-12T15:03:33+00:00"
     }
   ]
 }
