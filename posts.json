@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T21:14:47+00:00",
+  "updated": "2026-09-15T21:15:21+00:00",
   "posts": [
+    {
+      "id": "0913a103",
+      "image": "img/0913a103.png",
+      "image_sha": "25c5772f41c39fa7be0cabf57336a41576e609f3",
+      "url": "https://www.radiodos.com.ar/213935-la-municipalidad-de-corrientes-llevo-musica-y-cultura-a-los-cdi-en-la-semana-del-chamame",
+      "title": "La Municipalidad de Corrientes llevó música y cultura a los CDI en la Semana del Chamamé",
+      "volanta": "“Mitaí chamamecero”",
+      "date": "2026-09-15T21:15:21+00:00"
+    },
     {
       "id": "a151d84f",
       "image": "img/a151d84f.png",
@@ -531,15 +540,6 @@
       "title": "Súper Niño en Corrientes: \"La proyección es que llueva un poco más y que las temperaturas sean mayores también\"",
       "volanta": "Advertencias de una experta",
       "date": "2026-09-13T17:09:08+00:00"
-    },
-    {
-      "id": "360e0073",
-      "image": "img/360e0073.png",
-      "image_sha": "c802040c785df5f9666ca7ca7930966d326578f4",
-      "url": "https://www.radiodos.com.ar/213794-capataz-de-estancia-seria-parte-de-una-banda-de-ladrones-de-ganado",
-      "title": "Capataz de estancia sería parte de una banda de ladrones de ganado",
-      "volanta": "corrientes",
-      "date": "2026-09-13T17:08:35+00:00"
     }
   ]
 }
