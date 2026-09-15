@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T17:31:48+00:00",
+  "updated": "2026-09-15T17:34:13+00:00",
   "posts": [
+    {
+      "id": "77b3964a",
+      "image": "img/77b3964a.png",
+      "image_sha": "b38459ce301d1e630ef54fa684b86446a171a0e6",
+      "url": "https://www.radiodos.com.ar/213920-gustavo-valdes-sobre-las-internas-de-la-ucr-nosotros-siempre-convocamos-a-elecciones",
+      "title": "Gustavo Valdés sobre las internas de la UCR: \"Nosotros siempre convocamos a elecciones\"",
+      "volanta": "DEFINICIÓN",
+      "date": "2026-09-15T17:34:13+00:00"
+    },
     {
       "id": "de3ffe86",
       "image": "img/de3ffe86.png",
@@ -531,15 +540,6 @@
       "title": "Quién se va de Gran Hermano el lunes 14 de septiembre de 2026 según las encuestas",
       "volanta": "LLEGA LA GRAN FINAL",
       "date": "2026-09-13T13:38:50+00:00"
-    },
-    {
-      "id": "7899cf09",
-      "image": "img/7899cf09.png",
-      "image_sha": "b4cecfda4efb3f7aa5578e16f4952a37b9edb13c",
-      "url": "https://www.radiodos.com.ar/213756-supuesto-ladron-denuncio-a-sus-golpeadores-tras-caso-de-vecinos-justicieros-en-corrientes",
-      "title": "Supuesto ladrón denunció a sus golpeadores tras caso de \"vecinos justicieros\" en Corrientes",
-      "volanta": "BARRIO ESPERANZA",
-      "date": "2026-09-12T19:37:03+00:00"
     }
   ]
 }
