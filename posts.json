@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T21:14:11+00:00",
+  "updated": "2026-09-15T21:14:47+00:00",
   "posts": [
+    {
+      "id": "a151d84f",
+      "image": "img/a151d84f.png",
+      "image_sha": "977ff74e271079314b7f9fe5eaedfb8e06f7fbdc",
+      "url": "https://www.radiodos.com.ar/213936-cuatro-de-las-principales-economias-regionales-de-corrientes-se-hunden-en-rojo",
+      "title": "Cuatro de las principales economías regionales de Corrientes se hunden en rojo",
+      "volanta": "Semáforo de Coninagro",
+      "date": "2026-09-15T21:14:47+00:00"
+    },
     {
       "id": "9e84c108",
       "image": "img/9e84c108.png",
@@ -531,15 +540,6 @@
       "title": "Capataz de estancia sería parte de una banda de ladrones de ganado",
       "volanta": "corrientes",
       "date": "2026-09-13T17:08:35+00:00"
-    },
-    {
-      "id": "2510238c",
-      "image": "img/2510238c.png",
-      "image_sha": "37c59c1cd1f00c40c4ffa539519569cf0b6df176",
-      "url": "https://www.radiodos.com.ar/213792-finalizo-con-exito-el-operativo-de-seguridad-por-el-recital-de-la-renga-en-corrientes",
-      "title": "Finalizó con éxito el operativo de seguridad por el recital de La Renga en Corrientes",
-      "volanta": "ANFITEATRO COCOMAROLA",
-      "date": "2026-09-13T15:34:27+00:00"
     }
   ]
 }
