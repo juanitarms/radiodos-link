@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T12:08:29+00:00",
+  "updated": "2026-09-15T12:28:14+00:00",
   "posts": [
+    {
+      "id": "141fbdc2",
+      "image": "img/141fbdc2.png",
+      "image_sha": "128574c6326a54caba902ffd69a97252828c5bdb",
+      "url": "https://www.radiodos.com.ar/213885-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
+      "volanta": "ESTE MARTES",
+      "date": "2026-09-15T12:28:14+00:00"
+    },
     {
       "id": "7ae1e93c",
       "image": "img/7ae1e93c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes recibirá a la elite mundial de la física química teórica en el congreso ISTCP 2027",
       "volanta": "SEDE",
       "date": "2026-09-11T20:40:47+00:00"
-    },
-    {
-      "id": "652ce96e",
-      "image": "img/652ce96e.png",
-      "image_sha": "8b7184d3f9975d7d3ad5cdbe0095967c44629252",
-      "url": "https://www.radiodos.com.ar/213736-el-secretario-de-cultura-de-nacion-visito-corrientes-y-ratifico-su-apoyo-al-chamame",
-      "title": "El secretario de Cultura de Nación visitó Corrientes y ratificó su apoyo al chamamé",
-      "volanta": "VÍNCULOS INSTITUCIONALES",
-      "date": "2026-09-11T20:39:55+00:00"
     }
   ]
 }
