@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T12:54:19+00:00",
+  "updated": "2026-09-15T13:07:55+00:00",
   "posts": [
+    {
+      "id": "08ca7351",
+      "image": "img/08ca7351.png",
+      "image_sha": "d4451c5145c893ba8b42aab9c5e56546380f76c8",
+      "url": "https://www.radiodos.com.ar/213901-arca-el-tramite-que-tenes-que-hacer-para-sumar-los-anos-de-aportes-que-te-faltan-para-jubilarte",
+      "title": "ARCA: el trámite que tenés que hacer para sumar los años de aportes que te faltan para jubilarte",
+      "volanta": "INFO ÚTIL",
+      "date": "2026-09-15T13:07:55+00:00"
+    },
     {
       "id": "e9354663",
       "image": "img/e9354663.png",
@@ -531,15 +540,6 @@
       "title": "Otra causa contra \"Chiqui\" Tapia: lo investigan por enriquecimiento ilícito en la Ceamse",
       "volanta": "Presidente de la afa",
       "date": "2026-09-11T21:07:49+00:00"
-    },
-    {
-      "id": "6cf04800",
-      "image": "img/6cf04800.png",
-      "image_sha": "8f6db935993f7c52d400674ede6d6b47fc2a0b3f",
-      "url": "https://www.radiodos.com.ar/213732-juan-pablo-valdes-presento-destino-corrientes-y-destaco-al-turismo-como-motor-de-desarrollo",
-      "title": "Juan Pablo Valdés presentó \"Destino Corrientes\" y destacó al turismo como motor de desarrollo",
-      "volanta": "AUDITORIO JULIÁN ZINI",
-      "date": "2026-09-11T20:41:19+00:00"
     }
   ]
 }
