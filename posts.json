@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T12:28:14+00:00",
+  "updated": "2026-09-15T12:54:19+00:00",
   "posts": [
+    {
+      "id": "e9354663",
+      "image": "img/e9354663.png",
+      "image_sha": "206fd2160d6606eff545d07a763557d9a8f2110d",
+      "url": "https://www.radiodos.com.ar/213891-lucha-por-el-financiamiento-universitario-clase-publica-en-la-facultad-de-medicina",
+      "title": "Lucha por el financiamiento universitario: clase pública en la Facultad de Medicina",
+      "volanta": "UNNE",
+      "date": "2026-09-15T12:54:19+00:00"
+    },
     {
       "id": "141fbdc2",
       "image": "img/141fbdc2.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés presentó \"Destino Corrientes\" y destacó al turismo como motor de desarrollo",
       "volanta": "AUDITORIO JULIÁN ZINI",
       "date": "2026-09-11T20:41:19+00:00"
-    },
-    {
-      "id": "6f276786",
-      "image": "img/6f276786.png",
-      "image_sha": "03d6b0ff4b65a52c767738ce73cfc85dc45b1ed1",
-      "url": "https://www.radiodos.com.ar/213734-corrientes-recibira-a-la-elite-mundial-de-la-fisica-quimica-teorica-en-el-congreso-istcp-2027",
-      "title": "Corrientes recibirá a la elite mundial de la física química teórica en el congreso ISTCP 2027",
-      "volanta": "SEDE",
-      "date": "2026-09-11T20:40:47+00:00"
     }
   ]
 }
