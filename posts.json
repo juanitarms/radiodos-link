@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T18:25:19+00:00",
+  "updated": "2026-09-16T20:52:05+00:00",
   "posts": [
+    {
+      "id": "fbc9ecf0",
+      "image": "img/fbc9ecf0.png",
+      "image_sha": "27254a9b4e699bda130ddc2a90409812a7311dc8",
+      "url": "https://www.radiodos.com.ar/213994-corrientes-se-prepara-para-recibir-por-primera-vez-al-parlamento-del-norte-grande",
+      "title": "Corrientes se prepara para recibir por primera vez al Parlamento del Norte Grande",
+      "volanta": "en octubre",
+      "date": "2026-09-16T20:52:05+00:00"
+    },
     {
       "id": "5c1d18f6",
       "image": "img/5c1d18f6.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por peligro de usurpación de viviendas en un barrio de Corrientes",
       "volanta": "PASA AHORA",
       "date": "2026-09-14T20:50:29+00:00"
-    },
-    {
-      "id": "74f65bbd",
-      "image": "img/74f65bbd.png",
-      "image_sha": "c6697e85f302f090510d7295133136e90b482bda",
-      "url": "https://www.radiodos.com.ar/213857-empedrado-celebro-su-bicentenario-con-una-historica-jornada-festiva",
-      "title": "Empedrado celebró su bicentenario con una histórica jornada festiva",
-      "volanta": "PROVINCIA",
-      "date": "2026-09-14T19:38:07+00:00"
     }
   ]
 }
