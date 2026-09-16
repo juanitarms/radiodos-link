@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T17:08:01+00:00",
+  "updated": "2026-09-16T18:24:46+00:00",
   "posts": [
+    {
+      "id": "890dc3d3",
+      "image": "img/890dc3d3.png",
+      "image_sha": "e3a9d37214206eba1092fd2185fbd86099abbd8b",
+      "url": "https://www.radiodos.com.ar/213985-wanda-nara-tendra-su-propio-reality-cuando-se-estrena-y-en-que-plataforma",
+      "title": "Wanda Nara tendrá su propio reality: cuándo se estrena y en qué plataforma",
+      "volanta": "SE VIENE",
+      "date": "2026-09-16T18:24:46+00:00"
+    },
     {
       "id": "687366fe",
       "image": "img/687366fe.png",
@@ -531,15 +540,6 @@
       "title": "Embajador de Corea visitó el Parque Tecnológico de la UNNE para afianzar alianzas estratégicas",
       "volanta": "INTERNACIONALIZACIÓN",
       "date": "2026-09-14T19:37:33+00:00"
-    },
-    {
-      "id": "59bec122",
-      "image": "img/59bec122.png",
-      "image_sha": "988477dd22c9801096e5b95bdfb9a050c66c3bf1",
-      "url": "https://www.radiodos.com.ar/213859-investigador-de-la-unne-premiado-por-aves-argentinas-para-estudiar-al-carpintero-blanco-en-el-nea",
-      "title": "Investigador de la UNNE premiado por \"Aves Argentinas\" para estudiar al carpintero blanco en el NEA",
-      "volanta": "APOYO A LA INVESTIGACIÓN",
-      "date": "2026-09-14T18:10:12+00:00"
     }
   ]
 }
