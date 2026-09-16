@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T12:31:33+00:00",
+  "updated": "2026-09-16T13:14:21+00:00",
   "posts": [
+    {
+      "id": "aec6ebbb",
+      "image": "img/aec6ebbb.png",
+      "image_sha": "189e8daf12f1df3d80e3ee47bfb910fd6eda6e84",
+      "url": "https://www.radiodos.com.ar/213959-capacitaron-a-mas-de-60-mediadores-de-toda-la-provincia-para-el-uso-de-un-asistente-virtual",
+      "title": "Capacitaron a más de 60 mediadores de toda la provincia para el uso de un asistente virtual",
+      "volanta": "PODER JUDICIAL",
+      "date": "2026-09-16T13:14:21+00:00"
+    },
     {
       "id": "33585834",
       "image": "img/33585834.png",
@@ -531,15 +540,6 @@
       "title": "Luck Ra volvió a hablar y su respuesta tras el romance de La Joaqui y Tiago PZK sorprendió",
       "volanta": "NO SUELTA",
       "date": "2026-09-14T13:59:27+00:00"
-    },
-    {
-      "id": "9ff5355b",
-      "image": "img/9ff5355b.png",
-      "image_sha": "ed0e56f209c54b84f27244361f306f22709f0d92",
-      "url": "https://www.radiodos.com.ar/213836-encontraron-muerta-a-una-aspirante-a-gendarmeria-detuvieron-a-su-pareja",
-      "title": "Encontraron muerta a una aspirante a Gendarmería: detuvieron a su pareja",
-      "volanta": "SAN JUAN",
-      "date": "2026-09-14T13:39:13+00:00"
     }
   ]
 }
