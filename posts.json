@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T11:17:25+00:00",
+  "updated": "2026-09-16T11:48:29+00:00",
   "posts": [
+    {
+      "id": "93c9f48e",
+      "image": "img/93c9f48e.png",
+      "image_sha": "a1dbf721c3dc207e63b85b7a472d82c0dc6ba25e",
+      "url": "https://www.radiodos.com.ar/213950-una-investigacion-de-la-unne-releva-como-cambio-el-uso-de-la-vivienda-el-barrio-y-la-ciudad-despues-de-la-pandemia",
+      "title": "Una investigación de la UNNe releva cómo cambió el uso de la vivienda, el barrio y la ciudad después de la pandemia",
+      "volanta": "NUEVOS CONOCIMIENTOS",
+      "date": "2026-09-16T11:48:29+00:00"
+    },
     {
       "id": "6ebf8cc3",
       "image": "img/6ebf8cc3.png",
@@ -531,15 +540,6 @@
       "title": "Brutal agresión a un árbitro en un partido del ascenso de la Liga Correntina de Fútbol",
       "volanta": "INCONCEBIBLE",
       "date": "2026-09-14T13:01:14+00:00"
-    },
-    {
-      "id": "a9db3903",
-      "image": "img/a9db3903.png",
-      "image_sha": "2cfe7ec0e13a212aaa956b6194e7a524079f8e31",
-      "url": "https://www.radiodos.com.ar/213822-la-morosidad-de-las-familias-volvio-a-subir-y-alcanzo-el-18-del-credito-en-julio",
-      "title": "La morosidad de las familias volvió a subir y alcanzó el 18% del crédito en julio",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-14T12:34:20+00:00"
     }
   ]
 }
