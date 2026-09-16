@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T16:39:28+00:00",
+  "updated": "2026-09-16T16:40:07+00:00",
   "posts": [
+    {
+      "id": "ef90df2d",
+      "image": "img/ef90df2d.png",
+      "image_sha": "9f05bd06283b9fece911502189638eabf0efc4c6",
+      "url": "https://www.radiodos.com.ar/213980-valdes-avanzo-con-estados-unidos-en-nuevas-oportunidades-para-la-produccion-correntina",
+      "title": "Valdés avanzó con Estados Unidos en nuevas oportunidades para la producción correntina",
+      "volanta": "RELACIONES INTERNACIONALES",
+      "date": "2026-09-16T16:40:07+00:00"
+    },
     {
       "id": "a267cd44",
       "image": "img/a267cd44.png",
@@ -531,15 +540,6 @@
       "title": "Crisis en la industria del calzado: cayó 26,5% la producción y ya se perdieron más de 9.000 empleos",
       "volanta": "ECONOMÍA",
       "date": "2026-09-14T17:18:56+00:00"
-    },
-    {
-      "id": "d151d9a6",
-      "image": "img/d151d9a6.png",
-      "image_sha": "7767dd2e7c51ed1cf39cf8caf88c06ab667d02a0",
-      "url": "https://www.radiodos.com.ar/213854-se-realizaron-controles-de-agroquimicos-en-santa-lucia-y-bella-vista",
-      "title": "Se realizaron controles de agroquímicos en Santa Lucía y Bella Vista",
-      "volanta": "FISCALIZACIÓN FITOSANITARIA",
-      "date": "2026-09-14T17:18:24+00:00"
     }
   ]
 }
