@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T20:53:18+00:00",
+  "updated": "2026-09-16T20:53:58+00:00",
   "posts": [
+    {
+      "id": "706ce5a7",
+      "image": "img/706ce5a7.png",
+      "image_sha": "468be2285923f78a67653a38df19de672d1b5f0b",
+      "url": "https://www.radiodos.com.ar/213992-la-inflacion-mayorista-trepo-al-21-en-agosto",
+      "title": "La inflación mayorista trepó al 2,1% en agosto",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-09-16T20:53:58+00:00"
+    },
     {
       "id": "0a54f600",
       "image": "img/0a54f600.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: no habrá careo entre Laudelina Peña y Walter Maciel",
       "volanta": "MAÑANA SE RETOMAN LAS AUDIENCIAS",
       "date": "2026-09-14T20:57:15+00:00"
-    },
-    {
-      "id": "f47369b0",
-      "image": "img/f47369b0.png",
-      "image_sha": "2a6dd914ce0e32c5bd9c14da28c74f8366ecb266",
-      "url": "https://www.radiodos.com.ar/213863-un-diario-kelper-afirmo-que-javier-milei-usa-la-causa-malvinas-para-distraer-a-la-gente-de-sus-fracasos",
-      "title": "Un diario kelper afirmó que Javier Milei usa la causa Malvinas para \"distraer a la gente de sus fracasos\"",
-      "volanta": "Tras anuncio del gobierno",
-      "date": "2026-09-14T20:55:41+00:00"
     }
   ]
 }
