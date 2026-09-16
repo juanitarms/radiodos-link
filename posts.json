@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T20:53:58+00:00",
+  "updated": "2026-09-16T20:54:29+00:00",
   "posts": [
+    {
+      "id": "c1947f12",
+      "image": "img/c1947f12.png",
+      "image_sha": "9bde75a7b0af015659e4e3800d9cc980d9e773c1",
+      "url": "https://www.radiodos.com.ar/213991-diego-santilli-se-reunio-con-jp-valdes-y-otros-gobernadores-del-norte-y-les-pidio-apoyo-para-el-presupuesto-2027",
+      "title": "Diego Santilli se reunió con JP Valdés y otros gobernadores del norte y les pidió apoyo para el Presupuesto 2027",
+      "volanta": "AGENDA NACIONAL",
+      "date": "2026-09-16T20:54:29+00:00"
+    },
     {
       "id": "706ce5a7",
       "image": "img/706ce5a7.png",
@@ -531,15 +540,6 @@
       "title": "El Mercado de Pulgas del Municipio superó las expectativas y ya se perfila una nueva edición",
       "volanta": "ECONOMÍA CIRCULAR",
       "date": "2026-09-14T20:57:46+00:00"
-    },
-    {
-      "id": "474eb300",
-      "image": "img/474eb300.png",
-      "image_sha": "ed14331c141f3973021138bee777295c37e9ea94",
-      "url": "https://www.radiodos.com.ar/213862-juicio-por-loan-no-habra-careo-entre-laudelina-pena-y-walter-maciel",
-      "title": "Juicio por Loan: no habrá careo entre Laudelina Peña y Walter Maciel",
-      "volanta": "MAÑANA SE RETOMAN LAS AUDIENCIAS",
-      "date": "2026-09-14T20:57:15+00:00"
     }
   ]
 }
