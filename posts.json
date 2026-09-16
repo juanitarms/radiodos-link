@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T20:54:29+00:00",
+  "updated": "2026-09-16T20:54:59+00:00",
   "posts": [
+    {
+      "id": "c6dc323e",
+      "image": "img/c6dc323e.png",
+      "image_sha": "b73fc625989f71276e0769fb36f61c541f90efe7",
+      "url": "https://www.radiodos.com.ar/213990-el-club-don-bosco-lanzo-una-campana-para-instalar-piso-de-parque-en-su-cancha",
+      "title": "El Club Don Bosco lanzó una campaña para instalar piso de parqué en su cancha",
+      "volanta": "Necesitan $30,6 millones",
+      "date": "2026-09-16T20:54:59+00:00"
+    },
     {
       "id": "c1947f12",
       "image": "img/c1947f12.png",
@@ -531,15 +540,6 @@
       "title": "Empedrado celebró su bicentenario con una histórica jornada festiva",
       "volanta": "PROVINCIA",
       "date": "2026-09-14T20:58:18+00:00"
-    },
-    {
-      "id": "2eb25d00",
-      "image": "img/2eb25d00.png",
-      "image_sha": "7a2901b51bb047e0191e6d6d3a524f8400167284",
-      "url": "https://www.radiodos.com.ar/213865-el-mercado-de-pulgas-del-municipio-supero-las-expectativas-y-ya-se-perfila-una-nueva-edicion",
-      "title": "El Mercado de Pulgas del Municipio superó las expectativas y ya se perfila una nueva edición",
-      "volanta": "ECONOMÍA CIRCULAR",
-      "date": "2026-09-14T20:57:46+00:00"
     }
   ]
 }
