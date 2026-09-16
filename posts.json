@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-15T23:43:55+00:00",
+  "updated": "2026-09-16T10:38:11+00:00",
   "posts": [
+    {
+      "id": "c7a26a8d",
+      "image": "img/c7a26a8d.png",
+      "image_sha": "2a0ec752789ba11ae3c7ef46255550b1b3a2d5a5",
+      "url": "https://www.radiodos.com.ar/213940-miles-de-jovenes-se-preparan-para-vivir-la-47-peregrinacion-juvenil-del-nea-a-itati",
+      "title": "Miles de jóvenes se preparan para vivir la 47.ª Peregrinación Juvenil del NEA a Itatí",
+      "volanta": "DEMOSTRACIÓN DE FE",
+      "date": "2026-09-16T10:38:11+00:00"
+    },
     {
       "id": "fffbd5d3",
       "image": "img/fffbd5d3.png",
@@ -531,15 +540,6 @@
       "title": "Itaipú abrió sus compuertas y hay alerta en Corrientes y Misiones por el gran caudal de agua",
       "volanta": "3800 METROS CÚBICOS POR SEGUNDO",
       "date": "2026-09-14T11:59:37+00:00"
-    },
-    {
-      "id": "a9250369",
-      "image": "img/a9250369.png",
-      "image_sha": "25793989bbd96ef622e55931fa62626837e90ff7",
-      "url": "https://www.radiodos.com.ar/213809-esquina-un-joven-fue-a-encontrarse-con-su-amante-pero-aparecio-la-pareja-de-ella-y-le-disparo-y-apunalo",
-      "title": "Esquina: un joven fue a encontrarse con su amante, pero apareció la pareja de ella y le disparó y apuñaló",
-      "volanta": "ESTÁ DETENIDO",
-      "date": "2026-09-14T11:42:08+00:00"
     }
   ]
 }
