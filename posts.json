@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T18:24:46+00:00",
+  "updated": "2026-09-16T18:25:19+00:00",
   "posts": [
+    {
+      "id": "5c1d18f6",
+      "image": "img/5c1d18f6.png",
+      "image_sha": "989872a21d3e8c9de67a91590f3c4087af86a36f",
+      "url": "https://www.radiodos.com.ar/213987-con-la-visita-de-dario-sztajnszrajber-curuzu-se-prepara-para-su-15-feria-del-libro",
+      "title": "Con la visita de Darío Sztajnszrajber, Curuzú se prepara para su 15ª Feria del Libro",
+      "volanta": "VISITA ESTELAR",
+      "date": "2026-09-16T18:25:19+00:00"
+    },
     {
       "id": "890dc3d3",
       "image": "img/890dc3d3.png",
@@ -531,15 +540,6 @@
       "title": "Empedrado celebró su bicentenario con una histórica jornada festiva",
       "volanta": "PROVINCIA",
       "date": "2026-09-14T19:38:07+00:00"
-    },
-    {
-      "id": "dc324dc4",
-      "image": "img/dc324dc4.png",
-      "image_sha": "905be20f712166a4846b415098125fca9effa0c9",
-      "url": "https://www.radiodos.com.ar/213858-embajador-de-corea-visito-el-parque-tecnologico-de-la-unne-para-afianzar-alianzas-estrategicas",
-      "title": "Embajador de Corea visitó el Parque Tecnológico de la UNNE para afianzar alianzas estratégicas",
-      "volanta": "INTERNACIONALIZACIÓN",
-      "date": "2026-09-14T19:37:33+00:00"
     }
   ]
 }
