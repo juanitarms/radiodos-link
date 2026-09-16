@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T15:16:03+00:00",
+  "updated": "2026-09-16T16:39:28+00:00",
   "posts": [
+    {
+      "id": "a267cd44",
+      "image": "img/a267cd44.png",
+      "image_sha": "dd78e9b005ff48bffb25926336532f38a2e47999",
+      "url": "https://www.radiodos.com.ar/213981-mas-de-120-estudiantes-buscan-representar-a-corrientes-en-la-copa-robotica-educabot-2026",
+      "title": "Más de 120 estudiantes buscan representar a Corrientes en la Copa Robótica Educabot 2026",
+      "volanta": "SEMIFINAL PROVINCIAL",
+      "date": "2026-09-16T16:39:28+00:00"
+    },
     {
       "id": "04085d70",
       "image": "img/04085d70.png",
@@ -531,15 +540,6 @@
       "title": "Se realizaron controles de agroquímicos en Santa Lucía y Bella Vista",
       "volanta": "FISCALIZACIÓN FITOSANITARIA",
       "date": "2026-09-14T17:18:24+00:00"
-    },
-    {
-      "id": "47df047d",
-      "image": "img/47df047d.png",
-      "image_sha": "88ebe8afe742f18d60493eeba879ace166c9b86c",
-      "url": "https://www.radiodos.com.ar/213852-regatas-fue-de-bronce-en-la-liga-federal-de-cadetes",
-      "title": "Regatas fue de bronce en la Liga Federal de Cadetes",
-      "volanta": "Liga Federal Formativa",
-      "date": "2026-09-14T17:17:54+00:00"
     }
   ]
 }
