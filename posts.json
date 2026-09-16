@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T22:02:18+00:00",
+  "updated": "2026-09-16T22:04:40+00:00",
   "posts": [
+    {
+      "id": "d53b1d09",
+      "image": "img/d53b1d09.png",
+      "image_sha": "2b366156f1b1277c25d79f29ea3ad79ea00c42f0",
+      "url": "https://www.radiodos.com.ar/213998-la-justicia-federal-freno-el-proyecto-petrolero-sea-lion-en-las-islas-malvinas",
+      "title": "La Justicia Federal frenó el proyecto petrolero \"Sea Lion\" en las Islas Malvinas",
+      "volanta": "Para evaluar impacto ambiental",
+      "date": "2026-09-16T22:04:40+00:00"
+    },
     {
       "id": "97de19c6",
       "image": "img/97de19c6.png",
@@ -531,15 +540,6 @@
       "title": "Este martes 15 de septiembre inicia el pago del plus extraordinario para municipales de la ciudad de Corrientes",
       "volanta": "COMPLEMENTO SALARIAL",
       "date": "2026-09-14T21:00:55+00:00"
-    },
-    {
-      "id": "9f9f709e",
-      "image": "img/9f9f709e.png",
-      "image_sha": "98ecb10fd2c892451ccfe01c6988231a917d47dc",
-      "url": "https://www.radiodos.com.ar/213868-mas-de-150-puntos-de-venta-de-drogas-fueron-desarticulados-en-corrientes",
-      "title": "Más de 150 puntos de venta de drogas fueron desarticulados en Corrientes",
-      "volanta": "SEGURIDAD",
-      "date": "2026-09-14T20:59:20+00:00"
     }
   ]
 }
