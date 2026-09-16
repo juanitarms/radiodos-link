@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T10:38:11+00:00",
+  "updated": "2026-09-16T11:17:25+00:00",
   "posts": [
+    {
+      "id": "6ebf8cc3",
+      "image": "img/6ebf8cc3.png",
+      "image_sha": "6ff4f117575403b3cc34bb3da3b37af297f189a9",
+      "url": "https://www.radiodos.com.ar/213945-secuestran-un-vehiculo-en-la-calle-por-irregularidades-en-la-patente-y-la-cedula",
+      "title": "Secuestran un vehículo en la calle por irregularidades en la patente y la cédula",
+      "volanta": "LAVALLE AL 5200",
+      "date": "2026-09-16T11:17:25+00:00"
+    },
     {
       "id": "c7a26a8d",
       "image": "img/c7a26a8d.png",
@@ -531,15 +540,6 @@
       "title": "La morosidad de las familias volvió a subir y alcanzó el 18% del crédito en julio",
       "volanta": "ECONOMÍA",
       "date": "2026-09-14T12:34:20+00:00"
-    },
-    {
-      "id": "3d47ae6f",
-      "image": "img/3d47ae6f.png",
-      "image_sha": "b22127919e0e050c9ff804ccce3b8d363abc3d03",
-      "url": "https://www.radiodos.com.ar/213810-itaipu-abrio-sus-compuertas-y-hay-alerta-en-corrientes-y-misiones-por-el-gran-caudal-de-agua",
-      "title": "Itaipú abrió sus compuertas y hay alerta en Corrientes y Misiones por el gran caudal de agua",
-      "volanta": "3800 METROS CÚBICOS POR SEGUNDO",
-      "date": "2026-09-14T11:59:37+00:00"
     }
   ]
 }
