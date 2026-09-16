@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T14:56:23+00:00",
+  "updated": "2026-09-16T15:16:03+00:00",
   "posts": [
+    {
+      "id": "04085d70",
+      "image": "img/04085d70.png",
+      "image_sha": "128697245ba9ba92927ad2469e73a4bb263435fe",
+      "url": "https://www.radiodos.com.ar/213977-juicio-loan-el-excomisario-maciel-apunto-contra-laudelina-y-los-fiscales-barri-y-castillo",
+      "title": "Juicio Loan: El excomisario Maciel apuntó contra Laudelina y los fiscales Barri y Castillo",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-16T15:16:03+00:00"
+    },
     {
       "id": "0ad61677",
       "image": "img/0ad61677.png",
@@ -531,15 +540,6 @@
       "title": "Regatas fue de bronce en la Liga Federal de Cadetes",
       "volanta": "Liga Federal Formativa",
       "date": "2026-09-14T17:17:54+00:00"
-    },
-    {
-      "id": "7bafb2bf",
-      "image": "img/7bafb2bf.png",
-      "image_sha": "b226dc0c150574616c06e2c41a6b2a101b8fbc44",
-      "url": "https://www.radiodos.com.ar/213853-braillard-poccard-firmo-un-convenio-de-cooperacion-entre-el-senado-y-la-universidad-de-la-cuenca-del-plata",
-      "title": "Braillard Poccard firmó un convenio de cooperación entre el Senado y la Universidad de la Cuenca del Plata",
-      "volanta": "TRABAJO CONJUNTO",
-      "date": "2026-09-14T17:17:19+00:00"
     }
   ]
 }
