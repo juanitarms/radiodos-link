@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T13:14:21+00:00",
+  "updated": "2026-09-16T13:44:38+00:00",
   "posts": [
+    {
+      "id": "4a1e706e",
+      "image": "img/4a1e706e.png",
+      "image_sha": "09103cf84c9b20fb6254cf50897e34e8a3403b4b",
+      "url": "https://www.radiodos.com.ar/213965-corrientes-promueven-un-canal-de-whatsapp-para-fomentar-peleas-y-escraches-entre-alumnos-de-una-escuela",
+      "title": "Corrientes: promueven un canal de WhatsApp para fomentar peleas y escraches entre alumnos de una escuela",
+      "volanta": "GRAVÍSIMO",
+      "date": "2026-09-16T13:44:38+00:00"
+    },
     {
       "id": "aec6ebbb",
       "image": "img/aec6ebbb.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand recibió el alta médica: cómo continúa su recuperación",
       "volanta": "A CUIDARSE",
       "date": "2026-09-14T14:19:08+00:00"
-    },
-    {
-      "id": "affe40cf",
-      "image": "img/affe40cf.png",
-      "image_sha": "bb574b2a52b3b6b4824a8536e883bb734fc215ab",
-      "url": "https://www.radiodos.com.ar/213829-luck-ra-volvio-a-hablar-y-su-respuesta-tras-el-romance-de-la-joaqui-y-tiago-pzk-sorprendio",
-      "title": "Luck Ra volvió a hablar y su respuesta tras el romance de La Joaqui y Tiago PZK sorprendió",
-      "volanta": "NO SUELTA",
-      "date": "2026-09-14T13:59:27+00:00"
     }
   ]
 }
