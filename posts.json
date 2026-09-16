@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T11:48:29+00:00",
+  "updated": "2026-09-16T12:11:54+00:00",
   "posts": [
+    {
+      "id": "051dbb22",
+      "image": "img/051dbb22.png",
+      "image_sha": "2a0cb45acc311d88153d725f12165da65b431c97",
+      "url": "https://www.radiodos.com.ar/213947-caso-loan-maciel-vuelve-a-declarar-y-el-tribunal-suspendio-dos-testimonios-clave-previstos-para-esta-semana",
+      "title": "Caso Loan: Maciel vuelve a declarar y el Tribunal suspendió dos testimonios clave previstos para esta semana",
+      "volanta": "COMISARIO IMPUTADO",
+      "date": "2026-09-16T12:11:54+00:00"
+    },
     {
       "id": "93c9f48e",
       "image": "img/93c9f48e.png",
@@ -531,15 +540,6 @@
       "title": "Plus de Refuerzo: Mañana comienza el pago a empleados públicos provinciales",
       "volanta": "HASTA EL 21",
       "date": "2026-09-14T13:19:36+00:00"
-    },
-    {
-      "id": "0e8eb40c",
-      "image": "img/0e8eb40c.png",
-      "image_sha": "5685efcc85ce19b6a0266a86fa6a6ba9aff2ff80",
-      "url": "https://www.radiodos.com.ar/213821-brutal-agresion-a-un-arbitro-en-un-partido-del-ascenso-de-la-liga-correntina-de-futbol",
-      "title": "Brutal agresión a un árbitro en un partido del ascenso de la Liga Correntina de Fútbol",
-      "volanta": "INCONCEBIBLE",
-      "date": "2026-09-14T13:01:14+00:00"
     }
   ]
 }
