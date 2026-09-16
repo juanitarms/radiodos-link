@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T16:40:07+00:00",
+  "updated": "2026-09-16T16:40:40+00:00",
   "posts": [
+    {
+      "id": "cfbbe01a",
+      "image": "img/cfbbe01a.png",
+      "image_sha": "4a63e3ccf44f5894262c23c0d3667d534d2f1a4f",
+      "url": "https://www.radiodos.com.ar/213984-la-llamativa-ausencia-de-julieta-ortega-en-el-casamiento-de-emanuel-ortega-y-julieta-prandi",
+      "title": "La llamativa ausencia de Julieta Ortega en el casamiento de Emanuel Ortega y Julieta Prandi",
+      "volanta": "MISTERIO",
+      "date": "2026-09-16T16:40:40+00:00"
+    },
     {
       "id": "ef90df2d",
       "image": "img/ef90df2d.png",
@@ -531,15 +540,6 @@
       "title": "Julián Álvarez se lesionó en Atlético de Madrid: el parte médico oficial y qué partidos se perdería",
       "volanta": "ESPAÑA",
       "date": "2026-09-14T18:09:39+00:00"
-    },
-    {
-      "id": "8da8bce2",
-      "image": "img/8da8bce2.png",
-      "image_sha": "645f494151d52e0d13936bda277fe1a70cc3a7b7",
-      "url": "https://www.radiodos.com.ar/213855-crisis-en-la-industria-del-calzado-cayo-265-la-produccion-y-ya-se-perdieron-mas-de-9000-empleos",
-      "title": "Crisis en la industria del calzado: cayó 26,5% la producción y ya se perdieron más de 9.000 empleos",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-14T17:18:56+00:00"
     }
   ]
 }
