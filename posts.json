@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T14:20:47+00:00",
+  "updated": "2026-09-17T14:55:58+00:00",
   "posts": [
+    {
+      "id": "10bd394a",
+      "image": "img/10bd394a.png",
+      "image_sha": "3011370a6ff400ff1ccedd0a10cafd467f4cb68e",
+      "url": "https://www.radiodos.com.ar/214038-abrio-la-inscripcion-para-el-programa-de-becas-estrategicas-manuel-belgrano",
+      "title": "Abrió la inscripción para el Programa de Becas Estratégicas Manuel Belgrano",
+      "volanta": "NIVEL NACIÓN",
+      "date": "2026-09-17T14:55:58+00:00"
+    },
     {
       "id": "9f3d8675",
       "image": "img/9f3d8675.png",
@@ -531,15 +540,6 @@
       "title": "ARCA: el trámite que tenés que hacer para sumar los años de aportes que te faltan para jubilarte",
       "volanta": "INFO ÚTIL",
       "date": "2026-09-15T13:07:55+00:00"
-    },
-    {
-      "id": "e9354663",
-      "image": "img/e9354663.png",
-      "image_sha": "206fd2160d6606eff545d07a763557d9a8f2110d",
-      "url": "https://www.radiodos.com.ar/213891-lucha-por-el-financiamiento-universitario-clase-publica-en-la-facultad-de-medicina",
-      "title": "Lucha por el financiamiento universitario: clase pública en la Facultad de Medicina",
-      "volanta": "UNNE",
-      "date": "2026-09-15T12:54:19+00:00"
     }
   ]
 }
