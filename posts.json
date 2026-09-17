@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T22:49:52+00:00",
+  "updated": "2026-09-17T22:50:33+00:00",
   "posts": [
+    {
+      "id": "bb78e186",
+      "image": "img/bb78e186.png",
+      "image_sha": "f8cb112317accd430661ef999307abc005dbaec5",
+      "url": "https://www.radiodos.com.ar/214063-javier-milei-echo-a-casi-todo-el-personal-de-olivos-furioso-por-la-cocina-y-las-filtraciones",
+      "title": "Javier Milei echó a casi todo el personal de Olivos furioso por la cocina y las filtraciones",
+      "volanta": "ROTUNDO CAMBIO",
+      "date": "2026-09-17T22:50:33+00:00"
+    },
     {
       "id": "38c0579c",
       "image": "img/38c0579c.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno presentó el Presupuesto 2027: inflación del 21,1% y crecimiento del PBI del 4%",
       "volanta": "LEY DE LEYES",
       "date": "2026-09-15T21:12:53+00:00"
-    },
-    {
-      "id": "6444536c",
-      "image": "img/6444536c.png",
-      "image_sha": "36f24a3c96d265e5485a5ae37fde661bce087b70",
-      "url": "https://www.radiodos.com.ar/213922-se-extendio-hasta-el-20-de-septiembre-el-concurso-fotografico-la-ciudad-que-queremos-florecer",
-      "title": "Se extendió hasta el 20 de septiembre el concurso fotográfico \"La ciudad que queremos florecer\"",
-      "volanta": "PARTICIPACIÓN CIUDADANA",
-      "date": "2026-09-15T17:34:47+00:00"
     }
   ]
 }
