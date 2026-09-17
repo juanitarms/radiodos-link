@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T22:12:54+00:00",
+  "updated": "2026-09-17T10:27:49+00:00",
   "posts": [
+    {
+      "id": "b0f392ce",
+      "image": "img/b0f392ce.png",
+      "image_sha": "c1aaa772890615507a06423199ee47994a9538ef",
+      "url": "https://www.radiodos.com.ar/214010-fue-hallada-en-misiones-la-joven-del-interior-de-corrientes-que-estaba-desaparecida-desde-hace-una-semana",
+      "title": "Fue hallada en Misiones la joven del interior de Corrientes que estaba desaparecida desde hace una semana",
+      "volanta": "EN ANDRESITO",
+      "date": "2026-09-17T10:27:49+00:00"
+    },
     {
       "id": "38526fcc",
       "image": "img/38526fcc.png",
@@ -531,15 +540,6 @@
       "title": "Visita del Papa León XIV: cómo anotarse para ser voluntario",
       "volanta": "Crece la expectativa",
       "date": "2026-09-14T23:11:43+00:00"
-    },
-    {
-      "id": "6fd4248d",
-      "image": "img/6fd4248d.png",
-      "image_sha": "923046b5f927085930f1a95e904728c22661bd8a",
-      "url": "https://www.radiodos.com.ar/213872-bolivia-burkina-faso-y-benin-los-amistosos-de-la-seleccion-argentina-elegidos-por-la-afa",
-      "title": "Bolivia, Burkina Faso y Benín: los amistosos de la Selección argentina elegidos por la AFA",
-      "volanta": "Tras el mundial",
-      "date": "2026-09-14T23:10:36+00:00"
     }
   ]
 }
