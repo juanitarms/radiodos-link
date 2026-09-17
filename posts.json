@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T12:04:27+00:00",
+  "updated": "2026-09-17T12:42:24+00:00",
   "posts": [
+    {
+      "id": "ee37269c",
+      "image": "img/ee37269c.png",
+      "image_sha": "9ba1bd548b956ecbc68751946daca5fb8077bbb1",
+      "url": "https://www.radiodos.com.ar/214023-en-allanamiento-secuestran-una-camioneta-con-pedido-de-busqueda",
+      "title": "En allanamiento secuestran una camioneta con pedido de búsqueda",
+      "volanta": "CURUZÚ CUATIÁ",
+      "date": "2026-09-17T12:42:24+00:00"
+    },
     {
       "id": "589b9ff8",
       "image": "img/589b9ff8.png",
@@ -531,15 +540,6 @@
       "title": "Tensión en usurpación de viviendas en Corrientes: hubo policías heridos y recién hoy se daría el desalojo",
       "volanta": "MOMENTOS DE TENSIÓN",
       "date": "2026-09-15T10:31:39+00:00"
-    },
-    {
-      "id": "aa69b7dc",
-      "image": "img/aa69b7dc.png",
-      "image_sha": "17e787a389e58460e164130a45b6940ed53c9686",
-      "url": "https://www.radiodos.com.ar/213874-barrio-montana-tras-intensas-negociaciones-con-el-fiscal-los-ocupantes-comenzaron-a-retirar-la-usurpacion",
-      "title": "Barrio Montaña: Tras intensas negociaciones con el fiscal, los ocupantes comenzaron a retirar la usurpación",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-14T23:37:56+00:00"
     }
   ]
 }
