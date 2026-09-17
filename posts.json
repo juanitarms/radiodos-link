@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T21:41:53+00:00",
+  "updated": "2026-09-17T21:43:19+00:00",
   "posts": [
+    {
+      "id": "02ae1bf9",
+      "image": "img/02ae1bf9.png",
+      "image_sha": "24e0d3fa9b93fdad82ed62961de955181a99df53",
+      "url": "https://www.radiodos.com.ar/214062-conoce-los-puntos-horarios-y-barrios-para-la-venta-de-gas-a-precio-subsidiado",
+      "title": "Conocé los puntos, horarios y barrios para la venta de gas a precio subsidiado",
+      "volanta": "GARRAFA SOCIAL",
+      "date": "2026-09-17T21:43:19+00:00"
+    },
     {
       "id": "cbca7c80",
       "image": "img/cbca7c80.png",
@@ -531,15 +540,6 @@
       "title": "Gustavo Valdés sobre las internas de la UCR: \"Nosotros siempre convocamos a elecciones\"",
       "volanta": "DEFINICIÓN",
       "date": "2026-09-15T17:34:13+00:00"
-    },
-    {
-      "id": "de3ffe86",
-      "image": "img/de3ffe86.png",
-      "image_sha": "4cce72f6577c1bdfe8bd1f9848fc97786eb0fbd1",
-      "url": "https://www.radiodos.com.ar/213914-capacitacion-en-manejo-y-aplicacion-de-fitosanitarios",
-      "title": "Capacitación en manejo y aplicación de fitosanitarios",
-      "volanta": "MEJORAS",
-      "date": "2026-09-15T17:31:48+00:00"
     }
   ]
 }
