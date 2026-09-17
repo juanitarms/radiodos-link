@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T22:50:33+00:00",
+  "updated": "2026-09-17T22:51:07+00:00",
   "posts": [
+    {
+      "id": "5f2e8caa",
+      "image": "img/5f2e8caa.png",
+      "image_sha": "4087a55bff3c2f6a2d8f15263c1d2f168e1bca4c",
+      "url": "https://www.radiodos.com.ar/214066-tres-personas-muertas-tras-siniestro-vial-en-el-interior-de-corrientes",
+      "title": "Tres personas muertas tras siniestro vial en el interior de Corrientes",
+      "volanta": "VILLA OLIVARI",
+      "date": "2026-09-17T22:51:07+00:00"
+    },
     {
       "id": "bb78e186",
       "image": "img/bb78e186.png",
@@ -531,15 +540,6 @@
       "title": "Desalojaron terrenos usurpados en un barrio de Corrientes y se instaló una custodia policial",
       "volanta": "BARRIO DR MONTAÑA",
       "date": "2026-09-15T21:13:36+00:00"
-    },
-    {
-      "id": "bc57c279",
-      "image": "img/bc57c279.png",
-      "image_sha": "c6dd34946f4dcc7028773aebdf1f1c436ba56954",
-      "url": "https://www.radiodos.com.ar/213932-el-gobierno-presento-el-presupuesto-2027-inflacion-del-211-y-crecimiento-del-pbi-del-4",
-      "title": "El Gobierno presentó el Presupuesto 2027: inflación del 21,1% y crecimiento del PBI del 4%",
-      "volanta": "LEY DE LEYES",
-      "date": "2026-09-15T21:12:53+00:00"
     }
   ]
 }
