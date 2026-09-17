@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T17:26:31+00:00",
+  "updated": "2026-09-17T17:27:07+00:00",
   "posts": [
+    {
+      "id": "84f888a6",
+      "image": "img/84f888a6.png",
+      "image_sha": "5a1db61f33fafbaad547551cc7e4e4bb664453a7",
+      "url": "https://www.radiodos.com.ar/214047-en-la-unidad-se-disputa-la-semifinal-de-la-copa-robotica-educabot-2026",
+      "title": "En La Unidad se disputa la semifinal de la Copa Robótica Educabot 2026",
+      "volanta": "CREATIVIDAD Y TRABAJO EN EQUIPO",
+      "date": "2026-09-17T17:27:07+00:00"
+    },
     {
       "id": "f1873d4d",
       "image": "img/f1873d4d.png",
@@ -531,15 +540,6 @@
       "title": "Abel Pintos habló sobre la interna familiar de Tini Stoessel y dejó una contundente reflexión",
       "volanta": "SINCERO",
       "date": "2026-09-15T15:11:17+00:00"
-    },
-    {
-      "id": "aa6baa04",
-      "image": "img/aa6baa04.png",
-      "image_sha": "bca0fdb3b05a454d311de9e7af851fd533ea8036",
-      "url": "https://www.radiodos.com.ar/213911-gran-hermano-generacion-dorada-tuvo-su-ultima-eliminacion-quienes-son-las-dos-finalistas",
-      "title": "Gran Hermano Generación Dorada tuvo su última eliminación: quiénes son las dos finalistas",
-      "volanta": "YA LLEGA",
-      "date": "2026-09-15T14:47:34+00:00"
     }
   ]
 }
