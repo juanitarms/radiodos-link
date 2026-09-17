@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T14:01:30+00:00",
+  "updated": "2026-09-17T14:20:47+00:00",
   "posts": [
+    {
+      "id": "9f3d8675",
+      "image": "img/9f3d8675.png",
+      "image_sha": "da873c53388010e7054b40bd7943224f26931d72",
+      "url": "https://www.radiodos.com.ar/214037-usaba-el-celular-y-no-escucho-las-advertencias-cayo-con-auto-y-todo-al-rio-uruguay",
+      "title": "Usaba el celular y no escuchó las advertencias: cayó con auto y todo al río Uruguay",
+      "volanta": "MISIONES",
+      "date": "2026-09-17T14:20:47+00:00"
+    },
     {
       "id": "59d808a1",
       "image": "img/59d808a1.png",
@@ -531,15 +540,6 @@
       "title": "Lucha por el financiamiento universitario: clase pública en la Facultad de Medicina",
       "volanta": "UNNE",
       "date": "2026-09-15T12:54:19+00:00"
-    },
-    {
-      "id": "141fbdc2",
-      "image": "img/141fbdc2.png",
-      "image_sha": "128574c6326a54caba902ffd69a97252828c5bdb",
-      "url": "https://www.radiodos.com.ar/213885-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE MARTES",
-      "date": "2026-09-15T12:28:14+00:00"
     }
   ]
 }
