@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T13:38:35+00:00",
+  "updated": "2026-09-17T14:01:30+00:00",
   "posts": [
+    {
+      "id": "59d808a1",
+      "image": "img/59d808a1.png",
+      "image_sha": "cf2ff25dd77ea05c7cb327fbf2e09e9a44810d17",
+      "url": "https://www.radiodos.com.ar/214032-aseguran-que-facundo-moyano-puede-ser-detenido-nuevamente-la-justicia-investiga-si-vio-a-candela-arizaga",
+      "title": "Aseguran que Facundo Moyano puede ser detenido nuevamente: la Justicia investiga si vio a Candela Arizaga",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-09-17T14:01:30+00:00"
+    },
     {
       "id": "d5e47599",
       "image": "img/d5e47599.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE MARTES",
       "date": "2026-09-15T12:28:14+00:00"
-    },
-    {
-      "id": "7ae1e93c",
-      "image": "img/7ae1e93c.png",
-      "image_sha": "d8f25fb0ef7a448884fb6b7ea3a2430a56941339",
-      "url": "https://www.radiodos.com.ar/213883-san-cosme-se-prepara-para-la-12-pesca-de-la-palometa-con-degustacion-y-1-fiesta-provincial",
-      "title": "San Cosme se prepara para la  12ª Pesca de la Palometa con Degustación y 1ª Fiesta Provincial",
-      "volanta": "10 Y 11 DE OCTUBRE",
-      "date": "2026-09-15T12:08:29+00:00"
     }
   ]
 }
