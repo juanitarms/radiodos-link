@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T21:39:14+00:00",
+  "updated": "2026-09-17T21:41:53+00:00",
   "posts": [
+    {
+      "id": "cbca7c80",
+      "image": "img/cbca7c80.png",
+      "image_sha": "6800608472d673af8a533acdc02be157d454b675",
+      "url": "https://www.radiodos.com.ar/214061-los-gremios-universitarios-confirmaron-una-nueva-marcha-federal-para-el-15-de-octubre",
+      "title": "Los gremios universitarios confirmaron una nueva marcha federal para el 15 de octubre",
+      "volanta": "RECLAMO",
+      "date": "2026-09-17T21:41:53+00:00"
+    },
     {
       "id": "0efcadcf",
       "image": "img/0efcadcf.png",
@@ -531,15 +540,6 @@
       "title": "Capacitación en manejo y aplicación de fitosanitarios",
       "volanta": "MEJORAS",
       "date": "2026-09-15T17:31:48+00:00"
-    },
-    {
-      "id": "284672d1",
-      "image": "img/284672d1.png",
-      "image_sha": "055316111779b65d62e6a1571c558761f5a64491",
-      "url": "https://www.radiodos.com.ar/213915-el-basquet-de-la-provincia-crece-a-pasos-agigantados-en-jugadores-y-partidos",
-      "title": "El básquet de la provincia crece a pasos agigantados en jugadores y partidos",
-      "volanta": "GRAN LOGRO",
-      "date": "2026-09-15T17:31:16+00:00"
     }
   ]
 }
