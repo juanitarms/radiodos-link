@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T21:34:05+00:00",
+  "updated": "2026-09-17T21:39:14+00:00",
   "posts": [
+    {
+      "id": "0efcadcf",
+      "image": "img/0efcadcf.png",
+      "image_sha": "7e8d5501394785215509e5beefe3eda3e9cdb617",
+      "url": "https://www.radiodos.com.ar/214058-juicio-por-loan-declaro-el-jefe-de-bomberos-que-coordino-las-primeras-acciones-y-dijo-que-en-ese-lugar-es-imposible-que-ocurra-un-accidente",
+      "title": "Juicio por Loan: declaró el Jefe de Bomberos que coordinó las primeras acciones y dijo que \"en ese lugar es imposible que ocurra un accidente\"",
+      "volanta": "POR JUSTICIA",
+      "date": "2026-09-17T21:39:14+00:00"
+    },
     {
       "id": "febdda2d",
       "image": "img/febdda2d.png",
@@ -531,15 +540,6 @@
       "title": "El básquet de la provincia crece a pasos agigantados en jugadores y partidos",
       "volanta": "GRAN LOGRO",
       "date": "2026-09-15T17:31:16+00:00"
-    },
-    {
-      "id": "6ee4097f",
-      "image": "img/6ee4097f.png",
-      "image_sha": "50159e5f2120adb3f93d38a67a9fd428a3947377",
-      "url": "https://www.radiodos.com.ar/213916-prevencion-del-suicidio-distintas-generaciones-reflexionaron-sobre-la-tematica",
-      "title": "Prevención del suicidio: distintas generaciones reflexionaron sobre la temática",
-      "volanta": "Septiembre Amarillo",
-      "date": "2026-09-15T16:07:29+00:00"
     }
   ]
 }
