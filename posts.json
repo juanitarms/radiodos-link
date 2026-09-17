@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T20:52:48+00:00",
+  "updated": "2026-09-17T21:34:05+00:00",
   "posts": [
+    {
+      "id": "febdda2d",
+      "image": "img/febdda2d.png",
+      "image_sha": "50ef1b7e00ca389cd778d40dd16d8414635d263a",
+      "url": "https://www.radiodos.com.ar/214059-el-desempleo-subio-a-79-en-el-segundo-trimestre-de-2026-su-nivel-mas-alto-desde-2021",
+      "title": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
+      "volanta": "CRISIS",
+      "date": "2026-09-17T21:34:05+00:00"
+    },
     {
       "id": "16e39d62",
       "image": "img/16e39d62.png",
@@ -531,15 +540,6 @@
       "title": "Prevención del suicidio: distintas generaciones reflexionaron sobre la temática",
       "volanta": "Septiembre Amarillo",
       "date": "2026-09-15T16:07:29+00:00"
-    },
-    {
-      "id": "35e78afa",
-      "image": "img/35e78afa.png",
-      "image_sha": "c9edb55240e66af9089d07d6d295ac8411ca4644",
-      "url": "https://www.radiodos.com.ar/213917-el-renatre-inauguro-una-plaza-de-juegos-en-una-escuela-rural-del-impenetrable-chaqueno",
-      "title": "El RENATRE inauguró una plaza de juegos en una escuela rural del Impenetrable chaqueño",
-      "volanta": "Reconocimiento a la docente Gloria Cisneros",
-      "date": "2026-09-15T16:06:58+00:00"
     }
   ]
 }
