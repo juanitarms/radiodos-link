@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T17:25:23+00:00",
+  "updated": "2026-09-17T17:25:56+00:00",
   "posts": [
+    {
+      "id": "723a3cac",
+      "image": "img/723a3cac.png",
+      "image_sha": "3f42dd3254b2f751e858365e8189bfc28b03851c",
+      "url": "https://www.radiodos.com.ar/214042-final-de-gran-hermano-generacion-dorada-sol-es-la-ganadora",
+      "title": "Final de Gran Hermano Generación Dorada: Sol es la ganadora",
+      "volanta": "RÉCORD DE VOTOS",
+      "date": "2026-09-17T17:25:56+00:00"
+    },
     {
       "id": "25bccefa",
       "image": "img/25bccefa.png",
@@ -531,15 +540,6 @@
       "title": "El nuevo revés judicial que enfrenta L-Gante tras su desvinculación de MasterChef Celebrity",
       "volanta": "¿TODO MAL?",
       "date": "2026-09-15T14:27:20+00:00"
-    },
-    {
-      "id": "52a9274a",
-      "image": "img/52a9274a.png",
-      "image_sha": "7805e8d93a41c8cf2f892e73d78beca8e29a1f66",
-      "url": "https://www.radiodos.com.ar/213898-operativo-nocturno-en-el-rio-parana-para-proteger-un-cardumen-de-peces",
-      "title": "Operativo nocturno en el río Paraná para proteger un cardumen de peces",
-      "volanta": "RECURSOS NATURALES",
-      "date": "2026-09-15T13:43:33+00:00"
     }
   ]
 }
