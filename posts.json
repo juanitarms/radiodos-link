@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T18:57:08+00:00",
+  "updated": "2026-09-17T20:52:48+00:00",
   "posts": [
+    {
+      "id": "16e39d62",
+      "image": "img/16e39d62.png",
+      "image_sha": "a52f67292f421606a29a1e87b1a2b4787bb668f9",
+      "url": "https://www.radiodos.com.ar/214060-secuestran-caballos-sueltos-multan-a-su-propietario-con-mas-de-200000",
+      "title": "Secuestran caballos sueltos multan a su propietario con más de $200.000",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-17T20:52:48+00:00"
+    },
     {
       "id": "dc5b4e72",
       "image": "img/dc5b4e72.png",
@@ -531,15 +540,6 @@
       "title": "El RENATRE inauguró una plaza de juegos en una escuela rural del Impenetrable chaqueño",
       "volanta": "Reconocimiento a la docente Gloria Cisneros",
       "date": "2026-09-15T16:06:58+00:00"
-    },
-    {
-      "id": "3e51746a",
-      "image": "img/3e51746a.png",
-      "image_sha": "8043391b27f30e281ddfc9063f56190047d8f81d",
-      "url": "https://www.radiodos.com.ar/213918-mas-de-120-operarios-se-capacitaron-en-prevencion-y-combate-de-incendios-en-virasoro",
-      "title": "Más de 120 operarios se capacitaron en prevención y combate de incendios en Virasoro",
-      "volanta": "CONTROL DE FUEGO EN ÁREAS RURALES Y FORESTALES",
-      "date": "2026-09-15T16:06:26+00:00"
     }
   ]
 }
