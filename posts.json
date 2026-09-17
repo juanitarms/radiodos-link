@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T21:43:19+00:00",
+  "updated": "2026-09-17T22:49:52+00:00",
   "posts": [
+    {
+      "id": "38c0579c",
+      "image": "img/38c0579c.png",
+      "image_sha": "7550a512a27aabe72971801979d0614fbe9b3c79",
+      "url": "https://www.radiodos.com.ar/214064-salud-publica-de-corrientes-recuerda-que-esta-disponible-la-vacuna-contra-el-dengue",
+      "title": "Salud Pública de Corrientes recuerda que está disponible la vacuna contra el Dengue",
+      "volanta": "PREVENCIÓN",
+      "date": "2026-09-17T22:49:52+00:00"
+    },
     {
       "id": "02ae1bf9",
       "image": "img/02ae1bf9.png",
@@ -531,15 +540,6 @@
       "title": "Se extendió hasta el 20 de septiembre el concurso fotográfico \"La ciudad que queremos florecer\"",
       "volanta": "PARTICIPACIÓN CIUDADANA",
       "date": "2026-09-15T17:34:47+00:00"
-    },
-    {
-      "id": "77b3964a",
-      "image": "img/77b3964a.png",
-      "image_sha": "b38459ce301d1e630ef54fa684b86446a171a0e6",
-      "url": "https://www.radiodos.com.ar/213920-gustavo-valdes-sobre-las-internas-de-la-ucr-nosotros-siempre-convocamos-a-elecciones",
-      "title": "Gustavo Valdés sobre las internas de la UCR: \"Nosotros siempre convocamos a elecciones\"",
-      "volanta": "DEFINICIÓN",
-      "date": "2026-09-15T17:34:13+00:00"
     }
   ]
 }
