@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T12:42:24+00:00",
+  "updated": "2026-09-17T13:01:41+00:00",
   "posts": [
+    {
+      "id": "66955a89",
+      "image": "img/66955a89.png",
+      "image_sha": "1cfc31ce59d7812a7ba6442a5680e2d192af8710",
+      "url": "https://www.radiodos.com.ar/214019-edicion-bienvenida-primavera-corrientes-anime-prepara-una-gran-jornada-de-cultura-geek-cosplay-y-entretenimiento",
+      "title": "Edición \"Bienvenida Primavera\": Corrientes Animé prepara una gran jornada de cultura geek, cosplay y entretenimiento",
+      "volanta": "ESTE FINDE",
+      "date": "2026-09-17T13:01:41+00:00"
+    },
     {
       "id": "ee37269c",
       "image": "img/ee37269c.png",
@@ -531,15 +540,6 @@
       "title": "Presos del penal de  Paso de los Libres usaban sus celulares para cometer estafas",
       "volanta": "CON IA",
       "date": "2026-09-15T10:48:40+00:00"
-    },
-    {
-      "id": "acad73e9",
-      "image": "img/acad73e9.png",
-      "image_sha": "6d07adf0e6da2712e2283bebc2d6f45f2d6a83b1",
-      "url": "https://www.radiodos.com.ar/213877-tension-en-usurpacion-de-viviendas-en-corrientes-hubo-policias-heridos-y-recien-hoy-se-daria-el-desalojo",
-      "title": "Tensión en usurpación de viviendas en Corrientes: hubo policías heridos y recién hoy se daría el desalojo",
-      "volanta": "MOMENTOS DE TENSIÓN",
-      "date": "2026-09-15T10:31:39+00:00"
     }
   ]
 }
