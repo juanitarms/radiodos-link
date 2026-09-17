@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T10:27:49+00:00",
+  "updated": "2026-09-17T10:48:56+00:00",
   "posts": [
+    {
+      "id": "0c10cd1d",
+      "image": "img/0c10cd1d.png",
+      "image_sha": "36a6ab683c7fa8f4959669c77eae66bd772f2017",
+      "url": "https://www.radiodos.com.ar/214011-juicio-por-la-desaparicion-de-loan-hoy-declaran-cinco-testigos",
+      "title": "Juicio por la desaparición de Loan: hoy declaran cinco testigos",
+      "volanta": "A PARTIR DE LAS 9",
+      "date": "2026-09-17T10:48:56+00:00"
+    },
     {
       "id": "b0f392ce",
       "image": "img/b0f392ce.png",
@@ -531,15 +540,6 @@
       "title": "Choque entre un carro y una moto derivó en la detención de un sujeto buscado por la Justicia",
       "volanta": "Sobre avenida Eva Perón",
       "date": "2026-09-14T23:36:34+00:00"
-    },
-    {
-      "id": "00f7af36",
-      "image": "img/00f7af36.png",
-      "image_sha": "420019724a50426c18e50c4da465cca70b8add6d",
-      "url": "https://www.radiodos.com.ar/213871-visita-del-papa-leon-xiv-como-anotarse-para-ser-voluntario",
-      "title": "Visita del Papa León XIV: cómo anotarse para ser voluntario",
-      "volanta": "Crece la expectativa",
-      "date": "2026-09-14T23:11:43+00:00"
     }
   ]
 }
