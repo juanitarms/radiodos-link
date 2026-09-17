@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T11:19:48+00:00",
+  "updated": "2026-09-17T12:04:27+00:00",
   "posts": [
+    {
+      "id": "589b9ff8",
+      "image": "img/589b9ff8.png",
+      "image_sha": "c260f8bf67c791d005f23b67feada03d73c13da4",
+      "url": "https://www.radiodos.com.ar/214016-cayo-otro-kiosco-narco-en-localidad-del-interior-de-corrientes",
+      "title": "Cayó otro \"kiosco-narco\" en localidad del interior de Corrientes",
+      "volanta": "UN DETENIDO",
+      "date": "2026-09-17T12:04:27+00:00"
+    },
     {
       "id": "6a03dd1a",
       "image": "img/6a03dd1a.png",
@@ -531,15 +540,6 @@
       "title": "Barrio Montaña: Tras intensas negociaciones con el fiscal, los ocupantes comenzaron a retirar la usurpación",
       "volanta": "CORRIENTES",
       "date": "2026-09-14T23:37:56+00:00"
-    },
-    {
-      "id": "35da1132",
-      "image": "img/35da1132.png",
-      "image_sha": "7de2cb56297b90f89e8ce8bb773fecb05ed1d30d",
-      "url": "https://www.radiodos.com.ar/213875-como-funcionaria-es-un-orgullo-y-una-responsabilidad-porque-estamos-siendo-parte-de-la-historia",
-      "title": "\"Como funcionaria, es un orgullo y una responsabilidad porque estamos siendo parte de la historia\"",
-      "volanta": "Julieta Canoniero",
-      "date": "2026-09-14T23:37:21+00:00"
     }
   ]
 }
