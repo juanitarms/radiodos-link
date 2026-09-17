@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T22:51:07+00:00",
+  "updated": "2026-09-17T22:51:35+00:00",
   "posts": [
+    {
+      "id": "051820c2",
+      "image": "img/051820c2.png",
+      "image_sha": "0bc84e44b11ed5c2d2cd8a5aedd518fe28899076",
+      "url": "https://www.radiodos.com.ar/214057-corrientes-dos-equipos-clasificaron-a-la-final-nacional-de-la-copa-robotica-educabot-y-van-por-un-lugar-en-el-desafio-internacional",
+      "title": "Corrientes: dos equipos clasificaron a la final nacional de la Copa Robótica Educabot y van por un lugar en el desafío internacional",
+      "volanta": "EN EL CENTRO TECNOLÓGICO",
+      "date": "2026-09-17T22:51:35+00:00"
+    },
     {
       "id": "5f2e8caa",
       "image": "img/5f2e8caa.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Messi tendrá su partido de despedida con la selección argentina en el Monumental",
       "volanta": "EL 6 DE OCTUBRE",
       "date": "2026-09-15T21:14:11+00:00"
-    },
-    {
-      "id": "ef81454c",
-      "image": "img/ef81454c.png",
-      "image_sha": "0afca0dcd283c81818f30d4ca0e6e4ed0bd6eb00",
-      "url": "https://www.radiodos.com.ar/213931-desalojaron-terrenos-usurpados-en-un-barrio-de-corrientes-y-se-instalo-una-custodia-policial",
-      "title": "Desalojaron terrenos usurpados en un barrio de Corrientes y se instaló una custodia policial",
-      "volanta": "BARRIO DR MONTAÑA",
-      "date": "2026-09-15T21:13:36+00:00"
     }
   ]
 }
