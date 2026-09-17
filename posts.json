@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T13:21:40+00:00",
+  "updated": "2026-09-17T13:38:35+00:00",
   "posts": [
+    {
+      "id": "d5e47599",
+      "image": "img/d5e47599.png",
+      "image_sha": "392851bfc9581d96a4fb69371753e648c9813c71",
+      "url": "https://www.radiodos.com.ar/214030-alertan-por-llamados-enganosos-a-jubilados-a-nombre-de-anses-que-hay-que-tener-en-cuenta",
+      "title": "Alertan por llamados engañosos a jubilados a nombre de ANSES: qué hay que tener en cuenta",
+      "volanta": "ATENCIÓN",
+      "date": "2026-09-17T13:38:35+00:00"
+    },
     {
       "id": "9c9c5a95",
       "image": "img/9c9c5a95.png",
@@ -531,15 +540,6 @@
       "title": "San Cosme se prepara para la  12ª Pesca de la Palometa con Degustación y 1ª Fiesta Provincial",
       "volanta": "10 Y 11 DE OCTUBRE",
       "date": "2026-09-15T12:08:29+00:00"
-    },
-    {
-      "id": "ce904aed",
-      "image": "img/ce904aed.png",
-      "image_sha": "98c40f627e7c2583a51b04cafcb4a9bc5522dbbc",
-      "url": "https://www.radiodos.com.ar/213879-plus-de-refuerzo-comenzo-el-pago-a-empleados-publicos-provinciales",
-      "title": "Plus de Refuerzo: comenzó el pago a empleados públicos provinciales",
-      "volanta": "HASTA EL 21",
-      "date": "2026-09-15T11:10:00+00:00"
     }
   ]
 }
