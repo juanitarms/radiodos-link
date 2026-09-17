@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T17:27:07+00:00",
+  "updated": "2026-09-17T18:57:08+00:00",
   "posts": [
+    {
+      "id": "dc5b4e72",
+      "image": "img/dc5b4e72.png",
+      "image_sha": "94e73c356646b65f3147a8890299877c8e1c0f29",
+      "url": "https://www.radiodos.com.ar/214050-corrientes-fue-sede-del-primer-encuentro-litoral-cancilleria-sobre-oportunidades-comerciales",
+      "title": "Corrientes fue sede del Primer Encuentro Litoral - Cancillería sobre oportunidades comerciales",
+      "volanta": "INTEGRACIÓN REGIONAL",
+      "date": "2026-09-17T18:57:08+00:00"
+    },
     {
       "id": "84f888a6",
       "image": "img/84f888a6.png",
@@ -531,15 +540,6 @@
       "title": "Más de 120 operarios se capacitaron en prevención y combate de incendios en Virasoro",
       "volanta": "CONTROL DE FUEGO EN ÁREAS RURALES Y FORESTALES",
       "date": "2026-09-15T16:06:26+00:00"
-    },
-    {
-      "id": "ee2ff9ab",
-      "image": "img/ee2ff9ab.png",
-      "image_sha": "4713b57a46fd8ef69b9646790d73c3d8417f4fb0",
-      "url": "https://www.radiodos.com.ar/213912-abel-pintos-hablo-sobre-la-interna-familiar-de-tini-stoessel-y-dejo-una-contundente-reflexion",
-      "title": "Abel Pintos habló sobre la interna familiar de Tini Stoessel y dejó una contundente reflexión",
-      "volanta": "SINCERO",
-      "date": "2026-09-15T15:11:17+00:00"
     }
   ]
 }
