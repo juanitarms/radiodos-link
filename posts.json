@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T22:53:25+00:00",
+  "updated": "2026-09-17T22:53:52+00:00",
   "posts": [
+    {
+      "id": "53388350",
+      "image": "img/53388350.png",
+      "image_sha": "198377abdd95b257c21f3ada598c021b0ac8eacd",
+      "url": "https://www.radiodos.com.ar/214065-secuestraron-droga-valuada-en-mas-de-410-millones-a-orillas-del-rio-parana",
+      "title": "Secuestraron droga valuada en más de $410 millones a orillas del río Paraná",
+      "volanta": "GRAN OPERATIVO",
+      "date": "2026-09-17T22:53:52+00:00"
+    },
     {
       "id": "a26c4734",
       "image": "img/a26c4734.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes llevó música y cultura a los CDI en la Semana del Chamamé",
       "volanta": "“Mitaí chamamecero”",
       "date": "2026-09-15T21:15:21+00:00"
-    },
-    {
-      "id": "a151d84f",
-      "image": "img/a151d84f.png",
-      "image_sha": "977ff74e271079314b7f9fe5eaedfb8e06f7fbdc",
-      "url": "https://www.radiodos.com.ar/213936-cuatro-de-las-principales-economias-regionales-de-corrientes-se-hunden-en-rojo",
-      "title": "Cuatro de las principales economías regionales de Corrientes se hunden en rojo",
-      "volanta": "Semáforo de Coninagro",
-      "date": "2026-09-15T21:14:47+00:00"
     }
   ]
 }
