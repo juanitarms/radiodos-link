@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T15:22:58+00:00",
+  "updated": "2026-09-17T17:25:23+00:00",
   "posts": [
+    {
+      "id": "25bccefa",
+      "image": "img/25bccefa.png",
+      "image_sha": "20b5e72adb919f77c2f04c2ee95bbfb6100fd665",
+      "url": "https://www.radiodos.com.ar/214045-el-gobierno-envio-al-congreso-el-proyecto-de-ley-de-defensa-de-la-soberania-nacional-los-puntos-clave",
+      "title": "El Gobierno envió al Congreso el proyecto de ley de \"Defensa de la Soberanía Nacional\": los puntos clave",
+      "volanta": "DEBATE",
+      "date": "2026-09-17T17:25:23+00:00"
+    },
     {
       "id": "88aebd3b",
       "image": "img/88aebd3b.png",
@@ -531,15 +540,6 @@
       "title": "Operativo nocturno en el río Paraná para proteger un cardumen de peces",
       "volanta": "RECURSOS NATURALES",
       "date": "2026-09-15T13:43:33+00:00"
-    },
-    {
-      "id": "53c3fbbc",
-      "image": "img/53c3fbbc.png",
-      "image_sha": "d7c343e26d037d132efb9d61a25626b551e15200",
-      "url": "https://www.radiodos.com.ar/213904-un-premio-de-24-millones-y-una-confusion-que-paso-con-el-quini-6-en-bariloche",
-      "title": "Un premio de $24 millones y una confusión: qué pasó con el Quini 6 en Bariloche",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-09-15T13:27:27+00:00"
     }
   ]
 }
