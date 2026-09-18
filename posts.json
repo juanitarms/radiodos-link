@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T11:28:18+00:00",
+  "updated": "2026-09-18T11:52:38+00:00",
   "posts": [
+    {
+      "id": "03a94ac2",
+      "image": "img/03a94ac2.png",
+      "image_sha": "121966f83de38f6475871d9bcc322ec36e9e414e",
+      "url": "https://www.radiodos.com.ar/214077-la-municipalidad-de-corrientes-informo-sobre-algunos-cortes-de-transito",
+      "title": "La Municipalidad de Corrientes informó sobre algunos cortes de tránsito",
+      "volanta": "DE INTERÉS",
+      "date": "2026-09-18T11:52:38+00:00"
+    },
     {
       "id": "c2864626",
       "image": "img/c2864626.png",
@@ -531,15 +540,6 @@
       "title": "Atrapan a conocida mechera tras asaltar un comercio céntrico",
       "volanta": "CORRIENTES",
       "date": "2026-09-15T23:11:38+00:00"
-    },
-    {
-      "id": "99519c20",
-      "image": "img/99519c20.png",
-      "image_sha": "2bd59e638bc16f49fb3bcd7cfd42bd226ff6baff",
-      "url": "https://www.radiodos.com.ar/213933-fuimos-con-un-plantel-para-hacer-un-buen-papel-y-tuvimos-lindas-y-gratas-satisfacciones",
-      "title": "\"Fuimos con un plantel, para hacer un buen papel y tuvimos lindas y gratas satisfacciones\"",
-      "volanta": "Corrientes Campeón Nacional de Handball en Cadetes",
-      "date": "2026-09-15T21:37:49+00:00"
     }
   ]
 }
