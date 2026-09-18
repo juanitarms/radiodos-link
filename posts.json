@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T19:05:59+00:00",
+  "updated": "2026-09-18T20:42:02+00:00",
   "posts": [
+    {
+      "id": "399bb38a",
+      "image": "img/399bb38a.png",
+      "image_sha": "53b32cc11630b1f440e4ab7fe99eb4f566abbdbb",
+      "url": "https://www.radiodos.com.ar/214117-mirtha-legrand-fue-internada-nuevamente-en-el-sanatorio-mater-dei",
+      "title": "Mirtha Legrand fue internada nuevamente en el Sanatorio Mater Dei",
+      "volanta": "QUE LE PASO",
+      "date": "2026-09-18T20:42:02+00:00"
+    },
     {
       "id": "c6184cf9",
       "image": "img/c6184cf9.png",
@@ -531,15 +540,6 @@
       "title": "Valdés avanzó con Estados Unidos en nuevas oportunidades para la producción correntina",
       "volanta": "RELACIONES INTERNACIONALES",
       "date": "2026-09-16T16:40:07+00:00"
-    },
-    {
-      "id": "a267cd44",
-      "image": "img/a267cd44.png",
-      "image_sha": "dd78e9b005ff48bffb25926336532f38a2e47999",
-      "url": "https://www.radiodos.com.ar/213981-mas-de-120-estudiantes-buscan-representar-a-corrientes-en-la-copa-robotica-educabot-2026",
-      "title": "Más de 120 estudiantes buscan representar a Corrientes en la Copa Robótica Educabot 2026",
-      "volanta": "SEMIFINAL PROVINCIAL",
-      "date": "2026-09-16T16:39:28+00:00"
     }
   ]
 }
