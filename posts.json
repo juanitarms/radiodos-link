@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T17:22:59+00:00",
+  "updated": "2026-09-18T17:23:31+00:00",
   "posts": [
+    {
+      "id": "ed3b6a3e",
+      "image": "img/ed3b6a3e.png",
+      "image_sha": "924cbd3ec0b818bd388fed60e594bbc18e1d5b51",
+      "url": "https://www.radiodos.com.ar/214109-corrientes-avanza-con-el-censo-nacional-foresto-industrial",
+      "title": "Corrientes avanza con el Censo Nacional Foresto Industrial",
+      "volanta": "Relevamiento del sector productivo",
+      "date": "2026-09-18T17:23:31+00:00"
+    },
     {
       "id": "e9a3cb09",
       "image": "img/e9a3cb09.png",
@@ -531,15 +540,6 @@
       "title": "Prisión perpetua para el asesino de una adolescente en el interior de Corrientes",
       "volanta": "Justicia por Milagros Espinoza",
       "date": "2026-09-16T14:37:56+00:00"
-    },
-    {
-      "id": "a2ce30bc",
-      "image": "img/a2ce30bc.png",
-      "image_sha": "c2290e59a80e9f13c3c14b2f1acae2d9f8df41d2",
-      "url": "https://www.radiodos.com.ar/213963-causa-andis-ya-tiene-fecha-la-declaracion-testimonial-de-nadia-beller-desde-bolivia",
-      "title": "Causa ANDIS: ya tiene fecha la declaración testimonial de Nadia Beller desde Bolivia",
-      "volanta": "AVANZA LA INVESTIGACIÓN",
-      "date": "2026-09-16T14:16:40+00:00"
     }
   ]
 }
