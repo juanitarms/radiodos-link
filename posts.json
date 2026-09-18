@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T12:34:36+00:00",
+  "updated": "2026-09-18T12:54:10+00:00",
   "posts": [
+    {
+      "id": "8bc195ad",
+      "image": "img/8bc195ad.png",
+      "image_sha": "b8d63e13e64099ed48817b5b6f0165f70009de03",
+      "url": "https://www.radiodos.com.ar/214089-discapacidad-en-medio-de-la-nueva-avanzada-contra-el-nomenclador-subieron-un-17-las-prestaciones",
+      "title": "Discapacidad: en medio de la nueva avanzada contra el nomenclador, subieron un 1,7% las prestaciones",
+      "volanta": "CAMBIOS",
+      "date": "2026-09-18T12:54:10+00:00"
+    },
     {
       "id": "2fc025e3",
       "image": "img/2fc025e3.png",
@@ -531,15 +540,6 @@
       "title": "Miles de jóvenes se preparan para vivir la 47.ª Peregrinación Juvenil del NEA a Itatí",
       "volanta": "DEMOSTRACIÓN DE FE",
       "date": "2026-09-16T10:38:11+00:00"
-    },
-    {
-      "id": "fffbd5d3",
-      "image": "img/fffbd5d3.png",
-      "image_sha": "6d6864fd36e45cb16a4b123b6a38032053015101",
-      "url": "https://www.radiodos.com.ar/213939-reino-unido-respondio-a-la-postura-del-gobierno-por-malvinas-argentina-no-tiene-derecho-a-ejercer-jurisdiccion",
-      "title": "Reino Unido respondió a la postura del Gobierno por Malvinas: \"Argentina no tiene derecho a ejercer jurisdicción\"",
-      "volanta": "CONFLICTO",
-      "date": "2026-09-15T23:43:55+00:00"
     }
   ]
 }
