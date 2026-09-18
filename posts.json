@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T19:04:51+00:00",
+  "updated": "2026-09-18T19:05:27+00:00",
   "posts": [
+    {
+      "id": "dc2916ab",
+      "image": "img/dc2916ab.png",
+      "image_sha": "7befc33310b994074827a594a88e90e436077bca",
+      "url": "https://www.radiodos.com.ar/214111-cruz-roja-brinda-recomendaciones-para-una-peregrinacion-segura-a-itati",
+      "title": "Cruz Roja brinda recomendaciones para una peregrinación segura a Itatí",
+      "volanta": "Info útil",
+      "date": "2026-09-18T19:05:27+00:00"
+    },
     {
       "id": "fa5f3d06",
       "image": "img/fa5f3d06.png",
@@ -531,15 +540,6 @@
       "title": "Juicio Loan: El excomisario Maciel apuntó contra Laudelina y los fiscales Barri y Castillo",
       "volanta": "CORRIENTES",
       "date": "2026-09-16T15:16:03+00:00"
-    },
-    {
-      "id": "0ad61677",
-      "image": "img/0ad61677.png",
-      "image_sha": "ec28405d1a34151b5a3bea5ca83c074e715f33f0",
-      "url": "https://www.radiodos.com.ar/213978-el-gobernador-jp-valdes-viaja-a-buenos-aires-para-reunirse-con-santilli",
-      "title": "El gobernador JP Valdés viaja a Buenos Aires para reunirse con Santilli",
-      "volanta": "ESTA SEMANA",
-      "date": "2026-09-16T14:56:23+00:00"
     }
   ]
 }
