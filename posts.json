@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T15:04:55+00:00",
+  "updated": "2026-09-18T17:22:24+00:00",
   "posts": [
+    {
+      "id": "9750e26c",
+      "image": "img/9750e26c.png",
+      "image_sha": "0bda1cc66e537c0ccdf6c755ed05131be7df3260",
+      "url": "https://www.radiodos.com.ar/214112-demoraron-a-tres-empleados-de-un-supermercado-llevaban-mercaderia-en-sus-prendas",
+      "title": "Demoraron a tres empleados de un supermercado: Llevaban mercadería en sus prendas",
+      "volanta": "CURUZÚ CUATIÁ",
+      "date": "2026-09-18T17:22:24+00:00"
+    },
     {
       "id": "99aebd30",
       "image": "img/99aebd30.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: promueven un canal de WhatsApp para fomentar peleas y escraches entre alumnos de una escuela",
       "volanta": "GRAVÍSIMO",
       "date": "2026-09-16T13:44:38+00:00"
-    },
-    {
-      "id": "aec6ebbb",
-      "image": "img/aec6ebbb.png",
-      "image_sha": "189e8daf12f1df3d80e3ee47bfb910fd6eda6e84",
-      "url": "https://www.radiodos.com.ar/213959-capacitaron-a-mas-de-60-mediadores-de-toda-la-provincia-para-el-uso-de-un-asistente-virtual",
-      "title": "Capacitaron a más de 60 mediadores de toda la provincia para el uso de un asistente virtual",
-      "volanta": "PODER JUDICIAL",
-      "date": "2026-09-16T13:14:21+00:00"
     }
   ]
 }
