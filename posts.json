@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T20:42:02+00:00",
+  "updated": "2026-09-18T20:42:35+00:00",
   "posts": [
+    {
+      "id": "a45ddd91",
+      "image": "img/a45ddd91.png",
+      "image_sha": "be6251123c1d59f2d2cf19a973cc7b1b3dbea75c",
+      "url": "https://www.radiodos.com.ar/214116-el-gobernador-valdes-anuncio-nuevos-programas-de-vivienda-y-la-modernizacion-del-invico",
+      "title": "El gobernador Valdés anunció nuevos programas de vivienda y la modernización del INVICO",
+      "volanta": "CASA PROPIA",
+      "date": "2026-09-18T20:42:35+00:00"
+    },
     {
       "id": "399bb38a",
       "image": "img/399bb38a.png",
@@ -531,15 +540,6 @@
       "title": "La llamativa ausencia de Julieta Ortega en el casamiento de Emanuel Ortega y Julieta Prandi",
       "volanta": "MISTERIO",
       "date": "2026-09-16T16:40:40+00:00"
-    },
-    {
-      "id": "ef90df2d",
-      "image": "img/ef90df2d.png",
-      "image_sha": "9f05bd06283b9fece911502189638eabf0efc4c6",
-      "url": "https://www.radiodos.com.ar/213980-valdes-avanzo-con-estados-unidos-en-nuevas-oportunidades-para-la-produccion-correntina",
-      "title": "Valdés avanzó con Estados Unidos en nuevas oportunidades para la producción correntina",
-      "volanta": "RELACIONES INTERNACIONALES",
-      "date": "2026-09-16T16:40:07+00:00"
     }
   ]
 }
