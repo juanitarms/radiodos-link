@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T20:42:35+00:00",
+  "updated": "2026-09-18T21:32:14+00:00",
   "posts": [
+    {
+      "id": "4783e4b0",
+      "image": "img/4783e4b0.png",
+      "image_sha": "60908913270965f78a1faa81848a7683338f39c1",
+      "url": "https://www.radiodos.com.ar/214120-salud-publica-de-corrientes-realizara-cobertura-sanitaria-en-la-peregrinacion-juvenil-a-itati",
+      "title": "Salud Pública de Corrientes realizará cobertura sanitaria en la Peregrinación Juvenil a Itatí",
+      "volanta": "RECOMENDACIONES",
+      "date": "2026-09-18T21:32:14+00:00"
+    },
     {
       "id": "a45ddd91",
       "image": "img/a45ddd91.png",
@@ -531,15 +540,6 @@
       "title": "Marcela Tinayre reveló cómo se encuentra Mirtha Legrand tras el alta: \"Es indomable\"",
       "volanta": "BUENA NOTICIA",
       "date": "2026-09-16T17:08:01+00:00"
-    },
-    {
-      "id": "cfbbe01a",
-      "image": "img/cfbbe01a.png",
-      "image_sha": "4a63e3ccf44f5894262c23c0d3667d534d2f1a4f",
-      "url": "https://www.radiodos.com.ar/213984-la-llamativa-ausencia-de-julieta-ortega-en-el-casamiento-de-emanuel-ortega-y-julieta-prandi",
-      "title": "La llamativa ausencia de Julieta Ortega en el casamiento de Emanuel Ortega y Julieta Prandi",
-      "volanta": "MISTERIO",
-      "date": "2026-09-16T16:40:40+00:00"
     }
   ]
 }
