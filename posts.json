@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T21:32:14+00:00",
+  "updated": "2026-09-18T21:32:52+00:00",
   "posts": [
+    {
+      "id": "11494ea6",
+      "image": "img/11494ea6.png",
+      "image_sha": "4c59df0915b9ef3f5795c7aaa8a60add5966ff0c",
+      "url": "https://www.radiodos.com.ar/214121-lancha-con-turistas-fue-alcanzada-por-una-correntada-y-dio-vuelta-campana-en-el-rio-parana",
+      "title": "Lancha con turistas fue alcanzada por una correntada y dio \"vuelta campana\" en el río Paraná",
+      "volanta": "CERCA DE PASO DE LA PATRIA",
+      "date": "2026-09-18T21:32:52+00:00"
+    },
     {
       "id": "4783e4b0",
       "image": "img/4783e4b0.png",
@@ -531,15 +540,6 @@
       "title": "Wanda Nara tendrá su propio reality: cuándo se estrena y en qué plataforma",
       "volanta": "SE VIENE",
       "date": "2026-09-16T18:24:46+00:00"
-    },
-    {
-      "id": "687366fe",
-      "image": "img/687366fe.png",
-      "image_sha": "90d84f7706a87982a0393ec02dd0100351791490",
-      "url": "https://www.radiodos.com.ar/213986-marcela-tinayre-revelo-como-se-encuentra-mirtha-legrand-tras-el-alta-es-indomable",
-      "title": "Marcela Tinayre reveló cómo se encuentra Mirtha Legrand tras el alta: \"Es indomable\"",
-      "volanta": "BUENA NOTICIA",
-      "date": "2026-09-16T17:08:01+00:00"
     }
   ]
 }
