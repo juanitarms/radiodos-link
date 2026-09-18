@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T17:22:24+00:00",
+  "updated": "2026-09-18T17:22:59+00:00",
   "posts": [
+    {
+      "id": "e9a3cb09",
+      "image": "img/e9a3cb09.png",
+      "image_sha": "c619ac793a8f379fc5c3ccb6a443199b0d4df5b4",
+      "url": "https://www.radiodos.com.ar/214115-arranca-la-septima-fecha-de-la-liga-provincial-de-mayores-2026",
+      "title": "Arranca la séptima fecha de la Liga Provincial de Mayores 2026",
+      "volanta": "BÁSQUET",
+      "date": "2026-09-18T17:22:59+00:00"
+    },
     {
       "id": "9750e26c",
       "image": "img/9750e26c.png",
@@ -531,15 +540,6 @@
       "title": "Causa ANDIS: ya tiene fecha la declaración testimonial de Nadia Beller desde Bolivia",
       "volanta": "AVANZA LA INVESTIGACIÓN",
       "date": "2026-09-16T14:16:40+00:00"
-    },
-    {
-      "id": "4a1e706e",
-      "image": "img/4a1e706e.png",
-      "image_sha": "09103cf84c9b20fb6254cf50897e34e8a3403b4b",
-      "url": "https://www.radiodos.com.ar/213965-corrientes-promueven-un-canal-de-whatsapp-para-fomentar-peleas-y-escraches-entre-alumnos-de-una-escuela",
-      "title": "Corrientes: promueven un canal de WhatsApp para fomentar peleas y escraches entre alumnos de una escuela",
-      "volanta": "GRAVÍSIMO",
-      "date": "2026-09-16T13:44:38+00:00"
     }
   ]
 }
