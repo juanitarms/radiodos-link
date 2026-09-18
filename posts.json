@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-17T22:53:52+00:00",
+  "updated": "2026-09-18T10:47:44+00:00",
   "posts": [
+    {
+      "id": "a2806c54",
+      "image": "img/a2806c54.png",
+      "image_sha": "9bf678ad8ca872ee7c852219b2927b6324daa9cf",
+      "url": "https://www.radiodos.com.ar/214071-en-el-marco-de-los-suramericanos-jp-valdes-volvio-a-reunirse-con-sus-pares-en-rosario",
+      "title": "En el marco de los Suramericanos, JP Valdés volvió a reunirse con sus pares en Rosario",
+      "volanta": "REPERCUSIÓN NACIONAL",
+      "date": "2026-09-18T10:47:44+00:00"
+    },
     {
       "id": "53388350",
       "image": "img/53388350.png",
@@ -531,15 +540,6 @@
       "title": "Alertan por crecidas históricas del río Paraná y proyectan niveles superiores a los de 1983",
       "volanta": "EL NIÑO",
       "date": "2026-09-15T21:36:20+00:00"
-    },
-    {
-      "id": "0913a103",
-      "image": "img/0913a103.png",
-      "image_sha": "25c5772f41c39fa7be0cabf57336a41576e609f3",
-      "url": "https://www.radiodos.com.ar/213935-la-municipalidad-de-corrientes-llevo-musica-y-cultura-a-los-cdi-en-la-semana-del-chamame",
-      "title": "La Municipalidad de Corrientes llevó música y cultura a los CDI en la Semana del Chamamé",
-      "volanta": "“Mitaí chamamecero”",
-      "date": "2026-09-15T21:15:21+00:00"
     }
   ]
 }
