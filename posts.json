@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T11:52:38+00:00",
+  "updated": "2026-09-18T12:34:36+00:00",
   "posts": [
+    {
+      "id": "2fc025e3",
+      "image": "img/2fc025e3.png",
+      "image_sha": "346cde181b216953b97bcf2ab0578d89fcdcfd18",
+      "url": "https://www.radiodos.com.ar/214083-se-cumplen-29-anos-de-la-muerte-de-ruben-dario-casco",
+      "title": "Se cumplen 29 años de la muerte de Rubén Darío Casco",
+      "volanta": "HOMENAJE",
+      "date": "2026-09-18T12:34:36+00:00"
+    },
     {
       "id": "03a94ac2",
       "image": "img/03a94ac2.png",
@@ -531,15 +540,6 @@
       "title": "Reino Unido respondió a la postura del Gobierno por Malvinas: \"Argentina no tiene derecho a ejercer jurisdicción\"",
       "volanta": "CONFLICTO",
       "date": "2026-09-15T23:43:55+00:00"
-    },
-    {
-      "id": "ac803e81",
-      "image": "img/ac803e81.png",
-      "image_sha": "bfc22d784ec6c195cd81479858fba44bfbb9cb57",
-      "url": "https://www.radiodos.com.ar/213938-atrapan-a-conocida-mechera-tras-asaltar-un-comercio-centrico",
-      "title": "Atrapan a conocida mechera tras asaltar un comercio céntrico",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-15T23:11:38+00:00"
     }
   ]
 }
