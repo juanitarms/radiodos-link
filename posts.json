@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T17:23:31+00:00",
+  "updated": "2026-09-18T19:04:51+00:00",
   "posts": [
+    {
+      "id": "fa5f3d06",
+      "image": "img/fa5f3d06.png",
+      "image_sha": "6bf578eba5093cd335f11e02e1d6ad4d54d29429",
+      "url": "https://www.radiodos.com.ar/214110-unicef-coordino-acciones-con-el-ministerio-de-salud-publica-de-corrientes",
+      "title": "UNICEF coordinó acciones con el Ministerio de Salud Pública de Corrientes",
+      "volanta": "ARTICULACIÓN INSTITUCIONAL",
+      "date": "2026-09-18T19:04:51+00:00"
+    },
     {
       "id": "ed3b6a3e",
       "image": "img/ed3b6a3e.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés viaja a Buenos Aires para reunirse con Santilli",
       "volanta": "ESTA SEMANA",
       "date": "2026-09-16T14:56:23+00:00"
-    },
-    {
-      "id": "3008507a",
-      "image": "img/3008507a.png",
-      "image_sha": "00e9c05d0732926452908455840f2346b0f4e4bd",
-      "url": "https://www.radiodos.com.ar/213976-prision-perpetua-para-el-asesino-de-una-adolescente-en-el-interior-de-corrientes",
-      "title": "Prisión perpetua para el asesino de una adolescente en el interior de Corrientes",
-      "volanta": "Justicia por Milagros Espinoza",
-      "date": "2026-09-16T14:37:56+00:00"
     }
   ]
 }
