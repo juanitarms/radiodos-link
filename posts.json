@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T21:36:47+00:00",
+  "updated": "2026-09-18T21:37:20+00:00",
   "posts": [
+    {
+      "id": "555fb72e",
+      "image": "img/555fb72e.png",
+      "image_sha": "27a93515c6a0956f2bb22fc93ea3615f6b7e3a95",
+      "url": "https://www.radiodos.com.ar/214118-este-martes-22-de-septiembre-inicia-el-pago-del-plus-especial-en-la-municipalidad-de-corrientes",
+      "title": "Este martes 22 de septiembre inicia el pago del plus especial en la Municipalidad de Corrientes",
+      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
+      "date": "2026-09-18T21:37:20+00:00"
+    },
     {
       "id": "833c58a4",
       "image": "img/833c58a4.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes se prepara para recibir por primera vez al Parlamento del Norte Grande",
       "volanta": "en octubre",
       "date": "2026-09-16T20:52:05+00:00"
-    },
-    {
-      "id": "5c1d18f6",
-      "image": "img/5c1d18f6.png",
-      "image_sha": "989872a21d3e8c9de67a91590f3c4087af86a36f",
-      "url": "https://www.radiodos.com.ar/213987-con-la-visita-de-dario-sztajnszrajber-curuzu-se-prepara-para-su-15-feria-del-libro",
-      "title": "Con la visita de Darío Sztajnszrajber, Curuzú se prepara para su 15ª Feria del Libro",
-      "volanta": "VISITA ESTELAR",
-      "date": "2026-09-16T18:25:19+00:00"
     }
   ]
 }
