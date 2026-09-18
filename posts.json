@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T19:05:27+00:00",
+  "updated": "2026-09-18T19:05:59+00:00",
   "posts": [
+    {
+      "id": "c6184cf9",
+      "image": "img/c6184cf9.png",
+      "image_sha": "9f39b61fd8c0c6cbeeef64d56e752aaebdb81b95",
+      "url": "https://www.radiodos.com.ar/214106-victoria-villarruel-apelo-a-un-meme-de-diego-maradona-para-responderle-a-martin-menem",
+      "title": "Victoria Villarruel apeló a un meme de Diego Maradona para responderle a Martín Menem",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-09-18T19:05:59+00:00"
+    },
     {
       "id": "dc2916ab",
       "image": "img/dc2916ab.png",
@@ -531,15 +540,6 @@
       "title": "Más de 120 estudiantes buscan representar a Corrientes en la Copa Robótica Educabot 2026",
       "volanta": "SEMIFINAL PROVINCIAL",
       "date": "2026-09-16T16:39:28+00:00"
-    },
-    {
-      "id": "04085d70",
-      "image": "img/04085d70.png",
-      "image_sha": "128697245ba9ba92927ad2469e73a4bb263435fe",
-      "url": "https://www.radiodos.com.ar/213977-juicio-loan-el-excomisario-maciel-apunto-contra-laudelina-y-los-fiscales-barri-y-castillo",
-      "title": "Juicio Loan: El excomisario Maciel apuntó contra Laudelina y los fiscales Barri y Castillo",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-16T15:16:03+00:00"
     }
   ]
 }
