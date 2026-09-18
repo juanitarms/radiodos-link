@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T14:59:06+00:00",
+  "updated": "2026-09-18T15:04:55+00:00",
   "posts": [
+    {
+      "id": "99aebd30",
+      "image": "img/99aebd30.png",
+      "image_sha": "75d46656a8728a85c803438ead2326b49990f0f5",
+      "url": "https://www.radiodos.com.ar/214097-desde-el-lunes-el-invico-digitaliza-todos-sus-tramites",
+      "title": "Desde el lunes, el InViCo digitaliza todos sus trámites",
+      "volanta": "DE INTERES",
+      "date": "2026-09-18T15:04:55+00:00"
+    },
     {
       "id": "0eb83481",
       "image": "img/0eb83481.png",
@@ -531,15 +540,6 @@
       "title": "Capacitaron a más de 60 mediadores de toda la provincia para el uso de un asistente virtual",
       "volanta": "PODER JUDICIAL",
       "date": "2026-09-16T13:14:21+00:00"
-    },
-    {
-      "id": "33585834",
-      "image": "img/33585834.png",
-      "image_sha": "fc3b26d38b8d5e8a97eaf507194b6f6a805737f5",
-      "url": "https://www.radiodos.com.ar/213949-sigue-desaparecida-una-joven-del-interior-de-corrientes-y-ahora-aparecio-una-pista-de-obera",
-      "title": "Sigue desaparecida una joven del interior de Corrientes y ahora apareció una pista de Oberá",
-      "volanta": "INCERTIDUMBRE",
-      "date": "2026-09-16T12:31:33+00:00"
     }
   ]
 }
