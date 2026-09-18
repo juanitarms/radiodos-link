@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T21:37:20+00:00",
+  "updated": "2026-09-18T21:48:23+00:00",
   "posts": [
+    {
+      "id": "a8aa5607",
+      "image": "img/a8aa5607.png",
+      "image_sha": "eed58666f1e2dc339b6c6fb523d6f3e209029f8e",
+      "url": "https://www.radiodos.com.ar/214122-bananeros-se-movilizan-en-formosa-y-regalaran-5000-kilos-de-fruta-por-la-crisis-del-sector",
+      "title": "Bananeros se movilizan en Formosa y regalarán 5000 kilos de fruta por la crisis del sector",
+      "volanta": "ALERTA",
+      "date": "2026-09-18T21:48:23+00:00"
+    },
     {
       "id": "555fb72e",
       "image": "img/555fb72e.png",
@@ -531,15 +540,6 @@
       "title": "Desarticularon banda de cuatreros liderada por padre e hijo en el interior de Corrientes",
       "volanta": "SAN MIGUEL",
       "date": "2026-09-16T20:53:18+00:00"
-    },
-    {
-      "id": "fbc9ecf0",
-      "image": "img/fbc9ecf0.png",
-      "image_sha": "27254a9b4e699bda130ddc2a90409812a7311dc8",
-      "url": "https://www.radiodos.com.ar/213994-corrientes-se-prepara-para-recibir-por-primera-vez-al-parlamento-del-norte-grande",
-      "title": "Corrientes se prepara para recibir por primera vez al Parlamento del Norte Grande",
-      "volanta": "en octubre",
-      "date": "2026-09-16T20:52:05+00:00"
     }
   ]
 }
