@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-19T13:25:47+00:00",
+  "updated": "2026-09-19T15:08:38+00:00",
   "posts": [
+    {
+      "id": "813b4322",
+      "image": "img/813b4322.png",
+      "image_sha": "fea23599f7d688b79e3705feaec34b76211939e1",
+      "url": "https://www.radiodos.com.ar/214134-unos-400000-jovenes-renuevan-su-fe-peregrinando-a-los-pies-de-nuestra-madre-morena-de-itati",
+      "title": "Unos 400.000 jóvenes renuevan su fe peregrinando a los pies de Nuestra Madre Morena de Itatí",
+      "volanta": "DE TODA LA REGIÓN",
+      "date": "2026-09-19T15:08:38+00:00"
+    },
     {
       "id": "509171cb",
       "image": "img/509171cb.png",
@@ -531,15 +540,6 @@
       "title": "El Club Don Bosco lanzó una campaña para instalar piso de parqué en su cancha",
       "volanta": "Necesitan $30,6 millones",
       "date": "2026-09-16T20:54:59+00:00"
-    },
-    {
-      "id": "c1947f12",
-      "image": "img/c1947f12.png",
-      "image_sha": "9bde75a7b0af015659e4e3800d9cc980d9e773c1",
-      "url": "https://www.radiodos.com.ar/213991-diego-santilli-se-reunio-con-jp-valdes-y-otros-gobernadores-del-norte-y-les-pidio-apoyo-para-el-presupuesto-2027",
-      "title": "Diego Santilli se reunió con JP Valdés y otros gobernadores del norte y les pidió apoyo para el Presupuesto 2027",
-      "volanta": "AGENDA NACIONAL",
-      "date": "2026-09-16T20:54:29+00:00"
     }
   ]
 }
