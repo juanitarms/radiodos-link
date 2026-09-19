@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-19T13:23:55+00:00",
+  "updated": "2026-09-19T13:25:47+00:00",
   "posts": [
+    {
+      "id": "509171cb",
+      "image": "img/509171cb.png",
+      "image_sha": "1b6d946eea8aedff2c8ed8eff750e76ba3c17323",
+      "url": "https://www.radiodos.com.ar/214132-se-confirman-los-pronosticos-y-el-sabado-se-presenta-lluvioso-en-corrientes",
+      "title": "Se confirman los pronósticos, y el sábado se presenta lluvioso en Corrientes",
+      "volanta": "CLIMA",
+      "date": "2026-09-19T13:25:47+00:00"
+    },
     {
       "id": "66c6bfd5",
       "image": "img/66c6bfd5.png",
@@ -531,15 +540,6 @@
       "title": "Diego Santilli se reunió con JP Valdés y otros gobernadores del norte y les pidió apoyo para el Presupuesto 2027",
       "volanta": "AGENDA NACIONAL",
       "date": "2026-09-16T20:54:29+00:00"
-    },
-    {
-      "id": "706ce5a7",
-      "image": "img/706ce5a7.png",
-      "image_sha": "468be2285923f78a67653a38df19de672d1b5f0b",
-      "url": "https://www.radiodos.com.ar/213992-la-inflacion-mayorista-trepo-al-21-en-agosto",
-      "title": "La inflación mayorista trepó al 2,1% en agosto",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-09-16T20:53:58+00:00"
     }
   ]
 }
