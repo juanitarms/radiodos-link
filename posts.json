@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T21:48:23+00:00",
+  "updated": "2026-09-19T13:23:55+00:00",
   "posts": [
+    {
+      "id": "66c6bfd5",
+      "image": "img/66c6bfd5.png",
+      "image_sha": "f6aba7ba7421e731648727de923f908e9b13a286",
+      "url": "https://www.radiodos.com.ar/214125-pese-a-la-lluvia-miles-de-ciclistas-llegan-a-itati-en-la-47-peregrinacion-juvenil-del-nea",
+      "title": "Pese a la lluvia, miles de ciclistas llegan a Itatí en la 47.ª Peregrinación Juvenil del NEA",
+      "volanta": "Muestra de fe",
+      "date": "2026-09-19T13:23:55+00:00"
+    },
     {
       "id": "a8aa5607",
       "image": "img/a8aa5607.png",
@@ -531,15 +540,6 @@
       "title": "La inflación mayorista trepó al 2,1% en agosto",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-09-16T20:53:58+00:00"
-    },
-    {
-      "id": "0a54f600",
-      "image": "img/0a54f600.png",
-      "image_sha": "1802b4895416b15c4d227b671da4981ecf30c592",
-      "url": "https://www.radiodos.com.ar/213993-desarticularon-banda-de-cuatreros-liderada-por-padre-e-hijo-en-el-interior-de-corrientes",
-      "title": "Desarticularon banda de cuatreros liderada por padre e hijo en el interior de Corrientes",
-      "volanta": "SAN MIGUEL",
-      "date": "2026-09-16T20:53:18+00:00"
     }
   ]
 }
