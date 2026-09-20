@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T19:34:37+00:00",
+  "updated": "2026-09-20T19:35:12+00:00",
   "posts": [
+    {
+      "id": "13360760",
+      "image": "img/13360760.png",
+      "image_sha": "ff489b088948d601897984edc6e00154ce95734e",
+      "url": "https://www.radiodos.com.ar/214145-mas-de-400-personas-celebraron-el-dia-nacional-del-chamame-en-la-casa-de-corrientes",
+      "title": "Más de 400 personas celebraron el Día Nacional del Chamamé en la Casa de Corrientes",
+      "volanta": "BUENOS AIRES",
+      "date": "2026-09-20T19:35:12+00:00"
+    },
     {
       "id": "df830314",
       "image": "img/df830314.png",
@@ -531,15 +540,6 @@
       "title": "Edición \"Bienvenida Primavera\": Corrientes Animé prepara una gran jornada de cultura geek, cosplay y entretenimiento",
       "volanta": "ESTE FINDE",
       "date": "2026-09-17T13:01:41+00:00"
-    },
-    {
-      "id": "ee37269c",
-      "image": "img/ee37269c.png",
-      "image_sha": "9ba1bd548b956ecbc68751946daca5fb8077bbb1",
-      "url": "https://www.radiodos.com.ar/214023-en-allanamiento-secuestran-una-camioneta-con-pedido-de-busqueda",
-      "title": "En allanamiento secuestran una camioneta con pedido de búsqueda",
-      "volanta": "CURUZÚ CUATIÁ",
-      "date": "2026-09-17T12:42:24+00:00"
     }
   ]
 }
