@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T12:33:24+00:00",
+  "updated": "2026-09-20T12:53:45+00:00",
   "posts": [
+    {
+      "id": "d6af7f8d",
+      "image": "img/d6af7f8d.png",
+      "image_sha": "d5ec304f2bba015e5eada99938b2ee0408881a87",
+      "url": "https://www.radiodos.com.ar/214166-messi-dono-26-millones-de-euros-para-ayudar-a-construir-un-centro-de-atencion-a-ninos-con-cancer",
+      "title": "Messi donó 2,6 millones de euros para ayudar a construir un centro de atención a niños con cáncer",
+      "volanta": "Fundación Leo Messi",
+      "date": "2026-09-20T12:53:45+00:00"
+    },
     {
       "id": "36d26cc0",
       "image": "img/36d26cc0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes amplió la veda pesquera en el río Paraná para proteger dorados y sábalos",
       "volanta": "MEDIO AMBIENTE",
       "date": "2026-09-16T22:12:54+00:00"
-    },
-    {
-      "id": "d8c7bc71",
-      "image": "img/d8c7bc71.png",
-      "image_sha": "1b86fbc89bc72a708e696722aa597ae9f4c5734c",
-      "url": "https://www.radiodos.com.ar/213997-un-informe-sobre-pobreza-en-barrios-populares-del-pais-alerta-que-casi-la-mitad-dejo-de-comer-un-dia-entero-por-falta-de-dinero",
-      "title": "Un informe sobre pobreza en barrios populares del país alerta que casi la mitad dejó de comer un día entero por falta de dinero",
-      "volanta": "NÚMEROS DUROS",
-      "date": "2026-09-16T22:12:00+00:00"
     }
   ]
 }
