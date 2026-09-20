@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T19:35:44+00:00",
+  "updated": "2026-09-20T21:41:11+00:00",
   "posts": [
+    {
+      "id": "850694e7",
+      "image": "img/850694e7.png",
+      "image_sha": "c195fa9da739f919dd6f57cb31b376a5c40c3bd4",
+      "url": "https://www.radiodos.com.ar/214169-una-multitud-participo-de-la-misa-de-cierre-de-la-47-peregrinacion-juvenil-del-nea-a-itati",
+      "title": "Una multitud participó de la misa de cierre de la 47 Peregrinación Juvenil del Nea a Itatí",
+      "volanta": "FE Y DEVOCIÓN",
+      "date": "2026-09-20T21:41:11+00:00"
+    },
     {
       "id": "715f0526",
       "image": "img/715f0526.png",
@@ -531,15 +540,6 @@
       "title": "Alertan por llamados engañosos a jubilados a nombre de ANSES: qué hay que tener en cuenta",
       "volanta": "ATENCIÓN",
       "date": "2026-09-17T13:38:35+00:00"
-    },
-    {
-      "id": "9c9c5a95",
-      "image": "img/9c9c5a95.png",
-      "image_sha": "5d45b13646513b1ebdc23a618b2d469df3fe6237",
-      "url": "https://www.radiodos.com.ar/214031-campeones-cup-con-gol-y-asistencia-de-lionel-messi-inter-miami-vencio-a-cruz-azul-y-sumo-un-nuevo-titulo",
-      "title": "Campeones Cup: con gol y asistencia de Lionel Messi, Inter Miami venció a Cruz Azul y sumó un nuevo título",
-      "volanta": "FÚTBOL",
-      "date": "2026-09-17T13:21:40+00:00"
     }
   ]
 }
