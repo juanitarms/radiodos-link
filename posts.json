@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T16:37:46+00:00",
+  "updated": "2026-09-20T19:33:56+00:00",
   "posts": [
+    {
+      "id": "be497ff7",
+      "image": "img/be497ff7.png",
+      "image_sha": "00b6ba299e472b4446e690bc458205b16977d736",
+      "url": "https://www.radiodos.com.ar/214148-lula-da-silva-denuncio-corrupcion-y-fiestas-sexuales-en-la-corte-suprema",
+      "title": "Lula da Silva denunció corrupción y fiestas sexuales en la Corte Suprema",
+      "volanta": "BRASIL",
+      "date": "2026-09-20T19:33:56+00:00"
+    },
     {
       "id": "aadc49fd",
       "image": "img/aadc49fd.png",
@@ -531,15 +540,6 @@
       "title": "Cayó otro \"kiosco-narco\" en localidad del interior de Corrientes",
       "volanta": "UN DETENIDO",
       "date": "2026-09-17T12:04:27+00:00"
-    },
-    {
-      "id": "6a03dd1a",
-      "image": "img/6a03dd1a.png",
-      "image_sha": "a3c38b5970c991b8138f476fa26e17f98578e5e6",
-      "url": "https://www.radiodos.com.ar/214012-tras-12-anos-un-portero-ira-preso-por-abusar-de-una-estudiante-en-un-colegio-de-corrientes",
-      "title": "Tras 12 años, un portero irá preso por abusar de una estudiante en un Colegio de Corrientes",
-      "volanta": "EL HECHO OCURRIÓ EN 2014",
-      "date": "2026-09-17T11:19:48+00:00"
     }
   ]
 }
