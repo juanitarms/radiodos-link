@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T01:48:25+00:00",
+  "updated": "2026-09-20T02:05:51+00:00",
   "posts": [
+    {
+      "id": "d9646f6d",
+      "image": "img/d9646f6d.png",
+      "image_sha": "4baa3fdf318b5902fbb9c25f9841c3f9b35c588c",
+      "url": "https://www.radiodos.com.ar/214162-torneo-clausura-huracan-freno-el-tren-de-triunfos-a-river",
+      "title": "Torneo Clausura: Huracán frenó el tren de triunfos a River",
+      "volanta": "Fue 2 a 1",
+      "date": "2026-09-20T02:05:51+00:00"
+    },
     {
       "id": "8fd0a8f5",
       "image": "img/8fd0a8f5.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia de Corrientes fijó pautas para adecuar las condiciones de alojamiento y salud mental en la Unidad Penal N° 10",
       "volanta": "RESOLUCIÓN DEL JUEZ DE GARANTÍAS",
       "date": "2026-09-16T22:02:18+00:00"
-    },
-    {
-      "id": "2afdedb7",
-      "image": "img/2afdedb7.png",
-      "image_sha": "1b5ac283dea463b24bc8629ea4dc6812fc3c428e",
-      "url": "https://www.radiodos.com.ar/213996-la-armada-reconocio-que-un-grupo-de-marines-de-los-estados-unidos-realizan-maniobras-en-tierra-del-fuego",
-      "title": "La Armada reconoció que un grupo de marines de los Estados Unidos realizan maniobras en Tierra del Fuego",
-      "volanta": "polémica",
-      "date": "2026-09-16T21:45:19+00:00"
     }
   ]
 }
