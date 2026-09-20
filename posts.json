@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T12:53:45+00:00",
+  "updated": "2026-09-20T13:55:28+00:00",
   "posts": [
+    {
+      "id": "510a72ac",
+      "image": "img/510a72ac.png",
+      "image_sha": "d5762dea796424d13ec26080855c23cbb1fb6aab",
+      "url": "https://www.radiodos.com.ar/214167-dos-detenidos-por-estafas-estafas-en-la-compra-de-autos-en-chaco-y-corrientes",
+      "title": "Dos detenidos por estafas estafas en la compra de autos en Chaco y Corrientes",
+      "volanta": "INVESTIGACIÓN CONJUNTA",
+      "date": "2026-09-20T13:55:28+00:00"
+    },
     {
       "id": "d6af7f8d",
       "image": "img/d6af7f8d.png",
@@ -531,15 +540,6 @@
       "title": "Fue hallada en Misiones la joven del interior de Corrientes que estaba desaparecida desde hace una semana",
       "volanta": "EN ANDRESITO",
       "date": "2026-09-17T10:27:49+00:00"
-    },
-    {
-      "id": "38526fcc",
-      "image": "img/38526fcc.png",
-      "image_sha": "cac1dc3dd26f28b71cc37f72a2fc1b6cc4f13ab6",
-      "url": "https://www.radiodos.com.ar/213999-corrientes-amplio-la-veda-pesquera-en-el-rio-parana-para-proteger-dorados-y-sabalos",
-      "title": "Corrientes amplió la veda pesquera en el río Paraná para proteger dorados y sábalos",
-      "volanta": "MEDIO AMBIENTE",
-      "date": "2026-09-16T22:12:54+00:00"
     }
   ]
 }
