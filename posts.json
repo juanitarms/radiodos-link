@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T19:35:12+00:00",
+  "updated": "2026-09-20T19:35:44+00:00",
   "posts": [
+    {
+      "id": "715f0526",
+      "image": "img/715f0526.png",
+      "image_sha": "74f6dfdd2c15b751aa6785ab7f64d9be067fc523",
+      "url": "https://www.radiodos.com.ar/214146-milei-parte-a-nueva-york-para-participar-de-la-asamblea-general-de-la-onu",
+      "title": "Milei parte a Nueva York para participar de la asamblea general de la ONU",
+      "volanta": "OTRO VIAJE A ESTADOS UNIDOS",
+      "date": "2026-09-20T19:35:44+00:00"
+    },
     {
       "id": "13360760",
       "image": "img/13360760.png",
@@ -531,15 +540,6 @@
       "title": "Campeones Cup: con gol y asistencia de Lionel Messi, Inter Miami venció a Cruz Azul y sumó un nuevo título",
       "volanta": "FÚTBOL",
       "date": "2026-09-17T13:21:40+00:00"
-    },
-    {
-      "id": "66955a89",
-      "image": "img/66955a89.png",
-      "image_sha": "1cfc31ce59d7812a7ba6442a5680e2d192af8710",
-      "url": "https://www.radiodos.com.ar/214019-edicion-bienvenida-primavera-corrientes-anime-prepara-una-gran-jornada-de-cultura-geek-cosplay-y-entretenimiento",
-      "title": "Edición \"Bienvenida Primavera\": Corrientes Animé prepara una gran jornada de cultura geek, cosplay y entretenimiento",
-      "volanta": "ESTE FINDE",
-      "date": "2026-09-17T13:01:41+00:00"
     }
   ]
 }
