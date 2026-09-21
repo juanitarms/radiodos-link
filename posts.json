@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T20:43:43+00:00",
+  "updated": "2026-09-21T20:44:16+00:00",
   "posts": [
+    {
+      "id": "afd4c998",
+      "image": "img/afd4c998.png",
+      "image_sha": "a1a998a6b6ad4630162dcad449f1449f9711844f",
+      "url": "https://www.radiodos.com.ar/214218-el-intendente-polich-recorrio-planta-industrial-y-puso-en-valor-el-trabajo-conjunto-entre-el-sector-publico-y-privado",
+      "title": "El intendente Polich recorrió planta industrial y puso en valor el trabajo conjunto entre el sector público y privado",
+      "volanta": "VISITA INSTITUCIONAL",
+      "date": "2026-09-21T20:44:16+00:00"
+    },
     {
       "id": "b330732f",
       "image": "img/b330732f.png",
@@ -531,15 +540,6 @@
       "title": "Monseñor Larregain pidió fortalecer redes de contención para prevenir suicidios",
       "volanta": "SEPTIEMBRE AMARILLO",
       "date": "2026-09-18T11:28:18+00:00"
-    },
-    {
-      "id": "a2806c54",
-      "image": "img/a2806c54.png",
-      "image_sha": "9bf678ad8ca872ee7c852219b2927b6324daa9cf",
-      "url": "https://www.radiodos.com.ar/214071-en-el-marco-de-los-suramericanos-jp-valdes-volvio-a-reunirse-con-sus-pares-en-rosario",
-      "title": "En el marco de los Suramericanos, JP Valdés volvió a reunirse con sus pares en Rosario",
-      "volanta": "REPERCUSIÓN NACIONAL",
-      "date": "2026-09-18T10:47:44+00:00"
     }
   ]
 }
