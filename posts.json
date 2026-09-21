@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T21:23:04+00:00",
+  "updated": "2026-09-21T21:23:42+00:00",
   "posts": [
+    {
+      "id": "59eaaee8",
+      "image": "img/59eaaee8.png",
+      "image_sha": "f119835c728831122a59168769fd7255b0c2058d",
+      "url": "https://www.radiodos.com.ar/214220-procesaron-a-8-iranies-y-libaneses-por-su-participacion-en-el-atentado-a-la-sede-de-la-amia",
+      "title": "Procesaron a 8 iraníes y libaneses por su participación en el atentado a la sede de la AMIA",
+      "volanta": "JUICIO EN AUSENCIA",
+      "date": "2026-09-21T21:23:42+00:00"
+    },
     {
       "id": "6d3429df",
       "image": "img/6d3429df.png",
@@ -531,15 +540,6 @@
       "title": "Discapacidad: en medio de la nueva avanzada contra el nomenclador, subieron un 1,7% las prestaciones",
       "volanta": "CAMBIOS",
       "date": "2026-09-18T12:54:10+00:00"
-    },
-    {
-      "id": "2fc025e3",
-      "image": "img/2fc025e3.png",
-      "image_sha": "346cde181b216953b97bcf2ab0578d89fcdcfd18",
-      "url": "https://www.radiodos.com.ar/214083-se-cumplen-29-anos-de-la-muerte-de-ruben-dario-casco",
-      "title": "Se cumplen 29 años de la muerte de Rubén Darío Casco",
-      "volanta": "HOMENAJE",
-      "date": "2026-09-18T12:34:36+00:00"
     }
   ]
 }
