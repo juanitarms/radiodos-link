@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T20:44:16+00:00",
+  "updated": "2026-09-21T20:46:39+00:00",
   "posts": [
+    {
+      "id": "53ce21f1",
+      "image": "img/53ce21f1.png",
+      "image_sha": "1d10f8f589bd90cd25c0bfcf6045126e0a7eab5b",
+      "url": "https://www.radiodos.com.ar/214217-renuncio-el-secretario-de-discapacidad-en-medio-de-la-discusion-por-los-recortes-del-presupuesto-2027",
+      "title": "Renunció el secretario de Discapacidad en medio de la discusión por los recortes del Presupuesto 2027",
+      "volanta": "DECISIÓN",
+      "date": "2026-09-21T20:46:39+00:00"
+    },
     {
       "id": "afd4c998",
       "image": "img/afd4c998.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes informó sobre algunos cortes de tránsito",
       "volanta": "DE INTERÉS",
       "date": "2026-09-18T11:52:38+00:00"
-    },
-    {
-      "id": "c2864626",
-      "image": "img/c2864626.png",
-      "image_sha": "663dfdfaab774a99493090f1bae52ab6095e83f5",
-      "url": "https://www.radiodos.com.ar/214075-monsenor-larregain-pidio-fortalecer-redes-de-contencion-para-prevenir-suicidios",
-      "title": "Monseñor Larregain pidió fortalecer redes de contención para prevenir suicidios",
-      "volanta": "SEPTIEMBRE AMARILLO",
-      "date": "2026-09-18T11:28:18+00:00"
     }
   ]
 }
