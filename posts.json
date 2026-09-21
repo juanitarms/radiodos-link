@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T13:15:26+00:00",
+  "updated": "2026-09-21T13:34:30+00:00",
   "posts": [
+    {
+      "id": "458c296e",
+      "image": "img/458c296e.png",
+      "image_sha": "ad259edeb60a709f1b397770ca006dbfae27cf94",
+      "url": "https://www.radiodos.com.ar/214202-el-teatro-vera-sera-el-escenario-de-clausura-de-la-ii-bienal-de-arquitectura-ciudad-y-territorio",
+      "title": "El Teatro Vera será el escenario de clausura de la II Bienal de Arquitectura, ciudad y territorio",
+      "volanta": "ESTE SÁBADO 26",
+      "date": "2026-09-21T13:34:30+00:00"
+    },
     {
       "id": "11ddd6b1",
       "image": "img/11ddd6b1.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran caballos sueltos multan a su propietario con más de $200.000",
       "volanta": "CORRIENTES",
       "date": "2026-09-17T20:52:48+00:00"
-    },
-    {
-      "id": "dc5b4e72",
-      "image": "img/dc5b4e72.png",
-      "image_sha": "94e73c356646b65f3147a8890299877c8e1c0f29",
-      "url": "https://www.radiodos.com.ar/214050-corrientes-fue-sede-del-primer-encuentro-litoral-cancilleria-sobre-oportunidades-comerciales",
-      "title": "Corrientes fue sede del Primer Encuentro Litoral - Cancillería sobre oportunidades comerciales",
-      "volanta": "INTEGRACIÓN REGIONAL",
-      "date": "2026-09-17T18:57:08+00:00"
     }
   ]
 }
