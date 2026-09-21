@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T11:28:39+00:00",
+  "updated": "2026-09-21T12:19:18+00:00",
   "posts": [
+    {
+      "id": "d614189b",
+      "image": "img/d614189b.png",
+      "image_sha": "63ddccfee9a3791485b4edf0520825a3823cb63c",
+      "url": "https://www.radiodos.com.ar/214182-feria-de-manos-artesanas-en-el-instituto-pelletier",
+      "title": "Feria de Manos Artesanas en el Instituto Pelletier",
+      "volanta": "HOY DE 10 A 18",
+      "date": "2026-09-21T12:19:18+00:00"
+    },
     {
       "id": "39f01ff0",
       "image": "img/39f01ff0.png",
@@ -531,15 +540,6 @@
       "title": "Prefectura secuestró más de 63 kilos de droga durante un operativo en Chaco",
       "volanta": "CONTROL",
       "date": "2026-09-17T17:26:31+00:00"
-    },
-    {
-      "id": "723a3cac",
-      "image": "img/723a3cac.png",
-      "image_sha": "3f42dd3254b2f751e858365e8189bfc28b03851c",
-      "url": "https://www.radiodos.com.ar/214042-final-de-gran-hermano-generacion-dorada-sol-es-la-ganadora",
-      "title": "Final de Gran Hermano Generación Dorada: Sol es la ganadora",
-      "volanta": "RÉCORD DE VOTOS",
-      "date": "2026-09-17T17:25:56+00:00"
     }
   ]
 }
