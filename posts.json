@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T14:16:37+00:00",
+  "updated": "2026-09-21T14:39:44+00:00",
   "posts": [
+    {
+      "id": "455609b0",
+      "image": "img/455609b0.png",
+      "image_sha": "d65f84b68deb625c528ed49b9140a1ff8c9a0155",
+      "url": "https://www.radiodos.com.ar/214209-chau-tv-publica-aseguran-que-el-gobierno-tomo-una-decision-con-el-canal-para-su-aniversario",
+      "title": "Chau TV Pública: aseguran que el Gobierno tomó una decisión con el canal para su aniversario",
+      "volanta": "CAMBIOS",
+      "date": "2026-09-21T14:39:44+00:00"
+    },
     {
       "id": "a79c3930",
       "image": "img/a79c3930.png",
@@ -531,15 +540,6 @@
       "title": "Los gremios universitarios confirmaron una nueva marcha federal para el 15 de octubre",
       "volanta": "RECLAMO",
       "date": "2026-09-17T21:41:53+00:00"
-    },
-    {
-      "id": "0efcadcf",
-      "image": "img/0efcadcf.png",
-      "image_sha": "7e8d5501394785215509e5beefe3eda3e9cdb617",
-      "url": "https://www.radiodos.com.ar/214058-juicio-por-loan-declaro-el-jefe-de-bomberos-que-coordino-las-primeras-acciones-y-dijo-que-en-ese-lugar-es-imposible-que-ocurra-un-accidente",
-      "title": "Juicio por Loan: declaró el Jefe de Bomberos que coordinó las primeras acciones y dijo que \"en ese lugar es imposible que ocurra un accidente\"",
-      "volanta": "POR JUSTICIA",
-      "date": "2026-09-17T21:39:14+00:00"
     }
   ]
 }
