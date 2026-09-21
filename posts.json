@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T20:46:39+00:00",
+  "updated": "2026-09-21T21:23:04+00:00",
   "posts": [
+    {
+      "id": "6d3429df",
+      "image": "img/6d3429df.png",
+      "image_sha": "7c9403587a6d0538d8136423720c9e331beac6f5",
+      "url": "https://www.radiodos.com.ar/214221-investigan-millonario-robo-a-una-radio-en-pleno-centro-de-corrientes",
+      "title": "Investigan millonario robo a una radio en pleno centro de Corrientes",
+      "volanta": "POCOS DATOS",
+      "date": "2026-09-21T21:23:04+00:00"
+    },
     {
       "id": "53ce21f1",
       "image": "img/53ce21f1.png",
@@ -531,15 +540,6 @@
       "title": "Se cumplen 29 años de la muerte de Rubén Darío Casco",
       "volanta": "HOMENAJE",
       "date": "2026-09-18T12:34:36+00:00"
-    },
-    {
-      "id": "03a94ac2",
-      "image": "img/03a94ac2.png",
-      "image_sha": "121966f83de38f6475871d9bcc322ec36e9e414e",
-      "url": "https://www.radiodos.com.ar/214077-la-municipalidad-de-corrientes-informo-sobre-algunos-cortes-de-transito",
-      "title": "La Municipalidad de Corrientes informó sobre algunos cortes de tránsito",
-      "volanta": "DE INTERÉS",
-      "date": "2026-09-18T11:52:38+00:00"
     }
   ]
 }
