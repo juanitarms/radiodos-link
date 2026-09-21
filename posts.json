@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T19:11:29+00:00",
+  "updated": "2026-09-21T20:43:43+00:00",
   "posts": [
+    {
+      "id": "b330732f",
+      "image": "img/b330732f.png",
+      "image_sha": "b0d8fed97d181df1046200c239bbfb88b06da463",
+      "url": "https://www.radiodos.com.ar/214219-nueva-sede-para-el-juzgado-federal-de-primera-instancia-de-corrientes",
+      "title": "Nueva sede para el Juzgado Federal de Primera Instancia de Corrientes",
+      "volanta": "Consejo de la Magistratura",
+      "date": "2026-09-21T20:43:43+00:00"
+    },
     {
       "id": "d88c8f85",
       "image": "img/d88c8f85.png",
@@ -531,15 +540,6 @@
       "title": "En el marco de los Suramericanos, JP Valdés volvió a reunirse con sus pares en Rosario",
       "volanta": "REPERCUSIÓN NACIONAL",
       "date": "2026-09-18T10:47:44+00:00"
-    },
-    {
-      "id": "53388350",
-      "image": "img/53388350.png",
-      "image_sha": "198377abdd95b257c21f3ada598c021b0ac8eacd",
-      "url": "https://www.radiodos.com.ar/214065-secuestraron-droga-valuada-en-mas-de-410-millones-a-orillas-del-rio-parana",
-      "title": "Secuestraron droga valuada en más de $410 millones a orillas del río Paraná",
-      "volanta": "GRAN OPERATIVO",
-      "date": "2026-09-17T22:53:52+00:00"
     }
   ]
 }
