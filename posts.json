@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T14:39:44+00:00",
+  "updated": "2026-09-21T14:58:14+00:00",
   "posts": [
+    {
+      "id": "5037728f",
+      "image": "img/5037728f.png",
+      "image_sha": "d7ed87996e7c6521f72a5dea9912a39aee783ca6",
+      "url": "https://www.radiodos.com.ar/214208-sobre-el-fin-del-plazo-manuel-adorni-presento-las-explicaciones-sobre-las-20-inconsistencias-en-su-patrimonio",
+      "title": "Sobre el fin del plazo, Manuel Adorni presentó las explicaciones sobre las 20 inconsistencias en su patrimonio",
+      "volanta": "JUSTICIA",
+      "date": "2026-09-21T14:58:14+00:00"
+    },
     {
       "id": "455609b0",
       "image": "img/455609b0.png",
@@ -531,15 +540,6 @@
       "title": "Conocé los puntos, horarios y barrios para la venta de gas a precio subsidiado",
       "volanta": "GARRAFA SOCIAL",
       "date": "2026-09-17T21:43:19+00:00"
-    },
-    {
-      "id": "cbca7c80",
-      "image": "img/cbca7c80.png",
-      "image_sha": "6800608472d673af8a533acdc02be157d454b675",
-      "url": "https://www.radiodos.com.ar/214061-los-gremios-universitarios-confirmaron-una-nueva-marcha-federal-para-el-15-de-octubre",
-      "title": "Los gremios universitarios confirmaron una nueva marcha federal para el 15 de octubre",
-      "volanta": "RECLAMO",
-      "date": "2026-09-17T21:41:53+00:00"
     }
   ]
 }
