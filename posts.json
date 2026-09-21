@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T15:15:29+00:00",
+  "updated": "2026-09-21T17:28:06+00:00",
   "posts": [
+    {
+      "id": "fb9fcd09",
+      "image": "img/fb9fcd09.png",
+      "image_sha": "958af6ccadc045e92201403c63182d7d92f3a69c",
+      "url": "https://www.radiodos.com.ar/214215-el-80-de-quienes-tomaron-deudas-en-los-ultimos-dos-anos-lo-hicieron-para-pagar-alimentos-salud-y-tarifas",
+      "title": "El 80% de quienes tomaron deudas en los últimos dos años lo hicieron para pagar alimentos, salud y tarifas",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-21T17:28:06+00:00"
+    },
     {
       "id": "ad7396bf",
       "image": "img/ad7396bf.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei echó a casi todo el personal de Olivos furioso por la cocina y las filtraciones",
       "volanta": "ROTUNDO CAMBIO",
       "date": "2026-09-17T22:50:33+00:00"
-    },
-    {
-      "id": "38c0579c",
-      "image": "img/38c0579c.png",
-      "image_sha": "7550a512a27aabe72971801979d0614fbe9b3c79",
-      "url": "https://www.radiodos.com.ar/214064-salud-publica-de-corrientes-recuerda-que-esta-disponible-la-vacuna-contra-el-dengue",
-      "title": "Salud Pública de Corrientes recuerda que está disponible la vacuna contra el Dengue",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-09-17T22:49:52+00:00"
     }
   ]
 }
