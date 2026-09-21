@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-20T21:42:24+00:00",
+  "updated": "2026-09-21T10:24:40+00:00",
   "posts": [
+    {
+      "id": "162b9400",
+      "image": "img/162b9400.png",
+      "image_sha": "946bbf041d67e06ac6687f554f730ce9400e8dd7",
+      "url": "https://www.radiodos.com.ar/214173-milei-parte-a-estados-unidos-para-participar-de-la-asamblea-de-la-onu-y-reunirse-con-empresarios",
+      "title": "Milei parte a Estados Unidos para participar de la Asamblea de la ONU y reunirse con empresarios",
+      "volanta": "Este lunes",
+      "date": "2026-09-21T10:24:40+00:00"
+    },
     {
       "id": "4929d8fa",
       "image": "img/4929d8fa.png",
@@ -531,15 +540,6 @@
       "title": "Abrió la inscripción para el Programa de Becas Estratégicas Manuel Belgrano",
       "volanta": "NIVEL NACIÓN",
       "date": "2026-09-17T14:55:58+00:00"
-    },
-    {
-      "id": "9f3d8675",
-      "image": "img/9f3d8675.png",
-      "image_sha": "da873c53388010e7054b40bd7943224f26931d72",
-      "url": "https://www.radiodos.com.ar/214037-usaba-el-celular-y-no-escucho-las-advertencias-cayo-con-auto-y-todo-al-rio-uruguay",
-      "title": "Usaba el celular y no escuchó las advertencias: cayó con auto y todo al río Uruguay",
-      "volanta": "MISIONES",
-      "date": "2026-09-17T14:20:47+00:00"
     }
   ]
 }
