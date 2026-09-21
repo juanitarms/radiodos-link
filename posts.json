@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T12:53:44+00:00",
+  "updated": "2026-09-21T13:15:26+00:00",
   "posts": [
+    {
+      "id": "11ddd6b1",
+      "image": "img/11ddd6b1.png",
+      "image_sha": "dd8cad44f26ca9f61bcb5ed92ee49ec1d913c85c",
+      "url": "https://www.radiodos.com.ar/214195-angel-di-maria-estara-presente-para-acompanar-a-messi-en-su-despedida-de-la-seleccion",
+      "title": "Ángel Di María estará presente para acompañar a Messi en su despedida de la Selección",
+      "volanta": "GRAN APOYO",
+      "date": "2026-09-21T13:15:26+00:00"
+    },
     {
       "id": "c7b6c0a3",
       "image": "img/c7b6c0a3.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fue sede del Primer Encuentro Litoral - Cancillería sobre oportunidades comerciales",
       "volanta": "INTEGRACIÓN REGIONAL",
       "date": "2026-09-17T18:57:08+00:00"
-    },
-    {
-      "id": "84f888a6",
-      "image": "img/84f888a6.png",
-      "image_sha": "5a1db61f33fafbaad547551cc7e4e4bb664453a7",
-      "url": "https://www.radiodos.com.ar/214047-en-la-unidad-se-disputa-la-semifinal-de-la-copa-robotica-educabot-2026",
-      "title": "En La Unidad se disputa la semifinal de la Copa Robótica Educabot 2026",
-      "volanta": "CREATIVIDAD Y TRABAJO EN EQUIPO",
-      "date": "2026-09-17T17:27:07+00:00"
     }
   ]
 }
