@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T21:57:27+00:00",
+  "updated": "2026-09-21T22:01:31+00:00",
   "posts": [
+    {
+      "id": "6e9382e4",
+      "image": "img/6e9382e4.png",
+      "image_sha": "5de6133edc46184f281e2ed1924d357767414a6f",
+      "url": "https://www.radiodos.com.ar/214223-exito-en-santa-catalina-el-gran-premio-de-karting-de-corrientes-convoco-a-cientos-de-familias-y-mas-de-60-pilotos",
+      "title": "Éxito en Santa Catalina: el Gran Premio de Karting de Corrientes convocó a cientos de familias y más de 60 pilotos",
+      "volanta": "DEPORTE MOTOR",
+      "date": "2026-09-21T22:01:31+00:00"
+    },
     {
       "id": "2189be0d",
       "image": "img/2189be0d.png",
@@ -531,15 +540,6 @@
       "title": "Buscan reabrir la causa contra Mauricio Macri por el préstamo que le pidió al FMI en 2018",
       "volanta": "JUSTICIA",
       "date": "2026-09-18T13:52:43+00:00"
-    },
-    {
-      "id": "c15470cf",
-      "image": "img/c15470cf.png",
-      "image_sha": "a3996fdd607b33b575969090117a5436ffadd4bf",
-      "url": "https://www.radiodos.com.ar/214093-la-justicia-ordeno-el-desalojo-de-la-fabrica-fate-y-sus-trabajadores-continuan-con-la-toma",
-      "title": "La Justicia ordenó el desalojo de la fábrica FATE y sus trabajadores continúan con la toma",
-      "volanta": "FALLO",
-      "date": "2026-09-18T13:28:30+00:00"
     }
   ]
 }
