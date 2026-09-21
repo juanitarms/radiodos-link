@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T21:24:13+00:00",
+  "updated": "2026-09-21T21:57:27+00:00",
   "posts": [
+    {
+      "id": "2189be0d",
+      "image": "img/2189be0d.png",
+      "image_sha": "8008c5a6d396bfc7e81fb0483acb747ce85fd7f0",
+      "url": "https://www.radiodos.com.ar/214224-impuesto-a-los-sellos-en-corrientes-represento-el-132-de-la-recaudacion-propia-en-el-primer-trimestre",
+      "title": "Impuesto a los Sellos: en Corrientes representó el 13,2% de la recaudación propia en el primer trimestre",
+      "volanta": "SEGÚN UN ESTUDIO",
+      "date": "2026-09-21T21:57:27+00:00"
+    },
     {
       "id": "12e76b52",
       "image": "img/12e76b52.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia ordenó el desalojo de la fábrica FATE y sus trabajadores continúan con la toma",
       "volanta": "FALLO",
       "date": "2026-09-18T13:28:30+00:00"
-    },
-    {
-      "id": "85cbfc91",
-      "image": "img/85cbfc91.png",
-      "image_sha": "7daa2fa5a735cb4447e10b373e54f1a28c790c26",
-      "url": "https://www.radiodos.com.ar/214090-river-tomo-una-contundente-decision-para-respaldar-al-dt-leonardo-ponzio",
-      "title": "River tomó una contundente decisión para respaldar al DT Leonardo Ponzio",
-      "volanta": "RESPALDO",
-      "date": "2026-09-18T13:09:40+00:00"
     }
   ]
 }
