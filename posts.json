@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T14:58:14+00:00",
+  "updated": "2026-09-21T15:15:29+00:00",
   "posts": [
+    {
+      "id": "ad7396bf",
+      "image": "img/ad7396bf.png",
+      "image_sha": "45f914d9045ce062f670e19ac8cdfcf6554249d4",
+      "url": "https://www.radiodos.com.ar/214203-mirtha-legrand-marcela-tauro-revelo-una-importante-novedad-sobre-su-estado-de-salud",
+      "title": "Mirtha Legrand: Marcela Tauro reveló una importante novedad sobre su estado de salud",
+      "volanta": "A CUIDARSE",
+      "date": "2026-09-21T15:15:29+00:00"
+    },
     {
       "id": "5037728f",
       "image": "img/5037728f.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes recuerda que está disponible la vacuna contra el Dengue",
       "volanta": "PREVENCIÓN",
       "date": "2026-09-17T22:49:52+00:00"
-    },
-    {
-      "id": "02ae1bf9",
-      "image": "img/02ae1bf9.png",
-      "image_sha": "24e0d3fa9b93fdad82ed62961de955181a99df53",
-      "url": "https://www.radiodos.com.ar/214062-conoce-los-puntos-horarios-y-barrios-para-la-venta-de-gas-a-precio-subsidiado",
-      "title": "Conocé los puntos, horarios y barrios para la venta de gas a precio subsidiado",
-      "volanta": "GARRAFA SOCIAL",
-      "date": "2026-09-17T21:43:19+00:00"
     }
   ]
 }
