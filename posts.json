@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T17:28:38+00:00",
+  "updated": "2026-09-21T17:29:14+00:00",
   "posts": [
+    {
+      "id": "8d11e522",
+      "image": "img/8d11e522.png",
+      "image_sha": "0e7d5cd5acab5081bc2e67d66fddbe72d8a93072",
+      "url": "https://www.radiodos.com.ar/214214-el-uso-de-la-capacidad-instalada-en-la-industria-metalurgica-se-hunde-y-6-de-cada-10-maquinas-estan-apagadas",
+      "title": "El uso de la capacidad instalada en la industria metalúrgica se hunde y 6 de cada 10 máquinas están apagadas",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-21T17:29:14+00:00"
+    },
     {
       "id": "5567eb32",
       "image": "img/5567eb32.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: dos equipos clasificaron a la final nacional de la Copa Robótica Educabot y van por un lugar en el desafío internacional",
       "volanta": "EN EL CENTRO TECNOLÓGICO",
       "date": "2026-09-17T22:51:35+00:00"
-    },
-    {
-      "id": "5f2e8caa",
-      "image": "img/5f2e8caa.png",
-      "image_sha": "4087a55bff3c2f6a2d8f15263c1d2f168e1bca4c",
-      "url": "https://www.radiodos.com.ar/214066-tres-personas-muertas-tras-siniestro-vial-en-el-interior-de-corrientes",
-      "title": "Tres personas muertas tras siniestro vial en el interior de Corrientes",
-      "volanta": "VILLA OLIVARI",
-      "date": "2026-09-17T22:51:07+00:00"
     }
   ]
 }
