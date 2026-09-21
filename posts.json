@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T19:10:46+00:00",
+  "updated": "2026-09-21T19:11:29+00:00",
   "posts": [
+    {
+      "id": "d88c8f85",
+      "image": "img/d88c8f85.png",
+      "image_sha": "0f2969fb99bb4295b50e6b6ac2c091507d829699",
+      "url": "https://www.radiodos.com.ar/214216-operativo-papel-picado-desmantelan-una-banda-que-falsificaba-dolares-y-pesos",
+      "title": "Operativo \"Papel Picado\": desmantelan una banda que falsificaba dólares y pesos",
+      "volanta": "CÓRDOBA",
+      "date": "2026-09-21T19:11:29+00:00"
+    },
     {
       "id": "7d2c3cdd",
       "image": "img/7d2c3cdd.png",
@@ -531,15 +540,6 @@
       "title": "Secuestraron droga valuada en más de $410 millones a orillas del río Paraná",
       "volanta": "GRAN OPERATIVO",
       "date": "2026-09-17T22:53:52+00:00"
-    },
-    {
-      "id": "a26c4734",
-      "image": "img/a26c4734.png",
-      "image_sha": "1cc2024e9790e048ca6526729678d86789fa6625",
-      "url": "https://www.radiodos.com.ar/214067-triple-femicidio-cayo-un-nuevo-sospechoso-y-ya-son-16-los-detenidos",
-      "title": "Triple femicidio: cayó un nuevo sospechoso y ya son 16 los detenidos",
-      "volanta": "a casi un año del hecho",
-      "date": "2026-09-17T22:53:25+00:00"
     }
   ]
 }
