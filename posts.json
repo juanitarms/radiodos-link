@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T23:17:48+00:00",
+  "updated": "2026-09-21T23:18:23+00:00",
   "posts": [
+    {
+      "id": "939d4c5e",
+      "image": "img/939d4c5e.png",
+      "image_sha": "b53dcadd8a8e895724b9ea082e472e0693787742",
+      "url": "https://www.radiodos.com.ar/214227-cesa-la-alerta-por-lluvias-en-corrientes-pero-llega-un-frente-frio-polar",
+      "title": "Cesa la alerta por lluvias en Corrientes pero llega un frente frío polar",
+      "volanta": "mínimas de hasta 8 °C",
+      "date": "2026-09-21T23:18:23+00:00"
+    },
     {
       "id": "265a1142",
       "image": "img/265a1142.png",
@@ -531,15 +540,6 @@
       "title": "Arranca la séptima fecha de la Liga Provincial de Mayores 2026",
       "volanta": "BÁSQUET",
       "date": "2026-09-18T17:22:59+00:00"
-    },
-    {
-      "id": "9750e26c",
-      "image": "img/9750e26c.png",
-      "image_sha": "0bda1cc66e537c0ccdf6c755ed05131be7df3260",
-      "url": "https://www.radiodos.com.ar/214112-demoraron-a-tres-empleados-de-un-supermercado-llevaban-mercaderia-en-sus-prendas",
-      "title": "Demoraron a tres empleados de un supermercado: Llevaban mercadería en sus prendas",
-      "volanta": "CURUZÚ CUATIÁ",
-      "date": "2026-09-18T17:22:24+00:00"
     }
   ]
 }
