@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T10:24:40+00:00",
+  "updated": "2026-09-21T10:42:46+00:00",
   "posts": [
+    {
+      "id": "61f7b333",
+      "image": "img/61f7b333.png",
+      "image_sha": "dc60e8ca4c867c1d4587b74936eb934eca646fef",
+      "url": "https://www.radiodos.com.ar/214175-mandiyu-logro-un-triunfo-clave-ante-huracan",
+      "title": "Mandiyú logró un triunfo clave ante Huracán",
+      "volanta": "Torneo Regional",
+      "date": "2026-09-21T10:42:46+00:00"
+    },
     {
       "id": "162b9400",
       "image": "img/162b9400.png",
@@ -531,15 +540,6 @@
       "title": "Cuenta regresiva para enviar tu foto al concurso \"La ciudad que queremos florece\"",
       "volanta": "CORRIENTES EN FLOR",
       "date": "2026-09-17T15:22:58+00:00"
-    },
-    {
-      "id": "10bd394a",
-      "image": "img/10bd394a.png",
-      "image_sha": "3011370a6ff400ff1ccedd0a10cafd467f4cb68e",
-      "url": "https://www.radiodos.com.ar/214038-abrio-la-inscripcion-para-el-programa-de-becas-estrategicas-manuel-belgrano",
-      "title": "Abrió la inscripción para el Programa de Becas Estratégicas Manuel Belgrano",
-      "volanta": "NIVEL NACIÓN",
-      "date": "2026-09-17T14:55:58+00:00"
     }
   ]
 }
