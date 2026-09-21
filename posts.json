@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T21:23:42+00:00",
+  "updated": "2026-09-21T21:24:13+00:00",
   "posts": [
+    {
+      "id": "12e76b52",
+      "image": "img/12e76b52.png",
+      "image_sha": "2bd767e4c21cfc42274b6277b8b9618e52376a53",
+      "url": "https://www.radiodos.com.ar/214222-juicio-por-loan-declaran-policias-una-enfermera-y-la-periodista-paula-bernin",
+      "title": "Juicio por Loan: declaran policías, una enfermera y la periodista Paula Bernin",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-21T21:24:13+00:00"
+    },
     {
       "id": "59eaaee8",
       "image": "img/59eaaee8.png",
@@ -531,15 +540,6 @@
       "title": "River tomó una contundente decisión para respaldar al DT Leonardo Ponzio",
       "volanta": "RESPALDO",
       "date": "2026-09-18T13:09:40+00:00"
-    },
-    {
-      "id": "8bc195ad",
-      "image": "img/8bc195ad.png",
-      "image_sha": "b8d63e13e64099ed48817b5b6f0165f70009de03",
-      "url": "https://www.radiodos.com.ar/214089-discapacidad-en-medio-de-la-nueva-avanzada-contra-el-nomenclador-subieron-un-17-las-prestaciones",
-      "title": "Discapacidad: en medio de la nueva avanzada contra el nomenclador, subieron un 1,7% las prestaciones",
-      "volanta": "CAMBIOS",
-      "date": "2026-09-18T12:54:10+00:00"
     }
   ]
 }
