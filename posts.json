@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T12:19:18+00:00",
+  "updated": "2026-09-21T12:53:44+00:00",
   "posts": [
+    {
+      "id": "c7b6c0a3",
+      "image": "img/c7b6c0a3.png",
+      "image_sha": "3cc860c54e0a99ff6fd72515b021edde16bac436",
+      "url": "https://www.radiodos.com.ar/214181-bienvenidos-todos-vayan-y-anuncien-el-lema-de-la-visita-de-leon-xiv-a-argentina",
+      "title": "\"Bienvenidos todos. Vayan y anuncien\", el lema de la visita de León XIV a Argentina",
+      "volanta": "VISITA PAPAL",
+      "date": "2026-09-21T12:53:44+00:00"
+    },
     {
       "id": "d614189b",
       "image": "img/d614189b.png",
@@ -531,15 +540,6 @@
       "title": "En La Unidad se disputa la semifinal de la Copa Robótica Educabot 2026",
       "volanta": "CREATIVIDAD Y TRABAJO EN EQUIPO",
       "date": "2026-09-17T17:27:07+00:00"
-    },
-    {
-      "id": "f1873d4d",
-      "image": "img/f1873d4d.png",
-      "image_sha": "292532c19d348043ed109a8374c3d22406b6700c",
-      "url": "https://www.radiodos.com.ar/214049-prefectura-secuestro-mas-de-63-kilos-de-droga-durante-un-operativo-en-chaco",
-      "title": "Prefectura secuestró más de 63 kilos de droga durante un operativo en Chaco",
-      "volanta": "CONTROL",
-      "date": "2026-09-17T17:26:31+00:00"
     }
   ]
 }
