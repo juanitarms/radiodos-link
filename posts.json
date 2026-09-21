@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T13:34:30+00:00",
+  "updated": "2026-09-21T13:51:14+00:00",
   "posts": [
+    {
+      "id": "9c955a5f",
+      "image": "img/9c955a5f.png",
+      "image_sha": "8ab646e1b640d38bda4ecae97954b6a4b0820f30",
+      "url": "https://www.radiodos.com.ar/214201-las-ferias-de-la-ciudad-acercan-productos-frescos-y-artesanales-a-distintos-barrios",
+      "title": "Las Ferias de la Ciudad acercan productos frescos y artesanales a distintos barrios",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-09-21T13:51:14+00:00"
+    },
     {
       "id": "458c296e",
       "image": "img/458c296e.png",
@@ -531,15 +540,6 @@
       "title": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
       "volanta": "CRISIS",
       "date": "2026-09-17T21:34:05+00:00"
-    },
-    {
-      "id": "16e39d62",
-      "image": "img/16e39d62.png",
-      "image_sha": "a52f67292f421606a29a1e87b1a2b4787bb668f9",
-      "url": "https://www.radiodos.com.ar/214060-secuestran-caballos-sueltos-multan-a-su-propietario-con-mas-de-200000",
-      "title": "Secuestran caballos sueltos multan a su propietario con más de $200.000",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-17T20:52:48+00:00"
     }
   ]
 }
