@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T17:29:14+00:00",
+  "updated": "2026-09-21T19:10:46+00:00",
   "posts": [
+    {
+      "id": "7d2c3cdd",
+      "image": "img/7d2c3cdd.png",
+      "image_sha": "a3e450eed17cc0d5cddde94a8003ab279a346df9",
+      "url": "https://www.radiodos.com.ar/214210-corrientes-mostro-su-potencial-para-el-aviturismo-en-la-xv-feria-de-aves-de-sudamerica",
+      "title": "Corrientes mostró su potencial para el aviturismo en la XV Feria de Aves de Sudamérica",
+      "volanta": "PROMOCIÓN EN PARAGUAY",
+      "date": "2026-09-21T19:10:46+00:00"
+    },
     {
       "id": "8d11e522",
       "image": "img/8d11e522.png",
@@ -531,15 +540,6 @@
       "title": "Triple femicidio: cayó un nuevo sospechoso y ya son 16 los detenidos",
       "volanta": "a casi un año del hecho",
       "date": "2026-09-17T22:53:25+00:00"
-    },
-    {
-      "id": "051820c2",
-      "image": "img/051820c2.png",
-      "image_sha": "0bc84e44b11ed5c2d2cd8a5aedd518fe28899076",
-      "url": "https://www.radiodos.com.ar/214057-corrientes-dos-equipos-clasificaron-a-la-final-nacional-de-la-copa-robotica-educabot-y-van-por-un-lugar-en-el-desafio-internacional",
-      "title": "Corrientes: dos equipos clasificaron a la final nacional de la Copa Robótica Educabot y van por un lugar en el desafío internacional",
-      "volanta": "EN EL CENTRO TECNOLÓGICO",
-      "date": "2026-09-17T22:51:35+00:00"
     }
   ]
 }
