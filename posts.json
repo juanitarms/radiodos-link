@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T22:01:31+00:00",
+  "updated": "2026-09-21T23:16:45+00:00",
   "posts": [
+    {
+      "id": "242969f0",
+      "image": "img/242969f0.png",
+      "image_sha": "f1138da5b58fbb1daf5a08ad9502b39fb8018045",
+      "url": "https://www.radiodos.com.ar/214225-el-mdf-corrientes-presente-en-el-plenario-federal-del-movimiento-derecho-al-futuro",
+      "title": "El MDF Corrientes, presente en el Plenario Federal del Movimiento Derecho al Futuro",
+      "volanta": "CAMINO AL 2027",
+      "date": "2026-09-21T23:16:45+00:00"
+    },
     {
       "id": "6e9382e4",
       "image": "img/6e9382e4.png",
@@ -531,15 +540,6 @@
       "title": "Susana Giménez fue al Colón a ver una obra y Moria Casán la destrozó: \"Jubilada del éxito\"",
       "volanta": "TODO MAL",
       "date": "2026-09-18T14:59:06+00:00"
-    },
-    {
-      "id": "082a7e1c",
-      "image": "img/082a7e1c.png",
-      "image_sha": "91d6deec9def4e9808de692e3a9a8058c91cde08",
-      "url": "https://www.radiodos.com.ar/214086-buscan-reabrir-la-causa-contra-mauricio-macri-por-el-prestamo-que-le-pidio-al-fmi-en-2018",
-      "title": "Buscan reabrir la causa contra Mauricio Macri por el préstamo que le pidió al FMI en 2018",
-      "volanta": "JUSTICIA",
-      "date": "2026-09-18T13:52:43+00:00"
     }
   ]
 }
