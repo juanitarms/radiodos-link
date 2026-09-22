@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T10:33:08+00:00",
+  "updated": "2026-09-22T10:53:38+00:00",
   "posts": [
+    {
+      "id": "0084f31f",
+      "image": "img/0084f31f.png",
+      "image_sha": "d49777d86b52110a7c5d09d1451e47f2d86c7c7f",
+      "url": "https://www.radiodos.com.ar/214232-corrientes-la-policia-asistio-y-realizo-maniobras-de-rcp-a-una-bebe-con-dificultades-para-respirar",
+      "title": "Corrientes: la Policía asistió y realizó maniobras de RCP a una bebé con dificultades para respirar",
+      "volanta": "G.R.I.M. N° 4",
+      "date": "2026-09-22T10:53:38+00:00"
+    },
     {
       "id": "15715356",
       "image": "img/15715356.png",
@@ -531,15 +540,6 @@
       "title": "UNICEF coordinó acciones con el Ministerio de Salud Pública de Corrientes",
       "volanta": "ARTICULACIÓN INSTITUCIONAL",
       "date": "2026-09-18T19:04:51+00:00"
-    },
-    {
-      "id": "ed3b6a3e",
-      "image": "img/ed3b6a3e.png",
-      "image_sha": "924cbd3ec0b818bd388fed60e594bbc18e1d5b51",
-      "url": "https://www.radiodos.com.ar/214109-corrientes-avanza-con-el-censo-nacional-foresto-industrial",
-      "title": "Corrientes avanza con el Censo Nacional Foresto Industrial",
-      "volanta": "Relevamiento del sector productivo",
-      "date": "2026-09-18T17:23:31+00:00"
     }
   ]
 }
