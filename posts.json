@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T13:10:18+00:00",
+  "updated": "2026-09-22T13:30:01+00:00",
   "posts": [
+    {
+      "id": "ccc1d818",
+      "image": "img/ccc1d818.png",
+      "image_sha": "8888d89de18d475310ede7a5a724e43ef1bbf81c",
+      "url": "https://www.radiodos.com.ar/214259-premios-oscar-2027-cuales-son-las-cuatro-peliculas-argentinas-preseleccionadas",
+      "title": "Premios Oscar 2027: cuáles son las cuatro películas argentinas preseleccionadas",
+      "volanta": "CINE",
+      "date": "2026-09-22T13:30:01+00:00"
+    },
     {
       "id": "e1aba0b4",
       "image": "img/e1aba0b4.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes realizará cobertura sanitaria en la Peregrinación Juvenil a Itatí",
       "volanta": "RECOMENDACIONES",
       "date": "2026-09-18T21:32:14+00:00"
-    },
-    {
-      "id": "a45ddd91",
-      "image": "img/a45ddd91.png",
-      "image_sha": "be6251123c1d59f2d2cf19a973cc7b1b3dbea75c",
-      "url": "https://www.radiodos.com.ar/214116-el-gobernador-valdes-anuncio-nuevos-programas-de-vivienda-y-la-modernizacion-del-invico",
-      "title": "El gobernador Valdés anunció nuevos programas de vivienda y la modernización del INVICO",
-      "volanta": "CASA PROPIA",
-      "date": "2026-09-18T20:42:35+00:00"
     }
   ]
 }
