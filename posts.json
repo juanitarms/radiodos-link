@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T10:53:38+00:00",
+  "updated": "2026-09-22T11:56:33+00:00",
   "posts": [
+    {
+      "id": "1f1e7fe8",
+      "image": "img/1f1e7fe8.png",
+      "image_sha": "e04c4643270e016c00a8740c5052ebce9466fbe6",
+      "url": "https://www.radiodos.com.ar/214235-atrapado-por-tercera-vez-en-un-mes-tras-robar-objetos-de-un-auto",
+      "title": "Atrapado por tercera vez en un mes, tras robar objetos de un auto",
+      "volanta": "DETENIDO",
+      "date": "2026-09-22T11:56:33+00:00"
+    },
     {
       "id": "0084f31f",
       "image": "img/0084f31f.png",
@@ -531,15 +540,6 @@
       "title": "Cruz Roja brinda recomendaciones para una peregrinación segura a Itatí",
       "volanta": "Info útil",
       "date": "2026-09-18T19:05:27+00:00"
-    },
-    {
-      "id": "fa5f3d06",
-      "image": "img/fa5f3d06.png",
-      "image_sha": "6bf578eba5093cd335f11e02e1d6ad4d54d29429",
-      "url": "https://www.radiodos.com.ar/214110-unicef-coordino-acciones-con-el-ministerio-de-salud-publica-de-corrientes",
-      "title": "UNICEF coordinó acciones con el Ministerio de Salud Pública de Corrientes",
-      "volanta": "ARTICULACIÓN INSTITUCIONAL",
-      "date": "2026-09-18T19:04:51+00:00"
     }
   ]
 }
