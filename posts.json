@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T13:30:01+00:00",
+  "updated": "2026-09-22T13:49:47+00:00",
   "posts": [
+    {
+      "id": "190397fe",
+      "image": "img/190397fe.png",
+      "image_sha": "8b31126cfb142d6223ae817534cde09559b41c0f",
+      "url": "https://www.radiodos.com.ar/214260-homero-pettinato-revelo-un-dato-escalofriante-sobre-el-hombre-que-lo-amenazo",
+      "title": "Homero Pettinato reveló un dato escalofriante sobre el hombre que lo amenazó",
+      "volanta": "GRAVÍSIMO",
+      "date": "2026-09-22T13:49:47+00:00"
+    },
     {
       "id": "ccc1d818",
       "image": "img/ccc1d818.png",
@@ -531,15 +540,6 @@
       "title": "Lancha con turistas fue alcanzada por una correntada y dio \"vuelta campana\" en el río Paraná",
       "volanta": "CERCA DE PASO DE LA PATRIA",
       "date": "2026-09-18T21:32:52+00:00"
-    },
-    {
-      "id": "4783e4b0",
-      "image": "img/4783e4b0.png",
-      "image_sha": "60908913270965f78a1faa81848a7683338f39c1",
-      "url": "https://www.radiodos.com.ar/214120-salud-publica-de-corrientes-realizara-cobertura-sanitaria-en-la-peregrinacion-juvenil-a-itati",
-      "title": "Salud Pública de Corrientes realizará cobertura sanitaria en la Peregrinación Juvenil a Itatí",
-      "volanta": "RECOMENDACIONES",
-      "date": "2026-09-18T21:32:14+00:00"
     }
   ]
 }
