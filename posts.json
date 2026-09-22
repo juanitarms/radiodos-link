@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T16:48:08+00:00",
+  "updated": "2026-09-22T16:48:40+00:00",
   "posts": [
+    {
+      "id": "65043411",
+      "image": "img/65043411.png",
+      "image_sha": "e1c1cad68d9fbd0337f3b3e52925aaab03d11b64",
+      "url": "https://www.radiodos.com.ar/214267-renuncio-el-juez-que-preside-el-juicio-por-la-desaparicion-de-loan-pena",
+      "title": "Renunció el juez que preside el juicio por la desaparición de Loan Peña",
+      "volanta": "ÚLTIMO MOMENTO",
+      "date": "2026-09-22T16:48:40+00:00"
+    },
     {
       "id": "bad59553",
       "image": "img/bad59553.png",
@@ -531,15 +540,6 @@
       "title": "Se confirman los pronósticos, y el sábado se presenta lluvioso en Corrientes",
       "volanta": "CLIMA",
       "date": "2026-09-19T13:25:47+00:00"
-    },
-    {
-      "id": "66c6bfd5",
-      "image": "img/66c6bfd5.png",
-      "image_sha": "f6aba7ba7421e731648727de923f908e9b13a286",
-      "url": "https://www.radiodos.com.ar/214125-pese-a-la-lluvia-miles-de-ciclistas-llegan-a-itati-en-la-47-peregrinacion-juvenil-del-nea",
-      "title": "Pese a la lluvia, miles de ciclistas llegan a Itatí en la 47.ª Peregrinación Juvenil del NEA",
-      "volanta": "Muestra de fe",
-      "date": "2026-09-19T13:23:55+00:00"
     }
   ]
 }
