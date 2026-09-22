@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T22:10:55+00:00",
+  "updated": "2026-09-22T22:11:25+00:00",
   "posts": [
+    {
+      "id": "7a137470",
+      "image": "img/7a137470.png",
+      "image_sha": "ab87ac2719fdd09e0c61678c9ad0f548a7db39d9",
+      "url": "https://www.radiodos.com.ar/214288-trump-volvio-a-respaldar-a-milei-en-argentina-hubo-dos-victorias-importantes",
+      "title": "Trump volvió a respaldar a Milei: \"En Argentina hubo dos victorias importantes\"",
+      "volanta": "POLÍTICA",
+      "date": "2026-09-22T22:11:25+00:00"
+    },
     {
       "id": "db58dd1b",
       "image": "img/db58dd1b.png",
@@ -531,15 +540,6 @@
       "title": "Lula da Silva denunció corrupción y fiestas sexuales en la Corte Suprema",
       "volanta": "BRASIL",
       "date": "2026-09-20T19:33:56+00:00"
-    },
-    {
-      "id": "aadc49fd",
-      "image": "img/aadc49fd.png",
-      "image_sha": "b0830a49b20c70340d2bf51b156f9bc60881003b",
-      "url": "https://www.radiodos.com.ar/214156-tini-stoessel-hablo-por-primera-vez-de-su-conflicto-familiar-estoy-atravesando-un-duelo",
-      "title": "Tini Stoessel habló por primera vez de su conflicto familiar: \"Estoy atravesando un duelo\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-09-20T16:37:46+00:00"
     }
   ]
 }
