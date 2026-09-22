@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T18:35:25+00:00",
+  "updated": "2026-09-22T20:40:36+00:00",
   "posts": [
+    {
+      "id": "8d536bc5",
+      "image": "img/8d536bc5.png",
+      "image_sha": "babef34ebbf5b69fd1962de44aea3d5704b0b6e4",
+      "url": "https://www.radiodos.com.ar/214283-los-salarios-subieron-un-28-en-julio-y-superaron-levemente-a-la-inflacion",
+      "title": "los salarios subieron un 2,8% en julio y superaron levemente a la inflación",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-09-22T20:40:36+00:00"
+    },
     {
       "id": "7f6d47c3",
       "image": "img/7f6d47c3.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Huracán frenó el tren de triunfos a River",
       "volanta": "Fue 2 a 1",
       "date": "2026-09-20T02:05:51+00:00"
-    },
-    {
-      "id": "8fd0a8f5",
-      "image": "img/8fd0a8f5.png",
-      "image_sha": "3a7a49b4476290037400989d73d8084142084d8b",
-      "url": "https://www.radiodos.com.ar/214161-tfa-emocionante-empate-lleno-de-goles-entre-boca-unidos-y-defensores-de-puerto-vilelas",
-      "title": "TFA: Emocionante empate, lleno de goles, entre Boca Unidos y Defensores de Puerto Vilelas",
-      "volanta": "Fue 3 a 3",
-      "date": "2026-09-20T01:48:25+00:00"
     }
   ]
 }
