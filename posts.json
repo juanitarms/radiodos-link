@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T18:34:53+00:00",
+  "updated": "2026-09-22T18:35:25+00:00",
   "posts": [
+    {
+      "id": "7f6d47c3",
+      "image": "img/7f6d47c3.png",
+      "image_sha": "052d93453e6e22fea063563dbde0402cd72646b4",
+      "url": "https://www.radiodos.com.ar/214273-un-hospital-debera-pagar-11-millones-a-una-paciente-abusada-por-un-anestesiologo-durante-una-operacion",
+      "title": "Un hospital deberá pagar $11 millones a una paciente abusada por un anestesiólogo durante una operación",
+      "volanta": "JUSTICIA",
+      "date": "2026-09-22T18:35:25+00:00"
+    },
     {
       "id": "690f3e98",
       "image": "img/690f3e98.png",
@@ -531,15 +540,6 @@
       "title": "TFA: Emocionante empate, lleno de goles, entre Boca Unidos y Defensores de Puerto Vilelas",
       "volanta": "Fue 3 a 3",
       "date": "2026-09-20T01:48:25+00:00"
-    },
-    {
-      "id": "813b4322",
-      "image": "img/813b4322.png",
-      "image_sha": "fea23599f7d688b79e3705feaec34b76211939e1",
-      "url": "https://www.radiodos.com.ar/214134-unos-400000-jovenes-renuevan-su-fe-peregrinando-a-los-pies-de-nuestra-madre-morena-de-itati",
-      "title": "Unos 400.000 jóvenes renuevan su fe peregrinando a los pies de Nuestra Madre Morena de Itatí",
-      "volanta": "DE TODA LA REGIÓN",
-      "date": "2026-09-19T15:08:38+00:00"
     }
   ]
 }
