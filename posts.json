@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T20:40:36+00:00",
+  "updated": "2026-09-22T20:41:23+00:00",
   "posts": [
+    {
+      "id": "fa73b9a9",
+      "image": "img/fa73b9a9.png",
+      "image_sha": "9a5e19414357a4a47babe2799bc4c02377925ba2",
+      "url": "https://www.radiodos.com.ar/214281-feriado-por-la-virgen-de-la-merced-asi-funcionaran-los-servicios-municipales-este-jueves-en-corrientes",
+      "title": "Feriado por la Virgen de La Merced: así funcionarán los servicios municipales este jueves en Corrientes",
+      "volanta": "DE INTERES",
+      "date": "2026-09-22T20:41:23+00:00"
+    },
     {
       "id": "8d536bc5",
       "image": "img/8d536bc5.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Gran triunfo de Independiente en Santa Fe",
       "volanta": "FÚTBOL",
       "date": "2026-09-20T02:33:47+00:00"
-    },
-    {
-      "id": "d9646f6d",
-      "image": "img/d9646f6d.png",
-      "image_sha": "4baa3fdf318b5902fbb9c25f9841c3f9b35c588c",
-      "url": "https://www.radiodos.com.ar/214162-torneo-clausura-huracan-freno-el-tren-de-triunfos-a-river",
-      "title": "Torneo Clausura: Huracán frenó el tren de triunfos a River",
-      "volanta": "Fue 2 a 1",
-      "date": "2026-09-20T02:05:51+00:00"
     }
   ]
 }
