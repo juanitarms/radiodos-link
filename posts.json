@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T20:48:06+00:00",
+  "updated": "2026-09-22T22:03:17+00:00",
   "posts": [
+    {
+      "id": "03882b8c",
+      "image": "img/03882b8c.png",
+      "image_sha": "8af08ef1780e6c4ac55833cf09ba9d30520b2ee9",
+      "url": "https://www.radiodos.com.ar/214285-se-presento-nande-rio-corredor-turistico-y-cultural-que-une-a-cinco-municipios-correntinos",
+      "title": "Se presentó \"Ñande Río\", Corredor Turístico y Cultural que une a cinco municipios correntinos",
+      "volanta": "EN CASA DE GOBIERNO",
+      "date": "2026-09-22T22:03:17+00:00"
+    },
     {
       "id": "2d997d72",
       "image": "img/2d997d72.png",
@@ -531,15 +540,6 @@
       "title": "Messi donó 2,6 millones de euros para ayudar a construir un centro de atención a niños con cáncer",
       "volanta": "Fundación Leo Messi",
       "date": "2026-09-20T12:53:45+00:00"
-    },
-    {
-      "id": "36d26cc0",
-      "image": "img/36d26cc0.png",
-      "image_sha": "aca669eeed6159c5c7f887f84aca1372d14674ce",
-      "url": "https://www.radiodos.com.ar/214165-el-gobierno-reafirmo-su-acompanamiento-al-sector-productivo-en-curuzu-cuatia",
-      "title": "El Gobierno reafirmó su acompañamiento al sector productivo en Curuzú Cuatiá",
-      "volanta": "104° Exposición Rural",
-      "date": "2026-09-20T12:33:24+00:00"
     }
   ]
 }
