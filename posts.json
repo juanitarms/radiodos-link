@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T14:28:02+00:00",
+  "updated": "2026-09-22T14:48:01+00:00",
   "posts": [
+    {
+      "id": "3978cb4e",
+      "image": "img/3978cb4e.png",
+      "image_sha": "bd58634d701675dc2b9596362a01cdf67a06f3e0",
+      "url": "https://www.radiodos.com.ar/214258-maru-botana-publico-un-sentido-mensaje-en-un-nuevo-aniversario-de-la-muerte-de-su-hijo-le-diria-que",
+      "title": "Maru Botana publicó un sentido mensaje en un nuevo aniversario de la muerte de su hijo: \"Le diría que...\"",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-09-22T14:48:01+00:00"
+    },
     {
       "id": "7d94d040",
       "image": "img/7d94d040.png",
@@ -531,15 +540,6 @@
       "title": "Este martes 22 de septiembre inicia el pago del plus especial en la Municipalidad de Corrientes",
       "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
       "date": "2026-09-18T21:37:20+00:00"
-    },
-    {
-      "id": "833c58a4",
-      "image": "img/833c58a4.png",
-      "image_sha": "6bf578eba5093cd335f11e02e1d6ad4d54d29429",
-      "url": "https://www.radiodos.com.ar/214119-unicef-coordino-acciones-con-el-ministerio-de-salud-publica-de-corrientes",
-      "title": "UNICEF coordinó acciones con el Ministerio de Salud Pública de Corrientes",
-      "volanta": "ARTICULACIÓN INSTITUCIONAL",
-      "date": "2026-09-18T21:36:47+00:00"
     }
   ]
 }
