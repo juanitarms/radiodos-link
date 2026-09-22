@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T23:18:23+00:00",
+  "updated": "2026-09-22T10:33:08+00:00",
   "posts": [
+    {
+      "id": "15715356",
+      "image": "img/15715356.png",
+      "image_sha": "0bd683d311c0b4f9be32dfd465428386c24874b6",
+      "url": "https://www.radiodos.com.ar/214233-juan-pablo-valdes-acompano-los-festejos-por-el-230°-aniversario-de-concepcion",
+      "title": "Juan Pablo Valdés acompañó los festejos por el 230° aniversario de Concepción",
+      "volanta": "ACTO CENTRAL Y DESFILE",
+      "date": "2026-09-22T10:33:08+00:00"
+    },
     {
       "id": "939d4c5e",
       "image": "img/939d4c5e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes avanza con el Censo Nacional Foresto Industrial",
       "volanta": "Relevamiento del sector productivo",
       "date": "2026-09-18T17:23:31+00:00"
-    },
-    {
-      "id": "e9a3cb09",
-      "image": "img/e9a3cb09.png",
-      "image_sha": "c619ac793a8f379fc5c3ccb6a443199b0d4df5b4",
-      "url": "https://www.radiodos.com.ar/214115-arranca-la-septima-fecha-de-la-liga-provincial-de-mayores-2026",
-      "title": "Arranca la séptima fecha de la Liga Provincial de Mayores 2026",
-      "volanta": "BÁSQUET",
-      "date": "2026-09-18T17:22:59+00:00"
     }
   ]
 }
