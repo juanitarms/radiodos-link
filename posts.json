@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T22:03:17+00:00",
+  "updated": "2026-09-22T22:06:11+00:00",
   "posts": [
+    {
+      "id": "58f55c9e",
+      "image": "img/58f55c9e.png",
+      "image_sha": "a0897d419b3d384c227ba73f49a431d0d8c8b268",
+      "url": "https://www.radiodos.com.ar/214284-presupuesto-2027-larroza-advierte-que-el-aumento-del-32-para-la-unne-no-alcanza-a-cubrir-la-perdida-salarial",
+      "title": "Presupuesto 2027: Larroza advierte que el aumento del 32% para la UNNE no alcanza a cubrir la pérdida salarial",
+      "volanta": "CRISIS UNIVERSITARIA",
+      "date": "2026-09-22T22:06:11+00:00"
+    },
     {
       "id": "03882b8c",
       "image": "img/03882b8c.png",
@@ -531,15 +540,6 @@
       "title": "Dos detenidos por estafas estafas en la compra de autos en Chaco y Corrientes",
       "volanta": "INVESTIGACIÓN CONJUNTA",
       "date": "2026-09-20T13:55:28+00:00"
-    },
-    {
-      "id": "d6af7f8d",
-      "image": "img/d6af7f8d.png",
-      "image_sha": "d5ec304f2bba015e5eada99938b2ee0408881a87",
-      "url": "https://www.radiodos.com.ar/214166-messi-dono-26-millones-de-euros-para-ayudar-a-construir-un-centro-de-atencion-a-ninos-con-cancer",
-      "title": "Messi donó 2,6 millones de euros para ayudar a construir un centro de atención a niños con cáncer",
-      "volanta": "Fundación Leo Messi",
-      "date": "2026-09-20T12:53:45+00:00"
     }
   ]
 }
