@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T11:56:33+00:00",
+  "updated": "2026-09-22T12:23:55+00:00",
   "posts": [
+    {
+      "id": "993b6629",
+      "image": "img/993b6629.png",
+      "image_sha": "4ef79b04386c11629ca95847b581e9f73d4c9396",
+      "url": "https://www.radiodos.com.ar/214236-presupuesto-nacional-2027-corrientes-volvera-a-marchar-por-los-recortes-a-discapacidad",
+      "title": "Presupuesto Nacional 2027: Corrientes volverá a marchar por los recortes a Discapacidad",
+      "volanta": "Mañana",
+      "date": "2026-09-22T12:23:55+00:00"
+    },
     {
       "id": "1f1e7fe8",
       "image": "img/1f1e7fe8.png",
@@ -531,15 +540,6 @@
       "title": "Victoria Villarruel apeló a un meme de Diego Maradona para responderle a Martín Menem",
       "volanta": "REDES SOCIALES",
       "date": "2026-09-18T19:05:59+00:00"
-    },
-    {
-      "id": "dc2916ab",
-      "image": "img/dc2916ab.png",
-      "image_sha": "7befc33310b994074827a594a88e90e436077bca",
-      "url": "https://www.radiodos.com.ar/214111-cruz-roja-brinda-recomendaciones-para-una-peregrinacion-segura-a-itati",
-      "title": "Cruz Roja brinda recomendaciones para una peregrinación segura a Itatí",
-      "volanta": "Info útil",
-      "date": "2026-09-18T19:05:27+00:00"
     }
   ]
 }
