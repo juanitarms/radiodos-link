@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T16:48:40+00:00",
+  "updated": "2026-09-22T18:34:53+00:00",
   "posts": [
+    {
+      "id": "690f3e98",
+      "image": "img/690f3e98.png",
+      "image_sha": "2c66c241a51078a2d9ed4cb814ec0cf5bb9a9ccd",
+      "url": "https://www.radiodos.com.ar/214271-un-hombre-dejo-encerrada-en-el-auto-a-su-hija-de-siete-anos-y-se-fue-al-boliche",
+      "title": "Un hombre dejó encerrada en el auto a su hija de siete años y se fue al boliche",
+      "volanta": "Río Gallegos",
+      "date": "2026-09-22T18:34:53+00:00"
+    },
     {
       "id": "65043411",
       "image": "img/65043411.png",
@@ -531,15 +540,6 @@
       "title": "Unos 400.000 jóvenes renuevan su fe peregrinando a los pies de Nuestra Madre Morena de Itatí",
       "volanta": "DE TODA LA REGIÓN",
       "date": "2026-09-19T15:08:38+00:00"
-    },
-    {
-      "id": "509171cb",
-      "image": "img/509171cb.png",
-      "image_sha": "1b6d946eea8aedff2c8ed8eff750e76ba3c17323",
-      "url": "https://www.radiodos.com.ar/214132-se-confirman-los-pronosticos-y-el-sabado-se-presenta-lluvioso-en-corrientes",
-      "title": "Se confirman los pronósticos, y el sábado se presenta lluvioso en Corrientes",
-      "volanta": "CLIMA",
-      "date": "2026-09-19T13:25:47+00:00"
     }
   ]
 }
