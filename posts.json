@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T12:23:55+00:00",
+  "updated": "2026-09-22T12:53:50+00:00",
   "posts": [
+    {
+      "id": "6a0c13fb",
+      "image": "img/6a0c13fb.png",
+      "image_sha": "f7e75393323043546e067b81a71e164f92142736",
+      "url": "https://www.radiodos.com.ar/214249-asi-sera-la-camiseta-que-usara-lionel-messi-en-su-despedida-de-la-seleccion-argentina",
+      "title": "Así será la camiseta que usará Lionel Messi en su despedida de la Selección Argentina",
+      "volanta": "AMISTOSO",
+      "date": "2026-09-22T12:53:50+00:00"
+    },
     {
       "id": "993b6629",
       "image": "img/993b6629.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand fue internada nuevamente en el Sanatorio Mater Dei",
       "volanta": "QUE LE PASO",
       "date": "2026-09-18T20:42:02+00:00"
-    },
-    {
-      "id": "c6184cf9",
-      "image": "img/c6184cf9.png",
-      "image_sha": "9f39b61fd8c0c6cbeeef64d56e752aaebdb81b95",
-      "url": "https://www.radiodos.com.ar/214106-victoria-villarruel-apelo-a-un-meme-de-diego-maradona-para-responderle-a-martin-menem",
-      "title": "Victoria Villarruel apeló a un meme de Diego Maradona para responderle a Martín Menem",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-09-18T19:05:59+00:00"
     }
   ]
 }
