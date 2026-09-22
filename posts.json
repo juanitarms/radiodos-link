@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T16:47:35+00:00",
+  "updated": "2026-09-22T16:48:08+00:00",
   "posts": [
+    {
+      "id": "bad59553",
+      "image": "img/bad59553.png",
+      "image_sha": "2909228ad0d77d8f3d9bce409e7c19c71c98120c",
+      "url": "https://www.radiodos.com.ar/214268-fiscal-carlos-schaefer-los-falsos-dupuy-vinieron-a-entorpecer-el-caso-y-eso-beneficio-a-los-imputados",
+      "title": "Fiscal Carlos Schaefer: \"Los falsos Dupuy vinieron a entorpecer el caso y eso benefició a los imputados\"",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-22T16:48:08+00:00"
+    },
     {
       "id": "253d6a4e",
       "image": "img/253d6a4e.png",
@@ -531,15 +540,6 @@
       "title": "Pese a la lluvia, miles de ciclistas llegan a Itatí en la 47.ª Peregrinación Juvenil del NEA",
       "volanta": "Muestra de fe",
       "date": "2026-09-19T13:23:55+00:00"
-    },
-    {
-      "id": "a8aa5607",
-      "image": "img/a8aa5607.png",
-      "image_sha": "eed58666f1e2dc339b6c6fb523d6f3e209029f8e",
-      "url": "https://www.radiodos.com.ar/214122-bananeros-se-movilizan-en-formosa-y-regalaran-5000-kilos-de-fruta-por-la-crisis-del-sector",
-      "title": "Bananeros se movilizan en Formosa y regalarán 5000 kilos de fruta por la crisis del sector",
-      "volanta": "ALERTA",
-      "date": "2026-09-18T21:48:23+00:00"
     }
   ]
 }
