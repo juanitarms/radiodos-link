@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T14:48:01+00:00",
+  "updated": "2026-09-22T16:47:35+00:00",
   "posts": [
+    {
+      "id": "253d6a4e",
+      "image": "img/253d6a4e.png",
+      "image_sha": "900bf9f01a389133bda306a414ec332ff3da5542",
+      "url": "https://www.radiodos.com.ar/214269-el-jueves-comienza-el-pago-de-sueldos-a-la-administracion-publica",
+      "title": "El jueves comienza el pago de sueldos a la administración pública",
+      "volanta": "Del mes de setiembre",
+      "date": "2026-09-22T16:47:35+00:00"
+    },
     {
       "id": "3978cb4e",
       "image": "img/3978cb4e.png",
@@ -531,15 +540,6 @@
       "title": "Bananeros se movilizan en Formosa y regalarán 5000 kilos de fruta por la crisis del sector",
       "volanta": "ALERTA",
       "date": "2026-09-18T21:48:23+00:00"
-    },
-    {
-      "id": "555fb72e",
-      "image": "img/555fb72e.png",
-      "image_sha": "27a93515c6a0956f2bb22fc93ea3615f6b7e3a95",
-      "url": "https://www.radiodos.com.ar/214118-este-martes-22-de-septiembre-inicia-el-pago-del-plus-especial-en-la-municipalidad-de-corrientes",
-      "title": "Este martes 22 de septiembre inicia el pago del plus especial en la Municipalidad de Corrientes",
-      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
-      "date": "2026-09-18T21:37:20+00:00"
     }
   ]
 }
