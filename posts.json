@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T13:35:18+00:00",
+  "updated": "2026-09-23T13:59:03+00:00",
   "posts": [
+    {
+      "id": "b1ef713f",
+      "image": "img/b1ef713f.png",
+      "image_sha": "3b78cc0292924a737015784f0f5a46ea2dbf675b",
+      "url": "https://www.radiodos.com.ar/214313-las-malvinas-son-argentinas-la-replica-del-canciller-pablo-quirno-a-londres-en-la-onu",
+      "title": "\"Las Malvinas son argentinas\": la réplica del canciller Pablo Quirno a Londres en la ONU",
+      "volanta": "IMPORTANTE",
+      "date": "2026-09-23T13:59:03+00:00"
+    },
     {
       "id": "cfb6fd4b",
       "image": "img/cfb6fd4b.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron en Corrientes a un brasileño condenado por violador: se escondía en un campo",
       "volanta": "TENÍA ALERTA ROJA DE INTERPOL",
       "date": "2026-09-21T11:28:39+00:00"
-    },
-    {
-      "id": "7568e5ff",
-      "image": "img/7568e5ff.png",
-      "image_sha": "1dda854a7a7c54f2de772527ec430a437e683b18",
-      "url": "https://www.radiodos.com.ar/214174-el-parana-sigue-en-ascenso-y-llego-a-los-420-metros-en-corrientes",
-      "title": "El Paraná sigue en ascenso y llegó a los 4,20 metros en Corrientes",
-      "volanta": "Tras las intensas lluvias",
-      "date": "2026-09-21T11:05:28+00:00"
     }
   ]
 }
