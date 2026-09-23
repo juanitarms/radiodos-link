@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T21:07:00+00:00",
+  "updated": "2026-09-23T21:18:19+00:00",
   "posts": [
+    {
+      "id": "072c8176",
+      "image": "img/072c8176.png",
+      "image_sha": "43366269ea00966453bc4e2ea734e29ea37f6c9f",
+      "url": "https://www.radiodos.com.ar/214347-el-reino-unido-cruzo-el-discurso-de-milei-en-la-onu-y-defendio-la-explotacion-de-hidrocarburos-en-las-malvinas",
+      "title": "El Reino Unido cruzó el discurso de Milei en la ONU y defendió la explotación de hidrocarburos en las Malvinas",
+      "volanta": "POLÉMICA",
+      "date": "2026-09-23T21:18:19+00:00"
+    },
     {
       "id": "5ed6d88a",
       "image": "img/5ed6d88a.png",
@@ -531,15 +540,6 @@
       "title": "Mirtha Legrand: Marcela Tauro reveló una importante novedad sobre su estado de salud",
       "volanta": "A CUIDARSE",
       "date": "2026-09-21T15:15:29+00:00"
-    },
-    {
-      "id": "5037728f",
-      "image": "img/5037728f.png",
-      "image_sha": "d7ed87996e7c6521f72a5dea9912a39aee783ca6",
-      "url": "https://www.radiodos.com.ar/214208-sobre-el-fin-del-plazo-manuel-adorni-presento-las-explicaciones-sobre-las-20-inconsistencias-en-su-patrimonio",
-      "title": "Sobre el fin del plazo, Manuel Adorni presentó las explicaciones sobre las 20 inconsistencias en su patrimonio",
-      "volanta": "JUSTICIA",
-      "date": "2026-09-21T14:58:14+00:00"
     }
   ]
 }
