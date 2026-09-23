@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T10:43:41+00:00",
+  "updated": "2026-09-23T11:03:07+00:00",
   "posts": [
+    {
+      "id": "fd2ede58",
+      "image": "img/fd2ede58.png",
+      "image_sha": "28d89c4fddd11b9beedd2591516dafc3507ddcc0",
+      "url": "https://www.radiodos.com.ar/214295-secuestraron-60-cabezas-de-ganado-en-un-allanamiento-y-demoraron-a-dos-hombres",
+      "title": "Secuestraron 60 cabezas de ganado en un allanamiento y demoraron a dos hombres",
+      "volanta": "ALVEAR",
+      "date": "2026-09-23T11:03:07+00:00"
+    },
     {
       "id": "7d8ff9f2",
       "image": "img/7d8ff9f2.png",
@@ -531,15 +540,6 @@
       "title": "Milei parte a Nueva York para participar de la asamblea general de la ONU",
       "volanta": "OTRO VIAJE A ESTADOS UNIDOS",
       "date": "2026-09-20T19:35:44+00:00"
-    },
-    {
-      "id": "13360760",
-      "image": "img/13360760.png",
-      "image_sha": "ff489b088948d601897984edc6e00154ce95734e",
-      "url": "https://www.radiodos.com.ar/214145-mas-de-400-personas-celebraron-el-dia-nacional-del-chamame-en-la-casa-de-corrientes",
-      "title": "Más de 400 personas celebraron el Día Nacional del Chamamé en la Casa de Corrientes",
-      "volanta": "BUENOS AIRES",
-      "date": "2026-09-20T19:35:12+00:00"
     }
   ]
 }
