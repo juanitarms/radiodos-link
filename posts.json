@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T15:17:24+00:00",
+  "updated": "2026-09-23T20:37:00+00:00",
   "posts": [
+    {
+      "id": "19397f0f",
+      "image": "img/19397f0f.png",
+      "image_sha": "aea11bb9b84098b1b9a3456082e5c33c699c91c8",
+      "url": "https://www.radiodos.com.ar/214340-milei-califico-a-la-onu-de-inutil-y-casta-de-parasitos",
+      "title": "Milei calificó a la ONU de \"inútil\" y \"casta de parásitos\"",
+      "volanta": "DURO",
+      "date": "2026-09-23T20:37:00+00:00"
+    },
     {
       "id": "7ebd80b9",
       "image": "img/7ebd80b9.png",
@@ -531,15 +540,6 @@
       "title": "Ángel Di María estará presente para acompañar a Messi en su despedida de la Selección",
       "volanta": "GRAN APOYO",
       "date": "2026-09-21T13:15:26+00:00"
-    },
-    {
-      "id": "c7b6c0a3",
-      "image": "img/c7b6c0a3.png",
-      "image_sha": "3cc860c54e0a99ff6fd72515b021edde16bac436",
-      "url": "https://www.radiodos.com.ar/214181-bienvenidos-todos-vayan-y-anuncien-el-lema-de-la-visita-de-leon-xiv-a-argentina",
-      "title": "\"Bienvenidos todos. Vayan y anuncien\", el lema de la visita de León XIV a Argentina",
-      "volanta": "VISITA PAPAL",
-      "date": "2026-09-21T12:53:44+00:00"
     }
   ]
 }
