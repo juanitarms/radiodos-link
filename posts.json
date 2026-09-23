@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T11:03:07+00:00",
+  "updated": "2026-09-23T11:14:12+00:00",
   "posts": [
+    {
+      "id": "38c49820",
+      "image": "img/38c49820.png",
+      "image_sha": "92351858c0ed0df3ec93b69f6ea9868d46a5fdd6",
+      "url": "https://www.radiodos.com.ar/214296-juicio-por-loan-testigo-declaro-que-tiro-sus-celulares-a-la-basura-y-complico-a-caillava",
+      "title": "Juicio por Loan: testigo declaró que tiró sus celulares a la basura y complicó a Caillava",
+      "volanta": "DECLARACIÓN",
+      "date": "2026-09-23T11:14:12+00:00"
+    },
     {
       "id": "fd2ede58",
       "image": "img/fd2ede58.png",
@@ -531,15 +540,6 @@
       "title": "Una multitud participó de la misa de cierre de la 47 Peregrinación Juvenil del Nea a Itatí",
       "volanta": "FE Y DEVOCIÓN",
       "date": "2026-09-20T21:41:11+00:00"
-    },
-    {
-      "id": "715f0526",
-      "image": "img/715f0526.png",
-      "image_sha": "74f6dfdd2c15b751aa6785ab7f64d9be067fc523",
-      "url": "https://www.radiodos.com.ar/214146-milei-parte-a-nueva-york-para-participar-de-la-asamblea-general-de-la-onu",
-      "title": "Milei parte a Nueva York para participar de la asamblea general de la ONU",
-      "volanta": "OTRO VIAJE A ESTADOS UNIDOS",
-      "date": "2026-09-20T19:35:44+00:00"
     }
   ]
 }
