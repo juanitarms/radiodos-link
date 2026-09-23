@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T21:06:29+00:00",
+  "updated": "2026-09-23T21:07:00+00:00",
   "posts": [
+    {
+      "id": "5ed6d88a",
+      "image": "img/5ed6d88a.png",
+      "image_sha": "11d54a6111ee37df5248542fd956db0615a72d7e",
+      "url": "https://www.radiodos.com.ar/214344-corrientes-juntaba-tacuaras-para-una-fiesta-escolar-y-murio-electrocutado",
+      "title": "Corrientes: juntaba tacuaras para una fiesta escolar y murió electrocutado",
+      "volanta": "FATALIDAD",
+      "date": "2026-09-23T21:07:00+00:00"
+    },
     {
       "id": "59952e6e",
       "image": "img/59952e6e.png",
@@ -531,15 +540,6 @@
       "title": "Sobre el fin del plazo, Manuel Adorni presentó las explicaciones sobre las 20 inconsistencias en su patrimonio",
       "volanta": "JUSTICIA",
       "date": "2026-09-21T14:58:14+00:00"
-    },
-    {
-      "id": "455609b0",
-      "image": "img/455609b0.png",
-      "image_sha": "d65f84b68deb625c528ed49b9140a1ff8c9a0155",
-      "url": "https://www.radiodos.com.ar/214209-chau-tv-publica-aseguran-que-el-gobierno-tomo-una-decision-con-el-canal-para-su-aniversario",
-      "title": "Chau TV Pública: aseguran que el Gobierno tomó una decisión con el canal para su aniversario",
-      "volanta": "CAMBIOS",
-      "date": "2026-09-21T14:39:44+00:00"
     }
   ]
 }
