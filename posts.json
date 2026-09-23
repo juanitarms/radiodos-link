@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T11:39:32+00:00",
+  "updated": "2026-09-23T12:28:28+00:00",
   "posts": [
+    {
+      "id": "2bf0dd07",
+      "image": "img/2bf0dd07.png",
+      "image_sha": "fd2ad392eeafadfc9aabb2fff1210a3f76fa1b0e",
+      "url": "https://www.radiodos.com.ar/214299-sistema-penal-juvenil-aprueban-proyecto-de-capacitacion-y-sensibilizacion",
+      "title": "Sistema Penal Juvenil: aprueban proyecto de capacitación y sensibilización",
+      "volanta": "STJ",
+      "date": "2026-09-23T12:28:28+00:00"
+    },
     {
       "id": "b67235c5",
       "image": "img/b67235c5.png",
@@ -531,15 +540,6 @@
       "title": "Presentaron el proyecto de remodelación de la plaza central de Mariano I. Loza",
       "volanta": "GESTIÓN",
       "date": "2026-09-20T21:42:24+00:00"
-    },
-    {
-      "id": "2760af8a",
-      "image": "img/2760af8a.png",
-      "image_sha": "47e319a452769a0e84b123ce2b3cc1719827035a",
-      "url": "https://www.radiodos.com.ar/214139-desarrollo-social-suma-un-nuevo-espacio-para-emprendedores-en-el-paseo-de-las-flores",
-      "title": "Desarrollo Social suma un nuevo espacio para emprendedores en el \"Paseo de las Flores\"",
-      "volanta": "NUEVO PUNTO FERIAL EN LA COSTANERA",
-      "date": "2026-09-20T21:41:48+00:00"
     }
   ]
 }
