@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T20:37:00+00:00",
+  "updated": "2026-09-23T20:37:35+00:00",
   "posts": [
+    {
+      "id": "28861af4",
+      "image": "img/28861af4.png",
+      "image_sha": "681909c5aabd14da81d9b992b91f4832d50d87ac",
+      "url": "https://www.radiodos.com.ar/214341-en-el-centenario-de-virasoro-jp-valdes-entrego-mas-de-600-notebooks-e-inauguro-cuadras-de-asfalto",
+      "title": "En el centenario de Virasoro, JP Valdés entregó más de 600 notebooks e inauguró cuadras de asfalto",
+      "volanta": "ANUNCIÓ MÁS OBRAS VIALES",
+      "date": "2026-09-23T20:37:35+00:00"
+    },
     {
       "id": "19397f0f",
       "image": "img/19397f0f.png",
@@ -531,15 +540,6 @@
       "title": "El Teatro Vera será el escenario de clausura de la II Bienal de Arquitectura, ciudad y territorio",
       "volanta": "ESTE SÁBADO 26",
       "date": "2026-09-21T13:34:30+00:00"
-    },
-    {
-      "id": "11ddd6b1",
-      "image": "img/11ddd6b1.png",
-      "image_sha": "dd8cad44f26ca9f61bcb5ed92ee49ec1d913c85c",
-      "url": "https://www.radiodos.com.ar/214195-angel-di-maria-estara-presente-para-acompanar-a-messi-en-su-despedida-de-la-seleccion",
-      "title": "Ángel Di María estará presente para acompañar a Messi en su despedida de la Selección",
-      "volanta": "GRAN APOYO",
-      "date": "2026-09-21T13:15:26+00:00"
     }
   ]
 }
