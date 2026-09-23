@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T11:14:12+00:00",
+  "updated": "2026-09-23T11:39:32+00:00",
   "posts": [
+    {
+      "id": "b67235c5",
+      "image": "img/b67235c5.png",
+      "image_sha": "1d6bc3caa8f633895ee0845539760ec565352c0f",
+      "url": "https://www.radiodos.com.ar/214297-ofrecia-carpinchos-bebe-por-20-mil-y-le-cayo-el-priar",
+      "title": "Ofrecía carpinchos bebé por $20 mil y le cayó el PRIAR",
+      "volanta": "RESCATE ANIMAL",
+      "date": "2026-09-23T11:39:32+00:00"
+    },
     {
       "id": "38c49820",
       "image": "img/38c49820.png",
@@ -531,15 +540,6 @@
       "title": "Desarrollo Social suma un nuevo espacio para emprendedores en el \"Paseo de las Flores\"",
       "volanta": "NUEVO PUNTO FERIAL EN LA COSTANERA",
       "date": "2026-09-20T21:41:48+00:00"
-    },
-    {
-      "id": "850694e7",
-      "image": "img/850694e7.png",
-      "image_sha": "c195fa9da739f919dd6f57cb31b376a5c40c3bd4",
-      "url": "https://www.radiodos.com.ar/214169-una-multitud-participo-de-la-misa-de-cierre-de-la-47-peregrinacion-juvenil-del-nea-a-itati",
-      "title": "Una multitud participó de la misa de cierre de la 47 Peregrinación Juvenil del Nea a Itatí",
-      "volanta": "FE Y DEVOCIÓN",
-      "date": "2026-09-20T21:41:11+00:00"
     }
   ]
 }
