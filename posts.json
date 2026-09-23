@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T21:00:20+00:00",
+  "updated": "2026-09-23T21:00:51+00:00",
   "posts": [
+    {
+      "id": "3bf0c768",
+      "image": "img/3bf0c768.png",
+      "image_sha": "38ff0903e035906bb476041492ba345d8b4e3235",
+      "url": "https://www.radiodos.com.ar/214342-las-ventas-en-supermercados-cayeron-21-interanual-en-julio",
+      "title": "Las ventas en supermercados cayeron 2,1% interanual en julio",
+      "volanta": "CRISIS EN EL CONSUMO",
+      "date": "2026-09-23T21:00:51+00:00"
+    },
     {
       "id": "a14f3aef",
       "image": "img/a14f3aef.png",
@@ -531,15 +540,6 @@
       "title": "La supuesta infidelidad que habría provocado una ausencia en la boda de Tini Stoessel y Rodrigo De Paul",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-09-21T14:16:37+00:00"
-    },
-    {
-      "id": "9c955a5f",
-      "image": "img/9c955a5f.png",
-      "image_sha": "8ab646e1b640d38bda4ecae97954b6a4b0820f30",
-      "url": "https://www.radiodos.com.ar/214201-las-ferias-de-la-ciudad-acercan-productos-frescos-y-artesanales-a-distintos-barrios",
-      "title": "Las Ferias de la Ciudad acercan productos frescos y artesanales a distintos barrios",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-09-21T13:51:14+00:00"
     }
   ]
 }
