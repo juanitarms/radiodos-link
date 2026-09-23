@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T21:00:51+00:00",
+  "updated": "2026-09-23T21:06:29+00:00",
   "posts": [
+    {
+      "id": "59952e6e",
+      "image": "img/59952e6e.png",
+      "image_sha": "56144ffb83a21910e871efe77a8364cfe1606dd6",
+      "url": "https://www.radiodos.com.ar/214345-las-exportaciones-de-corrientes-alcanzaron-los-us-244-millones-en-los-primeros-ocho-meses-del-ano",
+      "title": "Las exportaciones de Corrientes alcanzaron los US$ 244 millones en los primeros ocho meses del año",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-09-23T21:06:29+00:00"
+    },
     {
       "id": "3bf0c768",
       "image": "img/3bf0c768.png",
@@ -531,15 +540,6 @@
       "title": "Chau TV Pública: aseguran que el Gobierno tomó una decisión con el canal para su aniversario",
       "volanta": "CAMBIOS",
       "date": "2026-09-21T14:39:44+00:00"
-    },
-    {
-      "id": "a79c3930",
-      "image": "img/a79c3930.png",
-      "image_sha": "2eedf474aec9a727a4e10c5ff2696b8f7b4521b1",
-      "url": "https://www.radiodos.com.ar/214207-la-supuesta-infidelidad-que-habria-provocado-una-ausencia-en-la-boda-de-tini-stoessel-y-rodrigo-de-paul",
-      "title": "La supuesta infidelidad que habría provocado una ausencia en la boda de Tini Stoessel y Rodrigo De Paul",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-09-21T14:16:37+00:00"
     }
   ]
 }
