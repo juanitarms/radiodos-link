@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T23:56:31+00:00",
+  "updated": "2026-09-23T10:43:41+00:00",
   "posts": [
+    {
+      "id": "7d8ff9f2",
+      "image": "img/7d8ff9f2.png",
+      "image_sha": "3fa259552e3273b20268995ca0874cd44c05b95d",
+      "url": "https://www.radiodos.com.ar/214293-en-un-barrio-de-corrientes-piden-uber-comida-rapida-y-terminan-robando-a-sus-victimas",
+      "title": "En un barrio de Corrientes, piden Uber, comida rápida y terminan robando a sus víctimas",
+      "volanta": "ALERTA",
+      "date": "2026-09-23T10:43:41+00:00"
+    },
     {
       "id": "4b80cb93",
       "image": "img/4b80cb93.png",
@@ -531,15 +540,6 @@
       "title": "Más de 400 personas celebraron el Día Nacional del Chamamé en la Casa de Corrientes",
       "volanta": "BUENOS AIRES",
       "date": "2026-09-20T19:35:12+00:00"
-    },
-    {
-      "id": "df830314",
-      "image": "img/df830314.png",
-      "image_sha": "e2ea41661b6bcd8302923224b3fe1b96f9c8bd1d",
-      "url": "https://www.radiodos.com.ar/214149-operarios-hacian-un-pozo-para-instalar-un-poste-de-luz-y-encontraron-un-bebe-muerto",
-      "title": "Operarios hacían un pozo para instalar un poste de luz y encontraron un bebé muerto",
-      "volanta": "BUENOS AIRES",
-      "date": "2026-09-20T19:34:37+00:00"
     }
   ]
 }
