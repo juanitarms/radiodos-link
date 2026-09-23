@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T13:12:04+00:00",
+  "updated": "2026-09-23T13:35:18+00:00",
   "posts": [
+    {
+      "id": "cfb6fd4b",
+      "image": "img/cfb6fd4b.png",
+      "image_sha": "37ad4a535f7c203c57fa4d19b3bb42baebcad6e7",
+      "url": "https://www.radiodos.com.ar/214314-turismo-y-gastronomia-la-ciudad-sera-sede-de-una-feria-de-cafe-que-reunira-a-los-mejores-baristas-del-nea",
+      "title": "Turismo y gastronomía: la ciudad será sede de una feria de café que reunirá a los mejores baristas del NEA",
+      "volanta": "CUMBRE REGIONAL EN CORRIENTES",
+      "date": "2026-09-23T13:35:18+00:00"
+    },
     {
       "id": "609a743d",
       "image": "img/609a743d.png",
@@ -531,15 +540,6 @@
       "title": "El Paraná sigue en ascenso y llegó a los 4,20 metros en Corrientes",
       "volanta": "Tras las intensas lluvias",
       "date": "2026-09-21T11:05:28+00:00"
-    },
-    {
-      "id": "61f7b333",
-      "image": "img/61f7b333.png",
-      "image_sha": "dc60e8ca4c867c1d4587b74936eb934eca646fef",
-      "url": "https://www.radiodos.com.ar/214175-mandiyu-logro-un-triunfo-clave-ante-huracan",
-      "title": "Mandiyú logró un triunfo clave ante Huracán",
-      "volanta": "Torneo Regional",
-      "date": "2026-09-21T10:42:46+00:00"
     }
   ]
 }
