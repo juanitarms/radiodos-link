@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T11:41:26+00:00",
+  "updated": "2026-09-24T12:19:41+00:00",
   "posts": [
+    {
+      "id": "d96f6633",
+      "image": "img/d96f6633.png",
+      "image_sha": "b364e3b02b6c49a87912aeaed73bef940f7238b5",
+      "url": "https://www.radiodos.com.ar/214362-skene-estrena-dos-obras-infantiles-correntinas",
+      "title": "Skené estrena dos obras infantiles correntinas",
+      "volanta": "EL FIN DE SEMANA",
+      "date": "2026-09-24T12:19:41+00:00"
+    },
     {
       "id": "99c751a1",
       "image": "img/99c751a1.png",
@@ -531,15 +540,6 @@
       "title": "Renunció el secretario de Discapacidad en medio de la discusión por los recortes del Presupuesto 2027",
       "volanta": "DECISIÓN",
       "date": "2026-09-21T20:46:39+00:00"
-    },
-    {
-      "id": "afd4c998",
-      "image": "img/afd4c998.png",
-      "image_sha": "a1a998a6b6ad4630162dcad449f1449f9711844f",
-      "url": "https://www.radiodos.com.ar/214218-el-intendente-polich-recorrio-planta-industrial-y-puso-en-valor-el-trabajo-conjunto-entre-el-sector-publico-y-privado",
-      "title": "El intendente Polich recorrió planta industrial y puso en valor el trabajo conjunto entre el sector público y privado",
-      "volanta": "VISITA INSTITUCIONAL",
-      "date": "2026-09-21T20:44:16+00:00"
     }
   ]
 }
