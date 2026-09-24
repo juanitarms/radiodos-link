@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:04:25+00:00",
+  "updated": "2026-09-24T23:04:57+00:00",
   "posts": [
+    {
+      "id": "c09675b6",
+      "image": "img/c09675b6.png",
+      "image_sha": "eb28d7f346760e3f4a849e2b2415dcaefaa0572e",
+      "url": "https://www.radiodos.com.ar/214408-secuestran-dos-caballos-una-moto-y-un-carro-en-un-operativo-contra-el-cuatrerismo",
+      "title": "Secuestran dos caballos, una moto y un carro en un operativo contra el cuatrerismo",
+      "volanta": "BARRIO DOCTOR MONTAÑA",
+      "date": "2026-09-24T23:04:57+00:00"
+    },
     {
       "id": "fdb8efaf",
       "image": "img/fdb8efaf.png",
@@ -531,15 +540,6 @@
       "title": "Renunció el juez que preside el juicio por la desaparición de Loan Peña",
       "volanta": "ÚLTIMO MOMENTO",
       "date": "2026-09-22T16:48:40+00:00"
-    },
-    {
-      "id": "bad59553",
-      "image": "img/bad59553.png",
-      "image_sha": "2909228ad0d77d8f3d9bce409e7c19c71c98120c",
-      "url": "https://www.radiodos.com.ar/214268-fiscal-carlos-schaefer-los-falsos-dupuy-vinieron-a-entorpecer-el-caso-y-eso-beneficio-a-los-imputados",
-      "title": "Fiscal Carlos Schaefer: \"Los falsos Dupuy vinieron a entorpecer el caso y eso benefició a los imputados\"",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-22T16:48:08+00:00"
     }
   ]
 }
