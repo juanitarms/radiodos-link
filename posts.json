@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T13:23:54+00:00",
+  "updated": "2026-09-24T13:47:47+00:00",
   "posts": [
+    {
+      "id": "7c805c0c",
+      "image": "img/7c805c0c.png",
+      "image_sha": "9d379d5c6783091c8520395171f588bb11bdbeae",
+      "url": "https://www.radiodos.com.ar/214378-corrupcion-en-la-andis-diego-spagnuolo-confeso-que-la-voz-de-los-audios-es-suya",
+      "title": "Corrupción en la Andis: Diego Spagnuolo confesó que la voz de los audios es suya",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-09-24T13:47:47+00:00"
+    },
     {
       "id": "caa1d9dc",
       "image": "img/caa1d9dc.png",
@@ -531,15 +540,6 @@
       "title": "Impuesto a los Sellos: en Corrientes representó el 13,2% de la recaudación propia en el primer trimestre",
       "volanta": "SEGÚN UN ESTUDIO",
       "date": "2026-09-21T21:57:27+00:00"
-    },
-    {
-      "id": "12e76b52",
-      "image": "img/12e76b52.png",
-      "image_sha": "2bd767e4c21cfc42274b6277b8b9618e52376a53",
-      "url": "https://www.radiodos.com.ar/214222-juicio-por-loan-declaran-policias-una-enfermera-y-la-periodista-paula-bernin",
-      "title": "Juicio por Loan: declaran policías, una enfermera y la periodista Paula Bernin",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-21T21:24:13+00:00"
     }
   ]
 }
