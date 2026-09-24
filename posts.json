@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:04:57+00:00",
+  "updated": "2026-09-24T23:06:53+00:00",
   "posts": [
+    {
+      "id": "e3dc1042",
+      "image": "img/e3dc1042.png",
+      "image_sha": "a576aa293b037d9146b293f61b5302476ee42a21",
+      "url": "https://www.radiodos.com.ar/214409-es-neuquino-vive-en-corrientes-y-gano-la-medalla-de-oro-en-los-suramericanos-en-taekwondo",
+      "title": "Es neuquino, vive en Corrientes y ganó la medalla de Oro en los Suramericanos en taekwondo",
+      "volanta": "SANTA FE 2026",
+      "date": "2026-09-24T23:06:53+00:00"
+    },
     {
       "id": "c09675b6",
       "image": "img/c09675b6.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre dejó encerrada en el auto a su hija de siete años y se fue al boliche",
       "volanta": "Río Gallegos",
       "date": "2026-09-22T18:34:53+00:00"
-    },
-    {
-      "id": "65043411",
-      "image": "img/65043411.png",
-      "image_sha": "e1c1cad68d9fbd0337f3b3e52925aaab03d11b64",
-      "url": "https://www.radiodos.com.ar/214267-renuncio-el-juez-que-preside-el-juicio-por-la-desaparicion-de-loan-pena",
-      "title": "Renunció el juez que preside el juicio por la desaparición de Loan Peña",
-      "volanta": "ÚLTIMO MOMENTO",
-      "date": "2026-09-22T16:48:40+00:00"
     }
   ]
 }
