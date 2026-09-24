@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T14:52:13+00:00",
+  "updated": "2026-09-24T15:06:26+00:00",
   "posts": [
+    {
+      "id": "0e2770cc",
+      "image": "img/0e2770cc.png",
+      "image_sha": "6b4587204a8803d42367bd957429520c4ca8268b",
+      "url": "https://www.radiodos.com.ar/214391-san-cosme-celebra-sus-fiestas-patronales-con-dos-noches-de-festivales",
+      "title": "San Cosme celebra sus Fiestas Patronales con dos noches de festivales",
+      "volanta": "ESTE FIN DE SEMANA",
+      "date": "2026-09-24T15:06:26+00:00"
+    },
     {
       "id": "2eaece50",
       "image": "img/2eaece50.png",
@@ -531,15 +540,6 @@
       "title": "Una jueza porteña declaró inconstitucional la baja de la edad de imputabilidad",
       "volanta": "sobreseyó a un menor de 14 años",
       "date": "2026-09-21T23:17:13+00:00"
-    },
-    {
-      "id": "242969f0",
-      "image": "img/242969f0.png",
-      "image_sha": "f1138da5b58fbb1daf5a08ad9502b39fb8018045",
-      "url": "https://www.radiodos.com.ar/214225-el-mdf-corrientes-presente-en-el-plenario-federal-del-movimiento-derecho-al-futuro",
-      "title": "El MDF Corrientes, presente en el Plenario Federal del Movimiento Derecho al Futuro",
-      "volanta": "CAMINO AL 2027",
-      "date": "2026-09-21T23:16:45+00:00"
     }
   ]
 }
