@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:12:59+00:00",
+  "updated": "2026-09-24T23:13:33+00:00",
   "posts": [
+    {
+      "id": "e474e10c",
+      "image": "img/e474e10c.png",
+      "image_sha": "ac1f597956514eacdeec4c01205b793bdb54beb5",
+      "url": "https://www.radiodos.com.ar/214413-subsidios-a-las-tarifas-del-gas-en-zonas-frias-que-cambia-y-que-localidades-perderan-el-beneficio",
+      "title": "Subsidios a las tarifas del gas en zonas frías: qué cambia y qué localidades perderán el beneficio",
+      "volanta": "LEY APROBADA",
+      "date": "2026-09-24T23:13:33+00:00"
+    },
     {
       "id": "47aa7bf6",
       "image": "img/47aa7bf6.png",
@@ -531,15 +540,6 @@
       "title": "Se presentó \"Ñande Río\", Corredor Turístico y Cultural que une a cinco municipios correntinos",
       "volanta": "EN CASA DE GOBIERNO",
       "date": "2026-09-22T22:03:17+00:00"
-    },
-    {
-      "id": "2d997d72",
-      "image": "img/2d997d72.png",
-      "image_sha": "93ddcf054f41d087699a58345d2352e82886a567",
-      "url": "https://www.radiodos.com.ar/214282-campana-de-vacunacion-contra-el-dengue-en-corrientes-instalaran-carpa-en-plaza-cabral",
-      "title": "Campaña de vacunación contra el Dengue en Corrientes: instalarán carpa en plaza Cabral",
-      "volanta": "VIERNES Y SÁBADO",
-      "date": "2026-09-22T20:48:06+00:00"
     }
   ]
 }
