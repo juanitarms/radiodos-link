@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:11:28+00:00",
+  "updated": "2026-09-24T23:12:59+00:00",
   "posts": [
+    {
+      "id": "47aa7bf6",
+      "image": "img/47aa7bf6.png",
+      "image_sha": "e433d425fc00dd448aae99935d349a6cfbfa9bd4",
+      "url": "https://www.radiodos.com.ar/214412-corrientes-registra-un-41-de-la-poblacion-bajo-la-linea-de-pobreza",
+      "title": "Corrientes registra un 41% de la población bajo la línea de pobreza",
+      "volanta": "DATOS DEL INDEC",
+      "date": "2026-09-24T23:12:59+00:00"
+    },
     {
       "id": "f396c7e6",
       "image": "img/f396c7e6.png",
@@ -531,15 +540,6 @@
       "title": "Campaña de vacunación contra el Dengue en Corrientes: instalarán carpa en plaza Cabral",
       "volanta": "VIERNES Y SÁBADO",
       "date": "2026-09-22T20:48:06+00:00"
-    },
-    {
-      "id": "fa73b9a9",
-      "image": "img/fa73b9a9.png",
-      "image_sha": "9a5e19414357a4a47babe2799bc4c02377925ba2",
-      "url": "https://www.radiodos.com.ar/214281-feriado-por-la-virgen-de-la-merced-asi-funcionaran-los-servicios-municipales-este-jueves-en-corrientes",
-      "title": "Feriado por la Virgen de La Merced: así funcionarán los servicios municipales este jueves en Corrientes",
-      "volanta": "DE INTERES",
-      "date": "2026-09-22T20:41:23+00:00"
     }
   ]
 }
