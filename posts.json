@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T15:06:26+00:00",
+  "updated": "2026-09-24T16:24:44+00:00",
   "posts": [
+    {
+      "id": "436c7e33",
+      "image": "img/436c7e33.png",
+      "image_sha": "b45e7e9d700b16ddbe762a39a1cf5475a52a875d",
+      "url": "https://www.radiodos.com.ar/214380-un-hombre-reclamo-en-defensa-del-consumidor-y-recupero-27-millones-de-un-plan-de-ahorro",
+      "title": "Un hombre reclamó en Defensa del Consumidor y recuperó $27 millones de un plan de ahorro",
+      "volanta": "San Isidro",
+      "date": "2026-09-24T16:24:44+00:00"
+    },
     {
       "id": "0e2770cc",
       "image": "img/0e2770cc.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes, el distrito con menor tasa de homicidios del país",
       "volanta": "DATOS OFICIALES",
       "date": "2026-09-21T23:17:48+00:00"
-    },
-    {
-      "id": "db5224e9",
-      "image": "img/db5224e9.png",
-      "image_sha": "d7a403fa6089ea08a86d3abb601345284924388f",
-      "url": "https://www.radiodos.com.ar/214226-una-jueza-portena-declaro-inconstitucional-la-baja-de-la-edad-de-imputabilidad",
-      "title": "Una jueza porteña declaró inconstitucional la baja de la edad de imputabilidad",
-      "volanta": "sobreseyó a un menor de 14 años",
-      "date": "2026-09-21T23:17:13+00:00"
     }
   ]
 }
