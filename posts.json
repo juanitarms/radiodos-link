@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T12:19:41+00:00",
+  "updated": "2026-09-24T12:50:50+00:00",
   "posts": [
+    {
+      "id": "d4d2ba2f",
+      "image": "img/d4d2ba2f.png",
+      "image_sha": "087943132e07663b65ab0d7fa42a8bbabfc18373",
+      "url": "https://www.radiodos.com.ar/214367-buscan-a-un-adolescente-que-se-fue-de-su-casa-y-no-regreso",
+      "title": "Buscan a un adolescente que se fue de su casa y no regresó",
+      "volanta": "PASO DE LA PATRIA",
+      "date": "2026-09-24T12:50:50+00:00"
+    },
     {
       "id": "d96f6633",
       "image": "img/d96f6633.png",
@@ -531,15 +540,6 @@
       "title": "Investigan millonario robo a una radio en pleno centro de Corrientes",
       "volanta": "POCOS DATOS",
       "date": "2026-09-21T21:23:04+00:00"
-    },
-    {
-      "id": "53ce21f1",
-      "image": "img/53ce21f1.png",
-      "image_sha": "1d10f8f589bd90cd25c0bfcf6045126e0a7eab5b",
-      "url": "https://www.radiodos.com.ar/214217-renuncio-el-secretario-de-discapacidad-en-medio-de-la-discusion-por-los-recortes-del-presupuesto-2027",
-      "title": "Renunció el secretario de Discapacidad en medio de la discusión por los recortes del Presupuesto 2027",
-      "volanta": "DECISIÓN",
-      "date": "2026-09-21T20:46:39+00:00"
     }
   ]
 }
