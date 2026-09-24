@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T16:24:44+00:00",
+  "updated": "2026-09-24T16:25:16+00:00",
   "posts": [
+    {
+      "id": "29c4ef4b",
+      "image": "img/29c4ef4b.png",
+      "image_sha": "9f6309d9e608e71dbc71cc4f5d1b7650445d6e73",
+      "url": "https://www.radiodos.com.ar/214381-avanza-el-proyecto-de-legajo-unico-digital-para-la-administracion-publica",
+      "title": "Avanza el proyecto de Legajo Único Digital para la Administración Pública",
+      "volanta": "Sesión 16",
+      "date": "2026-09-24T16:25:16+00:00"
+    },
     {
       "id": "436c7e33",
       "image": "img/436c7e33.png",
@@ -531,15 +540,6 @@
       "title": "Cesa la alerta por lluvias en Corrientes pero llega un frente frío polar",
       "volanta": "mínimas de hasta 8 °C",
       "date": "2026-09-21T23:18:23+00:00"
-    },
-    {
-      "id": "265a1142",
-      "image": "img/265a1142.png",
-      "image_sha": "6f6c4c984c6c65cc2e6cd248d6e88a113fae00e7",
-      "url": "https://www.radiodos.com.ar/214228-corrientes-el-distrito-con-menor-tasa-de-homicidios-del-pais",
-      "title": "Corrientes, el distrito con menor tasa de homicidios del país",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-09-21T23:17:48+00:00"
     }
   ]
 }
