@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T13:06:42+00:00",
+  "updated": "2026-09-24T13:23:54+00:00",
   "posts": [
+    {
+      "id": "caa1d9dc",
+      "image": "img/caa1d9dc.png",
+      "image_sha": "32df18ca523c7b88333a8de53ac5078d0c6e4381",
+      "url": "https://www.radiodos.com.ar/214377-comunicado-de-cancilleria-argentina-y-estados-unidos-lanzan-el-corredor-andes-atlantico",
+      "title": "Comunicado de Cancillería: Argentina y Estados Unidos lanzan el Corredor Andes-Atlántico",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-24T13:23:54+00:00"
+    },
     {
       "id": "b3aa27e9",
       "image": "img/b3aa27e9.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: declaran policías, una enfermera y la periodista Paula Bernin",
       "volanta": "CORRIENTES",
       "date": "2026-09-21T21:24:13+00:00"
-    },
-    {
-      "id": "59eaaee8",
-      "image": "img/59eaaee8.png",
-      "image_sha": "f119835c728831122a59168769fd7255b0c2058d",
-      "url": "https://www.radiodos.com.ar/214220-procesaron-a-8-iranies-y-libaneses-por-su-participacion-en-el-atentado-a-la-sede-de-la-amia",
-      "title": "Procesaron a 8 iraníes y libaneses por su participación en el atentado a la sede de la AMIA",
-      "volanta": "JUICIO EN AUSENCIA",
-      "date": "2026-09-21T21:23:42+00:00"
     }
   ]
 }
