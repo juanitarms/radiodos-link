@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:06:53+00:00",
+  "updated": "2026-09-24T23:08:08+00:00",
   "posts": [
+    {
+      "id": "a442e0db",
+      "image": "img/a442e0db.png",
+      "image_sha": "083ec82980ee74182f0a6f0c3a671a2ce0945528",
+      "url": "https://www.radiodos.com.ar/214405-murio-en-corrientes-el-doctor-jorge-alberto-braverman-referente-de-la-neurologia-infantil",
+      "title": "Murió en Corrientes el doctor Jorge Alberto Braverman, referente de la neurología infantil",
+      "volanta": "DUELO",
+      "date": "2026-09-24T23:08:08+00:00"
+    },
     {
       "id": "e3dc1042",
       "image": "img/e3dc1042.png",
@@ -531,15 +540,6 @@
       "title": "Un hospital deberá pagar $11 millones a una paciente abusada por un anestesiólogo durante una operación",
       "volanta": "JUSTICIA",
       "date": "2026-09-22T18:35:25+00:00"
-    },
-    {
-      "id": "690f3e98",
-      "image": "img/690f3e98.png",
-      "image_sha": "2c66c241a51078a2d9ed4cb814ec0cf5bb9a9ccd",
-      "url": "https://www.radiodos.com.ar/214271-un-hombre-dejo-encerrada-en-el-auto-a-su-hija-de-siete-anos-y-se-fue-al-boliche",
-      "title": "Un hombre dejó encerrada en el auto a su hija de siete años y se fue al boliche",
-      "volanta": "Río Gallegos",
-      "date": "2026-09-22T18:34:53+00:00"
     }
   ]
 }
