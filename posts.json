@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:09:30+00:00",
+  "updated": "2026-09-24T23:11:28+00:00",
   "posts": [
+    {
+      "id": "f396c7e6",
+      "image": "img/f396c7e6.png",
+      "image_sha": "f9c8da71ef95977c80d349ecd5c5e58e2f8dcd87",
+      "url": "https://www.radiodos.com.ar/214411-un-camion-cargado-con-abono-quedo-atascado-en-un-puente-del-interior-de-corrientes",
+      "title": "Un camión cargado con abono quedó atascado en un puente del interior de Corrientes",
+      "volanta": "CERCA DE YATAY TI CALLE",
+      "date": "2026-09-24T23:11:28+00:00"
+    },
     {
       "id": "fa8f4159",
       "image": "img/fa8f4159.png",
@@ -531,15 +540,6 @@
       "title": "Feriado por la Virgen de La Merced: así funcionarán los servicios municipales este jueves en Corrientes",
       "volanta": "DE INTERES",
       "date": "2026-09-22T20:41:23+00:00"
-    },
-    {
-      "id": "8d536bc5",
-      "image": "img/8d536bc5.png",
-      "image_sha": "babef34ebbf5b69fd1962de44aea3d5704b0b6e4",
-      "url": "https://www.radiodos.com.ar/214283-los-salarios-subieron-un-28-en-julio-y-superaron-levemente-a-la-inflacion",
-      "title": "los salarios subieron un 2,8% en julio y superaron levemente a la inflación",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-09-22T20:40:36+00:00"
     }
   ]
 }
