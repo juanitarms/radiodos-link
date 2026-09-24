@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T21:06:03+00:00",
+  "updated": "2026-09-24T23:04:25+00:00",
   "posts": [
+    {
+      "id": "fdb8efaf",
+      "image": "img/fdb8efaf.png",
+      "image_sha": "9d0ccd62078c08ebd3d48f109ed471e8c15241c7",
+      "url": "https://www.radiodos.com.ar/214410-salarios-la-dispersion-docente-supera-el-200-en-el-pais-y-corrientes-lidera-los-haberes-en-el-nea",
+      "title": "Salarios: la dispersión docente supera el 200% en el país y Corrientes lidera los haberes en el NEA",
+      "volanta": "DISPARIDAD",
+      "date": "2026-09-24T23:04:25+00:00"
+    },
     {
       "id": "4fe39b33",
       "image": "img/4fe39b33.png",
@@ -531,15 +540,6 @@
       "title": "Fiscal Carlos Schaefer: \"Los falsos Dupuy vinieron a entorpecer el caso y eso benefició a los imputados\"",
       "volanta": "CORRIENTES",
       "date": "2026-09-22T16:48:08+00:00"
-    },
-    {
-      "id": "253d6a4e",
-      "image": "img/253d6a4e.png",
-      "image_sha": "900bf9f01a389133bda306a414ec332ff3da5542",
-      "url": "https://www.radiodos.com.ar/214269-el-jueves-comienza-el-pago-de-sueldos-a-la-administracion-publica",
-      "title": "El jueves comienza el pago de sueldos a la administración pública",
-      "volanta": "Del mes de setiembre",
-      "date": "2026-09-22T16:47:35+00:00"
     }
   ]
 }
