@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T20:50:45+00:00",
+  "updated": "2026-09-24T20:51:43+00:00",
   "posts": [
+    {
+      "id": "3edeccaf",
+      "image": "img/3edeccaf.png",
+      "image_sha": "5ade8c1678dcae496b99c3e7f52fa9a418b0d1b5",
+      "url": "https://www.radiodos.com.ar/214401-la-pobreza-llego-al-323-en-el-primer-semestre-de-2026-en-la-argentina",
+      "title": "La pobreza llegó al 32,3% en el primer semestre de 2026 en la Argentina",
+      "volanta": "INDEC",
+      "date": "2026-09-24T20:51:43+00:00"
+    },
     {
       "id": "3e7976e4",
       "image": "img/3e7976e4.png",
@@ -531,15 +540,6 @@
       "title": "Homero Pettinato reveló un dato escalofriante sobre el hombre que lo amenazó",
       "volanta": "GRAVÍSIMO",
       "date": "2026-09-22T13:49:47+00:00"
-    },
-    {
-      "id": "ccc1d818",
-      "image": "img/ccc1d818.png",
-      "image_sha": "8888d89de18d475310ede7a5a724e43ef1bbf81c",
-      "url": "https://www.radiodos.com.ar/214259-premios-oscar-2027-cuales-son-las-cuatro-peliculas-argentinas-preseleccionadas",
-      "title": "Premios Oscar 2027: cuáles son las cuatro películas argentinas preseleccionadas",
-      "volanta": "CINE",
-      "date": "2026-09-22T13:30:01+00:00"
     }
   ]
 }
