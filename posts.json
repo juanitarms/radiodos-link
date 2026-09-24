@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T16:25:48+00:00",
+  "updated": "2026-09-24T17:18:59+00:00",
   "posts": [
+    {
+      "id": "33108c7e",
+      "image": "img/33108c7e.png",
+      "image_sha": "84b530817c78839aa716a89672a70aa47ee787cb",
+      "url": "https://www.radiodos.com.ar/214382-secuestran-droga-dinero-y-celulares-en-un-allanamiento-una-mujer-detenida",
+      "title": "Secuestran droga, dinero y celulares en un allanamiento: una mujer detenida",
+      "volanta": "CURUZÚ CUATIÁ",
+      "date": "2026-09-24T17:18:59+00:00"
+    },
     {
       "id": "e0b3b40c",
       "image": "img/e0b3b40c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: la Policía asistió y realizó maniobras de RCP a una bebé con dificultades para respirar",
       "volanta": "G.R.I.M. N° 4",
       "date": "2026-09-22T10:53:38+00:00"
-    },
-    {
-      "id": "15715356",
-      "image": "img/15715356.png",
-      "image_sha": "0bd683d311c0b4f9be32dfd465428386c24874b6",
-      "url": "https://www.radiodos.com.ar/214233-juan-pablo-valdes-acompano-los-festejos-por-el-230°-aniversario-de-concepcion",
-      "title": "Juan Pablo Valdés acompañó los festejos por el 230° aniversario de Concepción",
-      "volanta": "ACTO CENTRAL Y DESFILE",
-      "date": "2026-09-22T10:33:08+00:00"
     }
   ]
 }
