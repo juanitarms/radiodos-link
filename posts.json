@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T12:50:50+00:00",
+  "updated": "2026-09-24T13:06:42+00:00",
   "posts": [
+    {
+      "id": "b3aa27e9",
+      "image": "img/b3aa27e9.png",
+      "image_sha": "cfaa9a4d213b80b16c2b42e427c8bbdb6ab24da0",
+      "url": "https://www.radiodos.com.ar/214375-la-anmat-prohibio-la-venta-de-todos-los-productos-para-bajar-de-peso-que-contengan-una-droga-no-autorizada",
+      "title": "La Anmat prohibió la venta de todos los productos para bajar de peso que contengan una droga no autorizada",
+      "volanta": "OFICIAL",
+      "date": "2026-09-24T13:06:42+00:00"
+    },
     {
       "id": "d4d2ba2f",
       "image": "img/d4d2ba2f.png",
@@ -531,15 +540,6 @@
       "title": "Procesaron a 8 iraníes y libaneses por su participación en el atentado a la sede de la AMIA",
       "volanta": "JUICIO EN AUSENCIA",
       "date": "2026-09-21T21:23:42+00:00"
-    },
-    {
-      "id": "6d3429df",
-      "image": "img/6d3429df.png",
-      "image_sha": "7c9403587a6d0538d8136423720c9e331beac6f5",
-      "url": "https://www.radiodos.com.ar/214221-investigan-millonario-robo-a-una-radio-en-pleno-centro-de-corrientes",
-      "title": "Investigan millonario robo a una radio en pleno centro de Corrientes",
-      "volanta": "POCOS DATOS",
-      "date": "2026-09-21T21:23:04+00:00"
     }
   ]
 }
