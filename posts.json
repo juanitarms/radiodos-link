@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T11:25:30+00:00",
+  "updated": "2026-09-24T11:41:26+00:00",
   "posts": [
+    {
+      "id": "99c751a1",
+      "image": "img/99c751a1.png",
+      "image_sha": "d7f1ae1aec578d650ec32fe85e7b9815a68f4c8c",
+      "url": "https://www.radiodos.com.ar/214359-comenzo-el-pago-de-salarios-a-empleados-de-la-administracion-publica",
+      "title": "Comenzó el pago de salarios a empleados de  la administración pública",
+      "volanta": "HASTA EL  MIÉRCOLES 30",
+      "date": "2026-09-24T11:41:26+00:00"
+    },
     {
       "id": "1f895fa0",
       "image": "img/1f895fa0.png",
@@ -531,15 +540,6 @@
       "title": "El intendente Polich recorrió planta industrial y puso en valor el trabajo conjunto entre el sector público y privado",
       "volanta": "VISITA INSTITUCIONAL",
       "date": "2026-09-21T20:44:16+00:00"
-    },
-    {
-      "id": "b330732f",
-      "image": "img/b330732f.png",
-      "image_sha": "b0d8fed97d181df1046200c239bbfb88b06da463",
-      "url": "https://www.radiodos.com.ar/214219-nueva-sede-para-el-juzgado-federal-de-primera-instancia-de-corrientes",
-      "title": "Nueva sede para el Juzgado Federal de Primera Instancia de Corrientes",
-      "volanta": "Consejo de la Magistratura",
-      "date": "2026-09-21T20:43:43+00:00"
     }
   ]
 }
