@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T19:03:20+00:00",
+  "updated": "2026-09-24T20:50:45+00:00",
   "posts": [
+    {
+      "id": "3e7976e4",
+      "image": "img/3e7976e4.png",
+      "image_sha": "cf47ecbce02f552437ef3759503441bfd03fe52b",
+      "url": "https://www.radiodos.com.ar/214402-la-actividad-economica-cayo-un-29-respecto-a-junio",
+      "title": "La actividad económica cayó un 2,9% respecto a junio",
+      "volanta": "CRISIS",
+      "date": "2026-09-24T20:50:45+00:00"
+    },
     {
       "id": "d12494d8",
       "image": "img/d12494d8.png",
@@ -531,15 +540,6 @@
       "title": "Premios Oscar 2027: cuáles son las cuatro películas argentinas preseleccionadas",
       "volanta": "CINE",
       "date": "2026-09-22T13:30:01+00:00"
-    },
-    {
-      "id": "e1aba0b4",
-      "image": "img/e1aba0b4.png",
-      "image_sha": "78fa9f139620bac3ae8f291d086d96ea55e923e4",
-      "url": "https://www.radiodos.com.ar/214256-la-mama-de-tini-stoessel-reaparecio-en-redes-y-recibio-duras-criticas-que-hizo",
-      "title": "La mamá de Tini Stoessel reapareció en redes y recibió duras críticas: que hizo",
-      "volanta": "EN CONFLICTO",
-      "date": "2026-09-22T13:10:18+00:00"
     }
   ]
 }
