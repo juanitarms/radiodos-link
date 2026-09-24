@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T20:57:11+00:00",
+  "updated": "2026-09-24T21:06:03+00:00",
   "posts": [
+    {
+      "id": "4fe39b33",
+      "image": "img/4fe39b33.png",
+      "image_sha": "216c364c3d66df8d679b523620e4faeba4205571",
+      "url": "https://www.radiodos.com.ar/214407-crisis-citricola-en-el-nea-las-exportaciones-cayeron-a-menos-de-un-tercio-y-alertan-que-se-cae-la-micro",
+      "title": "Crisis citrícola en el NEA: las exportaciones cayeron a menos de un tercio y alertan que \"se cae la micro\"",
+      "volanta": "desplome",
+      "date": "2026-09-24T21:06:03+00:00"
+    },
     {
       "id": "3766d4d9",
       "image": "img/3766d4d9.png",
@@ -531,15 +540,6 @@
       "title": "El jueves comienza el pago de sueldos a la administración pública",
       "volanta": "Del mes de setiembre",
       "date": "2026-09-22T16:47:35+00:00"
-    },
-    {
-      "id": "3978cb4e",
-      "image": "img/3978cb4e.png",
-      "image_sha": "bd58634d701675dc2b9596362a01cdf67a06f3e0",
-      "url": "https://www.radiodos.com.ar/214258-maru-botana-publico-un-sentido-mensaje-en-un-nuevo-aniversario-de-la-muerte-de-su-hijo-le-diria-que",
-      "title": "Maru Botana publicó un sentido mensaje en un nuevo aniversario de la muerte de su hijo: \"Le diría que...\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-09-22T14:48:01+00:00"
     }
   ]
 }
