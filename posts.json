@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T20:56:34+00:00",
+  "updated": "2026-09-24T20:57:11+00:00",
   "posts": [
+    {
+      "id": "3766d4d9",
+      "image": "img/3766d4d9.png",
+      "image_sha": "3f15c4d61854749f92fbf6832cc66a0fffe8b155",
+      "url": "https://www.radiodos.com.ar/214404-detuvieron-a-ezequiel-cirigliano-tras-intentar-robarle-el-arma-a-un-policia",
+      "title": "Detuvieron a Ezequiel Cirigliano tras intentar robarle el arma a un policía",
+      "volanta": "EX JUGADOR DE RIVER",
+      "date": "2026-09-24T20:57:11+00:00"
+    },
     {
       "id": "1db2d507",
       "image": "img/1db2d507.png",
@@ -531,15 +540,6 @@
       "title": "Maru Botana publicó un sentido mensaje en un nuevo aniversario de la muerte de su hijo: \"Le diría que...\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-09-22T14:48:01+00:00"
-    },
-    {
-      "id": "7d94d040",
-      "image": "img/7d94d040.png",
-      "image_sha": "2e3918ca90b98f510c29863e4d8b2c825a105620",
-      "url": "https://www.radiodos.com.ar/214254-quien-es-hernan-bloquero-el-fan-de-sofia-gonet-que-habria-amenazado-de-muerte-a-homero-pettinato",
-      "title": "Quién es Hernán Bloquero, el \"fan\" de Sofía Gonet que habría amenazado de muerte a Homero Pettinato",
-      "volanta": "TERRIBLE",
-      "date": "2026-09-22T14:28:02+00:00"
     }
   ]
 }
