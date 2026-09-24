@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T17:20:39+00:00",
+  "updated": "2026-09-24T19:03:20+00:00",
   "posts": [
+    {
+      "id": "d12494d8",
+      "image": "img/d12494d8.png",
+      "image_sha": "b7f8adddee0c999ad64ee0c3cce567143a7838c2",
+      "url": "https://www.radiodos.com.ar/214397-ingeniero-de-la-unne-gano-un-concurso-nacional-de-ingenieria-por-un-innovador-desarrollo-estructural",
+      "title": "Ingeniero de la UNNE ganó un concurso nacional de ingeniería por un innovador desarrollo estructural",
+      "volanta": "VALORACIÓN NACIONAL",
+      "date": "2026-09-24T19:03:20+00:00"
+    },
     {
       "id": "11e2e263",
       "image": "img/11e2e263.png",
@@ -531,15 +540,6 @@
       "title": "La mamá de Tini Stoessel reapareció en redes y recibió duras críticas: que hizo",
       "volanta": "EN CONFLICTO",
       "date": "2026-09-22T13:10:18+00:00"
-    },
-    {
-      "id": "6a0c13fb",
-      "image": "img/6a0c13fb.png",
-      "image_sha": "f7e75393323043546e067b81a71e164f92142736",
-      "url": "https://www.radiodos.com.ar/214249-asi-sera-la-camiseta-que-usara-lionel-messi-en-su-despedida-de-la-seleccion-argentina",
-      "title": "Así será la camiseta que usará Lionel Messi en su despedida de la Selección Argentina",
-      "volanta": "AMISTOSO",
-      "date": "2026-09-22T12:53:50+00:00"
     }
   ]
 }
