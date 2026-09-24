@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T22:07:44+00:00",
+  "updated": "2026-09-24T11:07:43+00:00",
   "posts": [
+    {
+      "id": "0e1c8f6f",
+      "image": "img/0e1c8f6f.png",
+      "image_sha": "d5265b8681c66c859351ebff0207c751eb420568",
+      "url": "https://www.radiodos.com.ar/214357-corrientes-rinde-honor-a-su-santa-patrona-nuestra-senora-de-la-merced",
+      "title": "Corrientes rinde honor a su Santa Patrona, Nuestra Señora de la Merced",
+      "volanta": "ASUETO",
+      "date": "2026-09-24T11:07:43+00:00"
+    },
     {
       "id": "9ae864e0",
       "image": "img/9ae864e0.png",
@@ -531,15 +540,6 @@
       "title": "Operativo \"Papel Picado\": desmantelan una banda que falsificaba dólares y pesos",
       "volanta": "CÓRDOBA",
       "date": "2026-09-21T19:11:29+00:00"
-    },
-    {
-      "id": "7d2c3cdd",
-      "image": "img/7d2c3cdd.png",
-      "image_sha": "a3e450eed17cc0d5cddde94a8003ab279a346df9",
-      "url": "https://www.radiodos.com.ar/214210-corrientes-mostro-su-potencial-para-el-aviturismo-en-la-xv-feria-de-aves-de-sudamerica",
-      "title": "Corrientes mostró su potencial para el aviturismo en la XV Feria de Aves de Sudamérica",
-      "volanta": "PROMOCIÓN EN PARAGUAY",
-      "date": "2026-09-21T19:10:46+00:00"
     }
   ]
 }
