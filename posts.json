@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T14:32:13+00:00",
+  "updated": "2026-09-24T14:52:13+00:00",
   "posts": [
+    {
+      "id": "2eaece50",
+      "image": "img/2eaece50.png",
+      "image_sha": "6aad3aabaeb27db42817035bcd8b5f0d436874ef",
+      "url": "https://www.radiodos.com.ar/214388-en-el-dia-del-comparsero-homenajearon-a-quienes-hicieron-historia-en-el-carnaval-correntino",
+      "title": "En el Día del Comparsero, homenajearon a quienes hicieron historia en el carnaval correntino",
+      "volanta": "EN UNA FECHA RECORDADA",
+      "date": "2026-09-24T14:52:13+00:00"
+    },
     {
       "id": "7e8a728e",
       "image": "img/7e8a728e.png",
@@ -531,15 +540,6 @@
       "title": "El MDF Corrientes, presente en el Plenario Federal del Movimiento Derecho al Futuro",
       "volanta": "CAMINO AL 2027",
       "date": "2026-09-21T23:16:45+00:00"
-    },
-    {
-      "id": "6e9382e4",
-      "image": "img/6e9382e4.png",
-      "image_sha": "5de6133edc46184f281e2ed1924d357767414a6f",
-      "url": "https://www.radiodos.com.ar/214223-exito-en-santa-catalina-el-gran-premio-de-karting-de-corrientes-convoco-a-cientos-de-familias-y-mas-de-60-pilotos",
-      "title": "Éxito en Santa Catalina: el Gran Premio de Karting de Corrientes convocó a cientos de familias y más de 60 pilotos",
-      "volanta": "DEPORTE MOTOR",
-      "date": "2026-09-21T22:01:31+00:00"
     }
   ]
 }
