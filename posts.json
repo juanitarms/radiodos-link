@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T17:20:08+00:00",
+  "updated": "2026-09-24T17:20:39+00:00",
   "posts": [
+    {
+      "id": "11e2e263",
+      "image": "img/11e2e263.png",
+      "image_sha": "82ca57518a4276c378020c439a53fb6034fe7800",
+      "url": "https://www.radiodos.com.ar/214396-anmat-prohibio-un-peligroso-compuesto-para-bajar-de-peso",
+      "title": "ANMAT prohibió un peligroso compuesto para bajar de peso",
+      "volanta": "OFICIAL",
+      "date": "2026-09-24T17:20:39+00:00"
+    },
     {
       "id": "3ef90864",
       "image": "img/3ef90864.png",
@@ -531,15 +540,6 @@
       "title": "Así será la camiseta que usará Lionel Messi en su despedida de la Selección Argentina",
       "volanta": "AMISTOSO",
       "date": "2026-09-22T12:53:50+00:00"
-    },
-    {
-      "id": "993b6629",
-      "image": "img/993b6629.png",
-      "image_sha": "4ef79b04386c11629ca95847b581e9f73d4c9396",
-      "url": "https://www.radiodos.com.ar/214236-presupuesto-nacional-2027-corrientes-volvera-a-marchar-por-los-recortes-a-discapacidad",
-      "title": "Presupuesto Nacional 2027: Corrientes volverá a marchar por los recortes a Discapacidad",
-      "volanta": "Mañana",
-      "date": "2026-09-22T12:23:55+00:00"
     }
   ]
 }
