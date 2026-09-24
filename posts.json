@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:08:08+00:00",
+  "updated": "2026-09-24T23:09:30+00:00",
   "posts": [
+    {
+      "id": "fa8f4159",
+      "image": "img/fa8f4159.png",
+      "image_sha": "ab8e1f71f9909621121bc11abe4d893d1ff78972",
+      "url": "https://www.radiodos.com.ar/214406-no-me-mido-por-la-medalla-sino-por-como-me-senti-fisica-tecnicamente-y-como-estuvo-mi-rendimiento",
+      "title": "\"No me mido por la medalla sino por cómo me sentí física-técnicamente y cómo estuvo mi rendimiento\"",
+      "volanta": "Juegos Suramericanos",
+      "date": "2026-09-24T23:09:30+00:00"
+    },
     {
       "id": "a442e0db",
       "image": "img/a442e0db.png",
@@ -531,15 +540,6 @@
       "title": "los salarios subieron un 2,8% en julio y superaron levemente a la inflación",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-09-22T20:40:36+00:00"
-    },
-    {
-      "id": "7f6d47c3",
-      "image": "img/7f6d47c3.png",
-      "image_sha": "052d93453e6e22fea063563dbde0402cd72646b4",
-      "url": "https://www.radiodos.com.ar/214273-un-hospital-debera-pagar-11-millones-a-una-paciente-abusada-por-un-anestesiologo-durante-una-operacion",
-      "title": "Un hospital deberá pagar $11 millones a una paciente abusada por un anestesiólogo durante una operación",
-      "volanta": "JUSTICIA",
-      "date": "2026-09-22T18:35:25+00:00"
     }
   ]
 }
