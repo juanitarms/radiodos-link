@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T17:19:35+00:00",
+  "updated": "2026-09-24T17:20:08+00:00",
   "posts": [
+    {
+      "id": "3ef90864",
+      "image": "img/3ef90864.png",
+      "image_sha": "08f919296d75ce824295b6bf881059192cff9243",
+      "url": "https://www.radiodos.com.ar/214390-la-iglesia-presento-argentina-con-el-papa-la-cancion-oficial-para-la-visita-de-leon-xiv",
+      "title": "La Iglesia presentó \"Argentina con el Papa\", la canción oficial para la visita de León XIV",
+      "volanta": "MUY ESPERADA",
+      "date": "2026-09-24T17:20:08+00:00"
+    },
     {
       "id": "b9f30ca7",
       "image": "img/b9f30ca7.png",
@@ -531,15 +540,6 @@
       "title": "Presupuesto Nacional 2027: Corrientes volverá a marchar por los recortes a Discapacidad",
       "volanta": "Mañana",
       "date": "2026-09-22T12:23:55+00:00"
-    },
-    {
-      "id": "1f1e7fe8",
-      "image": "img/1f1e7fe8.png",
-      "image_sha": "e04c4643270e016c00a8740c5052ebce9466fbe6",
-      "url": "https://www.radiodos.com.ar/214235-atrapado-por-tercera-vez-en-un-mes-tras-robar-objetos-de-un-auto",
-      "title": "Atrapado por tercera vez en un mes, tras robar objetos de un auto",
-      "volanta": "DETENIDO",
-      "date": "2026-09-22T11:56:33+00:00"
     }
   ]
 }
