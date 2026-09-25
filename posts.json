@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T20:53:28+00:00",
+  "updated": "2026-09-25T21:01:26+00:00",
   "posts": [
+    {
+      "id": "9f8471d2",
+      "image": "img/9f8471d2.png",
+      "image_sha": "b45bbd8a9c3fb32de22657e8b7c161f593e3ab78",
+      "url": "https://www.radiodos.com.ar/214460-branz-presento-un-proyecto-para-instituir-el-dia-provincial-de-concientizacion-sobre-la-paralisis-cerebral",
+      "title": "Branz presentó un proyecto para instituir el Día Provincial de Concientización sobre la Parálisis Cerebral",
+      "volanta": "LEGISLATURA DE CORRIENTES",
+      "date": "2026-09-25T21:01:26+00:00"
+    },
     {
       "id": "2c2ecd8e",
       "image": "img/2c2ecd8e.png",
@@ -531,15 +540,6 @@
       "title": "Un chico de 16 años fue asesinado de un escopetazo y detuvieron a su padrastro: \"Estaban poseídos por el demonio\"",
       "volanta": "HORROR",
       "date": "2026-09-23T21:00:20+00:00"
-    },
-    {
-      "id": "28861af4",
-      "image": "img/28861af4.png",
-      "image_sha": "681909c5aabd14da81d9b992b91f4832d50d87ac",
-      "url": "https://www.radiodos.com.ar/214341-en-el-centenario-de-virasoro-jp-valdes-entrego-mas-de-600-notebooks-e-inauguro-cuadras-de-asfalto",
-      "title": "En el centenario de Virasoro, JP Valdés entregó más de 600 notebooks e inauguró cuadras de asfalto",
-      "volanta": "ANUNCIÓ MÁS OBRAS VIALES",
-      "date": "2026-09-23T20:37:35+00:00"
     }
   ]
 }
