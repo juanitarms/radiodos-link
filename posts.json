@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T11:47:41+00:00",
+  "updated": "2026-09-25T12:14:01+00:00",
   "posts": [
+    {
+      "id": "e56cb6e9",
+      "image": "img/e56cb6e9.png",
+      "image_sha": "bff519ceffffa1e48e482c43979e17ea2d8b054d",
+      "url": "https://www.radiodos.com.ar/214415-corrientes-volvio-a-rendir-su-homenaje-a-su-santa-patrona-nuestra-senora-de-la-merced",
+      "title": "Corrientes volvió a rendir su homenaje a su Santa Patrona, Nuestra Señora de la Merced",
+      "volanta": "FE Y DEVOCIÓN",
+      "date": "2026-09-25T12:14:01+00:00"
+    },
     {
       "id": "ade840c9",
       "image": "img/ade840c9.png",
@@ -531,15 +540,6 @@
       "title": "Ambientalistas del sur de Corrientes buscan frenar el impacto ambiental de la lluvia de cenizas y los olores de fábrica uruguaya de etanol",
       "volanta": "Monte Caseros - Bella Unión",
       "date": "2026-09-22T22:10:55+00:00"
-    },
-    {
-      "id": "9752c9a6",
-      "image": "img/9752c9a6.png",
-      "image_sha": "217c9cedbb9c5b33a88f106234ce9264eee5d540",
-      "url": "https://www.radiodos.com.ar/214286-el-rio-parana-alcanzo-su-nivel-mas-alto-del-ano-en-corriente",
-      "title": "El río Paraná alcanzó su nivel más alto del año en Corriente",
-      "volanta": "CRECIDA",
-      "date": "2026-09-22T22:08:26+00:00"
     }
   ]
 }
