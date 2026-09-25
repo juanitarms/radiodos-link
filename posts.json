@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T18:19:49+00:00",
+  "updated": "2026-09-25T18:20:24+00:00",
   "posts": [
+    {
+      "id": "4094a4be",
+      "image": "img/4094a4be.png",
+      "image_sha": "4a1a9dab961984da4739bff014e5d10e4a75c0bd",
+      "url": "https://www.radiodos.com.ar/214452-se-lanzo-la-campana-horticola-para-fortalecer-la-agricultura-familiar-y-la-economia-local",
+      "title": "Se lanzó la Campaña Hortícola para fortalecer la agricultura familiar y la economía local",
+      "volanta": "Primavera-Verano",
+      "date": "2026-09-25T18:20:24+00:00"
+    },
     {
       "id": "1470e1dc",
       "image": "img/1470e1dc.png",
@@ -531,15 +540,6 @@
       "title": "\"Las Malvinas son argentinas\": la réplica del canciller Pablo Quirno a Londres en la ONU",
       "volanta": "IMPORTANTE",
       "date": "2026-09-23T13:59:03+00:00"
-    },
-    {
-      "id": "cfb6fd4b",
-      "image": "img/cfb6fd4b.png",
-      "image_sha": "37ad4a535f7c203c57fa4d19b3bb42baebcad6e7",
-      "url": "https://www.radiodos.com.ar/214314-turismo-y-gastronomia-la-ciudad-sera-sede-de-una-feria-de-cafe-que-reunira-a-los-mejores-baristas-del-nea",
-      "title": "Turismo y gastronomía: la ciudad será sede de una feria de café que reunirá a los mejores baristas del NEA",
-      "volanta": "CUMBRE REGIONAL EN CORRIENTES",
-      "date": "2026-09-23T13:35:18+00:00"
     }
   ]
 }
