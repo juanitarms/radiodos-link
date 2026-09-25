@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T16:44:31+00:00",
+  "updated": "2026-09-25T16:45:04+00:00",
   "posts": [
+    {
+      "id": "09be1a9a",
+      "image": "img/09be1a9a.png",
+      "image_sha": "60a20a44de0b033c19f8b9dfb311aa7121d09b59",
+      "url": "https://www.radiodos.com.ar/214449-el-miercoles-30-iniciara-el-pago-de-sueldos-a-trabajadores-municipales",
+      "title": "El miércoles 30 iniciará el pago de sueldos a trabajadores municipales",
+      "volanta": "CRONOGRAMA",
+      "date": "2026-09-25T16:45:04+00:00"
+    },
     {
       "id": "d3d94ccb",
       "image": "img/d3d94ccb.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer fue demorada y secuestraron un destornillador, una escalera y una bici",
       "volanta": "GRIM IV",
       "date": "2026-09-23T12:48:37+00:00"
-    },
-    {
-      "id": "2bf0dd07",
-      "image": "img/2bf0dd07.png",
-      "image_sha": "fd2ad392eeafadfc9aabb2fff1210a3f76fa1b0e",
-      "url": "https://www.radiodos.com.ar/214299-sistema-penal-juvenil-aprueban-proyecto-de-capacitacion-y-sensibilizacion",
-      "title": "Sistema Penal Juvenil: aprueban proyecto de capacitación y sensibilización",
-      "volanta": "STJ",
-      "date": "2026-09-23T12:28:28+00:00"
     }
   ]
 }
