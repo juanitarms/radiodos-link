@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T20:45:18+00:00",
+  "updated": "2026-09-25T20:53:28+00:00",
   "posts": [
+    {
+      "id": "2c2ecd8e",
+      "image": "img/2c2ecd8e.png",
+      "image_sha": "b2b8294b71d0444e713a43f1b5fcb1166a6de6d1",
+      "url": "https://www.radiodos.com.ar/214461-aviones-caza-de-finlandia-y-suecia-interceptaron-aviones-de-guerra-rusos",
+      "title": "Aviones caza de Finlandia y Suecia interceptaron aviones de guerra rusos",
+      "volanta": "Máxima tensión",
+      "date": "2026-09-25T20:53:28+00:00"
+    },
     {
       "id": "96a3cb07",
       "image": "img/96a3cb07.png",
@@ -531,15 +540,6 @@
       "title": "En el centenario de Virasoro, JP Valdés entregó más de 600 notebooks e inauguró cuadras de asfalto",
       "volanta": "ANUNCIÓ MÁS OBRAS VIALES",
       "date": "2026-09-23T20:37:35+00:00"
-    },
-    {
-      "id": "19397f0f",
-      "image": "img/19397f0f.png",
-      "image_sha": "aea11bb9b84098b1b9a3456082e5c33c699c91c8",
-      "url": "https://www.radiodos.com.ar/214340-milei-califico-a-la-onu-de-inutil-y-casta-de-parasitos",
-      "title": "Milei calificó a la ONU de \"inútil\" y \"casta de parásitos\"",
-      "volanta": "DURO",
-      "date": "2026-09-23T20:37:00+00:00"
     }
   ]
 }
