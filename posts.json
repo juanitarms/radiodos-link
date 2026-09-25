@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T13:19:37+00:00",
+  "updated": "2026-09-25T13:52:34+00:00",
   "posts": [
+    {
+      "id": "4a150c93",
+      "image": "img/4a150c93.png",
+      "image_sha": "cfc6e60ba650371ad1fa6335760889d40c05c1c3",
+      "url": "https://www.radiodos.com.ar/214424-cronograma-semanal-operativo-de-garrafa-social",
+      "title": "Cronograma Semanal: Operativo de Garrafa Social",
+      "volanta": "Desarrollo social",
+      "date": "2026-09-25T13:52:34+00:00"
+    },
     {
       "id": "11847f47",
       "image": "img/11847f47.png",
@@ -531,15 +540,6 @@
       "title": "Secuestraron 60 cabezas de ganado en un allanamiento y demoraron a dos hombres",
       "volanta": "ALVEAR",
       "date": "2026-09-23T11:03:07+00:00"
-    },
-    {
-      "id": "7d8ff9f2",
-      "image": "img/7d8ff9f2.png",
-      "image_sha": "3fa259552e3273b20268995ca0874cd44c05b95d",
-      "url": "https://www.radiodos.com.ar/214293-en-un-barrio-de-corrientes-piden-uber-comida-rapida-y-terminan-robando-a-sus-victimas",
-      "title": "En un barrio de Corrientes, piden Uber, comida rápida y terminan robando a sus víctimas",
-      "volanta": "ALERTA",
-      "date": "2026-09-23T10:43:41+00:00"
     }
   ]
 }
