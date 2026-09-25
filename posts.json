@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T11:18:35+00:00",
+  "updated": "2026-09-25T11:47:41+00:00",
   "posts": [
+    {
+      "id": "ade840c9",
+      "image": "img/ade840c9.png",
+      "image_sha": "d20ef54d68bb260d00f1909f094063ac7c829500",
+      "url": "https://www.radiodos.com.ar/214416-corrientes-una-adolescente-fue-a-una-plaza-y-desaparecio",
+      "title": "Corrientes: una adolescente fue a una plaza y desapareció",
+      "volanta": "URGENTE",
+      "date": "2026-09-25T11:47:41+00:00"
+    },
     {
       "id": "e315eb53",
       "image": "img/e315eb53.png",
@@ -531,15 +540,6 @@
       "title": "El río Paraná alcanzó su nivel más alto del año en Corriente",
       "volanta": "CRECIDA",
       "date": "2026-09-22T22:08:26+00:00"
-    },
-    {
-      "id": "58f55c9e",
-      "image": "img/58f55c9e.png",
-      "image_sha": "a0897d419b3d384c227ba73f49a431d0d8c8b268",
-      "url": "https://www.radiodos.com.ar/214284-presupuesto-2027-larroza-advierte-que-el-aumento-del-32-para-la-unne-no-alcanza-a-cubrir-la-perdida-salarial",
-      "title": "Presupuesto 2027: Larroza advierte que el aumento del 32% para la UNNE no alcanza a cubrir la pérdida salarial",
-      "volanta": "CRISIS UNIVERSITARIA",
-      "date": "2026-09-22T22:06:11+00:00"
     }
   ]
 }
