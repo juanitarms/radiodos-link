@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T21:32:53+00:00",
+  "updated": "2026-09-25T21:33:26+00:00",
   "posts": [
+    {
+      "id": "eb76fc65",
+      "image": "img/eb76fc65.png",
+      "image_sha": "89e5c27c77d56c6487925c1d1979957e27183a42",
+      "url": "https://www.radiodos.com.ar/214464-los-vecinos-de-corrientes-eligen-10-fotos-finalistas-van-por-el-premio-del-concurso-la-ciudad-que-queremos-florece",
+      "title": "Los vecinos de Corrientes eligen: 10 fotos finalistas van por el premio del concurso \"La ciudad que queremos florece\"",
+      "volanta": "CULTURA Y AMBIENTE",
+      "date": "2026-09-25T21:33:26+00:00"
+    },
     {
       "id": "b8b36b15",
       "image": "img/b8b36b15.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: juntaba tacuaras para una fiesta escolar y murió electrocutado",
       "volanta": "FATALIDAD",
       "date": "2026-09-23T21:07:00+00:00"
-    },
-    {
-      "id": "59952e6e",
-      "image": "img/59952e6e.png",
-      "image_sha": "56144ffb83a21910e871efe77a8364cfe1606dd6",
-      "url": "https://www.radiodos.com.ar/214345-las-exportaciones-de-corrientes-alcanzaron-los-us-244-millones-en-los-primeros-ocho-meses-del-ano",
-      "title": "Las exportaciones de Corrientes alcanzaron los US$ 244 millones en los primeros ocho meses del año",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-09-23T21:06:29+00:00"
     }
   ]
 }
