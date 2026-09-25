@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T20:44:40+00:00",
+  "updated": "2026-09-25T20:45:18+00:00",
   "posts": [
+    {
+      "id": "96a3cb07",
+      "image": "img/96a3cb07.png",
+      "image_sha": "cbdfc944060af8dcc9b212fe0541cc89f605d8d7",
+      "url": "https://www.radiodos.com.ar/214457-ypf-confirmo-que-aumentara-la-nafta-y-el-gasoil-un-1-desde-este-sabado",
+      "title": "YPF confirmó que aumentará la nafta y el gasoil un 1% desde este sábado",
+      "volanta": "ENERGÍA",
+      "date": "2026-09-25T20:45:18+00:00"
+    },
     {
       "id": "24d330aa",
       "image": "img/24d330aa.png",
@@ -531,15 +540,6 @@
       "title": "Milei calificó a la ONU de \"inútil\" y \"casta de parásitos\"",
       "volanta": "DURO",
       "date": "2026-09-23T20:37:00+00:00"
-    },
-    {
-      "id": "7ebd80b9",
-      "image": "img/7ebd80b9.png",
-      "image_sha": "420795a44fff16b4db428b8ef560d59343511955",
-      "url": "https://www.radiodos.com.ar/214318-la-inesperada-decision-de-bautista-vicuna-que-sorprendio-a-sus-padres",
-      "title": "La inesperada decisión de Bautista Vicuña que sorprendió a sus padres",
-      "volanta": "SORPRESA",
-      "date": "2026-09-23T15:17:24+00:00"
     }
   ]
 }
