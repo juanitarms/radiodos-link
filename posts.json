@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T20:38:22+00:00",
+  "updated": "2026-09-25T20:44:40+00:00",
   "posts": [
+    {
+      "id": "24d330aa",
+      "image": "img/24d330aa.png",
+      "image_sha": "6d97eb5b306ec9726cda8b3f396312d2b03607f3",
+      "url": "https://www.radiodos.com.ar/214458-juegos-suramericanos-la-seleccion-argentina-sub-19-perdio-la-final-contra-paraguay-por-penales",
+      "title": "Juegos Suramericanos: La Selección argentina sub-19 perdió la final contra Paraguay por penales",
+      "volanta": "MEDALLA DE PLATA",
+      "date": "2026-09-25T20:44:40+00:00"
+    },
     {
       "id": "48cdaf35",
       "image": "img/48cdaf35.png",
@@ -531,15 +540,6 @@
       "title": "La inesperada decisión de Bautista Vicuña que sorprendió a sus padres",
       "volanta": "SORPRESA",
       "date": "2026-09-23T15:17:24+00:00"
-    },
-    {
-      "id": "6fe8c9d7",
-      "image": "img/6fe8c9d7.png",
-      "image_sha": "15ecdf7727efe5aec918111a7b5a78d5db4f5108",
-      "url": "https://www.radiodos.com.ar/214307-el-museo-del-carnaval-homenajea-a-los-comparseros-en-su-dia",
-      "title": "El Museo del Carnaval homenajea a los comparseros en su día",
-      "volanta": "ESTE MIÉRCOLES 23 DE SEPTIEMBRE",
-      "date": "2026-09-23T14:14:08+00:00"
     }
   ]
 }
