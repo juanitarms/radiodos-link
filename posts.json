@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T21:01:26+00:00",
+  "updated": "2026-09-25T21:03:01+00:00",
   "posts": [
+    {
+      "id": "ed2d2c03",
+      "image": "img/ed2d2c03.png",
+      "image_sha": "c0e8a819a58281f74c87f595764487ffc33a5336",
+      "url": "https://www.radiodos.com.ar/214462-turista-brasileno-denuncio-que-la-policia-le-cobro-una-multa-de-200-mil-pesos-en-el-puente-chaco-corrientes",
+      "title": "Turista brasileño denunció que la policía le cobró una \"multa\" de 200 mil pesos en el puente Chaco-Corrientes",
+      "volanta": "Supuesta extorsión",
+      "date": "2026-09-25T21:03:01+00:00"
+    },
     {
       "id": "9f8471d2",
       "image": "img/9f8471d2.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas en supermercados cayeron 2,1% interanual en julio",
       "volanta": "CRISIS EN EL CONSUMO",
       "date": "2026-09-23T21:00:51+00:00"
-    },
-    {
-      "id": "a14f3aef",
-      "image": "img/a14f3aef.png",
-      "image_sha": "2158e24e34c03523c96e839728168ef435870864",
-      "url": "https://www.radiodos.com.ar/214343-un-chico-de-16-anos-fue-asesinado-de-un-escopetazo-y-detuvieron-a-su-padrastro-estaban-poseidos-por-el-demonio",
-      "title": "Un chico de 16 años fue asesinado de un escopetazo y detuvieron a su padrastro: \"Estaban poseídos por el demonio\"",
-      "volanta": "HORROR",
-      "date": "2026-09-23T21:00:20+00:00"
     }
   ]
 }
