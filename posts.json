@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T13:52:34+00:00",
+  "updated": "2026-09-25T14:21:46+00:00",
   "posts": [
+    {
+      "id": "18def966",
+      "image": "img/18def966.png",
+      "image_sha": "761bbfe692ab152b738db1697adf2b330fab2947",
+      "url": "https://www.radiodos.com.ar/214438-ph-podemos-hablar-la-particular-mesa-que-armo-andy-kusnetzoff-para-este-sabado",
+      "title": "PH, Podemos Hablar: la particular mesa que armó Andy Kusnetzoff para este sábado",
+      "volanta": "TV ARGENTINA",
+      "date": "2026-09-25T14:21:46+00:00"
+    },
     {
       "id": "4a150c93",
       "image": "img/4a150c93.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por Loan: testigo declaró que tiró sus celulares a la basura y complicó a Caillava",
       "volanta": "DECLARACIÓN",
       "date": "2026-09-23T11:14:12+00:00"
-    },
-    {
-      "id": "fd2ede58",
-      "image": "img/fd2ede58.png",
-      "image_sha": "28d89c4fddd11b9beedd2591516dafc3507ddcc0",
-      "url": "https://www.radiodos.com.ar/214295-secuestraron-60-cabezas-de-ganado-en-un-allanamiento-y-demoraron-a-dos-hombres",
-      "title": "Secuestraron 60 cabezas de ganado en un allanamiento y demoraron a dos hombres",
-      "volanta": "ALVEAR",
-      "date": "2026-09-23T11:03:07+00:00"
     }
   ]
 }
