@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T21:03:01+00:00",
+  "updated": "2026-09-25T21:32:53+00:00",
   "posts": [
+    {
+      "id": "b8b36b15",
+      "image": "img/b8b36b15.png",
+      "image_sha": "cad6121e82d858b54a1f966c1c64af30feee6307",
+      "url": "https://www.radiodos.com.ar/214463-suspenden-los-descuentos-a-una-jubilada-victima-de-una-presunta-estafa-bancaria",
+      "title": "Suspenden los descuentos a una jubilada víctima de una presunta estafa bancaria",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-25T21:32:53+00:00"
+    },
     {
       "id": "ed2d2c03",
       "image": "img/ed2d2c03.png",
@@ -531,15 +540,6 @@
       "title": "Las exportaciones de Corrientes alcanzaron los US$ 244 millones en los primeros ocho meses del año",
       "volanta": "DATOS OFICIALES",
       "date": "2026-09-23T21:06:29+00:00"
-    },
-    {
-      "id": "3bf0c768",
-      "image": "img/3bf0c768.png",
-      "image_sha": "38ff0903e035906bb476041492ba345d8b4e3235",
-      "url": "https://www.radiodos.com.ar/214342-las-ventas-en-supermercados-cayeron-21-interanual-en-julio",
-      "title": "Las ventas en supermercados cayeron 2,1% interanual en julio",
-      "volanta": "CRISIS EN EL CONSUMO",
-      "date": "2026-09-23T21:00:51+00:00"
     }
   ]
 }
