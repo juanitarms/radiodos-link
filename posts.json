@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T18:20:24+00:00",
+  "updated": "2026-09-25T20:38:22+00:00",
   "posts": [
+    {
+      "id": "48cdaf35",
+      "image": "img/48cdaf35.png",
+      "image_sha": "4d1369dc19dc1e46f64cf1cc50a776f9a466176a",
+      "url": "https://www.radiodos.com.ar/214459-el-banco-de-corrientes-acompana-el-taragui-rock-2026-con-cuotas-sin-interes-para-la-compra-de-entradas",
+      "title": "El Banco de Corrientes acompaña el Taragüí Rock 2026 con cuotas sin interés para la compra de entradas",
+      "volanta": "PROMOCIÓN ESPECIAL",
+      "date": "2026-09-25T20:38:22+00:00"
+    },
     {
       "id": "4094a4be",
       "image": "img/4094a4be.png",
@@ -531,15 +540,6 @@
       "title": "El Museo del Carnaval homenajea a los comparseros en su día",
       "volanta": "ESTE MIÉRCOLES 23 DE SEPTIEMBRE",
       "date": "2026-09-23T14:14:08+00:00"
-    },
-    {
-      "id": "b1ef713f",
-      "image": "img/b1ef713f.png",
-      "image_sha": "3b78cc0292924a737015784f0f5a46ea2dbf675b",
-      "url": "https://www.radiodos.com.ar/214313-las-malvinas-son-argentinas-la-replica-del-canciller-pablo-quirno-a-londres-en-la-onu",
-      "title": "\"Las Malvinas son argentinas\": la réplica del canciller Pablo Quirno a Londres en la ONU",
-      "volanta": "IMPORTANTE",
-      "date": "2026-09-23T13:59:03+00:00"
     }
   ]
 }
