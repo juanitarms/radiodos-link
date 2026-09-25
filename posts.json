@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T18:19:13+00:00",
+  "updated": "2026-09-25T18:19:49+00:00",
   "posts": [
+    {
+      "id": "1470e1dc",
+      "image": "img/1470e1dc.png",
+      "image_sha": "ae8b38b0c7fd039f916f47e6f77614632ea308e1",
+      "url": "https://www.radiodos.com.ar/214451-juegos-correntinos-2026-concluyeron-con-exito-las-fases-provinciales-de-voley-ciclismo-y-gimnasia-artistica",
+      "title": "\"Juegos Correntinos 2026\": concluyeron con éxito las fases provinciales de Vóley, Ciclismo y Gimnasia Artística",
+      "volanta": "FINALES",
+      "date": "2026-09-25T18:19:49+00:00"
+    },
     {
       "id": "04d3ad65",
       "image": "img/04d3ad65.png",
@@ -531,15 +540,6 @@
       "title": "Turismo y gastronomía: la ciudad será sede de una feria de café que reunirá a los mejores baristas del NEA",
       "volanta": "CUMBRE REGIONAL EN CORRIENTES",
       "date": "2026-09-23T13:35:18+00:00"
-    },
-    {
-      "id": "609a743d",
-      "image": "img/609a743d.png",
-      "image_sha": "f442894d65758ffdac3164d761b4dcb67d235edb",
-      "url": "https://www.radiodos.com.ar/214304-buscan-nuevamente-a-un-adolescente-que-no-volvio-a-su-domicilio",
-      "title": "Buscan nuevamente a un adolescente que no volvió a su domicilio",
-      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
-      "date": "2026-09-23T13:12:04+00:00"
     }
   ]
 }
