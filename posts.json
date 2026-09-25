@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T16:45:04+00:00",
+  "updated": "2026-09-25T18:19:13+00:00",
   "posts": [
+    {
+      "id": "04d3ad65",
+      "image": "img/04d3ad65.png",
+      "image_sha": "d1177adce469efb2abbdee548c0491d4590ebb33",
+      "url": "https://www.radiodos.com.ar/214448-tucuman-tres-detenidos-y-seis-aeronaves-secuestradas-en-la-investigacion-por-470-kilos-de-cocaina",
+      "title": "Tucumán: Tres detenidos y seis aeronaves secuestradas en la investigación por 470 kilos de cocaína",
+      "volanta": "OPERATIVO",
+      "date": "2026-09-25T18:19:13+00:00"
+    },
     {
       "id": "09be1a9a",
       "image": "img/09be1a9a.png",
@@ -531,15 +540,6 @@
       "title": "Buscan nuevamente a un adolescente que no volvió a su domicilio",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-09-23T13:12:04+00:00"
-    },
-    {
-      "id": "9831f47e",
-      "image": "img/9831f47e.png",
-      "image_sha": "910c36328f6fee098960c2aa00430be2b7021845",
-      "url": "https://www.radiodos.com.ar/214305-una-mujer-fue-demorada-y-secuestraron-un-destornillador-una-escalera-y-una-bici",
-      "title": "Una mujer fue demorada y secuestraron un destornillador, una escalera y una bici",
-      "volanta": "GRIM IV",
-      "date": "2026-09-23T12:48:37+00:00"
     }
   ]
 }
