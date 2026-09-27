@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T15:19:55+00:00",
+  "updated": "2026-09-27T15:42:27+00:00",
   "posts": [
+    {
+      "id": "482bae0d",
+      "image": "img/482bae0d.png",
+      "image_sha": "86d58fabfa807a1d3701394aac8933d3b1964406",
+      "url": "https://www.radiodos.com.ar/214455-martin-villagran-apunto-a-que-el-equipo-trabaje-muy-duro-siempre-dando-un-paso-mas",
+      "title": "Martín Villagrán: \"Apunto a que el equipo trabaje muy duro, siempre dando un paso más\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-09-27T15:42:27+00:00"
+    },
     {
       "id": "0720df85",
       "image": "img/0720df85.png",
@@ -531,15 +540,6 @@
       "title": "Conocido motochorro fue detenido por venta de cocaína en su casa en Corrientes",
       "volanta": "BARRIO PIO X",
       "date": "2026-09-24T11:25:30+00:00"
-    },
-    {
-      "id": "0e1c8f6f",
-      "image": "img/0e1c8f6f.png",
-      "image_sha": "d5265b8681c66c859351ebff0207c751eb420568",
-      "url": "https://www.radiodos.com.ar/214357-corrientes-rinde-honor-a-su-santa-patrona-nuestra-senora-de-la-merced",
-      "title": "Corrientes rinde honor a su Santa Patrona, Nuestra Señora de la Merced",
-      "volanta": "ASUETO",
-      "date": "2026-09-24T11:07:43+00:00"
     }
   ]
 }
