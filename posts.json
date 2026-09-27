@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T15:04:04+00:00",
+  "updated": "2026-09-27T15:13:02+00:00",
   "posts": [
+    {
+      "id": "86ea74cc",
+      "image": "img/86ea74cc.png",
+      "image_sha": "3de55d63fc08320dc5914c2c7951e015ff1da8b8",
+      "url": "https://www.radiodos.com.ar/214505-calvano-hay-que-pelear-por-lo-necesario-para-corrientes",
+      "title": "Calvano: \"Hay que pelear por lo necesario para Corrientes\"",
+      "volanta": "DIPUTADO PROVINCIAL",
+      "date": "2026-09-27T15:13:02+00:00"
+    },
     {
       "id": "0fcdf7f0",
       "image": "img/0fcdf7f0.png",
@@ -531,15 +540,6 @@
       "title": "Imputaron a un hombre por instigar la toma de terrenos en el barrio Doctor Montaña",
       "volanta": "CORRIENTES",
       "date": "2026-09-23T22:07:44+00:00"
-    },
-    {
-      "id": "eba5e531",
-      "image": "img/eba5e531.png",
-      "image_sha": "ca2813df0ccc5e2cabfd6fb3a5a74b8f9ddcef1e",
-      "url": "https://www.radiodos.com.ar/214349-juegos-suramericanos-el-correntino-nacho-espinola-se-quedo-con-la-plata-en-taekwondo",
-      "title": "Juegos Suramericanos: el correntino Nacho Espínola se quedó con la Plata en Taekwondo",
-      "volanta": "ENORME",
-      "date": "2026-09-23T21:52:39+00:00"
     }
   ]
 }
