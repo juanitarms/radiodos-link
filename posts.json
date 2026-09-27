@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T17:32:38+00:00",
+  "updated": "2026-09-27T17:33:18+00:00",
   "posts": [
+    {
+      "id": "128e4f0e",
+      "image": "img/128e4f0e.png",
+      "image_sha": "f13468de7f38bdbd35a94ff5e5f4d377aca9f014",
+      "url": "https://www.radiodos.com.ar/214470-la-municipalidad-de-corrientes-suma-diversion-entretenimiento-y-deporte-para-disfrutar-el-fin-de-semana",
+      "title": "La Municipalidad de Corrientes suma diversión, entretenimiento y deporte para disfrutar el fin de semana",
+      "volanta": "MÚLTIPLES PROPUESTAS PARA LA FAMILIA",
+      "date": "2026-09-27T17:33:18+00:00"
+    },
     {
       "id": "a7538ac5",
       "image": "img/a7538ac5.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un adolescente que se fue de su casa y no regresó",
       "volanta": "PASO DE LA PATRIA",
       "date": "2026-09-24T12:50:50+00:00"
-    },
-    {
-      "id": "d96f6633",
-      "image": "img/d96f6633.png",
-      "image_sha": "b364e3b02b6c49a87912aeaed73bef940f7238b5",
-      "url": "https://www.radiodos.com.ar/214362-skene-estrena-dos-obras-infantiles-correntinas",
-      "title": "Skené estrena dos obras infantiles correntinas",
-      "volanta": "EL FIN DE SEMANA",
-      "date": "2026-09-24T12:19:41+00:00"
     }
   ]
 }
