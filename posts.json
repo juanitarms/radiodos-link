@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T20:45:38+00:00",
+  "updated": "2026-09-27T22:55:33+00:00",
   "posts": [
+    {
+      "id": "e8e921a5",
+      "image": "img/e8e921a5.png",
+      "image_sha": "9cd19b5f0b45598b9f34f29988b7a8bd5e89f8d5",
+      "url": "https://www.radiodos.com.ar/214477-docentes-de-todo-el-pais-convocados-por-amet-afianzaron-lazos-en-un-torneo",
+      "title": "Docentes de todo el país convocados por AMET afianzaron lazos en un torneo",
+      "volanta": "EXITOSO ENCUENTRO EN CORRIENTES",
+      "date": "2026-09-27T22:55:33+00:00"
+    },
     {
       "id": "718c76ad",
       "image": "img/718c76ad.png",
@@ -531,15 +540,6 @@
       "title": "En el Día del Comparsero, homenajearon a quienes hicieron historia en el carnaval correntino",
       "volanta": "EN UNA FECHA RECORDADA",
       "date": "2026-09-24T14:52:13+00:00"
-    },
-    {
-      "id": "7e8a728e",
-      "image": "img/7e8a728e.png",
-      "image_sha": "b08674a522ddf104aadf29defe63e8cc828e5bd3",
-      "url": "https://www.radiodos.com.ar/214385-la-decision-de-juana-viale-sobre-los-programas-de-mirtha-legrand-mientras-continua-internada",
-      "title": "La decisión de Juana Viale sobre los programas de Mirtha Legrand mientras continúa internada",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-09-24T14:32:13+00:00"
     }
   ]
 }
