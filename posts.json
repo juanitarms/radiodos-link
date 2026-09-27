@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T17:34:22+00:00",
+  "updated": "2026-09-27T17:34:50+00:00",
   "posts": [
+    {
+      "id": "502a4afd",
+      "image": "img/502a4afd.png",
+      "image_sha": "1123971e657d4d9439e866b9e87d0a5eba593cab",
+      "url": "https://www.radiodos.com.ar/214474-por-ruta-12-despisto-y-volco-un-conductor-que-viajaba-desde-goya-hacia-buenos-aires",
+      "title": "Por Ruta 12, despistó y volcó un conductor que viajaba desde Goya hacia Buenos Aires",
+      "volanta": "CERCA DE ESQUINA",
+      "date": "2026-09-27T17:34:50+00:00"
+    },
     {
       "id": "8161c666",
       "image": "img/8161c666.png",
@@ -531,15 +540,6 @@
       "title": "Corrupción en la Andis: Diego Spagnuolo confesó que la voz de los audios es suya",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-09-24T13:47:47+00:00"
-    },
-    {
-      "id": "caa1d9dc",
-      "image": "img/caa1d9dc.png",
-      "image_sha": "32df18ca523c7b88333a8de53ac5078d0c6e4381",
-      "url": "https://www.radiodos.com.ar/214377-comunicado-de-cancilleria-argentina-y-estados-unidos-lanzan-el-corredor-andes-atlantico",
-      "title": "Comunicado de Cancillería: Argentina y Estados Unidos lanzan el Corredor Andes-Atlántico",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-24T13:23:54+00:00"
     }
   ]
 }
