@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T17:33:18+00:00",
+  "updated": "2026-09-27T17:33:49+00:00",
   "posts": [
+    {
+      "id": "01901367",
+      "image": "img/01901367.png",
+      "image_sha": "63963867cdbec827a7b5d1c1ab9b79ba19bbcc98",
+      "url": "https://www.radiodos.com.ar/214468-planta-procesadora-de-madera-de-corrientes-triplica-su-capacidad-productiva",
+      "title": "Planta procesadora de madera de Corrientes triplica su capacidad productiva",
+      "volanta": "con el respaldo de la Provincia",
+      "date": "2026-09-27T17:33:49+00:00"
+    },
     {
       "id": "128e4f0e",
       "image": "img/128e4f0e.png",
@@ -531,15 +540,6 @@
       "title": "La Anmat prohibió la venta de todos los productos para bajar de peso que contengan una droga no autorizada",
       "volanta": "OFICIAL",
       "date": "2026-09-24T13:06:42+00:00"
-    },
-    {
-      "id": "d4d2ba2f",
-      "image": "img/d4d2ba2f.png",
-      "image_sha": "087943132e07663b65ab0d7fa42a8bbabfc18373",
-      "url": "https://www.radiodos.com.ar/214367-buscan-a-un-adolescente-que-se-fue-de-su-casa-y-no-regreso",
-      "title": "Buscan a un adolescente que se fue de su casa y no regresó",
-      "volanta": "PASO DE LA PATRIA",
-      "date": "2026-09-24T12:50:50+00:00"
     }
   ]
 }
