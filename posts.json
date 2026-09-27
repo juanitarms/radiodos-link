@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-26T17:18:11+00:00",
+  "updated": "2026-09-27T15:04:04+00:00",
   "posts": [
+    {
+      "id": "0fcdf7f0",
+      "image": "img/0fcdf7f0.png",
+      "image_sha": "dc7121773f6e08f87c18c99684780a2372c010c5",
+      "url": "https://www.radiodos.com.ar/214502-corrientes-se-muestra-al-mundo-en-la-gran-vidriera-del-turismo-internacional",
+      "title": "Corrientes se muestra al mundo en la gran vidriera del turismo internacional",
+      "volanta": "30° edición de la Feria de América Latina",
+      "date": "2026-09-27T15:04:04+00:00"
+    },
     {
       "id": "32a625fb",
       "image": "img/32a625fb.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Suramericanos: el correntino Nacho Espínola se quedó con la Plata en Taekwondo",
       "volanta": "ENORME",
       "date": "2026-09-23T21:52:39+00:00"
-    },
-    {
-      "id": "20747614",
-      "image": "img/20747614.png",
-      "image_sha": "82b20fee72e557d9c5657b5f6bd944f00a6465c0",
-      "url": "https://www.radiodos.com.ar/214348-la-jueza-que-sobreseyo-a-un-chico-de-14-anos-sostuvo-que-el-regimen-penal-juvenil-es-estigmatizante",
-      "title": "La jueza que sobreseyó a un chico de 14 años sostuvo que el Régimen Penal Juvenil es \"estigmatizante",
-      "volanta": "POSTURA FIRME",
-      "date": "2026-09-23T21:43:21+00:00"
     }
   ]
 }
