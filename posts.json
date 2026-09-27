@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T17:34:50+00:00",
+  "updated": "2026-09-27T20:45:38+00:00",
   "posts": [
+    {
+      "id": "718c76ad",
+      "image": "img/718c76ad.png",
+      "image_sha": "e8e2dd6226864371aa43ff235fdbb78c8655e25b",
+      "url": "https://www.radiodos.com.ar/214476-la-policia-de-corrientes-desactivo-banda-narco-en-goya",
+      "title": "La Policía de Corrientes desactivó \"banda narco\" en Goya",
+      "volanta": "TRES DETENIDOS",
+      "date": "2026-09-27T20:45:38+00:00"
+    },
     {
       "id": "502a4afd",
       "image": "img/502a4afd.png",
@@ -531,15 +540,6 @@
       "title": "La decisión de Juana Viale sobre los programas de Mirtha Legrand mientras continúa internada",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-09-24T14:32:13+00:00"
-    },
-    {
-      "id": "7c805c0c",
-      "image": "img/7c805c0c.png",
-      "image_sha": "9d379d5c6783091c8520395171f588bb11bdbeae",
-      "url": "https://www.radiodos.com.ar/214378-corrupcion-en-la-andis-diego-spagnuolo-confeso-que-la-voz-de-los-audios-es-suya",
-      "title": "Corrupción en la Andis: Diego Spagnuolo confesó que la voz de los audios es suya",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-09-24T13:47:47+00:00"
     }
   ]
 }
