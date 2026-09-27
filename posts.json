@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T15:43:07+00:00",
+  "updated": "2026-09-27T17:32:38+00:00",
   "posts": [
+    {
+      "id": "a7538ac5",
+      "image": "img/a7538ac5.png",
+      "image_sha": "0f677b5cd9aba2750dfcb3bf7b85320cf01c9844",
+      "url": "https://www.radiodos.com.ar/214467-la-policia-de-corrientes-separo-del-cargo-al-efectivo-que-habria-cobrado-una-multa-irregular-en-el-puente-general-belgrano",
+      "title": "La Policía de Corrientes separó del cargo al efectivo que habría cobrado una multa irregular en el puente General Belgrano",
+      "volanta": "RAPIDA RESPUESTA",
+      "date": "2026-09-27T17:32:38+00:00"
+    },
     {
       "id": "43bcb302",
       "image": "img/43bcb302.png",
@@ -531,15 +540,6 @@
       "title": "Skené estrena dos obras infantiles correntinas",
       "volanta": "EL FIN DE SEMANA",
       "date": "2026-09-24T12:19:41+00:00"
-    },
-    {
-      "id": "99c751a1",
-      "image": "img/99c751a1.png",
-      "image_sha": "d7f1ae1aec578d650ec32fe85e7b9815a68f4c8c",
-      "url": "https://www.radiodos.com.ar/214359-comenzo-el-pago-de-salarios-a-empleados-de-la-administracion-publica",
-      "title": "Comenzó el pago de salarios a empleados de  la administración pública",
-      "volanta": "HASTA EL  MIÉRCOLES 30",
-      "date": "2026-09-24T11:41:26+00:00"
     }
   ]
 }
