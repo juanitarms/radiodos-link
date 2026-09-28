@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T14:05:45+00:00",
+  "updated": "2026-09-28T14:21:14+00:00",
   "posts": [
+    {
+      "id": "ec15a603",
+      "image": "img/ec15a603.png",
+      "image_sha": "30fea0cb197ffc208592c207faf197a2cdef2719",
+      "url": "https://www.radiodos.com.ar/214532-escalofriante-peritaje-por-el-femicidio-de-agostina-vega-los-hallazgos-en-el-celular-de-claudio-barrelier",
+      "title": "Escalofriante peritaje por el femicidio de Agostina Vega: los hallazgos en el celular de Claudio Barrelier",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-09-28T14:21:14+00:00"
+    },
     {
       "id": "c7b99976",
       "image": "img/c7b99976.png",
@@ -531,15 +540,6 @@
       "title": "La actividad económica cayó un 2,9% respecto a junio",
       "volanta": "CRISIS",
       "date": "2026-09-24T20:50:45+00:00"
-    },
-    {
-      "id": "d12494d8",
-      "image": "img/d12494d8.png",
-      "image_sha": "b7f8adddee0c999ad64ee0c3cce567143a7838c2",
-      "url": "https://www.radiodos.com.ar/214397-ingeniero-de-la-unne-gano-un-concurso-nacional-de-ingenieria-por-un-innovador-desarrollo-estructural",
-      "title": "Ingeniero de la UNNE ganó un concurso nacional de ingeniería por un innovador desarrollo estructural",
-      "volanta": "VALORACIÓN NACIONAL",
-      "date": "2026-09-24T19:03:20+00:00"
     }
   ]
 }
