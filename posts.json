@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:18:18+00:00",
+  "updated": "2026-09-28T21:18:55+00:00",
   "posts": [
+    {
+      "id": "3b16118d",
+      "image": "img/3b16118d.png",
+      "image_sha": "a6cebc9a72155aa15e47e028b5357805d07ac2ad",
+      "url": "https://www.radiodos.com.ar/214562-malvinas-el-gobierno-inicia-un-arbitraje-internacional-contra-el-reino-unido-por-el-proyecto-sea-lion",
+      "title": "Malvinas: el Gobierno inicia un arbitraje internacional contra el Reino Unido por el proyecto Sea Lion",
+      "volanta": "anuncio oficial",
+      "date": "2026-09-28T21:18:55+00:00"
+    },
     {
       "id": "0b11af87",
       "image": "img/0b11af87.png",
@@ -531,15 +540,6 @@
       "title": "El Avispón Verde 2 ya circula por las calles de Corrientes",
       "volanta": "PREVENCIÓN",
       "date": "2026-09-25T11:18:35+00:00"
-    },
-    {
-      "id": "e474e10c",
-      "image": "img/e474e10c.png",
-      "image_sha": "ac1f597956514eacdeec4c01205b793bdb54beb5",
-      "url": "https://www.radiodos.com.ar/214413-subsidios-a-las-tarifas-del-gas-en-zonas-frias-que-cambia-y-que-localidades-perderan-el-beneficio",
-      "title": "Subsidios a las tarifas del gas en zonas frías: qué cambia y qué localidades perderán el beneficio",
-      "volanta": "LEY APROBADA",
-      "date": "2026-09-24T23:13:33+00:00"
     }
   ]
 }
