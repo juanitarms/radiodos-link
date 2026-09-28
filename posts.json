@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T11:19:02+00:00",
+  "updated": "2026-09-28T11:41:08+00:00",
   "posts": [
+    {
+      "id": "44625d42",
+      "image": "img/44625d42.png",
+      "image_sha": "fb04aa53d7a91e794c482d4549c445ff3793c8f0",
+      "url": "https://www.radiodos.com.ar/214520-otros-dos-comercios-planean-retirase-de-la-peatonal-de-corrientes",
+      "title": "Otros dos comercios planean retirase de la peatonal de Corrientes",
+      "volanta": "EXODO OBLIGADO",
+      "date": "2026-09-28T11:41:08+00:00"
+    },
     {
       "id": "b29c7a13",
       "image": "img/b29c7a13.png",
@@ -531,15 +540,6 @@
       "title": "El acosador de La Reini tiene antecedentes: qué pasa si no se presenta a la Justicia y cuánto podría ir preso",
       "volanta": "DELICADA SITUACIÓN",
       "date": "2026-09-24T16:25:48+00:00"
-    },
-    {
-      "id": "29c4ef4b",
-      "image": "img/29c4ef4b.png",
-      "image_sha": "9f6309d9e608e71dbc71cc4f5d1b7650445d6e73",
-      "url": "https://www.radiodos.com.ar/214381-avanza-el-proyecto-de-legajo-unico-digital-para-la-administracion-publica",
-      "title": "Avanza el proyecto de Legajo Único Digital para la Administración Pública",
-      "volanta": "Sesión 16",
-      "date": "2026-09-24T16:25:16+00:00"
     }
   ]
 }
