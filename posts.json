@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:50:18+00:00",
+  "updated": "2026-09-28T21:51:01+00:00",
   "posts": [
+    {
+      "id": "9c17670e",
+      "image": "img/9c17670e.png",
+      "image_sha": "e57af778c1f762ea0d8c5a68d448674593855dd8",
+      "url": "https://www.radiodos.com.ar/214569-el-subsidio-a-la-luz-arrancara-desde-el-1-de-noviembre",
+      "title": "El subsidio a la luz arrancará desde el 1 de noviembre",
+      "volanta": "nuevo esquema",
+      "date": "2026-09-28T21:51:01+00:00"
+    },
     {
       "id": "2cd1105d",
       "image": "img/2cd1105d.png",
@@ -531,15 +540,6 @@
       "title": "Identificaron qué especies de roedores circulan en el área del Barrio Santa Catalina",
       "volanta": "Nuevos Conocimientos",
       "date": "2026-09-25T13:19:37+00:00"
-    },
-    {
-      "id": "16c1b206",
-      "image": "img/16c1b206.png",
-      "image_sha": "ca60d6cfa56d5e0ccce2e1e2a90bcf5fba53e834",
-      "url": "https://www.radiodos.com.ar/214418-comenzo-campana-intensiva-de-vacunacion-contra-el-dengue-en-una-carpa-ubicada-en-plaza-vera",
-      "title": "Comenzó campaña intensiva de vacunación contra el Dengue en una carpa ubicada en plaza Vera",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-09-25T12:50:08+00:00"
     }
   ]
 }
