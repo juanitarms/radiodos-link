@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:15:57+00:00",
+  "updated": "2026-09-28T21:18:18+00:00",
   "posts": [
+    {
+      "id": "0b11af87",
+      "image": "img/0b11af87.png",
+      "image_sha": "1fddc27edce670c5c0837b80307d7d2d2d2c63e1",
+      "url": "https://www.radiodos.com.ar/214565-corrientes-se-arrojo-desde-un-balcon-para-atrapar-a-un-ladron-que-violento-su-vehiculo",
+      "title": "Corrientes: se arrojó desde un balcón para atrapar a un ladrón que violentó su vehículo",
+      "volanta": "BARRIO LOMAS DEL MIRADOR",
+      "date": "2026-09-28T21:18:18+00:00"
+    },
     {
       "id": "85994cf8",
       "image": "img/85994cf8.png",
@@ -531,15 +540,6 @@
       "title": "Subsidios a las tarifas del gas en zonas frías: qué cambia y qué localidades perderán el beneficio",
       "volanta": "LEY APROBADA",
       "date": "2026-09-24T23:13:33+00:00"
-    },
-    {
-      "id": "47aa7bf6",
-      "image": "img/47aa7bf6.png",
-      "image_sha": "e433d425fc00dd448aae99935d349a6cfbfa9bd4",
-      "url": "https://www.radiodos.com.ar/214412-corrientes-registra-un-41-de-la-poblacion-bajo-la-linea-de-pobreza",
-      "title": "Corrientes registra un 41% de la población bajo la línea de pobreza",
-      "volanta": "DATOS DEL INDEC",
-      "date": "2026-09-24T23:12:59+00:00"
     }
   ]
 }
