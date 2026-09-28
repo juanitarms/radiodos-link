@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T13:18:22+00:00",
+  "updated": "2026-09-28T13:42:22+00:00",
   "posts": [
+    {
+      "id": "7859560e",
+      "image": "img/7859560e.png",
+      "image_sha": "8dac4e51c69ba222c86bed9552d44a2ae0672147",
+      "url": "https://www.radiodos.com.ar/214536-el-detalle-oculto-de-la-infidelidad-de-mauro-icardi-con-la-china-suarez-que-involucro-a-wanda-nara",
+      "title": "El detalle oculto de la infidelidad de Mauro Icardi con la China Suárez que involucró a Wanda Nara",
+      "volanta": "EVIDENCIAS",
+      "date": "2026-09-28T13:42:22+00:00"
+    },
     {
       "id": "923ea280",
       "image": "img/923ea280.png",
@@ -531,15 +540,6 @@
       "title": "ANMAT prohibió un peligroso compuesto para bajar de peso",
       "volanta": "OFICIAL",
       "date": "2026-09-24T17:20:39+00:00"
-    },
-    {
-      "id": "3ef90864",
-      "image": "img/3ef90864.png",
-      "image_sha": "08f919296d75ce824295b6bf881059192cff9243",
-      "url": "https://www.radiodos.com.ar/214390-la-iglesia-presento-argentina-con-el-papa-la-cancion-oficial-para-la-visita-de-leon-xiv",
-      "title": "La Iglesia presentó \"Argentina con el Papa\", la canción oficial para la visita de León XIV",
-      "volanta": "MUY ESPERADA",
-      "date": "2026-09-24T17:20:08+00:00"
     }
   ]
 }
