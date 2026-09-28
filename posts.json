@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T22:56:07+00:00",
+  "updated": "2026-09-28T11:04:50+00:00",
   "posts": [
+    {
+      "id": "50b59b64",
+      "image": "img/50b59b64.png",
+      "image_sha": "b346d795545a3d34358fda0cd847d2b59d198bcf",
+      "url": "https://www.radiodos.com.ar/214515-las-conexiones-a-internet-en-corrientes-crecieron-29-en-el-segundo-trimestre",
+      "title": "Las conexiones a Internet en Corrientes crecieron 2,9% en el segundo trimestre",
+      "volanta": "Datos oficiales",
+      "date": "2026-09-28T11:04:50+00:00"
+    },
     {
       "id": "66ce9575",
       "image": "img/66ce9575.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre reclamó en Defensa del Consumidor y recuperó $27 millones de un plan de ahorro",
       "volanta": "San Isidro",
       "date": "2026-09-24T16:24:44+00:00"
-    },
-    {
-      "id": "0e2770cc",
-      "image": "img/0e2770cc.png",
-      "image_sha": "6b4587204a8803d42367bd957429520c4ca8268b",
-      "url": "https://www.radiodos.com.ar/214391-san-cosme-celebra-sus-fiestas-patronales-con-dos-noches-de-festivales",
-      "title": "San Cosme celebra sus Fiestas Patronales con dos noches de festivales",
-      "volanta": "ESTE FIN DE SEMANA",
-      "date": "2026-09-24T15:06:26+00:00"
     }
   ]
 }
