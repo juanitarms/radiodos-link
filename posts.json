@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T15:05:57+00:00",
+  "updated": "2026-09-28T17:38:03+00:00",
   "posts": [
+    {
+      "id": "a281e876",
+      "image": "img/a281e876.png",
+      "image_sha": "b7c702fb306e04d474370daf8e3800cce0a8c34d",
+      "url": "https://www.radiodos.com.ar/214546-juan-pablo-valdes-la-implementacion-de-zonas-calidas-nos-da-un-poco-de-justicia",
+      "title": "Juan Pablo Valdés: \"La implementación de 'zonas cálidas' nos da un poco de justicia\"",
+      "volanta": "DESDE RIACHUELO",
+      "date": "2026-09-28T17:38:03+00:00"
+    },
     {
       "id": "e6b27cbd",
       "image": "img/e6b27cbd.png",
@@ -531,15 +540,6 @@
       "title": "Crisis citrícola en el NEA: las exportaciones cayeron a menos de un tercio y alertan que \"se cae la micro\"",
       "volanta": "desplome",
       "date": "2026-09-24T21:06:03+00:00"
-    },
-    {
-      "id": "3766d4d9",
-      "image": "img/3766d4d9.png",
-      "image_sha": "3f15c4d61854749f92fbf6832cc66a0fffe8b155",
-      "url": "https://www.radiodos.com.ar/214404-detuvieron-a-ezequiel-cirigliano-tras-intentar-robarle-el-arma-a-un-policia",
-      "title": "Detuvieron a Ezequiel Cirigliano tras intentar robarle el arma a un policía",
-      "volanta": "EX JUGADOR DE RIVER",
-      "date": "2026-09-24T20:57:11+00:00"
     }
   ]
 }
