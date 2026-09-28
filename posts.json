@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T14:21:14+00:00",
+  "updated": "2026-09-28T14:40:31+00:00",
   "posts": [
+    {
+      "id": "c360daf2",
+      "image": "img/c360daf2.png",
+      "image_sha": "652f8bce57249d9d3eb35dcbda9375869cc5b6a3",
+      "url": "https://www.radiodos.com.ar/214539-yipio-recibio-una-propuesta-de-trabajo-inesperada-despues-de-gran-hermano-que-hara",
+      "title": "Yipio recibió una propuesta de trabajo inesperada después de Gran Hermano: qué hará",
+      "volanta": "GRAN OPORTUNIDAD",
+      "date": "2026-09-28T14:40:31+00:00"
+    },
     {
       "id": "ec15a603",
       "image": "img/ec15a603.png",
@@ -531,15 +540,6 @@
       "title": "La pobreza llegó al 32,3% en el primer semestre de 2026 en la Argentina",
       "volanta": "INDEC",
       "date": "2026-09-24T20:51:43+00:00"
-    },
-    {
-      "id": "3e7976e4",
-      "image": "img/3e7976e4.png",
-      "image_sha": "cf47ecbce02f552437ef3759503441bfd03fe52b",
-      "url": "https://www.radiodos.com.ar/214402-la-actividad-economica-cayo-un-29-respecto-a-junio",
-      "title": "La actividad económica cayó un 2,9% respecto a junio",
-      "volanta": "CRISIS",
-      "date": "2026-09-24T20:50:45+00:00"
     }
   ]
 }
