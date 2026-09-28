@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T12:46:16+00:00",
+  "updated": "2026-09-28T13:18:22+00:00",
   "posts": [
+    {
+      "id": "923ea280",
+      "image": "img/923ea280.png",
+      "image_sha": "eb987313a83c9b9f46da84d4fa3acbb09a0f15b5",
+      "url": "https://www.radiodos.com.ar/214535-tini-stoessel-sera-la-madrina-de-la-hija-de-un-futbolista",
+      "title": "Tini Stoessel será la madrina de la hija de un futbolista",
+      "volanta": "FELICIDADES",
+      "date": "2026-09-28T13:18:22+00:00"
+    },
     {
       "id": "c2fbdd00",
       "image": "img/c2fbdd00.png",
@@ -531,15 +540,6 @@
       "title": "La Iglesia presentó \"Argentina con el Papa\", la canción oficial para la visita de León XIV",
       "volanta": "MUY ESPERADA",
       "date": "2026-09-24T17:20:08+00:00"
-    },
-    {
-      "id": "b9f30ca7",
-      "image": "img/b9f30ca7.png",
-      "image_sha": "0a278f6f6d5ef02a26094be55342de28dadf9b15",
-      "url": "https://www.radiodos.com.ar/214386-marley-sufrio-un-fuerte-accidente-y-termino-en-el-hospital-no-puedo-mas-de-pelot",
-      "title": "Marley sufrió un fuerte accidente y terminó en el hospital: \"No puedo más de pelot...\"",
-      "volanta": "SORPRESA",
-      "date": "2026-09-24T17:19:35+00:00"
     }
   ]
 }
