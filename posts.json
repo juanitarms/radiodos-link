@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T13:42:22+00:00",
+  "updated": "2026-09-28T14:05:45+00:00",
   "posts": [
+    {
+      "id": "c7b99976",
+      "image": "img/c7b99976.png",
+      "image_sha": "e049919a223aa7ac09fe2c105e2899d8413411a3",
+      "url": "https://www.radiodos.com.ar/214542-las-ferias-de-la-ciudad-recorreran-espacios-y-plazas-publicas-con-multiples-ofertas",
+      "title": "Las Ferias de la Ciudad recorrerán espacios y plazas públicas con múltiples ofertas",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-09-28T14:05:45+00:00"
+    },
     {
       "id": "7859560e",
       "image": "img/7859560e.png",
@@ -531,15 +540,6 @@
       "title": "Ingeniero de la UNNE ganó un concurso nacional de ingeniería por un innovador desarrollo estructural",
       "volanta": "VALORACIÓN NACIONAL",
       "date": "2026-09-24T19:03:20+00:00"
-    },
-    {
-      "id": "11e2e263",
-      "image": "img/11e2e263.png",
-      "image_sha": "82ca57518a4276c378020c439a53fb6034fe7800",
-      "url": "https://www.radiodos.com.ar/214396-anmat-prohibio-un-peligroso-compuesto-para-bajar-de-peso",
-      "title": "ANMAT prohibió un peligroso compuesto para bajar de peso",
-      "volanta": "OFICIAL",
-      "date": "2026-09-24T17:20:39+00:00"
     }
   ]
 }
