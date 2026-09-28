@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:14:30+00:00",
+  "updated": "2026-09-28T21:15:57+00:00",
   "posts": [
+    {
+      "id": "85994cf8",
+      "image": "img/85994cf8.png",
+      "image_sha": "84dde545fd286fe513aa6382ec8d3a83d81347ea",
+      "url": "https://www.radiodos.com.ar/214561-salud-publica-de-corrienres-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública de Corrienres insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-09-28T21:15:57+00:00"
+    },
     {
       "id": "b1fa198e",
       "image": "img/b1fa198e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes registra un 41% de la población bajo la línea de pobreza",
       "volanta": "DATOS DEL INDEC",
       "date": "2026-09-24T23:12:59+00:00"
-    },
-    {
-      "id": "f396c7e6",
-      "image": "img/f396c7e6.png",
-      "image_sha": "f9c8da71ef95977c80d349ecd5c5e58e2f8dcd87",
-      "url": "https://www.radiodos.com.ar/214411-un-camion-cargado-con-abono-quedo-atascado-en-un-puente-del-interior-de-corrientes",
-      "title": "Un camión cargado con abono quedó atascado en un puente del interior de Corrientes",
-      "volanta": "CERCA DE YATAY TI CALLE",
-      "date": "2026-09-24T23:11:28+00:00"
     }
   ]
 }
