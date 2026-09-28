@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T17:38:03+00:00",
+  "updated": "2026-09-28T17:38:39+00:00",
   "posts": [
+    {
+      "id": "070ef11b",
+      "image": "img/070ef11b.png",
+      "image_sha": "893e2ef3dca78c0e475589b16412a8fd928eddd4",
+      "url": "https://www.radiodos.com.ar/214545-ezeiza-asesinaron-a-un-joven-de-un-piedrazo-a-la-salida-de-un-boliche",
+      "title": "Ezeiza: asesinaron a un joven de un piedrazo a la salida de un boliche",
+      "volanta": "VIOLENCIA",
+      "date": "2026-09-28T17:38:39+00:00"
+    },
     {
       "id": "a281e876",
       "image": "img/a281e876.png",
@@ -531,15 +540,6 @@
       "title": "Salarios: la dispersión docente supera el 200% en el país y Corrientes lidera los haberes en el NEA",
       "volanta": "DISPARIDAD",
       "date": "2026-09-24T23:04:25+00:00"
-    },
-    {
-      "id": "4fe39b33",
-      "image": "img/4fe39b33.png",
-      "image_sha": "216c364c3d66df8d679b523620e4faeba4205571",
-      "url": "https://www.radiodos.com.ar/214407-crisis-citricola-en-el-nea-las-exportaciones-cayeron-a-menos-de-un-tercio-y-alertan-que-se-cae-la-micro",
-      "title": "Crisis citrícola en el NEA: las exportaciones cayeron a menos de un tercio y alertan que \"se cae la micro\"",
-      "volanta": "desplome",
-      "date": "2026-09-24T21:06:03+00:00"
     }
   ]
 }
