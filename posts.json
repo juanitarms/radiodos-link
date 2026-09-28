@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:51:01+00:00",
+  "updated": "2026-09-28T21:51:40+00:00",
   "posts": [
+    {
+      "id": "77535088",
+      "image": "img/77535088.png",
+      "image_sha": "2337e3bd069ee363c98f076f0863c4f43e3241ca",
+      "url": "https://www.radiodos.com.ar/214568-san-miguel-impulsa-su-turismo-en-la-fit-2026-en-visperas-de-sus-fiestas-patronales",
+      "title": "San Miguel impulsa su turismo en la FIT 2026 en vísperas de sus Fiestas Patronales",
+      "volanta": "TURISMO",
+      "date": "2026-09-28T21:51:40+00:00"
+    },
     {
       "id": "9c17670e",
       "image": "img/9c17670e.png",
@@ -531,15 +540,6 @@
       "title": "Cronograma Semanal: Operativo de Garrafa Social",
       "volanta": "Desarrollo social",
       "date": "2026-09-25T13:52:34+00:00"
-    },
-    {
-      "id": "11847f47",
-      "image": "img/11847f47.png",
-      "image_sha": "5f5654256f9cd863a208fc0e29428647f2c32cbd",
-      "url": "https://www.radiodos.com.ar/214421-identificaron-que-especies-de-roedores-circulan-en-el-area-del-barrio-santa-catalina",
-      "title": "Identificaron qué especies de roedores circulan en el área del Barrio Santa Catalina",
-      "volanta": "Nuevos Conocimientos",
-      "date": "2026-09-25T13:19:37+00:00"
     }
   ]
 }
