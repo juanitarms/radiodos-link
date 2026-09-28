@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:20:04+00:00",
+  "updated": "2026-09-28T21:20:41+00:00",
   "posts": [
+    {
+      "id": "a0000e0b",
+      "image": "img/a0000e0b.png",
+      "image_sha": "df8b18f150a91b4cea1f3077f53212f27b97b6ca",
+      "url": "https://www.radiodos.com.ar/214567-juan-pablo-vojvoda-dejara-de-ser-el-entrenador-de-racing",
+      "title": "Juan Pablo Vojvoda dejará de ser el entrenador de Racing",
+      "volanta": "Tras la dura derrota ante Boca",
+      "date": "2026-09-28T21:20:41+00:00"
+    },
     {
       "id": "65deca91",
       "image": "img/65deca91.png",
@@ -531,15 +540,6 @@
       "title": "Un enorme búho apareció frente a una casa en localidad de Corrientes",
       "volanta": "ÑACURUTU",
       "date": "2026-09-25T12:30:11+00:00"
-    },
-    {
-      "id": "e56cb6e9",
-      "image": "img/e56cb6e9.png",
-      "image_sha": "bff519ceffffa1e48e482c43979e17ea2d8b054d",
-      "url": "https://www.radiodos.com.ar/214415-corrientes-volvio-a-rendir-su-homenaje-a-su-santa-patrona-nuestra-senora-de-la-merced",
-      "title": "Corrientes volvió a rendir su homenaje a su Santa Patrona, Nuestra Señora de la Merced",
-      "volanta": "FE Y DEVOCIÓN",
-      "date": "2026-09-25T12:14:01+00:00"
     }
   ]
 }
