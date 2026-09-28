@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:20:41+00:00",
+  "updated": "2026-09-28T21:50:18+00:00",
   "posts": [
+    {
+      "id": "2cd1105d",
+      "image": "img/2cd1105d.png",
+      "image_sha": "97ec6aca99aaa5e9498268f708db7d01ed68e6d3",
+      "url": "https://www.radiodos.com.ar/214566-anuncian-un-martes-con-tormentas-y-descenso-de-temperatura-en-corrientes",
+      "title": "Anuncian un martes con tormentas y descenso de temperatura en Corrientes",
+      "volanta": "ALIVIO TRAS EL INTENSO CALOR",
+      "date": "2026-09-28T21:50:18+00:00"
+    },
     {
       "id": "a0000e0b",
       "image": "img/a0000e0b.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó campaña intensiva de vacunación contra el Dengue en una carpa ubicada en plaza Vera",
       "volanta": "PREVENCIÓN",
       "date": "2026-09-25T12:50:08+00:00"
-    },
-    {
-      "id": "d9079a4a",
-      "image": "img/d9079a4a.png",
-      "image_sha": "38af8bd2abf90a543c2f91385dba546d96801a48",
-      "url": "https://www.radiodos.com.ar/214417-un-enorme-buho-aparecio-frente-a-una-casa-en-localidad-de-corrientes",
-      "title": "Un enorme búho apareció frente a una casa en localidad de Corrientes",
-      "volanta": "ÑACURUTU",
-      "date": "2026-09-25T12:30:11+00:00"
     }
   ]
 }
