@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T18:36:43+00:00",
+  "updated": "2026-09-28T18:37:17+00:00",
   "posts": [
+    {
+      "id": "05ec6155",
+      "image": "img/05ec6155.png",
+      "image_sha": "e9f6ac16c0700a75831f712b1b90665490a1dc1c",
+      "url": "https://www.radiodos.com.ar/214557-tiago-pzk-y-la-joaqui-confirmaron-su-romance-con-una-foto-que-termino-con-las-dudas",
+      "title": "Tiago PZK y La Joaqui confirmaron su romance con una foto que terminó con las dudas",
+      "volanta": "MUY JUNTOS",
+      "date": "2026-09-28T18:37:17+00:00"
+    },
     {
       "id": "6c9ebf9a",
       "image": "img/6c9ebf9a.png",
@@ -531,15 +540,6 @@
       "title": "\"No me mido por la medalla sino por cómo me sentí física-técnicamente y cómo estuvo mi rendimiento\"",
       "volanta": "Juegos Suramericanos",
       "date": "2026-09-24T23:09:30+00:00"
-    },
-    {
-      "id": "a442e0db",
-      "image": "img/a442e0db.png",
-      "image_sha": "083ec82980ee74182f0a6f0c3a671a2ce0945528",
-      "url": "https://www.radiodos.com.ar/214405-murio-en-corrientes-el-doctor-jorge-alberto-braverman-referente-de-la-neurologia-infantil",
-      "title": "Murió en Corrientes el doctor Jorge Alberto Braverman, referente de la neurología infantil",
-      "volanta": "DUELO",
-      "date": "2026-09-24T23:08:08+00:00"
     }
   ]
 }
