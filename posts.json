@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T17:38:39+00:00",
+  "updated": "2026-09-28T17:39:10+00:00",
   "posts": [
+    {
+      "id": "ed86d557",
+      "image": "img/ed86d557.png",
+      "image_sha": "55c7f6411038b3449c92ca222472ccd5ff7e3714",
+      "url": "https://www.radiodos.com.ar/214544-lisandro-almiron-hoy-estamos-con-la-cabeza-puesta-en-hacer-lo-mejor-en-no-volver-al-pasado",
+      "title": "Lisandro Almirón: \"Hoy estamos con la cabeza puesta en hacer lo mejor, en no volver al pasado\"",
+      "volanta": "LA LIBERTAD AVANZA",
+      "date": "2026-09-28T17:39:10+00:00"
+    },
     {
       "id": "070ef11b",
       "image": "img/070ef11b.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran dos caballos, una moto y un carro en un operativo contra el cuatrerismo",
       "volanta": "BARRIO DOCTOR MONTAÑA",
       "date": "2026-09-24T23:04:57+00:00"
-    },
-    {
-      "id": "fdb8efaf",
-      "image": "img/fdb8efaf.png",
-      "image_sha": "9d0ccd62078c08ebd3d48f109ed471e8c15241c7",
-      "url": "https://www.radiodos.com.ar/214410-salarios-la-dispersion-docente-supera-el-200-en-el-pais-y-corrientes-lidera-los-haberes-en-el-nea",
-      "title": "Salarios: la dispersión docente supera el 200% en el país y Corrientes lidera los haberes en el NEA",
-      "volanta": "DISPARIDAD",
-      "date": "2026-09-24T23:04:25+00:00"
     }
   ]
 }
