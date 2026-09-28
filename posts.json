@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T18:35:57+00:00",
+  "updated": "2026-09-28T18:36:43+00:00",
   "posts": [
+    {
+      "id": "6c9ebf9a",
+      "image": "img/6c9ebf9a.png",
+      "image_sha": "e72c4ea79ac0536174c275ffb610758cd88528df",
+      "url": "https://www.radiodos.com.ar/214549-paso-la-octava-de-la-liga-provincial-de-mayores-2026",
+      "title": "Pasó la octava de la Liga Provincial de Mayores 2026",
+      "volanta": "BÁSQUET",
+      "date": "2026-09-28T18:36:43+00:00"
+    },
     {
       "id": "5d7d132c",
       "image": "img/5d7d132c.png",
@@ -531,15 +540,6 @@
       "title": "Murió en Corrientes el doctor Jorge Alberto Braverman, referente de la neurología infantil",
       "volanta": "DUELO",
       "date": "2026-09-24T23:08:08+00:00"
-    },
-    {
-      "id": "e3dc1042",
-      "image": "img/e3dc1042.png",
-      "image_sha": "a576aa293b037d9146b293f61b5302476ee42a21",
-      "url": "https://www.radiodos.com.ar/214409-es-neuquino-vive-en-corrientes-y-gano-la-medalla-de-oro-en-los-suramericanos-en-taekwondo",
-      "title": "Es neuquino, vive en Corrientes y ganó la medalla de Oro en los Suramericanos en taekwondo",
-      "volanta": "SANTA FE 2026",
-      "date": "2026-09-24T23:06:53+00:00"
     }
   ]
 }
