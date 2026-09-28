@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T18:37:17+00:00",
+  "updated": "2026-09-28T21:14:30+00:00",
   "posts": [
+    {
+      "id": "b1fa198e",
+      "image": "img/b1fa198e.png",
+      "image_sha": "ad531cb5dcecf6b02898dca4830c0cfd660cdc0b",
+      "url": "https://www.radiodos.com.ar/214560-el-gobernador-jp-valdes-acompano-a-riachuelo-en-su-86-aniversario-y-anuncio-la-construccion-de-un-polideportivo",
+      "title": "El gobernador JP Valdés acompañó a Riachuelo en su 86º aniversario y anunció la construcción de un polideportivo",
+      "volanta": "MÁS DE 8 DÉCADAS DE HISTORIA Y DESARROLLO",
+      "date": "2026-09-28T21:14:30+00:00"
+    },
     {
       "id": "05ec6155",
       "image": "img/05ec6155.png",
@@ -531,15 +540,6 @@
       "title": "Un camión cargado con abono quedó atascado en un puente del interior de Corrientes",
       "volanta": "CERCA DE YATAY TI CALLE",
       "date": "2026-09-24T23:11:28+00:00"
-    },
-    {
-      "id": "fa8f4159",
-      "image": "img/fa8f4159.png",
-      "image_sha": "ab8e1f71f9909621121bc11abe4d893d1ff78972",
-      "url": "https://www.radiodos.com.ar/214406-no-me-mido-por-la-medalla-sino-por-como-me-senti-fisica-tecnicamente-y-como-estuvo-mi-rendimiento",
-      "title": "\"No me mido por la medalla sino por cómo me sentí física-técnicamente y cómo estuvo mi rendimiento\"",
-      "volanta": "Juegos Suramericanos",
-      "date": "2026-09-24T23:09:30+00:00"
     }
   ]
 }
