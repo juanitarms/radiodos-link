@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T11:04:50+00:00",
+  "updated": "2026-09-28T11:19:02+00:00",
   "posts": [
+    {
+      "id": "b29c7a13",
+      "image": "img/b29c7a13.png",
+      "image_sha": "7a533c3ca1d72ec532587c07724259c453a5f140",
+      "url": "https://www.radiodos.com.ar/214517-balacera-y-amenazas-tras-una-fiesta-en-un-barrio-de-corrientes",
+      "title": "Balacera y amenazas tras una fiesta en un barrio de Corrientes",
+      "volanta": "CINCO DETENIDOS",
+      "date": "2026-09-28T11:19:02+00:00"
+    },
     {
       "id": "50b59b64",
       "image": "img/50b59b64.png",
@@ -531,15 +540,6 @@
       "title": "Avanza el proyecto de Legajo Único Digital para la Administración Pública",
       "volanta": "Sesión 16",
       "date": "2026-09-24T16:25:16+00:00"
-    },
-    {
-      "id": "436c7e33",
-      "image": "img/436c7e33.png",
-      "image_sha": "b45e7e9d700b16ddbe762a39a1cf5475a52a875d",
-      "url": "https://www.radiodos.com.ar/214380-un-hombre-reclamo-en-defensa-del-consumidor-y-recupero-27-millones-de-un-plan-de-ahorro",
-      "title": "Un hombre reclamó en Defensa del Consumidor y recuperó $27 millones de un plan de ahorro",
-      "volanta": "San Isidro",
-      "date": "2026-09-24T16:24:44+00:00"
     }
   ]
 }
