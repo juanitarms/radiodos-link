@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T14:40:31+00:00",
+  "updated": "2026-09-28T14:50:03+00:00",
   "posts": [
+    {
+      "id": "b3b0c679",
+      "image": "img/b3b0c679.png",
+      "image_sha": "bd2a72d767143b3efe49481c5a10318cc051c5bc",
+      "url": "https://www.radiodos.com.ar/214541-preocupacion-por-la-salud-de-daniel-osvaldo-que-dijeron-sus-familiares",
+      "title": "Preocupación por la salud de Daniel Osvaldo: qué dijeron sus familiares",
+      "volanta": "DE CUIDADO",
+      "date": "2026-09-28T14:50:03+00:00"
+    },
     {
       "id": "c360daf2",
       "image": "img/c360daf2.png",
@@ -531,15 +540,6 @@
       "title": "Robo a LT7: la Policía de Corrientes informó que hay un pedido de detención para una persona",
       "volanta": "IDENTIFICADO",
       "date": "2026-09-24T20:56:34+00:00"
-    },
-    {
-      "id": "3edeccaf",
-      "image": "img/3edeccaf.png",
-      "image_sha": "5ade8c1678dcae496b99c3e7f52fa9a418b0d1b5",
-      "url": "https://www.radiodos.com.ar/214401-la-pobreza-llego-al-323-en-el-primer-semestre-de-2026-en-la-argentina",
-      "title": "La pobreza llegó al 32,3% en el primer semestre de 2026 en la Argentina",
-      "volanta": "INDEC",
-      "date": "2026-09-24T20:51:43+00:00"
     }
   ]
 }
