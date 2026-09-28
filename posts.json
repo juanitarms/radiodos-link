@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T17:39:10+00:00",
+  "updated": "2026-09-28T18:35:57+00:00",
   "posts": [
+    {
+      "id": "5d7d132c",
+      "image": "img/5d7d132c.png",
+      "image_sha": "535af897d688c25e069ba0152a6376c61b8f7684",
+      "url": "https://www.radiodos.com.ar/214547-dos-campeonas-de-equitacion-disputaran-la-final-en-cordoba-representando-a-corrientes",
+      "title": "Dos campeonas de equitación disputarán la final en Córdoba, representando a Corrientes",
+      "volanta": "MARTINA ZAMPA Y AZUL LUQUE",
+      "date": "2026-09-28T18:35:57+00:00"
+    },
     {
       "id": "ed86d557",
       "image": "img/ed86d557.png",
@@ -531,15 +540,6 @@
       "title": "Es neuquino, vive en Corrientes y ganó la medalla de Oro en los Suramericanos en taekwondo",
       "volanta": "SANTA FE 2026",
       "date": "2026-09-24T23:06:53+00:00"
-    },
-    {
-      "id": "c09675b6",
-      "image": "img/c09675b6.png",
-      "image_sha": "eb28d7f346760e3f4a849e2b2415dcaefaa0572e",
-      "url": "https://www.radiodos.com.ar/214408-secuestran-dos-caballos-una-moto-y-un-carro-en-un-operativo-contra-el-cuatrerismo",
-      "title": "Secuestran dos caballos, una moto y un carro en un operativo contra el cuatrerismo",
-      "volanta": "BARRIO DOCTOR MONTAÑA",
-      "date": "2026-09-24T23:04:57+00:00"
     }
   ]
 }
