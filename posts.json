@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T21:51:40+00:00",
+  "updated": "2026-09-28T23:24:04+00:00",
   "posts": [
+    {
+      "id": "c6122e8c",
+      "image": "img/c6122e8c.png",
+      "image_sha": "66912153f5ad929ed75808cc18c0f6e1f01d91b3",
+      "url": "https://www.radiodos.com.ar/214571-pity-alvarez-intento-escaparse-del-hospital-donde-esta-internado-y-suspendieron-la-audiencia-del-juicio",
+      "title": "Pity Álvarez intentó escaparse del hospital donde está internado y suspendieron la audiencia del juicio",
+      "volanta": "PREOCUPACIÓN",
+      "date": "2026-09-28T23:24:04+00:00"
+    },
     {
       "id": "77535088",
       "image": "img/77535088.png",
@@ -531,15 +540,6 @@
       "title": "PH, Podemos Hablar: la particular mesa que armó Andy Kusnetzoff para este sábado",
       "volanta": "TV ARGENTINA",
       "date": "2026-09-25T14:21:46+00:00"
-    },
-    {
-      "id": "4a150c93",
-      "image": "img/4a150c93.png",
-      "image_sha": "cfc6e60ba650371ad1fa6335760889d40c05c1c3",
-      "url": "https://www.radiodos.com.ar/214424-cronograma-semanal-operativo-de-garrafa-social",
-      "title": "Cronograma Semanal: Operativo de Garrafa Social",
-      "volanta": "Desarrollo social",
-      "date": "2026-09-25T13:52:34+00:00"
     }
   ]
 }
