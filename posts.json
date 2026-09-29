@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T14:00:32+00:00",
+  "updated": "2026-09-29T14:18:36+00:00",
   "posts": [
+    {
+      "id": "e8186049",
+      "image": "img/e8186049.png",
+      "image_sha": "c495f9d9dbf325fdad609947888050ba744489b4",
+      "url": "https://www.radiodos.com.ar/214599-hallaron-muerto-al-senador-juan-carlos-pagotto-en-su-casa-de-la-rioja",
+      "title": "Hallaron muerto al senador Juan Carlos Pagotto en su casa de La Rioja",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-09-29T14:18:36+00:00"
+    },
     {
       "id": "d83799e2",
       "image": "img/d83799e2.png",
@@ -531,15 +540,6 @@
       "title": "Turista brasileño denunció que la policía le cobró una \"multa\" de 200 mil pesos en el puente Chaco-Corrientes",
       "volanta": "Supuesta extorsión",
       "date": "2026-09-25T21:03:01+00:00"
-    },
-    {
-      "id": "9f8471d2",
-      "image": "img/9f8471d2.png",
-      "image_sha": "b45bbd8a9c3fb32de22657e8b7c161f593e3ab78",
-      "url": "https://www.radiodos.com.ar/214460-branz-presento-un-proyecto-para-instituir-el-dia-provincial-de-concientizacion-sobre-la-paralisis-cerebral",
-      "title": "Branz presentó un proyecto para instituir el Día Provincial de Concientización sobre la Parálisis Cerebral",
-      "volanta": "LEGISLATURA DE CORRIENTES",
-      "date": "2026-09-25T21:01:26+00:00"
     }
   ]
 }
