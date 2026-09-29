@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T12:31:28+00:00",
+  "updated": "2026-09-29T12:46:55+00:00",
   "posts": [
+    {
+      "id": "8319c1c2",
+      "image": "img/8319c1c2.png",
+      "image_sha": "795722c7f63ff2c6fd3ab385c8fabfbe517b9f70",
+      "url": "https://www.radiodos.com.ar/214579-nacion-pone-en-marcha-el-programa-bienestar-emocional-en-escuelas",
+      "title": "Nación pone en marcha el Programa Bienestar Emocional en Escuelas",
+      "volanta": "SALUD MENTAL",
+      "date": "2026-09-29T12:46:55+00:00"
+    },
     {
       "id": "10a79022",
       "image": "img/10a79022.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Suramericanos: La Selección argentina sub-19 perdió la final contra Paraguay por penales",
       "volanta": "MEDALLA DE PLATA",
       "date": "2026-09-25T20:44:40+00:00"
-    },
-    {
-      "id": "48cdaf35",
-      "image": "img/48cdaf35.png",
-      "image_sha": "4d1369dc19dc1e46f64cf1cc50a776f9a466176a",
-      "url": "https://www.radiodos.com.ar/214459-el-banco-de-corrientes-acompana-el-taragui-rock-2026-con-cuotas-sin-interes-para-la-compra-de-entradas",
-      "title": "El Banco de Corrientes acompaña el Taragüí Rock 2026 con cuotas sin interés para la compra de entradas",
-      "volanta": "PROMOCIÓN ESPECIAL",
-      "date": "2026-09-25T20:38:22+00:00"
     }
   ]
 }
