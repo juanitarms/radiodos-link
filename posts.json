@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:40:21+00:00",
+  "updated": "2026-09-29T21:41:42+00:00",
   "posts": [
+    {
+      "id": "d07ab324",
+      "image": "img/d07ab324.png",
+      "image_sha": "d8b295bd10827de2779f7ee6b5ab84c324fe5462",
+      "url": "https://www.radiodos.com.ar/214626-motociclista-muerto-tras-feroz-choque-en-un-barrio-de-corrientes",
+      "title": "Motociclista muerto tras feroz choque en un barrio de Corrientes",
+      "volanta": "AVENIDA PELIGROSA",
+      "date": "2026-09-29T21:41:42+00:00"
+    },
     {
       "id": "b6c7ee08",
       "image": "img/b6c7ee08.png",
@@ -531,15 +540,6 @@
       "title": "Planta procesadora de madera de Corrientes triplica su capacidad productiva",
       "volanta": "con el respaldo de la Provincia",
       "date": "2026-09-27T17:33:49+00:00"
-    },
-    {
-      "id": "128e4f0e",
-      "image": "img/128e4f0e.png",
-      "image_sha": "f13468de7f38bdbd35a94ff5e5f4d377aca9f014",
-      "url": "https://www.radiodos.com.ar/214470-la-municipalidad-de-corrientes-suma-diversion-entretenimiento-y-deporte-para-disfrutar-el-fin-de-semana",
-      "title": "La Municipalidad de Corrientes suma diversión, entretenimiento y deporte para disfrutar el fin de semana",
-      "volanta": "MÚLTIPLES PROPUESTAS PARA LA FAMILIA",
-      "date": "2026-09-27T17:33:18+00:00"
     }
   ]
 }
