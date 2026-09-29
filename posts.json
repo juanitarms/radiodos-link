@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T11:55:27+00:00",
+  "updated": "2026-09-29T12:07:39+00:00",
   "posts": [
+    {
+      "id": "23ba7b34",
+      "image": "img/23ba7b34.png",
+      "image_sha": "fe42b94bd9ab47f98468f884e170d4d2b19a401c",
+      "url": "https://www.radiodos.com.ar/214576-unne-recibe-al-pais-para-el-debate-y-transferencia-cientifica-acerca-de-la-contabilidad",
+      "title": "UNNE recibe al país para el debate y transferencia científica acerca de la contabilidad",
+      "volanta": "A PARTIR DE ESTE MIÉRCOLES 30",
+      "date": "2026-09-29T12:07:39+00:00"
+    },
     {
       "id": "b3ade2ae",
       "image": "img/b3ade2ae.png",
@@ -531,15 +540,6 @@
       "title": "Se lanzó la Campaña Hortícola para fortalecer la agricultura familiar y la economía local",
       "volanta": "Primavera-Verano",
       "date": "2026-09-25T18:20:24+00:00"
-    },
-    {
-      "id": "1470e1dc",
-      "image": "img/1470e1dc.png",
-      "image_sha": "ae8b38b0c7fd039f916f47e6f77614632ea308e1",
-      "url": "https://www.radiodos.com.ar/214451-juegos-correntinos-2026-concluyeron-con-exito-las-fases-provinciales-de-voley-ciclismo-y-gimnasia-artistica",
-      "title": "\"Juegos Correntinos 2026\": concluyeron con éxito las fases provinciales de Vóley, Ciclismo y Gimnasia Artística",
-      "volanta": "FINALES",
-      "date": "2026-09-25T18:19:49+00:00"
     }
   ]
 }
