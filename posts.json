@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:11:49+00:00",
+  "updated": "2026-09-29T21:13:37+00:00",
   "posts": [
+    {
+      "id": "77a66f2b",
+      "image": "img/77a66f2b.png",
+      "image_sha": "c222cced76be2884ef341f11a1ac5aa8762964df",
+      "url": "https://www.radiodos.com.ar/214623-construccion-la-actividad-cayo-un-286-en-corrientes-y-advierten-por-el-impacto-en-el-empleo",
+      "title": "Construcción: la actividad cayó un 28,6% en Corrientes y advierten por el impacto en el empleo",
+      "volanta": "crisis",
+      "date": "2026-09-29T21:13:37+00:00"
+    },
     {
       "id": "da5a2dfc",
       "image": "img/da5a2dfc.png",
@@ -531,15 +540,6 @@
       "title": "Investigador del CONICET: \"Es necesario y urgente regular el uso de la IA\"",
       "volanta": "INNOVACIÓN",
       "date": "2026-09-27T15:43:07+00:00"
-    },
-    {
-      "id": "482bae0d",
-      "image": "img/482bae0d.png",
-      "image_sha": "86d58fabfa807a1d3701394aac8933d3b1964406",
-      "url": "https://www.radiodos.com.ar/214455-martin-villagran-apunto-a-que-el-equipo-trabaje-muy-duro-siempre-dando-un-paso-mas",
-      "title": "Martín Villagrán: \"Apunto a que el equipo trabaje muy duro, siempre dando un paso más\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-09-27T15:42:27+00:00"
     }
   ]
 }
