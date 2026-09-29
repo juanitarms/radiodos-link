@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:13:37+00:00",
+  "updated": "2026-09-29T21:39:49+00:00",
   "posts": [
+    {
+      "id": "8d8fdc74",
+      "image": "img/8d8fdc74.png",
+      "image_sha": "4e6c8c25f9fca693f3dbe9c6cd8d0b2cbd0b4217",
+      "url": "https://www.radiodos.com.ar/214625-encuesta-el-52-cree-que-milei-no-merece-la-reeleccion",
+      "title": "Encuesta: el 52% cree que Milei no merece la reelección",
+      "volanta": "ELECCIONES 2027",
+      "date": "2026-09-29T21:39:49+00:00"
+    },
     {
       "id": "77a66f2b",
       "image": "img/77a66f2b.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes separó del cargo al efectivo que habría cobrado una multa irregular en el puente General Belgrano",
       "volanta": "RAPIDA RESPUESTA",
       "date": "2026-09-27T17:32:38+00:00"
-    },
-    {
-      "id": "43bcb302",
-      "image": "img/43bcb302.png",
-      "image_sha": "a632b3762a82e3ebcfab4018776217b3d4c34fde",
-      "url": "https://www.radiodos.com.ar/214456-investigador-del-conicet-es-necesario-y-urgente-regular-el-uso-de-la-ia",
-      "title": "Investigador del CONICET: \"Es necesario y urgente regular el uso de la IA\"",
-      "volanta": "INNOVACIÓN",
-      "date": "2026-09-27T15:43:07+00:00"
     }
   ]
 }
