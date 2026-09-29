@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T12:07:39+00:00",
+  "updated": "2026-09-29T12:31:28+00:00",
   "posts": [
+    {
+      "id": "10a79022",
+      "image": "img/10a79022.png",
+      "image_sha": "55201668379196540c7c553d3fdff349a6df5e91",
+      "url": "https://www.radiodos.com.ar/214578-una-localidad-del-interior-de-corrientes-aprobo-al-guarani-como-lengua-cooficial",
+      "title": "Una localidad del interior de Corrientes aprobó al guaraní como lengua cooficial",
+      "volanta": "CULTURA E HISTORIA",
+      "date": "2026-09-29T12:31:28+00:00"
+    },
     {
       "id": "23ba7b34",
       "image": "img/23ba7b34.png",
@@ -531,15 +540,6 @@
       "title": "El Banco de Corrientes acompaña el Taragüí Rock 2026 con cuotas sin interés para la compra de entradas",
       "volanta": "PROMOCIÓN ESPECIAL",
       "date": "2026-09-25T20:38:22+00:00"
-    },
-    {
-      "id": "4094a4be",
-      "image": "img/4094a4be.png",
-      "image_sha": "4a1a9dab961984da4739bff014e5d10e4a75c0bd",
-      "url": "https://www.radiodos.com.ar/214452-se-lanzo-la-campana-horticola-para-fortalecer-la-agricultura-familiar-y-la-economia-local",
-      "title": "Se lanzó la Campaña Hortícola para fortalecer la agricultura familiar y la economía local",
-      "volanta": "Primavera-Verano",
-      "date": "2026-09-25T18:20:24+00:00"
     }
   ]
 }
