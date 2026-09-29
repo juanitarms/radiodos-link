@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T16:54:48+00:00",
+  "updated": "2026-09-29T16:55:21+00:00",
   "posts": [
+    {
+      "id": "5597c147",
+      "image": "img/5597c147.png",
+      "image_sha": "406ded33f78d2f69d7c0917c2567b18442417a55",
+      "url": "https://www.radiodos.com.ar/214608-un-nene-festejo-su-cumpleanos-con-excombatientes-de-malvinas",
+      "title": "Un nene festejó su cumpleaños con excombatientes de Malvinas",
+      "volanta": "PATRIA",
+      "date": "2026-09-29T16:55:21+00:00"
+    },
     {
       "id": "4be2ca8c",
       "image": "img/4be2ca8c.png",
@@ -531,15 +540,6 @@
       "title": "Campaña ‘Piso Parqué’: El Club Don Bosco se acerca a su primer objetivo",
       "volanta": "Mejorando la salud deportiva",
       "date": "2026-09-26T12:35:56+00:00"
-    },
-    {
-      "id": "1f735c06",
-      "image": "img/1f735c06.png",
-      "image_sha": "c97400fcd31debe5b4d60ab41eae38d1904db5ab",
-      "url": "https://www.radiodos.com.ar/214465-revocaron-el-fallo-de-la-jueza-que-declaro-la-inconstitucionalidad-del-regimen-penal-juvenil",
-      "title": "Revocaron el fallo de la jueza que declaró la inconstitucionalidad del Régimen Penal Juvenil",
-      "volanta": "JUSTICIA",
-      "date": "2026-09-25T22:22:53+00:00"
     }
   ]
 }
