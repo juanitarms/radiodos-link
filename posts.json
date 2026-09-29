@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T10:28:14+00:00",
+  "updated": "2026-09-29T11:18:41+00:00",
   "posts": [
+    {
+      "id": "b1ff4820",
+      "image": "img/b1ff4820.png",
+      "image_sha": "efa099402acffcbe0967eb052ef31ddfd71b4b9c",
+      "url": "https://www.radiodos.com.ar/214575-varias-localidades-de-corrientes-afectadas-por-temporal-de-granizo",
+      "title": "Varias localidades de Corrientes afectadas por temporal de granizo",
+      "volanta": "CLIMA HOSTIL",
+      "date": "2026-09-29T11:18:41+00:00"
+    },
     {
       "id": "a167f578",
       "image": "img/a167f578.png",
@@ -531,15 +540,6 @@
       "title": "Tucumán: Tres detenidos y seis aeronaves secuestradas en la investigación por 470 kilos de cocaína",
       "volanta": "OPERATIVO",
       "date": "2026-09-25T18:19:13+00:00"
-    },
-    {
-      "id": "09be1a9a",
-      "image": "img/09be1a9a.png",
-      "image_sha": "60a20a44de0b033c19f8b9dfb311aa7121d09b59",
-      "url": "https://www.radiodos.com.ar/214449-el-miercoles-30-iniciara-el-pago-de-sueldos-a-trabajadores-municipales",
-      "title": "El miércoles 30 iniciará el pago de sueldos a trabajadores municipales",
-      "volanta": "CRONOGRAMA",
-      "date": "2026-09-25T16:45:04+00:00"
     }
   ]
 }
