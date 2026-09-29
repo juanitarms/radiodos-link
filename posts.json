@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T11:18:41+00:00",
+  "updated": "2026-09-29T11:55:27+00:00",
   "posts": [
+    {
+      "id": "b3ade2ae",
+      "image": "img/b3ade2ae.png",
+      "image_sha": "f80b3710a01f59ae39a30ca827ab262443191596",
+      "url": "https://www.radiodos.com.ar/214577-la-dpec-realizara-trabajos-de-mejoras-en-bella-vista-y-mercedes",
+      "title": "La DPEC realizará trabajos de mejoras en Bella Vista y Mercedes",
+      "volanta": "ESTE MARTES Y MIÉRCOLES",
+      "date": "2026-09-29T11:55:27+00:00"
+    },
     {
       "id": "b1ff4820",
       "image": "img/b1ff4820.png",
@@ -531,15 +540,6 @@
       "title": "\"Juegos Correntinos 2026\": concluyeron con éxito las fases provinciales de Vóley, Ciclismo y Gimnasia Artística",
       "volanta": "FINALES",
       "date": "2026-09-25T18:19:49+00:00"
-    },
-    {
-      "id": "04d3ad65",
-      "image": "img/04d3ad65.png",
-      "image_sha": "d1177adce469efb2abbdee548c0491d4590ebb33",
-      "url": "https://www.radiodos.com.ar/214448-tucuman-tres-detenidos-y-seis-aeronaves-secuestradas-en-la-investigacion-por-470-kilos-de-cocaina",
-      "title": "Tucumán: Tres detenidos y seis aeronaves secuestradas en la investigación por 470 kilos de cocaína",
-      "volanta": "OPERATIVO",
-      "date": "2026-09-25T18:19:13+00:00"
     }
   ]
 }
