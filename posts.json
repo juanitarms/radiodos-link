@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:41:42+00:00",
+  "updated": "2026-09-29T22:38:03+00:00",
   "posts": [
+    {
+      "id": "fbf224cf",
+      "image": "img/fbf224cf.png",
+      "image_sha": "3e67f55028d5eede8aa4866cb2c1dafe6245e3cd",
+      "url": "https://www.radiodos.com.ar/214627-crisis-economica-mas-de-300-jugueterias-cerraron-o-pasaron-a-comercio-online",
+      "title": "Crisis económica: más de 300 jugueterías cerraron o pasaron a comercio online",
+      "volanta": "ECONOMÍA",
+      "date": "2026-09-29T22:38:03+00:00"
+    },
     {
       "id": "d07ab324",
       "image": "img/d07ab324.png",
@@ -531,15 +540,6 @@
       "title": "Colapinto chocó a Gasly y ambos abandonaron en el Gran Premio de Azerbaiyán",
       "volanta": "F1",
       "date": "2026-09-27T17:34:22+00:00"
-    },
-    {
-      "id": "01901367",
-      "image": "img/01901367.png",
-      "image_sha": "63963867cdbec827a7b5d1c1ab9b79ba19bbcc98",
-      "url": "https://www.radiodos.com.ar/214468-planta-procesadora-de-madera-de-corrientes-triplica-su-capacidad-productiva",
-      "title": "Planta procesadora de madera de Corrientes triplica su capacidad productiva",
-      "volanta": "con el respaldo de la Provincia",
-      "date": "2026-09-27T17:33:49+00:00"
     }
   ]
 }
