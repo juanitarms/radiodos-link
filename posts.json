@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T16:56:00+00:00",
+  "updated": "2026-09-29T21:01:23+00:00",
   "posts": [
+    {
+      "id": "e183fb68",
+      "image": "img/e183fb68.png",
+      "image_sha": "1bf4afe0dd290fcdd66803a8c72eea363528b814",
+      "url": "https://www.radiodos.com.ar/214621-corrientes-sumo-equipamiento-de-ultima-generacion-para-el-tratamiento-de-recien-nacidos",
+      "title": "Corrientes sumó equipamiento de última generación para el tratamiento de recién nacidos",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-09-29T21:01:23+00:00"
+    },
     {
       "id": "d787127a",
       "image": "img/d787127a.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes se muestra al mundo en la gran vidriera del turismo internacional",
       "volanta": "30° edición de la Feria de América Latina",
       "date": "2026-09-27T15:04:04+00:00"
-    },
-    {
-      "id": "32a625fb",
-      "image": "img/32a625fb.png",
-      "image_sha": "4cbe2b4c3445e70219ee0a856688b2e7667009f1",
-      "url": "https://www.radiodos.com.ar/214472-las-cinco-playas-de-corrientes-seran-habilitadas-a-pesar-de-la-creciente-del-parana",
-      "title": "Las cinco playas de Corrientes serán habilitadas a pesar de la creciente del Paraná",
-      "volanta": "PLAYAS",
-      "date": "2026-09-26T17:18:11+00:00"
     }
   ]
 }
