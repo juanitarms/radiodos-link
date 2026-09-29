@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T14:18:36+00:00",
+  "updated": "2026-09-29T14:52:58+00:00",
   "posts": [
+    {
+      "id": "d8363519",
+      "image": "img/d8363519.png",
+      "image_sha": "dbad6bde675469be2f8795eafea128e45ffafd36",
+      "url": "https://www.radiodos.com.ar/214603-el-lider-de-volcan-roberto-edgar-se-sumo-a-la-libertad-avanza-y-se-candidateo-a-intendente-de-puerto-iguazu",
+      "title": "El líder de Volcán, Roberto Edgar, se sumó a La Libertad Avanza y se candidateó a intendente de Puerto Iguazú",
+      "volanta": "MISIONES",
+      "date": "2026-09-29T14:52:58+00:00"
+    },
     {
       "id": "e8186049",
       "image": "img/e8186049.png",
@@ -531,15 +540,6 @@
       "title": "Suspenden los descuentos a una jubilada víctima de una presunta estafa bancaria",
       "volanta": "CORRIENTES",
       "date": "2026-09-25T21:32:53+00:00"
-    },
-    {
-      "id": "ed2d2c03",
-      "image": "img/ed2d2c03.png",
-      "image_sha": "c0e8a819a58281f74c87f595764487ffc33a5336",
-      "url": "https://www.radiodos.com.ar/214462-turista-brasileno-denuncio-que-la-policia-le-cobro-una-multa-de-200-mil-pesos-en-el-puente-chaco-corrientes",
-      "title": "Turista brasileño denunció que la policía le cobró una \"multa\" de 200 mil pesos en el puente Chaco-Corrientes",
-      "volanta": "Supuesta extorsión",
-      "date": "2026-09-25T21:03:01+00:00"
     }
   ]
 }
