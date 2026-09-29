@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T16:55:21+00:00",
+  "updated": "2026-09-29T16:56:00+00:00",
   "posts": [
+    {
+      "id": "d787127a",
+      "image": "img/d787127a.png",
+      "image_sha": "7ca266d51ef5926f6b37d577403d477ba7671e79",
+      "url": "https://www.radiodos.com.ar/214607-denuncio-a-su-companero-de-padel-por-acoso-y-brujeria",
+      "title": "Denunció a su compañero de pádel por acoso y \"brujería\"",
+      "volanta": "MISIONES",
+      "date": "2026-09-29T16:56:00+00:00"
+    },
     {
       "id": "5597c147",
       "image": "img/5597c147.png",
@@ -531,15 +540,6 @@
       "title": "Las cinco playas de Corrientes serán habilitadas a pesar de la creciente del Paraná",
       "volanta": "PLAYAS",
       "date": "2026-09-26T17:18:11+00:00"
-    },
-    {
-      "id": "07c81aa7",
-      "image": "img/07c81aa7.png",
-      "image_sha": "a25a18e37db6c59e26dee1ea847b898a8aa03d62",
-      "url": "https://www.radiodos.com.ar/214466-campana-‘piso-parque’-el-club-don-bosco-se-acerca-a-su-primer-objetivo",
-      "title": "Campaña ‘Piso Parqué’: El Club Don Bosco se acerca a su primer objetivo",
-      "volanta": "Mejorando la salud deportiva",
-      "date": "2026-09-26T12:35:56+00:00"
     }
   ]
 }
