@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T22:38:03+00:00",
+  "updated": "2026-09-29T22:38:35+00:00",
   "posts": [
+    {
+      "id": "e4575e46",
+      "image": "img/e4575e46.png",
+      "image_sha": "1019e00e08d0b6800bc1c0dc9158fafdc166a90f",
+      "url": "https://www.radiodos.com.ar/214628-brasil-inicio-una-mega-obra-de-refaccion-en-el-puente-paso-de-los-libres-uruguayana",
+      "title": "Brasil inició una mega obra de refacción en el puente Paso de los Libres-Uruguayana",
+      "volanta": "MILLONARIA INVERSIÓN",
+      "date": "2026-09-29T22:38:35+00:00"
+    },
     {
       "id": "fbf224cf",
       "image": "img/fbf224cf.png",
@@ -531,15 +540,6 @@
       "title": "Por Ruta 12, despistó y volcó un conductor que viajaba desde Goya hacia Buenos Aires",
       "volanta": "CERCA DE ESQUINA",
       "date": "2026-09-27T17:34:50+00:00"
-    },
-    {
-      "id": "8161c666",
-      "image": "img/8161c666.png",
-      "image_sha": "70079e6fecca103e2db9e176d32dfa8e2e4bfce3",
-      "url": "https://www.radiodos.com.ar/214473-colapinto-choco-a-gasly-y-ambos-abandonaron-en-el-gran-premio-de-azerbaiyan",
-      "title": "Colapinto chocó a Gasly y ambos abandonaron en el Gran Premio de Azerbaiyán",
-      "volanta": "F1",
-      "date": "2026-09-27T17:34:22+00:00"
     }
   ]
 }
