@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:39:49+00:00",
+  "updated": "2026-09-29T21:40:21+00:00",
   "posts": [
+    {
+      "id": "b6c7ee08",
+      "image": "img/b6c7ee08.png",
+      "image_sha": "3e5c0e212c780e10b7eca168bc06bb279296b54a",
+      "url": "https://www.radiodos.com.ar/214620-la-provincia-de-corrientes-tendra-una-nueva-fiesta-nacional",
+      "title": "La Provincia de Corrientes tendrá una nueva Fiesta Nacional",
+      "volanta": "Fin de semana de noviembre",
+      "date": "2026-09-29T21:40:21+00:00"
+    },
     {
       "id": "8d8fdc74",
       "image": "img/8d8fdc74.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes suma diversión, entretenimiento y deporte para disfrutar el fin de semana",
       "volanta": "MÚLTIPLES PROPUESTAS PARA LA FAMILIA",
       "date": "2026-09-27T17:33:18+00:00"
-    },
-    {
-      "id": "a7538ac5",
-      "image": "img/a7538ac5.png",
-      "image_sha": "0f677b5cd9aba2750dfcb3bf7b85320cf01c9844",
-      "url": "https://www.radiodos.com.ar/214467-la-policia-de-corrientes-separo-del-cargo-al-efectivo-que-habria-cobrado-una-multa-irregular-en-el-puente-general-belgrano",
-      "title": "La Policía de Corrientes separó del cargo al efectivo que habría cobrado una multa irregular en el puente General Belgrano",
-      "volanta": "RAPIDA RESPUESTA",
-      "date": "2026-09-27T17:32:38+00:00"
     }
   ]
 }
