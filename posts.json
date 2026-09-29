@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T12:46:55+00:00",
+  "updated": "2026-09-29T13:17:57+00:00",
   "posts": [
+    {
+      "id": "a90dd43e",
+      "image": "img/a90dd43e.png",
+      "image_sha": "fc9f292118c066bfe5c239327fe844f8e369c454",
+      "url": "https://www.radiodos.com.ar/214587-la-probable-formacion-de-argentina-para-recibir-a-bolivia",
+      "title": "La probable formación de Argentina para recibir a Bolivia",
+      "volanta": "AMISTOSO",
+      "date": "2026-09-29T13:17:57+00:00"
+    },
     {
       "id": "8319c1c2",
       "image": "img/8319c1c2.png",
@@ -531,15 +540,6 @@
       "title": "YPF confirmó que aumentará la nafta y el gasoil un 1% desde este sábado",
       "volanta": "ENERGÍA",
       "date": "2026-09-25T20:45:18+00:00"
-    },
-    {
-      "id": "24d330aa",
-      "image": "img/24d330aa.png",
-      "image_sha": "6d97eb5b306ec9726cda8b3f396312d2b03607f3",
-      "url": "https://www.radiodos.com.ar/214458-juegos-suramericanos-la-seleccion-argentina-sub-19-perdio-la-final-contra-paraguay-por-penales",
-      "title": "Juegos Suramericanos: La Selección argentina sub-19 perdió la final contra Paraguay por penales",
-      "volanta": "MEDALLA DE PLATA",
-      "date": "2026-09-25T20:44:40+00:00"
     }
   ]
 }
