@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T23:25:24+00:00",
+  "updated": "2026-09-29T10:28:14+00:00",
   "posts": [
+    {
+      "id": "a167f578",
+      "image": "img/a167f578.png",
+      "image_sha": "d0ef8b7969a0f40017861a70a267468d6736eaa1",
+      "url": "https://www.radiodos.com.ar/214574-juan-pablo-valdes-viaja-con-milei-a-la-argentina-week",
+      "title": "Juan Pablo Valdés viaja con Milei a la Argentina Week",
+      "volanta": "PARA BUSCAR INVERSORES",
+      "date": "2026-09-29T10:28:14+00:00"
+    },
     {
       "id": "84c73b74",
       "image": "img/84c73b74.png",
@@ -531,15 +540,6 @@
       "title": "El miércoles 30 iniciará el pago de sueldos a trabajadores municipales",
       "volanta": "CRONOGRAMA",
       "date": "2026-09-25T16:45:04+00:00"
-    },
-    {
-      "id": "d3d94ccb",
-      "image": "img/d3d94ccb.png",
-      "image_sha": "099977d4dd5c7fea3e73a6e2b8b28486285a5303",
-      "url": "https://www.radiodos.com.ar/214450-regatas-representara-a-corrientes-en-los-juegos-nacionales-evita",
-      "title": "Regatas representará a Corrientes en los Juegos Nacionales Evita",
-      "volanta": "Voley",
-      "date": "2026-09-25T16:44:31+00:00"
     }
   ]
 }
