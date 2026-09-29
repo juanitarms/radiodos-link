@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T15:15:08+00:00",
+  "updated": "2026-09-29T16:54:48+00:00",
   "posts": [
+    {
+      "id": "4be2ca8c",
+      "image": "img/4be2ca8c.png",
+      "image_sha": "7b1167e46f1fb524fcc24d9d8fdf1461a4186b61",
+      "url": "https://www.radiodos.com.ar/214602-la-medida-urgente-que-tomo-la-justicia-contra-el-pity-alvarez-luego-de-que-intentara-escaparse-del-hospital",
+      "title": "La medida urgente que tomó la justicia contra el Pity Álvarez luego de que intentara escaparse del Hospital",
+      "volanta": "EN JUICIO",
+      "date": "2026-09-29T16:54:48+00:00"
+    },
     {
       "id": "679d6cc5",
       "image": "img/679d6cc5.png",
@@ -531,15 +540,6 @@
       "title": "Revocaron el fallo de la jueza que declaró la inconstitucionalidad del Régimen Penal Juvenil",
       "volanta": "JUSTICIA",
       "date": "2026-09-25T22:22:53+00:00"
-    },
-    {
-      "id": "eb76fc65",
-      "image": "img/eb76fc65.png",
-      "image_sha": "89e5c27c77d56c6487925c1d1979957e27183a42",
-      "url": "https://www.radiodos.com.ar/214464-los-vecinos-de-corrientes-eligen-10-fotos-finalistas-van-por-el-premio-del-concurso-la-ciudad-que-queremos-florece",
-      "title": "Los vecinos de Corrientes eligen: 10 fotos finalistas van por el premio del concurso \"La ciudad que queremos florece\"",
-      "volanta": "CULTURA Y AMBIENTE",
-      "date": "2026-09-25T21:33:26+00:00"
     }
   ]
 }
