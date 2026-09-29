@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T13:34:47+00:00",
+  "updated": "2026-09-29T14:00:32+00:00",
   "posts": [
+    {
+      "id": "d83799e2",
+      "image": "img/d83799e2.png",
+      "image_sha": "26005305004536999eb2a95b34fca9e6cfe47d32",
+      "url": "https://www.radiodos.com.ar/214593-confirman-romance-entre-romina-uhrig-y-el-productor-general-de-gran-hermano",
+      "title": "Confirman romance entre Romina Uhrig y el productor general de Gran Hermano",
+      "volanta": "SORPRESA",
+      "date": "2026-09-29T14:00:32+00:00"
+    },
     {
       "id": "371f5528",
       "image": "img/371f5528.png",
@@ -531,15 +540,6 @@
       "title": "Branz presentó un proyecto para instituir el Día Provincial de Concientización sobre la Parálisis Cerebral",
       "volanta": "LEGISLATURA DE CORRIENTES",
       "date": "2026-09-25T21:01:26+00:00"
-    },
-    {
-      "id": "2c2ecd8e",
-      "image": "img/2c2ecd8e.png",
-      "image_sha": "b2b8294b71d0444e713a43f1b5fcb1166a6de6d1",
-      "url": "https://www.radiodos.com.ar/214461-aviones-caza-de-finlandia-y-suecia-interceptaron-aviones-de-guerra-rusos",
-      "title": "Aviones caza de Finlandia y Suecia interceptaron aviones de guerra rusos",
-      "volanta": "Máxima tensión",
-      "date": "2026-09-25T20:53:28+00:00"
     }
   ]
 }
