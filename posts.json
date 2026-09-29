@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T21:01:23+00:00",
+  "updated": "2026-09-29T21:03:55+00:00",
   "posts": [
+    {
+      "id": "c6f89f8f",
+      "image": "img/c6f89f8f.png",
+      "image_sha": "55c9fadbece33b9dc991a0e79825ffb69aed4ebb",
+      "url": "https://www.radiodos.com.ar/214619-por-el-dia-del-recolector-de-residuos-este-viernes-no-habra-servicio-en-corrientes-en-el-turno-manana",
+      "title": "Por el Día del Recolector de Residuos, este viernes no habrá servicio en Corrientes en el turno mañana",
+      "volanta": "CONMEMORACIÓN DEL 2 DE OCTUBRE",
+      "date": "2026-09-29T21:03:55+00:00"
+    },
     {
       "id": "e183fb68",
       "image": "img/e183fb68.png",
@@ -531,15 +540,6 @@
       "title": "Calvano: \"Hay que pelear por lo necesario para Corrientes\"",
       "volanta": "DIPUTADO PROVINCIAL",
       "date": "2026-09-27T15:13:02+00:00"
-    },
-    {
-      "id": "0fcdf7f0",
-      "image": "img/0fcdf7f0.png",
-      "image_sha": "dc7121773f6e08f87c18c99684780a2372c010c5",
-      "url": "https://www.radiodos.com.ar/214502-corrientes-se-muestra-al-mundo-en-la-gran-vidriera-del-turismo-internacional",
-      "title": "Corrientes se muestra al mundo en la gran vidriera del turismo internacional",
-      "volanta": "30° edición de la Feria de América Latina",
-      "date": "2026-09-27T15:04:04+00:00"
     }
   ]
 }
