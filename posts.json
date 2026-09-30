@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T14:24:34+00:00",
+  "updated": "2026-09-30T14:46:32+00:00",
   "posts": [
+    {
+      "id": "0be072f3",
+      "image": "img/0be072f3.png",
+      "image_sha": "e9bea69a9140b203de4da5ace9a08692eb21fb4a",
+      "url": "https://www.radiodos.com.ar/214653-san-cosme-vivira-la-12-pesca-de-la-palometa-con-degustacion-y-la-primera-fiesta-provincial",
+      "title": "San Cosme vivirá la 12ª Pesca de la Palometa con Degustación y la Primera Fiesta Provincial",
+      "volanta": "10 y 11 de octubre",
+      "date": "2026-09-30T14:46:32+00:00"
+    },
     {
       "id": "703e325e",
       "image": "img/703e325e.png",
@@ -531,15 +540,6 @@
       "title": "Escalofriante peritaje por el femicidio de Agostina Vega: los hallazgos en el celular de Claudio Barrelier",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-09-28T14:21:14+00:00"
-    },
-    {
-      "id": "c7b99976",
-      "image": "img/c7b99976.png",
-      "image_sha": "e049919a223aa7ac09fe2c105e2899d8413411a3",
-      "url": "https://www.radiodos.com.ar/214542-las-ferias-de-la-ciudad-recorreran-espacios-y-plazas-publicas-con-multiples-ofertas",
-      "title": "Las Ferias de la Ciudad recorrerán espacios y plazas públicas con múltiples ofertas",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-09-28T14:05:45+00:00"
     }
   ]
 }
