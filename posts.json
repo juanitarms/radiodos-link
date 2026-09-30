@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T23:19:54+00:00",
+  "updated": "2026-09-30T23:58:58+00:00",
   "posts": [
+    {
+      "id": "52fde121",
+      "image": "img/52fde121.png",
+      "image_sha": "46cff670a4dd74108c7a792a75790f0424dceade",
+      "url": "https://www.radiodos.com.ar/214687-caso-loan-la-justicia-evalua-drenar-lagunas-a-mas-de-dos-anos-de-su-desaparicion",
+      "title": "Caso Loan: la Justicia evalúa drenar lagunas a más de dos años de su desaparición",
+      "volanta": "CORRIENTES",
+      "date": "2026-09-30T23:58:58+00:00"
+    },
     {
       "id": "240207c8",
       "image": "img/240207c8.png",
@@ -531,15 +540,6 @@
       "title": "Desarticularon un campamento de pescadores ilegales en una isla de Corrientes",
       "volanta": "APIPE",
       "date": "2026-09-28T21:19:30+00:00"
-    },
-    {
-      "id": "3b16118d",
-      "image": "img/3b16118d.png",
-      "image_sha": "a6cebc9a72155aa15e47e028b5357805d07ac2ad",
-      "url": "https://www.radiodos.com.ar/214562-malvinas-el-gobierno-inicia-un-arbitraje-internacional-contra-el-reino-unido-por-el-proyecto-sea-lion",
-      "title": "Malvinas: el Gobierno inicia un arbitraje internacional contra el Reino Unido por el proyecto Sea Lion",
-      "volanta": "anuncio oficial",
-      "date": "2026-09-28T21:18:55+00:00"
     }
   ]
 }
