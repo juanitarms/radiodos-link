@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T13:26:53+00:00",
+  "updated": "2026-09-30T13:44:35+00:00",
   "posts": [
+    {
+      "id": "42312d44",
+      "image": "img/42312d44.png",
+      "image_sha": "655dd318b5fac7b0672324a7224a3de73694a59c",
+      "url": "https://www.radiodos.com.ar/214649-la-corte-suprema-revoco-el-fallo-que-habia-declarado-inconstitucional-el-dnu-que-derogo-la-ley-de-tierras",
+      "title": "La Corte Suprema revocó el fallo que había declarado inconstitucional el DNU que derogó la Ley de Tierras",
+      "volanta": "NOVEDAD",
+      "date": "2026-09-30T13:44:35+00:00"
+    },
     {
       "id": "b4b8a46b",
       "image": "img/b4b8a46b.png",
@@ -531,15 +540,6 @@
       "title": "Tini Stoessel será la madrina de la hija de un futbolista",
       "volanta": "FELICIDADES",
       "date": "2026-09-28T13:18:22+00:00"
-    },
-    {
-      "id": "c2fbdd00",
-      "image": "img/c2fbdd00.png",
-      "image_sha": "df75793f10f21c649be713a0fba7237074c821b8",
-      "url": "https://www.radiodos.com.ar/214528-lando-norris-cambio-su-postura-y-le-pidio-disculpas-a-franco-colapinto-me-equivoque",
-      "title": "Lando Norris cambió su postura y le pidió disculpas a Franco Colapinto: \"Me equivoqué\"",
-      "volanta": "FÓRMULA 1",
-      "date": "2026-09-28T12:46:16+00:00"
     }
   ]
 }
