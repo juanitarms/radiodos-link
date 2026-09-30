@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T16:47:44+00:00",
+  "updated": "2026-09-30T16:48:16+00:00",
   "posts": [
+    {
+      "id": "68addb91",
+      "image": "img/68addb91.png",
+      "image_sha": "61a9464fb3262b9a02c9c0e74dbe37ad01735bca",
+      "url": "https://www.radiodos.com.ar/214672-ituzaingo-sera-sede-del-1°-congreso-internacional-bubalino",
+      "title": "Ituzaingó será sede del 1° Congreso Internacional Bubalino",
+      "volanta": "PRESENTACIÓN EN CASA DE GOBIERNO",
+      "date": "2026-09-30T16:48:16+00:00"
+    },
     {
       "id": "ec82b8b0",
       "image": "img/ec82b8b0.png",
@@ -531,15 +540,6 @@
       "title": "Bautista Miño, joven correntino clasificado al Nacional de Menores de Salta",
       "volanta": "TENIS",
       "date": "2026-09-28T15:05:57+00:00"
-    },
-    {
-      "id": "b3b0c679",
-      "image": "img/b3b0c679.png",
-      "image_sha": "bd2a72d767143b3efe49481c5a10318cc051c5bc",
-      "url": "https://www.radiodos.com.ar/214541-preocupacion-por-la-salud-de-daniel-osvaldo-que-dijeron-sus-familiares",
-      "title": "Preocupación por la salud de Daniel Osvaldo: qué dijeron sus familiares",
-      "volanta": "DE CUIDADO",
-      "date": "2026-09-28T14:50:03+00:00"
     }
   ]
 }
