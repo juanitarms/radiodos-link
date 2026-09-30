@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T13:04:04+00:00",
+  "updated": "2026-09-30T13:26:53+00:00",
   "posts": [
+    {
+      "id": "b4b8a46b",
+      "image": "img/b4b8a46b.png",
+      "image_sha": "e0a7ed676f297569874f80edfd54ddc013e96eaf",
+      "url": "https://www.radiodos.com.ar/214650-calendario-de-feriados-de-octubre-cuando-cae-el-proximo-fin-de-semana-largo",
+      "title": "Calendario de feriados de octubre: cuándo cae el próximo fin de semana largo",
+      "volanta": "ATENCIÓN",
+      "date": "2026-09-30T13:26:53+00:00"
+    },
     {
       "id": "2a455973",
       "image": "img/2a455973.png",
@@ -531,15 +540,6 @@
       "title": "Lando Norris cambió su postura y le pidió disculpas a Franco Colapinto: \"Me equivoqué\"",
       "volanta": "FÓRMULA 1",
       "date": "2026-09-28T12:46:16+00:00"
-    },
-    {
-      "id": "51af1c92",
-      "image": "img/51af1c92.png",
-      "image_sha": "1baf6a12d0a7b4f4b89b394272d86f69818121bb",
-      "url": "https://www.radiodos.com.ar/214519-el-nino-advierten-que-el-gran-resistencia-crecio-en-zonas-de-riesgo-y-fuera-de-sus-areas-protegidas",
-      "title": "El Niño: advierten que el Gran Resistencia creció en zonas de riesgo y fuera de sus áreas protegidas",
-      "volanta": "VULNERABILIDAD URBANA",
-      "date": "2026-09-28T12:03:55+00:00"
     }
   ]
 }
