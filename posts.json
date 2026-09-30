@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T11:46:04+00:00",
+  "updated": "2026-09-30T12:08:07+00:00",
   "posts": [
+    {
+      "id": "4b95f23a",
+      "image": "img/4b95f23a.png",
+      "image_sha": "3ae5a01f2cb1df7b3befe620497d339dde8d4605",
+      "url": "https://www.radiodos.com.ar/214636-la-dpec-realizara-trabajos-de-mejoras-en-capital",
+      "title": "La DPEC realizará trabajos de mejoras en Capital",
+      "volanta": "ESTE MIÉRCOLES",
+      "date": "2026-09-30T12:08:07+00:00"
+    },
     {
       "id": "53cb4e1f",
       "image": "img/53cb4e1f.png",
@@ -531,15 +540,6 @@
       "title": "Las conexiones a Internet en Corrientes crecieron 2,9% en el segundo trimestre",
       "volanta": "Datos oficiales",
       "date": "2026-09-28T11:04:50+00:00"
-    },
-    {
-      "id": "66ce9575",
-      "image": "img/66ce9575.png",
-      "image_sha": "d6427567ffaae675e6b969f40891a208907acb4c",
-      "url": "https://www.radiodos.com.ar/214508-copa-argentina-con-un-triplete-de-enner-valencia-boca-lo-dio-vuelta-y-es-semifinalista",
-      "title": "Copa Argentina: Con un triplete de Enner Valencia, Boca lo dio vuelta y es semifinalista",
-      "volanta": "Fue 3 a 2",
-      "date": "2026-09-27T22:56:07+00:00"
     }
   ]
 }
