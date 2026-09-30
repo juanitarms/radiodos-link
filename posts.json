@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T15:05:47+00:00",
+  "updated": "2026-09-30T16:47:44+00:00",
   "posts": [
+    {
+      "id": "ec82b8b0",
+      "image": "img/ec82b8b0.png",
+      "image_sha": "088017eba363212b940da9824d0a686521e9a2d0",
+      "url": "https://www.radiodos.com.ar/214674-la-justicia-volvio-a-intimar-al-gobierno-por-los-salarios-universitarios-y-las-becas",
+      "title": "La Justicia volvió a intimar al Gobierno por los salarios universitarios y las becas",
+      "volanta": "RECLAMOS",
+      "date": "2026-09-30T16:47:44+00:00"
+    },
     {
       "id": "7c42f616",
       "image": "img/7c42f616.png",
@@ -531,15 +540,6 @@
       "title": "Preocupación por la salud de Daniel Osvaldo: qué dijeron sus familiares",
       "volanta": "DE CUIDADO",
       "date": "2026-09-28T14:50:03+00:00"
-    },
-    {
-      "id": "c360daf2",
-      "image": "img/c360daf2.png",
-      "image_sha": "652f8bce57249d9d3eb35dcbda9375869cc5b6a3",
-      "url": "https://www.radiodos.com.ar/214539-yipio-recibio-una-propuesta-de-trabajo-inesperada-despues-de-gran-hermano-que-hara",
-      "title": "Yipio recibió una propuesta de trabajo inesperada después de Gran Hermano: qué hará",
-      "volanta": "GRAN OPORTUNIDAD",
-      "date": "2026-09-28T14:40:31+00:00"
     }
   ]
 }
