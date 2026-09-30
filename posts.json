@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T22:38:35+00:00",
+  "updated": "2026-09-30T11:07:18+00:00",
   "posts": [
+    {
+      "id": "07a4a6ab",
+      "image": "img/07a4a6ab.png",
+      "image_sha": "3c49575aa4123737cb7ab51d12713f67b2fea15b",
+      "url": "https://www.radiodos.com.ar/214631-el-posteo-sobre-lionel-messi-en-la-cuenta-del-balon-de-oro-que-genero-expectativa-tras-el-cierre-de-la-votacion",
+      "title": "El posteo sobre Lionel Messi en la cuenta del Balón de Oro que generó expectativa tras el cierre de la votación",
+      "volanta": "26 de octubre en Londres",
+      "date": "2026-09-30T11:07:18+00:00"
+    },
     {
       "id": "e4575e46",
       "image": "img/e4575e46.png",
@@ -531,15 +540,6 @@
       "title": "La Policía de Corrientes desactivó \"banda narco\" en Goya",
       "volanta": "TRES DETENIDOS",
       "date": "2026-09-27T20:45:38+00:00"
-    },
-    {
-      "id": "502a4afd",
-      "image": "img/502a4afd.png",
-      "image_sha": "1123971e657d4d9439e866b9e87d0a5eba593cab",
-      "url": "https://www.radiodos.com.ar/214474-por-ruta-12-despisto-y-volco-un-conductor-que-viajaba-desde-goya-hacia-buenos-aires",
-      "title": "Por Ruta 12, despistó y volcó un conductor que viajaba desde Goya hacia Buenos Aires",
-      "volanta": "CERCA DE ESQUINA",
-      "date": "2026-09-27T17:34:50+00:00"
     }
   ]
 }
