@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T12:08:07+00:00",
+  "updated": "2026-09-30T12:20:18+00:00",
   "posts": [
+    {
+      "id": "deeb37c9",
+      "image": "img/deeb37c9.png",
+      "image_sha": "bfb2817578c16f41996388e6deb762fc09de08f8",
+      "url": "https://www.radiodos.com.ar/214637-la-provincia-sumo-equipamiento-de-ultima-generacion-para-el-tratamiento-de-recien-nacidos",
+      "title": "La Provincia sumó equipamiento de última generación para el tratamiento de recién nacidos",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-09-30T12:20:18+00:00"
+    },
     {
       "id": "4b95f23a",
       "image": "img/4b95f23a.png",
@@ -531,15 +540,6 @@
       "title": "Balacera y amenazas tras una fiesta en un barrio de Corrientes",
       "volanta": "CINCO DETENIDOS",
       "date": "2026-09-28T11:19:02+00:00"
-    },
-    {
-      "id": "50b59b64",
-      "image": "img/50b59b64.png",
-      "image_sha": "b346d795545a3d34358fda0cd847d2b59d198bcf",
-      "url": "https://www.radiodos.com.ar/214515-las-conexiones-a-internet-en-corrientes-crecieron-29-en-el-segundo-trimestre",
-      "title": "Las conexiones a Internet en Corrientes crecieron 2,9% en el segundo trimestre",
-      "volanta": "Datos oficiales",
-      "date": "2026-09-28T11:04:50+00:00"
     }
   ]
 }
