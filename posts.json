@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T14:04:26+00:00",
+  "updated": "2026-09-30T14:24:34+00:00",
   "posts": [
+    {
+      "id": "703e325e",
+      "image": "img/703e325e.png",
+      "image_sha": "17e39ca8c4bbd06a668e021830f780e4addb18e5",
+      "url": "https://www.radiodos.com.ar/214661-cordoba-un-pitbull-aparecio-muerto-tras-atacar-a-una-jubilada",
+      "title": "Córdoba: un pitbull apareció muerto tras atacar a una jubilada",
+      "volanta": "UNQUILLO",
+      "date": "2026-09-30T14:24:34+00:00"
+    },
     {
       "id": "cbe93ae6",
       "image": "img/cbe93ae6.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad recorrerán espacios y plazas públicas con múltiples ofertas",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-09-28T14:05:45+00:00"
-    },
-    {
-      "id": "7859560e",
-      "image": "img/7859560e.png",
-      "image_sha": "8dac4e51c69ba222c86bed9552d44a2ae0672147",
-      "url": "https://www.radiodos.com.ar/214536-el-detalle-oculto-de-la-infidelidad-de-mauro-icardi-con-la-china-suarez-que-involucro-a-wanda-nara",
-      "title": "El detalle oculto de la infidelidad de Mauro Icardi con la China Suárez que involucró a Wanda Nara",
-      "volanta": "EVIDENCIAS",
-      "date": "2026-09-28T13:42:22+00:00"
     }
   ]
 }
