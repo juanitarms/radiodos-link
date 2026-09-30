@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T23:19:20+00:00",
+  "updated": "2026-09-30T23:19:54+00:00",
   "posts": [
+    {
+      "id": "240207c8",
+      "image": "img/240207c8.png",
+      "image_sha": "2119d85144001c4633e7f6fdb75eeb00aa655805",
+      "url": "https://www.radiodos.com.ar/214685-mandiyu-y-huracan-de-goya-definiran-el-primer-puesto",
+      "title": "Mandiyú y Huracán de Goya definirán el primer puesto",
+      "volanta": "TORNEO Regional",
+      "date": "2026-09-30T23:19:54+00:00"
+    },
     {
       "id": "df069f10",
       "image": "img/df069f10.png",
@@ -531,15 +540,6 @@
       "title": "Malvinas: el Gobierno inicia un arbitraje internacional contra el Reino Unido por el proyecto Sea Lion",
       "volanta": "anuncio oficial",
       "date": "2026-09-28T21:18:55+00:00"
-    },
-    {
-      "id": "0b11af87",
-      "image": "img/0b11af87.png",
-      "image_sha": "1fddc27edce670c5c0837b80307d7d2d2d2c63e1",
-      "url": "https://www.radiodos.com.ar/214565-corrientes-se-arrojo-desde-un-balcon-para-atrapar-a-un-ladron-que-violento-su-vehiculo",
-      "title": "Corrientes: se arrojó desde un balcón para atrapar a un ladrón que violentó su vehículo",
-      "volanta": "BARRIO LOMAS DEL MIRADOR",
-      "date": "2026-09-28T21:18:18+00:00"
     }
   ]
 }
