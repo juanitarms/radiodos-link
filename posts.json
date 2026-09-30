@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T21:42:04+00:00",
+  "updated": "2026-09-30T23:19:20+00:00",
   "posts": [
+    {
+      "id": "df069f10",
+      "image": "img/df069f10.png",
+      "image_sha": "70908dfead8a71c4b0740296b423969e165aab03",
+      "url": "https://www.radiodos.com.ar/214686-elena-roger-por-radio-dos-me-muero-por-estar-ese-petit-colon-que-es-el-teatro-vera",
+      "title": "Elena Roger, por Radio Dos: \"Me muero por estar ese 'petit Colón' que es el teatro Vera\"",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-09-30T23:19:20+00:00"
+    },
     {
       "id": "d7f4d629",
       "image": "img/d7f4d629.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: se arrojó desde un balcón para atrapar a un ladrón que violentó su vehículo",
       "volanta": "BARRIO LOMAS DEL MIRADOR",
       "date": "2026-09-28T21:18:18+00:00"
-    },
-    {
-      "id": "85994cf8",
-      "image": "img/85994cf8.png",
-      "image_sha": "84dde545fd286fe513aa6382ec8d3a83d81347ea",
-      "url": "https://www.radiodos.com.ar/214561-salud-publica-de-corrienres-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública de Corrienres insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-09-28T21:15:57+00:00"
     }
   ]
 }
