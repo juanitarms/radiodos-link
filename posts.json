@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T16:49:18+00:00",
+  "updated": "2026-09-30T18:40:49+00:00",
   "posts": [
+    {
+      "id": "2c6f09a4",
+      "image": "img/2c6f09a4.png",
+      "image_sha": "f9c22a11a38635c28376a43d9c32887bf34a3214",
+      "url": "https://www.radiodos.com.ar/214669-aguas-de-corrientes-reparo-una-perdida-de-agua-ocasionada-por-el-robo-de-una-valvula-en-el-centro-de-distribucion-del-barrio-serantes",
+      "title": "Aguas de Corrientes reparó una pérdida de agua ocasionada por el robo de una válvula en el Centro de Distribución del barrio Serantes",
+      "volanta": "TRABAJOS DE MEJORAS",
+      "date": "2026-09-30T18:40:49+00:00"
+    },
     {
       "id": "d2e3bd6e",
       "image": "img/d2e3bd6e.png",
@@ -531,15 +540,6 @@
       "title": "Lisandro Almirón: \"Hoy estamos con la cabeza puesta en hacer lo mejor, en no volver al pasado\"",
       "volanta": "LA LIBERTAD AVANZA",
       "date": "2026-09-28T17:39:10+00:00"
-    },
-    {
-      "id": "070ef11b",
-      "image": "img/070ef11b.png",
-      "image_sha": "893e2ef3dca78c0e475589b16412a8fd928eddd4",
-      "url": "https://www.radiodos.com.ar/214545-ezeiza-asesinaron-a-un-joven-de-un-piedrazo-a-la-salida-de-un-boliche",
-      "title": "Ezeiza: asesinaron a un joven de un piedrazo a la salida de un boliche",
-      "volanta": "VIOLENCIA",
-      "date": "2026-09-28T17:38:39+00:00"
     }
   ]
 }
