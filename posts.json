@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T16:48:44+00:00",
+  "updated": "2026-09-30T16:49:18+00:00",
   "posts": [
+    {
+      "id": "d2e3bd6e",
+      "image": "img/d2e3bd6e.png",
+      "image_sha": "d67f9e4e31aecbe73039cb1b7bf856c9f02285d2",
+      "url": "https://www.radiodos.com.ar/214668-el-municipio-ejecuta-nuevas-obras-pluviales-y-fortalece-el-sistema-de-escurrimiento-del-san-antonio-y-san-roque",
+      "title": "El Municipio ejecuta nuevas obras pluviales y fortalece el sistema de escurrimiento del San Antonio y San Roque",
+      "volanta": "BUEN AVANCE",
+      "date": "2026-09-30T16:49:18+00:00"
+    },
     {
       "id": "fa57877d",
       "image": "img/fa57877d.png",
@@ -531,15 +540,6 @@
       "title": "Ezeiza: asesinaron a un joven de un piedrazo a la salida de un boliche",
       "volanta": "VIOLENCIA",
       "date": "2026-09-28T17:38:39+00:00"
-    },
-    {
-      "id": "a281e876",
-      "image": "img/a281e876.png",
-      "image_sha": "b7c702fb306e04d474370daf8e3800cce0a8c34d",
-      "url": "https://www.radiodos.com.ar/214546-juan-pablo-valdes-la-implementacion-de-zonas-calidas-nos-da-un-poco-de-justicia",
-      "title": "Juan Pablo Valdés: \"La implementación de 'zonas cálidas' nos da un poco de justicia\"",
-      "volanta": "DESDE RIACHUELO",
-      "date": "2026-09-28T17:38:03+00:00"
     }
   ]
 }
