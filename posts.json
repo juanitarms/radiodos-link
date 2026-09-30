@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T21:04:58+00:00",
+  "updated": "2026-09-30T21:18:47+00:00",
   "posts": [
+    {
+      "id": "3b835883",
+      "image": "img/3b835883.png",
+      "image_sha": "850b0ae63bbc0ea8d6184004d9973969b4e77d48",
+      "url": "https://www.radiodos.com.ar/214683-incendio-destruyo-una-vivienda-y-la-familia-pide-ayuda-para-reconstruirla",
+      "title": "Incendio destruyó una vivienda y la familia pide ayuda para reconstruirla",
+      "volanta": "en el barrio Laguna Brava",
+      "date": "2026-09-30T21:18:47+00:00"
+    },
     {
       "id": "e497acad",
       "image": "img/e497acad.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés acompañó a Riachuelo en su 86º aniversario y anunció la construcción de un polideportivo",
       "volanta": "MÁS DE 8 DÉCADAS DE HISTORIA Y DESARROLLO",
       "date": "2026-09-28T21:14:30+00:00"
-    },
-    {
-      "id": "05ec6155",
-      "image": "img/05ec6155.png",
-      "image_sha": "e9f6ac16c0700a75831f712b1b90665490a1dc1c",
-      "url": "https://www.radiodos.com.ar/214557-tiago-pzk-y-la-joaqui-confirmaron-su-romance-con-una-foto-que-termino-con-las-dudas",
-      "title": "Tiago PZK y La Joaqui confirmaron su romance con una foto que terminó con las dudas",
-      "volanta": "MUY JUNTOS",
-      "date": "2026-09-28T18:37:17+00:00"
     }
   ]
 }
