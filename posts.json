@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T11:07:18+00:00",
+  "updated": "2026-09-30T11:21:32+00:00",
   "posts": [
+    {
+      "id": "e4bdd513",
+      "image": "img/e4bdd513.png",
+      "image_sha": "402796afeeab8083f9115b1b59ba0d64865887e3",
+      "url": "https://www.radiodos.com.ar/214633-otro-caso-de-poli-heroes-en-corrientes-salvaron-la-vida-de-un-bebe-que-ya-no-respiraba",
+      "title": "Otro caso de \"poli-héroes\" en Corrientes: salvaron la vida de un bebé que ya no respiraba",
+      "volanta": "RÁPIDO ACCIONAR",
+      "date": "2026-09-30T11:21:32+00:00"
+    },
     {
       "id": "07a4a6ab",
       "image": "img/07a4a6ab.png",
@@ -531,15 +540,6 @@
       "title": "Docentes de todo el país convocados por AMET afianzaron lazos en un torneo",
       "volanta": "EXITOSO ENCUENTRO EN CORRIENTES",
       "date": "2026-09-27T22:55:33+00:00"
-    },
-    {
-      "id": "718c76ad",
-      "image": "img/718c76ad.png",
-      "image_sha": "e8e2dd6226864371aa43ff235fdbb78c8655e25b",
-      "url": "https://www.radiodos.com.ar/214476-la-policia-de-corrientes-desactivo-banda-narco-en-goya",
-      "title": "La Policía de Corrientes desactivó \"banda narco\" en Goya",
-      "volanta": "TRES DETENIDOS",
-      "date": "2026-09-27T20:45:38+00:00"
     }
   ]
 }
