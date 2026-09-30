@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T11:21:32+00:00",
+  "updated": "2026-09-30T11:46:04+00:00",
   "posts": [
+    {
+      "id": "53cb4e1f",
+      "image": "img/53cb4e1f.png",
+      "image_sha": "dbd0ff44ab22841b78f97c1826f861d89b69c1ff",
+      "url": "https://www.radiodos.com.ar/214632-en-paris-jp-valdes-muestra-el-potencial-productivo-de-corrientes-y-busca-nuevas-inversiones",
+      "title": "En París, JP Valdés muestra el potencial productivo de Corrientes y busca nuevas inversiones",
+      "volanta": "AGENDA INTERNACIONAL",
+      "date": "2026-09-30T11:46:04+00:00"
+    },
     {
       "id": "e4bdd513",
       "image": "img/e4bdd513.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina: Con un triplete de Enner Valencia, Boca lo dio vuelta y es semifinalista",
       "volanta": "Fue 3 a 2",
       "date": "2026-09-27T22:56:07+00:00"
-    },
-    {
-      "id": "e8e921a5",
-      "image": "img/e8e921a5.png",
-      "image_sha": "9cd19b5f0b45598b9f34f29988b7a8bd5e89f8d5",
-      "url": "https://www.radiodos.com.ar/214477-docentes-de-todo-el-pais-convocados-por-amet-afianzaron-lazos-en-un-torneo",
-      "title": "Docentes de todo el país convocados por AMET afianzaron lazos en un torneo",
-      "volanta": "EXITOSO ENCUENTRO EN CORRIENTES",
-      "date": "2026-09-27T22:55:33+00:00"
     }
   ]
 }
