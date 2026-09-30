@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T13:44:35+00:00",
+  "updated": "2026-09-30T14:04:26+00:00",
   "posts": [
+    {
+      "id": "cbe93ae6",
+      "image": "img/cbe93ae6.png",
+      "image_sha": "03fa696c27bfa2a8292a1a9d11c1e46e9e0f46d8",
+      "url": "https://www.radiodos.com.ar/214657-el-vaticano-ratifico-que-el-sacerdote-argentino-carlos-miguel-buela-fue-hallado-culpable-de-abusos",
+      "title": "El Vaticano ratificó que el sacerdote argentino Carlos Miguel Buela fue hallado culpable de abusos",
+      "volanta": "FALLO",
+      "date": "2026-09-30T14:04:26+00:00"
+    },
     {
       "id": "42312d44",
       "image": "img/42312d44.png",
@@ -531,15 +540,6 @@
       "title": "El detalle oculto de la infidelidad de Mauro Icardi con la China Suárez que involucró a Wanda Nara",
       "volanta": "EVIDENCIAS",
       "date": "2026-09-28T13:42:22+00:00"
-    },
-    {
-      "id": "923ea280",
-      "image": "img/923ea280.png",
-      "image_sha": "eb987313a83c9b9f46da84d4fa3acbb09a0f15b5",
-      "url": "https://www.radiodos.com.ar/214535-tini-stoessel-sera-la-madrina-de-la-hija-de-un-futbolista",
-      "title": "Tini Stoessel será la madrina de la hija de un futbolista",
-      "volanta": "FELICIDADES",
-      "date": "2026-09-28T13:18:22+00:00"
     }
   ]
 }
