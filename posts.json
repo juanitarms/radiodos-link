@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T16:48:16+00:00",
+  "updated": "2026-09-30T16:48:44+00:00",
   "posts": [
+    {
+      "id": "fa57877d",
+      "image": "img/fa57877d.png",
+      "image_sha": "4f5990a2c79af00d2c37793b2a5fb0bf0f66fd52",
+      "url": "https://www.radiodos.com.ar/214673-la-provincia-entrego-certificados-del-curso-de-gestores-energeticos",
+      "title": "La Provincia entregó certificados del Curso de Gestores Energéticos",
+      "volanta": "ACTO EN EL SALÓN VERDE",
+      "date": "2026-09-30T16:48:44+00:00"
+    },
     {
       "id": "68addb91",
       "image": "img/68addb91.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés: \"La implementación de 'zonas cálidas' nos da un poco de justicia\"",
       "volanta": "DESDE RIACHUELO",
       "date": "2026-09-28T17:38:03+00:00"
-    },
-    {
-      "id": "e6b27cbd",
-      "image": "img/e6b27cbd.png",
-      "image_sha": "5434324b0897c9f818f469f6cc113c11cf9467ed",
-      "url": "https://www.radiodos.com.ar/214530-bautista-mino-joven-correntino-clasificado-al-nacional-de-menores-de-salta",
-      "title": "Bautista Miño, joven correntino clasificado al Nacional de Menores de Salta",
-      "volanta": "TENIS",
-      "date": "2026-09-28T15:05:57+00:00"
     }
   ]
 }
