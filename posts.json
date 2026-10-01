@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T21:54:37+00:00",
+  "updated": "2026-10-01T21:56:59+00:00",
   "posts": [
+    {
+      "id": "df50d2a9",
+      "image": "img/df50d2a9.png",
+      "image_sha": "4c7854e799891a946302805786df3853dbcef7df",
+      "url": "https://www.radiodos.com.ar/214750-el-ingreso-por-persona-promedio-fue-inferior-a-700000-en-el-segundo-trimestre",
+      "title": "El ingreso por persona promedio fue inferior a $700.000 en el segundo trimestre",
+      "volanta": "SEGÚN EL INDEC",
+      "date": "2026-10-01T21:56:59+00:00"
+    },
     {
       "id": "bd8333b2",
       "image": "img/bd8333b2.png",
@@ -531,15 +540,6 @@
       "title": "Encuesta: el 52% cree que Milei no merece la reelección",
       "volanta": "ELECCIONES 2027",
       "date": "2026-09-29T21:39:49+00:00"
-    },
-    {
-      "id": "77a66f2b",
-      "image": "img/77a66f2b.png",
-      "image_sha": "c222cced76be2884ef341f11a1ac5aa8762964df",
-      "url": "https://www.radiodos.com.ar/214623-construccion-la-actividad-cayo-un-286-en-corrientes-y-advierten-por-el-impacto-en-el-empleo",
-      "title": "Construcción: la actividad cayó un 28,6% en Corrientes y advierten por el impacto en el empleo",
-      "volanta": "crisis",
-      "date": "2026-09-29T21:13:37+00:00"
     }
   ]
 }
