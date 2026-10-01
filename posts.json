@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T10:35:27+00:00",
+  "updated": "2026-10-01T11:11:53+00:00",
   "posts": [
+    {
+      "id": "a1a3f40f",
+      "image": "img/a1a3f40f.png",
+      "image_sha": "bc9448e25eea5e09d7f78efc4cac33b4eef220b1",
+      "url": "https://www.radiodos.com.ar/214695-reconocieron-a-los-policias-que-salvaron-la-vida-de-un-bebe-en-corrientes",
+      "title": "Reconocieron a los policías que salvaron la vida de un bebé en Corrientes",
+      "volanta": "HEROES CON UNIFORMES",
+      "date": "2026-10-01T11:11:53+00:00"
+    },
     {
       "id": "c25f8629",
       "image": "img/c25f8629.png",
@@ -531,15 +540,6 @@
       "title": "San Miguel impulsa su turismo en la FIT 2026 en vísperas de sus Fiestas Patronales",
       "volanta": "TURISMO",
       "date": "2026-09-28T21:51:40+00:00"
-    },
-    {
-      "id": "9c17670e",
-      "image": "img/9c17670e.png",
-      "image_sha": "e57af778c1f762ea0d8c5a68d448674593855dd8",
-      "url": "https://www.radiodos.com.ar/214569-el-subsidio-a-la-luz-arrancara-desde-el-1-de-noviembre",
-      "title": "El subsidio a la luz arrancará desde el 1 de noviembre",
-      "volanta": "nuevo esquema",
-      "date": "2026-09-28T21:51:01+00:00"
     }
   ]
 }
