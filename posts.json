@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T17:54:12+00:00",
+  "updated": "2026-10-01T17:54:48+00:00",
   "posts": [
+    {
+      "id": "b58ec498",
+      "image": "img/b58ec498.png",
+      "image_sha": "a28d52ad28b4fdc20daf1fde571b135f4e7ec6de",
+      "url": "https://www.radiodos.com.ar/214725-la-justicia-de-estados-unidos-desestimo-la-demanda-por-libra-y-cerro-la-causa-contra-hayden-davis",
+      "title": "La Justicia de Estados Unidos desestimó la demanda por $LIBRA y cerró la causa contra Hayden Davis",
+      "volanta": "CIERRE",
+      "date": "2026-10-01T17:54:48+00:00"
+    },
     {
       "id": "38e5eb21",
       "image": "img/38e5eb21.png",
@@ -531,15 +540,6 @@
       "title": "El líder de Volcán, Roberto Edgar, se sumó a La Libertad Avanza y se candidateó a intendente de Puerto Iguazú",
       "volanta": "MISIONES",
       "date": "2026-09-29T14:52:58+00:00"
-    },
-    {
-      "id": "e8186049",
-      "image": "img/e8186049.png",
-      "image_sha": "c495f9d9dbf325fdad609947888050ba744489b4",
-      "url": "https://www.radiodos.com.ar/214599-hallaron-muerto-al-senador-juan-carlos-pagotto-en-su-casa-de-la-rioja",
-      "title": "Hallaron muerto al senador Juan Carlos Pagotto en su casa de La Rioja",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-09-29T14:18:36+00:00"
     }
   ]
 }
