@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T12:33:30+00:00",
+  "updated": "2026-10-01T13:04:35+00:00",
   "posts": [
+    {
+      "id": "5b450b8a",
+      "image": "img/5b450b8a.png",
+      "image_sha": "b41e0df8bfe43abc6d90ab7a7e1cf859001c8a42",
+      "url": "https://www.radiodos.com.ar/214698-se-presento-un-proyecto-de-ley-para-crear-el-juzgado-electoral-de-corrientes",
+      "title": "Se presentó un proyecto de ley para crear el Juzgado Electoral de Corrientes",
+      "volanta": "ADELANTO",
+      "date": "2026-10-01T13:04:35+00:00"
+    },
     {
       "id": "107bcbaf",
       "image": "img/107bcbaf.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés viaja con Milei a la Argentina Week",
       "volanta": "PARA BUSCAR INVERSORES",
       "date": "2026-09-29T10:28:14+00:00"
-    },
-    {
-      "id": "84c73b74",
-      "image": "img/84c73b74.png",
-      "image_sha": "3bf0be0dd814e2b480642963084fe91dc0742015",
-      "url": "https://www.radiodos.com.ar/214572-estallo-un-tablero-electrico-y-los-vecinos-debieron-autoevacuarse",
-      "title": "Estalló un tablero eléctrico y los vecinos debieron autoevacuarse",
-      "volanta": "Pánico y corridas",
-      "date": "2026-09-28T23:25:24+00:00"
     }
   ]
 }
