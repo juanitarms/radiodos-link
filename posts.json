@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T16:26:33+00:00",
+  "updated": "2026-10-01T17:54:12+00:00",
   "posts": [
+    {
+      "id": "38e5eb21",
+      "image": "img/38e5eb21.png",
+      "image_sha": "3018683a06cbce3bae0bb9aa9ecc2370838d6535",
+      "url": "https://www.radiodos.com.ar/214726-catastro-en-corrientes-ejecutivo-y-justicia-acuerdan-pautas-de-comunicacion-electronica",
+      "title": "Catastro en Corrientes: Ejecutivo y Justicia acuerdan pautas de comunicación electrónica",
+      "volanta": "MODERNIZACIÓN EN SERVICIO PÚBLICO",
+      "date": "2026-10-01T17:54:12+00:00"
+    },
     {
       "id": "094d967c",
       "image": "img/094d967c.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron muerto al senador Juan Carlos Pagotto en su casa de La Rioja",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-09-29T14:18:36+00:00"
-    },
-    {
-      "id": "d83799e2",
-      "image": "img/d83799e2.png",
-      "image_sha": "26005305004536999eb2a95b34fca9e6cfe47d32",
-      "url": "https://www.radiodos.com.ar/214593-confirman-romance-entre-romina-uhrig-y-el-productor-general-de-gran-hermano",
-      "title": "Confirman romance entre Romina Uhrig y el productor general de Gran Hermano",
-      "volanta": "SORPRESA",
-      "date": "2026-09-29T14:00:32+00:00"
     }
   ]
 }
