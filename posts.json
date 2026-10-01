@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T13:22:07+00:00",
+  "updated": "2026-10-01T13:50:02+00:00",
   "posts": [
+    {
+      "id": "a0a29ba7",
+      "image": "img/a0a29ba7.png",
+      "image_sha": "27b0081e3d1b27876e4e879b7b4f5f29b072ca90",
+      "url": "https://www.radiodos.com.ar/214706-ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-de-la-region",
+      "title": "Ranking QS: la UBA se mantiene en el top 10 regional, pero el país obtuvo el balance más negativo de la región",
+      "volanta": "POSICIONADA",
+      "date": "2026-10-01T13:50:02+00:00"
+    },
     {
       "id": "8a76e655",
       "image": "img/8a76e655.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Bella Vista y Mercedes",
       "volanta": "ESTE MARTES Y MIÉRCOLES",
       "date": "2026-09-29T11:55:27+00:00"
-    },
-    {
-      "id": "b1ff4820",
-      "image": "img/b1ff4820.png",
-      "image_sha": "efa099402acffcbe0967eb052ef31ddfd71b4b9c",
-      "url": "https://www.radiodos.com.ar/214575-varias-localidades-de-corrientes-afectadas-por-temporal-de-granizo",
-      "title": "Varias localidades de Corrientes afectadas por temporal de granizo",
-      "volanta": "CLIMA HOSTIL",
-      "date": "2026-09-29T11:18:41+00:00"
     }
   ]
 }
