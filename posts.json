@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T21:18:43+00:00",
+  "updated": "2026-10-01T21:54:37+00:00",
   "posts": [
+    {
+      "id": "bd8333b2",
+      "image": "img/bd8333b2.png",
+      "image_sha": "9f732160ca9a71a900a43329d78cde7effb5eec8",
+      "url": "https://www.radiodos.com.ar/214747-corrientes-homenajeo-a-manuel-belgrano-en-el-inicio-del-iv-congreso-nacional-e-internacional-belgraniano",
+      "title": "Corrientes homenajeó a Manuel Belgrano en el inicio del IV Congreso Nacional e Internacional Belgraniano",
+      "volanta": "ACTO PROTOCOLAR",
+      "date": "2026-10-01T21:54:37+00:00"
+    },
     {
       "id": "bad08ddf",
       "image": "img/bad08ddf.png",
@@ -531,15 +540,6 @@
       "title": "Construcción: la actividad cayó un 28,6% en Corrientes y advierten por el impacto en el empleo",
       "volanta": "crisis",
       "date": "2026-09-29T21:13:37+00:00"
-    },
-    {
-      "id": "da5a2dfc",
-      "image": "img/da5a2dfc.png",
-      "image_sha": "cb6b781f6e5875e65ab0b4eebd2ed53db5662f41",
-      "url": "https://www.radiodos.com.ar/214624-corrientes-los-gendarmes-percibieron-un-fuerte-olor-a-cafe-y-descubrieron-que-llevaban-cogollos-de-marihuana",
-      "title": "Corrientes: los gendarmes percibieron un fuerte olor a café y descubrieron que llevaban cogollos de marihuana",
-      "volanta": "POR RUTA 12",
-      "date": "2026-09-29T21:11:49+00:00"
     }
   ]
 }
