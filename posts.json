@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T13:50:02+00:00",
+  "updated": "2026-10-01T14:05:41+00:00",
   "posts": [
+    {
+      "id": "e6d2487d",
+      "image": "img/e6d2487d.png",
+      "image_sha": "704a2a353ac38892216fc60481da8a7bfaaa2819",
+      "url": "https://www.radiodos.com.ar/214723-femicidio-en-tigre-desgarrador-testimonio-del-padre-de-aixa-la-joven-hallada-muerta-en-su-casa",
+      "title": "Femicidio en Tigre: desgarrador testimonio del padre de Aixa, la joven hallada muerta en su casa",
+      "volanta": "DRAMÁTICO",
+      "date": "2026-10-01T14:05:41+00:00"
+    },
     {
       "id": "a0a29ba7",
       "image": "img/a0a29ba7.png",
@@ -531,15 +540,6 @@
       "title": "UNNE recibe al país para el debate y transferencia científica acerca de la contabilidad",
       "volanta": "A PARTIR DE ESTE MIÉRCOLES 30",
       "date": "2026-09-29T12:07:39+00:00"
-    },
-    {
-      "id": "b3ade2ae",
-      "image": "img/b3ade2ae.png",
-      "image_sha": "f80b3710a01f59ae39a30ca827ab262443191596",
-      "url": "https://www.radiodos.com.ar/214577-la-dpec-realizara-trabajos-de-mejoras-en-bella-vista-y-mercedes",
-      "title": "La DPEC realizará trabajos de mejoras en Bella Vista y Mercedes",
-      "volanta": "ESTE MARTES Y MIÉRCOLES",
-      "date": "2026-09-29T11:55:27+00:00"
     }
   ]
 }
