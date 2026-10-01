@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T20:46:07+00:00",
+  "updated": "2026-10-01T21:14:48+00:00",
   "posts": [
+    {
+      "id": "11bff8ab",
+      "image": "img/11bff8ab.png",
+      "image_sha": "36c90e28dc0aa9de2ca5c21c00d39493d9dc4ae5",
+      "url": "https://www.radiodos.com.ar/214744-intentaron-linchar-a-un-ladron-en-un-barrio-de-corrientes-lo-salvo-la-policia",
+      "title": "Intentaron linchar a un ladrón en un barrio de Corrientes: lo salvó la Policía",
+      "volanta": "BARRIO ALDANA",
+      "date": "2026-10-01T21:14:48+00:00"
+    },
     {
       "id": "d6efbec1",
       "image": "img/d6efbec1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes sumó equipamiento de última generación para el tratamiento de recién nacidos",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-09-29T21:01:23+00:00"
-    },
-    {
-      "id": "d787127a",
-      "image": "img/d787127a.png",
-      "image_sha": "7ca266d51ef5926f6b37d577403d477ba7671e79",
-      "url": "https://www.radiodos.com.ar/214607-denuncio-a-su-companero-de-padel-por-acoso-y-brujeria",
-      "title": "Denunció a su compañero de pádel por acoso y \"brujería\"",
-      "volanta": "MISIONES",
-      "date": "2026-09-29T16:56:00+00:00"
     }
   ]
 }
