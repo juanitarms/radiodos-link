@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T16:26:01+00:00",
+  "updated": "2026-10-01T16:26:33+00:00",
   "posts": [
+    {
+      "id": "094d967c",
+      "image": "img/094d967c.png",
+      "image_sha": "9c57a14a91935c8905561e1642c0a1205d741657",
+      "url": "https://www.radiodos.com.ar/214727-karina-milei-se-reunio-con-representantes-de-empresas-francesas-que-ampliaran-sus-inversiones-en-la-argentina",
+      "title": "Karina Milei se reunió con representantes de empresas francesas que ampliarán sus inversiones en la Argentina",
+      "volanta": "FRANCIA",
+      "date": "2026-10-01T16:26:33+00:00"
+    },
     {
       "id": "70d7a9c4",
       "image": "img/70d7a9c4.png",
@@ -531,15 +540,6 @@
       "title": "Confirman romance entre Romina Uhrig y el productor general de Gran Hermano",
       "volanta": "SORPRESA",
       "date": "2026-09-29T14:00:32+00:00"
-    },
-    {
-      "id": "371f5528",
-      "image": "img/371f5528.png",
-      "image_sha": "eb5916b3cfb807dd08bcfd65020cceeb6b84aca7",
-      "url": "https://www.radiodos.com.ar/214594-la-nueva-interna-entre-tini-stoessel-y-su-padre-que-salio-a-la-luz",
-      "title": "La nueva interna entre Tini Stoessel y su padre que salió a la luz",
-      "volanta": "SIGUE EL CONFLICTO",
-      "date": "2026-09-29T13:34:47+00:00"
     }
   ]
 }
