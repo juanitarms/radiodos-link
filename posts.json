@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T23:59:33+00:00",
+  "updated": "2026-10-01T00:05:57+00:00",
   "posts": [
+    {
+      "id": "87b99fac",
+      "image": "img/87b99fac.png",
+      "image_sha": "f2a2e013de45da820b80798ad07b6638125d20d5",
+      "url": "https://www.radiodos.com.ar/214688-para-milei-los-argentinos-van-a-tener-que-decidir-si-quieren-prosperidad-o-decadencia",
+      "title": "Para Milei \"los argentinos van a tener que decidir si quieren prosperidad o decadencia\"",
+      "volanta": "ELECCIONES 2027",
+      "date": "2026-10-01T00:05:57+00:00"
+    },
     {
       "id": "994812e6",
       "image": "img/994812e6.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Vojvoda dejará de ser el entrenador de Racing",
       "volanta": "Tras la dura derrota ante Boca",
       "date": "2026-09-28T21:20:41+00:00"
-    },
-    {
-      "id": "65deca91",
-      "image": "img/65deca91.png",
-      "image_sha": "5fb3936e18b57649510c4d543680767e4ab02f63",
-      "url": "https://www.radiodos.com.ar/214564-corrientes-acumula-casi-19000-motos-patentadas-en-siete-meses",
-      "title": "Corrientes acumula casi 19.000 motos patentadas en siete meses",
-      "volanta": "datos oficiales",
-      "date": "2026-09-28T21:20:04+00:00"
     }
   ]
 }
