@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T15:06:15+00:00",
+  "updated": "2026-10-01T16:26:01+00:00",
   "posts": [
+    {
+      "id": "70d7a9c4",
+      "image": "img/70d7a9c4.png",
+      "image_sha": "9f3c0ec33bd7d28fcb03b83a7cd19ebefa52000f",
+      "url": "https://www.radiodos.com.ar/214722-mas-complicado-el-ex-senador-libertario-edgardo-kueider-ahora-quedo-involucrado-en-otra-causa-de-corrupcion",
+      "title": "Más complicado: el ex senador libertario Edgardo Kueider ahora quedó involucrado en otra causa de corrupción",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-10-01T16:26:01+00:00"
+    },
     {
       "id": "02899bd2",
       "image": "img/02899bd2.png",
@@ -531,15 +540,6 @@
       "title": "La nueva interna entre Tini Stoessel y su padre que salió a la luz",
       "volanta": "SIGUE EL CONFLICTO",
       "date": "2026-09-29T13:34:47+00:00"
-    },
-    {
-      "id": "a90dd43e",
-      "image": "img/a90dd43e.png",
-      "image_sha": "fc9f292118c066bfe5c239327fe844f8e369c454",
-      "url": "https://www.radiodos.com.ar/214587-la-probable-formacion-de-argentina-para-recibir-a-bolivia",
-      "title": "La probable formación de Argentina para recibir a Bolivia",
-      "volanta": "AMISTOSO",
-      "date": "2026-09-29T13:17:57+00:00"
     }
   ]
 }
