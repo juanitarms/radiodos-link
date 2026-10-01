@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T21:15:50+00:00",
+  "updated": "2026-10-01T21:18:43+00:00",
   "posts": [
+    {
+      "id": "bad08ddf",
+      "image": "img/bad08ddf.png",
+      "image_sha": "aa25a2f654c4918c7558638927bfd58c30d2e293",
+      "url": "https://www.radiodos.com.ar/214745-fundacion-nacer-con-ciencia-realizo-su-lanzamiento-e-inicia-primera-campana-de-prevencion-en-corrientes",
+      "title": "Fundación Nacer con Ciencia realizó su lanzamiento e inicia primera campaña de prevención en Corrientes",
+      "volanta": "SALUD Y CIENCIA",
+      "date": "2026-10-01T21:18:43+00:00"
+    },
     {
       "id": "a9c264e7",
       "image": "img/a9c264e7.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: los gendarmes percibieron un fuerte olor a café y descubrieron que llevaban cogollos de marihuana",
       "volanta": "POR RUTA 12",
       "date": "2026-09-29T21:11:49+00:00"
-    },
-    {
-      "id": "3becde22",
-      "image": "img/3becde22.png",
-      "image_sha": "58fb99981f037831fa308b5a0c6a3a93c330d38d",
-      "url": "https://www.radiodos.com.ar/214622-que-dijo-lionel-scaloni-sobre-su-continuidad-en-la-seleccion-argentina",
-      "title": "Qué dijo Lionel Scaloni sobre su continuidad en la Selección argentina",
-      "volanta": "DT ARGENTINO",
-      "date": "2026-09-29T21:04:31+00:00"
     }
   ]
 }
