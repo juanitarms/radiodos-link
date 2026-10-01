@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T14:05:41+00:00",
+  "updated": "2026-10-01T14:29:58+00:00",
   "posts": [
+    {
+      "id": "15472aef",
+      "image": "img/15472aef.png",
+      "image_sha": "45a07a58e6112ee59471c6ccbce26b815dc609e7",
+      "url": "https://www.radiodos.com.ar/214719-el-emotivo-recuerdo-de-cris-morena-a-16-anos-de-la-muerte-de-romina-yan-siempre-juntas-hijita-amada",
+      "title": "El emotivo recuerdo de Cris Morena a 16 años de la muerte de Romina Yan: \"Siempre juntas, hijita amada\"",
+      "volanta": "GRAN RECUERDO",
+      "date": "2026-10-01T14:29:58+00:00"
+    },
     {
       "id": "e6d2487d",
       "image": "img/e6d2487d.png",
@@ -531,15 +540,6 @@
       "title": "Una localidad del interior de Corrientes aprobó al guaraní como lengua cooficial",
       "volanta": "CULTURA E HISTORIA",
       "date": "2026-09-29T12:31:28+00:00"
-    },
-    {
-      "id": "23ba7b34",
-      "image": "img/23ba7b34.png",
-      "image_sha": "fe42b94bd9ab47f98468f884e170d4d2b19a401c",
-      "url": "https://www.radiodos.com.ar/214576-unne-recibe-al-pais-para-el-debate-y-transferencia-cientifica-acerca-de-la-contabilidad",
-      "title": "UNNE recibe al país para el debate y transferencia científica acerca de la contabilidad",
-      "volanta": "A PARTIR DE ESTE MIÉRCOLES 30",
-      "date": "2026-09-29T12:07:39+00:00"
     }
   ]
 }
