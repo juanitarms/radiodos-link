@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T21:14:48+00:00",
+  "updated": "2026-10-01T21:15:20+00:00",
   "posts": [
+    {
+      "id": "711178e4",
+      "image": "img/711178e4.png",
+      "image_sha": "b29769cce43d6da2265ab52c1bf29561ef31cef2",
+      "url": "https://www.radiodos.com.ar/214743-imputaron-a-profesor-de-la-unne-por-abuso-sexual",
+      "title": "Imputaron a profesor de la UNNE por abuso sexual",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-01T21:15:20+00:00"
+    },
     {
       "id": "11bff8ab",
       "image": "img/11bff8ab.png",
@@ -531,15 +540,6 @@
       "title": "Por el Día del Recolector de Residuos, este viernes no habrá servicio en Corrientes en el turno mañana",
       "volanta": "CONMEMORACIÓN DEL 2 DE OCTUBRE",
       "date": "2026-09-29T21:03:55+00:00"
-    },
-    {
-      "id": "e183fb68",
-      "image": "img/e183fb68.png",
-      "image_sha": "1bf4afe0dd290fcdd66803a8c72eea363528b814",
-      "url": "https://www.radiodos.com.ar/214621-corrientes-sumo-equipamiento-de-ultima-generacion-para-el-tratamiento-de-recien-nacidos",
-      "title": "Corrientes sumó equipamiento de última generación para el tratamiento de recién nacidos",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-09-29T21:01:23+00:00"
     }
   ]
 }
