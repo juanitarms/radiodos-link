@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T02:49:05+00:00",
+  "updated": "2026-10-01T10:35:27+00:00",
   "posts": [
+    {
+      "id": "c25f8629",
+      "image": "img/c25f8629.png",
+      "image_sha": "983894c70e2d5fe9a46c7ce3111fe0ea8fe50869",
+      "url": "https://www.radiodos.com.ar/214693-lionel-scaloni-seguimos-siendo-una-seleccion-competitiva-y-podemos-disfrutar-a-jugadores-con-distintas-caracteristicas",
+      "title": "Lionel Scaloni: \"Seguimos siendo una Selección competitiva y podemos disfrutar a jugadores con distintas características\"",
+      "volanta": "Primer cotejo post Messi",
+      "date": "2026-10-01T10:35:27+00:00"
+    },
     {
       "id": "4fa26853",
       "image": "img/4fa26853.png",
@@ -531,15 +540,6 @@
       "title": "El subsidio a la luz arrancará desde el 1 de noviembre",
       "volanta": "nuevo esquema",
       "date": "2026-09-28T21:51:01+00:00"
-    },
-    {
-      "id": "2cd1105d",
-      "image": "img/2cd1105d.png",
-      "image_sha": "97ec6aca99aaa5e9498268f708db7d01ed68e6d3",
-      "url": "https://www.radiodos.com.ar/214566-anuncian-un-martes-con-tormentas-y-descenso-de-temperatura-en-corrientes",
-      "title": "Anuncian un martes con tormentas y descenso de temperatura en Corrientes",
-      "volanta": "ALIVIO TRAS EL INTENSO CALOR",
-      "date": "2026-09-28T21:50:18+00:00"
     }
   ]
 }
