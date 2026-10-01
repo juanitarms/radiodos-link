@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T19:11:39+00:00",
+  "updated": "2026-10-01T20:46:07+00:00",
   "posts": [
+    {
+      "id": "d6efbec1",
+      "image": "img/d6efbec1.png",
+      "image_sha": "27d12ee310d1573d66a054dc59c3eec2fc3ab748",
+      "url": "https://www.radiodos.com.ar/214742-tras-el-aumento-de-la-pobreza-la-desigualdad-crecio-durante-el-segundo-trimestre-de-2026",
+      "title": "Tras el aumento de la pobreza, la desigualdad creció durante el segundo trimestre de 2026",
+      "volanta": "CRISIS EN LA ERA MILEI",
+      "date": "2026-10-01T20:46:07+00:00"
+    },
     {
       "id": "de66228e",
       "image": "img/de66228e.png",
@@ -531,15 +540,6 @@
       "title": "Denunció a su compañero de pádel por acoso y \"brujería\"",
       "volanta": "MISIONES",
       "date": "2026-09-29T16:56:00+00:00"
-    },
-    {
-      "id": "5597c147",
-      "image": "img/5597c147.png",
-      "image_sha": "406ded33f78d2f69d7c0917c2567b18442417a55",
-      "url": "https://www.radiodos.com.ar/214608-un-nene-festejo-su-cumpleanos-con-excombatientes-de-malvinas",
-      "title": "Un nene festejó su cumpleaños con excombatientes de Malvinas",
-      "volanta": "PATRIA",
-      "date": "2026-09-29T16:55:21+00:00"
     }
   ]
 }
