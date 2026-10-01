@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T17:54:48+00:00",
+  "updated": "2026-10-01T19:10:31+00:00",
   "posts": [
+    {
+      "id": "ebd75c41",
+      "image": "img/ebd75c41.png",
+      "image_sha": "267e382c8c6dc3343941b37e0e061b0f08509f36",
+      "url": "https://www.radiodos.com.ar/214729-berazategui-encontraron-muerta-a-una-nena-de-11-anos-en-su-casa-de-y-detuvieron-a-toda-su-familia",
+      "title": "Berazategui: encontraron muerta a una nena de 11 años en su casa de y detuvieron a toda su familia",
+      "volanta": "INVESTIGACIÓN INICIAL",
+      "date": "2026-10-01T19:10:31+00:00"
+    },
     {
       "id": "b58ec498",
       "image": "img/b58ec498.png",
@@ -531,15 +540,6 @@
       "title": "MasterChef Celebrity arrasa con el rating en su debut: los números del reality de Wanda Nara",
       "volanta": "GRAN INICIO",
       "date": "2026-09-29T15:15:08+00:00"
-    },
-    {
-      "id": "d8363519",
-      "image": "img/d8363519.png",
-      "image_sha": "dbad6bde675469be2f8795eafea128e45ffafd36",
-      "url": "https://www.radiodos.com.ar/214603-el-lider-de-volcan-roberto-edgar-se-sumo-a-la-libertad-avanza-y-se-candidateo-a-intendente-de-puerto-iguazu",
-      "title": "El líder de Volcán, Roberto Edgar, se sumó a La Libertad Avanza y se candidateó a intendente de Puerto Iguazú",
-      "volanta": "MISIONES",
-      "date": "2026-09-29T14:52:58+00:00"
     }
   ]
 }
