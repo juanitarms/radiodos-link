@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T12:15:10+00:00",
+  "updated": "2026-10-01T12:33:30+00:00",
   "posts": [
+    {
+      "id": "107bcbaf",
+      "image": "img/107bcbaf.png",
+      "image_sha": "bff45c8a087b4bab5c4f40ffae60958c467914ae",
+      "url": "https://www.radiodos.com.ar/214700-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+      "volanta": "ESTE JUEVES",
+      "date": "2026-10-01T12:33:30+00:00"
+    },
     {
       "id": "19c0533e",
       "image": "img/19c0533e.png",
@@ -531,15 +540,6 @@
       "title": "Estalló un tablero eléctrico y los vecinos debieron autoevacuarse",
       "volanta": "Pánico y corridas",
       "date": "2026-09-28T23:25:24+00:00"
-    },
-    {
-      "id": "e4ee4704",
-      "image": "img/e4ee4704.png",
-      "image_sha": "e1e03a969e0f8b758b9afe268a066bb8f47a668d",
-      "url": "https://www.radiodos.com.ar/214570-video-quisieron-desafiar-a-messi-y-el-demostro-con-su-magia",
-      "title": "Video: Quisieron desafiar a Messi y él demostró con su magia",
-      "volanta": "Su 931° gol",
-      "date": "2026-09-28T23:24:43+00:00"
     }
   ]
 }
