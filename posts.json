@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T14:30:35+00:00",
+  "updated": "2026-10-02T15:07:02+00:00",
   "posts": [
+    {
+      "id": "5de2cdf2",
+      "image": "img/5de2cdf2.png",
+      "image_sha": "a39913ca5d13dde52c1bdfa358463336e0d8b125",
+      "url": "https://www.radiodos.com.ar/214789-por-la-visita-del-papa-leon-xiv-los-bancos-permaneceran-cerrados-durante-cinco-dias-seguidos",
+      "title": "Por la visita del papa León XIV los bancos permanecerán cerrados durante cinco días seguidos",
+      "volanta": "CONFIRMADO",
+      "date": "2026-10-02T15:07:02+00:00"
+    },
     {
       "id": "aa217f6f",
       "image": "img/aa217f6f.png",
@@ -531,15 +540,6 @@
       "title": "En allanamiento secuestran distintos aparatos electrónicos",
       "volanta": "ITATÍ",
       "date": "2026-09-30T12:30:36+00:00"
-    },
-    {
-      "id": "deeb37c9",
-      "image": "img/deeb37c9.png",
-      "image_sha": "bfb2817578c16f41996388e6deb762fc09de08f8",
-      "url": "https://www.radiodos.com.ar/214637-la-provincia-sumo-equipamiento-de-ultima-generacion-para-el-tratamiento-de-recien-nacidos",
-      "title": "La Provincia sumó equipamiento de última generación para el tratamiento de recién nacidos",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-09-30T12:20:18+00:00"
     }
   ]
 }
