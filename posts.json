@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T23:34:19+00:00",
+  "updated": "2026-10-02T23:34:49+00:00",
   "posts": [
+    {
+      "id": "74b96eec",
+      "image": "img/74b96eec.png",
+      "image_sha": "ba2f34f13086ae4690c7ba63028b181c152faddd",
+      "url": "https://www.radiodos.com.ar/214814-investigan-si-policias-liberaron-a-detenidos-para-robar-un-pago-facil-y-devolverlos-a-sus-celdas",
+      "title": "Investigan si policías liberaron a detenidos para robar un Pago Fácil y devolverlos a sus celdas",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-02T23:34:49+00:00"
+    },
     {
       "id": "10d65b74",
       "image": "img/10d65b74.png",
@@ -531,15 +540,6 @@
       "title": "Denunciaron a Joaquín Levinton por violencia de género, abuso sexual y privación ilegítima de la libertad",
       "volanta": "TERRIBLE",
       "date": "2026-09-30T18:41:39+00:00"
-    },
-    {
-      "id": "2c6f09a4",
-      "image": "img/2c6f09a4.png",
-      "image_sha": "f9c22a11a38635c28376a43d9c32887bf34a3214",
-      "url": "https://www.radiodos.com.ar/214669-aguas-de-corrientes-reparo-una-perdida-de-agua-ocasionada-por-el-robo-de-una-valvula-en-el-centro-de-distribucion-del-barrio-serantes",
-      "title": "Aguas de Corrientes reparó una pérdida de agua ocasionada por el robo de una válvula en el Centro de Distribución del barrio Serantes",
-      "volanta": "TRABAJOS DE MEJORAS",
-      "date": "2026-09-30T18:40:49+00:00"
     }
   ]
 }
