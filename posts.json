@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T20:45:18+00:00",
+  "updated": "2026-10-02T20:46:13+00:00",
   "posts": [
+    {
+      "id": "12bdfb3a",
+      "image": "img/12bdfb3a.png",
+      "image_sha": "8913f881ebb87496ab4a129771a0fe593e4029b8",
+      "url": "https://www.radiodos.com.ar/214807-mas-de-900-profesionales-participaron-de-la-i-jornada-cientifica-de-enfermeria-oncologica-en-corrientes",
+      "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
+      "volanta": "CON APOYO PROVINCIAL",
+      "date": "2026-10-02T20:46:13+00:00"
+    },
     {
       "id": "dba25216",
       "image": "img/dba25216.png",
@@ -531,15 +540,6 @@
       "title": "Chaco: encontraron muerta a una mujer de 75 años en su casa y detuvieron a un vecino",
       "volanta": "INVESTIGACIÓN ABIERTA",
       "date": "2026-09-30T15:05:47+00:00"
-    },
-    {
-      "id": "0be072f3",
-      "image": "img/0be072f3.png",
-      "image_sha": "e9bea69a9140b203de4da5ace9a08692eb21fb4a",
-      "url": "https://www.radiodos.com.ar/214653-san-cosme-vivira-la-12-pesca-de-la-palometa-con-degustacion-y-la-primera-fiesta-provincial",
-      "title": "San Cosme vivirá la 12ª Pesca de la Palometa con Degustación y la Primera Fiesta Provincial",
-      "volanta": "10 y 11 de octubre",
-      "date": "2026-09-30T14:46:32+00:00"
     }
   ]
 }
