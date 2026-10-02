@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T17:06:27+00:00",
+  "updated": "2026-10-02T19:27:29+00:00",
   "posts": [
+    {
+      "id": "6dfad241",
+      "image": "img/6dfad241.png",
+      "image_sha": "c296937fe58045fff90c83c6b127749df7e12e15",
+      "url": "https://www.radiodos.com.ar/214798-panico-en-una-escuela-un-hombre-entro-armado-con-un-cuchillo-y-se-atrinchero-en-un-aula",
+      "title": "Pánico en una escuela: un hombre entró armado con un cuchillo y se atrincheró en un aula",
+      "volanta": "Merlo",
+      "date": "2026-10-02T19:27:29+00:00"
+    },
     {
       "id": "e9e782d5",
       "image": "img/e9e782d5.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba: un pitbull apareció muerto tras atacar a una jubilada",
       "volanta": "UNQUILLO",
       "date": "2026-09-30T14:24:34+00:00"
-    },
-    {
-      "id": "cbe93ae6",
-      "image": "img/cbe93ae6.png",
-      "image_sha": "03fa696c27bfa2a8292a1a9d11c1e46e9e0f46d8",
-      "url": "https://www.radiodos.com.ar/214657-el-vaticano-ratifico-que-el-sacerdote-argentino-carlos-miguel-buela-fue-hallado-culpable-de-abusos",
-      "title": "El Vaticano ratificó que el sacerdote argentino Carlos Miguel Buela fue hallado culpable de abusos",
-      "volanta": "FALLO",
-      "date": "2026-09-30T14:04:26+00:00"
     }
   ]
 }
