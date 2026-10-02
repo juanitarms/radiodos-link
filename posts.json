@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T11:49:01+00:00",
+  "updated": "2026-10-02T11:54:44+00:00",
   "posts": [
+    {
+      "id": "573c98ae",
+      "image": "img/573c98ae.png",
+      "image_sha": "21d2e66beb7b7dee3f32cc115b4e1b95fd275903",
+      "url": "https://www.radiodos.com.ar/214761-un-camionero-brasileno-fue-hallado-muerto-en-la-aduana-de-santo-tome",
+      "title": "Un camionero brasileño fue hallado muerto en la aduana de Santo Tomé",
+      "volanta": "PASO FRONTERIZO",
+      "date": "2026-10-02T11:54:44+00:00"
+    },
     {
       "id": "f1f1c55c",
       "image": "img/f1f1c55c.png",
@@ -531,15 +540,6 @@
       "title": "Brasil inició una mega obra de refacción en el puente Paso de los Libres-Uruguayana",
       "volanta": "MILLONARIA INVERSIÓN",
       "date": "2026-09-29T22:38:35+00:00"
-    },
-    {
-      "id": "fbf224cf",
-      "image": "img/fbf224cf.png",
-      "image_sha": "3e67f55028d5eede8aa4866cb2c1dafe6245e3cd",
-      "url": "https://www.radiodos.com.ar/214627-crisis-economica-mas-de-300-jugueterias-cerraron-o-pasaron-a-comercio-online",
-      "title": "Crisis económica: más de 300 jugueterías cerraron o pasaron a comercio online",
-      "volanta": "ECONOMÍA",
-      "date": "2026-09-29T22:38:03+00:00"
     }
   ]
 }
