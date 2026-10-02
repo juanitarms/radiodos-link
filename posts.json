@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T15:23:40+00:00",
+  "updated": "2026-10-02T17:05:15+00:00",
   "posts": [
+    {
+      "id": "cc75e21c",
+      "image": "img/cc75e21c.png",
+      "image_sha": "ddaac04731456dd571ae37f0b5fb47ee07d48a92",
+      "url": "https://www.radiodos.com.ar/214801-alerta-por-viento-zonda-en-san-juan-y-mendoza-suspendieron-las-clases",
+      "title": "Alerta por viento zonda en San Juan y Mendoza: suspendieron las clases",
+      "volanta": "SMN",
+      "date": "2026-10-02T17:05:15+00:00"
+    },
     {
       "id": "1c5823b6",
       "image": "img/1c5823b6.png",
@@ -531,15 +540,6 @@
       "title": "Calendario de feriados de octubre: cuándo cae el próximo fin de semana largo",
       "volanta": "ATENCIÓN",
       "date": "2026-09-30T13:26:53+00:00"
-    },
-    {
-      "id": "2a455973",
-      "image": "img/2a455973.png",
-      "image_sha": "9e47ea7d33b47848020b8a5f0d1da80ffd628af4",
-      "url": "https://www.radiodos.com.ar/214648-la-justicia-suspendio-el-desalojo-de-fate-y-sus-trabajadores-seguiran-en-el-predio",
-      "title": "La Justicia suspendió el desalojo de FATE y sus trabajadores seguirán en el predio",
-      "volanta": "Fallo",
-      "date": "2026-09-30T13:04:04+00:00"
     }
   ]
 }
