@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T22:02:04+00:00",
+  "updated": "2026-10-02T22:02:47+00:00",
   "posts": [
+    {
+      "id": "adb64a37",
+      "image": "img/adb64a37.png",
+      "image_sha": "e93c8ad480cd36e8498d52075c4e95d65a3fb1ac",
+      "url": "https://www.radiodos.com.ar/214812-condenaron-a-12-anos-de-prision-a-un-hombre-por-abusar-de-sus-hijastras",
+      "title": "Condenaron a 12 años de prisión a un hombre por abusar de sus hijastras",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-02T22:02:47+00:00"
+    },
     {
       "id": "ede3e19e",
       "image": "img/ede3e19e.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio ejecuta nuevas obras pluviales y fortalece el sistema de escurrimiento del San Antonio y San Roque",
       "volanta": "BUEN AVANCE",
       "date": "2026-09-30T16:49:18+00:00"
-    },
-    {
-      "id": "fa57877d",
-      "image": "img/fa57877d.png",
-      "image_sha": "4f5990a2c79af00d2c37793b2a5fb0bf0f66fd52",
-      "url": "https://www.radiodos.com.ar/214673-la-provincia-entrego-certificados-del-curso-de-gestores-energeticos",
-      "title": "La Provincia entregó certificados del Curso de Gestores Energéticos",
-      "volanta": "ACTO EN EL SALÓN VERDE",
-      "date": "2026-09-30T16:48:44+00:00"
     }
   ]
 }
