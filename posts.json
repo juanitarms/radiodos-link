@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T17:05:51+00:00",
+  "updated": "2026-10-02T17:06:27+00:00",
   "posts": [
+    {
+      "id": "e9e782d5",
+      "image": "img/e9e782d5.png",
+      "image_sha": "8913f881ebb87496ab4a129771a0fe593e4029b8",
+      "url": "https://www.radiodos.com.ar/214800-mas-de-900-profesionales-participaron-de-la-i-jornada-cientifica-de-enfermeria-oncologica-en-corrientes",
+      "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
+      "volanta": "CON APOYO PROVINCIAL",
+      "date": "2026-10-02T17:06:27+00:00"
+    },
     {
       "id": "c3feadcc",
       "image": "img/c3feadcc.png",
@@ -531,15 +540,6 @@
       "title": "El Vaticano ratificó que el sacerdote argentino Carlos Miguel Buela fue hallado culpable de abusos",
       "volanta": "FALLO",
       "date": "2026-09-30T14:04:26+00:00"
-    },
-    {
-      "id": "42312d44",
-      "image": "img/42312d44.png",
-      "image_sha": "655dd318b5fac7b0672324a7224a3de73694a59c",
-      "url": "https://www.radiodos.com.ar/214649-la-corte-suprema-revoco-el-fallo-que-habia-declarado-inconstitucional-el-dnu-que-derogo-la-ley-de-tierras",
-      "title": "La Corte Suprema revocó el fallo que había declarado inconstitucional el DNU que derogó la Ley de Tierras",
-      "volanta": "NOVEDAD",
-      "date": "2026-09-30T13:44:35+00:00"
     }
   ]
 }
