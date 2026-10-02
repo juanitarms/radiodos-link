@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T11:28:21+00:00",
+  "updated": "2026-10-02T11:49:01+00:00",
   "posts": [
+    {
+      "id": "f1f1c55c",
+      "image": "img/f1f1c55c.png",
+      "image_sha": "6d7be07aa61c1ee4421a73a21420d45a3262a55b",
+      "url": "https://www.radiodos.com.ar/214760-grupo-de-la-unne-es-premiado-en-jornada-nacional-por-un-trabajo-sobre-modelos-de-inteligencia-artificial",
+      "title": "Grupo de la UNNE es premiado en Jornada Nacional por un trabajo sobre modelos de inteligencia artificial",
+      "volanta": "NUEVOS CONOCIMIENTOS",
+      "date": "2026-10-02T11:49:01+00:00"
+    },
     {
       "id": "3c451bfc",
       "image": "img/3c451bfc.png",
@@ -531,15 +540,6 @@
       "title": "Crisis económica: más de 300 jugueterías cerraron o pasaron a comercio online",
       "volanta": "ECONOMÍA",
       "date": "2026-09-29T22:38:03+00:00"
-    },
-    {
-      "id": "d07ab324",
-      "image": "img/d07ab324.png",
-      "image_sha": "d8b295bd10827de2779f7ee6b5ab84c324fe5462",
-      "url": "https://www.radiodos.com.ar/214626-motociclista-muerto-tras-feroz-choque-en-un-barrio-de-corrientes",
-      "title": "Motociclista muerto tras feroz choque en un barrio de Corrientes",
-      "volanta": "AVENIDA PELIGROSA",
-      "date": "2026-09-29T21:41:42+00:00"
     }
   ]
 }
