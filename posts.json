@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T21:56:59+00:00",
+  "updated": "2026-10-02T10:57:02+00:00",
   "posts": [
+    {
+      "id": "1d4c7ef6",
+      "image": "img/1d4c7ef6.png",
+      "image_sha": "be696202e017ca05e02631155420eb727aab0cc3",
+      "url": "https://www.radiodos.com.ar/214757-valdes-presento-el-potencial-de-corrientes-ante-lideres-empresariales-europeos-en-paris",
+      "title": "Valdés presentó el potencial de Corrientes ante líderes empresariales europeos en París",
+      "volanta": "ARGENTINA WEEK",
+      "date": "2026-10-02T10:57:02+00:00"
+    },
     {
       "id": "df50d2a9",
       "image": "img/df50d2a9.png",
@@ -531,15 +540,6 @@
       "title": "La Provincia de Corrientes tendrá una nueva Fiesta Nacional",
       "volanta": "Fin de semana de noviembre",
       "date": "2026-09-29T21:40:21+00:00"
-    },
-    {
-      "id": "8d8fdc74",
-      "image": "img/8d8fdc74.png",
-      "image_sha": "4e6c8c25f9fca693f3dbe9c6cd8d0b2cbd0b4217",
-      "url": "https://www.radiodos.com.ar/214625-encuesta-el-52-cree-que-milei-no-merece-la-reeleccion",
-      "title": "Encuesta: el 52% cree que Milei no merece la reelección",
-      "volanta": "ELECCIONES 2027",
-      "date": "2026-09-29T21:39:49+00:00"
     }
   ]
 }
