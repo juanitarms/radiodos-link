@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T14:08:21+00:00",
+  "updated": "2026-10-02T14:30:35+00:00",
   "posts": [
+    {
+      "id": "aa217f6f",
+      "image": "img/aa217f6f.png",
+      "image_sha": "077e37502f607f503cc606c29b5a6536984a9aa0",
+      "url": "https://www.radiodos.com.ar/214779-buscan-a-una-joven-que-no-volvio-a-su-hogar",
+      "title": "Buscan a una joven que no volvió a su hogar",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-10-02T14:30:35+00:00"
+    },
     {
       "id": "bf3f12ae",
       "image": "img/bf3f12ae.png",
@@ -531,15 +540,6 @@
       "title": "La Provincia sumó equipamiento de última generación para el tratamiento de recién nacidos",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-09-30T12:20:18+00:00"
-    },
-    {
-      "id": "4b95f23a",
-      "image": "img/4b95f23a.png",
-      "image_sha": "3ae5a01f2cb1df7b3befe620497d339dde8d4605",
-      "url": "https://www.radiodos.com.ar/214636-la-dpec-realizara-trabajos-de-mejoras-en-capital",
-      "title": "La DPEC realizará trabajos de mejoras en Capital",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-09-30T12:08:07+00:00"
     }
   ]
 }
