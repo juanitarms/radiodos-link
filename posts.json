@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T20:46:13+00:00",
+  "updated": "2026-10-02T21:12:52+00:00",
   "posts": [
+    {
+      "id": "ce5ccc76",
+      "image": "img/ce5ccc76.png",
+      "image_sha": "8fc718baba1321d2f8427514da42578acf20be99",
+      "url": "https://www.radiodos.com.ar/214808-la-ucr-corrientes-convoco-a-su-convencion-provincial-para-el-miercoles-7-de-octubre",
+      "title": "La UCR-Corrientes convocó a su Convención Provincial para el miércoles 7 de octubre",
+      "volanta": "EN EL SALÓN LAPACHO A LAS 11.30",
+      "date": "2026-10-02T21:12:52+00:00"
+    },
     {
       "id": "12bdfb3a",
       "image": "img/12bdfb3a.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia volvió a intimar al Gobierno por los salarios universitarios y las becas",
       "volanta": "RECLAMOS",
       "date": "2026-09-30T16:47:44+00:00"
-    },
-    {
-      "id": "7c42f616",
-      "image": "img/7c42f616.png",
-      "image_sha": "4ac3d90286c5790e2723516f5517c9ddee4b6ec6",
-      "url": "https://www.radiodos.com.ar/214658-chaco-encontraron-muerta-a-una-mujer-de-75-anos-en-su-casa-y-detuvieron-a-un-vecino",
-      "title": "Chaco: encontraron muerta a una mujer de 75 años en su casa y detuvieron a un vecino",
-      "volanta": "INVESTIGACIÓN ABIERTA",
-      "date": "2026-09-30T15:05:47+00:00"
     }
   ]
 }
