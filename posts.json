@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T21:12:52+00:00",
+  "updated": "2026-10-02T21:13:25+00:00",
   "posts": [
+    {
+      "id": "f2413584",
+      "image": "img/f2413584.png",
+      "image_sha": "720699012478711ebce9db1cfb15e6137a6ae99d",
+      "url": "https://www.radiodos.com.ar/214809-un-gremio-docente-asegura-que-el-presupuesto-nacional-2027-sostiene-recortes-de-hasta-el-90-en-fondos-para-la-educacion-de-corrientes",
+      "title": "Un gremio docente asegura que el Presupuesto Nacional 2027 sostiene recortes de hasta el 90% en fondos para la Educación de Corrientes",
+      "volanta": "ADVERTENCIAS",
+      "date": "2026-10-02T21:13:25+00:00"
+    },
     {
       "id": "ce5ccc76",
       "image": "img/ce5ccc76.png",
@@ -531,15 +540,6 @@
       "title": "Ituzaingó será sede del 1° Congreso Internacional Bubalino",
       "volanta": "PRESENTACIÓN EN CASA DE GOBIERNO",
       "date": "2026-09-30T16:48:16+00:00"
-    },
-    {
-      "id": "ec82b8b0",
-      "image": "img/ec82b8b0.png",
-      "image_sha": "088017eba363212b940da9824d0a686521e9a2d0",
-      "url": "https://www.radiodos.com.ar/214674-la-justicia-volvio-a-intimar-al-gobierno-por-los-salarios-universitarios-y-las-becas",
-      "title": "La Justicia volvió a intimar al Gobierno por los salarios universitarios y las becas",
-      "volanta": "RECLAMOS",
-      "date": "2026-09-30T16:47:44+00:00"
     }
   ]
 }
