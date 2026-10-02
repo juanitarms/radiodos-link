@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T12:41:45+00:00",
+  "updated": "2026-10-02T13:20:12+00:00",
   "posts": [
+    {
+      "id": "3bfd9d40",
+      "image": "img/3bfd9d40.png",
+      "image_sha": "95d0be72bd6e6af137bd308f4b02fc71e7833058",
+      "url": "https://www.radiodos.com.ar/214762-regatas-corrientes-inicia-su-23-temporada-en-la-lnb-recibiendo-a-instituto",
+      "title": "Regatas Corrientes inicia su 23º temporada en la LNB recibiendo a Instituto",
+      "volanta": "DESDE LAS 21",
+      "date": "2026-10-02T13:20:12+00:00"
+    },
     {
       "id": "4b4105a8",
       "image": "img/4b4105a8.png",
@@ -531,15 +540,6 @@
       "title": "En París, JP Valdés muestra el potencial productivo de Corrientes y busca nuevas inversiones",
       "volanta": "AGENDA INTERNACIONAL",
       "date": "2026-09-30T11:46:04+00:00"
-    },
-    {
-      "id": "e4bdd513",
-      "image": "img/e4bdd513.png",
-      "image_sha": "402796afeeab8083f9115b1b59ba0d64865887e3",
-      "url": "https://www.radiodos.com.ar/214633-otro-caso-de-poli-heroes-en-corrientes-salvaron-la-vida-de-un-bebe-que-ya-no-respiraba",
-      "title": "Otro caso de \"poli-héroes\" en Corrientes: salvaron la vida de un bebé que ya no respiraba",
-      "volanta": "RÁPIDO ACCIONAR",
-      "date": "2026-09-30T11:21:32+00:00"
     }
   ]
 }
