@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T15:07:02+00:00",
+  "updated": "2026-10-02T15:23:40+00:00",
   "posts": [
+    {
+      "id": "1c5823b6",
+      "image": "img/1c5823b6.png",
+      "image_sha": "37aa4dec9d195cd442c80ff0b9ad17ba78559cad",
+      "url": "https://www.radiodos.com.ar/214783-se-viene-el-xvii-congreso-internacional-de-turismo-y-el-xxi-encuentro-nacional-de-estudiantes-de-turismo",
+      "title": "Se viene el XVII Congreso Internacional de Turismo y el XXI Encuentro Nacional de Estudiantes de Turismo",
+      "volanta": "8, 9, 10 y 11 de Octubre",
+      "date": "2026-10-02T15:23:40+00:00"
+    },
     {
       "id": "5de2cdf2",
       "image": "img/5de2cdf2.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia suspendió el desalojo de FATE y sus trabajadores seguirán en el predio",
       "volanta": "Fallo",
       "date": "2026-09-30T13:04:04+00:00"
-    },
-    {
-      "id": "a40eda78",
-      "image": "img/a40eda78.png",
-      "image_sha": "2ba4c87058be8e8ad554ca580f7f9db9282831ec",
-      "url": "https://www.radiodos.com.ar/214638-en-allanamiento-secuestran-distintos-aparatos-electronicos",
-      "title": "En allanamiento secuestran distintos aparatos electrónicos",
-      "volanta": "ITATÍ",
-      "date": "2026-09-30T12:30:36+00:00"
     }
   ]
 }
