@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T12:19:20+00:00",
+  "updated": "2026-10-02T12:41:45+00:00",
   "posts": [
+    {
+      "id": "4b4105a8",
+      "image": "img/4b4105a8.png",
+      "image_sha": "ee78d79ec1452359d3b9dbfc8006775ad15da93b",
+      "url": "https://www.radiodos.com.ar/214768-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+      "volanta": "EL FIN DE SEMANA",
+      "date": "2026-10-02T12:41:45+00:00"
+    },
     {
       "id": "75de4f7b",
       "image": "img/75de4f7b.png",
@@ -531,15 +540,6 @@
       "title": "Otro caso de \"poli-héroes\" en Corrientes: salvaron la vida de un bebé que ya no respiraba",
       "volanta": "RÁPIDO ACCIONAR",
       "date": "2026-09-30T11:21:32+00:00"
-    },
-    {
-      "id": "07a4a6ab",
-      "image": "img/07a4a6ab.png",
-      "image_sha": "3c49575aa4123737cb7ab51d12713f67b2fea15b",
-      "url": "https://www.radiodos.com.ar/214631-el-posteo-sobre-lionel-messi-en-la-cuenta-del-balon-de-oro-que-genero-expectativa-tras-el-cierre-de-la-votacion",
-      "title": "El posteo sobre Lionel Messi en la cuenta del Balón de Oro que generó expectativa tras el cierre de la votación",
-      "volanta": "26 de octubre en Londres",
-      "date": "2026-09-30T11:07:18+00:00"
     }
   ]
 }
