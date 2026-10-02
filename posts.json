@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T19:27:29+00:00",
+  "updated": "2026-10-02T20:45:18+00:00",
   "posts": [
+    {
+      "id": "dba25216",
+      "image": "img/dba25216.png",
+      "image_sha": "87628621f7e1f24154b89f5f54bc7a896b4a66be",
+      "url": "https://www.radiodos.com.ar/214806-insolito-burkina-faso-todavia-no-llego-al-pais-y-peligra-el-amistoso-con-la-seleccion-argentina-previsto-para-manana",
+      "title": "Insólito: Burkina Faso todavía no llegó al país y peligra el amistoso con la Selección argentina previsto para mañana",
+      "volanta": "DE NO CREER",
+      "date": "2026-10-02T20:45:18+00:00"
+    },
     {
       "id": "6dfad241",
       "image": "img/6dfad241.png",
@@ -531,15 +540,6 @@
       "title": "San Cosme vivirá la 12ª Pesca de la Palometa con Degustación y la Primera Fiesta Provincial",
       "volanta": "10 y 11 de octubre",
       "date": "2026-09-30T14:46:32+00:00"
-    },
-    {
-      "id": "703e325e",
-      "image": "img/703e325e.png",
-      "image_sha": "17e39ca8c4bbd06a668e021830f780e4addb18e5",
-      "url": "https://www.radiodos.com.ar/214661-cordoba-un-pitbull-aparecio-muerto-tras-atacar-a-una-jubilada",
-      "title": "Córdoba: un pitbull apareció muerto tras atacar a una jubilada",
-      "volanta": "UNQUILLO",
-      "date": "2026-09-30T14:24:34+00:00"
     }
   ]
 }
