@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T17:05:15+00:00",
+  "updated": "2026-10-02T17:05:51+00:00",
   "posts": [
+    {
+      "id": "c3feadcc",
+      "image": "img/c3feadcc.png",
+      "image_sha": "2630107b74fbc5093917227003b5f1b72e0a4807",
+      "url": "https://www.radiodos.com.ar/214799-liberaron-a-maxi-ghione-tras-un-acuerdo-con-su-denunciante",
+      "title": "Liberaron a Maxi Ghione tras un acuerdo con su denunciante",
+      "volanta": "BUENA NOTICIA",
+      "date": "2026-10-02T17:05:51+00:00"
+    },
     {
       "id": "cc75e21c",
       "image": "img/cc75e21c.png",
@@ -531,15 +540,6 @@
       "title": "La Corte Suprema revocó el fallo que había declarado inconstitucional el DNU que derogó la Ley de Tierras",
       "volanta": "NOVEDAD",
       "date": "2026-09-30T13:44:35+00:00"
-    },
-    {
-      "id": "b4b8a46b",
-      "image": "img/b4b8a46b.png",
-      "image_sha": "e0a7ed676f297569874f80edfd54ddc013e96eaf",
-      "url": "https://www.radiodos.com.ar/214650-calendario-de-feriados-de-octubre-cuando-cae-el-proximo-fin-de-semana-largo",
-      "title": "Calendario de feriados de octubre: cuándo cae el próximo fin de semana largo",
-      "volanta": "ATENCIÓN",
-      "date": "2026-09-30T13:26:53+00:00"
     }
   ]
 }
