@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T22:47:07+00:00",
+  "updated": "2026-10-03T23:31:04+00:00",
   "posts": [
+    {
+      "id": "0e470c77",
+      "image": "img/0e470c77.png",
+      "image_sha": "1d1c6b0df1b317be528de22ef9a4738915b11636",
+      "url": "https://www.radiodos.com.ar/214848-pampita-volvio-a-peregrinar-a-lujan-esta-vez-bajo-la-lluvia-descubrirse-en-cada-paso",
+      "title": "Pampita volvió a peregrinar a Luján, esta vez bajo la lluvia: \"Descubrirse en cada paso\"",
+      "volanta": "DEVOTA",
+      "date": "2026-10-03T23:31:04+00:00"
+    },
     {
       "id": "58d1bf8f",
       "image": "img/58d1bf8f.png",
@@ -531,15 +540,6 @@
       "title": "Agenda internacional en París: Juan Pablo Valdés busca inversiones sostenibles en Europa",
       "volanta": "Argentina Week",
       "date": "2026-09-30T23:59:33+00:00"
-    },
-    {
-      "id": "52fde121",
-      "image": "img/52fde121.png",
-      "image_sha": "46cff670a4dd74108c7a792a75790f0424dceade",
-      "url": "https://www.radiodos.com.ar/214687-caso-loan-la-justicia-evalua-drenar-lagunas-a-mas-de-dos-anos-de-su-desaparicion",
-      "title": "Caso Loan: la Justicia evalúa drenar lagunas a más de dos años de su desaparición",
-      "volanta": "CORRIENTES",
-      "date": "2026-09-30T23:58:58+00:00"
     }
   ]
 }
