@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T13:07:47+00:00",
+  "updated": "2026-10-03T15:02:54+00:00",
   "posts": [
+    {
+      "id": "8e6eeb5c",
+      "image": "img/8e6eeb5c.png",
+      "image_sha": "3d0ea5b4edee71e7b793e002336dee269c8ad08f",
+      "url": "https://www.radiodos.com.ar/214823-la-policia-realizara-un-importante-dispositivo-de-seguridad-por-la-16ta-edicion-del-taragui-rock-–-corrientes-2026",
+      "title": "La Policía realizará un importante dispositivo de seguridad por la 16ta. edición del Taragui Rock – Corrientes 2026",
+      "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
+      "date": "2026-10-03T15:02:54+00:00"
+    },
     {
       "id": "f15d8db1",
       "image": "img/f15d8db1.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: buscan a un niño de 11 años que se fue de la casa de su abuela",
       "volanta": "ALERTA",
       "date": "2026-09-30T21:42:04+00:00"
-    },
-    {
-      "id": "3b835883",
-      "image": "img/3b835883.png",
-      "image_sha": "850b0ae63bbc0ea8d6184004d9973969b4e77d48",
-      "url": "https://www.radiodos.com.ar/214683-incendio-destruyo-una-vivienda-y-la-familia-pide-ayuda-para-reconstruirla",
-      "title": "Incendio destruyó una vivienda y la familia pide ayuda para reconstruirla",
-      "volanta": "en el barrio Laguna Brava",
-      "date": "2026-09-30T21:18:47+00:00"
     }
   ]
 }
