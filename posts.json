@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T22:46:37+00:00",
+  "updated": "2026-10-03T22:47:07+00:00",
   "posts": [
+    {
+      "id": "58d1bf8f",
+      "image": "img/58d1bf8f.png",
+      "image_sha": "04cafcb74903c64752eff0cae4f6a543f63bf427",
+      "url": "https://www.radiodos.com.ar/214843-en-camioneta-choco-a-una-moto-huyo-y-lo-detuvieron",
+      "title": "En camioneta chocó a una moto, huyó y lo detuvieron",
+      "volanta": "AV. MAIPU Y RUTA NACIONAL Nº 12",
+      "date": "2026-10-03T22:47:07+00:00"
+    },
     {
       "id": "f0b7f838",
       "image": "img/f0b7f838.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: la Justicia evalúa drenar lagunas a más de dos años de su desaparición",
       "volanta": "CORRIENTES",
       "date": "2026-09-30T23:58:58+00:00"
-    },
-    {
-      "id": "240207c8",
-      "image": "img/240207c8.png",
-      "image_sha": "2119d85144001c4633e7f6fdb75eeb00aa655805",
-      "url": "https://www.radiodos.com.ar/214685-mandiyu-y-huracan-de-goya-definiran-el-primer-puesto",
-      "title": "Mandiyú y Huracán de Goya definirán el primer puesto",
-      "volanta": "TORNEO Regional",
-      "date": "2026-09-30T23:19:54+00:00"
     }
   ]
 }
