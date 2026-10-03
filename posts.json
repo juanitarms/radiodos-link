@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T21:21:48+00:00",
+  "updated": "2026-10-03T22:46:37+00:00",
   "posts": [
+    {
+      "id": "f0b7f838",
+      "image": "img/f0b7f838.png",
+      "image_sha": "b762e5e7a4294c8809aa82e664a0440e3e597d2d",
+      "url": "https://www.radiodos.com.ar/214844-franco-colapinto-largara-21°-en-el-gran-premio-de-bahrein-en-malasia-de-la-formula-1",
+      "title": "Franco Colapinto largará 21° en el Gran Premio de Bahréin en Malasia de la Fórmula 1",
+      "volanta": "Por las penalizaciones",
+      "date": "2026-10-03T22:46:37+00:00"
+    },
     {
       "id": "bd6c4463",
       "image": "img/bd6c4463.png",
@@ -531,15 +540,6 @@
       "title": "Mandiyú y Huracán de Goya definirán el primer puesto",
       "volanta": "TORNEO Regional",
       "date": "2026-09-30T23:19:54+00:00"
-    },
-    {
-      "id": "df069f10",
-      "image": "img/df069f10.png",
-      "image_sha": "70908dfead8a71c4b0740296b423969e165aab03",
-      "url": "https://www.radiodos.com.ar/214686-elena-roger-por-radio-dos-me-muero-por-estar-ese-petit-colon-que-es-el-teatro-vera",
-      "title": "Elena Roger, por Radio Dos: \"Me muero por estar ese 'petit Colón' que es el teatro Vera\"",
-      "volanta": "NOTA EXCLUSIVA",
-      "date": "2026-09-30T23:19:20+00:00"
     }
   ]
 }
