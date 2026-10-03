@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T23:31:04+00:00",
+  "updated": "2026-10-03T23:56:40+00:00",
   "posts": [
+    {
+      "id": "b27e3dc9",
+      "image": "img/b27e3dc9.png",
+      "image_sha": "d465fb180aceae1ff41acd6ad95e0b6b7197ceed",
+      "url": "https://www.radiodos.com.ar/214840-el-papa-en-argentina-piden-hasta-14-millones-para-dormir-en-lujan-en-la-vispera-de-la-misa-que-dara-leon-xiv",
+      "title": "El Papa en Argentina: piden hasta $14 millones para dormir en Luján en la víspera de la misa que dará León XIV",
+      "volanta": "VISITA",
+      "date": "2026-10-03T23:56:40+00:00"
+    },
     {
       "id": "0e470c77",
       "image": "img/0e470c77.png",
@@ -531,15 +540,6 @@
       "title": "Para Milei \"los argentinos van a tener que decidir si quieren prosperidad o decadencia\"",
       "volanta": "ELECCIONES 2027",
       "date": "2026-10-01T00:05:57+00:00"
-    },
-    {
-      "id": "994812e6",
-      "image": "img/994812e6.png",
-      "image_sha": "643ab8f37baff736008160fcc0c82d2f8cd0872c",
-      "url": "https://www.radiodos.com.ar/214689-agenda-internacional-en-paris-juan-pablo-valdes-busca-inversiones-sostenibles-en-europa",
-      "title": "Agenda internacional en París: Juan Pablo Valdés busca inversiones sostenibles en Europa",
-      "volanta": "Argentina Week",
-      "date": "2026-09-30T23:59:33+00:00"
     }
   ]
 }
