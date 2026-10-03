@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T15:02:54+00:00",
+  "updated": "2026-10-03T21:21:48+00:00",
   "posts": [
+    {
+      "id": "bd6c4463",
+      "image": "img/bd6c4463.png",
+      "image_sha": "3a5d0a2645f14199d5a1d1ba42fcef718a8a9016",
+      "url": "https://www.radiodos.com.ar/214832-joven-madre-murio-alcanzada-por-un-rayo-en-el-interior-de-corrientes",
+      "title": "Joven madre murió alcanzada por un rayo en el interior de Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-10-03T21:21:48+00:00"
+    },
     {
       "id": "8e6eeb5c",
       "image": "img/8e6eeb5c.png",
@@ -531,15 +540,6 @@
       "title": "Elena Roger, por Radio Dos: \"Me muero por estar ese 'petit Colón' que es el teatro Vera\"",
       "volanta": "NOTA EXCLUSIVA",
       "date": "2026-09-30T23:19:20+00:00"
-    },
-    {
-      "id": "d7f4d629",
-      "image": "img/d7f4d629.png",
-      "image_sha": "05ab2daf3f297eed85b4358a258defbfd04a3aa4",
-      "url": "https://www.radiodos.com.ar/214684-corrientes-buscan-a-un-nino-de-11-anos-que-se-fue-de-la-casa-de-su-abuela",
-      "title": "Corrientes: buscan a un niño de 11 años que se fue de la casa de su abuela",
-      "volanta": "ALERTA",
-      "date": "2026-09-30T21:42:04+00:00"
     }
   ]
 }
