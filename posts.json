@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T20:07:07+00:00",
+  "updated": "2026-10-04T20:07:42+00:00",
   "posts": [
+    {
+      "id": "01997054",
+      "image": "img/01997054.png",
+      "image_sha": "3cd40322339994b2b6f2e8b42752c5bfeee13e1b",
+      "url": "https://www.radiodos.com.ar/214846-torneo-clausura-barracas-central-lo-dio-vuelta-sobre-el-final-y-vencio-a-atletico-tucuman",
+      "title": "Torneo Clausura: Barracas Central lo dio vuelta sobre el final y venció a Atlético Tucumán",
+      "volanta": "Fue 3 a 2",
+      "date": "2026-10-04T20:07:42+00:00"
+    },
     {
       "id": "24dc303a",
       "image": "img/24dc303a.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio en Tigre: desgarrador testimonio del padre de Aixa, la joven hallada muerta en su casa",
       "volanta": "DRAMÁTICO",
       "date": "2026-10-01T14:05:41+00:00"
-    },
-    {
-      "id": "a0a29ba7",
-      "image": "img/a0a29ba7.png",
-      "image_sha": "27b0081e3d1b27876e4e879b7b4f5f29b072ca90",
-      "url": "https://www.radiodos.com.ar/214706-ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-de-la-region",
-      "title": "Ranking QS: la UBA se mantiene en el top 10 regional, pero el país obtuvo el balance más negativo de la región",
-      "volanta": "POSICIONADA",
-      "date": "2026-10-01T13:50:02+00:00"
     }
   ]
 }
