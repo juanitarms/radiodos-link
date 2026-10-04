@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T20:07:42+00:00",
+  "updated": "2026-10-04T20:08:16+00:00",
   "posts": [
+    {
+      "id": "5af84924",
+      "image": "img/5af84924.png",
+      "image_sha": "21f49c3b0d46c2fb450f4c7cb5a14a01184fa0b3",
+      "url": "https://www.radiodos.com.ar/214850-pity-alvarez-fue-trasladado-a-un-centro-psiquiatrico-de-castelar",
+      "title": "Pity Álvarez fue trasladado a un centro psiquiátrico de Castelar",
+      "volanta": "EN JUICIO",
+      "date": "2026-10-04T20:08:16+00:00"
+    },
     {
       "id": "01997054",
       "image": "img/01997054.png",
@@ -531,15 +540,6 @@
       "title": "El emotivo recuerdo de Cris Morena a 16 años de la muerte de Romina Yan: \"Siempre juntas, hijita amada\"",
       "volanta": "GRAN RECUERDO",
       "date": "2026-10-01T14:29:58+00:00"
-    },
-    {
-      "id": "e6d2487d",
-      "image": "img/e6d2487d.png",
-      "image_sha": "704a2a353ac38892216fc60481da8a7bfaaa2819",
-      "url": "https://www.radiodos.com.ar/214723-femicidio-en-tigre-desgarrador-testimonio-del-padre-de-aixa-la-joven-hallada-muerta-en-su-casa",
-      "title": "Femicidio en Tigre: desgarrador testimonio del padre de Aixa, la joven hallada muerta en su casa",
-      "volanta": "DRAMÁTICO",
-      "date": "2026-10-01T14:05:41+00:00"
     }
   ]
 }
