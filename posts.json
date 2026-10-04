@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T18:14:25+00:00",
+  "updated": "2026-10-04T18:14:59+00:00",
   "posts": [
+    {
+      "id": "d40e0832",
+      "image": "img/d40e0832.png",
+      "image_sha": "cbfafc388ccf77f77ce13c8b99996b6dab06341d",
+      "url": "https://www.radiodos.com.ar/214813-martinez-llano-kicillof-hace-campana-en-silencio-y-es-la-opcion-mas-importante-de-la-oposicion",
+      "title": "Martínez Llano: \"Kicillof hace campaña en silencio y es la opción más importante de la oposición\"",
+      "volanta": "ENTREVISTA EXCLUSIVA",
+      "date": "2026-10-04T18:14:59+00:00"
+    },
     {
       "id": "d127692e",
       "image": "img/d127692e.png",
@@ -531,15 +540,6 @@
       "title": "Se presentó un proyecto de ley para crear el Juzgado Electoral de Corrientes",
       "volanta": "ADELANTO",
       "date": "2026-10-01T13:04:35+00:00"
-    },
-    {
-      "id": "107bcbaf",
-      "image": "img/107bcbaf.png",
-      "image_sha": "bff45c8a087b4bab5c4f40ffae60958c467914ae",
-      "url": "https://www.radiodos.com.ar/214700-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
-      "volanta": "ESTE JUEVES",
-      "date": "2026-10-01T12:33:30+00:00"
     }
   ]
 }
