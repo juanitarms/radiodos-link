@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T13:52:03+00:00",
+  "updated": "2026-10-04T15:20:20+00:00",
   "posts": [
+    {
+      "id": "742b09d8",
+      "image": "img/742b09d8.png",
+      "image_sha": "9e091095c45796ecd6b78cd4dbf19da210fc1200",
+      "url": "https://www.radiodos.com.ar/214858-impulsan-conexion-aerea-entre-mercedes-goya-y-aeroparque",
+      "title": "Impulsan conexión aérea entre Mercedes, Goya y Aeroparque",
+      "volanta": "Una nueva \"low cost\" en corrientes",
+      "date": "2026-10-04T15:20:20+00:00"
+    },
     {
       "id": "8384c626",
       "image": "img/8384c626.png",
@@ -531,15 +540,6 @@
       "title": "Murió un histórico personaje del carnaval de Corrientes: Miguel \"Tano\" Maccarini",
       "volanta": "DUELO",
       "date": "2026-10-01T12:15:10+00:00"
-    },
-    {
-      "id": "00e19206",
-      "image": "img/00e19206.png",
-      "image_sha": "985233d8812b5607b18809242f7365c7b48b97ea",
-      "url": "https://www.radiodos.com.ar/214694-corrientes-conocido-motochorro-cayo-preso-el-domingo-ayer-volvio-a-robar-y-termino-herido-tras-persecucion",
-      "title": "Corrientes: conocido motochorro cayó preso el domingo, ayer volvió a robar y terminó herido tras persecución",
-      "volanta": "DE NO CREER",
-      "date": "2026-10-01T11:34:30+00:00"
     }
   ]
 }
