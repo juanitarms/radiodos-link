@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T03:05:26+00:00",
+  "updated": "2026-10-04T12:48:46+00:00",
   "posts": [
+    {
+      "id": "88d428bc",
+      "image": "img/88d428bc.png",
+      "image_sha": "e20fb698905f3b471e3d3ff3592136b63c37983b",
+      "url": "https://www.radiodos.com.ar/214853-lionel-scaloni-me-gustaria-que-la-gente-entienda-lo-que-messi-transmite-en-un-campo-de-futbol",
+      "title": "Lionel Scaloni: \"Me gustaría que la gente entienda lo que Messi transmite en un campo de fútbol\"",
+      "volanta": "Tras la goleada a Burkina Faso",
+      "date": "2026-10-04T12:48:46+00:00"
+    },
     {
       "id": "f750a308",
       "image": "img/f750a308.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni: \"Seguimos siendo una Selección competitiva y podemos disfrutar a jugadores con distintas características\"",
       "volanta": "Primer cotejo post Messi",
       "date": "2026-10-01T10:35:27+00:00"
-    },
-    {
-      "id": "4fa26853",
-      "image": "img/4fa26853.png",
-      "image_sha": "a016d6272bf94fda8173cd0465a7800fba6ee2c8",
-      "url": "https://www.radiodos.com.ar/214692-amistoso-internacional-con-un-gol-del-correntino-lopez-argentina-goleo-a-bolivia",
-      "title": "Amistoso Internacional: Con un gol del correntino López, Argentina goleó a Bolivia",
-      "volanta": "Y le anularon mal un gol",
-      "date": "2026-10-01T02:49:05+00:00"
     }
   ]
 }
