@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T18:14:59+00:00",
+  "updated": "2026-10-04T18:15:29+00:00",
   "posts": [
+    {
+      "id": "d7d29fbd",
+      "image": "img/d7d29fbd.png",
+      "image_sha": "57235fb05c95d8ca2018958593e30bda0bc5f7b2",
+      "url": "https://www.radiodos.com.ar/214816-milei-cerro-su-gira-en-francia-argentina-se-dirige-nuevamente-a-paso-firme-hacia-el-futuro",
+      "title": "Milei cerró su gira en Francia: \"Argentina se dirige nuevamente a paso firme hacia el futuro\"",
+      "volanta": "AGENDA INTERNACIONAL",
+      "date": "2026-10-04T18:15:29+00:00"
+    },
     {
       "id": "d40e0832",
       "image": "img/d40e0832.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei: \"los mejores 6 meses de la historia\" para un eventual segundo mandato a partir de 2028",
       "volanta": "EN FRANCIA",
       "date": "2026-10-01T13:22:07+00:00"
-    },
-    {
-      "id": "5b450b8a",
-      "image": "img/5b450b8a.png",
-      "image_sha": "b41e0df8bfe43abc6d90ab7a7e1cf859001c8a42",
-      "url": "https://www.radiodos.com.ar/214698-se-presento-un-proyecto-de-ley-para-crear-el-juzgado-electoral-de-corrientes",
-      "title": "Se presentó un proyecto de ley para crear el Juzgado Electoral de Corrientes",
-      "volanta": "ADELANTO",
-      "date": "2026-10-01T13:04:35+00:00"
     }
   ]
 }
