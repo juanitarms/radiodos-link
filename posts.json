@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T18:15:29+00:00",
+  "updated": "2026-10-04T20:07:07+00:00",
   "posts": [
+    {
+      "id": "24dc303a",
+      "image": "img/24dc303a.png",
+      "image_sha": "2dbc8110e450c5748360e6ad7c86c510e9e4c985",
+      "url": "https://www.radiodos.com.ar/214859-ariel-baez-lo-importante-es-la-gestion-mas-alla-de-la-cuestion-politica",
+      "title": "Ariel Báez: \"Lo importante es la gestión, más allá de la cuestión política\"",
+      "volanta": "lo bueno, lamo y lo feo",
+      "date": "2026-10-04T20:07:07+00:00"
+    },
     {
       "id": "d7d29fbd",
       "image": "img/d7d29fbd.png",
@@ -531,15 +540,6 @@
       "title": "Ranking QS: la UBA se mantiene en el top 10 regional, pero el país obtuvo el balance más negativo de la región",
       "volanta": "POSICIONADA",
       "date": "2026-10-01T13:50:02+00:00"
-    },
-    {
-      "id": "8a76e655",
-      "image": "img/8a76e655.png",
-      "image_sha": "c5982f68391ad8029452ae044420bf59fe310950",
-      "url": "https://www.radiodos.com.ar/214707-javier-milei-los-mejores-6-meses-de-la-historia-para-un-eventual-segundo-mandato-a-partir-de-2028",
-      "title": "Javier Milei: \"los mejores 6 meses de la historia\" para un eventual segundo mandato a partir de 2028",
-      "volanta": "EN FRANCIA",
-      "date": "2026-10-01T13:22:07+00:00"
     }
   ]
 }
