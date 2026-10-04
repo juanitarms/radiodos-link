@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T15:20:20+00:00",
+  "updated": "2026-10-04T18:14:25+00:00",
   "posts": [
+    {
+      "id": "d127692e",
+      "image": "img/d127692e.png",
+      "image_sha": "61de876617b2a8aa12e459bf808b0defce9dab47",
+      "url": "https://www.radiodos.com.ar/214805-ruben-dario-insua-deberiamos-convencerlo-y-de-que-se-retire-del-futbol-saliendo-campeon-del-mundo",
+      "title": "Rubén Darío Insúa: \"Deberíamos convencerlo y de que se retire del fútbol saliendo campeón del mundo\"",
+      "volanta": "Que sea un clamor popular",
+      "date": "2026-10-04T18:14:25+00:00"
+    },
     {
       "id": "742b09d8",
       "image": "img/742b09d8.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "ESTE JUEVES",
       "date": "2026-10-01T12:33:30+00:00"
-    },
-    {
-      "id": "19c0533e",
-      "image": "img/19c0533e.png",
-      "image_sha": "756e3902faf9aea7051146c1c69b29be02470175",
-      "url": "https://www.radiodos.com.ar/214697-murio-un-historico-personaje-del-carnaval-de-corrientes-miguel-tano-maccarini",
-      "title": "Murió un histórico personaje del carnaval de Corrientes: Miguel \"Tano\" Maccarini",
-      "volanta": "DUELO",
-      "date": "2026-10-01T12:15:10+00:00"
     }
   ]
 }
