@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T13:33:00+00:00",
+  "updated": "2026-10-04T13:52:03+00:00",
   "posts": [
+    {
+      "id": "8384c626",
+      "image": "img/8384c626.png",
+      "image_sha": "53eab21789461111d3c722415f814acdb78599ff",
+      "url": "https://www.radiodos.com.ar/214854-santo-tome-la-policia-de-corrientes-releva-jefes-y-aparta-a-agentes",
+      "title": "Santo Tomé: la Policía de Corrientes releva jefes y aparta a agentes",
+      "volanta": "INVESTIGACIÓN JUDICIAL",
+      "date": "2026-10-04T13:52:03+00:00"
+    },
     {
       "id": "68ac3aaa",
       "image": "img/68ac3aaa.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: conocido motochorro cayó preso el domingo, ayer volvió a robar y terminó herido tras persecución",
       "volanta": "DE NO CREER",
       "date": "2026-10-01T11:34:30+00:00"
-    },
-    {
-      "id": "a1a3f40f",
-      "image": "img/a1a3f40f.png",
-      "image_sha": "bc9448e25eea5e09d7f78efc4cac33b4eef220b1",
-      "url": "https://www.radiodos.com.ar/214695-reconocieron-a-los-policias-que-salvaron-la-vida-de-un-bebe-en-corrientes",
-      "title": "Reconocieron a los policías que salvaron la vida de un bebé en Corrientes",
-      "volanta": "HEROES CON UNIFORMES",
-      "date": "2026-10-01T11:11:53+00:00"
     }
   ]
 }
