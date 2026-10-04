@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-03T23:56:40+00:00",
+  "updated": "2026-10-04T03:05:26+00:00",
   "posts": [
+    {
+      "id": "f750a308",
+      "image": "img/f750a308.png",
+      "image_sha": "3b5904b8a55c07fc8be5dd0f90f267405ca88937",
+      "url": "https://www.radiodos.com.ar/214852-amistoso-internacional-argentina-volvio-a-demostrar-todo-su-poderio-ofensivo-y-goleo-a-burkina-faso",
+      "title": "Amistoso Internacional: Argentina volvió a demostrar todo su poderío ofensivo y goleó a Burkina Faso",
+      "volanta": "Fue 7 a 0",
+      "date": "2026-10-04T03:05:26+00:00"
+    },
     {
       "id": "b27e3dc9",
       "image": "img/b27e3dc9.png",
@@ -531,15 +540,6 @@
       "title": "Amistoso Internacional: Con un gol del correntino López, Argentina goleó a Bolivia",
       "volanta": "Y le anularon mal un gol",
       "date": "2026-10-01T02:49:05+00:00"
-    },
-    {
-      "id": "87b99fac",
-      "image": "img/87b99fac.png",
-      "image_sha": "f2a2e013de45da820b80798ad07b6638125d20d5",
-      "url": "https://www.radiodos.com.ar/214688-para-milei-los-argentinos-van-a-tener-que-decidir-si-quieren-prosperidad-o-decadencia",
-      "title": "Para Milei \"los argentinos van a tener que decidir si quieren prosperidad o decadencia\"",
-      "volanta": "ELECCIONES 2027",
-      "date": "2026-10-01T00:05:57+00:00"
     }
   ]
 }
