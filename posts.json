@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T15:11:18+00:00",
+  "updated": "2026-10-05T16:32:46+00:00",
   "posts": [
+    {
+      "id": "386f039a",
+      "image": "img/386f039a.png",
+      "image_sha": "91a38a4663e39d3ddba4ec85641e0a8d70150815",
+      "url": "https://www.radiodos.com.ar/214915-fallecio-un-menor-de-13-anos-tras-un-accidente-en-zona-rural",
+      "title": "Falleció un menor de 13 años tras un accidente en zona rural",
+      "volanta": "Tragedia en Monte Caseros",
+      "date": "2026-10-05T16:32:46+00:00"
+    },
     {
       "id": "157be262",
       "image": "img/157be262.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes homenajeó a Manuel Belgrano en el inicio del IV Congreso Nacional e Internacional Belgraniano",
       "volanta": "ACTO PROTOCOLAR",
       "date": "2026-10-01T21:54:37+00:00"
-    },
-    {
-      "id": "bad08ddf",
-      "image": "img/bad08ddf.png",
-      "image_sha": "aa25a2f654c4918c7558638927bfd58c30d2e293",
-      "url": "https://www.radiodos.com.ar/214745-fundacion-nacer-con-ciencia-realizo-su-lanzamiento-e-inicia-primera-campana-de-prevencion-en-corrientes",
-      "title": "Fundación Nacer con Ciencia realizó su lanzamiento e inicia primera campaña de prevención en Corrientes",
-      "volanta": "SALUD Y CIENCIA",
-      "date": "2026-10-01T21:18:43+00:00"
     }
   ]
 }
