@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T19:11:57+00:00",
+  "updated": "2026-10-05T19:12:36+00:00",
   "posts": [
+    {
+      "id": "d1b34de4",
+      "image": "img/d1b34de4.png",
+      "image_sha": "3c04b9fb2c8d5a1257f019bf98b0a96389b7e59c",
+      "url": "https://www.radiodos.com.ar/214922-casacion-bajo-la-pena-de-un-hombre-que-intento-matar-a-su-expareja-porque-tenian-una-relacion-a-distancia",
+      "title": "Casación bajó la pena de un hombre que intentó matar a su expareja porque tenían una relación a distancia",
+      "volanta": "JUSTICIA",
+      "date": "2026-10-05T19:12:36+00:00"
+    },
     {
       "id": "29b53304",
       "image": "img/29b53304.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Messi llegó a la Argentina para su partido despedida de la Selección",
       "volanta": "SE JUEGA EL MARTES",
       "date": "2026-10-02T12:19:20+00:00"
-    },
-    {
-      "id": "573c98ae",
-      "image": "img/573c98ae.png",
-      "image_sha": "21d2e66beb7b7dee3f32cc115b4e1b95fd275903",
-      "url": "https://www.radiodos.com.ar/214761-un-camionero-brasileno-fue-hallado-muerto-en-la-aduana-de-santo-tome",
-      "title": "Un camionero brasileño fue hallado muerto en la aduana de Santo Tomé",
-      "volanta": "PASO FRONTERIZO",
-      "date": "2026-10-02T11:54:44+00:00"
     }
   ]
 }
