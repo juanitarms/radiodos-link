@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T11:10:49+00:00",
+  "updated": "2026-10-05T12:12:25+00:00",
   "posts": [
+    {
+      "id": "ce963666",
+      "image": "img/ce963666.png",
+      "image_sha": "4041574d36e1b50081f42a4dbf9949bf97b9232b",
+      "url": "https://www.radiodos.com.ar/214880-becaria-de-arquitectura-de-la-unne-midio-el-costo-ambiental-de-las-viviendas-sociales-en-resistencia",
+      "title": "Becaria de Arquitectura de la Unne midió el costo ambiental de las viviendas sociales en Resistencia",
+      "volanta": "VIVIENDA",
+      "date": "2026-10-05T12:12:25+00:00"
+    },
     {
       "id": "4db95e6d",
       "image": "img/4db95e6d.png",
@@ -531,15 +540,6 @@
       "title": "Catastro en Corrientes: Ejecutivo y Justicia acuerdan pautas de comunicación electrónica",
       "volanta": "MODERNIZACIÓN EN SERVICIO PÚBLICO",
       "date": "2026-10-01T17:54:12+00:00"
-    },
-    {
-      "id": "094d967c",
-      "image": "img/094d967c.png",
-      "image_sha": "9c57a14a91935c8905561e1642c0a1205d741657",
-      "url": "https://www.radiodos.com.ar/214727-karina-milei-se-reunio-con-representantes-de-empresas-francesas-que-ampliaran-sus-inversiones-en-la-argentina",
-      "title": "Karina Milei se reunió con representantes de empresas francesas que ampliarán sus inversiones en la Argentina",
-      "volanta": "FRANCIA",
-      "date": "2026-10-01T16:26:33+00:00"
     }
   ]
 }
