@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T17:52:38+00:00",
+  "updated": "2026-10-05T17:53:09+00:00",
   "posts": [
+    {
+      "id": "bc0dc549",
+      "image": "img/bc0dc549.png",
+      "image_sha": "7fa90ac1817612c2708d0cfcc133b08cc43ab30f",
+      "url": "https://www.radiodos.com.ar/214909-macabro-hallazgo-encontraron-un-dedo-humano-atado-con-alambre-frente-a-un-bar",
+      "title": "Macabro hallazgo: encontraron un dedo humano atado con alambre frente a un bar",
+      "volanta": "Neuquén",
+      "date": "2026-10-05T17:53:09+00:00"
+    },
     {
       "id": "66fb4305",
       "image": "img/66fb4305.png",
@@ -531,15 +540,6 @@
       "title": "Grupo de la UNNE es premiado en Jornada Nacional por un trabajo sobre modelos de inteligencia artificial",
       "volanta": "NUEVOS CONOCIMIENTOS",
       "date": "2026-10-02T11:49:01+00:00"
-    },
-    {
-      "id": "3c451bfc",
-      "image": "img/3c451bfc.png",
-      "image_sha": "fb150ae353145c3de9d795de00f05c051b1fbe11",
-      "url": "https://www.radiodos.com.ar/214758-juan-pablo-valdes-fue-recibido-por-emmanuel-macron",
-      "title": "Juan Pablo Valdés fue recibido por Emmanuel Macron",
-      "volanta": "ARGENTINA WEEK",
-      "date": "2026-10-02T11:28:21+00:00"
     }
   ]
 }
