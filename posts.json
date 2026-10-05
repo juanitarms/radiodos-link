@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T16:32:46+00:00",
+  "updated": "2026-10-05T16:33:18+00:00",
   "posts": [
+    {
+      "id": "1de815d1",
+      "image": "img/1de815d1.png",
+      "image_sha": "e30ff1b2fd54c944e9e875647a5c6d351958fda4",
+      "url": "https://www.radiodos.com.ar/214914-la-desafiante-frase-del-arquero-de-benin-antes-de-jugar-con-argentina-no-estamos-para-hacer-turismo",
+      "title": "La desafiante frase del arquero de Benín antes de jugar con Argentina: \"No estamos para hacer turismo\"",
+      "volanta": "AMISTOSO",
+      "date": "2026-10-05T16:33:18+00:00"
+    },
     {
       "id": "386f039a",
       "image": "img/386f039a.png",
@@ -531,15 +540,6 @@
       "title": "El ingreso por persona promedio fue inferior a $700.000 en el segundo trimestre",
       "volanta": "SEGÚN EL INDEC",
       "date": "2026-10-01T21:56:59+00:00"
-    },
-    {
-      "id": "bd8333b2",
-      "image": "img/bd8333b2.png",
-      "image_sha": "9f732160ca9a71a900a43329d78cde7effb5eec8",
-      "url": "https://www.radiodos.com.ar/214747-corrientes-homenajeo-a-manuel-belgrano-en-el-inicio-del-iv-congreso-nacional-e-internacional-belgraniano",
-      "title": "Corrientes homenajeó a Manuel Belgrano en el inicio del IV Congreso Nacional e Internacional Belgraniano",
-      "volanta": "ACTO PROTOCOLAR",
-      "date": "2026-10-01T21:54:37+00:00"
     }
   ]
 }
