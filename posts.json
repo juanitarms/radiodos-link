@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T12:12:25+00:00",
+  "updated": "2026-10-05T12:34:24+00:00",
   "posts": [
+    {
+      "id": "ae8815a8",
+      "image": "img/ae8815a8.png",
+      "image_sha": "965d107958972a6086919bc51a39f8c70b34e647",
+      "url": "https://www.radiodos.com.ar/214882-una-mujer-fallecio-y-un-hombre-resulto-con-lesiones-de-consideracion-tras-recibir-una-descarga-electrica-de-un-rayo",
+      "title": "Una mujer falleció y un hombre resultó con lesiones de consideración tras recibir una descarga eléctrica de un rayo",
+      "volanta": "CONCEPCIÓN",
+      "date": "2026-10-05T12:34:24+00:00"
+    },
     {
       "id": "ce963666",
       "image": "img/ce963666.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia de Estados Unidos desestimó la demanda por $LIBRA y cerró la causa contra Hayden Davis",
       "volanta": "CIERRE",
       "date": "2026-10-01T17:54:48+00:00"
-    },
-    {
-      "id": "38e5eb21",
-      "image": "img/38e5eb21.png",
-      "image_sha": "3018683a06cbce3bae0bb9aa9ecc2370838d6535",
-      "url": "https://www.radiodos.com.ar/214726-catastro-en-corrientes-ejecutivo-y-justicia-acuerdan-pautas-de-comunicacion-electronica",
-      "title": "Catastro en Corrientes: Ejecutivo y Justicia acuerdan pautas de comunicación electrónica",
-      "volanta": "MODERNIZACIÓN EN SERVICIO PÚBLICO",
-      "date": "2026-10-01T17:54:12+00:00"
     }
   ]
 }
