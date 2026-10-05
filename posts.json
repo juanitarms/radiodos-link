@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T20:08:16+00:00",
+  "updated": "2026-10-05T03:00:30+00:00",
   "posts": [
+    {
+      "id": "02abc78f",
+      "image": "img/02abc78f.png",
+      "image_sha": "8bda9928dcf0d4e809882a0a5e1f74a0ff73ff59",
+      "url": "https://www.radiodos.com.ar/214871-elecciones-en-brasil-flavio-bolsonaro-supero-a-lula-y-habra-balotaje",
+      "title": "Elecciones en Brasil: Flávio Bolsonaro superó a Lula y habrá balotaje",
+      "volanta": "Por menos de tres puntos",
+      "date": "2026-10-05T03:00:30+00:00"
+    },
     {
       "id": "5af84924",
       "image": "img/5af84924.png",
@@ -531,15 +540,6 @@
       "title": "La respuesta de Colapinto a Norris por sus polémicos dichos: \"Siempre se apunta a los argentinos\"",
       "volanta": "FÓRMULA 1",
       "date": "2026-10-01T14:50:50+00:00"
-    },
-    {
-      "id": "15472aef",
-      "image": "img/15472aef.png",
-      "image_sha": "45a07a58e6112ee59471c6ccbce26b815dc609e7",
-      "url": "https://www.radiodos.com.ar/214719-el-emotivo-recuerdo-de-cris-morena-a-16-anos-de-la-muerte-de-romina-yan-siempre-juntas-hijita-amada",
-      "title": "El emotivo recuerdo de Cris Morena a 16 años de la muerte de Romina Yan: \"Siempre juntas, hijita amada\"",
-      "volanta": "GRAN RECUERDO",
-      "date": "2026-10-01T14:29:58+00:00"
     }
   ]
 }
