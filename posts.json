@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T21:31:16+00:00",
+  "updated": "2026-10-05T21:31:59+00:00",
   "posts": [
+    {
+      "id": "7ce99640",
+      "image": "img/7ce99640.png",
+      "image_sha": "17a12112a019a16b162caacbe0113a4bb383df22",
+      "url": "https://www.radiodos.com.ar/214924-corrientes-reclama-a-nacion-una-deuda-de-7000-millones-de-pesos-por-obras-escolares-pendientes",
+      "title": "Corrientes reclama a Nación una deuda de 7.000 millones de pesos por obras escolares pendientes",
+      "volanta": "EDUCACIÓN AFECTADA",
+      "date": "2026-10-05T21:31:59+00:00"
+    },
     {
       "id": "3e9b284c",
       "image": "img/3e9b284c.png",
@@ -531,15 +540,6 @@
       "title": "Regatas Corrientes inicia su 23º temporada en la LNB recibiendo a Instituto",
       "volanta": "DESDE LAS 21",
       "date": "2026-10-02T13:20:12+00:00"
-    },
-    {
-      "id": "4b4105a8",
-      "image": "img/4b4105a8.png",
-      "image_sha": "ee78d79ec1452359d3b9dbfc8006775ad15da93b",
-      "url": "https://www.radiodos.com.ar/214768-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
-      "volanta": "EL FIN DE SEMANA",
-      "date": "2026-10-02T12:41:45+00:00"
     }
   ]
 }
