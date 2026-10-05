@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T10:19:33+00:00",
+  "updated": "2026-10-05T10:52:55+00:00",
   "posts": [
+    {
+      "id": "1ee898c4",
+      "image": "img/1ee898c4.png",
+      "image_sha": "6a3bfb7aa3c6c8da4e2c2bef1e9c01bb7ad616b0",
+      "url": "https://www.radiodos.com.ar/214877-saladas-mostro-su-cultura-sus-tradiciones-y-su-produccion-en-la-unidad",
+      "title": "Saladas mostró su cultura, sus tradiciones y su producción en La Unidad",
+      "volanta": "\"LA UNIDAD NOS ACERCA\"",
+      "date": "2026-10-05T10:52:55+00:00"
+    },
     {
       "id": "ad148a67",
       "image": "img/ad148a67.png",
@@ -531,15 +540,6 @@
       "title": "Más complicado: el ex senador libertario Edgardo Kueider ahora quedó involucrado en otra causa de corrupción",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-01T16:26:01+00:00"
-    },
-    {
-      "id": "02899bd2",
-      "image": "img/02899bd2.png",
-      "image_sha": "dc34dfcd431c7a49e8b16bc8326c0b56e143131d",
-      "url": "https://www.radiodos.com.ar/214730-el-comunicado-de-turf-por-la-denuncia-por-abuso-contra-joaquin-levinton",
-      "title": "El comunicado de Turf por la denuncia por abuso contra Joaquín Levinton",
-      "volanta": "ACLARACIÓN",
-      "date": "2026-10-01T15:06:15+00:00"
     }
   ]
 }
