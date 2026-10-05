@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T14:32:40+00:00",
+  "updated": "2026-10-05T14:56:32+00:00",
   "posts": [
+    {
+      "id": "a50455a4",
+      "image": "img/a50455a4.png",
+      "image_sha": "3ff5c9b7d3fa4355cac3a220eeccdafee4f11ebb",
+      "url": "https://www.radiodos.com.ar/214904-revelaron-las-primeras-palabras-de-daniel-osvaldo-a-su-familia-tras-ser-internado",
+      "title": "Revelaron las primeras palabras de Daniel Osvaldo a su familia tras ser internado",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-10-05T14:56:32+00:00"
+    },
     {
       "id": "b5cc6ae7",
       "image": "img/b5cc6ae7.png",
@@ -531,15 +540,6 @@
       "title": "Estados Unidos llamó a Argentina y el Reino Unido a \"desescalar\" la tensión por Malvinas",
       "volanta": "CRISIS DIPLOMÁTICA",
       "date": "2026-10-01T21:15:50+00:00"
-    },
-    {
-      "id": "711178e4",
-      "image": "img/711178e4.png",
-      "image_sha": "b29769cce43d6da2265ab52c1bf29561ef31cef2",
-      "url": "https://www.radiodos.com.ar/214743-imputaron-a-profesor-de-la-unne-por-abuso-sexual",
-      "title": "Imputaron a profesor de la UNNE por abuso sexual",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-01T21:15:20+00:00"
     }
   ]
 }
