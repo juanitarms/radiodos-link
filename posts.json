@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T13:50:44+00:00",
+  "updated": "2026-10-05T14:13:52+00:00",
   "posts": [
+    {
+      "id": "26117d79",
+      "image": "img/26117d79.png",
+      "image_sha": "8d71c2763dfcf23b5efbb50c9c6a4dc081a5dccc",
+      "url": "https://www.radiodos.com.ar/214898-mision-malvinas-dos-jovenes-desafiaron-el-frio-extremo-en-una-caminata-para-homenajear-a-los-veteranos",
+      "title": "Misión Malvinas: dos jóvenes desafiaron el frío extremo en una caminata para homenajear a los veteranos",
+      "volanta": "ORGULLO",
+      "date": "2026-10-05T14:13:52+00:00"
+    },
     {
       "id": "2997f5cc",
       "image": "img/2997f5cc.png",
@@ -531,15 +540,6 @@
       "title": "Intentaron linchar a un ladrón en un barrio de Corrientes: lo salvó la Policía",
       "volanta": "BARRIO ALDANA",
       "date": "2026-10-01T21:14:48+00:00"
-    },
-    {
-      "id": "d6efbec1",
-      "image": "img/d6efbec1.png",
-      "image_sha": "27d12ee310d1573d66a054dc59c3eec2fc3ab748",
-      "url": "https://www.radiodos.com.ar/214742-tras-el-aumento-de-la-pobreza-la-desigualdad-crecio-durante-el-segundo-trimestre-de-2026",
-      "title": "Tras el aumento de la pobreza, la desigualdad creció durante el segundo trimestre de 2026",
-      "volanta": "CRISIS EN LA ERA MILEI",
-      "date": "2026-10-01T20:46:07+00:00"
     }
   ]
 }
