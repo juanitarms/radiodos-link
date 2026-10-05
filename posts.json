@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T17:53:09+00:00",
+  "updated": "2026-10-05T19:11:57+00:00",
   "posts": [
+    {
+      "id": "29b53304",
+      "image": "img/29b53304.png",
+      "image_sha": "b008ac6eb165df745505cb2e5d0138c081081aa8",
+      "url": "https://www.radiodos.com.ar/214916-crecida-del-rio-alerta-para-la-semana-que-viene-en-ciertas-localidades-del-interior",
+      "title": "Crecida del río: Alerta para la semana que viene en ciertas localidades del interior",
+      "volanta": "AVISO",
+      "date": "2026-10-05T19:11:57+00:00"
+    },
     {
       "id": "bc0dc549",
       "image": "img/bc0dc549.png",
@@ -531,15 +540,6 @@
       "title": "Un camionero brasileño fue hallado muerto en la aduana de Santo Tomé",
       "volanta": "PASO FRONTERIZO",
       "date": "2026-10-02T11:54:44+00:00"
-    },
-    {
-      "id": "f1f1c55c",
-      "image": "img/f1f1c55c.png",
-      "image_sha": "6d7be07aa61c1ee4421a73a21420d45a3262a55b",
-      "url": "https://www.radiodos.com.ar/214760-grupo-de-la-unne-es-premiado-en-jornada-nacional-por-un-trabajo-sobre-modelos-de-inteligencia-artificial",
-      "title": "Grupo de la UNNE es premiado en Jornada Nacional por un trabajo sobre modelos de inteligencia artificial",
-      "volanta": "NUEVOS CONOCIMIENTOS",
-      "date": "2026-10-02T11:49:01+00:00"
     }
   ]
 }
