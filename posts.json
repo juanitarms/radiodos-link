@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T16:33:18+00:00",
+  "updated": "2026-10-05T16:33:56+00:00",
   "posts": [
+    {
+      "id": "52bb14f3",
+      "image": "img/52bb14f3.png",
+      "image_sha": "5203e97b14b0c82c05c53dee50e91456a812f55b",
+      "url": "https://www.radiodos.com.ar/214912-el-80-de-los-trabajadores-argentinos-advierte-que-sus-salarios-siguen-corriendo-de-atras-a-la-inflacion",
+      "title": "El 80% de los trabajadores argentinos advierte que sus salarios siguen corriendo de atrás a la inflación",
+      "volanta": "ECONOMÍA",
+      "date": "2026-10-05T16:33:56+00:00"
+    },
     {
       "id": "1de815d1",
       "image": "img/1de815d1.png",
@@ -531,15 +540,6 @@
       "title": "Valdés presentó el potencial de Corrientes ante líderes empresariales europeos en París",
       "volanta": "ARGENTINA WEEK",
       "date": "2026-10-02T10:57:02+00:00"
-    },
-    {
-      "id": "df50d2a9",
-      "image": "img/df50d2a9.png",
-      "image_sha": "4c7854e799891a946302805786df3853dbcef7df",
-      "url": "https://www.radiodos.com.ar/214750-el-ingreso-por-persona-promedio-fue-inferior-a-700000-en-el-segundo-trimestre",
-      "title": "El ingreso por persona promedio fue inferior a $700.000 en el segundo trimestre",
-      "volanta": "SEGÚN EL INDEC",
-      "date": "2026-10-01T21:56:59+00:00"
     }
   ]
 }
