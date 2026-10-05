@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T10:52:55+00:00",
+  "updated": "2026-10-05T11:10:49+00:00",
   "posts": [
+    {
+      "id": "4db95e6d",
+      "image": "img/4db95e6d.png",
+      "image_sha": "807a8adb0e561df1eff5563ed3aefae430fa622f",
+      "url": "https://www.radiodos.com.ar/214876-para-satisfacer-la-demanda-de-viviendas-el-invico-planea-sumar-casas-de-madera",
+      "title": "Para satisfacer la demanda de viviendas, el INVICO planea sumar casas de madera",
+      "volanta": "ALTERNATIVAS",
+      "date": "2026-10-05T11:10:49+00:00"
+    },
     {
       "id": "1ee898c4",
       "image": "img/1ee898c4.png",
@@ -531,15 +540,6 @@
       "title": "Karina Milei se reunió con representantes de empresas francesas que ampliarán sus inversiones en la Argentina",
       "volanta": "FRANCIA",
       "date": "2026-10-01T16:26:33+00:00"
-    },
-    {
-      "id": "70d7a9c4",
-      "image": "img/70d7a9c4.png",
-      "image_sha": "9f3c0ec33bd7d28fcb03b83a7cd19ebefa52000f",
-      "url": "https://www.radiodos.com.ar/214722-mas-complicado-el-ex-senador-libertario-edgardo-kueider-ahora-quedo-involucrado-en-otra-causa-de-corrupcion",
-      "title": "Más complicado: el ex senador libertario Edgardo Kueider ahora quedó involucrado en otra causa de corrupción",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-10-01T16:26:01+00:00"
     }
   ]
 }
