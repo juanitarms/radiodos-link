@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T22:08:53+00:00",
+  "updated": "2026-10-05T22:09:26+00:00",
   "posts": [
+    {
+      "id": "d305ab7e",
+      "image": "img/d305ab7e.png",
+      "image_sha": "48951baa4cd57f5e00af921d8bcd59cfc543377e",
+      "url": "https://www.radiodos.com.ar/214929-caillava-rompera-el-silencio-y-dara-su-version-sobre-sus-movimientos-tras-la-desaparicion-de-loan",
+      "title": "Caillava romperá el silencio y dará su versión sobre sus movimientos tras la desaparición de Loan",
+      "volanta": "JUICIO",
+      "date": "2026-10-05T22:09:26+00:00"
+    },
     {
       "id": "d4ee35b6",
       "image": "img/d4ee35b6.png",
@@ -531,15 +540,6 @@
       "title": "Por la visita del papa León XIV los bancos permanecerán cerrados durante cinco días seguidos",
       "volanta": "CONFIRMADO",
       "date": "2026-10-02T15:07:02+00:00"
-    },
-    {
-      "id": "aa217f6f",
-      "image": "img/aa217f6f.png",
-      "image_sha": "077e37502f607f503cc606c29b5a6536984a9aa0",
-      "url": "https://www.radiodos.com.ar/214779-buscan-a-una-joven-que-no-volvio-a-su-hogar",
-      "title": "Buscan a una joven que no volvió a su hogar",
-      "volanta": "PASO DE LOS LIBRES",
-      "date": "2026-10-02T14:30:35+00:00"
     }
   ]
 }
