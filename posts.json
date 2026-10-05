@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T16:33:56+00:00",
+  "updated": "2026-10-05T17:52:38+00:00",
   "posts": [
+    {
+      "id": "66fb4305",
+      "image": "img/66fb4305.png",
+      "image_sha": "3549141bf7ef3d0947ed7988401ce1e698a15dad",
+      "url": "https://www.radiodos.com.ar/214910-asesinato-de-nerea-investigan-si-fue-victima-de-un-ritual-umbanda",
+      "title": "Asesinato de Nerea: investigan si fue víctima de un ritual Umbanda",
+      "volanta": "Berazategui",
+      "date": "2026-10-05T17:52:38+00:00"
+    },
     {
       "id": "52bb14f3",
       "image": "img/52bb14f3.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés fue recibido por Emmanuel Macron",
       "volanta": "ARGENTINA WEEK",
       "date": "2026-10-02T11:28:21+00:00"
-    },
-    {
-      "id": "1d4c7ef6",
-      "image": "img/1d4c7ef6.png",
-      "image_sha": "be696202e017ca05e02631155420eb727aab0cc3",
-      "url": "https://www.radiodos.com.ar/214757-valdes-presento-el-potencial-de-corrientes-ante-lideres-empresariales-europeos-en-paris",
-      "title": "Valdés presentó el potencial de Corrientes ante líderes empresariales europeos en París",
-      "volanta": "ARGENTINA WEEK",
-      "date": "2026-10-02T10:57:02+00:00"
     }
   ]
 }
