@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T12:34:24+00:00",
+  "updated": "2026-10-05T12:48:59+00:00",
   "posts": [
+    {
+      "id": "5e25fb83",
+      "image": "img/5e25fb83.png",
+      "image_sha": "b3f752cddf277b8ff5cd21a0e06d4f13c5100dd1",
+      "url": "https://www.radiodos.com.ar/214887-salud-publica-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-10-05T12:48:59+00:00"
+    },
     {
       "id": "ae8815a8",
       "image": "img/ae8815a8.png",
@@ -531,15 +540,6 @@
       "title": "Berazategui: encontraron muerta a una nena de 11 años en su casa de y detuvieron a toda su familia",
       "volanta": "INVESTIGACIÓN INICIAL",
       "date": "2026-10-01T19:10:31+00:00"
-    },
-    {
-      "id": "b58ec498",
-      "image": "img/b58ec498.png",
-      "image_sha": "a28d52ad28b4fdc20daf1fde571b135f4e7ec6de",
-      "url": "https://www.radiodos.com.ar/214725-la-justicia-de-estados-unidos-desestimo-la-demanda-por-libra-y-cerro-la-causa-contra-hayden-davis",
-      "title": "La Justicia de Estados Unidos desestimó la demanda por $LIBRA y cerró la causa contra Hayden Davis",
-      "volanta": "CIERRE",
-      "date": "2026-10-01T17:54:48+00:00"
     }
   ]
 }
