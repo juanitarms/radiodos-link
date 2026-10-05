@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T19:12:36+00:00",
+  "updated": "2026-10-05T21:31:16+00:00",
   "posts": [
+    {
+      "id": "3e9b284c",
+      "image": "img/3e9b284c.png",
+      "image_sha": "f33bf624b96570f51e0a22bfd515418246f9e01d",
+      "url": "https://www.radiodos.com.ar/214923-el-rio-uruguay-supero-el-nivel-de-alerta-en-paso-de-los-libres",
+      "title": "El río Uruguay superó el nivel de alerta en Paso de los Libres",
+      "volanta": "COSTANERA CERRADA",
+      "date": "2026-10-05T21:31:16+00:00"
+    },
     {
       "id": "d1b34de4",
       "image": "img/d1b34de4.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "EL FIN DE SEMANA",
       "date": "2026-10-02T12:41:45+00:00"
-    },
-    {
-      "id": "75de4f7b",
-      "image": "img/75de4f7b.png",
-      "image_sha": "53147507375354f3ea107410c48825a958d7cd42",
-      "url": "https://www.radiodos.com.ar/214764-lionel-messi-llego-a-la-argentina-para-su-partido-despedida-de-la-seleccion",
-      "title": "Lionel Messi llegó a la Argentina para su partido despedida de la Selección",
-      "volanta": "SE JUEGA EL MARTES",
-      "date": "2026-10-02T12:19:20+00:00"
     }
   ]
 }
