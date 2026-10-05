@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T14:56:32+00:00",
+  "updated": "2026-10-05T15:11:18+00:00",
   "posts": [
+    {
+      "id": "157be262",
+      "image": "img/157be262.png",
+      "image_sha": "a576f25f3122a957db8627c0622e1721b3568477",
+      "url": "https://www.radiodos.com.ar/214901-pachu-pena-fue-el-primer-eliminado-de-masterchef-celebrity-tras-una-exigente-gala",
+      "title": "Pachu Peña fue el primer eliminado de MasterChef Celebrity tras una exigente gala",
+      "volanta": "COMPETENCIA",
+      "date": "2026-10-05T15:11:18+00:00"
+    },
     {
       "id": "a50455a4",
       "image": "img/a50455a4.png",
@@ -531,15 +540,6 @@
       "title": "Fundación Nacer con Ciencia realizó su lanzamiento e inicia primera campaña de prevención en Corrientes",
       "volanta": "SALUD Y CIENCIA",
       "date": "2026-10-01T21:18:43+00:00"
-    },
-    {
-      "id": "a9c264e7",
-      "image": "img/a9c264e7.png",
-      "image_sha": "9ec60333e41063412d035b62bd3f66b61f0d0557",
-      "url": "https://www.radiodos.com.ar/214746-estados-unidos-llamo-a-argentina-y-el-reino-unido-a-desescalar-la-tension-por-malvinas",
-      "title": "Estados Unidos llamó a Argentina y el Reino Unido a \"desescalar\" la tensión por Malvinas",
-      "volanta": "CRISIS DIPLOMÁTICA",
-      "date": "2026-10-01T21:15:50+00:00"
     }
   ]
 }
