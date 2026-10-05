@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T21:31:59+00:00",
+  "updated": "2026-10-05T22:06:30+00:00",
   "posts": [
+    {
+      "id": "0851698c",
+      "image": "img/0851698c.png",
+      "image_sha": "e74926530528ab06c1477719efc6b3b6e72db5d4",
+      "url": "https://www.radiodos.com.ar/214927-lourdes-sanchez-sobre-su-separacion-de-chato-prada-se-me-acabo-el-amor-hace-tiempo",
+      "title": "Lourdes Sánchez sobre su separación de Chato Prada: \"Se me acabó el amor hace tiempo\"",
+      "volanta": "ROMPIÓ EL SILENCIO",
+      "date": "2026-10-05T22:06:30+00:00"
+    },
     {
       "id": "7ce99640",
       "image": "img/7ce99640.png",
@@ -531,15 +540,6 @@
       "title": "Operativo de Garrafa Social: Cronograma Semanal",
       "volanta": "DESARROLLO SOCIAL",
       "date": "2026-10-02T14:08:21+00:00"
-    },
-    {
-      "id": "3bfd9d40",
-      "image": "img/3bfd9d40.png",
-      "image_sha": "95d0be72bd6e6af137bd308f4b02fc71e7833058",
-      "url": "https://www.radiodos.com.ar/214762-regatas-corrientes-inicia-su-23-temporada-en-la-lnb-recibiendo-a-instituto",
-      "title": "Regatas Corrientes inicia su 23º temporada en la LNB recibiendo a Instituto",
-      "volanta": "DESDE LAS 21",
-      "date": "2026-10-02T13:20:12+00:00"
     }
   ]
 }
