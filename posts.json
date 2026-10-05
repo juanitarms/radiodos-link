@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T13:32:42+00:00",
+  "updated": "2026-10-05T13:50:44+00:00",
   "posts": [
+    {
+      "id": "2997f5cc",
+      "image": "img/2997f5cc.png",
+      "image_sha": "61d3d05d3819f39e15cba6c75a7af73547d748e8",
+      "url": "https://www.radiodos.com.ar/214891-las-ferias-de-la-ciudad-inician-un-nuevo-recorrido-semanal-con-variedad-de-productos-frescos",
+      "title": "Las Ferias de la Ciudad inician un nuevo recorrido semanal con variedad de productos frescos",
+      "volanta": "Economía social",
+      "date": "2026-10-05T13:50:44+00:00"
+    },
     {
       "id": "275437b6",
       "image": "img/275437b6.png",
@@ -531,15 +540,6 @@
       "title": "Tras el aumento de la pobreza, la desigualdad creció durante el segundo trimestre de 2026",
       "volanta": "CRISIS EN LA ERA MILEI",
       "date": "2026-10-01T20:46:07+00:00"
-    },
-    {
-      "id": "de66228e",
-      "image": "img/de66228e.png",
-      "image_sha": "91466df0ad3b2a144dbc90379ed918ff25c91489",
-      "url": "https://www.radiodos.com.ar/214734-flydubai-suspendio-todos-sus-vuelos-desde-y-hacia-israel-tras-el-atentado-frustrado-por-los-pasajeros",
-      "title": "Flydubai suspendió todos sus vuelos desde y hacia Israel tras el atentado frustrado por los pasajeros",
-      "volanta": "MEDIDA",
-      "date": "2026-10-01T19:11:39+00:00"
     }
   ]
 }
