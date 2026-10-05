@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T22:06:30+00:00",
+  "updated": "2026-10-05T22:08:53+00:00",
   "posts": [
+    {
+      "id": "d4ee35b6",
+      "image": "img/d4ee35b6.png",
+      "image_sha": "ddcacbce0e6fb62c850aac4a5c12a72b5f9f9d1d",
+      "url": "https://www.radiodos.com.ar/214928-fuerte-impacto-en-corrientes-la-construccion-cayo-un-286-y-advierten-por-la-perdida-de-puestos-de-trabajo",
+      "title": "Fuerte impacto en Corrientes: la construcción cayó un 28,6% y advierten por la pérdida de puestos de trabajo",
+      "volanta": "CRISIS EN EL SECTOR",
+      "date": "2026-10-05T22:08:53+00:00"
+    },
     {
       "id": "0851698c",
       "image": "img/0851698c.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una joven que no volvió a su hogar",
       "volanta": "PASO DE LOS LIBRES",
       "date": "2026-10-02T14:30:35+00:00"
-    },
-    {
-      "id": "bf3f12ae",
-      "image": "img/bf3f12ae.png",
-      "image_sha": "e557673096ffcfce326ec9a44347e841f69bc576",
-      "url": "https://www.radiodos.com.ar/214778-operativo-de-garrafa-social-cronograma-semanal",
-      "title": "Operativo de Garrafa Social: Cronograma Semanal",
-      "volanta": "DESARROLLO SOCIAL",
-      "date": "2026-10-02T14:08:21+00:00"
     }
   ]
 }
