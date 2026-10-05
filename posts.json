@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T13:05:33+00:00",
+  "updated": "2026-10-05T13:32:42+00:00",
   "posts": [
+    {
+      "id": "275437b6",
+      "image": "img/275437b6.png",
+      "image_sha": "561a95c652aec787d77e445c9d9bfcbf7a814e3b",
+      "url": "https://www.radiodos.com.ar/214894-soy-muy-bueno-en-el-mata-mata-el-mensaje-combativo-de-lula-da-silva-rumbo-al-balotaje",
+      "title": "\"Soy muy bueno en el mata-mata\": el mensaje combativo de Lula da Silva rumbo al balotaje",
+      "volanta": "BRASIL",
+      "date": "2026-10-05T13:32:42+00:00"
+    },
     {
       "id": "7a25e9bd",
       "image": "img/7a25e9bd.png",
@@ -531,15 +540,6 @@
       "title": "Flydubai suspendió todos sus vuelos desde y hacia Israel tras el atentado frustrado por los pasajeros",
       "volanta": "MEDIDA",
       "date": "2026-10-01T19:11:39+00:00"
-    },
-    {
-      "id": "4870dc65",
-      "image": "img/4870dc65.png",
-      "image_sha": "7c3aa708f4f35cf341b34fdeb54853ee20e1ad1a",
-      "url": "https://www.radiodos.com.ar/214736-accidente-fatal-un-hombre-murio-y-otro-esta-grave-tras-un-choque-entre-una-camioneta-y-un-camion",
-      "title": "Accidente fatal: un hombre murió y otro está grave tras un choque entre una camioneta y un camión",
-      "volanta": "Ruta 2",
-      "date": "2026-10-01T19:11:05+00:00"
     }
   ]
 }
