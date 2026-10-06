@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T14:46:41+00:00",
+  "updated": "2026-10-06T15:04:11+00:00",
   "posts": [
+    {
+      "id": "c2eaf595",
+      "image": "img/c2eaf595.png",
+      "image_sha": "551fe89c37af3a83f17873df3602a0624c6242e1",
+      "url": "https://www.radiodos.com.ar/214962-plus-unificado-desde-manana-comienza-el-pago-del-mes-de-octubre",
+      "title": "Plus Unificado: desde mañana comienza el pago del mes de octubre",
+      "volanta": "POLÍTICA SALARIAL",
+      "date": "2026-10-06T15:04:11+00:00"
+    },
     {
       "id": "5791ff93",
       "image": "img/5791ff93.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a 12 años de prisión a un hombre por abusar de sus hijastras",
       "volanta": "CORRIENTES",
       "date": "2026-10-02T22:02:47+00:00"
-    },
-    {
-      "id": "ede3e19e",
-      "image": "img/ede3e19e.png",
-      "image_sha": "0f237f7dd1076159bd914466b624365a1366952d",
-      "url": "https://www.radiodos.com.ar/214810-duro-mensaje-de-la-iglesia-en-la-previa-de-la-llegada-del-papa-va-a-encontrar-una-argentina-herida",
-      "title": "Duro mensaje de la Iglesia en la previa de la llegada del Papa: \"Va a encontrar una Argentina herida\"",
-      "volanta": "IGLESIA",
-      "date": "2026-10-02T22:02:04+00:00"
     }
   ]
 }
