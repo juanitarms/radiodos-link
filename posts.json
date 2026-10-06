@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T19:09:34+00:00",
+  "updated": "2026-10-06T20:40:10+00:00",
   "posts": [
+    {
+      "id": "7f078dfc",
+      "image": "img/7f078dfc.png",
+      "image_sha": "7174a187132dab728b26668254f32f833aafd9cb",
+      "url": "https://www.radiodos.com.ar/214988-gobierno-e-instituciones-intermedias-coordinan-acciones-ante-la-llegada-del-fenomeno-de-el-nino-en-corrientes",
+      "title": "Gobierno e instituciones intermedias coordinan acciones ante la llegada del fenómeno de El Niño en Corrientes",
+      "volanta": "RED PROVINCIAL DE VOLUNTARIADO",
+      "date": "2026-10-06T20:40:10+00:00"
+    },
     {
       "id": "e2cefd49",
       "image": "img/e2cefd49.png",
@@ -531,15 +540,6 @@
       "title": "Pampita volvió a peregrinar a Luján, esta vez bajo la lluvia: \"Descubrirse en cada paso\"",
       "volanta": "DEVOTA",
       "date": "2026-10-03T23:31:04+00:00"
-    },
-    {
-      "id": "58d1bf8f",
-      "image": "img/58d1bf8f.png",
-      "image_sha": "04cafcb74903c64752eff0cae4f6a543f63bf427",
-      "url": "https://www.radiodos.com.ar/214843-en-camioneta-choco-a-una-moto-huyo-y-lo-detuvieron",
-      "title": "En camioneta chocó a una moto, huyó y lo detuvieron",
-      "volanta": "AV. MAIPU Y RUTA NACIONAL Nº 12",
-      "date": "2026-10-03T22:47:07+00:00"
     }
   ]
 }
