@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T17:09:58+00:00",
+  "updated": "2026-10-06T17:10:34+00:00",
   "posts": [
+    {
+      "id": "b8acdbfa",
+      "image": "img/b8acdbfa.png",
+      "image_sha": "a590e03caa1299f99a8a1fd13ef8e88e7d76ae79",
+      "url": "https://www.radiodos.com.ar/214981-detuvieron-al-hombre-que-golpeaba-a-su-pareja-mientras-le-borraba-contactos-de-sus-redes",
+      "title": "Detuvieron al hombre que golpeaba a su pareja mientras le borraba contactos de sus redes",
+      "volanta": "Tapalqué",
+      "date": "2026-10-06T17:10:34+00:00"
+    },
     {
       "id": "b95a041f",
       "image": "img/b95a041f.png",
@@ -531,15 +540,6 @@
       "title": "Regatas Corrientes comenzó la temporada con un valioso triunfo ante Instituto",
       "volanta": "LNB",
       "date": "2026-10-03T12:56:17+00:00"
-    },
-    {
-      "id": "15fde7e7",
-      "image": "img/15fde7e7.png",
-      "image_sha": "af9dc526947e086b247aee58470843e81b4a1544",
-      "url": "https://www.radiodos.com.ar/214818-torneo-clausura-instituto-goleo-a-independiente-y-se-afianza-como-lider",
-      "title": "Torneo Clausura: Instituto goleó a Independiente y se afianza como líder",
-      "volanta": "Fue 4 a 1",
-      "date": "2026-10-03T01:38:17+00:00"
     }
   ]
 }
