@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T14:27:49+00:00",
+  "updated": "2026-10-06T14:46:41+00:00",
   "posts": [
+    {
+      "id": "5791ff93",
+      "image": "img/5791ff93.png",
+      "image_sha": "fcbe49ab43bb6116eeabf6d28184b9db3378092f",
+      "url": "https://www.radiodos.com.ar/214952-haberes-de-anses-con-aumento-montos-finales-para-jubilados-pensiones-y-auh-en-octubre-2026",
+      "title": "Haberes de ANSES con aumento: montos finales para jubilados, pensiones y AUH en octubre 2026",
+      "volanta": "CONFIRMADO",
+      "date": "2026-10-06T14:46:41+00:00"
+    },
     {
       "id": "774d448f",
       "image": "img/774d448f.png",
@@ -531,15 +540,6 @@
       "title": "Duro mensaje de la Iglesia en la previa de la llegada del Papa: \"Va a encontrar una Argentina herida\"",
       "volanta": "IGLESIA",
       "date": "2026-10-02T22:02:04+00:00"
-    },
-    {
-      "id": "f2413584",
-      "image": "img/f2413584.png",
-      "image_sha": "720699012478711ebce9db1cfb15e6137a6ae99d",
-      "url": "https://www.radiodos.com.ar/214809-un-gremio-docente-asegura-que-el-presupuesto-nacional-2027-sostiene-recortes-de-hasta-el-90-en-fondos-para-la-educacion-de-corrientes",
-      "title": "Un gremio docente asegura que el Presupuesto Nacional 2027 sostiene recortes de hasta el 90% en fondos para la Educación de Corrientes",
-      "volanta": "ADVERTENCIAS",
-      "date": "2026-10-02T21:13:25+00:00"
     }
   ]
 }
