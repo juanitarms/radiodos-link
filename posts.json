@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T20:45:26+00:00",
+  "updated": "2026-10-06T20:59:46+00:00",
   "posts": [
+    {
+      "id": "baf70cb3",
+      "image": "img/baf70cb3.png",
+      "image_sha": "074e9cb6543a56d3c01c3ec4659253930e2c91cd",
+      "url": "https://www.radiodos.com.ar/214995-corrientes-fortalece-la-deteccion-temprana-del-cancer-de-mama-a-traves-de-una-red-de-especialistas",
+      "title": "Corrientes fortalece la detección temprana del cáncer de mama a través de una red de especialistas",
+      "volanta": "SALUD PÚBLICA",
+      "date": "2026-10-06T20:59:46+00:00"
+    },
     {
       "id": "ae01884b",
       "image": "img/ae01884b.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni: \"Me gustaría que la gente entienda lo que Messi transmite en un campo de fútbol\"",
       "volanta": "Tras la goleada a Burkina Faso",
       "date": "2026-10-04T12:48:46+00:00"
-    },
-    {
-      "id": "f750a308",
-      "image": "img/f750a308.png",
-      "image_sha": "3b5904b8a55c07fc8be5dd0f90f267405ca88937",
-      "url": "https://www.radiodos.com.ar/214852-amistoso-internacional-argentina-volvio-a-demostrar-todo-su-poderio-ofensivo-y-goleo-a-burkina-faso",
-      "title": "Amistoso Internacional: Argentina volvió a demostrar todo su poderío ofensivo y goleó a Burkina Faso",
-      "volanta": "Fue 7 a 0",
-      "date": "2026-10-04T03:05:26+00:00"
     }
   ]
 }
