@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T21:03:39+00:00",
+  "updated": "2026-10-06T21:04:10+00:00",
   "posts": [
+    {
+      "id": "b74b0c6a",
+      "image": "img/b74b0c6a.png",
+      "image_sha": "0d06ad74a6e542769710344c88e0ab2bf68a5554",
+      "url": "https://www.radiodos.com.ar/214993-bombazo-de-cristiano-ronaldo-en-portugal-su-verdad-tras-abandonar-la-concentracion",
+      "title": "Bombazo de Cristiano Ronaldo en Portugal: su verdad tras abandonar la concentración",
+      "volanta": "ASTRO",
+      "date": "2026-10-06T21:04:10+00:00"
+    },
     {
       "id": "4d9be004",
       "image": "img/4d9be004.png",
@@ -531,15 +540,6 @@
       "title": "Impulsan conexión aérea entre Mercedes, Goya y Aeroparque",
       "volanta": "Una nueva \"low cost\" en corrientes",
       "date": "2026-10-04T15:20:20+00:00"
-    },
-    {
-      "id": "8384c626",
-      "image": "img/8384c626.png",
-      "image_sha": "53eab21789461111d3c722415f814acdb78599ff",
-      "url": "https://www.radiodos.com.ar/214854-santo-tome-la-policia-de-corrientes-releva-jefes-y-aparta-a-agentes",
-      "title": "Santo Tomé: la Policía de Corrientes releva jefes y aparta a agentes",
-      "volanta": "INVESTIGACIÓN JUDICIAL",
-      "date": "2026-10-04T13:52:03+00:00"
     }
   ]
 }
