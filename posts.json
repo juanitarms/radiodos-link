@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T17:09:24+00:00",
+  "updated": "2026-10-06T17:09:58+00:00",
   "posts": [
+    {
+      "id": "b95a041f",
+      "image": "img/b95a041f.png",
+      "image_sha": "e675f049b0d92c22df0b57303bccfac8ed86d099",
+      "url": "https://www.radiodos.com.ar/214980-cierre-del-instituto-almafuerte-1400-alumnos-se-quedarian-sin-vacante-en-2027",
+      "title": "Cierre del Instituto Almafuerte: 1.400 alumnos se quedarían sin vacante en 2027",
+      "volanta": "CRISIS",
+      "date": "2026-10-06T17:09:58+00:00"
+    },
     {
       "id": "8f866c1a",
       "image": "img/8f866c1a.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Instituto goleó a Independiente y se afianza como líder",
       "volanta": "Fue 4 a 1",
       "date": "2026-10-03T01:38:17+00:00"
-    },
-    {
-      "id": "74b96eec",
-      "image": "img/74b96eec.png",
-      "image_sha": "ba2f34f13086ae4690c7ba63028b181c152faddd",
-      "url": "https://www.radiodos.com.ar/214814-investigan-si-policias-liberaron-a-detenidos-para-robar-un-pago-facil-y-devolverlos-a-sus-celdas",
-      "title": "Investigan si policías liberaron a detenidos para robar un Pago Fácil y devolverlos a sus celdas",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-02T23:34:49+00:00"
     }
   ]
 }
