@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T10:20:14+00:00",
+  "updated": "2026-10-06T11:18:52+00:00",
   "posts": [
+    {
+      "id": "b106e504",
+      "image": "img/b106e504.png",
+      "image_sha": "d24b2c01ba1cbd7b5a54d653f18924c319354f89",
+      "url": "https://www.radiodos.com.ar/214935-por-un-sorpresivo-crater-en-el-asfalto-inhabilitan-el-transito-en-una-cuadra-en-el-microcentro-de-corrientes",
+      "title": "Por un sorpresivo 'cráter' en el asfalto, inhabilitan el tránsito en una cuadra en el microcentro de Corrientes",
+      "volanta": "A TENER EN CUENTA",
+      "date": "2026-10-06T11:18:52+00:00"
+    },
     {
       "id": "73ee3222",
       "image": "img/73ee3222.png",
@@ -531,15 +540,6 @@
       "title": "Liberaron a Maxi Ghione tras un acuerdo con su denunciante",
       "volanta": "BUENA NOTICIA",
       "date": "2026-10-02T17:05:51+00:00"
-    },
-    {
-      "id": "cc75e21c",
-      "image": "img/cc75e21c.png",
-      "image_sha": "ddaac04731456dd571ae37f0b5fb47ee07d48a92",
-      "url": "https://www.radiodos.com.ar/214801-alerta-por-viento-zonda-en-san-juan-y-mendoza-suspendieron-las-clases",
-      "title": "Alerta por viento zonda en San Juan y Mendoza: suspendieron las clases",
-      "volanta": "SMN",
-      "date": "2026-10-02T17:05:15+00:00"
     }
   ]
 }
