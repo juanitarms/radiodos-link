@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T13:07:59+00:00",
+  "updated": "2026-10-06T13:33:38+00:00",
   "posts": [
+    {
+      "id": "9ac8820e",
+      "image": "img/9ac8820e.png",
+      "image_sha": "968cd4a1d083a375996375ae8cd449449796a51b",
+      "url": "https://www.radiodos.com.ar/214949-despedida-de-lionel-messi-afa-organiza-un-fan-fest-masivo-para-vivir-la-previa-en-ciudad-universitaria",
+      "title": "Despedida de Lionel Messi: AFA organiza un Fan Fest masivo para vivir la previa en Ciudad Universitaria",
+      "volanta": "SHOW",
+      "date": "2026-10-06T13:33:38+00:00"
+    },
     {
       "id": "7bb55708",
       "image": "img/7bb55708.png",
@@ -531,15 +540,6 @@
       "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
       "volanta": "CON APOYO PROVINCIAL",
       "date": "2026-10-02T20:46:13+00:00"
-    },
-    {
-      "id": "dba25216",
-      "image": "img/dba25216.png",
-      "image_sha": "87628621f7e1f24154b89f5f54bc7a896b4a66be",
-      "url": "https://www.radiodos.com.ar/214806-insolito-burkina-faso-todavia-no-llego-al-pais-y-peligra-el-amistoso-con-la-seleccion-argentina-previsto-para-manana",
-      "title": "Insólito: Burkina Faso todavía no llegó al país y peligra el amistoso con la Selección argentina previsto para mañana",
-      "volanta": "DE NO CREER",
-      "date": "2026-10-02T20:45:18+00:00"
     }
   ]
 }
