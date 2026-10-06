@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T18:42:42+00:00",
+  "updated": "2026-10-06T18:43:16+00:00",
   "posts": [
+    {
+      "id": "29c34bc6",
+      "image": "img/29c34bc6.png",
+      "image_sha": "03a2763962c92daa15d054efe093a0bd66219330",
+      "url": "https://www.radiodos.com.ar/214973-el-ultimatum-de-tini-stoessel-a-su-padre-para-intentar-llegar-a-un-acuerdo-el-5-o-nada",
+      "title": "El ultimátum de Tini Stoessel a su padre para intentar llegar a un acuerdo: \"El 5% o nada\"",
+      "volanta": "¿LLEGAN AL ACUERDO?",
+      "date": "2026-10-06T18:43:16+00:00"
+    },
     {
       "id": "ec43bb4d",
       "image": "img/ec43bb4d.png",
@@ -531,15 +540,6 @@
       "title": "Joven madre murió alcanzada por un rayo en el interior de Corrientes",
       "volanta": "TRAGEDIA",
       "date": "2026-10-03T21:21:48+00:00"
-    },
-    {
-      "id": "8e6eeb5c",
-      "image": "img/8e6eeb5c.png",
-      "image_sha": "3d0ea5b4edee71e7b793e002336dee269c8ad08f",
-      "url": "https://www.radiodos.com.ar/214823-la-policia-realizara-un-importante-dispositivo-de-seguridad-por-la-16ta-edicion-del-taragui-rock-–-corrientes-2026",
-      "title": "La Policía realizará un importante dispositivo de seguridad por la 16ta. edición del Taragui Rock – Corrientes 2026",
-      "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
-      "date": "2026-10-03T15:02:54+00:00"
     }
   ]
 }
