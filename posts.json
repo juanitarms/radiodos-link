@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T22:12:13+00:00",
+  "updated": "2026-10-06T10:20:14+00:00",
   "posts": [
+    {
+      "id": "73ee3222",
+      "image": "img/73ee3222.png",
+      "image_sha": "74ccf19b1e75a9801b41815f15eab3d1682a8eff",
+      "url": "https://www.radiodos.com.ar/214934-se-va-el-mas-grande-todos-los-detalles-de-la-despedida-de-lionel-messi-de-la-seleccion-argentina",
+      "title": "Se va el más grande: todos los detalles de la despedida de Lionel Messi de la Selección Argentina",
+      "volanta": "FIESTA TOTAL",
+      "date": "2026-10-06T10:20:14+00:00"
+    },
     {
       "id": "637fb841",
       "image": "img/637fb841.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por viento zonda en San Juan y Mendoza: suspendieron las clases",
       "volanta": "SMN",
       "date": "2026-10-02T17:05:15+00:00"
-    },
-    {
-      "id": "1c5823b6",
-      "image": "img/1c5823b6.png",
-      "image_sha": "37aa4dec9d195cd442c80ff0b9ad17ba78559cad",
-      "url": "https://www.radiodos.com.ar/214783-se-viene-el-xvii-congreso-internacional-de-turismo-y-el-xxi-encuentro-nacional-de-estudiantes-de-turismo",
-      "title": "Se viene el XVII Congreso Internacional de Turismo y el XXI Encuentro Nacional de Estudiantes de Turismo",
-      "volanta": "8, 9, 10 y 11 de Octubre",
-      "date": "2026-10-02T15:23:40+00:00"
     }
   ]
 }
