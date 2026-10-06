@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T13:33:38+00:00",
+  "updated": "2026-10-06T14:03:27+00:00",
   "posts": [
+    {
+      "id": "38ae9219",
+      "image": "img/38ae9219.png",
+      "image_sha": "aebbcb0854e94fc5e526b4dd93fec512aa580770",
+      "url": "https://www.radiodos.com.ar/214953-salvaje-ataque-detuvieron-a-un-joven-tras-arrastrar-tres-cuadras-a-su-expareja",
+      "title": "Salvaje ataque: detuvieron a un joven tras arrastrar tres cuadras a su expareja",
+      "volanta": "Beccar",
+      "date": "2026-10-06T14:03:27+00:00"
+    },
     {
       "id": "9ac8820e",
       "image": "img/9ac8820e.png",
@@ -531,15 +540,6 @@
       "title": "La UCR-Corrientes convocó a su Convención Provincial para el miércoles 7 de octubre",
       "volanta": "EN EL SALÓN LAPACHO A LAS 11.30",
       "date": "2026-10-02T21:12:52+00:00"
-    },
-    {
-      "id": "12bdfb3a",
-      "image": "img/12bdfb3a.png",
-      "image_sha": "8913f881ebb87496ab4a129771a0fe593e4029b8",
-      "url": "https://www.radiodos.com.ar/214807-mas-de-900-profesionales-participaron-de-la-i-jornada-cientifica-de-enfermeria-oncologica-en-corrientes",
-      "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
-      "volanta": "CON APOYO PROVINCIAL",
-      "date": "2026-10-02T20:46:13+00:00"
     }
   ]
 }
