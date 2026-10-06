@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T18:43:16+00:00",
+  "updated": "2026-10-06T19:09:02+00:00",
   "posts": [
+    {
+      "id": "4cddd98b",
+      "image": "img/4cddd98b.png",
+      "image_sha": "57feadd26f0d9869e34ee978646f3121fdaedb58",
+      "url": "https://www.radiodos.com.ar/214987-messi-recibio-el-doctorado-honoris-causa-de-la-uba-antes-de-su-despedida-de-la-seleccion-argentina",
+      "title": "Messi recibió el Doctorado Honoris Causa de la UBA antes de su despedida de la Selección Argentina",
+      "volanta": "RECONOCIMIENTO",
+      "date": "2026-10-06T19:09:02+00:00"
+    },
     {
       "id": "29c34bc6",
       "image": "img/29c34bc6.png",
@@ -531,15 +540,6 @@
       "title": "Franco Colapinto largará 21° en el Gran Premio de Bahréin en Malasia de la Fórmula 1",
       "volanta": "Por las penalizaciones",
       "date": "2026-10-03T22:46:37+00:00"
-    },
-    {
-      "id": "bd6c4463",
-      "image": "img/bd6c4463.png",
-      "image_sha": "3a5d0a2645f14199d5a1d1ba42fcef718a8a9016",
-      "url": "https://www.radiodos.com.ar/214832-joven-madre-murio-alcanzada-por-un-rayo-en-el-interior-de-corrientes",
-      "title": "Joven madre murió alcanzada por un rayo en el interior de Corrientes",
-      "volanta": "TRAGEDIA",
-      "date": "2026-10-03T21:21:48+00:00"
     }
   ]
 }
