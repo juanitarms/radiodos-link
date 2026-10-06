@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T21:04:10+00:00",
+  "updated": "2026-10-06T21:22:43+00:00",
   "posts": [
+    {
+      "id": "924fd449",
+      "image": "img/924fd449.png",
+      "image_sha": "fcae0465bc6c8c33466df1bb05db77a893df8737",
+      "url": "https://www.radiodos.com.ar/214996-a-una-madre-le-retiraron-la-tenencia-de-sus-dos-hijos-por-inasistencia-escolar",
+      "title": "A una madre le retiraron la tenencia de sus dos hijos por inasistencia escolar",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-06T21:22:43+00:00"
+    },
     {
       "id": "b74b0c6a",
       "image": "img/b74b0c6a.png",
@@ -531,15 +540,6 @@
       "title": "Rubén Darío Insúa: \"Deberíamos convencerlo y de que se retire del fútbol saliendo campeón del mundo\"",
       "volanta": "Que sea un clamor popular",
       "date": "2026-10-04T18:14:25+00:00"
-    },
-    {
-      "id": "742b09d8",
-      "image": "img/742b09d8.png",
-      "image_sha": "9e091095c45796ecd6b78cd4dbf19da210fc1200",
-      "url": "https://www.radiodos.com.ar/214858-impulsan-conexion-aerea-entre-mercedes-goya-y-aeroparque",
-      "title": "Impulsan conexión aérea entre Mercedes, Goya y Aeroparque",
-      "volanta": "Una nueva \"low cost\" en corrientes",
-      "date": "2026-10-04T15:20:20+00:00"
     }
   ]
 }
