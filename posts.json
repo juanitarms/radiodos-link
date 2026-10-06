@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T18:42:08+00:00",
+  "updated": "2026-10-06T18:42:42+00:00",
   "posts": [
+    {
+      "id": "ec43bb4d",
+      "image": "img/ec43bb4d.png",
+      "image_sha": "bf88208c74b59588f90f9e3c92c05a994fbd57d1",
+      "url": "https://www.radiodos.com.ar/214978-declaro-el-copiloto-del-vuelo-de-flydubai-lo-hice-para-vengar-a-gaza-queria-morir-como-martir",
+      "title": "Declaró el copiloto del vuelo de Flydubai: \"Lo hice para vengar a Gaza, quería morir como mártir\"",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-10-06T18:42:42+00:00"
+    },
     {
       "id": "7f76d513",
       "image": "img/7f76d513.png",
@@ -531,15 +540,6 @@
       "title": "La Policía realizará un importante dispositivo de seguridad por la 16ta. edición del Taragui Rock – Corrientes 2026",
       "volanta": "ANFITEATRO TRANSITO COCOMAROLA",
       "date": "2026-10-03T15:02:54+00:00"
-    },
-    {
-      "id": "f15d8db1",
-      "image": "img/f15d8db1.png",
-      "image_sha": "353263cbb0cfd574ec59f7f1cc78f8b57e01e91e",
-      "url": "https://www.radiodos.com.ar/214822-la-municipalidad-de-corrientes-propone-un-fin-de-semana-con-actividades-en-la-playa-musica-y-recorridos-culturales",
-      "title": "La Municipalidad de Corrientes propone un fin de semana con actividades en la playa, música y recorridos culturales",
-      "volanta": "AGENDA CON VARIADOS EVENTOS",
-      "date": "2026-10-03T13:07:47+00:00"
     }
   ]
 }
