@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T14:03:27+00:00",
+  "updated": "2026-10-06T14:27:49+00:00",
   "posts": [
+    {
+      "id": "774d448f",
+      "image": "img/774d448f.png",
+      "image_sha": "9e1d105a2b5f0a774d362b91635e79205698b420",
+      "url": "https://www.radiodos.com.ar/214963-el-presidente-de-came-participara-manana-de-la-audiencia-del-papa-leon-xiv-en-el-vaticano",
+      "title": "El presidente de CAME participará mañana de la Audiencia del papa León XIV en el Vaticano",
+      "volanta": "COMUNICADO",
+      "date": "2026-10-06T14:27:49+00:00"
+    },
     {
       "id": "38ae9219",
       "image": "img/38ae9219.png",
@@ -531,15 +540,6 @@
       "title": "Un gremio docente asegura que el Presupuesto Nacional 2027 sostiene recortes de hasta el 90% en fondos para la Educación de Corrientes",
       "volanta": "ADVERTENCIAS",
       "date": "2026-10-02T21:13:25+00:00"
-    },
-    {
-      "id": "ce5ccc76",
-      "image": "img/ce5ccc76.png",
-      "image_sha": "8fc718baba1321d2f8427514da42578acf20be99",
-      "url": "https://www.radiodos.com.ar/214808-la-ucr-corrientes-convoco-a-su-convencion-provincial-para-el-miercoles-7-de-octubre",
-      "title": "La UCR-Corrientes convocó a su Convención Provincial para el miércoles 7 de octubre",
-      "volanta": "EN EL SALÓN LAPACHO A LAS 11.30",
-      "date": "2026-10-02T21:12:52+00:00"
     }
   ]
 }
