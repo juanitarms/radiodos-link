@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T20:59:46+00:00",
+  "updated": "2026-10-06T21:03:07+00:00",
   "posts": [
+    {
+      "id": "e9ade223",
+      "image": "img/e9ade223.png",
+      "image_sha": "c9b86ef7ed6706a05bff73b74fcad4235d356966",
+      "url": "https://www.radiodos.com.ar/214994-la-casa-rosada-descarta-un-acuerdo-general-con-los-gobernadores-y-apuesta-a-negociar-por-provincia",
+      "title": "La Casa Rosada descarta un acuerdo general con los gobernadores y apuesta a negociar por provincia",
+      "volanta": "BUSCAN ACUERDOS",
+      "date": "2026-10-06T21:03:07+00:00"
+    },
     {
       "id": "baf70cb3",
       "image": "img/baf70cb3.png",
@@ -531,15 +540,6 @@
       "title": "Brasil elige presidente, con Lula y Flavio Bolsonaro como principales candidatos",
       "volanta": "domingo electoral",
       "date": "2026-10-04T13:33:00+00:00"
-    },
-    {
-      "id": "88d428bc",
-      "image": "img/88d428bc.png",
-      "image_sha": "e20fb698905f3b471e3d3ff3592136b63c37983b",
-      "url": "https://www.radiodos.com.ar/214853-lionel-scaloni-me-gustaria-que-la-gente-entienda-lo-que-messi-transmite-en-un-campo-de-futbol",
-      "title": "Lionel Scaloni: \"Me gustaría que la gente entienda lo que Messi transmite en un campo de fútbol\"",
-      "volanta": "Tras la goleada a Burkina Faso",
-      "date": "2026-10-04T12:48:46+00:00"
     }
   ]
 }
