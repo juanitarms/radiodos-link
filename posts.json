@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T17:08:47+00:00",
+  "updated": "2026-10-06T17:09:24+00:00",
   "posts": [
+    {
+      "id": "8f866c1a",
+      "image": "img/8f866c1a.png",
+      "image_sha": "278360e7a0e30cf8b5e112b69c8188c08b6542b0",
+      "url": "https://www.radiodos.com.ar/214983-el-gobierno-creo-un-comando-unificado-para-el-traslado-de-presos-la-carcel-de-devoto-al-penal-de-marcos-paz",
+      "title": "El Gobierno creó un Comando Unificado para el traslado de presos la cárcel de Devoto al penal de Marcos Paz",
+      "volanta": "NOVEDAD",
+      "date": "2026-10-06T17:09:24+00:00"
+    },
     {
       "id": "c7ac99fb",
       "image": "img/c7ac99fb.png",
@@ -531,15 +540,6 @@
       "title": "Investigan si policías liberaron a detenidos para robar un Pago Fácil y devolverlos a sus celdas",
       "volanta": "CORRIENTES",
       "date": "2026-10-02T23:34:49+00:00"
-    },
-    {
-      "id": "10d65b74",
-      "image": "img/10d65b74.png",
-      "image_sha": "7f8b88ba5ecc75a1a983f58b08971c67a7128752",
-      "url": "https://www.radiodos.com.ar/214815-triple-choque-en-el-puente-general-belgrano-interrumpio-el-transito-entre-chaco-y-corrientes",
-      "title": "Triple choque en el puente General Belgrano interrumpió el tránsito entre Chaco y Corrientes",
-      "volanta": "Este viernes",
-      "date": "2026-10-02T23:34:19+00:00"
     }
   ]
 }
