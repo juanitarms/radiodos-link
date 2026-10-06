@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T11:50:00+00:00",
+  "updated": "2026-10-06T12:34:29+00:00",
   "posts": [
+    {
+      "id": "a87c0e9b",
+      "image": "img/a87c0e9b.png",
+      "image_sha": "c551b48785f79d1ea5c16f1ff28bc4f37bb71d6f",
+      "url": "https://www.radiodos.com.ar/214936-salud-ocupacional-de-corrientes-informa-sedes-dias-y-horario-de-atencion",
+      "title": "Salud Ocupacional de Corrientes informa sedes, días, y horario de atención",
+      "volanta": "DE INTERES",
+      "date": "2026-10-06T12:34:29+00:00"
+    },
     {
       "id": "95498108",
       "image": "img/95498108.png",
@@ -531,15 +540,6 @@
       "title": "Pánico en una escuela: un hombre entró armado con un cuchillo y se atrincheró en un aula",
       "volanta": "Merlo",
       "date": "2026-10-02T19:27:29+00:00"
-    },
-    {
-      "id": "e9e782d5",
-      "image": "img/e9e782d5.png",
-      "image_sha": "8913f881ebb87496ab4a129771a0fe593e4029b8",
-      "url": "https://www.radiodos.com.ar/214800-mas-de-900-profesionales-participaron-de-la-i-jornada-cientifica-de-enfermeria-oncologica-en-corrientes",
-      "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
-      "volanta": "CON APOYO PROVINCIAL",
-      "date": "2026-10-02T17:06:27+00:00"
     }
   ]
 }
