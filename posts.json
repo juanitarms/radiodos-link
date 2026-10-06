@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T17:10:34+00:00",
+  "updated": "2026-10-06T18:42:08+00:00",
   "posts": [
+    {
+      "id": "7f76d513",
+      "image": "img/7f76d513.png",
+      "image_sha": "ebb73d39c93996e992fcb5243b40bd435e251009",
+      "url": "https://www.radiodos.com.ar/214982-la-provincia-presento-un-nuevo-libro-de-geografia-para-la-educacion-secundaria",
+      "title": "La Provincia presentó un nuevo libro de Geografía para la educación secundaria",
+      "volanta": "CASA DE GOBIERNO",
+      "date": "2026-10-06T18:42:08+00:00"
+    },
     {
       "id": "b8acdbfa",
       "image": "img/b8acdbfa.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes propone un fin de semana con actividades en la playa, música y recorridos culturales",
       "volanta": "AGENDA CON VARIADOS EVENTOS",
       "date": "2026-10-03T13:07:47+00:00"
-    },
-    {
-      "id": "56e40066",
-      "image": "img/56e40066.png",
-      "image_sha": "283548051ee8302c18b3f46153a5c056f1aa877c",
-      "url": "https://www.radiodos.com.ar/214821-regatas-corrientes-comenzo-la-temporada-con-un-valioso-triunfo-ante-instituto",
-      "title": "Regatas Corrientes comenzó la temporada con un valioso triunfo ante Instituto",
-      "volanta": "LNB",
-      "date": "2026-10-03T12:56:17+00:00"
     }
   ]
 }
