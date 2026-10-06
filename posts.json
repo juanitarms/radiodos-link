@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T11:18:52+00:00",
+  "updated": "2026-10-06T11:50:00+00:00",
   "posts": [
+    {
+      "id": "95498108",
+      "image": "img/95498108.png",
+      "image_sha": "992160e9c63172707ba8b9df2476f36dbf21e829",
+      "url": "https://www.radiodos.com.ar/214937-efectivos-policiales-recuperaron-una-mascota-robada-a-un-nino-en-el-interior-de-corrientes",
+      "title": "Efectivos policiales recuperaron una mascota robada a un niño en el interior de Corrientes",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-10-06T11:50:00+00:00"
+    },
     {
       "id": "b106e504",
       "image": "img/b106e504.png",
@@ -531,15 +540,6 @@
       "title": "Más de 900 profesionales participaron de la I Jornada Científica de Enfermería Oncológica en Corrientes",
       "volanta": "CON APOYO PROVINCIAL",
       "date": "2026-10-02T17:06:27+00:00"
-    },
-    {
-      "id": "c3feadcc",
-      "image": "img/c3feadcc.png",
-      "image_sha": "2630107b74fbc5093917227003b5f1b72e0a4807",
-      "url": "https://www.radiodos.com.ar/214799-liberaron-a-maxi-ghione-tras-un-acuerdo-con-su-denunciante",
-      "title": "Liberaron a Maxi Ghione tras un acuerdo con su denunciante",
-      "volanta": "BUENA NOTICIA",
-      "date": "2026-10-02T17:05:51+00:00"
     }
   ]
 }
