@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T20:40:10+00:00",
+  "updated": "2026-10-06T20:44:59+00:00",
   "posts": [
+    {
+      "id": "d4d35d3f",
+      "image": "img/d4d35d3f.png",
+      "image_sha": "4172cd636950c33408b3152150329e43da29423e",
+      "url": "https://www.radiodos.com.ar/214989-el-municipio-de-corrientes-prepara-un-segundo-remate-con-26-motos-seis-vehiculos-y-otros-bienes-en-desuso",
+      "title": "El Municipio de Corrientes prepara un segundo remate con 26 motos, seis vehículos y otros bienes en desuso",
+      "volanta": "ADMINISTRACIÓN EFICIENTE",
+      "date": "2026-10-06T20:44:59+00:00"
+    },
     {
       "id": "7f078dfc",
       "image": "img/7f078dfc.png",
@@ -531,15 +540,6 @@
       "title": "El Papa en Argentina: piden hasta $14 millones para dormir en Luján en la víspera de la misa que dará León XIV",
       "volanta": "VISITA",
       "date": "2026-10-03T23:56:40+00:00"
-    },
-    {
-      "id": "0e470c77",
-      "image": "img/0e470c77.png",
-      "image_sha": "1d1c6b0df1b317be528de22ef9a4738915b11636",
-      "url": "https://www.radiodos.com.ar/214848-pampita-volvio-a-peregrinar-a-lujan-esta-vez-bajo-la-lluvia-descubrirse-en-cada-paso",
-      "title": "Pampita volvió a peregrinar a Luján, esta vez bajo la lluvia: \"Descubrirse en cada paso\"",
-      "volanta": "DEVOTA",
-      "date": "2026-10-03T23:31:04+00:00"
     }
   ]
 }
