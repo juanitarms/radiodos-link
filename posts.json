@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T20:44:59+00:00",
+  "updated": "2026-10-06T20:45:26+00:00",
   "posts": [
+    {
+      "id": "ae01884b",
+      "image": "img/ae01884b.png",
+      "image_sha": "2ec68699c0ab946134ec02fdd14a3d527ea2899d",
+      "url": "https://www.radiodos.com.ar/214990-cierran-un-puerto-del-interior-de-corrientes-por-la-creciente-del-rio-uruguay",
+      "title": "Cierran un puerto del interior de Corrientes por la creciente del río Uruguay",
+      "volanta": "ALERTA",
+      "date": "2026-10-06T20:45:26+00:00"
+    },
     {
       "id": "d4d35d3f",
       "image": "img/d4d35d3f.png",
@@ -531,15 +540,6 @@
       "title": "Amistoso Internacional: Argentina volvió a demostrar todo su poderío ofensivo y goleó a Burkina Faso",
       "volanta": "Fue 7 a 0",
       "date": "2026-10-04T03:05:26+00:00"
-    },
-    {
-      "id": "b27e3dc9",
-      "image": "img/b27e3dc9.png",
-      "image_sha": "d465fb180aceae1ff41acd6ad95e0b6b7197ceed",
-      "url": "https://www.radiodos.com.ar/214840-el-papa-en-argentina-piden-hasta-14-millones-para-dormir-en-lujan-en-la-vispera-de-la-misa-que-dara-leon-xiv",
-      "title": "El Papa en Argentina: piden hasta $14 millones para dormir en Luján en la víspera de la misa que dará León XIV",
-      "volanta": "VISITA",
-      "date": "2026-10-03T23:56:40+00:00"
     }
   ]
 }
