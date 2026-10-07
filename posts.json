@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T20:56:43+00:00",
+  "updated": "2026-10-07T20:58:31+00:00",
   "posts": [
+    {
+      "id": "2311798d",
+      "image": "img/2311798d.png",
+      "image_sha": "821ac3a88a82416f029716691ec76b76657a0f76",
+      "url": "https://www.radiodos.com.ar/215057-corrientes-se-ubica-entre-las-provincias-mas-afectadas-por-el-freno-en-la-construccion",
+      "title": "Corrientes se ubica entre las provincias más afectadas por el freno en la construcción",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-10-07T20:58:31+00:00"
+    },
     {
       "id": "3845b9c7",
       "image": "img/3845b9c7.png",
@@ -531,15 +540,6 @@
       "title": "Pachu Peña fue el primer eliminado de MasterChef Celebrity tras una exigente gala",
       "volanta": "COMPETENCIA",
       "date": "2026-10-05T15:11:18+00:00"
-    },
-    {
-      "id": "a50455a4",
-      "image": "img/a50455a4.png",
-      "image_sha": "3ff5c9b7d3fa4355cac3a220eeccdafee4f11ebb",
-      "url": "https://www.radiodos.com.ar/214904-revelaron-las-primeras-palabras-de-daniel-osvaldo-a-su-familia-tras-ser-internado",
-      "title": "Revelaron las primeras palabras de Daniel Osvaldo a su familia tras ser internado",
-      "volanta": "¿QUÉ DIJO?",
-      "date": "2026-10-05T14:56:32+00:00"
     }
   ]
 }
