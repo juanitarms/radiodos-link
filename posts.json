@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T11:45:21+00:00",
+  "updated": "2026-10-07T12:15:41+00:00",
   "posts": [
+    {
+      "id": "d995ce09",
+      "image": "img/d995ce09.png",
+      "image_sha": "4c44c1b995875eea53813446dc702a7cd3ce763c",
+      "url": "https://www.radiodos.com.ar/215010-comenzo-el-pago-del-plus-unificado-a-empleados-de-la-administracion-publica-provincial",
+      "title": "Comenzó el pago del Plus Unificado a empleados de la Administración Pública Provincial",
+      "volanta": "Hasta el 14",
+      "date": "2026-10-07T12:15:41+00:00"
+    },
     {
       "id": "3fe3404d",
       "image": "img/3fe3404d.png",
@@ -531,15 +540,6 @@
       "title": "Pity Álvarez fue trasladado a un centro psiquiátrico de Castelar",
       "volanta": "EN JUICIO",
       "date": "2026-10-04T20:08:16+00:00"
-    },
-    {
-      "id": "01997054",
-      "image": "img/01997054.png",
-      "image_sha": "3cd40322339994b2b6f2e8b42752c5bfeee13e1b",
-      "url": "https://www.radiodos.com.ar/214846-torneo-clausura-barracas-central-lo-dio-vuelta-sobre-el-final-y-vencio-a-atletico-tucuman",
-      "title": "Torneo Clausura: Barracas Central lo dio vuelta sobre el final y venció a Atlético Tucumán",
-      "volanta": "Fue 3 a 2",
-      "date": "2026-10-04T20:07:42+00:00"
     }
   ]
 }
