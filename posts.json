@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T16:38:02+00:00",
+  "updated": "2026-10-07T16:38:39+00:00",
   "posts": [
+    {
+      "id": "cb4e777e",
+      "image": "img/cb4e777e.png",
+      "image_sha": "4270cd9a976b970daa536b82d32be22a6f9c44aa",
+      "url": "https://www.radiodos.com.ar/215047-maria-victoria-caillava-se-puede-desorientar-y-perder-un-nino-en-un-lugar-que-no-conoce",
+      "title": "María Victoria Caillava: \"Se puede desorientar y perder un niño en un lugar que no conoce\"",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-07T16:38:39+00:00"
+    },
     {
       "id": "7b7cfc97",
       "image": "img/7b7cfc97.png",
@@ -531,15 +540,6 @@
       "title": "\"Soy muy bueno en el mata-mata\": el mensaje combativo de Lula da Silva rumbo al balotaje",
       "volanta": "BRASIL",
       "date": "2026-10-05T13:32:42+00:00"
-    },
-    {
-      "id": "7a25e9bd",
-      "image": "img/7a25e9bd.png",
-      "image_sha": "6db88160099eea124f0f63ad9eaf2222a3674735",
-      "url": "https://www.radiodos.com.ar/214888-garcia-cuerva-pidio-terminar-con-los-discursos-de-odio-nuestra-patria-tiene-muchos-abrazos-pendientes",
-      "title": "García Cuerva pidió terminar con los discursos de odio: \"Nuestra Patria tiene muchos abrazos pendientes\"",
-      "volanta": "MISA",
-      "date": "2026-10-05T13:05:33+00:00"
     }
   ]
 }
