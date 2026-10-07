@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T16:38:39+00:00",
+  "updated": "2026-10-07T18:38:23+00:00",
   "posts": [
+    {
+      "id": "c89b3eaa",
+      "image": "img/c89b3eaa.png",
+      "image_sha": "b64c4cead9f165fb1c0d6dfffa755dd910ff8ae2",
+      "url": "https://www.radiodos.com.ar/215052-un-chico-de-12-anos-que-estaba-desaparecido-fue-hallado-sin-vida-en-un-canal-de-riego",
+      "title": "Un chico de 12 años que estaba desaparecido fue hallado sin vida en un canal de riego",
+      "volanta": "Mendoza",
+      "date": "2026-10-07T18:38:23+00:00"
+    },
     {
       "id": "cb4e777e",
       "image": "img/cb4e777e.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad inician un nuevo recorrido semanal con variedad de productos frescos",
       "volanta": "Economía social",
       "date": "2026-10-05T13:50:44+00:00"
-    },
-    {
-      "id": "275437b6",
-      "image": "img/275437b6.png",
-      "image_sha": "561a95c652aec787d77e445c9d9bfcbf7a814e3b",
-      "url": "https://www.radiodos.com.ar/214894-soy-muy-bueno-en-el-mata-mata-el-mensaje-combativo-de-lula-da-silva-rumbo-al-balotaje",
-      "title": "\"Soy muy bueno en el mata-mata\": el mensaje combativo de Lula da Silva rumbo al balotaje",
-      "volanta": "BRASIL",
-      "date": "2026-10-05T13:32:42+00:00"
     }
   ]
 }
