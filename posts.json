@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T18:38:23+00:00",
+  "updated": "2026-10-07T18:38:56+00:00",
   "posts": [
+    {
+      "id": "e55a925a",
+      "image": "img/e55a925a.png",
+      "image_sha": "803de9786146774a6c0b7dfda8ecd4de10af6b01",
+      "url": "https://www.radiodos.com.ar/215053-detuvieron-en-aeroparque-a-una-pareja-que-se-habia-tragado-199-capsulas-de-cocaina",
+      "title": "Detuvieron en Aeroparque a una pareja que se había tragado 199 cápsulas de cocaína",
+      "volanta": "NARCOTRÁFICO",
+      "date": "2026-10-07T18:38:56+00:00"
+    },
     {
       "id": "c89b3eaa",
       "image": "img/c89b3eaa.png",
@@ -531,15 +540,6 @@
       "title": "Misión Malvinas: dos jóvenes desafiaron el frío extremo en una caminata para homenajear a los veteranos",
       "volanta": "ORGULLO",
       "date": "2026-10-05T14:13:52+00:00"
-    },
-    {
-      "id": "2997f5cc",
-      "image": "img/2997f5cc.png",
-      "image_sha": "61d3d05d3819f39e15cba6c75a7af73547d748e8",
-      "url": "https://www.radiodos.com.ar/214891-las-ferias-de-la-ciudad-inician-un-nuevo-recorrido-semanal-con-variedad-de-productos-frescos",
-      "title": "Las Ferias de la Ciudad inician un nuevo recorrido semanal con variedad de productos frescos",
-      "volanta": "Economía social",
-      "date": "2026-10-05T13:50:44+00:00"
     }
   ]
 }
