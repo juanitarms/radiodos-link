@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T12:49:43+00:00",
+  "updated": "2026-10-07T13:39:53+00:00",
   "posts": [
+    {
+      "id": "7c2de4d2",
+      "image": "img/7c2de4d2.png",
+      "image_sha": "a855b95a6b7f351441fc25bc5e4f02e8c1815bb7",
+      "url": "https://www.radiodos.com.ar/215027-el-gobierno-apelara-por-novena-vez-un-fallo-a-favor-de-la-ley-de-financiamiento-universitario",
+      "title": "El Gobierno apelará por novena vez un fallo a favor de la Ley de Financiamiento Universitario",
+      "volanta": "JUSTICIA",
+      "date": "2026-10-07T13:39:53+00:00"
+    },
     {
       "id": "d2ce5bb6",
       "image": "img/d2ce5bb6.png",
@@ -531,15 +540,6 @@
       "title": "Preso por robar millones de la empresa de su abuelo y su padre en el interior de Corrientes",
       "volanta": "ESQUINA",
       "date": "2026-10-05T10:19:33+00:00"
-    },
-    {
-      "id": "02abc78f",
-      "image": "img/02abc78f.png",
-      "image_sha": "8bda9928dcf0d4e809882a0a5e1f74a0ff73ff59",
-      "url": "https://www.radiodos.com.ar/214871-elecciones-en-brasil-flavio-bolsonaro-supero-a-lula-y-habra-balotaje",
-      "title": "Elecciones en Brasil: Flávio Bolsonaro superó a Lula y habrá balotaje",
-      "volanta": "Por menos de tres puntos",
-      "date": "2026-10-05T03:00:30+00:00"
     }
   ]
 }
