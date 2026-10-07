@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T21:22:43+00:00",
+  "updated": "2026-10-07T10:33:41+00:00",
   "posts": [
+    {
+      "id": "9b4c0b12",
+      "image": "img/9b4c0b12.png",
+      "image_sha": "aa209517442aeb9f72bfcb185e15c0e1f494662b",
+      "url": "https://www.radiodos.com.ar/215006-messi-me-gustaria-venir-toda-la-vida-porque-jugar-en-la-seleccion-argentina-es-lo-mas-lindo-que-te-puede-pasar",
+      "title": "Messi: \"Me gustaría venir toda la vida porque jugar en la Selección Argentina es lo más lindo que te puede pasar\"",
+      "volanta": "El último discurso",
+      "date": "2026-10-07T10:33:41+00:00"
+    },
     {
       "id": "924fd449",
       "image": "img/924fd449.png",
@@ -531,15 +540,6 @@
       "title": "Martínez Llano: \"Kicillof hace campaña en silencio y es la opción más importante de la oposición\"",
       "volanta": "ENTREVISTA EXCLUSIVA",
       "date": "2026-10-04T18:14:59+00:00"
-    },
-    {
-      "id": "d127692e",
-      "image": "img/d127692e.png",
-      "image_sha": "61de876617b2a8aa12e459bf808b0defce9dab47",
-      "url": "https://www.radiodos.com.ar/214805-ruben-dario-insua-deberiamos-convencerlo-y-de-que-se-retire-del-futbol-saliendo-campeon-del-mundo",
-      "title": "Rubén Darío Insúa: \"Deberíamos convencerlo y de que se retire del fútbol saliendo campeón del mundo\"",
-      "volanta": "Que sea un clamor popular",
-      "date": "2026-10-04T18:14:25+00:00"
     }
   ]
 }
