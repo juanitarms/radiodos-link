@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T20:58:31+00:00",
+  "updated": "2026-10-07T20:59:13+00:00",
   "posts": [
+    {
+      "id": "8547724d",
+      "image": "img/8547724d.png",
+      "image_sha": "8c4e860c1e173f1fa1819e1f61bc55498b7f5c5b",
+      "url": "https://www.radiodos.com.ar/215056-juicio-por-loan-ramon-dupuy-declarara-a-traves-de-video-conferencia",
+      "title": "Juicio por Loan: Ramón Dupuy declarará a través de video conferencia",
+      "volanta": "JUICIO",
+      "date": "2026-10-07T20:59:13+00:00"
+    },
     {
       "id": "2311798d",
       "image": "img/2311798d.png",
@@ -531,15 +540,6 @@
       "title": "Falleció un menor de 13 años tras un accidente en zona rural",
       "volanta": "Tragedia en Monte Caseros",
       "date": "2026-10-05T16:32:46+00:00"
-    },
-    {
-      "id": "157be262",
-      "image": "img/157be262.png",
-      "image_sha": "a576f25f3122a957db8627c0622e1721b3568477",
-      "url": "https://www.radiodos.com.ar/214901-pachu-pena-fue-el-primer-eliminado-de-masterchef-celebrity-tras-una-exigente-gala",
-      "title": "Pachu Peña fue el primer eliminado de MasterChef Celebrity tras una exigente gala",
-      "volanta": "COMPETENCIA",
-      "date": "2026-10-05T15:11:18+00:00"
     }
   ]
 }
