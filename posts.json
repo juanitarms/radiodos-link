@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T20:49:26+00:00",
+  "updated": "2026-10-07T20:56:43+00:00",
   "posts": [
+    {
+      "id": "3845b9c7",
+      "image": "img/3845b9c7.png",
+      "image_sha": "e70b0047c69e898c2d4c0185cfd467767cf673e0",
+      "url": "https://www.radiodos.com.ar/215054-murio-piero-el-mitico-creador-de-mi-viejo",
+      "title": "Murió Piero, el mítico creador de Mi Viejo",
+      "volanta": "81 AÑOS",
+      "date": "2026-10-07T20:56:43+00:00"
+    },
     {
       "id": "1dbd34b1",
       "image": "img/1dbd34b1.png",
@@ -531,15 +540,6 @@
       "title": "Revelaron las primeras palabras de Daniel Osvaldo a su familia tras ser internado",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-10-05T14:56:32+00:00"
-    },
-    {
-      "id": "b5cc6ae7",
-      "image": "img/b5cc6ae7.png",
-      "image_sha": "872b6b817f95209bc87408c8188b89f8c0155f3b",
-      "url": "https://www.radiodos.com.ar/214897-conmocion-asesinaron-a-una-nena-de-3-anos-y-detuvieron-a-su-padre",
-      "title": "Conmoción: asesinaron a una nena de 3 años y detuvieron a su padre",
-      "volanta": "Villa La Angostura",
-      "date": "2026-10-05T14:32:40+00:00"
     }
   ]
 }
