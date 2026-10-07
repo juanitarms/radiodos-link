@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T14:07:17+00:00",
+  "updated": "2026-10-07T14:58:37+00:00",
   "posts": [
+    {
+      "id": "ea4638b6",
+      "image": "img/ea4638b6.png",
+      "image_sha": "3817e078c05bf855c990a6be6268f999664ea4aa",
+      "url": "https://www.radiodos.com.ar/215033-puam-de-anses-se-confirmo-el-aumento-mas-el-bono-para-octubre-2026",
+      "title": "PUAM de ANSES: se confirmó el aumento más el bono para octubre 2026",
+      "volanta": "Oficial",
+      "date": "2026-10-07T14:58:37+00:00"
+    },
     {
       "id": "fb81fc4f",
       "image": "img/fb81fc4f.png",
@@ -531,15 +540,6 @@
       "title": "Para satisfacer la demanda de viviendas, el INVICO planea sumar casas de madera",
       "volanta": "ALTERNATIVAS",
       "date": "2026-10-05T11:10:49+00:00"
-    },
-    {
-      "id": "1ee898c4",
-      "image": "img/1ee898c4.png",
-      "image_sha": "6a3bfb7aa3c6c8da4e2c2bef1e9c01bb7ad616b0",
-      "url": "https://www.radiodos.com.ar/214877-saladas-mostro-su-cultura-sus-tradiciones-y-su-produccion-en-la-unidad",
-      "title": "Saladas mostró su cultura, sus tradiciones y su producción en La Unidad",
-      "volanta": "\"LA UNIDAD NOS ACERCA\"",
-      "date": "2026-10-05T10:52:55+00:00"
     }
   ]
 }
