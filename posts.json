@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T12:15:41+00:00",
+  "updated": "2026-10-07T12:49:43+00:00",
   "posts": [
+    {
+      "id": "d2ce5bb6",
+      "image": "img/d2ce5bb6.png",
+      "image_sha": "ac6981076904db666b4424268d0db8faea32cea3",
+      "url": "https://www.radiodos.com.ar/215021-mas-espacio-para-los-oferentes-el-segundo-remate-municipal-sera-en-santa-catalina",
+      "title": "Más espacio para los oferentes: el segundo remate municipal será en Santa Catalina",
+      "volanta": "CAMBIO DE LUGAR",
+      "date": "2026-10-07T12:49:43+00:00"
+    },
     {
       "id": "d995ce09",
       "image": "img/d995ce09.png",
@@ -531,15 +540,6 @@
       "title": "Elecciones en Brasil: Flávio Bolsonaro superó a Lula y habrá balotaje",
       "volanta": "Por menos de tres puntos",
       "date": "2026-10-05T03:00:30+00:00"
-    },
-    {
-      "id": "5af84924",
-      "image": "img/5af84924.png",
-      "image_sha": "21f49c3b0d46c2fb450f4c7cb5a14a01184fa0b3",
-      "url": "https://www.radiodos.com.ar/214850-pity-alvarez-fue-trasladado-a-un-centro-psiquiatrico-de-castelar",
-      "title": "Pity Álvarez fue trasladado a un centro psiquiátrico de Castelar",
-      "volanta": "EN JUICIO",
-      "date": "2026-10-04T20:08:16+00:00"
     }
   ]
 }
