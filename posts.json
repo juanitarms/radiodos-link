@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T18:38:56+00:00",
+  "updated": "2026-10-07T20:49:26+00:00",
   "posts": [
+    {
+      "id": "1dbd34b1",
+      "image": "img/1dbd34b1.png",
+      "image_sha": "6efe64ae0ffe3477ddda94aadb046195ce975684",
+      "url": "https://www.radiodos.com.ar/215055-la-industria-manufacturera-no-se-recupera-y-cayo-un-32-interanual-en-agosto",
+      "title": "La industria manufacturera no se recupera y cayó un 3,2% interanual en agosto",
+      "volanta": "CRISIS EN EL SECTOR",
+      "date": "2026-10-07T20:49:26+00:00"
+    },
     {
       "id": "e55a925a",
       "image": "img/e55a925a.png",
@@ -531,15 +540,6 @@
       "title": "Conmoción: asesinaron a una nena de 3 años y detuvieron a su padre",
       "volanta": "Villa La Angostura",
       "date": "2026-10-05T14:32:40+00:00"
-    },
-    {
-      "id": "26117d79",
-      "image": "img/26117d79.png",
-      "image_sha": "8d71c2763dfcf23b5efbb50c9c6a4dc081a5dccc",
-      "url": "https://www.radiodos.com.ar/214898-mision-malvinas-dos-jovenes-desafiaron-el-frio-extremo-en-una-caminata-para-homenajear-a-los-veteranos",
-      "title": "Misión Malvinas: dos jóvenes desafiaron el frío extremo en una caminata para homenajear a los veteranos",
-      "volanta": "ORGULLO",
-      "date": "2026-10-05T14:13:52+00:00"
     }
   ]
 }
