@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T15:05:36+00:00",
+  "updated": "2026-10-07T16:36:54+00:00",
   "posts": [
+    {
+      "id": "4596e507",
+      "image": "img/4596e507.png",
+      "image_sha": "bc5f3d541dd9b6d269621c79cd030a5bab9cec0a",
+      "url": "https://www.radiodos.com.ar/215050-sebastian-orresta-estamos-trabajando-de-la-mejor-manera-para-ser-un-equipo-aguerrido-que-se-entrega-al-maximo",
+      "title": "Sebastián Orresta: \"Estamos trabajando de la mejor manera para ser un equipo aguerrido, que se entrega al máximo\"",
+      "volanta": "GIRA INTERNACIONAL",
+      "date": "2026-10-07T16:36:54+00:00"
+    },
     {
       "id": "29457f41",
       "image": "img/29457f41.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer falleció y un hombre resultó con lesiones de consideración tras recibir una descarga eléctrica de un rayo",
       "volanta": "CONCEPCIÓN",
       "date": "2026-10-05T12:34:24+00:00"
-    },
-    {
-      "id": "ce963666",
-      "image": "img/ce963666.png",
-      "image_sha": "4041574d36e1b50081f42a4dbf9949bf97b9232b",
-      "url": "https://www.radiodos.com.ar/214880-becaria-de-arquitectura-de-la-unne-midio-el-costo-ambiental-de-las-viviendas-sociales-en-resistencia",
-      "title": "Becaria de Arquitectura de la Unne midió el costo ambiental de las viviendas sociales en Resistencia",
-      "volanta": "VIVIENDA",
-      "date": "2026-10-05T12:12:25+00:00"
     }
   ]
 }
