@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T10:44:57+00:00",
+  "updated": "2026-10-07T11:33:38+00:00",
   "posts": [
+    {
+      "id": "9a3fd452",
+      "image": "img/9a3fd452.png",
+      "image_sha": "88fb6535ba1c8622a34d76e7e7ebbe356a033528",
+      "url": "https://www.radiodos.com.ar/215008-juicio-por-la-desaparicion-de-loan-la-imputada-maria-caillava-declara-ante-el-tribunal",
+      "title": "Juicio por la desaparición de Loan: la imputada María Caillava declara ante el Tribunal",
+      "volanta": "AUDIENCIA",
+      "date": "2026-10-07T11:33:38+00:00"
+    },
     {
       "id": "2b61aa8e",
       "image": "img/2b61aa8e.png",
@@ -531,15 +540,6 @@
       "title": "Ariel Báez: \"Lo importante es la gestión, más allá de la cuestión política\"",
       "volanta": "lo bueno, lamo y lo feo",
       "date": "2026-10-04T20:07:07+00:00"
-    },
-    {
-      "id": "d7d29fbd",
-      "image": "img/d7d29fbd.png",
-      "image_sha": "57235fb05c95d8ca2018958593e30bda0bc5f7b2",
-      "url": "https://www.radiodos.com.ar/214816-milei-cerro-su-gira-en-francia-argentina-se-dirige-nuevamente-a-paso-firme-hacia-el-futuro",
-      "title": "Milei cerró su gira en Francia: \"Argentina se dirige nuevamente a paso firme hacia el futuro\"",
-      "volanta": "AGENDA INTERNACIONAL",
-      "date": "2026-10-04T18:15:29+00:00"
     }
   ]
 }
