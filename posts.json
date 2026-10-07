@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T16:37:30+00:00",
+  "updated": "2026-10-07T16:38:02+00:00",
   "posts": [
+    {
+      "id": "7b7cfc97",
+      "image": "img/7b7cfc97.png",
+      "image_sha": "1668a1de339ea7015dd702e000a64db77f8b2827",
+      "url": "https://www.radiodos.com.ar/215048-regatas-parte-rumbo-a-ecuador-para-la-primera-fase-de-la-liga-sudamericana",
+      "title": "Regatas parte rumbo a Ecuador para la primera fase de la Liga Sudamericana",
+      "volanta": "Liga Sudamericana",
+      "date": "2026-10-07T16:38:02+00:00"
+    },
     {
       "id": "ad2ebd88",
       "image": "img/ad2ebd88.png",
@@ -531,15 +540,6 @@
       "title": "García Cuerva pidió terminar con los discursos de odio: \"Nuestra Patria tiene muchos abrazos pendientes\"",
       "volanta": "MISA",
       "date": "2026-10-05T13:05:33+00:00"
-    },
-    {
-      "id": "5e25fb83",
-      "image": "img/5e25fb83.png",
-      "image_sha": "b3f752cddf277b8ff5cd21a0e06d4f13c5100dd1",
-      "url": "https://www.radiodos.com.ar/214887-salud-publica-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-10-05T12:48:59+00:00"
     }
   ]
 }
