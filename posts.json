@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T16:36:54+00:00",
+  "updated": "2026-10-07T16:37:30+00:00",
   "posts": [
+    {
+      "id": "ad2ebd88",
+      "image": "img/ad2ebd88.png",
+      "image_sha": "7ee3f3cfab63f5ef5691bcb6a17551d5a269107f",
+      "url": "https://www.radiodos.com.ar/215049-ley-de-financiamiento-universitario-rectores-reclaman-que-javier-milei-cumpla-con-los-fallos-de-la-justicia",
+      "title": "Ley de Financiamiento Universitario: rectores reclaman que Javier Milei cumpla con los fallos de la Justicia",
+      "volanta": "SIGUE EL CONFLICTO",
+      "date": "2026-10-07T16:37:30+00:00"
+    },
     {
       "id": "4596e507",
       "image": "img/4596e507.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-10-05T12:48:59+00:00"
-    },
-    {
-      "id": "ae8815a8",
-      "image": "img/ae8815a8.png",
-      "image_sha": "965d107958972a6086919bc51a39f8c70b34e647",
-      "url": "https://www.radiodos.com.ar/214882-una-mujer-fallecio-y-un-hombre-resulto-con-lesiones-de-consideracion-tras-recibir-una-descarga-electrica-de-un-rayo",
-      "title": "Una mujer falleció y un hombre resultó con lesiones de consideración tras recibir una descarga eléctrica de un rayo",
-      "volanta": "CONCEPCIÓN",
-      "date": "2026-10-05T12:34:24+00:00"
     }
   ]
 }
