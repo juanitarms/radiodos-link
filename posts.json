@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:26:00+00:00",
+  "updated": "2026-10-08T21:32:30+00:00",
   "posts": [
+    {
+      "id": "de0dca4c",
+      "image": "img/de0dca4c.png",
+      "image_sha": "0a9f255347a80c65b0f3509d1d0b8c27a026eeb3",
+      "url": "https://www.radiodos.com.ar/215119-boca-unidos-es-un-grupo-unido-fuerte-que-esta-tirando-para-adelante-y-va-por-mas",
+      "title": "\"Boca Unidos es un grupo unido, fuerte, que está tirando para adelante y va por más\"",
+      "volanta": "Esperando Boca Unidos - Mitre",
+      "date": "2026-10-08T21:32:30+00:00"
+    },
     {
       "id": "434f2ee1",
       "image": "img/434f2ee1.png",
@@ -531,15 +540,6 @@
       "title": "La Corte Suprema vuelve a discutir la Ley de Tierras y convoca a dos conjueces",
       "volanta": "DEBATE",
       "date": "2026-10-06T17:08:47+00:00"
-    },
-    {
-      "id": "c2eaf595",
-      "image": "img/c2eaf595.png",
-      "image_sha": "551fe89c37af3a83f17873df3602a0624c6242e1",
-      "url": "https://www.radiodos.com.ar/214962-plus-unificado-desde-manana-comienza-el-pago-del-mes-de-octubre",
-      "title": "Plus Unificado: desde mañana comienza el pago del mes de octubre",
-      "volanta": "POLÍTICA SALARIAL",
-      "date": "2026-10-06T15:04:11+00:00"
     }
   ]
 }
