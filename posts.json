@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T16:45:30+00:00",
+  "updated": "2026-10-08T16:46:01+00:00",
   "posts": [
+    {
+      "id": "bf4a896a",
+      "image": "img/bf4a896a.png",
+      "image_sha": "94badde205eec7da0c819c8b113d45fae5924b60",
+      "url": "https://www.radiodos.com.ar/215108-el-camion-desobstructor-ya-limpio-desagues-en-mas-de-treinta-puntos-claves-de-la-ciudad",
+      "title": "El camión desobstructor ya limpió desagües en más de treinta puntos claves de la ciudad.",
+      "volanta": "CONSTANTES TAREAS DE LIMPIEZA Y PREVENCIÓN",
+      "date": "2026-10-08T16:46:01+00:00"
+    },
     {
       "id": "0f9e48f9",
       "image": "img/0f9e48f9.png",
@@ -531,15 +540,6 @@
       "title": "Efectivos policiales recuperaron una mascota robada a un niño en el interior de Corrientes",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-10-06T11:50:00+00:00"
-    },
-    {
-      "id": "b106e504",
-      "image": "img/b106e504.png",
-      "image_sha": "d24b2c01ba1cbd7b5a54d653f18924c319354f89",
-      "url": "https://www.radiodos.com.ar/214935-por-un-sorpresivo-crater-en-el-asfalto-inhabilitan-el-transito-en-una-cuadra-en-el-microcentro-de-corrientes",
-      "title": "Por un sorpresivo 'cráter' en el asfalto, inhabilitan el tránsito en una cuadra en el microcentro de Corrientes",
-      "volanta": "A TENER EN CUENTA",
-      "date": "2026-10-06T11:18:52+00:00"
     }
   ]
 }
