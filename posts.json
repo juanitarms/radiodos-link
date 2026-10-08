@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T22:33:02+00:00",
+  "updated": "2026-10-08T22:33:32+00:00",
   "posts": [
+    {
+      "id": "8e4b472d",
+      "image": "img/8e4b472d.png",
+      "image_sha": "35c5ba3a6012153e370de7a08f9af4fb15d16268",
+      "url": "https://www.radiodos.com.ar/215127-el-nea-es-la-region-que-lidera-la-caida-de-consumo-masivo",
+      "title": "El Nea es la región que lidera la caida de consumo masivo",
+      "volanta": "CRISIS",
+      "date": "2026-10-08T22:33:32+00:00"
+    },
     {
       "id": "af31ec50",
       "image": "img/af31ec50.png",
@@ -531,15 +540,6 @@
       "title": "Declaró el copiloto del vuelo de Flydubai: \"Lo hice para vengar a Gaza, quería morir como mártir\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-06T18:42:42+00:00"
-    },
-    {
-      "id": "7f76d513",
-      "image": "img/7f76d513.png",
-      "image_sha": "ebb73d39c93996e992fcb5243b40bd435e251009",
-      "url": "https://www.radiodos.com.ar/214982-la-provincia-presento-un-nuevo-libro-de-geografia-para-la-educacion-secundaria",
-      "title": "La Provincia presentó un nuevo libro de Geografía para la educación secundaria",
-      "volanta": "CASA DE GOBIERNO",
-      "date": "2026-10-06T18:42:08+00:00"
     }
   ]
 }
