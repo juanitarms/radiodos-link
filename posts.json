@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T10:55:29+00:00",
+  "updated": "2026-10-08T11:14:33+00:00",
   "posts": [
+    {
+      "id": "009ce01a",
+      "image": "img/009ce01a.png",
+      "image_sha": "4ce88cfe17f2ea0f3756563ea672a6ffbae967a5",
+      "url": "https://www.radiodos.com.ar/215069-condenan-a-un-hombre-a-prision-perpetua-por-el-homicidio-de-su-madre",
+      "title": "Condenan a un hombre a prisión perpetua por el homicidio de su madre",
+      "volanta": "JUSTICIA",
+      "date": "2026-10-08T11:14:33+00:00"
+    },
     {
       "id": "492fff00",
       "image": "img/492fff00.png",
@@ -531,15 +540,6 @@
       "title": "Asesinato de Nerea: investigan si fue víctima de un ritual Umbanda",
       "volanta": "Berazategui",
       "date": "2026-10-05T17:52:38+00:00"
-    },
-    {
-      "id": "52bb14f3",
-      "image": "img/52bb14f3.png",
-      "image_sha": "5203e97b14b0c82c05c53dee50e91456a812f55b",
-      "url": "https://www.radiodos.com.ar/214912-el-80-de-los-trabajadores-argentinos-advierte-que-sus-salarios-siguen-corriendo-de-atras-a-la-inflacion",
-      "title": "El 80% de los trabajadores argentinos advierte que sus salarios siguen corriendo de atrás a la inflación",
-      "volanta": "ECONOMÍA",
-      "date": "2026-10-05T16:33:56+00:00"
     }
   ]
 }
