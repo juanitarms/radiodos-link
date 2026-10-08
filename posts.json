@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T16:46:50+00:00",
+  "updated": "2026-10-08T19:13:31+00:00",
   "posts": [
+    {
+      "id": "21e226e7",
+      "image": "img/21e226e7.png",
+      "image_sha": "e58d9dc1e2cfecbbb60aa460d843ec7609430b7b",
+      "url": "https://www.radiodos.com.ar/215115-jorge-berton-declaro-por-el-caso-loan-vi-la-camioneta-pero-no-a-mi-madre",
+      "title": "Jorge Bertón declaró por el caso Loan: \"Vi la camioneta, pero no a mi madre\"",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-10-08T19:13:31+00:00"
+    },
     {
       "id": "7764923b",
       "image": "img/7764923b.png",
@@ -531,15 +540,6 @@
       "title": "Monotributistas de ARCA: montos actualizados de las Asignaciones Familiares para octubre 2026",
       "volanta": "NOVEDAD",
       "date": "2026-10-06T13:07:59+00:00"
-    },
-    {
-      "id": "a87c0e9b",
-      "image": "img/a87c0e9b.png",
-      "image_sha": "c551b48785f79d1ea5c16f1ff28bc4f37bb71d6f",
-      "url": "https://www.radiodos.com.ar/214936-salud-ocupacional-de-corrientes-informa-sedes-dias-y-horario-de-atencion",
-      "title": "Salud Ocupacional de Corrientes informa sedes, días, y horario de atención",
-      "volanta": "DE INTERES",
-      "date": "2026-10-06T12:34:29+00:00"
     }
   ]
 }
