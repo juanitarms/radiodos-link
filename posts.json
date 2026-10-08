@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:38:40+00:00",
+  "updated": "2026-10-08T22:33:02+00:00",
   "posts": [
+    {
+      "id": "af31ec50",
+      "image": "img/af31ec50.png",
+      "image_sha": "d0de0edec1f39c230c708e6d0231788acbe08ea6",
+      "url": "https://www.radiodos.com.ar/215126-un-correntino-gano-mas-de-11-millones-en-el-quini-6",
+      "title": "Un correntino ganó más de $11 millones en el Quini 6",
+      "volanta": "AFORTUNADO",
+      "date": "2026-10-08T22:33:02+00:00"
+    },
     {
       "id": "cd4c3204",
       "image": "img/cd4c3204.png",
@@ -531,15 +540,6 @@
       "title": "La Provincia presentó un nuevo libro de Geografía para la educación secundaria",
       "volanta": "CASA DE GOBIERNO",
       "date": "2026-10-06T18:42:08+00:00"
-    },
-    {
-      "id": "b8acdbfa",
-      "image": "img/b8acdbfa.png",
-      "image_sha": "a590e03caa1299f99a8a1fd13ef8e88e7d76ae79",
-      "url": "https://www.radiodos.com.ar/214981-detuvieron-al-hombre-que-golpeaba-a-su-pareja-mientras-le-borraba-contactos-de-sus-redes",
-      "title": "Detuvieron al hombre que golpeaba a su pareja mientras le borraba contactos de sus redes",
-      "volanta": "Tapalqué",
-      "date": "2026-10-06T17:10:34+00:00"
     }
   ]
 }
