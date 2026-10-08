@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T13:52:23+00:00",
+  "updated": "2026-10-08T14:12:08+00:00",
   "posts": [
+    {
+      "id": "61c1fa91",
+      "image": "img/61c1fa91.png",
+      "image_sha": "a3fe6320f617dcad981157c81493415fe59a02de",
+      "url": "https://www.radiodos.com.ar/215091-el-sentido-mensaje-de-antonela-roccuzzo-para-lionel-messi-hay-noches-que-explican-una-vida-entera",
+      "title": "El sentido mensaje de Antonela Roccuzzo para Lionel Messi: \"Hay noches que explican una vida entera\"",
+      "volanta": "COMPAÑERA",
+      "date": "2026-10-08T14:12:08+00:00"
+    },
     {
       "id": "51d01706",
       "image": "img/51d01706.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte impacto en Corrientes: la construcción cayó un 28,6% y advierten por la pérdida de puestos de trabajo",
       "volanta": "CRISIS EN EL SECTOR",
       "date": "2026-10-05T22:08:53+00:00"
-    },
-    {
-      "id": "0851698c",
-      "image": "img/0851698c.png",
-      "image_sha": "e74926530528ab06c1477719efc6b3b6e72db5d4",
-      "url": "https://www.radiodos.com.ar/214927-lourdes-sanchez-sobre-su-separacion-de-chato-prada-se-me-acabo-el-amor-hace-tiempo",
-      "title": "Lourdes Sánchez sobre su separación de Chato Prada: \"Se me acabó el amor hace tiempo\"",
-      "volanta": "ROMPIÓ EL SILENCIO",
-      "date": "2026-10-05T22:06:30+00:00"
     }
   ]
 }
