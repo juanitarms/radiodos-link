@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T13:26:19+00:00",
+  "updated": "2026-10-08T13:52:23+00:00",
   "posts": [
+    {
+      "id": "51d01706",
+      "image": "img/51d01706.png",
+      "image_sha": "a73867d665c7af456381fdce7f7f3b6335f2e90b",
+      "url": "https://www.radiodos.com.ar/215090-la-joaqui-mostro-su-felicidad-con-tiago-pzk-tras-separarse-de-luck-ra-estoy-muy-contenta",
+      "title": "La Joaqui mostró su felicidad con Tiago PZK tras separarse de Luck Ra: \"Estoy muy contenta\"",
+      "volanta": "SINCERA",
+      "date": "2026-10-08T13:52:23+00:00"
+    },
     {
       "id": "96c0bc21",
       "image": "img/96c0bc21.png",
@@ -531,15 +540,6 @@
       "title": "Lourdes Sánchez sobre su separación de Chato Prada: \"Se me acabó el amor hace tiempo\"",
       "volanta": "ROMPIÓ EL SILENCIO",
       "date": "2026-10-05T22:06:30+00:00"
-    },
-    {
-      "id": "7ce99640",
-      "image": "img/7ce99640.png",
-      "image_sha": "17a12112a019a16b162caacbe0113a4bb383df22",
-      "url": "https://www.radiodos.com.ar/214924-corrientes-reclama-a-nacion-una-deuda-de-7000-millones-de-pesos-por-obras-escolares-pendientes",
-      "title": "Corrientes reclama a Nación una deuda de 7.000 millones de pesos por obras escolares pendientes",
-      "volanta": "EDUCACIÓN AFECTADA",
-      "date": "2026-10-05T21:31:59+00:00"
     }
   ]
 }
