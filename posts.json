@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T22:33:32+00:00",
+  "updated": "2026-10-08T22:34:06+00:00",
   "posts": [
+    {
+      "id": "f493c9a8",
+      "image": "img/f493c9a8.png",
+      "image_sha": "1f1f59787fb721af952e29ac09c26b6bfbb389a7",
+      "url": "https://www.radiodos.com.ar/215129-afirman-que-el-banco-central-perdio-us1000-millones-por-un-error-de-calculo-de-santiago-bausili",
+      "title": "Afirman que el Banco Central perdió u$s1.000 millones por un \"error de cálculo\" de Santiago Bausili",
+      "volanta": "TRAS UNA AUDITORIA",
+      "date": "2026-10-08T22:34:06+00:00"
+    },
     {
       "id": "8e4b472d",
       "image": "img/8e4b472d.png",
@@ -531,15 +540,6 @@
       "title": "El ultimátum de Tini Stoessel a su padre para intentar llegar a un acuerdo: \"El 5% o nada\"",
       "volanta": "¿LLEGAN AL ACUERDO?",
       "date": "2026-10-06T18:43:16+00:00"
-    },
-    {
-      "id": "ec43bb4d",
-      "image": "img/ec43bb4d.png",
-      "image_sha": "bf88208c74b59588f90f9e3c92c05a994fbd57d1",
-      "url": "https://www.radiodos.com.ar/214978-declaro-el-copiloto-del-vuelo-de-flydubai-lo-hice-para-vengar-a-gaza-queria-morir-como-martir",
-      "title": "Declaró el copiloto del vuelo de Flydubai: \"Lo hice para vengar a Gaza, quería morir como mártir\"",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-10-06T18:42:42+00:00"
     }
   ]
 }
