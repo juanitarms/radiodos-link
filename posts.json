@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T14:12:08+00:00",
+  "updated": "2026-10-08T14:28:04+00:00",
   "posts": [
+    {
+      "id": "0c9d9a82",
+      "image": "img/0c9d9a82.png",
+      "image_sha": "5ecf6eb1e652d6c293b3ca64870aff0f58213040",
+      "url": "https://www.radiodos.com.ar/215098-fuerte-sismo-con-epicentro-en-los-valles-calchaquies-sacudio-a-salta-tucuman-y-catamarca",
+      "title": "Fuerte sismo con epicentro en los Valles Calchaquíes sacudió a Salta, Tucumán y Catamarca",
+      "volanta": "INPRES",
+      "date": "2026-10-08T14:28:04+00:00"
+    },
     {
       "id": "61c1fa91",
       "image": "img/61c1fa91.png",
@@ -531,15 +540,6 @@
       "title": "Caillava romperá el silencio y dará su versión sobre sus movimientos tras la desaparición de Loan",
       "volanta": "JUICIO",
       "date": "2026-10-05T22:09:26+00:00"
-    },
-    {
-      "id": "d4ee35b6",
-      "image": "img/d4ee35b6.png",
-      "image_sha": "ddcacbce0e6fb62c850aac4a5c12a72b5f9f9d1d",
-      "url": "https://www.radiodos.com.ar/214928-fuerte-impacto-en-corrientes-la-construccion-cayo-un-286-y-advierten-por-la-perdida-de-puestos-de-trabajo",
-      "title": "Fuerte impacto en Corrientes: la construcción cayó un 28,6% y advierten por la pérdida de puestos de trabajo",
-      "volanta": "CRISIS EN EL SECTOR",
-      "date": "2026-10-05T22:08:53+00:00"
     }
   ]
 }
