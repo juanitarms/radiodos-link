@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T12:47:47+00:00",
+  "updated": "2026-10-08T13:26:19+00:00",
   "posts": [
+    {
+      "id": "96c0bc21",
+      "image": "img/96c0bc21.png",
+      "image_sha": "9d40f97535c7e71a79f9508d84cc51a279a572bd",
+      "url": "https://www.radiodos.com.ar/215079-fallecio-una-joven-que-estaba-internada-en-el-hospital-escuela-tras-un-siniestro-vial-en-monte-caseros",
+      "title": "Falleció una joven que estaba internada en el Hospital Escuela tras un siniestro vial en Monte Caseros",
+      "volanta": "AYER A LA SIESTA",
+      "date": "2026-10-08T13:26:19+00:00"
+    },
     {
       "id": "56c1fa7e",
       "image": "img/56c1fa7e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes reclama a Nación una deuda de 7.000 millones de pesos por obras escolares pendientes",
       "volanta": "EDUCACIÓN AFECTADA",
       "date": "2026-10-05T21:31:59+00:00"
-    },
-    {
-      "id": "3e9b284c",
-      "image": "img/3e9b284c.png",
-      "image_sha": "f33bf624b96570f51e0a22bfd515418246f9e01d",
-      "url": "https://www.radiodos.com.ar/214923-el-rio-uruguay-supero-el-nivel-de-alerta-en-paso-de-los-libres",
-      "title": "El río Uruguay superó el nivel de alerta en Paso de los Libres",
-      "volanta": "COSTANERA CERRADA",
-      "date": "2026-10-05T21:31:16+00:00"
     }
   ]
 }
