@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T14:43:18+00:00",
+  "updated": "2026-10-08T16:44:55+00:00",
   "posts": [
+    {
+      "id": "2653ab51",
+      "image": "img/2653ab51.png",
+      "image_sha": "4893282b1201fa15b1c2e8928f2d3276ebc81be4",
+      "url": "https://www.radiodos.com.ar/215111-un-joven-mato-al-perro-de-su-pareja-dejandolo-colgado-de-un-arbol",
+      "title": "Un joven mató al perro de su pareja dejándolo colgado de un árbol",
+      "volanta": "SALTA",
+      "date": "2026-10-08T16:44:55+00:00"
+    },
     {
       "id": "7533bd10",
       "image": "img/7533bd10.png",
@@ -531,15 +540,6 @@
       "title": "Se va el más grande: todos los detalles de la despedida de Lionel Messi de la Selección Argentina",
       "volanta": "FIESTA TOTAL",
       "date": "2026-10-06T10:20:14+00:00"
-    },
-    {
-      "id": "637fb841",
-      "image": "img/637fb841.png",
-      "image_sha": "65c7ff44f014b100d8ff9989d27af5af5ab64582",
-      "url": "https://www.radiodos.com.ar/214925-adorni-las-29-dudas-que-debe-investigar-la-policia-federal-sobre-las-billeteras-de-bitcoin",
-      "title": "Adorni: las 29 dudas que debe investigar la Policía Federal sobre las billeteras de bitcoin",
-      "volanta": "EX FUNCIONARIO DE MILEI",
-      "date": "2026-10-05T22:12:13+00:00"
     }
   ]
 }
