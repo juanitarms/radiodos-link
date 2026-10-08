@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:12:42+00:00",
+  "updated": "2026-10-08T21:26:00+00:00",
   "posts": [
+    {
+      "id": "434f2ee1",
+      "image": "img/434f2ee1.png",
+      "image_sha": "b9e074ff0a489fdf366e01e162f51b04e03f37ac",
+      "url": "https://www.radiodos.com.ar/215118-san-martin-abre-una-gira-con-un-firme-desafio",
+      "title": "San Martín abre una gira con un firme desafío",
+      "volanta": "Liga Nacional de Básquetbol",
+      "date": "2026-10-08T21:26:00+00:00"
+    },
     {
       "id": "e30e62e9",
       "image": "img/e30e62e9.png",
@@ -531,15 +540,6 @@
       "title": "Plus Unificado: desde mañana comienza el pago del mes de octubre",
       "volanta": "POLÍTICA SALARIAL",
       "date": "2026-10-06T15:04:11+00:00"
-    },
-    {
-      "id": "5791ff93",
-      "image": "img/5791ff93.png",
-      "image_sha": "fcbe49ab43bb6116eeabf6d28184b9db3378092f",
-      "url": "https://www.radiodos.com.ar/214952-haberes-de-anses-con-aumento-montos-finales-para-jubilados-pensiones-y-auh-en-octubre-2026",
-      "title": "Haberes de ANSES con aumento: montos finales para jubilados, pensiones y AUH en octubre 2026",
-      "volanta": "CONFIRMADO",
-      "date": "2026-10-06T14:46:41+00:00"
     }
   ]
 }
