@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T12:33:39+00:00",
+  "updated": "2026-10-08T12:47:47+00:00",
   "posts": [
+    {
+      "id": "56c1fa7e",
+      "image": "img/56c1fa7e.png",
+      "image_sha": "ad887098df227062a62d3f848ccc3762859a3324",
+      "url": "https://www.radiodos.com.ar/215074-en-apenas-dos-semanas-arca-volvio-a-postergar-el-plazo-para-presentar-la-declaracion-jurada-de-ganancias-2025",
+      "title": "En apenas dos semanas, ARCA volvió a postergar el plazo para presentar la declaración jurada de Ganancias 2025",
+      "volanta": "NOVEDAD",
+      "date": "2026-10-08T12:47:47+00:00"
+    },
     {
       "id": "fac7d58b",
       "image": "img/fac7d58b.png",
@@ -531,15 +540,6 @@
       "title": "El río Uruguay superó el nivel de alerta en Paso de los Libres",
       "volanta": "COSTANERA CERRADA",
       "date": "2026-10-05T21:31:16+00:00"
-    },
-    {
-      "id": "d1b34de4",
-      "image": "img/d1b34de4.png",
-      "image_sha": "3c04b9fb2c8d5a1257f019bf98b0a96389b7e59c",
-      "url": "https://www.radiodos.com.ar/214922-casacion-bajo-la-pena-de-un-hombre-que-intento-matar-a-su-expareja-porque-tenian-una-relacion-a-distancia",
-      "title": "Casación bajó la pena de un hombre que intentó matar a su expareja porque tenían una relación a distancia",
-      "volanta": "JUSTICIA",
-      "date": "2026-10-05T19:12:36+00:00"
     }
   ]
 }
