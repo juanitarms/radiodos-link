@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T11:20:40+00:00",
+  "updated": "2026-10-08T12:07:31+00:00",
   "posts": [
+    {
+      "id": "a252880d",
+      "image": "img/a252880d.png",
+      "image_sha": "bea4a662e32db8db25cbfc15f1126d3d0cc86c98",
+      "url": "https://www.radiodos.com.ar/215073-se-busca-a-un-hombre-que-no-volvio-a-su-domicilio",
+      "title": "Se busca a un hombre que no volvió a su domicilio",
+      "volanta": "GOBERNADOR MARTINEZ",
+      "date": "2026-10-08T12:07:31+00:00"
+    },
     {
       "id": "53213a00",
       "image": "img/53213a00.png",
@@ -531,15 +540,6 @@
       "title": "Crecida del río: Alerta para la semana que viene en ciertas localidades del interior",
       "volanta": "AVISO",
       "date": "2026-10-05T19:11:57+00:00"
-    },
-    {
-      "id": "bc0dc549",
-      "image": "img/bc0dc549.png",
-      "image_sha": "7fa90ac1817612c2708d0cfcc133b08cc43ab30f",
-      "url": "https://www.radiodos.com.ar/214909-macabro-hallazgo-encontraron-un-dedo-humano-atado-con-alambre-frente-a-un-bar",
-      "title": "Macabro hallazgo: encontraron un dedo humano atado con alambre frente a un bar",
-      "volanta": "Neuquén",
-      "date": "2026-10-05T17:53:09+00:00"
     }
   ]
 }
