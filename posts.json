@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:12:11+00:00",
+  "updated": "2026-10-08T21:12:42+00:00",
   "posts": [
+    {
+      "id": "e30e62e9",
+      "image": "img/e30e62e9.png",
+      "image_sha": "ac947b69121e571a6fd9ad1fbb30f247de09e511",
+      "url": "https://www.radiodos.com.ar/215123-incautan-un-cargamento-de-cigarrillos-ilegales-valuado-en-mas-de-60-millones",
+      "title": "Incautan un cargamento de cigarrillos ilegales valuado en más de 60 millones",
+      "volanta": "SOBRE RUTA 12",
+      "date": "2026-10-08T21:12:42+00:00"
+    },
     {
       "id": "94718b2f",
       "image": "img/94718b2f.png",
@@ -531,15 +540,6 @@
       "title": "Haberes de ANSES con aumento: montos finales para jubilados, pensiones y AUH en octubre 2026",
       "volanta": "CONFIRMADO",
       "date": "2026-10-06T14:46:41+00:00"
-    },
-    {
-      "id": "774d448f",
-      "image": "img/774d448f.png",
-      "image_sha": "9e1d105a2b5f0a774d362b91635e79205698b420",
-      "url": "https://www.radiodos.com.ar/214963-el-presidente-de-came-participara-manana-de-la-audiencia-del-papa-leon-xiv-en-el-vaticano",
-      "title": "El presidente de CAME participará mañana de la Audiencia del papa León XIV en el Vaticano",
-      "volanta": "COMUNICADO",
-      "date": "2026-10-06T14:27:49+00:00"
     }
   ]
 }
