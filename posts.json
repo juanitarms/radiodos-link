@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:34:01+00:00",
+  "updated": "2026-10-08T21:38:40+00:00",
   "posts": [
+    {
+      "id": "cd4c3204",
+      "image": "img/cd4c3204.png",
+      "image_sha": "65abde62a86510c35fa1a0a7df4fbdf8b8b1f7d9",
+      "url": "https://www.radiodos.com.ar/215121-asi-sera-el-estado-de-los-servicios-municipales-en-el-feriado-de-este-lunes",
+      "title": "Así será el estado de los servicios municipales en el feriado de este lunes",
+      "volanta": "Día del Respeto a la Diversidad Cultural",
+      "date": "2026-10-08T21:38:40+00:00"
+    },
     {
       "id": "334d7eab",
       "image": "img/334d7eab.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron al hombre que golpeaba a su pareja mientras le borraba contactos de sus redes",
       "volanta": "Tapalqué",
       "date": "2026-10-06T17:10:34+00:00"
-    },
-    {
-      "id": "b95a041f",
-      "image": "img/b95a041f.png",
-      "image_sha": "e675f049b0d92c22df0b57303bccfac8ed86d099",
-      "url": "https://www.radiodos.com.ar/214980-cierre-del-instituto-almafuerte-1400-alumnos-se-quedarian-sin-vacante-en-2027",
-      "title": "Cierre del Instituto Almafuerte: 1.400 alumnos se quedarían sin vacante en 2027",
-      "volanta": "CRISIS",
-      "date": "2026-10-06T17:09:58+00:00"
     }
   ]
 }
