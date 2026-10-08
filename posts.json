@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-07T20:59:13+00:00",
+  "updated": "2026-10-08T10:37:54+00:00",
   "posts": [
+    {
+      "id": "f264fdea",
+      "image": "img/f264fdea.png",
+      "image_sha": "f5f75a4a2f9bd537b3ea279c99772ef5e8b65532",
+      "url": "https://www.radiodos.com.ar/215069-condenan-a-un-hombre-a-prision-perpetua-por-el-homicidio-de-su-madre",
+      "title": "Condenan a un hombre a prisión perpetua por el homicidio de su madre",
+      "volanta": "STJ",
+      "date": "2026-10-08T10:37:54+00:00"
+    },
     {
       "id": "8547724d",
       "image": "img/8547724d.png",
@@ -531,15 +540,6 @@
       "title": "La desafiante frase del arquero de Benín antes de jugar con Argentina: \"No estamos para hacer turismo\"",
       "volanta": "AMISTOSO",
       "date": "2026-10-05T16:33:18+00:00"
-    },
-    {
-      "id": "386f039a",
-      "image": "img/386f039a.png",
-      "image_sha": "91a38a4663e39d3ddba4ec85641e0a8d70150815",
-      "url": "https://www.radiodos.com.ar/214915-fallecio-un-menor-de-13-anos-tras-un-accidente-en-zona-rural",
-      "title": "Falleció un menor de 13 años tras un accidente en zona rural",
-      "volanta": "Tragedia en Monte Caseros",
-      "date": "2026-10-05T16:32:46+00:00"
     }
   ]
 }
