@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T21:33:29+00:00",
+  "updated": "2026-10-08T21:34:01+00:00",
   "posts": [
+    {
+      "id": "334d7eab",
+      "image": "img/334d7eab.png",
+      "image_sha": "4d8a1e86d4ef51d219aee88fd7635b8ef975f8a6",
+      "url": "https://www.radiodos.com.ar/215124-trata-de-personas-casacion-reabrio-la-causa-por-la-venta-de-una-menor",
+      "title": "Trata de personas: casación reabrió la causa por la venta de una menor",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-08T21:34:01+00:00"
+    },
     {
       "id": "3f7a32a7",
       "image": "img/3f7a32a7.png",
@@ -531,15 +540,6 @@
       "title": "Cierre del Instituto Almafuerte: 1.400 alumnos se quedarían sin vacante en 2027",
       "volanta": "CRISIS",
       "date": "2026-10-06T17:09:58+00:00"
-    },
-    {
-      "id": "8f866c1a",
-      "image": "img/8f866c1a.png",
-      "image_sha": "278360e7a0e30cf8b5e112b69c8188c08b6542b0",
-      "url": "https://www.radiodos.com.ar/214983-el-gobierno-creo-un-comando-unificado-para-el-traslado-de-presos-la-carcel-de-devoto-al-penal-de-marcos-paz",
-      "title": "El Gobierno creó un Comando Unificado para el traslado de presos la cárcel de Devoto al penal de Marcos Paz",
-      "volanta": "NOVEDAD",
-      "date": "2026-10-06T17:09:24+00:00"
     }
   ]
 }
