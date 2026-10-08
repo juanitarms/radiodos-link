@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T12:07:31+00:00",
+  "updated": "2026-10-08T12:33:39+00:00",
   "posts": [
+    {
+      "id": "fac7d58b",
+      "image": "img/fac7d58b.png",
+      "image_sha": "f27e3931cbcf57c947ef08e9066d79759e816818",
+      "url": "https://www.radiodos.com.ar/215077-ley-de-tierras-la-corte-suprema-deja-el-caso-listo-para-una-nueva-definicion",
+      "title": "Ley de Tierras: la Corte Suprema deja el caso listo para una nueva definición",
+      "volanta": "JUSTICIA",
+      "date": "2026-10-08T12:33:39+00:00"
+    },
     {
       "id": "a252880d",
       "image": "img/a252880d.png",
@@ -531,15 +540,6 @@
       "title": "Casación bajó la pena de un hombre que intentó matar a su expareja porque tenían una relación a distancia",
       "volanta": "JUSTICIA",
       "date": "2026-10-05T19:12:36+00:00"
-    },
-    {
-      "id": "29b53304",
-      "image": "img/29b53304.png",
-      "image_sha": "b008ac6eb165df745505cb2e5d0138c081081aa8",
-      "url": "https://www.radiodos.com.ar/214916-crecida-del-rio-alerta-para-la-semana-que-viene-en-ciertas-localidades-del-interior",
-      "title": "Crecida del río: Alerta para la semana que viene en ciertas localidades del interior",
-      "volanta": "AVISO",
-      "date": "2026-10-05T19:11:57+00:00"
     }
   ]
 }
