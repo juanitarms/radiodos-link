@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T11:14:33+00:00",
+  "updated": "2026-10-08T11:20:40+00:00",
   "posts": [
+    {
+      "id": "53213a00",
+      "image": "img/53213a00.png",
+      "image_sha": "0563b30ef9489c6069055aa8d92a2fbfdf67ea94",
+      "url": "https://www.radiodos.com.ar/215071-corrientes-en-alerta-por-tormentas-fuertes-en-todo-el-territorio-provincial",
+      "title": "Corrientes en alerta por tormentas fuertes en todo el territorio provincial",
+      "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
+      "date": "2026-10-08T11:20:40+00:00"
+    },
     {
       "id": "009ce01a",
       "image": "img/009ce01a.png",
@@ -531,15 +540,6 @@
       "title": "Macabro hallazgo: encontraron un dedo humano atado con alambre frente a un bar",
       "volanta": "Neuquén",
       "date": "2026-10-05T17:53:09+00:00"
-    },
-    {
-      "id": "66fb4305",
-      "image": "img/66fb4305.png",
-      "image_sha": "3549141bf7ef3d0947ed7988401ce1e698a15dad",
-      "url": "https://www.radiodos.com.ar/214910-asesinato-de-nerea-investigan-si-fue-victima-de-un-ritual-umbanda",
-      "title": "Asesinato de Nerea: investigan si fue víctima de un ritual Umbanda",
-      "volanta": "Berazategui",
-      "date": "2026-10-05T17:52:38+00:00"
     }
   ]
 }
