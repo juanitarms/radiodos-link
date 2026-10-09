@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T16:47:02+00:00",
+  "updated": "2026-10-09T16:47:36+00:00",
   "posts": [
+    {
+      "id": "240a63e2",
+      "image": "img/240a63e2.png",
+      "image_sha": "fb5eab6faa2a56eb5ebcb63675cbf4e8484c0b4e",
+      "url": "https://www.radiodos.com.ar/215166-cecilia-milone-rompio-el-silencio-tras-denunciar-a-nito-artaza-la-dignidad-no-se-negocia",
+      "title": "Cecilia Milone rompió el silencio tras denunciar a Nito Artaza: \"La dignidad no se negocia\"",
+      "volanta": "SINCERA",
+      "date": "2026-10-09T16:47:36+00:00"
+    },
     {
       "id": "40f57abf",
       "image": "img/40f57abf.png",
@@ -531,15 +540,6 @@
       "title": "Más espacio para los oferentes: el segundo remate municipal será en Santa Catalina",
       "volanta": "CAMBIO DE LUGAR",
       "date": "2026-10-07T12:49:43+00:00"
-    },
-    {
-      "id": "d995ce09",
-      "image": "img/d995ce09.png",
-      "image_sha": "4c44c1b995875eea53813446dc702a7cd3ce763c",
-      "url": "https://www.radiodos.com.ar/215010-comenzo-el-pago-del-plus-unificado-a-empleados-de-la-administracion-publica-provincial",
-      "title": "Comenzó el pago del Plus Unificado a empleados de la Administración Pública Provincial",
-      "volanta": "Hasta el 14",
-      "date": "2026-10-07T12:15:41+00:00"
     }
   ]
 }
