@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T13:33:42+00:00",
+  "updated": "2026-10-09T14:03:40+00:00",
   "posts": [
+    {
+      "id": "0802fe94",
+      "image": "img/0802fe94.png",
+      "image_sha": "0e456550b3a47cd600699e57f41717c9f4cceebc",
+      "url": "https://www.radiodos.com.ar/215154-que-documentacion-y-elementos-son-obligatorios-para-circular-en-vehiculos-por-la-ciudad-de-corrientes",
+      "title": "Qué documentación y elementos son obligatorios para circular en vehículos por la ciudad de Corrientes",
+      "volanta": "INFO ÚTIL",
+      "date": "2026-10-09T14:03:40+00:00"
+    },
     {
       "id": "7468ece1",
       "image": "img/7468ece1.png",
@@ -531,15 +540,6 @@
       "title": "Bombazo de Cristiano Ronaldo en Portugal: su verdad tras abandonar la concentración",
       "volanta": "ASTRO",
       "date": "2026-10-06T21:04:10+00:00"
-    },
-    {
-      "id": "4d9be004",
-      "image": "img/4d9be004.png",
-      "image_sha": "b44cd839275adc1b7f28c6c31c1ad3f1863e8b94",
-      "url": "https://www.radiodos.com.ar/214991-el-gobierno-va-a-apelar-el-fallo-a-favor-de-la-ley-de-financiamiento-universitario",
-      "title": "El Gobierno va a apelar el fallo a favor de la Ley de Financiamiento Universitario",
-      "volanta": "POLÉMICA",
-      "date": "2026-10-06T21:03:39+00:00"
     }
   ]
 }
