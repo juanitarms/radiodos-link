@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T19:48:03+00:00",
+  "updated": "2026-10-09T19:48:36+00:00",
   "posts": [
+    {
+      "id": "038ad6a7",
+      "image": "img/038ad6a7.png",
+      "image_sha": "12369136f18fc2c8f23af76b319b039e029b28cc",
+      "url": "https://www.radiodos.com.ar/215179-caso-maricarmen-el-sindicato-de-inquilinas-de-espana-prepara-una-querella-por-homicidio-contra-urbagestion",
+      "title": "Caso Maricarmen: el Sindicato de Inquilinas de España prepara una querella por homicidio contra Urbagestión",
+      "volanta": "JUSTICIA",
+      "date": "2026-10-09T19:48:36+00:00"
+    },
     {
       "id": "45536db2",
       "image": "img/45536db2.png",
@@ -531,15 +540,6 @@
       "title": "PUAM de ANSES: se confirmó el aumento más el bono para octubre 2026",
       "volanta": "Oficial",
       "date": "2026-10-07T14:58:37+00:00"
-    },
-    {
-      "id": "fb81fc4f",
-      "image": "img/fb81fc4f.png",
-      "image_sha": "5d9853afb7007666f1f27ec32036bdccf837aca8",
-      "url": "https://www.radiodos.com.ar/215038-allanaron-una-vivienda-por-reventa-de-entradas-para-la-despedida-de-lionel-messi-y-secuestraron-una-fortuna",
-      "title": "Allanaron una vivienda por reventa de entradas para la despedida de Lionel Messi y secuestraron una fortuna",
-      "volanta": "VICENTE LÓPEZ",
-      "date": "2026-10-07T14:07:17+00:00"
     }
   ]
 }
