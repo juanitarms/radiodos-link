@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T21:36:46+00:00",
+  "updated": "2026-10-09T21:37:18+00:00",
   "posts": [
+    {
+      "id": "28c4c90f",
+      "image": "img/28c4c90f.png",
+      "image_sha": "540cdee24e87ffccbdda4d7216e839bf6e25d6d2",
+      "url": "https://www.radiodos.com.ar/215184-el-municipio-y-el-stj-renovaron-convenio-para-agilizar-notificaciones-de-cedulas-de-juzgados-de-faltas",
+      "title": "El Municipio y el STJ renovaron convenio para agilizar notificaciones de cédulas de Juzgados de Faltas",
+      "volanta": "Seguridad vial",
+      "date": "2026-10-09T21:37:18+00:00"
+    },
     {
       "id": "3bde3c32",
       "image": "img/3bde3c32.png",
@@ -531,15 +540,6 @@
       "title": "María Victoria Caillava: \"Se puede desorientar y perder un niño en un lugar que no conoce\"",
       "volanta": "CORRIENTES",
       "date": "2026-10-07T16:38:39+00:00"
-    },
-    {
-      "id": "7b7cfc97",
-      "image": "img/7b7cfc97.png",
-      "image_sha": "1668a1de339ea7015dd702e000a64db77f8b2827",
-      "url": "https://www.radiodos.com.ar/215048-regatas-parte-rumbo-a-ecuador-para-la-primera-fase-de-la-liga-sudamericana",
-      "title": "Regatas parte rumbo a Ecuador para la primera fase de la Liga Sudamericana",
-      "volanta": "Liga Sudamericana",
-      "date": "2026-10-07T16:38:02+00:00"
     }
   ]
 }
