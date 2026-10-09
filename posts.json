@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T12:23:39+00:00",
+  "updated": "2026-10-09T12:35:11+00:00",
   "posts": [
+    {
+      "id": "46f98f0f",
+      "image": "img/46f98f0f.png",
+      "image_sha": "028b6b1affdc00bb9743501770f3863c1d005c82",
+      "url": "https://www.radiodos.com.ar/215139-se-aprobo-la-incorporacion-de-mobiliario-urbano-inclusivo-en-espacios-publicos",
+      "title": "Se aprobó la incorporación de mobiliario urbano inclusivo en espacios públicos",
+      "volanta": "SESIÓN",
+      "date": "2026-10-09T12:35:11+00:00"
+    },
     {
       "id": "546743f7",
       "image": "img/546743f7.png",
@@ -531,15 +540,6 @@
       "title": "Cierran un puerto del interior de Corrientes por la creciente del río Uruguay",
       "volanta": "ALERTA",
       "date": "2026-10-06T20:45:26+00:00"
-    },
-    {
-      "id": "d4d35d3f",
-      "image": "img/d4d35d3f.png",
-      "image_sha": "4172cd636950c33408b3152150329e43da29423e",
-      "url": "https://www.radiodos.com.ar/214989-el-municipio-de-corrientes-prepara-un-segundo-remate-con-26-motos-seis-vehiculos-y-otros-bienes-en-desuso",
-      "title": "El Municipio de Corrientes prepara un segundo remate con 26 motos, seis vehículos y otros bienes en desuso",
-      "volanta": "ADMINISTRACIÓN EFICIENTE",
-      "date": "2026-10-06T20:44:59+00:00"
     }
   ]
 }
