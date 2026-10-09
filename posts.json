@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T21:34:15+00:00",
+  "updated": "2026-10-09T21:36:46+00:00",
   "posts": [
+    {
+      "id": "3bde3c32",
+      "image": "img/3bde3c32.png",
+      "image_sha": "624fd05536db57dfaa494ed533741ce3a3f43915",
+      "url": "https://www.radiodos.com.ar/215183-el-partido-nuevo-exhibe-musculo-politico-y-gestion-territorial-en-corrientes",
+      "title": "El Partido Nuevo exhibe músculo político y gestión territorial en Corrientes",
+      "volanta": "Fuerza naranja",
+      "date": "2026-10-09T21:36:46+00:00"
+    },
     {
       "id": "5d0fda60",
       "image": "img/5d0fda60.png",
@@ -531,15 +540,6 @@
       "title": "Regatas parte rumbo a Ecuador para la primera fase de la Liga Sudamericana",
       "volanta": "Liga Sudamericana",
       "date": "2026-10-07T16:38:02+00:00"
-    },
-    {
-      "id": "ad2ebd88",
-      "image": "img/ad2ebd88.png",
-      "image_sha": "7ee3f3cfab63f5ef5691bcb6a17551d5a269107f",
-      "url": "https://www.radiodos.com.ar/215049-ley-de-financiamiento-universitario-rectores-reclaman-que-javier-milei-cumpla-con-los-fallos-de-la-justicia",
-      "title": "Ley de Financiamiento Universitario: rectores reclaman que Javier Milei cumpla con los fallos de la Justicia",
-      "volanta": "SIGUE EL CONFLICTO",
-      "date": "2026-10-07T16:37:30+00:00"
     }
   ]
 }
