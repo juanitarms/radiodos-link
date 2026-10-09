@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T21:33:43+00:00",
+  "updated": "2026-10-09T21:34:15+00:00",
   "posts": [
+    {
+      "id": "5d0fda60",
+      "image": "img/5d0fda60.png",
+      "image_sha": "c4a4871d3561efa9f41687a5b55e57a6c50b6c8c",
+      "url": "https://www.radiodos.com.ar/215182-juan-pablo-valdes-se-reunio-con-diego-santilli-en-casa-rosada",
+      "title": "Juan Pablo Valdés se reunió con Diego Santilli en Casa Rosada",
+      "volanta": "Este viernes",
+      "date": "2026-10-09T21:34:15+00:00"
+    },
     {
       "id": "f683e57e",
       "image": "img/f683e57e.png",
@@ -531,15 +540,6 @@
       "title": "Ley de Financiamiento Universitario: rectores reclaman que Javier Milei cumpla con los fallos de la Justicia",
       "volanta": "SIGUE EL CONFLICTO",
       "date": "2026-10-07T16:37:30+00:00"
-    },
-    {
-      "id": "4596e507",
-      "image": "img/4596e507.png",
-      "image_sha": "bc5f3d541dd9b6d269621c79cd030a5bab9cec0a",
-      "url": "https://www.radiodos.com.ar/215050-sebastian-orresta-estamos-trabajando-de-la-mejor-manera-para-ser-un-equipo-aguerrido-que-se-entrega-al-maximo",
-      "title": "Sebastián Orresta: \"Estamos trabajando de la mejor manera para ser un equipo aguerrido, que se entrega al máximo\"",
-      "volanta": "GIRA INTERNACIONAL",
-      "date": "2026-10-07T16:36:54+00:00"
     }
   ]
 }
