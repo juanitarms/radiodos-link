@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T16:47:36+00:00",
+  "updated": "2026-10-09T16:48:09+00:00",
   "posts": [
+    {
+      "id": "1d0c373e",
+      "image": "img/1d0c373e.png",
+      "image_sha": "cfaeac81543dcde30156e7f4edd6da733aa5c5bc",
+      "url": "https://www.radiodos.com.ar/215163-condenaron-a-perpetua-a-la-madre-y-a-otros-dos-acusados-de-asesinar-a-arali-vivas",
+      "title": "Condenaron a perpetua a la madre y a otros dos acusados de asesinar a Aralí Vivas",
+      "volanta": "Córdoba",
+      "date": "2026-10-09T16:48:09+00:00"
+    },
     {
       "id": "240a63e2",
       "image": "img/240a63e2.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno apelará por novena vez un fallo a favor de la Ley de Financiamiento Universitario",
       "volanta": "JUSTICIA",
       "date": "2026-10-07T13:39:53+00:00"
-    },
-    {
-      "id": "d2ce5bb6",
-      "image": "img/d2ce5bb6.png",
-      "image_sha": "ac6981076904db666b4424268d0db8faea32cea3",
-      "url": "https://www.radiodos.com.ar/215021-mas-espacio-para-los-oferentes-el-segundo-remate-municipal-sera-en-santa-catalina",
-      "title": "Más espacio para los oferentes: el segundo remate municipal será en Santa Catalina",
-      "volanta": "CAMBIO DE LUGAR",
-      "date": "2026-10-07T12:49:43+00:00"
     }
   ]
 }
