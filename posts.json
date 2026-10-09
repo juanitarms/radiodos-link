@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T19:49:09+00:00",
+  "updated": "2026-10-09T21:33:43+00:00",
   "posts": [
+    {
+      "id": "f683e57e",
+      "image": "img/f683e57e.png",
+      "image_sha": "4d921889fdd8adaa756d5fe0a4649eae213aae1a",
+      "url": "https://www.radiodos.com.ar/215181-yacyreta-actualiza-sobre-las-incidencias-del-fenomeno-el-super-nino",
+      "title": "Yacyretá actualiza sobre las incidencias del fenómeno \"EL Super Niño\"",
+      "volanta": "Cambio climático",
+      "date": "2026-10-09T21:33:43+00:00"
+    },
     {
       "id": "7b81a419",
       "image": "img/7b81a419.png",
@@ -531,15 +540,6 @@
       "title": "Sebastián Orresta: \"Estamos trabajando de la mejor manera para ser un equipo aguerrido, que se entrega al máximo\"",
       "volanta": "GIRA INTERNACIONAL",
       "date": "2026-10-07T16:36:54+00:00"
-    },
-    {
-      "id": "29457f41",
-      "image": "img/29457f41.png",
-      "image_sha": "7ad2730c2dcdb6b0c71ac27f94f4485cf4a18fa9",
-      "url": "https://www.radiodos.com.ar/215046-estan-habilitadas-las-tarjetas-sapucay",
-      "title": "Están habilitadas las Tarjetas Sapucay",
-      "volanta": "DESDE HOY",
-      "date": "2026-10-07T15:05:36+00:00"
     }
   ]
 }
