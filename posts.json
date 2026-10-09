@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T12:49:42+00:00",
+  "updated": "2026-10-09T13:10:26+00:00",
   "posts": [
+    {
+      "id": "8925c1e5",
+      "image": "img/8925c1e5.png",
+      "image_sha": "826d815dba1e8908250cb81724febc4db7347cbf",
+      "url": "https://www.radiodos.com.ar/215138-un-impactante-aluvion-sorprendio-a-santiago-de-chile",
+      "title": "Un impactante aluvión sorprendió a Santiago de Chile",
+      "volanta": "Tras intensas lluvias",
+      "date": "2026-10-09T13:10:26+00:00"
+    },
     {
       "id": "da73603d",
       "image": "img/da73603d.png",
@@ -531,15 +540,6 @@
       "title": "La Casa Rosada descarta un acuerdo general con los gobernadores y apuesta a negociar por provincia",
       "volanta": "BUSCAN ACUERDOS",
       "date": "2026-10-06T21:03:07+00:00"
-    },
-    {
-      "id": "baf70cb3",
-      "image": "img/baf70cb3.png",
-      "image_sha": "074e9cb6543a56d3c01c3ec4659253930e2c91cd",
-      "url": "https://www.radiodos.com.ar/214995-corrientes-fortalece-la-deteccion-temprana-del-cancer-de-mama-a-traves-de-una-red-de-especialistas",
-      "title": "Corrientes fortalece la detección temprana del cáncer de mama a través de una red de especialistas",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-10-06T20:59:46+00:00"
     }
   ]
 }
