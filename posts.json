@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T22:34:06+00:00",
+  "updated": "2026-10-09T10:47:21+00:00",
   "posts": [
+    {
+      "id": "ce9f844b",
+      "image": "img/ce9f844b.png",
+      "image_sha": "23af76195e9f954a1055902e7d0c7a7054d7161c",
+      "url": "https://www.radiodos.com.ar/215132-martin-ojeda-nos-preparamos-para-competir-y-vamos-a-dar-pelea-hasta-lo-ultimo",
+      "title": "Martín Ojeda: \"Nos preparamos para competir y vamos a dar pelea hasta lo último\"",
+      "volanta": "Esperando Boca Unidos - Mitre",
+      "date": "2026-10-09T10:47:21+00:00"
+    },
     {
       "id": "f493c9a8",
       "image": "img/f493c9a8.png",
@@ -531,15 +540,6 @@
       "title": "Messi recibió el Doctorado Honoris Causa de la UBA antes de su despedida de la Selección Argentina",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-10-06T19:09:02+00:00"
-    },
-    {
-      "id": "29c34bc6",
-      "image": "img/29c34bc6.png",
-      "image_sha": "03a2763962c92daa15d054efe093a0bd66219330",
-      "url": "https://www.radiodos.com.ar/214973-el-ultimatum-de-tini-stoessel-a-su-padre-para-intentar-llegar-a-un-acuerdo-el-5-o-nada",
-      "title": "El ultimátum de Tini Stoessel a su padre para intentar llegar a un acuerdo: \"El 5% o nada\"",
-      "volanta": "¿LLEGAN AL ACUERDO?",
-      "date": "2026-10-06T18:43:16+00:00"
     }
   ]
 }
