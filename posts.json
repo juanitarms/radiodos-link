@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T12:35:11+00:00",
+  "updated": "2026-10-09T12:49:42+00:00",
   "posts": [
+    {
+      "id": "da73603d",
+      "image": "img/da73603d.png",
+      "image_sha": "c270963774e6887ed6b49d6b85c867f19be97c7e",
+      "url": "https://www.radiodos.com.ar/215141-el-hospital-juan-pablo-ii-sumo-un-nuevo-equipamiento-para-gastroenterologia-y-hepatologia-infantil",
+      "title": "El Hospital Juan Pablo II sumó un nuevo equipamiento para gastroenterología y hepatología infantil",
+      "volanta": "PROVINCIA",
+      "date": "2026-10-09T12:49:42+00:00"
+    },
     {
       "id": "46f98f0f",
       "image": "img/46f98f0f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fortalece la detección temprana del cáncer de mama a través de una red de especialistas",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-10-06T20:59:46+00:00"
-    },
-    {
-      "id": "ae01884b",
-      "image": "img/ae01884b.png",
-      "image_sha": "2ec68699c0ab946134ec02fdd14a3d527ea2899d",
-      "url": "https://www.radiodos.com.ar/214990-cierran-un-puerto-del-interior-de-corrientes-por-la-creciente-del-rio-uruguay",
-      "title": "Cierran un puerto del interior de Corrientes por la creciente del río Uruguay",
-      "volanta": "ALERTA",
-      "date": "2026-10-06T20:45:26+00:00"
     }
   ]
 }
