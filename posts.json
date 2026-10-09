@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T12:03:38+00:00",
+  "updated": "2026-10-09T12:11:48+00:00",
   "posts": [
+    {
+      "id": "92ccb566",
+      "image": "img/92ccb566.png",
+      "image_sha": "e327d4997b54fb5e1a89e60f5f21f3e2041e65ee",
+      "url": "https://www.radiodos.com.ar/215134-el-servicio-penitenciario-de-corrientes-celebra-41-anos",
+      "title": "El Servicio Penitenciario de Corrientes celebra 41 años",
+      "volanta": "DESFILE EN LA COSTANERA",
+      "date": "2026-10-09T12:11:48+00:00"
+    },
     {
       "id": "ba627bec",
       "image": "img/ba627bec.png",
@@ -531,15 +540,6 @@
       "title": "Gobierno e instituciones intermedias coordinan acciones ante la llegada del fenómeno de El Niño en Corrientes",
       "volanta": "RED PROVINCIAL DE VOLUNTARIADO",
       "date": "2026-10-06T20:40:10+00:00"
-    },
-    {
-      "id": "e2cefd49",
-      "image": "img/e2cefd49.png",
-      "image_sha": "4d0ee4c2266ff593a7b16f80b225b5049b8180f8",
-      "url": "https://www.radiodos.com.ar/214985-lionel-messi-y-el-mensaje-antes-de-su-despedida-de-la-seleccion-argentina-los-voy-a-extranar",
-      "title": "Lionel Messi y el mensaje antes de su despedida de la Selección Argentina: \"Los voy a extrañar\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-10-06T19:09:34+00:00"
     }
   ]
 }
