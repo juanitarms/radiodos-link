@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T15:28:20+00:00",
+  "updated": "2026-10-10T15:51:00+00:00",
   "posts": [
+    {
+      "id": "caa3a666",
+      "image": "img/caa3a666.png",
+      "image_sha": "9bb936dea40bff90a5410f9b5aa2714452a47bcb",
+      "url": "https://www.radiodos.com.ar/215198-la-reina-inauguro-su-cuarta-sucursal-en-formato-de-supermercado-y-consolida-su-expansion-en-corrientes",
+      "title": "LA REINA inauguró su cuarta sucursal en formato de supermercado y consolida su expansión en Corrientes",
+      "volanta": "COMERCIO",
+      "date": "2026-10-10T15:51:00+00:00"
+    },
     {
       "id": "8609b16a",
       "image": "img/8609b16a.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes se ubica entre las provincias más afectadas por el freno en la construcción",
       "volanta": "DATOS OFICIALES",
       "date": "2026-10-07T20:58:31+00:00"
-    },
-    {
-      "id": "3845b9c7",
-      "image": "img/3845b9c7.png",
-      "image_sha": "e70b0047c69e898c2d4c0185cfd467767cf673e0",
-      "url": "https://www.radiodos.com.ar/215054-murio-piero-el-mitico-creador-de-mi-viejo",
-      "title": "Murió Piero, el mítico creador de Mi Viejo",
-      "volanta": "81 AÑOS",
-      "date": "2026-10-07T20:56:43+00:00"
     }
   ]
 }
