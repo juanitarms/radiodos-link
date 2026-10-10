@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T14:02:58+00:00",
+  "updated": "2026-10-10T14:27:42+00:00",
   "posts": [
+    {
+      "id": "4d8ca738",
+      "image": "img/4d8ca738.png",
+      "image_sha": "fa8c121d02857f78f39bfc98ab70c3c1f1df0eef",
+      "url": "https://www.radiodos.com.ar/215195-fin-de-semana-largo-con-ocupacion-hotelera-del-70-por-ciento-en-corrientes",
+      "title": "Fin de semana largo con ocupación hotelera del 70 por ciento en Corrientes",
+      "volanta": "TURISMO",
+      "date": "2026-10-10T14:27:42+00:00"
+    },
     {
       "id": "9c6e2dfa",
       "image": "img/9c6e2dfa.png",
@@ -531,15 +540,6 @@
       "title": "La industria manufacturera no se recupera y cayó un 3,2% interanual en agosto",
       "volanta": "CRISIS EN EL SECTOR",
       "date": "2026-10-07T20:49:26+00:00"
-    },
-    {
-      "id": "e55a925a",
-      "image": "img/e55a925a.png",
-      "image_sha": "803de9786146774a6c0b7dfda8ecd4de10af6b01",
-      "url": "https://www.radiodos.com.ar/215053-detuvieron-en-aeroparque-a-una-pareja-que-se-habia-tragado-199-capsulas-de-cocaina",
-      "title": "Detuvieron en Aeroparque a una pareja que se había tragado 199 cápsulas de cocaína",
-      "volanta": "NARCOTRÁFICO",
-      "date": "2026-10-07T18:38:56+00:00"
     }
   ]
 }
