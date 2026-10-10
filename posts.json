@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T21:47:22+00:00",
+  "updated": "2026-10-10T21:49:49+00:00",
   "posts": [
+    {
+      "id": "5a1a4727",
+      "image": "img/5a1a4727.png",
+      "image_sha": "6efa98770e1bdb5ea0e636ba417ce9b08670a1da",
+      "url": "https://www.radiodos.com.ar/215221-joaquin-levinton-llevo-tranquilidad-a-sus-fans-tras-la-suspension-de-sus-shows-con-turf-en-unos-dias-pasara",
+      "title": "Joaquín Levinton llevó tranquilidad a sus fans tras la suspensión de sus shows con Turf: \"En unos días pasará\"",
+      "volanta": "escándalo",
+      "date": "2026-10-10T21:49:49+00:00"
+    },
     {
       "id": "9e4e6d14",
       "image": "img/9e4e6d14.png",
@@ -531,15 +540,6 @@
       "title": "Creciente del río Uruguay: cierran otro paso fronterizo en Corrientes y suspenden servicio de lanchas",
       "volanta": "Monte Caseros- Bella Unión",
       "date": "2026-10-08T10:55:29+00:00"
-    },
-    {
-      "id": "f264fdea",
-      "image": "img/f264fdea.png",
-      "image_sha": "f5f75a4a2f9bd537b3ea279c99772ef5e8b65532",
-      "url": "https://www.radiodos.com.ar/215069-condenan-a-un-hombre-a-prision-perpetua-por-el-homicidio-de-su-madre",
-      "title": "Condenan a un hombre a prisión perpetua por el homicidio de su madre",
-      "volanta": "STJ",
-      "date": "2026-10-08T10:37:54+00:00"
     }
   ]
 }
