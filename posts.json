@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T14:27:42+00:00",
+  "updated": "2026-10-10T15:28:20+00:00",
   "posts": [
+    {
+      "id": "8609b16a",
+      "image": "img/8609b16a.png",
+      "image_sha": "7f2b3c0ea69fd6caff8aa3fb3ca52a84e955f578",
+      "url": "https://www.radiodos.com.ar/215194-este-martes-13-de-octubre-comienza-el-pago-del-plus-ordinario-municipal",
+      "title": "Este martes 13 de octubre comienza el pago del plus ordinario municipal",
+      "volanta": "PARA TODO EL PERSONAL",
+      "date": "2026-10-10T15:28:20+00:00"
+    },
     {
       "id": "4d8ca738",
       "image": "img/4d8ca738.png",
@@ -531,15 +540,6 @@
       "title": "Murió Piero, el mítico creador de Mi Viejo",
       "volanta": "81 AÑOS",
       "date": "2026-10-07T20:56:43+00:00"
-    },
-    {
-      "id": "1dbd34b1",
-      "image": "img/1dbd34b1.png",
-      "image_sha": "6efe64ae0ffe3477ddda94aadb046195ce975684",
-      "url": "https://www.radiodos.com.ar/215055-la-industria-manufacturera-no-se-recupera-y-cayo-un-32-interanual-en-agosto",
-      "title": "La industria manufacturera no se recupera y cayó un 3,2% interanual en agosto",
-      "volanta": "CRISIS EN EL SECTOR",
-      "date": "2026-10-07T20:49:26+00:00"
     }
   ]
 }
