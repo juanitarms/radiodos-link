@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T13:59:28+00:00",
+  "updated": "2026-10-11T14:12:47+00:00",
   "posts": [
+    {
+      "id": "a8f1fda4",
+      "image": "img/a8f1fda4.png",
+      "image_sha": "a7e5a0138d32740b7d7fedea5933e59626a5cf16",
+      "url": "https://www.radiodos.com.ar/215234-el-papa-leon-xiv-sera-operado-a-menos-de-un-mes-de-su-visita-a-la-argentina",
+      "title": "El papa León XIV será operado a menos de un mes de su visita a la Argentina",
+      "volanta": "vaticano",
+      "date": "2026-10-11T14:12:47+00:00"
+    },
     {
       "id": "0759472c",
       "image": "img/0759472c.png",
@@ -531,15 +540,6 @@
       "title": "Se busca a un hombre que no volvió a su domicilio",
       "volanta": "GOBERNADOR MARTINEZ",
       "date": "2026-10-08T12:07:31+00:00"
-    },
-    {
-      "id": "53213a00",
-      "image": "img/53213a00.png",
-      "image_sha": "0563b30ef9489c6069055aa8d92a2fbfdf67ea94",
-      "url": "https://www.radiodos.com.ar/215071-corrientes-en-alerta-por-tormentas-fuertes-en-todo-el-territorio-provincial",
-      "title": "Corrientes en alerta por tormentas fuertes en todo el territorio provincial",
-      "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
-      "date": "2026-10-08T11:20:40+00:00"
     }
   ]
 }
