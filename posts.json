@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T18:33:14+00:00",
+  "updated": "2026-10-11T20:25:37+00:00",
   "posts": [
+    {
+      "id": "cf090bdd",
+      "image": "img/cf090bdd.png",
+      "image_sha": "ca1a03c70df69191c1316a380081eec1148daa9d",
+      "url": "https://www.radiodos.com.ar/215229-torneo-clausura-river-suma-puntos-valiosos-venciendo-a-estudiantes-y-lo-manda-al-descenso",
+      "title": "Torneo Clausura: River suma puntos valiosos venciendo a Estudiantes y lo manda al descenso",
+      "volanta": "Fue 1 a 0",
+      "date": "2026-10-11T20:25:37+00:00"
+    },
     {
       "id": "82300e2a",
       "image": "img/82300e2a.png",
@@ -531,15 +540,6 @@
       "title": "Fuerte sismo con epicentro en los Valles Calchaquíes sacudió a Salta, Tucumán y Catamarca",
       "volanta": "INPRES",
       "date": "2026-10-08T14:28:04+00:00"
-    },
-    {
-      "id": "61c1fa91",
-      "image": "img/61c1fa91.png",
-      "image_sha": "a3fe6320f617dcad981157c81493415fe59a02de",
-      "url": "https://www.radiodos.com.ar/215091-el-sentido-mensaje-de-antonela-roccuzzo-para-lionel-messi-hay-noches-que-explican-una-vida-entera",
-      "title": "El sentido mensaje de Antonela Roccuzzo para Lionel Messi: \"Hay noches que explican una vida entera\"",
-      "volanta": "COMPAÑERA",
-      "date": "2026-10-08T14:12:08+00:00"
     }
   ]
 }
