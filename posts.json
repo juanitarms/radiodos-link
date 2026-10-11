@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T12:55:49+00:00",
+  "updated": "2026-10-11T13:59:28+00:00",
   "posts": [
+    {
+      "id": "0759472c",
+      "image": "img/0759472c.png",
+      "image_sha": "063ff643d1dfe11fd40cc13609065e0ec8b5e829",
+      "url": "https://www.radiodos.com.ar/215235-dos-mujeres-detenidas-en-pleno-delivery-de-cocaina-en-moto",
+      "title": "Dos mujeres detenidas en pleno \"delivery\" de cocaína en moto",
+      "volanta": "Monte caseros",
+      "date": "2026-10-11T13:59:28+00:00"
+    },
     {
       "id": "c8d5c9c0",
       "image": "img/c8d5c9c0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes en alerta por tormentas fuertes en todo el territorio provincial",
       "volanta": "SERVICIO METEOROLÓGICO NACIONAL",
       "date": "2026-10-08T11:20:40+00:00"
-    },
-    {
-      "id": "009ce01a",
-      "image": "img/009ce01a.png",
-      "image_sha": "4ce88cfe17f2ea0f3756563ea672a6ffbae967a5",
-      "url": "https://www.radiodos.com.ar/215069-condenan-a-un-hombre-a-prision-perpetua-por-el-homicidio-de-su-madre",
-      "title": "Condenan a un hombre a prisión perpetua por el homicidio de su madre",
-      "volanta": "JUSTICIA",
-      "date": "2026-10-08T11:14:33+00:00"
     }
   ]
 }
