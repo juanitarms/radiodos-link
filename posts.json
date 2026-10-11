@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T21:49:49+00:00",
+  "updated": "2026-10-11T12:55:49+00:00",
   "posts": [
+    {
+      "id": "c8d5c9c0",
+      "image": "img/c8d5c9c0.png",
+      "image_sha": "54ac24d6dfa910630a0a86cfb0eea5bd744133b1",
+      "url": "https://www.radiodos.com.ar/215231-lsb-triunfo-clave-de-regatas-en-ecuador-para-sonar-con-la-clasificacion",
+      "title": "LSB: Triunfo clave de Regatas en Ecuador para soñar con la clasificación",
+      "volanta": "BALONCESTO",
+      "date": "2026-10-11T12:55:49+00:00"
+    },
     {
       "id": "5a1a4727",
       "image": "img/5a1a4727.png",
@@ -531,15 +540,6 @@
       "title": "Condenan a un hombre a prisión perpetua por el homicidio de su madre",
       "volanta": "JUSTICIA",
       "date": "2026-10-08T11:14:33+00:00"
-    },
-    {
-      "id": "492fff00",
-      "image": "img/492fff00.png",
-      "image_sha": "eec17d00ba207c8928caab42ecd220a908a72d37",
-      "url": "https://www.radiodos.com.ar/215070-creciente-del-rio-uruguay-cierran-otro-paso-fronterizo-en-corrientes-y-suspenden-servicio-de-lanchas",
-      "title": "Creciente del río Uruguay: cierran otro paso fronterizo en Corrientes y suspenden servicio de lanchas",
-      "volanta": "Monte Caseros- Bella Unión",
-      "date": "2026-10-08T10:55:29+00:00"
     }
   ]
 }
