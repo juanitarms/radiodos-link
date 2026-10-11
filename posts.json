@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T18:32:41+00:00",
+  "updated": "2026-10-11T18:33:14+00:00",
   "posts": [
+    {
+      "id": "82300e2a",
+      "image": "img/82300e2a.png",
+      "image_sha": "fec7f7c0de5ac8f95f49704303c12e0670206a7b",
+      "url": "https://www.radiodos.com.ar/215238-gonzalez-el-gobierno-nacional-esta-mas-preocupado-por-la-agenda-politica-y-por-no-tener-paso",
+      "title": "González: \"El Gobierno nacional está más preocupado por la agenda política y por no tener PASO\"",
+      "volanta": "lo bueno, lo malo y lo feo",
+      "date": "2026-10-11T18:33:14+00:00"
+    },
     {
       "id": "71e38900",
       "image": "img/71e38900.png",
@@ -531,15 +540,6 @@
       "title": "El sentido mensaje de Antonela Roccuzzo para Lionel Messi: \"Hay noches que explican una vida entera\"",
       "volanta": "COMPAÑERA",
       "date": "2026-10-08T14:12:08+00:00"
-    },
-    {
-      "id": "51d01706",
-      "image": "img/51d01706.png",
-      "image_sha": "a73867d665c7af456381fdce7f7f3b6335f2e90b",
-      "url": "https://www.radiodos.com.ar/215090-la-joaqui-mostro-su-felicidad-con-tiago-pzk-tras-separarse-de-luck-ra-estoy-muy-contenta",
-      "title": "La Joaqui mostró su felicidad con Tiago PZK tras separarse de Luck Ra: \"Estoy muy contenta\"",
-      "volanta": "SINCERA",
-      "date": "2026-10-08T13:52:23+00:00"
     }
   ]
 }
