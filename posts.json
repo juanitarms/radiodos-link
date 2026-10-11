@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T15:12:55+00:00",
+  "updated": "2026-10-11T16:11:50+00:00",
   "posts": [
+    {
+      "id": "635b7e2e",
+      "image": "img/635b7e2e.png",
+      "image_sha": "ccdba44c5ff9b011aae59e3b7b1710fcd25fa281",
+      "url": "https://www.radiodos.com.ar/215237-trump-anuncio-un-alto-el-fuego-energetico-entre-rusia-y-ucrania",
+      "title": "Trump anunció un alto el fuego energético entre Rusia y Ucrania",
+      "volanta": "ESTADOS UNIDOS",
+      "date": "2026-10-11T16:11:50+00:00"
+    },
     {
       "id": "672651f7",
       "image": "img/672651f7.png",
@@ -531,15 +540,6 @@
       "title": "Falleció una joven que estaba internada en el Hospital Escuela tras un siniestro vial en Monte Caseros",
       "volanta": "AYER A LA SIESTA",
       "date": "2026-10-08T13:26:19+00:00"
-    },
-    {
-      "id": "56c1fa7e",
-      "image": "img/56c1fa7e.png",
-      "image_sha": "ad887098df227062a62d3f848ccc3762859a3324",
-      "url": "https://www.radiodos.com.ar/215074-en-apenas-dos-semanas-arca-volvio-a-postergar-el-plazo-para-presentar-la-declaracion-jurada-de-ganancias-2025",
-      "title": "En apenas dos semanas, ARCA volvió a postergar el plazo para presentar la declaración jurada de Ganancias 2025",
-      "volanta": "NOVEDAD",
-      "date": "2026-10-08T12:47:47+00:00"
     }
   ]
 }
