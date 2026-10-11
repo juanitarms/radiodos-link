@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T14:57:37+00:00",
+  "updated": "2026-10-11T15:12:55+00:00",
   "posts": [
+    {
+      "id": "672651f7",
+      "image": "img/672651f7.png",
+      "image_sha": "89e03cd474c3961bcab9853b8c9e0649ccb2bfff",
+      "url": "https://www.radiodos.com.ar/215236-colapinto-abandono-nuevamente-en-el-gp-de-singapur-por-problemas-en-su-alpine",
+      "title": "Colapinto abandonó nuevamente en el GP de Singapur por problemas en su Alpine",
+      "volanta": "fórmula 1",
+      "date": "2026-10-11T15:12:55+00:00"
+    },
     {
       "id": "75d2737e",
       "image": "img/75d2737e.png",
@@ -531,15 +540,6 @@
       "title": "En apenas dos semanas, ARCA volvió a postergar el plazo para presentar la declaración jurada de Ganancias 2025",
       "volanta": "NOVEDAD",
       "date": "2026-10-08T12:47:47+00:00"
-    },
-    {
-      "id": "fac7d58b",
-      "image": "img/fac7d58b.png",
-      "image_sha": "f27e3931cbcf57c947ef08e9066d79759e816818",
-      "url": "https://www.radiodos.com.ar/215077-ley-de-tierras-la-corte-suprema-deja-el-caso-listo-para-una-nueva-definicion",
-      "title": "Ley de Tierras: la Corte Suprema deja el caso listo para una nueva definición",
-      "volanta": "JUSTICIA",
-      "date": "2026-10-08T12:33:39+00:00"
     }
   ]
 }
