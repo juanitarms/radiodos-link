@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T16:11:50+00:00",
+  "updated": "2026-10-11T18:32:41+00:00",
   "posts": [
+    {
+      "id": "71e38900",
+      "image": "img/71e38900.png",
+      "image_sha": "3ecbcc0f3fae2d243f887b1d5ec85f84adb974c1",
+      "url": "https://www.radiodos.com.ar/215239-incendio-consumio-por-completo-una-vivienda-y-mato-a-una-mascota",
+      "title": "Incendio consumió por completo una vivienda y mató a una mascota",
+      "volanta": "BARRIO ESPERANZA",
+      "date": "2026-10-11T18:32:41+00:00"
+    },
     {
       "id": "635b7e2e",
       "image": "img/635b7e2e.png",
@@ -531,15 +540,6 @@
       "title": "La Joaqui mostró su felicidad con Tiago PZK tras separarse de Luck Ra: \"Estoy muy contenta\"",
       "volanta": "SINCERA",
       "date": "2026-10-08T13:52:23+00:00"
-    },
-    {
-      "id": "96c0bc21",
-      "image": "img/96c0bc21.png",
-      "image_sha": "9d40f97535c7e71a79f9508d84cc51a279a572bd",
-      "url": "https://www.radiodos.com.ar/215079-fallecio-una-joven-que-estaba-internada-en-el-hospital-escuela-tras-un-siniestro-vial-en-monte-caseros",
-      "title": "Falleció una joven que estaba internada en el Hospital Escuela tras un siniestro vial en Monte Caseros",
-      "volanta": "AYER A LA SIESTA",
-      "date": "2026-10-08T13:26:19+00:00"
     }
   ]
 }
