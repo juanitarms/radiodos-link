@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T21:36:36+00:00",
+  "updated": "2026-10-12T21:37:56+00:00",
   "posts": [
+    {
+      "id": "ce7da791",
+      "image": "img/ce7da791.png",
+      "image_sha": "0be16afc64d3a8bf1e0050a65e580a881bde413f",
+      "url": "https://www.radiodos.com.ar/215255-fin-de-semana-largo-viajaron-mas-turistas-pero-el-impacto-economico-cayo-22-real",
+      "title": "Fin de semana largo: viajaron más turistas pero el impacto económico cayó 2,2% real",
+      "volanta": "Datos de la came",
+      "date": "2026-10-12T21:37:56+00:00"
+    },
     {
       "id": "711bd8eb",
       "image": "img/711bd8eb.png",
@@ -531,15 +540,6 @@
       "title": "Incautan un cargamento de cigarrillos ilegales valuado en más de 60 millones",
       "volanta": "SOBRE RUTA 12",
       "date": "2026-10-08T21:12:42+00:00"
-    },
-    {
-      "id": "94718b2f",
-      "image": "img/94718b2f.png",
-      "image_sha": "93c60e9e8687ca0aba37e009eaa60e4b1677917f",
-      "url": "https://www.radiodos.com.ar/215122-el-gobierno-apelo-el-fallo-que-lo-obligaba-a-cumplir-la-ley-de-financiamiento-universitario",
-      "title": "El Gobierno apeló el fallo que lo obligaba a cumplir la Ley de Financiamiento Universitario",
-      "volanta": "confirmado",
-      "date": "2026-10-08T21:12:11+00:00"
     }
   ]
 }
