@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T22:20:51+00:00",
+  "updated": "2026-10-12T23:04:14+00:00",
   "posts": [
+    {
+      "id": "a3eef3d3",
+      "image": "img/a3eef3d3.png",
+      "image_sha": "1fadb0f722ae48153b88ed94ed1c621a7140b1bf",
+      "url": "https://www.radiodos.com.ar/215257-medicos-del-pami-anuncian-un-paro-de-96-horas-desde-este-martes",
+      "title": "Médicos del PAMI anuncian un paro de 96 horas desde este martes",
+      "volanta": "Reclamo a nación",
+      "date": "2026-10-12T23:04:14+00:00"
+    },
     {
       "id": "6cd43a06",
       "image": "img/6cd43a06.png",
@@ -531,15 +540,6 @@
       "title": "\"Boca Unidos es un grupo unido, fuerte, que está tirando para adelante y va por más\"",
       "volanta": "Esperando Boca Unidos - Mitre",
       "date": "2026-10-08T21:32:30+00:00"
-    },
-    {
-      "id": "434f2ee1",
-      "image": "img/434f2ee1.png",
-      "image_sha": "b9e074ff0a489fdf366e01e162f51b04e03f37ac",
-      "url": "https://www.radiodos.com.ar/215118-san-martin-abre-una-gira-con-un-firme-desafio",
-      "title": "San Martín abre una gira con un firme desafío",
-      "volanta": "Liga Nacional de Básquetbol",
-      "date": "2026-10-08T21:26:00+00:00"
     }
   ]
 }
