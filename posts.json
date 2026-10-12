@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T12:00:11+00:00",
+  "updated": "2026-10-12T12:17:56+00:00",
   "posts": [
+    {
+      "id": "7b949baa",
+      "image": "img/7b949baa.png",
+      "image_sha": "6e97ab5fc97f33558dab1dfa555e9d0b305bbb26",
+      "url": "https://www.radiodos.com.ar/215246-paso-de-los-libres-supero-el-nivel-de-alerta-y-hay-familias-evacuadas",
+      "title": "Paso de los Libres superó el nivel de alerta y hay familias evacuadas",
+      "volanta": "CRECIDA DEL RÍO URUGUAY",
+      "date": "2026-10-12T12:17:56+00:00"
+    },
     {
       "id": "1b26c904",
       "image": "img/1b26c904.png",
@@ -531,15 +540,6 @@
       "title": "El camión desobstructor ya limpió desagües en más de treinta puntos claves de la ciudad.",
       "volanta": "CONSTANTES TAREAS DE LIMPIEZA Y PREVENCIÓN",
       "date": "2026-10-08T16:46:01+00:00"
-    },
-    {
-      "id": "0f9e48f9",
-      "image": "img/0f9e48f9.png",
-      "image_sha": "5562ce9aad27774d975d1b9de57e455543a85364",
-      "url": "https://www.radiodos.com.ar/215110-el-nuevo-y-emotivo-mensaje-de-lionel-messi-tras-su-despedida-esta-todo-dicho-y-todo-hecho",
-      "title": "El nuevo y emotivo mensaje de Lionel Messi tras su despedida: \"Está todo dicho y todo hecho\"",
-      "volanta": "ÚNICO",
-      "date": "2026-10-08T16:45:30+00:00"
     }
   ]
 }
