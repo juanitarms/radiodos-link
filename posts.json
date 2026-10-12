@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-11T23:08:52+00:00",
+  "updated": "2026-10-12T11:28:31+00:00",
   "posts": [
+    {
+      "id": "a21cdcbb",
+      "image": "img/a21cdcbb.png",
+      "image_sha": "d85ed2296e379056097793bc53bb236d1cda403c",
+      "url": "https://www.radiodos.com.ar/215243-trfa-huracan-corrientes-obtuvo-un-valioso-triunfo-sobre-estrellas-de-laishi",
+      "title": "TRFA: Huracán Corrientes obtuvo un valioso triunfo sobre Estrellas de Laishi",
+      "volanta": "Fue 2 a 1",
+      "date": "2026-10-12T11:28:31+00:00"
+    },
     {
       "id": "74eabf83",
       "image": "img/74eabf83.png",
@@ -531,15 +540,6 @@
       "title": "Un joven mató al perro de su pareja dejándolo colgado de un árbol",
       "volanta": "SALTA",
       "date": "2026-10-08T16:44:55+00:00"
-    },
-    {
-      "id": "7533bd10",
-      "image": "img/7533bd10.png",
-      "image_sha": "1e77ea3df1943ab323703a8a712290ab384911bf",
-      "url": "https://www.radiodos.com.ar/215099-anne-carson-gano-el-premio-nobel-de-literatura-2026",
-      "title": "Anne Carson ganó el Premio Nobel de Literatura 2026",
-      "volanta": "RECONOCIMIENTO",
-      "date": "2026-10-08T14:43:18+00:00"
     }
   ]
 }
