@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T12:17:56+00:00",
+  "updated": "2026-10-12T12:38:02+00:00",
   "posts": [
+    {
+      "id": "720fdf58",
+      "image": "img/720fdf58.png",
+      "image_sha": "1258cca91da15c9abc14bfc12dbed6134348e001",
+      "url": "https://www.radiodos.com.ar/215242-lsb-corinthians-se-impuso-ante-regatas-en-el-cierre-del-grupo-b-y-lo-dejo-eliminado",
+      "title": "LSB: Corinthians se impuso ante Regatas en el cierre del Grupo B y lo dejó eliminado",
+      "volanta": "Fue 79 a 63",
+      "date": "2026-10-12T12:38:02+00:00"
+    },
     {
       "id": "7b949baa",
       "image": "img/7b949baa.png",
@@ -531,15 +540,6 @@
       "title": "El presidente de CAME llevó al papa León XIV la voz federal de las pymes argentinas",
       "volanta": "COMUNICADO",
       "date": "2026-10-08T16:46:50+00:00"
-    },
-    {
-      "id": "bf4a896a",
-      "image": "img/bf4a896a.png",
-      "image_sha": "94badde205eec7da0c819c8b113d45fae5924b60",
-      "url": "https://www.radiodos.com.ar/215108-el-camion-desobstructor-ya-limpio-desagues-en-mas-de-treinta-puntos-claves-de-la-ciudad",
-      "title": "El camión desobstructor ya limpió desagües en más de treinta puntos claves de la ciudad.",
-      "volanta": "CONSTANTES TAREAS DE LIMPIEZA Y PREVENCIÓN",
-      "date": "2026-10-08T16:46:01+00:00"
     }
   ]
 }
