@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T21:21:13+00:00",
+  "updated": "2026-10-13T21:21:47+00:00",
   "posts": [
+    {
+      "id": "92ae895e",
+      "image": "img/92ae895e.png",
+      "image_sha": "71b62c09f0677b4b97611a56151fc3e0ca633494",
+      "url": "https://www.radiodos.com.ar/215320-alerta-del-fbi-hacian-inteligencia-en-la-universidad-de-la-cuenca-del-plata-y-planeaban-un-tiroteo-masivo",
+      "title": "Alerta del FBI: hacían inteligencia en la Universidad de la Cuenca del Plata y planeaban un tiroteo masivo",
+      "volanta": "amenaza de atentado",
+      "date": "2026-10-13T21:21:47+00:00"
+    },
     {
       "id": "cd767d7c",
       "image": "img/cd767d7c.png",
@@ -531,15 +540,6 @@
       "title": "Cecilia Milone rompió el silencio tras denunciar a Nito Artaza: \"La dignidad no se negocia\"",
       "volanta": "SINCERA",
       "date": "2026-10-09T16:47:36+00:00"
-    },
-    {
-      "id": "40f57abf",
-      "image": "img/40f57abf.png",
-      "image_sha": "5f281b83da8ab429831b63045af8d67c7ceacf25",
-      "url": "https://www.radiodos.com.ar/215169-tini-del-conflicto-familiar-al-lollapalooza-el-salto-que-marca-una-nueva-etapa",
-      "title": "Tini, del conflicto familiar al Lollapalooza: ¿el salto que marca una nueva etapa?",
-      "volanta": "LIBERADA",
-      "date": "2026-10-09T16:47:02+00:00"
     }
   ]
 }
