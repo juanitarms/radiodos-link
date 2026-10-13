@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T14:41:03+00:00",
+  "updated": "2026-10-13T15:11:00+00:00",
   "posts": [
+    {
+      "id": "ee978972",
+      "image": "img/ee978972.png",
+      "image_sha": "3cd9686146daade77252efa9f2ac31460a914ac9",
+      "url": "https://www.radiodos.com.ar/215298-investigan-intento-de-femicidio-una-joven-embarazada-fue-internada-en-estado-critico",
+      "title": "Investigan intento de femicidio: una joven embarazada fue internada en estado crítico",
+      "volanta": "Rosario",
+      "date": "2026-10-13T15:11:00+00:00"
+    },
     {
       "id": "a28eec22",
       "image": "img/a28eec22.png",
@@ -531,15 +540,6 @@
       "title": "El Hospital Juan Pablo II sumó un nuevo equipamiento para gastroenterología y hepatología infantil",
       "volanta": "PROVINCIA",
       "date": "2026-10-09T12:49:42+00:00"
-    },
-    {
-      "id": "46f98f0f",
-      "image": "img/46f98f0f.png",
-      "image_sha": "028b6b1affdc00bb9743501770f3863c1d005c82",
-      "url": "https://www.radiodos.com.ar/215139-se-aprobo-la-incorporacion-de-mobiliario-urbano-inclusivo-en-espacios-publicos",
-      "title": "Se aprobó la incorporación de mobiliario urbano inclusivo en espacios públicos",
-      "volanta": "SESIÓN",
-      "date": "2026-10-09T12:35:11+00:00"
     }
   ]
 }
