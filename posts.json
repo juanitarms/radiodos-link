@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T21:10:23+00:00",
+  "updated": "2026-10-13T21:21:13+00:00",
   "posts": [
+    {
+      "id": "cd767d7c",
+      "image": "img/cd767d7c.png",
+      "image_sha": "1a6079049bd19368ae89cdc68592721dbad8b547",
+      "url": "https://www.radiodos.com.ar/215317-canasta-basica-una-familia-tipo-necesito-1632505-para-no-ser-pobre-en-septiembre",
+      "title": "Canasta básica: una familia tipo necesitó $1.632.505 para no ser pobre en septiembre",
+      "volanta": "DATOS OFICIALES",
+      "date": "2026-10-13T21:21:13+00:00"
+    },
     {
       "id": "2e1de70b",
       "image": "img/2e1de70b.png",
@@ -531,15 +540,6 @@
       "title": "Tini, del conflicto familiar al Lollapalooza: ¿el salto que marca una nueva etapa?",
       "volanta": "LIBERADA",
       "date": "2026-10-09T16:47:02+00:00"
-    },
-    {
-      "id": "57f29293",
-      "image": "img/57f29293.png",
-      "image_sha": "81c61ce4ede8a912a6ff03748cf6819e197ef152",
-      "url": "https://www.radiodos.com.ar/215171-oficinas-de-la-dpec-no-atendera-al-publico-el-lunes-12-de-octubre",
-      "title": "Oficinas de la DPEC no atenderá al público el lunes 12 de octubre",
-      "volanta": "FERIADO NACIONAL",
-      "date": "2026-10-09T16:46:23+00:00"
     }
   ]
 }
