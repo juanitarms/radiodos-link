@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T12:46:31+00:00",
+  "updated": "2026-10-13T13:06:55+00:00",
   "posts": [
+    {
+      "id": "0f3703d6",
+      "image": "img/0f3703d6.png",
+      "image_sha": "e0f9aecc93c1189abe44a0a0cca928c142d6cfd0",
+      "url": "https://www.radiodos.com.ar/215269-empedrado-mas-200-personas-autoevacuadas-y-casi-mil-cabezas-de-ganado-en-riesgo",
+      "title": "Empedrado: más 200 personas autoevacuadas y casi mil cabezas de ganado en riesgo",
+      "volanta": "CRECIENTE",
+      "date": "2026-10-13T13:06:55+00:00"
+    },
     {
       "id": "fad4fda3",
       "image": "img/fad4fda3.png",
@@ -531,15 +540,6 @@
       "title": "Martín Ojeda: \"Nos preparamos para competir y vamos a dar pelea hasta lo último\"",
       "volanta": "Esperando Boca Unidos - Mitre",
       "date": "2026-10-09T10:47:21+00:00"
-    },
-    {
-      "id": "f493c9a8",
-      "image": "img/f493c9a8.png",
-      "image_sha": "1f1f59787fb721af952e29ac09c26b6bfbb389a7",
-      "url": "https://www.radiodos.com.ar/215129-afirman-que-el-banco-central-perdio-us1000-millones-por-un-error-de-calculo-de-santiago-bausili",
-      "title": "Afirman que el Banco Central perdió u$s1.000 millones por un \"error de cálculo\" de Santiago Bausili",
-      "volanta": "TRAS UNA AUDITORIA",
-      "date": "2026-10-08T22:34:06+00:00"
     }
   ]
 }
