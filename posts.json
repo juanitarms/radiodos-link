@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T11:03:52+00:00",
+  "updated": "2026-10-13T11:16:49+00:00",
   "posts": [
+    {
+      "id": "d9946d9a",
+      "image": "img/d9946d9a.png",
+      "image_sha": "de9bd513941c83cf8a74d4dd91c7fb411149ff09",
+      "url": "https://www.radiodos.com.ar/215268-nueva-marcha-por-el-esclarecimiento-del-crimen-de-cecilia-lazcano-en-corrientes",
+      "title": "Nueva marcha por el esclarecimiento del crimen de Cecilia Lazcano en Corrientes",
+      "volanta": "ALVEAR",
+      "date": "2026-10-13T11:16:49+00:00"
+    },
     {
       "id": "0fa1610c",
       "image": "img/0fa1610c.png",
@@ -531,15 +540,6 @@
       "title": "Así será el estado de los servicios municipales en el feriado de este lunes",
       "volanta": "Día del Respeto a la Diversidad Cultural",
       "date": "2026-10-08T21:38:40+00:00"
-    },
-    {
-      "id": "334d7eab",
-      "image": "img/334d7eab.png",
-      "image_sha": "4d8a1e86d4ef51d219aee88fd7635b8ef975f8a6",
-      "url": "https://www.radiodos.com.ar/215124-trata-de-personas-casacion-reabrio-la-causa-por-la-venta-de-una-menor",
-      "title": "Trata de personas: casación reabrió la causa por la venta de una menor",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-08T21:34:01+00:00"
     }
   ]
 }
