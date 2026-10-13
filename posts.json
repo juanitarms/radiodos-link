@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T17:12:52+00:00",
+  "updated": "2026-10-13T17:13:32+00:00",
   "posts": [
+    {
+      "id": "6272ad3f",
+      "image": "img/6272ad3f.png",
+      "image_sha": "8efd62f29508cec021a604e3abc5b8f3fbe67226",
+      "url": "https://www.radiodos.com.ar/215301-juan-pablo-valdes-el-presupuesto-lo-enviamos-la-semana-que-viene",
+      "title": "Juan Pablo Valdés: \"El presupuesto lo enviamos la semana que viene\"",
+      "volanta": "LEY DE LEYES",
+      "date": "2026-10-13T17:13:32+00:00"
+    },
     {
       "id": "e6e9b571",
       "image": "img/e6e9b571.png",
@@ -531,15 +540,6 @@
       "title": "Qué documentación y elementos son obligatorios para circular en vehículos por la ciudad de Corrientes",
       "volanta": "INFO ÚTIL",
       "date": "2026-10-09T14:03:40+00:00"
-    },
-    {
-      "id": "7468ece1",
-      "image": "img/7468ece1.png",
-      "image_sha": "14272339e77fb3be05bcc87f0db161f4b1be133b",
-      "url": "https://www.radiodos.com.ar/215150-intento-robar-carne-entre-sus-ropas-y-termino-detenido",
-      "title": "Intentó robar carne entre sus ropas y terminó detenido",
-      "volanta": "POSADAS",
-      "date": "2026-10-09T13:33:42+00:00"
     }
   ]
 }
