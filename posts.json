@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T11:16:49+00:00",
+  "updated": "2026-10-13T12:11:31+00:00",
   "posts": [
+    {
+      "id": "5df2402c",
+      "image": "img/5df2402c.png",
+      "image_sha": "ddfb97b272a21a2d298f4051879775680824e2b1",
+      "url": "https://www.radiodos.com.ar/215271-un-estudio-registra-por-primera-vez-pseudoescorpiones-en-el-chaco-seco",
+      "title": "Un estudio registra por primera vez pseudoescorpiones en el Chaco Seco",
+      "volanta": "BECA DE LA UNNE",
+      "date": "2026-10-13T12:11:31+00:00"
+    },
     {
       "id": "d9946d9a",
       "image": "img/d9946d9a.png",
@@ -531,15 +540,6 @@
       "title": "Un correntino ganó más de $11 millones en el Quini 6",
       "volanta": "AFORTUNADO",
       "date": "2026-10-08T22:33:02+00:00"
-    },
-    {
-      "id": "cd4c3204",
-      "image": "img/cd4c3204.png",
-      "image_sha": "65abde62a86510c35fa1a0a7df4fbdf8b8b1f7d9",
-      "url": "https://www.radiodos.com.ar/215121-asi-sera-el-estado-de-los-servicios-municipales-en-el-feriado-de-este-lunes",
-      "title": "Así será el estado de los servicios municipales en el feriado de este lunes",
-      "volanta": "Día del Respeto a la Diversidad Cultural",
-      "date": "2026-10-08T21:38:40+00:00"
     }
   ]
 }
