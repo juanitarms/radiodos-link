@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T13:29:52+00:00",
+  "updated": "2026-10-13T13:54:29+00:00",
   "posts": [
+    {
+      "id": "91794707",
+      "image": "img/91794707.png",
+      "image_sha": "1fcb83bd5f722cd0fd8850d6d712b47bbb482d02",
+      "url": "https://www.radiodos.com.ar/215288-marcha-federal-por-las-universidades-publicas-la-unne-se-suma-a-la-movilizacion-del-jueves-15",
+      "title": "Marcha Federal por las universidades públicas: la UNNE  se suma a la movilización del jueves 15",
+      "volanta": "CORRIENTES Y RESISTENCIA",
+      "date": "2026-10-13T13:54:29+00:00"
+    },
     {
       "id": "1d59686a",
       "image": "img/1d59686a.png",
@@ -531,15 +540,6 @@
       "title": "El Servicio Penitenciario de Corrientes celebra 41 años",
       "volanta": "DESFILE EN LA COSTANERA",
       "date": "2026-10-09T12:11:48+00:00"
-    },
-    {
-      "id": "ba627bec",
-      "image": "img/ba627bec.png",
-      "image_sha": "a7c75225cc499b36155a2d3fd693b64e0eb2f141",
-      "url": "https://www.radiodos.com.ar/215135-en-el-microcentro-sigan-cerrando-comercios-y-los-barrios-ganan-puntos-de-venta",
-      "title": "En el microcentro sigan cerrando comercios y los barrios ganan puntos de venta",
-      "volanta": "Una tendencia vigente",
-      "date": "2026-10-09T12:03:38+00:00"
     }
   ]
 }
