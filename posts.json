@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T13:54:29+00:00",
+  "updated": "2026-10-13T14:17:28+00:00",
   "posts": [
+    {
+      "id": "9e9a43b6",
+      "image": "img/9e9a43b6.png",
+      "image_sha": "9d157bb12f53276493b6e1eccb4f4ba7ea639d61",
+      "url": "https://www.radiodos.com.ar/215295-tragedia-un-hombre-bailaba-en-un-balcon-durante-un-encuentro-familiar-cayo-al-vacio-y-murio",
+      "title": "Tragedia: un hombre bailaba en un balcón durante un encuentro familiar, cayó al vacío y murió",
+      "volanta": "Catamarca",
+      "date": "2026-10-13T14:17:28+00:00"
+    },
     {
       "id": "91794707",
       "image": "img/91794707.png",
@@ -531,15 +540,6 @@
       "title": "Demoras en el tránsito por derrame de aceite sobre avenida Independencia",
       "volanta": "Corrientes",
       "date": "2026-10-09T12:23:39+00:00"
-    },
-    {
-      "id": "92ccb566",
-      "image": "img/92ccb566.png",
-      "image_sha": "e327d4997b54fb5e1a89e60f5f21f3e2041e65ee",
-      "url": "https://www.radiodos.com.ar/215134-el-servicio-penitenciario-de-corrientes-celebra-41-anos",
-      "title": "El Servicio Penitenciario de Corrientes celebra 41 años",
-      "volanta": "DESFILE EN LA COSTANERA",
-      "date": "2026-10-09T12:11:48+00:00"
     }
   ]
 }
