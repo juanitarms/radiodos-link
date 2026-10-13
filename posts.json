@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T17:12:10+00:00",
+  "updated": "2026-10-13T17:12:52+00:00",
   "posts": [
+    {
+      "id": "e6e9b571",
+      "image": "img/e6e9b571.png",
+      "image_sha": "209dcda620f75234b91ab3a2ab197838e8090e59",
+      "url": "https://www.radiodos.com.ar/215299-operacion-caballo-de-troya-policias-escondidos-en-un-camion-desbarataron-bunkers-de-drogas",
+      "title": "Operación \"Caballo de Troya\": policías escondidos en un camión desbarataron bunkers de drogas",
+      "volanta": "Villa Sapito",
+      "date": "2026-10-13T17:12:52+00:00"
+    },
     {
       "id": "4cac9104",
       "image": "img/4cac9104.png",
@@ -531,15 +540,6 @@
       "title": "Intentó robar carne entre sus ropas y terminó detenido",
       "volanta": "POSADAS",
       "date": "2026-10-09T13:33:42+00:00"
-    },
-    {
-      "id": "8925c1e5",
-      "image": "img/8925c1e5.png",
-      "image_sha": "826d815dba1e8908250cb81724febc4db7347cbf",
-      "url": "https://www.radiodos.com.ar/215138-un-impactante-aluvion-sorprendio-a-santiago-de-chile",
-      "title": "Un impactante aluvión sorprendió a Santiago de Chile",
-      "volanta": "Tras intensas lluvias",
-      "date": "2026-10-09T13:10:26+00:00"
     }
   ]
 }
