@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T17:13:32+00:00",
+  "updated": "2026-10-13T17:14:06+00:00",
   "posts": [
+    {
+      "id": "c6645e75",
+      "image": "img/c6645e75.png",
+      "image_sha": "94065c9da15c09d7664f02b0bc0b0adfe42b8e0c",
+      "url": "https://www.radiodos.com.ar/215304-hablo-dario-giordano-tras-ser-acusado-de-violencia-fisica-por-sus-hijos-hice-lo-que-pude",
+      "title": "Habló Darío Giordano tras ser acusado de violencia física por sus hijos: \"Hice lo que pude\"",
+      "volanta": "POLÉMICA",
+      "date": "2026-10-13T17:14:06+00:00"
+    },
     {
       "id": "6272ad3f",
       "image": "img/6272ad3f.png",
@@ -531,15 +540,6 @@
       "title": "Qué documentación y elementos son obligatorios para circular en vehículos por la ciudad de Corrientes",
       "volanta": "RECORDATORIO",
       "date": "2026-10-09T14:29:56+00:00"
-    },
-    {
-      "id": "0802fe94",
-      "image": "img/0802fe94.png",
-      "image_sha": "0e456550b3a47cd600699e57f41717c9f4cceebc",
-      "url": "https://www.radiodos.com.ar/215154-que-documentacion-y-elementos-son-obligatorios-para-circular-en-vehiculos-por-la-ciudad-de-corrientes",
-      "title": "Qué documentación y elementos son obligatorios para circular en vehículos por la ciudad de Corrientes",
-      "volanta": "INFO ÚTIL",
-      "date": "2026-10-09T14:03:40+00:00"
     }
   ]
 }
