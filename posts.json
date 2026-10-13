@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T23:04:14+00:00",
+  "updated": "2026-10-13T10:18:33+00:00",
   "posts": [
+    {
+      "id": "db71359a",
+      "image": "img/db71359a.png",
+      "image_sha": "345f4d65825a64268c4adcdc7ce93bbe4f0d00c7",
+      "url": "https://www.radiodos.com.ar/215266-creciente-empedrado-en-emergencia-y-en-capital-el-rio-supero-cinco-metros",
+      "title": "Creciente: Empedrado en emergencia y en Capital el río superó cinco metros",
+      "volanta": "INUNDACIONES",
+      "date": "2026-10-13T10:18:33+00:00"
+    },
     {
       "id": "a3eef3d3",
       "image": "img/a3eef3d3.png",
@@ -531,15 +540,6 @@
       "title": "El hospital Juan Pablo II sumó equipamiento para gastroenterología y hepatología infantil",
       "volanta": "SALUD PÚBLICA",
       "date": "2026-10-08T21:33:29+00:00"
-    },
-    {
-      "id": "de0dca4c",
-      "image": "img/de0dca4c.png",
-      "image_sha": "0a9f255347a80c65b0f3509d1d0b8c27a026eeb3",
-      "url": "https://www.radiodos.com.ar/215119-boca-unidos-es-un-grupo-unido-fuerte-que-esta-tirando-para-adelante-y-va-por-mas",
-      "title": "\"Boca Unidos es un grupo unido, fuerte, que está tirando para adelante y va por más\"",
-      "volanta": "Esperando Boca Unidos - Mitre",
-      "date": "2026-10-08T21:32:30+00:00"
     }
   ]
 }
