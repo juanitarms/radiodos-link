@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T15:11:00+00:00",
+  "updated": "2026-10-13T17:12:10+00:00",
   "posts": [
+    {
+      "id": "4cac9104",
+      "image": "img/4cac9104.png",
+      "image_sha": "451f7562d98a43dc45d6f97388f986daf1675ff8",
+      "url": "https://www.radiodos.com.ar/215290-millonario-robo-a-distribuidora-investigan-posible-participacion-de-integrantes-de-una-fuerza-de-seguridad",
+      "title": "Millonario robo a distribuidora: investigan posible participación de integrantes de una fuerza de seguridad",
+      "volanta": "INDEPENDENCIA Y SAENZ",
+      "date": "2026-10-13T17:12:10+00:00"
+    },
     {
       "id": "ee978972",
       "image": "img/ee978972.png",
@@ -531,15 +540,6 @@
       "title": "Un impactante aluvión sorprendió a Santiago de Chile",
       "volanta": "Tras intensas lluvias",
       "date": "2026-10-09T13:10:26+00:00"
-    },
-    {
-      "id": "da73603d",
-      "image": "img/da73603d.png",
-      "image_sha": "c270963774e6887ed6b49d6b85c867f19be97c7e",
-      "url": "https://www.radiodos.com.ar/215141-el-hospital-juan-pablo-ii-sumo-un-nuevo-equipamiento-para-gastroenterologia-y-hepatologia-infantil",
-      "title": "El Hospital Juan Pablo II sumó un nuevo equipamiento para gastroenterología y hepatología infantil",
-      "volanta": "PROVINCIA",
-      "date": "2026-10-09T12:49:42+00:00"
     }
   ]
 }
