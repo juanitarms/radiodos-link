@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-13T10:18:33+00:00",
+  "updated": "2026-10-13T11:03:52+00:00",
   "posts": [
+    {
+      "id": "0fa1610c",
+      "image": "img/0fa1610c.png",
+      "image_sha": "8c8f6c993573f4482e41c0ae1f71a36ad9863647",
+      "url": "https://www.radiodos.com.ar/215267-robo-fallido-noqueo-a-un-ladron-y-lo-hirieron-al-escapar",
+      "title": "Robo fallido: noqueó a un ladrón y lo hirieron al escapar",
+      "volanta": "INSEGURIDAD",
+      "date": "2026-10-13T11:03:52+00:00"
+    },
     {
       "id": "db71359a",
       "image": "img/db71359a.png",
@@ -531,15 +540,6 @@
       "title": "Trata de personas: casación reabrió la causa por la venta de una menor",
       "volanta": "CORRIENTES",
       "date": "2026-10-08T21:34:01+00:00"
-    },
-    {
-      "id": "3f7a32a7",
-      "image": "img/3f7a32a7.png",
-      "image_sha": "f98e9381e6a375a02f1b34dac19e9726baef378a",
-      "url": "https://www.radiodos.com.ar/215125-el-hospital-juan-pablo-ii-sumo-equipamiento-para-gastroenterologia-y-hepatologia-infantil",
-      "title": "El hospital Juan Pablo II sumó equipamiento para gastroenterología y hepatología infantil",
-      "volanta": "SALUD PÚBLICA",
-      "date": "2026-10-08T21:33:29+00:00"
     }
   ]
 }
