@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T12:47:04+00:00",
+  "updated": "2026-10-14T13:07:32+00:00",
   "posts": [
+    {
+      "id": "a7f60839",
+      "image": "img/a7f60839.png",
+      "image_sha": "6a42d7c331111deb6afc08e9b7fafb8db6ba0d34",
+      "url": "https://www.radiodos.com.ar/215345-corrientes-registro-un-80-de-ocupacion-hotelera-y-un-impacto-economico-superior-a-los-6000-millones",
+      "title": "Corrientes registró un 80% de ocupación hotelera y un impacto económico superior a los $6.000 millones",
+      "volanta": "BALANCE DEL FIN DE SEMANA LARGO",
+      "date": "2026-10-14T13:07:32+00:00"
+    },
     {
       "id": "5909de0c",
       "image": "img/5909de0c.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio y el STJ renovaron convenio para agilizar notificaciones de cédulas de Juzgados de Faltas",
       "volanta": "Seguridad vial",
       "date": "2026-10-09T21:37:18+00:00"
-    },
-    {
-      "id": "3bde3c32",
-      "image": "img/3bde3c32.png",
-      "image_sha": "624fd05536db57dfaa494ed533741ce3a3f43915",
-      "url": "https://www.radiodos.com.ar/215183-el-partido-nuevo-exhibe-musculo-politico-y-gestion-territorial-en-corrientes",
-      "title": "El Partido Nuevo exhibe músculo político y gestión territorial en Corrientes",
-      "volanta": "Fuerza naranja",
-      "date": "2026-10-09T21:36:46+00:00"
     }
   ]
 }
