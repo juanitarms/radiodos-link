@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T22:13:35+00:00",
+  "updated": "2026-10-14T22:14:08+00:00",
   "posts": [
+    {
+      "id": "7fa0ccea",
+      "image": "img/7fa0ccea.png",
+      "image_sha": "779a7013a18e46549e4249fc7916c0008c721eca",
+      "url": "https://www.radiodos.com.ar/215390-el-76-prefiere-una-mejora-de-los-ingresos-antes-que-una-baja-de-la-inflacion",
+      "title": "El 76% prefiere una mejora de los ingresos antes que una baja de la inflación",
+      "volanta": "encuesta",
+      "date": "2026-10-14T22:14:08+00:00"
+    },
     {
       "id": "984fdf64",
       "image": "img/984fdf64.png",
@@ -531,15 +540,6 @@
       "title": "Paso de los Libres superó el nivel de alerta y hay familias evacuadas",
       "volanta": "CRECIDA DEL RÍO URUGUAY",
       "date": "2026-10-12T12:17:56+00:00"
-    },
-    {
-      "id": "1b26c904",
-      "image": "img/1b26c904.png",
-      "image_sha": "8854dd045d93158ec4cfb3781133b49ef5f3f7e1",
-      "url": "https://www.radiodos.com.ar/215244-el-caudal-de-yacyreta-supero-los-promedios-historico-de-septiembre",
-      "title": "El caudal de Yacyretá superó los promedios histórico de septiembre",
-      "volanta": "SE ESPERAN MÁS LLUVIAS",
-      "date": "2026-10-12T12:00:11+00:00"
     }
   ]
 }
