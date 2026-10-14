@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T17:41:59+00:00",
+  "updated": "2026-10-14T19:28:48+00:00",
   "posts": [
+    {
+      "id": "8cd93731",
+      "image": "img/8cd93731.png",
+      "image_sha": "dab62ee4eae7d0423c41c7b019fa33a899ae32b9",
+      "url": "https://www.radiodos.com.ar/215375-claudio-polich-buscamos-garantizar-la-correcta-atencion-a-las-personas-damnificadas-por-la-creciente-del-rio-parana",
+      "title": "Claudio Polich: \"Buscamos garantizar la correcta atención a las personas damnificadas por la creciente del río Paraná\"",
+      "volanta": "EN CASA DE GOBIERNO",
+      "date": "2026-10-14T19:28:48+00:00"
+    },
     {
       "id": "cb302680",
       "image": "img/cb302680.png",
@@ -531,15 +540,6 @@
       "title": "Dos mujeres detenidas en pleno \"delivery\" de cocaína en moto",
       "volanta": "Monte caseros",
       "date": "2026-10-11T13:59:28+00:00"
-    },
-    {
-      "id": "c8d5c9c0",
-      "image": "img/c8d5c9c0.png",
-      "image_sha": "54ac24d6dfa910630a0a86cfb0eea5bd744133b1",
-      "url": "https://www.radiodos.com.ar/215231-lsb-triunfo-clave-de-regatas-en-ecuador-para-sonar-con-la-clasificacion",
-      "title": "LSB: Triunfo clave de Regatas en Ecuador para soñar con la clasificación",
-      "volanta": "BALONCESTO",
-      "date": "2026-10-11T12:55:49+00:00"
     }
   ]
 }
