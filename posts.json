@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T22:11:05+00:00",
+  "updated": "2026-10-14T22:11:56+00:00",
   "posts": [
+    {
+      "id": "a1fee2cf",
+      "image": "img/a1fee2cf.png",
+      "image_sha": "1c7f7b1572e480aa36bb49e5e34eda51f4a3597f",
+      "url": "https://www.radiodos.com.ar/215386-agredio-a-una-inspectora-municipal-intento-esconderse-en-el-piso-y-fue-detenida",
+      "title": "Agredió a una inspectora municipal, intentó esconderse en \"El Piso\" y fue detenida",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-14T22:11:56+00:00"
+    },
     {
       "id": "77cdfd46",
       "image": "img/77cdfd46.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: River suma puntos valiosos venciendo a Estudiantes y lo manda al descenso",
       "volanta": "Fue 1 a 0",
       "date": "2026-10-11T20:25:37+00:00"
-    },
-    {
-      "id": "82300e2a",
-      "image": "img/82300e2a.png",
-      "image_sha": "fec7f7c0de5ac8f95f49704303c12e0670206a7b",
-      "url": "https://www.radiodos.com.ar/215238-gonzalez-el-gobierno-nacional-esta-mas-preocupado-por-la-agenda-politica-y-por-no-tener-paso",
-      "title": "González: \"El Gobierno nacional está más preocupado por la agenda política y por no tener PASO\"",
-      "volanta": "lo bueno, lo malo y lo feo",
-      "date": "2026-10-11T18:33:14+00:00"
     }
   ]
 }
