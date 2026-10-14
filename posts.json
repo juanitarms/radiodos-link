@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T22:12:28+00:00",
+  "updated": "2026-10-14T22:13:02+00:00",
   "posts": [
+    {
+      "id": "bf51d83e",
+      "image": "img/bf51d83e.png",
+      "image_sha": "e8ec585477dd12650ae1fdb83b757db9ad33bdd7",
+      "url": "https://www.radiodos.com.ar/215387-alarma-para-el-campo-correntino-cuatro-actividades-clave-de-la-provincia-continuan-en-crisis",
+      "title": "Alarma para el campo correntino: cuatro actividades clave de la provincia continúan en crisis",
+      "volanta": "Semáforo de CONINAGRO:",
+      "date": "2026-10-14T22:13:02+00:00"
+    },
     {
       "id": "31904b7b",
       "image": "img/31904b7b.png",
@@ -531,15 +540,6 @@
       "title": "TRFA: Huracán Corrientes obtuvo un valioso triunfo sobre Estrellas de Laishi",
       "volanta": "Fue 2 a 1",
       "date": "2026-10-12T11:28:31+00:00"
-    },
-    {
-      "id": "74eabf83",
-      "image": "img/74eabf83.png",
-      "image_sha": "514c97af67ff0976aa1da5aebdfc390f547bd31d",
-      "url": "https://www.radiodos.com.ar/215240-el-virasoreno-mazo-obtuvo-medalla-de-oro-en-la-ultima-jornada-del-panamericano-de-master-de-ciclismo",
-      "title": "El virasoreño Mazo obtuvo medalla de oro en la última jornada del Panamericano de Master de Ciclismo",
-      "volanta": "En la modalidad Criterium",
-      "date": "2026-10-11T23:08:52+00:00"
     }
   ]
 }
