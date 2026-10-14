@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T13:21:38+00:00",
+  "updated": "2026-10-14T13:40:58+00:00",
   "posts": [
+    {
+      "id": "b6a64f7b",
+      "image": "img/b6a64f7b.png",
+      "image_sha": "1eaf4a502e56566ec874a55456f8f5b44061aae2",
+      "url": "https://www.radiodos.com.ar/215348-salud-prohibieron-la-venta-de-un-popular-juguete-importado-de-china-por-contener-sustancias-toxicas",
+      "title": "Salud: prohibieron la venta de un popular juguete importado de China por contener sustancias tóxicas",
+      "volanta": "OFICIAL",
+      "date": "2026-10-14T13:40:58+00:00"
+    },
     {
       "id": "56c4068c",
       "image": "img/56c4068c.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes acompañó el encuentro de productores bufaleros y destacó su potencialidad y valor agregado",
       "volanta": "1° CONGRESO INTERNACIONAL BUBALINO",
       "date": "2026-10-10T14:02:58+00:00"
-    },
-    {
-      "id": "79546633",
-      "image": "img/79546633.png",
-      "image_sha": "142602c16880aeb084c50b69eb47c8160b86775c",
-      "url": "https://www.radiodos.com.ar/215193-por-un-problema-en-su-auto-franco-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-del-gp-de-singapur",
-      "title": "Por un problema en su auto, Franco Colapinto abandonó en el inicio de la carrera Sprint del GP de Singapur",
-      "volanta": "F1",
-      "date": "2026-10-10T12:59:13+00:00"
     }
   ]
 }
