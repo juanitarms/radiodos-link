@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T10:38:30+00:00",
+  "updated": "2026-10-14T11:05:11+00:00",
   "posts": [
+    {
+      "id": "d403e7c3",
+      "image": "img/d403e7c3.png",
+      "image_sha": "a6f19d6f5f7461dc84aec84e5093d97463601dad",
+      "url": "https://www.radiodos.com.ar/215332-heridos-tras-accidente-nautico-en-itati-lancha-impacto-contra-una-embarcacion-de-prefectura",
+      "title": "Heridos tras accidente náutico en Itatí: lancha impactó contra una embarcación de Prefectura",
+      "volanta": "EN HORAS DE LA NOCHE",
+      "date": "2026-10-14T11:05:11+00:00"
+    },
     {
       "id": "68dfc11a",
       "image": "img/68dfc11a.png",
@@ -531,15 +540,6 @@
       "title": "Caso Maricarmen: el Sindicato de Inquilinas de España prepara una querella por homicidio contra Urbagestión",
       "volanta": "JUSTICIA",
       "date": "2026-10-09T19:48:36+00:00"
-    },
-    {
-      "id": "45536db2",
-      "image": "img/45536db2.png",
-      "image_sha": "79e71707f29bb4045698dda2b5409a9ec96566d3",
-      "url": "https://www.radiodos.com.ar/215178-f1-hay-un-par-de-cosas-para-trabajar-por-la-noche-y-seguro-estaremos-un-poco-mejor-manana",
-      "title": "F1: \"Hay un par de cosas para trabajar por la noche y seguro estaremos un poco mejor mañana\"",
-      "volanta": "El sábado a las 6",
-      "date": "2026-10-09T19:48:03+00:00"
     }
   ]
 }
