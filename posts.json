@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T17:41:24+00:00",
+  "updated": "2026-10-14T17:41:59+00:00",
   "posts": [
+    {
+      "id": "cb302680",
+      "image": "img/cb302680.png",
+      "image_sha": "52b1d8216dde9ad6b5006f2f023d812652f4aed3",
+      "url": "https://www.radiodos.com.ar/215373-encontraron-una-persona-fallecida-en-un-edificio-de-junin-al-700",
+      "title": "Encontraron una persona fallecida en un edificio de Junín al 700",
+      "volanta": "ESTE MEDIODÍA",
+      "date": "2026-10-14T17:41:59+00:00"
+    },
     {
       "id": "14284b98",
       "image": "img/14284b98.png",
@@ -531,15 +540,6 @@
       "title": "LSB: Triunfo clave de Regatas en Ecuador para soñar con la clasificación",
       "volanta": "BALONCESTO",
       "date": "2026-10-11T12:55:49+00:00"
-    },
-    {
-      "id": "5a1a4727",
-      "image": "img/5a1a4727.png",
-      "image_sha": "6efa98770e1bdb5ea0e636ba417ce9b08670a1da",
-      "url": "https://www.radiodos.com.ar/215221-joaquin-levinton-llevo-tranquilidad-a-sus-fans-tras-la-suspension-de-sus-shows-con-turf-en-unos-dias-pasara",
-      "title": "Joaquín Levinton llevó tranquilidad a sus fans tras la suspensión de sus shows con Turf: \"En unos días pasará\"",
-      "volanta": "escándalo",
-      "date": "2026-10-10T21:49:49+00:00"
     }
   ]
 }
