@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T20:22:26+00:00",
+  "updated": "2026-10-14T22:10:00+00:00",
   "posts": [
+    {
+      "id": "ce1643ff",
+      "image": "img/ce1643ff.png",
+      "image_sha": "2b5134ef1987f0cb479f49216fdac931e95704ce",
+      "url": "https://www.radiodos.com.ar/215385-las-mujeres-representan-mas-del-57-del-personal-del-poder-judicial-de-corrientes",
+      "title": "Las mujeres representan más del 57% del personal del Poder Judicial de Corrientes",
+      "volanta": "MAPA DE GÉNERO 2026",
+      "date": "2026-10-14T22:10:00+00:00"
+    },
     {
       "id": "004d221d",
       "image": "img/004d221d.png",
@@ -531,15 +540,6 @@
       "title": "Trump anunció un alto el fuego energético entre Rusia y Ucrania",
       "volanta": "ESTADOS UNIDOS",
       "date": "2026-10-11T16:11:50+00:00"
-    },
-    {
-      "id": "672651f7",
-      "image": "img/672651f7.png",
-      "image_sha": "89e03cd474c3961bcab9853b8c9e0649ccb2bfff",
-      "url": "https://www.radiodos.com.ar/215236-colapinto-abandono-nuevamente-en-el-gp-de-singapur-por-problemas-en-su-alpine",
-      "title": "Colapinto abandonó nuevamente en el GP de Singapur por problemas en su Alpine",
-      "volanta": "fórmula 1",
-      "date": "2026-10-11T15:12:55+00:00"
     }
   ]
 }
