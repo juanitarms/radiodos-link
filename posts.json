@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T11:42:21+00:00",
+  "updated": "2026-10-14T12:30:46+00:00",
   "posts": [
+    {
+      "id": "0a0a8225",
+      "image": "img/0a0a8225.png",
+      "image_sha": "86301f0cfbfd6386a6daa681e7558711621ce11e",
+      "url": "https://www.radiodos.com.ar/215335-juan-pablo-valdes-convoco-a-una-reunion-urgente-a-su-gabinete-en-casa-de-gobierno",
+      "title": "Juan Pablo Valdés convocó a una reunión urgente a su Gabinete en Casa de Gobierno",
+      "volanta": "ULTIMO MOMENTO",
+      "date": "2026-10-14T12:30:46+00:00"
+    },
     {
       "id": "d4cacb07",
       "image": "img/d4cacb07.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés se reunió con Diego Santilli en Casa Rosada",
       "volanta": "Este viernes",
       "date": "2026-10-09T21:34:15+00:00"
-    },
-    {
-      "id": "f683e57e",
-      "image": "img/f683e57e.png",
-      "image_sha": "4d921889fdd8adaa756d5fe0a4649eae213aae1a",
-      "url": "https://www.radiodos.com.ar/215181-yacyreta-actualiza-sobre-las-incidencias-del-fenomeno-el-super-nino",
-      "title": "Yacyretá actualiza sobre las incidencias del fenómeno \"EL Super Niño\"",
-      "volanta": "Cambio climático",
-      "date": "2026-10-09T21:33:43+00:00"
     }
   ]
 }
