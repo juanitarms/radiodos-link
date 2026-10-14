@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T22:13:02+00:00",
+  "updated": "2026-10-14T22:13:35+00:00",
   "posts": [
+    {
+      "id": "984fdf64",
+      "image": "img/984fdf64.png",
+      "image_sha": "18eb64da1b9b6dbb3275ce255910aec9e10de2ee",
+      "url": "https://www.radiodos.com.ar/215388-imponen-multa-de-100000-diarios-a-santilli-por-incumplir-la-ley-de-financiamiento-universitario",
+      "title": "Imponen multa de $100.000 diarios a Santilli por incumplir la Ley de Financiamiento Universitario",
+      "volanta": "REVÉS PARA EL GOBIERNO",
+      "date": "2026-10-14T22:13:35+00:00"
+    },
     {
       "id": "bf51d83e",
       "image": "img/bf51d83e.png",
@@ -531,15 +540,6 @@
       "title": "El caudal de Yacyretá superó los promedios histórico de septiembre",
       "volanta": "SE ESPERAN MÁS LLUVIAS",
       "date": "2026-10-12T12:00:11+00:00"
-    },
-    {
-      "id": "a21cdcbb",
-      "image": "img/a21cdcbb.png",
-      "image_sha": "d85ed2296e379056097793bc53bb236d1cda403c",
-      "url": "https://www.radiodos.com.ar/215243-trfa-huracan-corrientes-obtuvo-un-valioso-triunfo-sobre-estrellas-de-laishi",
-      "title": "TRFA: Huracán Corrientes obtuvo un valioso triunfo sobre Estrellas de Laishi",
-      "volanta": "Fue 2 a 1",
-      "date": "2026-10-12T11:28:31+00:00"
     }
   ]
 }
