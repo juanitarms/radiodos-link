@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T16:31:22+00:00",
+  "updated": "2026-10-14T16:32:01+00:00",
   "posts": [
+    {
+      "id": "49deb365",
+      "image": "img/49deb365.png",
+      "image_sha": "e8f2702b4e7253d4f451d5961dc1247c36089ca1",
+      "url": "https://www.radiodos.com.ar/215360-pequenos-productores-intentan-salvar-a-sus-animales-pero-algunos-mueren-en-el-intento-es-desesperante",
+      "title": "Pequeños productores intentan salvar a sus animales, pero algunos mueren en el intento: \"es desesperante\"",
+      "volanta": "EDUARDO CARDOZO",
+      "date": "2026-10-14T16:32:01+00:00"
+    },
     {
       "id": "b8955559",
       "image": "img/b8955559.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá actualiza sobre las incidencias del fenómeno \"El Super Niño\"",
       "volanta": "INFORME",
       "date": "2026-10-10T19:37:27+00:00"
-    },
-    {
-      "id": "caa3a666",
-      "image": "img/caa3a666.png",
-      "image_sha": "9bb936dea40bff90a5410f9b5aa2714452a47bcb",
-      "url": "https://www.radiodos.com.ar/215198-la-reina-inauguro-su-cuarta-sucursal-en-formato-de-supermercado-y-consolida-su-expansion-en-corrientes",
-      "title": "LA REINA inauguró su cuarta sucursal en formato de supermercado y consolida su expansión en Corrientes",
-      "volanta": "COMERCIO",
-      "date": "2026-10-10T15:51:00+00:00"
     }
   ]
 }
