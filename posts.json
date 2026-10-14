@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T14:15:27+00:00",
+  "updated": "2026-10-14T14:37:45+00:00",
   "posts": [
+    {
+      "id": "e1028b86",
+      "image": "img/e1028b86.png",
+      "image_sha": "7add751a135b0f806a6da9136c57d035814bdfee",
+      "url": "https://www.radiodos.com.ar/215356-pablo-quirno-confirmo-que-sigue-en-pie-la-organizacion-por-la-visita-del-papa-leon-xiv",
+      "title": "Pablo Quirno confirmó que sigue en pie la organización por la visita del papa León XIV",
+      "volanta": "OPERATIVO",
+      "date": "2026-10-14T14:37:45+00:00"
+    },
     {
       "id": "1d5f6304",
       "image": "img/1d5f6304.png",
@@ -531,15 +540,6 @@
       "title": "Este martes 13 de octubre comienza el pago del plus ordinario municipal",
       "volanta": "PARA TODO EL PERSONAL",
       "date": "2026-10-10T15:28:20+00:00"
-    },
-    {
-      "id": "4d8ca738",
-      "image": "img/4d8ca738.png",
-      "image_sha": "fa8c121d02857f78f39bfc98ab70c3c1f1df0eef",
-      "url": "https://www.radiodos.com.ar/215195-fin-de-semana-largo-con-ocupacion-hotelera-del-70-por-ciento-en-corrientes",
-      "title": "Fin de semana largo con ocupación hotelera del 70 por ciento en Corrientes",
-      "volanta": "TURISMO",
-      "date": "2026-10-10T14:27:42+00:00"
     }
   ]
 }
