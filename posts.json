@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T16:32:01+00:00",
+  "updated": "2026-10-14T16:32:34+00:00",
   "posts": [
+    {
+      "id": "10b6f7e4",
+      "image": "img/10b6f7e4.png",
+      "image_sha": "513c178f21d9d3301c3d12543b3b95b7ee407a59",
+      "url": "https://www.radiodos.com.ar/215372-una-mujer-de-80-anos-fue-atacada-por-un-pitbull-y-quedo-gravemente-herida",
+      "title": "Una mujer de 80 años fue atacada por un pitbull y quedó gravemente herida",
+      "volanta": "Chivilcoy",
+      "date": "2026-10-14T16:32:34+00:00"
+    },
     {
       "id": "49deb365",
       "image": "img/49deb365.png",
@@ -531,15 +540,6 @@
       "title": "Astronautas del Artemis II revelaron lo que vieron al rodear la Luna: \"Es indescriptible\"",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-10T21:47:22+00:00"
-    },
-    {
-      "id": "ea3e1f02",
-      "image": "img/ea3e1f02.png",
-      "image_sha": "812e7967aa8f8521b6949189599d006ffe336c0d",
-      "url": "https://www.radiodos.com.ar/215199-yacyreta-actualiza-sobre-las-incidencias-del-fenomeno-el-super-nino",
-      "title": "Yacyretá actualiza sobre las incidencias del fenómeno \"El Super Niño\"",
-      "volanta": "INFORME",
-      "date": "2026-10-10T19:37:27+00:00"
     }
   ]
 }
