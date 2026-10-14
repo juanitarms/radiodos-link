@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T20:21:53+00:00",
+  "updated": "2026-10-14T20:22:26+00:00",
   "posts": [
+    {
+      "id": "004d221d",
+      "image": "img/004d221d.png",
+      "image_sha": "54a3dd70572cb1791ebe40c24804148213e24ace",
+      "url": "https://www.radiodos.com.ar/215381-se-reunio-el-coe-para-coordinar-acciones-ante-los-efectos-de-el-nino-en-corrientes",
+      "title": "Se reunió el COE para coordinar acciones ante los efectos de \"El Niño\" en Corrientes",
+      "volanta": "CONVOCATORIA DE VALDES",
+      "date": "2026-10-14T20:22:26+00:00"
+    },
     {
       "id": "54c77d1b",
       "image": "img/54c77d1b.png",
@@ -531,15 +540,6 @@
       "title": "Colapinto abandonó nuevamente en el GP de Singapur por problemas en su Alpine",
       "volanta": "fórmula 1",
       "date": "2026-10-11T15:12:55+00:00"
-    },
-    {
-      "id": "75d2737e",
-      "image": "img/75d2737e.png",
-      "image_sha": "9b389e9314f20f2ba129344d9c7d8e759bceeddb",
-      "url": "https://www.radiodos.com.ar/215230-mls-con-show-de-messi-y-doblete-de-suarez-inter-miami-aplasto-al-dc-united",
-      "title": "MLS: Con show de Messi y doblete de Suárez, Inter Miami aplastó al DC United",
-      "volanta": "Fue 4 a 0",
-      "date": "2026-10-11T14:57:37+00:00"
     }
   ]
 }
