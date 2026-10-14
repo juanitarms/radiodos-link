@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T11:19:31+00:00",
+  "updated": "2026-10-14T11:42:21+00:00",
   "posts": [
+    {
+      "id": "d4cacb07",
+      "image": "img/d4cacb07.png",
+      "image_sha": "5e4d6e9280324a99a0568a533a0b2e626190eaa1",
+      "url": "https://www.radiodos.com.ar/215336-murio-el-rona-castro-tras-descompensarse-en-un-bingo",
+      "title": "Murió el Roña Castro tras descompensarse en un bingo",
+      "volanta": "CONMOCIÓN",
+      "date": "2026-10-14T11:42:21+00:00"
+    },
     {
       "id": "80bee7c7",
       "image": "img/80bee7c7.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá actualiza sobre las incidencias del fenómeno \"EL Super Niño\"",
       "volanta": "Cambio climático",
       "date": "2026-10-09T21:33:43+00:00"
-    },
-    {
-      "id": "7b81a419",
-      "image": "img/7b81a419.png",
-      "image_sha": "6bad826b1713fdf8bcb393b47dda143653501855",
-      "url": "https://www.radiodos.com.ar/215175-asesinaron-a-balazos-a-un-hombre-de-39-anos-y-buscan-al-atacante",
-      "title": "Asesinaron a balazos a un hombre de 39 años y buscan al atacante",
-      "volanta": "Rosario",
-      "date": "2026-10-09T19:49:09+00:00"
     }
   ]
 }
