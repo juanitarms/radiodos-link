@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T13:40:58+00:00",
+  "updated": "2026-10-14T14:15:27+00:00",
   "posts": [
+    {
+      "id": "1d5f6304",
+      "image": "img/1d5f6304.png",
+      "image_sha": "14f1a009db7c58ec7f60cb2f97b70954a4e7fa8e",
+      "url": "https://www.radiodos.com.ar/215357-javier-milei-inicia-este-miercoles-una-nueva-agenda-en-los-estados-unidos-a-que-viajo-ahora",
+      "title": "Javier Milei inicia este miércoles una nueva agenda en los Estados Unidos: a qué viajó ahora",
+      "volanta": "Gira",
+      "date": "2026-10-14T14:15:27+00:00"
+    },
     {
       "id": "b6a64f7b",
       "image": "img/b6a64f7b.png",
@@ -531,15 +540,6 @@
       "title": "Fin de semana largo con ocupación hotelera del 70 por ciento en Corrientes",
       "volanta": "TURISMO",
       "date": "2026-10-10T14:27:42+00:00"
-    },
-    {
-      "id": "9c6e2dfa",
-      "image": "img/9c6e2dfa.png",
-      "image_sha": "ba4049555241eb82051a65aa45d10263a8c2a32b",
-      "url": "https://www.radiodos.com.ar/215196-el-gobierno-de-corrientes-acompano-el-encuentro-de-productores-bufaleros-y-destaco-su-potencialidad-y-valor-agregado",
-      "title": "El Gobierno de Corrientes acompañó el encuentro de productores bufaleros y destacó su potencialidad y valor agregado",
-      "volanta": "1° CONGRESO INTERNACIONAL BUBALINO",
-      "date": "2026-10-10T14:02:58+00:00"
     }
   ]
 }
