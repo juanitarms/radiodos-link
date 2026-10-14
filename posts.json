@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T19:28:48+00:00",
+  "updated": "2026-10-14T19:29:23+00:00",
   "posts": [
+    {
+      "id": "7258f13c",
+      "image": "img/7258f13c.png",
+      "image_sha": "990061f1dd29be9185be8f12fc096a6762afc3a8",
+      "url": "https://www.radiodos.com.ar/215378-horarios-especiales-y-operativos-de-transito-en-los-cementerios-por-el-dia-de-la-madre",
+      "title": "Horarios especiales y operativos de tránsito en los cementerios por el Día de la Madre",
+      "volanta": "INFORMACIÓN ÚTIL",
+      "date": "2026-10-14T19:29:23+00:00"
+    },
     {
       "id": "8cd93731",
       "image": "img/8cd93731.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV será operado a menos de un mes de su visita a la Argentina",
       "volanta": "vaticano",
       "date": "2026-10-11T14:12:47+00:00"
-    },
-    {
-      "id": "0759472c",
-      "image": "img/0759472c.png",
-      "image_sha": "063ff643d1dfe11fd40cc13609065e0ec8b5e829",
-      "url": "https://www.radiodos.com.ar/215235-dos-mujeres-detenidas-en-pleno-delivery-de-cocaina-en-moto",
-      "title": "Dos mujeres detenidas en pleno \"delivery\" de cocaína en moto",
-      "volanta": "Monte caseros",
-      "date": "2026-10-11T13:59:28+00:00"
     }
   ]
 }
