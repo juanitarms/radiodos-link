@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T14:37:45+00:00",
+  "updated": "2026-10-14T16:31:22+00:00",
   "posts": [
+    {
+      "id": "b8955559",
+      "image": "img/b8955559.png",
+      "image_sha": "9b25ca5bdbe884297c290f6a49ca0f57e12b9bb3",
+      "url": "https://www.radiodos.com.ar/215363-mama-del-delibery-atacado-en-un-robo-fue-intento-de-homicidio",
+      "title": "Mamá del delibery atacado en un robo: \"Fue intento de homicidio\"",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-14T16:31:22+00:00"
+    },
     {
       "id": "e1028b86",
       "image": "img/e1028b86.png",
@@ -531,15 +540,6 @@
       "title": "LA REINA inauguró su cuarta sucursal en formato de supermercado y consolida su expansión en Corrientes",
       "volanta": "COMERCIO",
       "date": "2026-10-10T15:51:00+00:00"
-    },
-    {
-      "id": "8609b16a",
-      "image": "img/8609b16a.png",
-      "image_sha": "7f2b3c0ea69fd6caff8aa3fb3ca52a84e955f578",
-      "url": "https://www.radiodos.com.ar/215194-este-martes-13-de-octubre-comienza-el-pago-del-plus-ordinario-municipal",
-      "title": "Este martes 13 de octubre comienza el pago del plus ordinario municipal",
-      "volanta": "PARA TODO EL PERSONAL",
-      "date": "2026-10-10T15:28:20+00:00"
     }
   ]
 }
