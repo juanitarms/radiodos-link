@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T22:10:33+00:00",
+  "updated": "2026-10-14T22:11:05+00:00",
   "posts": [
+    {
+      "id": "77cdfd46",
+      "image": "img/77cdfd46.png",
+      "image_sha": "27bc2fc78efe589f11e456eafc0f8c2327dd0945",
+      "url": "https://www.radiodos.com.ar/215382-el-caso-loan-sumo-un-nuevo-detenido",
+      "title": "El caso Loan sumó un nuevo detenido",
+      "volanta": "SIGUE EL JUICIO",
+      "date": "2026-10-14T22:11:05+00:00"
+    },
     {
       "id": "2c0f4048",
       "image": "img/2c0f4048.png",
@@ -531,15 +540,6 @@
       "title": "González: \"El Gobierno nacional está más preocupado por la agenda política y por no tener PASO\"",
       "volanta": "lo bueno, lo malo y lo feo",
       "date": "2026-10-11T18:33:14+00:00"
-    },
-    {
-      "id": "71e38900",
-      "image": "img/71e38900.png",
-      "image_sha": "3ecbcc0f3fae2d243f887b1d5ec85f84adb974c1",
-      "url": "https://www.radiodos.com.ar/215239-incendio-consumio-por-completo-una-vivienda-y-mato-a-una-mascota",
-      "title": "Incendio consumió por completo una vivienda y mató a una mascota",
-      "volanta": "BARRIO ESPERANZA",
-      "date": "2026-10-11T18:32:41+00:00"
     }
   ]
 }
