@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T10:19:23+00:00",
+  "updated": "2026-10-14T10:38:30+00:00",
   "posts": [
+    {
+      "id": "68dfc11a",
+      "image": "img/68dfc11a.png",
+      "image_sha": "71bd611cb9510dfdf1ecd048b55c90f573780e6a",
+      "url": "https://www.radiodos.com.ar/215331-champions-league-barcelona-y-sporting-lideran-con-puntaje-ideal",
+      "title": "Champions League: Barcelona y Sporting lideran con puntaje ideal",
+      "volanta": "Así marcha el certamen europeo",
+      "date": "2026-10-14T10:38:30+00:00"
+    },
     {
       "id": "72651366",
       "image": "img/72651366.png",
@@ -531,15 +540,6 @@
       "title": "F1: \"Hay un par de cosas para trabajar por la noche y seguro estaremos un poco mejor mañana\"",
       "volanta": "El sábado a las 6",
       "date": "2026-10-09T19:48:03+00:00"
-    },
-    {
-      "id": "1d0c373e",
-      "image": "img/1d0c373e.png",
-      "image_sha": "cfaeac81543dcde30156e7f4edd6da733aa5c5bc",
-      "url": "https://www.radiodos.com.ar/215163-condenaron-a-perpetua-a-la-madre-y-a-otros-dos-acusados-de-asesinar-a-arali-vivas",
-      "title": "Condenaron a perpetua a la madre y a otros dos acusados de asesinar a Aralí Vivas",
-      "volanta": "Córdoba",
-      "date": "2026-10-09T16:48:09+00:00"
     }
   ]
 }
