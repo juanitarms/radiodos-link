@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T12:49:37+00:00",
+  "updated": "2026-10-15T13:38:46+00:00",
   "posts": [
+    {
+      "id": "da6446d9",
+      "image": "img/da6446d9.png",
+      "image_sha": "c4a9dda5d270a399f8fc6384c4abe8ba8e6cb4c1",
+      "url": "https://www.radiodos.com.ar/215421-todo-listo-la-seleccion-argentina-jugara-en-la-bombonera-ante-uruguay-en-noviembre",
+      "title": "Todo listo: la Selección Argentina jugará en la Bombonera ante Uruguay en noviembre",
+      "volanta": "AMISTOSO",
+      "date": "2026-10-15T13:38:46+00:00"
+    },
     {
       "id": "ae4a7c3f",
       "image": "img/ae4a7c3f.png",
@@ -531,15 +540,6 @@
       "title": "Médicos del PAMI anuncian un paro de 96 horas desde este martes",
       "volanta": "Reclamo a nación",
       "date": "2026-10-12T23:04:14+00:00"
-    },
-    {
-      "id": "6cd43a06",
-      "image": "img/6cd43a06.png",
-      "image_sha": "7fd83a02829075e5d95b0e2bae00bf44f0db9b84",
-      "url": "https://www.radiodos.com.ar/215261-otro-reves-judicial-para-walter-maciel-ira-a-juicio-por-abuso-sexual",
-      "title": "Otro revés judicial para Walter Maciel: irá a juicio por abuso sexual",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-12T22:20:51+00:00"
     }
   ]
 }
