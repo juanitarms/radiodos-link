@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T16:37:32+00:00",
+  "updated": "2026-10-15T16:38:05+00:00",
   "posts": [
+    {
+      "id": "b6e7f7d1",
+      "image": "img/b6e7f7d1.png",
+      "image_sha": "bd8db23124158abbaaab0d323ec896666d340b69",
+      "url": "https://www.radiodos.com.ar/215439-javier-milei-aseguro-en-que-el-riesgo-pais-esta-debajo-de-los-100-puntos-el-dia-en-que-toco-los-640",
+      "title": "Javier Milei aseguró en que el riesgo país está \"debajo de los 100 puntos\" el día en que tocó los 640",
+      "volanta": "ECONOMÍA",
+      "date": "2026-10-15T16:38:05+00:00"
+    },
     {
       "id": "0d7614b5",
       "image": "img/0d7614b5.png",
@@ -531,15 +540,6 @@
       "title": "Llevaba en moto un ternero robado, lo dejó abandonado y huyó",
       "volanta": "LOMAS DE VALLEJOS",
       "date": "2026-10-13T13:29:52+00:00"
-    },
-    {
-      "id": "0f3703d6",
-      "image": "img/0f3703d6.png",
-      "image_sha": "e0f9aecc93c1189abe44a0a0cca928c142d6cfd0",
-      "url": "https://www.radiodos.com.ar/215269-empedrado-mas-200-personas-autoevacuadas-y-casi-mil-cabezas-de-ganado-en-riesgo",
-      "title": "Empedrado: más 200 personas autoevacuadas y casi mil cabezas de ganado en riesgo",
-      "volanta": "CRECIENTE",
-      "date": "2026-10-13T13:06:55+00:00"
     }
   ]
 }
