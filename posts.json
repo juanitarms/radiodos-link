@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T10:55:06+00:00",
+  "updated": "2026-10-15T11:22:18+00:00",
   "posts": [
+    {
+      "id": "480e9422",
+      "image": "img/480e9422.png",
+      "image_sha": "5ceaa29932f420242ae2138a77ee5ec7e77e4cda",
+      "url": "https://www.radiodos.com.ar/215396-creciente-se-interrumpio-el-transito-en-dos-puentes-de-ruta-nacional-12",
+      "title": "Creciente: se interrumpió el tránsito en dos puentes de Ruta Nacional 12",
+      "volanta": "INUNDACIONES",
+      "date": "2026-10-15T11:22:18+00:00"
+    },
     {
       "id": "9c3e1081",
       "image": "img/9c3e1081.png",
@@ -531,15 +540,6 @@
       "title": "Se incrementa la cantidad de evacuados y la mitad de la Isla Apipé podría quedar bajo agua",
       "volanta": "Creciente ríos Uruguay y Paraná",
       "date": "2026-10-12T15:03:54+00:00"
-    },
-    {
-      "id": "05ade0c4",
-      "image": "img/05ade0c4.png",
-      "image_sha": "a2bba4a34cdf6808209beced9652952af4efac46",
-      "url": "https://www.radiodos.com.ar/215250-corrientes-se-anuncian-lluvias-para-toda-la-jornada-y-la-inestabilidad-continuara-manana",
-      "title": "Corrientes: se anuncian lluvias para toda la jornada y la inestabilidad continuará mañana",
-      "volanta": "PRONÓSTICO",
-      "date": "2026-10-12T13:49:45+00:00"
     }
   ]
 }
