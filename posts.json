@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T12:41:14+00:00",
+  "updated": "2026-10-15T12:49:37+00:00",
   "posts": [
+    {
+      "id": "ae4a7c3f",
+      "image": "img/ae4a7c3f.png",
+      "image_sha": "fe8662831a59ed2b35c1ed881a28bc868dd32a9d",
+      "url": "https://www.radiodos.com.ar/215409-robaron-una-moto-la-abandonaron-y-huyeron",
+      "title": "Robaron una moto, la abandonaron y huyeron",
+      "volanta": "COMISARÍA SÉPTIMA",
+      "date": "2026-10-15T12:49:37+00:00"
+    },
     {
       "id": "47ca58fc",
       "image": "img/47ca58fc.png",
@@ -531,15 +540,6 @@
       "title": "Otro revés judicial para Walter Maciel: irá a juicio por abuso sexual",
       "volanta": "CORRIENTES",
       "date": "2026-10-12T22:20:51+00:00"
-    },
-    {
-      "id": "ce7da791",
-      "image": "img/ce7da791.png",
-      "image_sha": "0be16afc64d3a8bf1e0050a65e580a881bde413f",
-      "url": "https://www.radiodos.com.ar/215255-fin-de-semana-largo-viajaron-mas-turistas-pero-el-impacto-economico-cayo-22-real",
-      "title": "Fin de semana largo: viajaron más turistas pero el impacto económico cayó 2,2% real",
-      "volanta": "Datos de la came",
-      "date": "2026-10-12T21:37:56+00:00"
     }
   ]
 }
