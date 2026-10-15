@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T14:48:29+00:00",
+  "updated": "2026-10-15T15:04:31+00:00",
   "posts": [
+    {
+      "id": "5c011d2f",
+      "image": "img/5c011d2f.png",
+      "image_sha": "d9faa5016fdb5797d8cf62ec6f33917c203ceadf",
+      "url": "https://www.radiodos.com.ar/215433-abel-pintos-se-llevo-el-oro-en-los-martin-fierro-de-musica-2026-uno-por-uno-todos-los-ganadores",
+      "title": "Abel Pintos se llevó el oro en los Martín Fierro de Música 2026: uno por uno, todos los ganadores",
+      "volanta": "MERECIDO",
+      "date": "2026-10-15T15:04:31+00:00"
+    },
     {
       "id": "588859a7",
       "image": "img/588859a7.png",
@@ -531,15 +540,6 @@
       "title": "Este viernes finaliza la campaña de vacunación contra el dengue en la plaza Vera",
       "volanta": "PREVENCIÓN",
       "date": "2026-10-13T12:29:25+00:00"
-    },
-    {
-      "id": "5df2402c",
-      "image": "img/5df2402c.png",
-      "image_sha": "ddfb97b272a21a2d298f4051879775680824e2b1",
-      "url": "https://www.radiodos.com.ar/215271-un-estudio-registra-por-primera-vez-pseudoescorpiones-en-el-chaco-seco",
-      "title": "Un estudio registra por primera vez pseudoescorpiones en el Chaco Seco",
-      "volanta": "BECA DE LA UNNE",
-      "date": "2026-10-13T12:11:31+00:00"
     }
   ]
 }
