@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T18:45:38+00:00",
+  "updated": "2026-10-15T22:10:57+00:00",
   "posts": [
+    {
+      "id": "1b1e79ad",
+      "image": "img/1b1e79ad.png",
+      "image_sha": "a30e721cd2a7044f8c9b6a1149019e21c7073afb",
+      "url": "https://www.radiodos.com.ar/215451-ya-son-mas-de-20-los-evacuados-por-la-crecida-del-rio-parana-en-ituzaingo",
+      "title": "Ya son más de 20 los evacuados por la crecida del río Paraná en Ituzaingó",
+      "volanta": "Alerta",
+      "date": "2026-10-15T22:10:57+00:00"
+    },
     {
       "id": "22f82078",
       "image": "img/22f82078.png",
@@ -531,15 +540,6 @@
       "title": "Millonario robo a distribuidora: investigan posible participación de integrantes de una fuerza de seguridad",
       "volanta": "INDEPENDENCIA Y SAENZ",
       "date": "2026-10-13T17:12:10+00:00"
-    },
-    {
-      "id": "ee978972",
-      "image": "img/ee978972.png",
-      "image_sha": "3cd9686146daade77252efa9f2ac31460a914ac9",
-      "url": "https://www.radiodos.com.ar/215298-investigan-intento-de-femicidio-una-joven-embarazada-fue-internada-en-estado-critico",
-      "title": "Investigan intento de femicidio: una joven embarazada fue internada en estado crítico",
-      "volanta": "Rosario",
-      "date": "2026-10-13T15:11:00+00:00"
     }
   ]
 }
