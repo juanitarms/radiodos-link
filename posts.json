@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T11:49:07+00:00",
+  "updated": "2026-10-15T12:20:13+00:00",
   "posts": [
+    {
+      "id": "621d2cac",
+      "image": "img/621d2cac.png",
+      "image_sha": "f064991d2b612ee7e57c577a8d8b6f99d91399c9",
+      "url": "https://www.radiodos.com.ar/215402-investigan-la-posible-distribucion-de-material-de-abuso-sexual-infantil-en-corrientes",
+      "title": "Investigan la posible distribución de material de abuso sexual infantil en Corrientes",
+      "volanta": "BARRIO SAN ROQUE ESTE",
+      "date": "2026-10-15T12:20:13+00:00"
+    },
     {
       "id": "8cd2b459",
       "image": "img/8cd2b459.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: detienen a un menor tras el salvaje \"robo piraña\" a un repartidor de Pedidos Ya",
       "volanta": "Inseguridad",
       "date": "2026-10-12T21:36:36+00:00"
-    },
-    {
-      "id": "9c7d9d81",
-      "image": "img/9c7d9d81.png",
-      "image_sha": "7d8d007c70f6311caa70435cdde266070913108c",
-      "url": "https://www.radiodos.com.ar/215258-yacyreta-abrio-compuertas-por-crecida-del-parana",
-      "title": "Yacyretá abrió compuertas por crecida del Paraná",
-      "volanta": "Eby",
-      "date": "2026-10-12T21:35:08+00:00"
     }
   ]
 }
