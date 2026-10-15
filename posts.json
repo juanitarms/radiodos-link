@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T22:11:27+00:00",
+  "updated": "2026-10-15T22:12:31+00:00",
   "posts": [
+    {
+      "id": "0f0466ba",
+      "image": "img/0f0466ba.png",
+      "image_sha": "fe55bdbe91bb6bc8c83fcb876a7261aac798cb35",
+      "url": "https://www.radiodos.com.ar/215456-el-nino-en-corrientes-jp-valdes-recorrio-zonas-afectadas-en-itati-y-coordino-asistencia-a-familias",
+      "title": "El Niño en Corrientes: JP Valdés recorrió zonas afectadas en Itatí y coordinó asistencia a familias",
+      "volanta": "ESTA TARDE",
+      "date": "2026-10-15T22:12:31+00:00"
+    },
     {
       "id": "5064cb5c",
       "image": "img/5064cb5c.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés: \"El presupuesto lo enviamos la semana que viene\"",
       "volanta": "LEY DE LEYES",
       "date": "2026-10-13T17:13:32+00:00"
-    },
-    {
-      "id": "e6e9b571",
-      "image": "img/e6e9b571.png",
-      "image_sha": "209dcda620f75234b91ab3a2ab197838e8090e59",
-      "url": "https://www.radiodos.com.ar/215299-operacion-caballo-de-troya-policias-escondidos-en-un-camion-desbarataron-bunkers-de-drogas",
-      "title": "Operación \"Caballo de Troya\": policías escondidos en un camión desbarataron bunkers de drogas",
-      "volanta": "Villa Sapito",
-      "date": "2026-10-13T17:12:52+00:00"
     }
   ]
 }
