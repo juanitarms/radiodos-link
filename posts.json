@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T22:10:57+00:00",
+  "updated": "2026-10-15T22:11:27+00:00",
   "posts": [
+    {
+      "id": "5064cb5c",
+      "image": "img/5064cb5c.png",
+      "image_sha": "b36507bfc14ec820b32160089787d434ae1b8a43",
+      "url": "https://www.radiodos.com.ar/215450-el-vaticano-genero-incertidumbre-sobre-la-visita-del-papa-leon-xiv-a-la-argentina-debemos-esperar",
+      "title": "El Vaticano generó incertidumbre sobre la visita del papa León XIV a la Argentina: \"Debemos esperar\"",
+      "volanta": "En noviembre",
+      "date": "2026-10-15T22:11:27+00:00"
+    },
     {
       "id": "1b1e79ad",
       "image": "img/1b1e79ad.png",
@@ -531,15 +540,6 @@
       "title": "Operación \"Caballo de Troya\": policías escondidos en un camión desbarataron bunkers de drogas",
       "volanta": "Villa Sapito",
       "date": "2026-10-13T17:12:52+00:00"
-    },
-    {
-      "id": "4cac9104",
-      "image": "img/4cac9104.png",
-      "image_sha": "451f7562d98a43dc45d6f97388f986daf1675ff8",
-      "url": "https://www.radiodos.com.ar/215290-millonario-robo-a-distribuidora-investigan-posible-participacion-de-integrantes-de-una-fuerza-de-seguridad",
-      "title": "Millonario robo a distribuidora: investigan posible participación de integrantes de una fuerza de seguridad",
-      "volanta": "INDEPENDENCIA Y SAENZ",
-      "date": "2026-10-13T17:12:10+00:00"
     }
   ]
 }
