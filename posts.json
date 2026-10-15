@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T14:33:47+00:00",
+  "updated": "2026-10-15T14:48:29+00:00",
   "posts": [
+    {
+      "id": "588859a7",
+      "image": "img/588859a7.png",
+      "image_sha": "0438bfcf155b50b404d63c29e1e05ebc6f43e566",
+      "url": "https://www.radiodos.com.ar/215431-quien-es-josefina-lynch-la-supuesta-tercera-en-discordia-entre-julieta-prandi-y-emanuel-ortega",
+      "title": "Quién es Josefina Lynch, la supuesta tercera en discordia entre Julieta Prandi y Emanuel Ortega",
+      "volanta": "SORPRESA",
+      "date": "2026-10-15T14:48:29+00:00"
+    },
     {
       "id": "bb09951f",
       "image": "img/bb09951f.png",
@@ -531,15 +540,6 @@
       "title": "Un estudio registra por primera vez pseudoescorpiones en el Chaco Seco",
       "volanta": "BECA DE LA UNNE",
       "date": "2026-10-13T12:11:31+00:00"
-    },
-    {
-      "id": "d9946d9a",
-      "image": "img/d9946d9a.png",
-      "image_sha": "de9bd513941c83cf8a74d4dd91c7fb411149ff09",
-      "url": "https://www.radiodos.com.ar/215268-nueva-marcha-por-el-esclarecimiento-del-crimen-de-cecilia-lazcano-en-corrientes",
-      "title": "Nueva marcha por el esclarecimiento del crimen de Cecilia Lazcano en Corrientes",
-      "volanta": "ALVEAR",
-      "date": "2026-10-13T11:16:49+00:00"
     }
   ]
 }
