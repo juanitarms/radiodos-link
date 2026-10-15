@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T18:44:03+00:00",
+  "updated": "2026-10-15T18:44:37+00:00",
   "posts": [
+    {
+      "id": "4e6f6f18",
+      "image": "img/4e6f6f18.png",
+      "image_sha": "871ca66596d332c6cf91d17a25b47229d8835cac",
+      "url": "https://www.radiodos.com.ar/215441-santos-regis-y-fernandez-codazzi-iran-a-juicio-el-26-de-octubre-por-tentativa-de-homicidio-y-otros-delitos",
+      "title": "Santos Regis y Fernández Codazzi irán a juicio el 26 de octubre por tentativa de homicidio y otros delitos",
+      "volanta": "GOYA",
+      "date": "2026-10-15T18:44:37+00:00"
+    },
     {
       "id": "b329796b",
       "image": "img/b329796b.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: un hombre bailaba en un balcón durante un encuentro familiar, cayó al vacío y murió",
       "volanta": "Catamarca",
       "date": "2026-10-13T14:17:28+00:00"
-    },
-    {
-      "id": "91794707",
-      "image": "img/91794707.png",
-      "image_sha": "1fcb83bd5f722cd0fd8850d6d712b47bbb482d02",
-      "url": "https://www.radiodos.com.ar/215288-marcha-federal-por-las-universidades-publicas-la-unne-se-suma-a-la-movilizacion-del-jueves-15",
-      "title": "Marcha Federal por las universidades públicas: la UNNE  se suma a la movilización del jueves 15",
-      "volanta": "CORRIENTES Y RESISTENCIA",
-      "date": "2026-10-13T13:54:29+00:00"
     }
   ]
 }
