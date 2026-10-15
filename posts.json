@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T14:12:26+00:00",
+  "updated": "2026-10-15T14:33:47+00:00",
   "posts": [
+    {
+      "id": "bb09951f",
+      "image": "img/bb09951f.png",
+      "image_sha": "1f905a7e252e1ab3340ff7a82a62494ac0dd8e77",
+      "url": "https://www.radiodos.com.ar/215430-maria-becerra-opino-sobre-el-martin-fierro-que-gano-wanda-nara-y-sorprendio-con-su-respuesta",
+      "title": "María Becerra opinó sobre el Martín Fierro que ganó Wanda Nara y sorprendió con su respuesta",
+      "volanta": "¿QUÉ DIJO?",
+      "date": "2026-10-15T14:33:47+00:00"
+    },
     {
       "id": "35c0ca34",
       "image": "img/35c0ca34.png",
@@ -531,15 +540,6 @@
       "title": "Nueva marcha por el esclarecimiento del crimen de Cecilia Lazcano en Corrientes",
       "volanta": "ALVEAR",
       "date": "2026-10-13T11:16:49+00:00"
-    },
-    {
-      "id": "0fa1610c",
-      "image": "img/0fa1610c.png",
-      "image_sha": "8c8f6c993573f4482e41c0ae1f71a36ad9863647",
-      "url": "https://www.radiodos.com.ar/215267-robo-fallido-noqueo-a-un-ladron-y-lo-hirieron-al-escapar",
-      "title": "Robo fallido: noqueó a un ladrón y lo hirieron al escapar",
-      "volanta": "INSEGURIDAD",
-      "date": "2026-10-13T11:03:52+00:00"
     }
   ]
 }
