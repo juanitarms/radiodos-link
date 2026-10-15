@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T16:36:55+00:00",
+  "updated": "2026-10-15T16:37:32+00:00",
   "posts": [
+    {
+      "id": "0d7614b5",
+      "image": "img/0d7614b5.png",
+      "image_sha": "9ab573fa87a17f7903de89905e271b138e8f1c99",
+      "url": "https://www.radiodos.com.ar/215437-louis-prevost-hermano-del-papa-leon-xiv-tambien-tiene-cancer",
+      "title": "Louis Prevost, hermano del papa León XIV, también tiene cáncer",
+      "volanta": "MALA NOTICIA",
+      "date": "2026-10-15T16:37:32+00:00"
+    },
     {
       "id": "58899366",
       "image": "img/58899366.png",
@@ -531,15 +540,6 @@
       "title": "Empedrado: más 200 personas autoevacuadas y casi mil cabezas de ganado en riesgo",
       "volanta": "CRECIENTE",
       "date": "2026-10-13T13:06:55+00:00"
-    },
-    {
-      "id": "fad4fda3",
-      "image": "img/fad4fda3.png",
-      "image_sha": "8708f3b1a2d5b1ce664393842735de0997f122fe",
-      "url": "https://www.radiodos.com.ar/215280-la-policia-de-corrientes-informo-que-son-cinco-los-menores-demorados-por-el-ataque-al-delivery",
-      "title": "La Policía de Corrientes informó que son cinco los menores demorados por el ataque al delivery",
-      "volanta": "SEGURIDAD",
-      "date": "2026-10-13T12:46:31+00:00"
     }
   ]
 }
