@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T11:22:18+00:00",
+  "updated": "2026-10-15T11:49:07+00:00",
   "posts": [
+    {
+      "id": "8cd2b459",
+      "image": "img/8cd2b459.png",
+      "image_sha": "c035989118fc6eae63ff73b6a4d41e093bdc2edc",
+      "url": "https://www.radiodos.com.ar/215400-plus-de-refuerzo-el-pago-de-octubre-comienza-este-viernes-16",
+      "title": "Plus de Refuerzo: el pago de octubre comienza este viernes 16",
+      "volanta": "DE INTERES",
+      "date": "2026-10-15T11:49:07+00:00"
+    },
     {
       "id": "480e9422",
       "image": "img/480e9422.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá abrió compuertas por crecida del Paraná",
       "volanta": "Eby",
       "date": "2026-10-12T21:35:08+00:00"
-    },
-    {
-      "id": "516e2392",
-      "image": "img/516e2392.png",
-      "image_sha": "5da3002abb431ace94927e0a3fc230e5a47af37c",
-      "url": "https://www.radiodos.com.ar/215251-se-incrementa-la-cantidad-de-evacuados-y-la-mitad-de-la-isla-apipe-podria-quedar-bajo-agua",
-      "title": "Se incrementa la cantidad de evacuados y la mitad de la Isla Apipé podría quedar bajo agua",
-      "volanta": "Creciente ríos Uruguay y Paraná",
-      "date": "2026-10-12T15:03:54+00:00"
     }
   ]
 }
