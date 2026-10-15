@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T13:54:45+00:00",
+  "updated": "2026-10-15T14:12:26+00:00",
   "posts": [
+    {
+      "id": "35c0ca34",
+      "image": "img/35c0ca34.png",
+      "image_sha": "0202b3d7adf60fc2a5d0d808e51626f6dcad1018",
+      "url": "https://www.radiodos.com.ar/215428-en-su-alegato-del-juicio-por-la-muerte-de-maradona-burlando-fue-tajante-fue-asesinado",
+      "title": "En su alegato del juicio por la muerte de Maradona, Burlando fue tajante: \"Fue asesinado\"",
+      "volanta": "ALEGATOS",
+      "date": "2026-10-15T14:12:26+00:00"
+    },
     {
       "id": "fd8cd86b",
       "image": "img/fd8cd86b.png",
@@ -531,15 +540,6 @@
       "title": "Robo fallido: noqueó a un ladrón y lo hirieron al escapar",
       "volanta": "INSEGURIDAD",
       "date": "2026-10-13T11:03:52+00:00"
-    },
-    {
-      "id": "db71359a",
-      "image": "img/db71359a.png",
-      "image_sha": "345f4d65825a64268c4adcdc7ce93bbe4f0d00c7",
-      "url": "https://www.radiodos.com.ar/215266-creciente-empedrado-en-emergencia-y-en-capital-el-rio-supero-cinco-metros",
-      "title": "Creciente: Empedrado en emergencia y en Capital el río superó cinco metros",
-      "volanta": "INUNDACIONES",
-      "date": "2026-10-13T10:18:33+00:00"
     }
   ]
 }
