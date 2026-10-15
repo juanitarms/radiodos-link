@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T22:13:02+00:00",
+  "updated": "2026-10-15T22:13:38+00:00",
   "posts": [
+    {
+      "id": "0e49bd90",
+      "image": "img/0e49bd90.png",
+      "image_sha": "c2f1b50cedf0bf643e68bb7a277881e85ac01abb",
+      "url": "https://www.radiodos.com.ar/215458-se-conocio-el-resultado-de-la-autopsia-de-rona-castro",
+      "title": "Se conoció el resultado de la autopsia de Roña Castro",
+      "volanta": "¿Cuál fue la causa de su muerte?",
+      "date": "2026-10-15T22:13:38+00:00"
+    },
     {
       "id": "58869986",
       "image": "img/58869986.png",
@@ -531,15 +540,6 @@
       "title": "Gustavo Yankelevich recordó el crudo testimonio de su nieto: \"Si te cuento lo que pasa, papá me va a matar\"",
       "volanta": "TERRIBLE",
       "date": "2026-10-13T18:29:22+00:00"
-    },
-    {
-      "id": "c6645e75",
-      "image": "img/c6645e75.png",
-      "image_sha": "94065c9da15c09d7664f02b0bc0b0adfe42b8e0c",
-      "url": "https://www.radiodos.com.ar/215304-hablo-dario-giordano-tras-ser-acusado-de-violencia-fisica-por-sus-hijos-hice-lo-que-pude",
-      "title": "Habló Darío Giordano tras ser acusado de violencia física por sus hijos: \"Hice lo que pude\"",
-      "volanta": "POLÉMICA",
-      "date": "2026-10-13T17:14:06+00:00"
     }
   ]
 }
