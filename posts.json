@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T13:38:46+00:00",
+  "updated": "2026-10-15T13:54:45+00:00",
   "posts": [
+    {
+      "id": "fd8cd86b",
+      "image": "img/fd8cd86b.png",
+      "image_sha": "49a423655338544f1ea39b56233c096e2a764213",
+      "url": "https://www.radiodos.com.ar/215427-el-papa-leon-xiv-agradecio-las-oraciones-y-el-apoyo-de-los-fieles-desde-el-sanatorio-tras-su-cirugia-pulmonar",
+      "title": "El papa León XIV agradeció las oraciones y el apoyo de los fieles desde el sanatorio, tras su cirugía pulmonar",
+      "volanta": "VATICANO",
+      "date": "2026-10-15T13:54:45+00:00"
+    },
     {
       "id": "da6446d9",
       "image": "img/da6446d9.png",
@@ -531,15 +540,6 @@
       "title": "Creciente: Empedrado en emergencia y en Capital el río superó cinco metros",
       "volanta": "INUNDACIONES",
       "date": "2026-10-13T10:18:33+00:00"
-    },
-    {
-      "id": "a3eef3d3",
-      "image": "img/a3eef3d3.png",
-      "image_sha": "1fadb0f722ae48153b88ed94ed1c621a7140b1bf",
-      "url": "https://www.radiodos.com.ar/215257-medicos-del-pami-anuncian-un-paro-de-96-horas-desde-este-martes",
-      "title": "Médicos del PAMI anuncian un paro de 96 horas desde este martes",
-      "volanta": "Reclamo a nación",
-      "date": "2026-10-12T23:04:14+00:00"
     }
   ]
 }
