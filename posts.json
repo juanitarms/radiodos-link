@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T16:38:05+00:00",
+  "updated": "2026-10-15T18:44:03+00:00",
   "posts": [
+    {
+      "id": "b329796b",
+      "image": "img/b329796b.png",
+      "image_sha": "92e77edb322f1390e1cc626addc17691b607d399",
+      "url": "https://www.radiodos.com.ar/215440-estafas-con-visas-para-estados-unidos-extraditaron-al-ciudadano-georgiano-que-habia-sido-detenido-en-palermo",
+      "title": "Estafas con visas para Estados Unidos: extraditaron al ciudadano georgiano que había sido detenido en Palermo",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-10-15T18:44:03+00:00"
+    },
     {
       "id": "b6e7f7d1",
       "image": "img/b6e7f7d1.png",
@@ -531,15 +540,6 @@
       "title": "Marcha Federal por las universidades públicas: la UNNE  se suma a la movilización del jueves 15",
       "volanta": "CORRIENTES Y RESISTENCIA",
       "date": "2026-10-13T13:54:29+00:00"
-    },
-    {
-      "id": "1d59686a",
-      "image": "img/1d59686a.png",
-      "image_sha": "411a49de85fa5f780c35b7300ae52e391c6bf8e8",
-      "url": "https://www.radiodos.com.ar/215285-llevaba-en-moto-un-ternero-robado-lo-dejo-abandonado-y-huyo",
-      "title": "Llevaba en moto un ternero robado, lo dejó abandonado y huyó",
-      "volanta": "LOMAS DE VALLEJOS",
-      "date": "2026-10-13T13:29:52+00:00"
     }
   ]
 }
