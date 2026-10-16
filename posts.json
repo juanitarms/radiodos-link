@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T13:24:00+00:00",
+  "updated": "2026-10-16T13:47:35+00:00",
   "posts": [
+    {
+      "id": "ab9d9072",
+      "image": "img/ab9d9072.png",
+      "image_sha": "3cf6bb55577a994f81fd3b86d90286b66ed89e96",
+      "url": "https://www.radiodos.com.ar/215482-cerraron-playa-molina-punta-y-arazaty-i-y-ii-siguen-habilitadas-con-permanente-monitoreo",
+      "title": "Cerraron playa Molina Punta y Arazaty I y II siguen habilitadas con permanente monitoreo",
+      "volanta": "SITUACIÓN ALARMANTE",
+      "date": "2026-10-16T13:47:35+00:00"
+    },
     {
       "id": "2eecc623",
       "image": "img/2eecc623.png",
@@ -531,15 +540,6 @@
       "title": "Murió el Roña Castro tras descompensarse en un bingo",
       "volanta": "CONMOCIÓN",
       "date": "2026-10-14T11:42:21+00:00"
-    },
-    {
-      "id": "80bee7c7",
-      "image": "img/80bee7c7.png",
-      "image_sha": "49713788b23aae2a7ea70423ca513d37c526de87",
-      "url": "https://www.radiodos.com.ar/215334-corte-total-en-la-ruta-12-en-la-provincia-de-misiones",
-      "title": "Corte total en la Ruta 12 en la provincia de Misiones",
-      "volanta": "ALERTA REGIONAL",
-      "date": "2026-10-14T11:19:31+00:00"
     }
   ]
 }
