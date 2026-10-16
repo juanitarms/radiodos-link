@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T14:40:39+00:00",
+  "updated": "2026-10-16T15:11:43+00:00",
   "posts": [
+    {
+      "id": "770173c5",
+      "image": "img/770173c5.png",
+      "image_sha": "7e9e2bb0fde76c7c1e6fee5b0ce24e6dcee708c9",
+      "url": "https://www.radiodos.com.ar/215495-cinco-menores-demorados-tras-una-batalla-a-hondazos-en-un-barrio-de-corrientes",
+      "title": "Cinco menores demorados tras una \"batalla\" a hondazos en un barrio de Corrientes",
+      "volanta": "BARRIO SAN ANTONIO",
+      "date": "2026-10-16T15:11:43+00:00"
+    },
     {
       "id": "685a528c",
       "image": "img/685a528c.png",
@@ -531,15 +540,6 @@
       "title": "Dos meses de reclusión en un centro juvenil para el joven que apuñaló a un delivery en Corrientes",
       "volanta": "POCO",
       "date": "2026-10-14T12:47:04+00:00"
-    },
-    {
-      "id": "0a0a8225",
-      "image": "img/0a0a8225.png",
-      "image_sha": "86301f0cfbfd6386a6daa681e7558711621ce11e",
-      "url": "https://www.radiodos.com.ar/215335-juan-pablo-valdes-convoco-a-una-reunion-urgente-a-su-gabinete-en-casa-de-gobierno",
-      "title": "Juan Pablo Valdés convocó a una reunión urgente a su Gabinete en Casa de Gobierno",
-      "volanta": "ULTIMO MOMENTO",
-      "date": "2026-10-14T12:30:46+00:00"
     }
   ]
 }
