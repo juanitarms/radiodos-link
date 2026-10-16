@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T11:21:07+00:00",
+  "updated": "2026-10-16T12:19:11+00:00",
   "posts": [
+    {
+      "id": "ee651ba3",
+      "image": "img/ee651ba3.png",
+      "image_sha": "102e2017b30dd3c7a2e204ab529f83df185b0d71",
+      "url": "https://www.radiodos.com.ar/215481-tres-hombres-fueron-demorados-en-distintos-procedimientos",
+      "title": "Tres hombres fueron demorados en distintos procedimientos",
+      "volanta": "DESTACAMENTO SAN MARCOS",
+      "date": "2026-10-16T12:19:11+00:00"
+    },
     {
       "id": "8dfe4aa2",
       "image": "img/8dfe4aa2.png",
@@ -531,15 +540,6 @@
       "title": "Copa Sudamericana: Vasco da Gama dio la sorpresa en La Bombonera y derrotó a Boca",
       "volanta": "Fue 1 a 0",
       "date": "2026-10-14T10:19:23+00:00"
-    },
-    {
-      "id": "92ae895e",
-      "image": "img/92ae895e.png",
-      "image_sha": "71b62c09f0677b4b97611a56151fc3e0ca633494",
-      "url": "https://www.radiodos.com.ar/215320-alerta-del-fbi-hacian-inteligencia-en-la-universidad-de-la-cuenca-del-plata-y-planeaban-un-tiroteo-masivo",
-      "title": "Alerta del FBI: hacían inteligencia en la Universidad de la Cuenca del Plata y planeaban un tiroteo masivo",
-      "volanta": "amenaza de atentado",
-      "date": "2026-10-13T21:21:47+00:00"
     }
   ]
 }
