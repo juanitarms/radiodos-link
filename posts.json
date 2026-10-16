@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T10:26:58+00:00",
+  "updated": "2026-10-16T10:49:22+00:00",
   "posts": [
+    {
+      "id": "1704c75d",
+      "image": "img/1704c75d.png",
+      "image_sha": "4a9750e1e62760472cb6396741b65f82420f4955",
+      "url": "https://www.radiodos.com.ar/215475-en-corrientes-tambien-se-marcho-por-el-cumplimiento-de-la-ley-de-financiamiento-universitario",
+      "title": "En Corrientes también se marchó por el cumplimiento de la Ley de Financiamiento Universitario",
+      "volanta": "MASIVA CONCURRENCIA",
+      "date": "2026-10-16T10:49:22+00:00"
+    },
     {
       "id": "c71416b7",
       "image": "img/c71416b7.png",
@@ -531,15 +540,6 @@
       "title": "Cuenta regresiva para la segunda subasta de la Municipalidad de Corrientes: este miércoles y jueves se podrán ver los vehículos",
       "volanta": "ADMINISTRACIÓN EFICIENTE",
       "date": "2026-10-13T21:10:23+00:00"
-    },
-    {
-      "id": "7772a2f1",
-      "image": "img/7772a2f1.png",
-      "image_sha": "61127492db0a5e0316da803e47f370560c50abac",
-      "url": "https://www.radiodos.com.ar/215315-el-vaticano-informo-que-a-leon-xiv-le-extirparon-un-tumor-maligno-del-pulmon",
-      "title": "El Vaticano informó que a León XIV le extirparon un tumor maligno del pulmón",
-      "volanta": "ALERTA",
-      "date": "2026-10-13T21:00:28+00:00"
     }
   ]
 }
