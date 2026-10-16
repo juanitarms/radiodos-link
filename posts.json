@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T20:09:39+00:00",
+  "updated": "2026-10-16T21:06:11+00:00",
   "posts": [
+    {
+      "id": "82758921",
+      "image": "img/82758921.png",
+      "image_sha": "8f68c30f9f3d55e001710122917edbfc676934fc",
+      "url": "https://www.radiodos.com.ar/215517-el-hospital-geriatrico-de-corrientes-realizo-una-charla-taller-sobre-manejo-de-ofidios-y-suero-antiofidico",
+      "title": "El Hospital Geriátrico de Corrientes realizó una charla-taller sobre manejo de ofidios y suero antiofídico",
+      "volanta": "PREVENCIÓN",
+      "date": "2026-10-16T21:06:11+00:00"
+    },
     {
       "id": "546cb39c",
       "image": "img/546cb39c.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer de 80 años fue atacada por un pitbull y quedó gravemente herida",
       "volanta": "Chivilcoy",
       "date": "2026-10-14T16:32:34+00:00"
-    },
-    {
-      "id": "49deb365",
-      "image": "img/49deb365.png",
-      "image_sha": "e8f2702b4e7253d4f451d5961dc1247c36089ca1",
-      "url": "https://www.radiodos.com.ar/215360-pequenos-productores-intentan-salvar-a-sus-animales-pero-algunos-mueren-en-el-intento-es-desesperante",
-      "title": "Pequeños productores intentan salvar a sus animales, pero algunos mueren en el intento: \"es desesperante\"",
-      "volanta": "EDUARDO CARDOZO",
-      "date": "2026-10-14T16:32:01+00:00"
     }
   ]
 }
