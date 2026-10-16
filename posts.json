@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T12:19:11+00:00",
+  "updated": "2026-10-16T12:44:14+00:00",
   "posts": [
+    {
+      "id": "5d230c64",
+      "image": "img/5d230c64.png",
+      "image_sha": "b87b17d9f64b4067935816d6612b71d3278470bd",
+      "url": "https://www.radiodos.com.ar/215480-secuestran-un-camion-jaula-con-irregularidades-que-trasladaba-ovinos",
+      "title": "Secuestran un camión jaula con irregularidades que trasladaba ovinos",
+      "volanta": "MOCORETA",
+      "date": "2026-10-16T12:44:14+00:00"
+    },
     {
       "id": "ee651ba3",
       "image": "img/ee651ba3.png",
@@ -531,15 +540,6 @@
       "title": "Champions League: Barcelona y Sporting lideran con puntaje ideal",
       "volanta": "Así marcha el certamen europeo",
       "date": "2026-10-14T10:38:30+00:00"
-    },
-    {
-      "id": "72651366",
-      "image": "img/72651366.png",
-      "image_sha": "3bd7053a2dc4bddb73062e4eab24f8bf6376a79e",
-      "url": "https://www.radiodos.com.ar/215330-copa-sudamericana-vasco-da-gama-dio-la-sorpresa-en-la-bombonera-y-derroto-a-boca",
-      "title": "Copa Sudamericana: Vasco da Gama dio la sorpresa en La Bombonera y derrotó a Boca",
-      "volanta": "Fue 1 a 0",
-      "date": "2026-10-14T10:19:23+00:00"
     }
   ]
 }
