@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T22:14:44+00:00",
+  "updated": "2026-10-16T10:26:58+00:00",
   "posts": [
+    {
+      "id": "c71416b7",
+      "image": "img/c71416b7.png",
+      "image_sha": "8d72ffa576e8aded7abc0575671134d602ec2593",
+      "url": "https://www.radiodos.com.ar/215469-la-municipalidad-de-corrientes-prohibio-el-acceso-a-la-playa-molina-punta",
+      "title": "La Municipalidad de Corrientes prohibió el acceso a la playa Molina Punta",
+      "volanta": "Debido a la crecida del río Paraná",
+      "date": "2026-10-16T10:26:58+00:00"
+    },
     {
       "id": "c16caa4c",
       "image": "img/c16caa4c.png",
@@ -531,15 +540,6 @@
       "title": "El Vaticano informó que a León XIV le extirparon un tumor maligno del pulmón",
       "volanta": "ALERTA",
       "date": "2026-10-13T21:00:28+00:00"
-    },
-    {
-      "id": "8a487114",
-      "image": "img/8a487114.png",
-      "image_sha": "bcc8b4e96cb0325ff9efb986959dc0722a40fbe5",
-      "url": "https://www.radiodos.com.ar/215305-menos-de-un-mes-despues-del-casamiento-julieta-prandi-anuncio-su-separacion-de-emanuel-ortega",
-      "title": "Menos de un mes después del casamiento, Julieta Prandi anunció su separación de Emanuel Ortega",
-      "volanta": "SORPRESA",
-      "date": "2026-10-13T18:29:55+00:00"
     }
   ]
 }
