@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T18:22:21+00:00",
+  "updated": "2026-10-16T20:09:39+00:00",
   "posts": [
+    {
+      "id": "546cb39c",
+      "image": "img/546cb39c.png",
+      "image_sha": "43112656400c9d2ce8616f71fb0e7d5c46d6c900",
+      "url": "https://www.radiodos.com.ar/215514-joven-motociclista-murio-atropellada-por-un-colectivo-en-la-ruta-5-de-corrientes",
+      "title": "Joven motociclista murió atropellada por un colectivo en la Ruta 5 de Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-10-16T20:09:39+00:00"
+    },
     {
       "id": "95187f08",
       "image": "img/95187f08.png",
@@ -531,15 +540,6 @@
       "title": "Pequeños productores intentan salvar a sus animales, pero algunos mueren en el intento: \"es desesperante\"",
       "volanta": "EDUARDO CARDOZO",
       "date": "2026-10-14T16:32:01+00:00"
-    },
-    {
-      "id": "b8955559",
-      "image": "img/b8955559.png",
-      "image_sha": "9b25ca5bdbe884297c290f6a49ca0f57e12b9bb3",
-      "url": "https://www.radiodos.com.ar/215363-mama-del-delibery-atacado-en-un-robo-fue-intento-de-homicidio",
-      "title": "Mamá del delibery atacado en un robo: \"Fue intento de homicidio\"",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-14T16:31:22+00:00"
     }
   ]
 }
