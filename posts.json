@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T17:31:09+00:00",
+  "updated": "2026-10-16T18:21:04+00:00",
   "posts": [
+    {
+      "id": "970492d3",
+      "image": "img/970492d3.png",
+      "image_sha": "efa9b3bfcdd5d9daf166ce0d6b4fc27ca246a8c3",
+      "url": "https://www.radiodos.com.ar/215512-encontraron-muerta-a-una-joven-dentro-de-una-heladera-y-buscan-a-su-pareja",
+      "title": "Encontraron muerta a una joven dentro de una heladera y buscan a su pareja",
+      "volanta": "Córdoba",
+      "date": "2026-10-16T18:21:04+00:00"
+    },
     {
       "id": "42e0b567",
       "image": "img/42e0b567.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei inicia este miércoles una nueva agenda en los Estados Unidos: a qué viajó ahora",
       "volanta": "Gira",
       "date": "2026-10-14T14:15:27+00:00"
-    },
-    {
-      "id": "b6a64f7b",
-      "image": "img/b6a64f7b.png",
-      "image_sha": "1eaf4a502e56566ec874a55456f8f5b44061aae2",
-      "url": "https://www.radiodos.com.ar/215348-salud-prohibieron-la-venta-de-un-popular-juguete-importado-de-china-por-contener-sustancias-toxicas",
-      "title": "Salud: prohibieron la venta de un popular juguete importado de China por contener sustancias tóxicas",
-      "volanta": "OFICIAL",
-      "date": "2026-10-14T13:40:58+00:00"
     }
   ]
 }
