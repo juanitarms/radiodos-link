@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T15:11:43+00:00",
+  "updated": "2026-10-16T17:30:01+00:00",
   "posts": [
+    {
+      "id": "5e380125",
+      "image": "img/5e380125.png",
+      "image_sha": "28596b427291ef24c23c268cc908c8113d193d23",
+      "url": "https://www.radiodos.com.ar/215509-la-anmat-prohibio-un-dispositivo-de-depilacion-definitiva-por-irregularidades-sanitarias",
+      "title": "La ANMAT prohibió un dispositivo de depilación definitiva por irregularidades sanitarias",
+      "volanta": "OFICIAL",
+      "date": "2026-10-16T17:30:01+00:00"
+    },
     {
       "id": "770173c5",
       "image": "img/770173c5.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes registró un 80% de ocupación hotelera y un impacto económico superior a los $6.000 millones",
       "volanta": "BALANCE DEL FIN DE SEMANA LARGO",
       "date": "2026-10-14T13:07:32+00:00"
-    },
-    {
-      "id": "5909de0c",
-      "image": "img/5909de0c.png",
-      "image_sha": "02e3a0379e5bd9545d097552884bc373b57f2784",
-      "url": "https://www.radiodos.com.ar/215337-dos-meses-de-reclusion-en-un-centro-juvenil-para-el-joven-que-apunalo-a-un-delivery-en-corrientes",
-      "title": "Dos meses de reclusión en un centro juvenil para el joven que apuñaló a un delivery en Corrientes",
-      "volanta": "POCO",
-      "date": "2026-10-14T12:47:04+00:00"
     }
   ]
 }
