@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T12:44:14+00:00",
+  "updated": "2026-10-16T13:09:34+00:00",
   "posts": [
+    {
+      "id": "7722458f",
+      "image": "img/7722458f.png",
+      "image_sha": "8cc779923d6fc62df2162339a608d3c3fe567a43",
+      "url": "https://www.radiodos.com.ar/215484-claudio-barrelier-grabo-un-video-desde-la-carcel-la-reaccion-de-la-madre-de-agostina-vega",
+      "title": "Claudio Barrelier grabó un video desde la cárcel: la reacción de la madre de Agostina Vega",
+      "volanta": "FEMICIDIO",
+      "date": "2026-10-16T13:09:34+00:00"
+    },
     {
       "id": "5d230c64",
       "image": "img/5d230c64.png",
@@ -531,15 +540,6 @@
       "title": "Heridos tras accidente náutico en Itatí: lancha impactó contra una embarcación de Prefectura",
       "volanta": "EN HORAS DE LA NOCHE",
       "date": "2026-10-14T11:05:11+00:00"
-    },
-    {
-      "id": "68dfc11a",
-      "image": "img/68dfc11a.png",
-      "image_sha": "71bd611cb9510dfdf1ecd048b55c90f573780e6a",
-      "url": "https://www.radiodos.com.ar/215331-champions-league-barcelona-y-sporting-lideran-con-puntaje-ideal",
-      "title": "Champions League: Barcelona y Sporting lideran con puntaje ideal",
-      "volanta": "Así marcha el certamen europeo",
-      "date": "2026-10-14T10:38:30+00:00"
     }
   ]
 }
