@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T13:47:35+00:00",
+  "updated": "2026-10-16T14:40:39+00:00",
   "posts": [
+    {
+      "id": "685a528c",
+      "image": "img/685a528c.png",
+      "image_sha": "9af2bfbe7aed6f6740049e9933b5e9ee2a59778f",
+      "url": "https://www.radiodos.com.ar/215493-el-vaticano-publico-la-primera-foto-del-papa-leon-xiv-tras-la-operacion-del-tumor-maligno-de-pulmon",
+      "title": "El Vaticano publicó la primera foto del papa León XIV tras la operación del tumor maligno de pulmón",
+      "volanta": "EN RECUPERACIÓN",
+      "date": "2026-10-16T14:40:39+00:00"
+    },
     {
       "id": "ab9d9072",
       "image": "img/ab9d9072.png",
@@ -531,15 +540,6 @@
       "title": "Juan Pablo Valdés convocó a una reunión urgente a su Gabinete en Casa de Gobierno",
       "volanta": "ULTIMO MOMENTO",
       "date": "2026-10-14T12:30:46+00:00"
-    },
-    {
-      "id": "d4cacb07",
-      "image": "img/d4cacb07.png",
-      "image_sha": "5e4d6e9280324a99a0568a533a0b2e626190eaa1",
-      "url": "https://www.radiodos.com.ar/215336-murio-el-rona-castro-tras-descompensarse-en-un-bingo",
-      "title": "Murió el Roña Castro tras descompensarse en un bingo",
-      "volanta": "CONMOCIÓN",
-      "date": "2026-10-14T11:42:21+00:00"
     }
   ]
 }
