@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T10:49:22+00:00",
+  "updated": "2026-10-16T11:00:46+00:00",
   "posts": [
+    {
+      "id": "560173a5",
+      "image": "img/560173a5.png",
+      "image_sha": "2c909de6516a9a89dc0c3882a8dd563b2ac714cf",
+      "url": "https://www.radiodos.com.ar/215471-el-gobernador-juan-pablo-valdes-continua-recorriendo-las-zonas-afectadas-por-la-crecida-del-parana",
+      "title": "El gobernador Juan Pablo Valdés continúa recorriendo las zonas afectadas por la crecida del Paraná",
+      "volanta": "EN ITATI",
+      "date": "2026-10-16T11:00:46+00:00"
+    },
     {
       "id": "1704c75d",
       "image": "img/1704c75d.png",
@@ -531,15 +540,6 @@
       "title": "Canasta básica: una familia tipo necesitó $1.632.505 para no ser pobre en septiembre",
       "volanta": "DATOS OFICIALES",
       "date": "2026-10-13T21:21:13+00:00"
-    },
-    {
-      "id": "2e1de70b",
-      "image": "img/2e1de70b.png",
-      "image_sha": "4e97fb4142a49605a01bd4f29cb02ce41b47234a",
-      "url": "https://www.radiodos.com.ar/215316-cuenta-regresiva-para-la-segunda-subasta-de-la-municipalidad-de-corrientes-este-miercoles-y-jueves-se-podran-ver-los-vehiculos",
-      "title": "Cuenta regresiva para la segunda subasta de la Municipalidad de Corrientes: este miércoles y jueves se podrán ver los vehículos",
-      "volanta": "ADMINISTRACIÓN EFICIENTE",
-      "date": "2026-10-13T21:10:23+00:00"
     }
   ]
 }
