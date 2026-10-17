@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T12:57:52+00:00",
+  "updated": "2026-10-17T16:22:05+00:00",
   "posts": [
+    {
+      "id": "cf6001bd",
+      "image": "img/cf6001bd.png",
+      "image_sha": "73e695bb3b65bb83294efa1b907963eee387117c",
+      "url": "https://www.radiodos.com.ar/215539-el-rio-parana-alcanzo-los-650-metros-en-la-ciudad-de-corrientes-y-podria-alcanzar-los-720-la-proxima-semana",
+      "title": "El río Paraná alcanzó los 6,50 metros en la ciudad de Corrientes y podría alcanzar los 7,20 la próxima semana",
+      "volanta": "ALERTA MÁXIMA",
+      "date": "2026-10-17T16:22:05+00:00"
+    },
     {
       "id": "4cd7a285",
       "image": "img/4cd7a285.png",
@@ -531,15 +540,6 @@
       "title": "El Niño golpea al Litoral: Yacyretá abrió sus compuertas después de tres años por la crecida de ríos",
       "volanta": "Alerta en zonas ribereñas correntinas",
       "date": "2026-10-14T20:21:53+00:00"
-    },
-    {
-      "id": "7258f13c",
-      "image": "img/7258f13c.png",
-      "image_sha": "990061f1dd29be9185be8f12fc096a6762afc3a8",
-      "url": "https://www.radiodos.com.ar/215378-horarios-especiales-y-operativos-de-transito-en-los-cementerios-por-el-dia-de-la-madre",
-      "title": "Horarios especiales y operativos de tránsito en los cementerios por el Día de la Madre",
-      "volanta": "INFORMACIÓN ÚTIL",
-      "date": "2026-10-14T19:29:23+00:00"
     }
   ]
 }
