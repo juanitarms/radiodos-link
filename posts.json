@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T17:27:45+00:00",
+  "updated": "2026-10-17T19:07:23+00:00",
   "posts": [
+    {
+      "id": "a081ed98",
+      "image": "img/a081ed98.png",
+      "image_sha": "12b76febe9bb9d7d39be1dd5accfef5fdf6520cb",
+      "url": "https://www.radiodos.com.ar/215540-avance-e-ingreso-de-la-crecida-del-rio-parana-en-isla-cerrito",
+      "title": "Avance e Ingreso de la Crecida del Río Paraná en Isla Cerrito",
+      "volanta": "Desastre Natural",
+      "date": "2026-10-17T19:07:23+00:00"
+    },
     {
       "id": "eb193a31",
       "image": "img/eb193a31.png",
@@ -531,15 +540,6 @@
       "title": "Las mujeres representan más del 57% del personal del Poder Judicial de Corrientes",
       "volanta": "MAPA DE GÉNERO 2026",
       "date": "2026-10-14T22:10:00+00:00"
-    },
-    {
-      "id": "004d221d",
-      "image": "img/004d221d.png",
-      "image_sha": "54a3dd70572cb1791ebe40c24804148213e24ace",
-      "url": "https://www.radiodos.com.ar/215381-se-reunio-el-coe-para-coordinar-acciones-ante-los-efectos-de-el-nino-en-corrientes",
-      "title": "Se reunió el COE para coordinar acciones ante los efectos de \"El Niño\" en Corrientes",
-      "volanta": "CONVOCATORIA DE VALDES",
-      "date": "2026-10-14T20:22:26+00:00"
     }
   ]
 }
