@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T12:16:50+00:00",
+  "updated": "2026-10-17T12:57:52+00:00",
   "posts": [
+    {
+      "id": "4cd7a285",
+      "image": "img/4cd7a285.png",
+      "image_sha": "8244da26bf66c65de2cd9e350e6bfd3f59e4be52",
+      "url": "https://www.radiodos.com.ar/215531-dia-de-la-madre-en-corrientes-los-comercios-aun-no-logran-superar-las-ventas-del-ano-pasado",
+      "title": "Día de la Madre en Corrientes: los comercios aún no logran superar las ventas del año pasado",
+      "volanta": "DIA ESPECIAL",
+      "date": "2026-10-17T12:57:52+00:00"
+    },
     {
       "id": "764298f7",
       "image": "img/764298f7.png",
@@ -531,15 +540,6 @@
       "title": "Horarios especiales y operativos de tránsito en los cementerios por el Día de la Madre",
       "volanta": "INFORMACIÓN ÚTIL",
       "date": "2026-10-14T19:29:23+00:00"
-    },
-    {
-      "id": "8cd93731",
-      "image": "img/8cd93731.png",
-      "image_sha": "dab62ee4eae7d0423c41c7b019fa33a899ae32b9",
-      "url": "https://www.radiodos.com.ar/215375-claudio-polich-buscamos-garantizar-la-correcta-atencion-a-las-personas-damnificadas-por-la-creciente-del-rio-parana",
-      "title": "Claudio Polich: \"Buscamos garantizar la correcta atención a las personas damnificadas por la creciente del río Paraná\"",
-      "volanta": "EN CASA DE GOBIERNO",
-      "date": "2026-10-14T19:28:48+00:00"
     }
   ]
 }
