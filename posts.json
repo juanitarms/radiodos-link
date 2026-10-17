@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T19:07:23+00:00",
+  "updated": "2026-10-17T20:36:13+00:00",
   "posts": [
+    {
+      "id": "8e19e23e",
+      "image": "img/8e19e23e.png",
+      "image_sha": "6d3c2348056e97d7c0917fe44cf9c8905bdbaa47",
+      "url": "https://www.radiodos.com.ar/215541-avance-de-las-aguas-en-la-playa-yvaga-punta-norte-en-ituzaingo",
+      "title": "Avance de las aguas en la Playa Yvaga Punta Norte en Ituzaingó",
+      "volanta": "Crecida del Río Paraná",
+      "date": "2026-10-17T20:36:13+00:00"
+    },
     {
       "id": "a081ed98",
       "image": "img/a081ed98.png",
@@ -531,15 +540,6 @@
       "title": "El Reino Unido anunció actos por los 45° años de la Guerra de Malvinas y habló de \"liberación\"",
       "volanta": "PARA 2027",
       "date": "2026-10-14T22:10:33+00:00"
-    },
-    {
-      "id": "ce1643ff",
-      "image": "img/ce1643ff.png",
-      "image_sha": "2b5134ef1987f0cb479f49216fdac931e95704ce",
-      "url": "https://www.radiodos.com.ar/215385-las-mujeres-representan-mas-del-57-del-personal-del-poder-judicial-de-corrientes",
-      "title": "Las mujeres representan más del 57% del personal del Poder Judicial de Corrientes",
-      "volanta": "MAPA DE GÉNERO 2026",
-      "date": "2026-10-14T22:10:00+00:00"
     }
   ]
 }
