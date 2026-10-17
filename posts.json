@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T16:22:05+00:00",
+  "updated": "2026-10-17T17:27:45+00:00",
   "posts": [
+    {
+      "id": "eb193a31",
+      "image": "img/eb193a31.png",
+      "image_sha": "5a96d4d5fbdc1b3fe22d41262629103a07f2a9ae",
+      "url": "https://www.radiodos.com.ar/215538-impresionante-despliegue-mas-de-80-policias-drones-caballos-y-canes-para-buscar-a-la-maestra-rural-desaparecida-en-corrientes",
+      "title": "Impresionante despliegue: más de 80 policías, drones, caballos y canes para buscar a la maestra rural desaparecida en Corrientes",
+      "volanta": "AHORA",
+      "date": "2026-10-17T17:27:45+00:00"
+    },
     {
       "id": "cf6001bd",
       "image": "img/cf6001bd.png",
@@ -531,15 +540,6 @@
       "title": "Se reunió el COE para coordinar acciones ante los efectos de \"El Niño\" en Corrientes",
       "volanta": "CONVOCATORIA DE VALDES",
       "date": "2026-10-14T20:22:26+00:00"
-    },
-    {
-      "id": "54c77d1b",
-      "image": "img/54c77d1b.png",
-      "image_sha": "7e2d34c7d152f2f95e62b158a825a3e17936b476",
-      "url": "https://www.radiodos.com.ar/215380-el-nino-golpea-al-litoral-yacyreta-abrio-sus-compuertas-despues-de-tres-anos-por-la-crecida-de-rios",
-      "title": "El Niño golpea al Litoral: Yacyretá abrió sus compuertas después de tres años por la crecida de ríos",
-      "volanta": "Alerta en zonas ribereñas correntinas",
-      "date": "2026-10-14T20:21:53+00:00"
     }
   ]
 }
