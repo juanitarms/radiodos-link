@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T02:37:50+00:00",
+  "updated": "2026-10-17T12:16:50+00:00",
   "posts": [
+    {
+      "id": "764298f7",
+      "image": "img/764298f7.png",
+      "image_sha": "7b95ec47f4780481d3ecd4d134e6aedd8590c9aa",
+      "url": "https://www.radiodos.com.ar/215529-el-rio-parana-sigue-creciendo-en-las-costas-de-la-ciudad-de-corrientes",
+      "title": "El río Paraná sigue creciendo en las costas de la ciudad de Corrientes",
+      "volanta": "INUNDACIONES",
+      "date": "2026-10-17T12:16:50+00:00"
+    },
     {
       "id": "5d487cb3",
       "image": "img/5d487cb3.png",
@@ -531,15 +540,6 @@
       "title": "Claudio Polich: \"Buscamos garantizar la correcta atención a las personas damnificadas por la creciente del río Paraná\"",
       "volanta": "EN CASA DE GOBIERNO",
       "date": "2026-10-14T19:28:48+00:00"
-    },
-    {
-      "id": "cb302680",
-      "image": "img/cb302680.png",
-      "image_sha": "52b1d8216dde9ad6b5006f2f023d812652f4aed3",
-      "url": "https://www.radiodos.com.ar/215373-encontraron-una-persona-fallecida-en-un-edificio-de-junin-al-700",
-      "title": "Encontraron una persona fallecida en un edificio de Junín al 700",
-      "volanta": "ESTE MEDIODÍA",
-      "date": "2026-10-14T17:41:59+00:00"
     }
   ]
 }
