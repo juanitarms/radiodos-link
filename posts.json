@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T21:16:47+00:00",
+  "updated": "2026-10-18T22:36:30+00:00",
   "posts": [
+    {
+      "id": "b579cb7b",
+      "image": "img/b579cb7b.png",
+      "image_sha": "343dfa185391d27ee5aa42254e282ff18492fc81",
+      "url": "https://www.radiodos.com.ar/215582-trfa-en-diez-minutos-lo-dio-vuelta-el-sabalero-escapo-de-la-serie-de-penales-y-ahora-va-por-lipton",
+      "title": "TRFA: En diez minutos lo dio vuelta el Sabalero, escapó de la serie de penales y ahora va por Lipton",
+      "volanta": "DEPORTES",
+      "date": "2026-10-18T22:36:30+00:00"
+    },
     {
       "id": "73b9c694",
       "image": "img/73b9c694.png",
@@ -531,15 +540,6 @@
       "title": "Plus de Refuerzo: el pago de octubre comienza este viernes 16",
       "volanta": "DE INTERES",
       "date": "2026-10-15T11:49:07+00:00"
-    },
-    {
-      "id": "480e9422",
-      "image": "img/480e9422.png",
-      "image_sha": "5ceaa29932f420242ae2138a77ee5ec7e77e4cda",
-      "url": "https://www.radiodos.com.ar/215396-creciente-se-interrumpio-el-transito-en-dos-puentes-de-ruta-nacional-12",
-      "title": "Creciente: se interrumpió el tránsito en dos puentes de Ruta Nacional 12",
-      "volanta": "INUNDACIONES",
-      "date": "2026-10-15T11:22:18+00:00"
     }
   ]
 }
