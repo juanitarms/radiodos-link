@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T14:53:44+00:00",
+  "updated": "2026-10-18T21:16:10+00:00",
   "posts": [
+    {
+      "id": "848d5d1e",
+      "image": "img/848d5d1e.png",
+      "image_sha": "c283a14066a57550a258a16a80db13ebf478191b",
+      "url": "https://www.radiodos.com.ar/215581-valdes-sobre-la-creciente-del-parana-esperemos-que-la-bajante-se-refleje-en-itati-y-paso-de-la-patria",
+      "title": "Valdés sobre la creciente del Paraná: \"Esperemos que la bajante se refleje en Itatí y Paso de la Patria\"",
+      "volanta": "EL NIÑO",
+      "date": "2026-10-18T21:16:10+00:00"
+    },
     {
       "id": "bf718f2d",
       "image": "img/bf718f2d.png",
@@ -531,15 +540,6 @@
       "title": "Marcha Federal por las universidades públicas: UNNE se moviliza en Corrientes y Resistencia",
       "volanta": "DESDE LAS 17:30",
       "date": "2026-10-15T10:55:06+00:00"
-    },
-    {
-      "id": "e71dafab",
-      "image": "img/e71dafab.png",
-      "image_sha": "0fc6f4a41e70ef6a197c83cef20e8657ad31baae",
-      "url": "https://www.radiodos.com.ar/215394-torneo-clausura-empate-con-sabor-a-poco-en-junin-entre-sarmiento-y-river",
-      "title": "Torneo Clausura: Empate con sabor a poco en Junín  entre Sarmiento y River",
-      "volanta": "FÚTBOL",
-      "date": "2026-10-15T01:50:37+00:00"
     }
   ]
 }
