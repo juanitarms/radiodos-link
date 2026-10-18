@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T13:48:32+00:00",
+  "updated": "2026-10-18T14:53:44+00:00",
   "posts": [
+    {
+      "id": "bf718f2d",
+      "image": "img/bf718f2d.png",
+      "image_sha": "dab717921fac62f0bf94cc041ba1db6d0da663fd",
+      "url": "https://www.radiodos.com.ar/215579-buscan-a-peones-rurales-que-desaparecieron-en-isla-ibira-pita",
+      "title": "Buscan a peones rurales que desaparecieron en Isla Ibirá Pitá",
+      "volanta": "Frente a bella vista",
+      "date": "2026-10-18T14:53:44+00:00"
+    },
     {
       "id": "315b4cf3",
       "image": "img/315b4cf3.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Empate con sabor a poco en Junín  entre Sarmiento y River",
       "volanta": "FÚTBOL",
       "date": "2026-10-15T01:50:37+00:00"
-    },
-    {
-      "id": "7fa0ccea",
-      "image": "img/7fa0ccea.png",
-      "image_sha": "779a7013a18e46549e4249fc7916c0008c721eca",
-      "url": "https://www.radiodos.com.ar/215390-el-76-prefiere-una-mejora-de-los-ingresos-antes-que-una-baja-de-la-inflacion",
-      "title": "El 76% prefiere una mejora de los ingresos antes que una baja de la inflación",
-      "volanta": "encuesta",
-      "date": "2026-10-14T22:14:08+00:00"
     }
   ]
 }
