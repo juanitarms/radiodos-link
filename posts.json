@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T11:59:42+00:00",
+  "updated": "2026-10-18T13:12:02+00:00",
   "posts": [
+    {
+      "id": "3a75182b",
+      "image": "img/3a75182b.png",
+      "image_sha": "3ade88455b92bf3acd10937a44fe7b3c003f5841",
+      "url": "https://www.radiodos.com.ar/215576-mls-triunfo-y-doblete-con-magia-de-messi",
+      "title": "MLS: Triunfo y doblete con magia de Messi",
+      "volanta": "936 goles",
+      "date": "2026-10-18T13:12:02+00:00"
+    },
     {
       "id": "99f9f7fd",
       "image": "img/99f9f7fd.png",
@@ -531,15 +540,6 @@
       "title": "Alarma para el campo correntino: cuatro actividades clave de la provincia continúan en crisis",
       "volanta": "Semáforo de CONINAGRO:",
       "date": "2026-10-14T22:13:02+00:00"
-    },
-    {
-      "id": "31904b7b",
-      "image": "img/31904b7b.png",
-      "image_sha": "a0581ec1f9167744c762c43fc79ac1498ef82ef5",
-      "url": "https://www.radiodos.com.ar/215383-el-estremecedor-mensaje-del-mejor-amigo-de-jorge-rona-castro-luego-de-su-muerte-se-fue-mi-hermano",
-      "title": "El estremecedor mensaje del mejor amigo de Jorge Roña Castro luego de su muerte: \"Se fue mi hermano\"",
-      "volanta": "Murió a los 59 años",
-      "date": "2026-10-14T22:12:28+00:00"
     }
   ]
 }
