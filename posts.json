@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T13:12:02+00:00",
+  "updated": "2026-10-18T13:33:42+00:00",
   "posts": [
+    {
+      "id": "c7459559",
+      "image": "img/c7459559.png",
+      "image_sha": "f2815eed6e85d788048ea1f65049e8cdce6c981d",
+      "url": "https://www.radiodos.com.ar/215578-prefectura-activo-la-etapa-de-alerta-en-corrientes",
+      "title": "Prefectura activó la etapa de alerta en Corrientes",
+      "volanta": "FENÓMENO DE EL NIÑO",
+      "date": "2026-10-18T13:33:42+00:00"
+    },
     {
       "id": "3a75182b",
       "image": "img/3a75182b.png",
@@ -531,15 +540,6 @@
       "title": "Imponen multa de $100.000 diarios a Santilli por incumplir la Ley de Financiamiento Universitario",
       "volanta": "REVÉS PARA EL GOBIERNO",
       "date": "2026-10-14T22:13:35+00:00"
-    },
-    {
-      "id": "bf51d83e",
-      "image": "img/bf51d83e.png",
-      "image_sha": "e8ec585477dd12650ae1fdb83b757db9ad33bdd7",
-      "url": "https://www.radiodos.com.ar/215387-alarma-para-el-campo-correntino-cuatro-actividades-clave-de-la-provincia-continuan-en-crisis",
-      "title": "Alarma para el campo correntino: cuatro actividades clave de la provincia continúan en crisis",
-      "volanta": "Semáforo de CONINAGRO:",
-      "date": "2026-10-14T22:13:02+00:00"
     }
   ]
 }
