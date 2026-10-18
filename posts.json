@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T21:16:10+00:00",
+  "updated": "2026-10-18T21:16:47+00:00",
   "posts": [
+    {
+      "id": "73b9c694",
+      "image": "img/73b9c694.png",
+      "image_sha": "fa4e51af00d51f2c6986d81e9de8edea8e0d7649",
+      "url": "https://www.radiodos.com.ar/215580-crecida-del-parana-34-familias-evacuadas-y-otras-24-autoevacuadas-en-itati",
+      "title": "Crecida del Paraná: 34 familias evacuadas y otras 24 autoevacuadas en Itatí",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-18T21:16:47+00:00"
+    },
     {
       "id": "848d5d1e",
       "image": "img/848d5d1e.png",
@@ -531,15 +540,6 @@
       "title": "Creciente: se interrumpió el tránsito en dos puentes de Ruta Nacional 12",
       "volanta": "INUNDACIONES",
       "date": "2026-10-15T11:22:18+00:00"
-    },
-    {
-      "id": "9c3e1081",
-      "image": "img/9c3e1081.png",
-      "image_sha": "93290e34fff4c356ba1120c78a78c632b170a5bc",
-      "url": "https://www.radiodos.com.ar/215395-marcha-federal-por-las-universidades-publicas-unne-se-moviliza-en-corrientes-y-resistencia",
-      "title": "Marcha Federal por las universidades públicas: UNNE se moviliza en Corrientes y Resistencia",
-      "volanta": "DESDE LAS 17:30",
-      "date": "2026-10-15T10:55:06+00:00"
     }
   ]
 }
