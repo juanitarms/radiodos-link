@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T23:52:10+00:00",
+  "updated": "2026-10-18T00:49:19+00:00",
   "posts": [
+    {
+      "id": "8ab31285",
+      "image": "img/8ab31285.png",
+      "image_sha": "fea3555717f63a4b94ef90da0bb2a3dcf37cff7f",
+      "url": "https://www.radiodos.com.ar/215574-torneo-clausura-a-la-lepra-mendocina-se-le-escapo-al-final-y-la-tabla-anual-esta-al-rojo-vivo",
+      "title": "Torneo Clausura: A la Lepra Mendocina se le escapó al final y la tabla anual está al rojo vivo",
+      "volanta": "Fue 2 a 2",
+      "date": "2026-10-18T00:49:19+00:00"
+    },
     {
       "id": "3d687ea8",
       "image": "img/3d687ea8.png",
@@ -531,15 +540,6 @@
       "title": "Agredió a una inspectora municipal, intentó esconderse en \"El Piso\" y fue detenida",
       "volanta": "CORRIENTES",
       "date": "2026-10-14T22:11:56+00:00"
-    },
-    {
-      "id": "77cdfd46",
-      "image": "img/77cdfd46.png",
-      "image_sha": "27bc2fc78efe589f11e456eafc0f8c2327dd0945",
-      "url": "https://www.radiodos.com.ar/215382-el-caso-loan-sumo-un-nuevo-detenido",
-      "title": "El caso Loan sumó un nuevo detenido",
-      "volanta": "SIGUE EL JUICIO",
-      "date": "2026-10-14T22:11:05+00:00"
     }
   ]
 }
