@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T22:12:10+00:00",
+  "updated": "2026-10-19T22:12:42+00:00",
   "posts": [
+    {
+      "id": "7e163a9e",
+      "image": "img/7e163a9e.png",
+      "image_sha": "a3a4a8e0db6466908a5fe6f8a8dbf92a8ce854af",
+      "url": "https://www.radiodos.com.ar/215651-crecida-del-rio-parana-todos-los-puertos-al-norte-de-corrientes-estan-estacionados",
+      "title": "Crecida del río Paraná: todos los puertos al norte de Corrientes están estacionados",
+      "volanta": "AHORA",
+      "date": "2026-10-19T22:12:42+00:00"
+    },
     {
       "id": "1e85a26c",
       "image": "img/1e85a26c.png",
@@ -531,15 +540,6 @@
       "title": "Violentos incidentes en la Marcha Federal Universitaria: continúan los enfrentamientos con la Policía en CABA",
       "volanta": "AHORA",
       "date": "2026-10-15T22:13:02+00:00"
-    },
-    {
-      "id": "0f0466ba",
-      "image": "img/0f0466ba.png",
-      "image_sha": "fe55bdbe91bb6bc8c83fcb876a7261aac798cb35",
-      "url": "https://www.radiodos.com.ar/215456-el-nino-en-corrientes-jp-valdes-recorrio-zonas-afectadas-en-itati-y-coordino-asistencia-a-familias",
-      "title": "El Niño en Corrientes: JP Valdés recorrió zonas afectadas en Itatí y coordinó asistencia a familias",
-      "volanta": "ESTA TARDE",
-      "date": "2026-10-15T22:12:31+00:00"
     }
   ]
 }
