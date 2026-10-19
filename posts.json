@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T18:33:36+00:00",
+  "updated": "2026-10-19T21:05:27+00:00",
   "posts": [
+    {
+      "id": "aa0765c4",
+      "image": "img/aa0765c4.png",
+      "image_sha": "05a929268fa0159fa807ebb2794b3a455edf056c",
+      "url": "https://www.radiodos.com.ar/215647-maestra-desaparecida-en-corrientes-encontraron-ropa-y-una-cuchilla-con-sangre-en-la-casa-del-peon-detenido",
+      "title": "Maestra desaparecida en Corrientes: encontraron ropa y una cuchilla con sangre en la casa del peón detenido",
+      "volanta": "MUCHO MISTERIO",
+      "date": "2026-10-19T21:05:27+00:00"
+    },
     {
       "id": "c96f4715",
       "image": "img/c96f4715.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno activó la mesa de monitoreo federal ante el impacto del fenómeno de El Niño en el norte del país",
       "volanta": "DIÁLOGO",
       "date": "2026-10-15T18:45:08+00:00"
-    },
-    {
-      "id": "4e6f6f18",
-      "image": "img/4e6f6f18.png",
-      "image_sha": "871ca66596d332c6cf91d17a25b47229d8835cac",
-      "url": "https://www.radiodos.com.ar/215441-santos-regis-y-fernandez-codazzi-iran-a-juicio-el-26-de-octubre-por-tentativa-de-homicidio-y-otros-delitos",
-      "title": "Santos Regis y Fernández Codazzi irán a juicio el 26 de octubre por tentativa de homicidio y otros delitos",
-      "volanta": "GOYA",
-      "date": "2026-10-15T18:44:37+00:00"
     }
   ]
 }
