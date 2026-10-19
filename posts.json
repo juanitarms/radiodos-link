@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T15:04:16+00:00",
+  "updated": "2026-10-19T17:15:39+00:00",
   "posts": [
+    {
+      "id": "2913fdef",
+      "image": "img/2913fdef.png",
+      "image_sha": "0fbc3629fb9a2b05c9d863cd0b89871c515601d7",
+      "url": "https://www.radiodos.com.ar/215638-docente-desaparecida-disponen-que-otra-fiscal-colabore-en-la-investigacion",
+      "title": "Docente desaparecida: Disponen que otra fiscal colabore en la investigación",
+      "volanta": "ESQUINA",
+      "date": "2026-10-19T17:15:39+00:00"
+    },
     {
       "id": "62996866",
       "image": "img/62996866.png",
@@ -531,15 +540,6 @@
       "title": "Louis Prevost, hermano del papa León XIV, también tiene cáncer",
       "volanta": "MALA NOTICIA",
       "date": "2026-10-15T16:37:32+00:00"
-    },
-    {
-      "id": "58899366",
-      "image": "img/58899366.png",
-      "image_sha": "b426857add336a308c6dcdc196f4215ab0b9d330",
-      "url": "https://www.radiodos.com.ar/215432-los-ninos-mienten-tambien-repudian-a-tamara-paganini-por-sus-dichos-sobre-el-relato-de-valentin-yankelevich",
-      "title": "\"Los niños mienten también\": repudian a Tamara Paganini por sus dichos sobre el relato de Valentín Yankelevich",
-      "volanta": "¿QUÉ DICE SEÑORA?",
-      "date": "2026-10-15T16:36:55+00:00"
     }
   ]
 }
