@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T10:37:49+00:00",
+  "updated": "2026-10-19T11:06:32+00:00",
   "posts": [
+    {
+      "id": "b6e23c59",
+      "image": "img/b6e23c59.png",
+      "image_sha": "9539321f72b5b01578d2d336087971988e17f97f",
+      "url": "https://www.radiodos.com.ar/215594-torneo-clausura-en-el-clasico-de-avellaneda-hubo-tablas-en-el-cilindro",
+      "title": "Torneo Clausura: En el clásico de Avellaneda, hubo tablas en el Cilindro",
+      "volanta": "CLÁSICO",
+      "date": "2026-10-19T11:06:32+00:00"
+    },
     {
       "id": "bf5db34a",
       "image": "img/bf5db34a.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE JUEVES",
       "date": "2026-10-15T12:41:14+00:00"
-    },
-    {
-      "id": "621d2cac",
-      "image": "img/621d2cac.png",
-      "image_sha": "f064991d2b612ee7e57c577a8d8b6f99d91399c9",
-      "url": "https://www.radiodos.com.ar/215402-investigan-la-posible-distribucion-de-material-de-abuso-sexual-infantil-en-corrientes",
-      "title": "Investigan la posible distribución de material de abuso sexual infantil en Corrientes",
-      "volanta": "BARRIO SAN ROQUE ESTE",
-      "date": "2026-10-15T12:20:13+00:00"
     }
   ]
 }
