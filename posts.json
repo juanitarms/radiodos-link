@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T12:06:50+00:00",
+  "updated": "2026-10-19T12:34:31+00:00",
   "posts": [
+    {
+      "id": "9b52e87c",
+      "image": "img/9b52e87c.png",
+      "image_sha": "21092564e638342a5e3993511e4b2df006991762",
+      "url": "https://www.radiodos.com.ar/215608-nueva-semana-de-ferias-de-la-ciudad-frutas-verduras-artesanias-y-propuestas-gastronomicas",
+      "title": "Nueva semana de Ferias de la Ciudad: frutas, verduras, artesanías y propuestas gastronómicas",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-10-19T12:34:31+00:00"
+    },
     {
       "id": "a9b92b4d",
       "image": "img/a9b92b4d.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV agradeció las oraciones y el apoyo de los fieles desde el sanatorio, tras su cirugía pulmonar",
       "volanta": "VATICANO",
       "date": "2026-10-15T13:54:45+00:00"
-    },
-    {
-      "id": "da6446d9",
-      "image": "img/da6446d9.png",
-      "image_sha": "c4a9dda5d270a399f8fc6384c4abe8ba8e6cb4c1",
-      "url": "https://www.radiodos.com.ar/215421-todo-listo-la-seleccion-argentina-jugara-en-la-bombonera-ante-uruguay-en-noviembre",
-      "title": "Todo listo: la Selección Argentina jugará en la Bombonera ante Uruguay en noviembre",
-      "volanta": "AMISTOSO",
-      "date": "2026-10-15T13:38:46+00:00"
     }
   ]
 }
