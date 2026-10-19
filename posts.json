@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T17:18:02+00:00",
+  "updated": "2026-10-19T18:33:36+00:00",
   "posts": [
+    {
+      "id": "c96f4715",
+      "image": "img/c96f4715.png",
+      "image_sha": "af11df3ac3d124e515962ce00152f9f191f1f124",
+      "url": "https://www.radiodos.com.ar/215641-el-nino-entra-en-su-punto-maximo-recomiendan-verificar-planes-municipales-y-provinciales",
+      "title": "El niño entra en su punto máximo: recomiendan verificar planes municipales y provinciales",
+      "volanta": "NOTA TECNICA N°6",
+      "date": "2026-10-19T18:33:36+00:00"
+    },
     {
       "id": "81b14af9",
       "image": "img/81b14af9.png",
@@ -531,15 +540,6 @@
       "title": "Santos Regis y Fernández Codazzi irán a juicio el 26 de octubre por tentativa de homicidio y otros delitos",
       "volanta": "GOYA",
       "date": "2026-10-15T18:44:37+00:00"
-    },
-    {
-      "id": "b329796b",
-      "image": "img/b329796b.png",
-      "image_sha": "92e77edb322f1390e1cc626addc17691b607d399",
-      "url": "https://www.radiodos.com.ar/215440-estafas-con-visas-para-estados-unidos-extraditaron-al-ciudadano-georgiano-que-habia-sido-detenido-en-palermo",
-      "title": "Estafas con visas para Estados Unidos: extraditaron al ciudadano georgiano que había sido detenido en Palermo",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-10-15T18:44:03+00:00"
     }
   ]
 }
