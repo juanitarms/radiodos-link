@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T11:36:52+00:00",
+  "updated": "2026-10-19T12:06:50+00:00",
   "posts": [
+    {
+      "id": "a9b92b4d",
+      "image": "img/a9b92b4d.png",
+      "image_sha": "da701b6561658e8ee00635f70026d1e373567ec3",
+      "url": "https://www.radiodos.com.ar/215605-nea-tech-2026-corrientes-vivio-tres-jornadas-a-pura-innovacion",
+      "title": "NEA Tech 2026: Corrientes vivió tres jornadas a pura innovación",
+      "volanta": "EN EL MACC",
+      "date": "2026-10-19T12:06:50+00:00"
+    },
     {
       "id": "1db0b726",
       "image": "img/1db0b726.png",
@@ -531,15 +540,6 @@
       "title": "Todo listo: la Selección Argentina jugará en la Bombonera ante Uruguay en noviembre",
       "volanta": "AMISTOSO",
       "date": "2026-10-15T13:38:46+00:00"
-    },
-    {
-      "id": "ae4a7c3f",
-      "image": "img/ae4a7c3f.png",
-      "image_sha": "fe8662831a59ed2b35c1ed881a28bc868dd32a9d",
-      "url": "https://www.radiodos.com.ar/215409-robaron-una-moto-la-abandonaron-y-huyeron",
-      "title": "Robaron una moto, la abandonaron y huyeron",
-      "volanta": "COMISARÍA SÉPTIMA",
-      "date": "2026-10-15T12:49:37+00:00"
     }
   ]
 }
