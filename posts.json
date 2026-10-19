@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T17:17:27+00:00",
+  "updated": "2026-10-19T17:18:02+00:00",
   "posts": [
+    {
+      "id": "81b14af9",
+      "image": "img/81b14af9.png",
+      "image_sha": "671520abc2b5dc21be514d38e331ac80f7f888cf",
+      "url": "https://www.radiodos.com.ar/215632-rescatan-a-dos-guazunchos-que-llegaron-a-la-costanera-sur-de-corrientes",
+      "title": "Rescatan a dos guazunchos que llegaron a la Costanera Sur de Corrientes",
+      "volanta": "EFECTOS DE LA CRECIENTE",
+      "date": "2026-10-19T17:18:02+00:00"
+    },
     {
       "id": "3e8d038b",
       "image": "img/3e8d038b.png",
@@ -531,15 +540,6 @@
       "title": "Estafas con visas para Estados Unidos: extraditaron al ciudadano georgiano que había sido detenido en Palermo",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-15T18:44:03+00:00"
-    },
-    {
-      "id": "b6e7f7d1",
-      "image": "img/b6e7f7d1.png",
-      "image_sha": "bd8db23124158abbaaab0d323ec896666d340b69",
-      "url": "https://www.radiodos.com.ar/215439-javier-milei-aseguro-en-que-el-riesgo-pais-esta-debajo-de-los-100-puntos-el-dia-en-que-toco-los-640",
-      "title": "Javier Milei aseguró en que el riesgo país está \"debajo de los 100 puntos\" el día en que tocó los 640",
-      "volanta": "ECONOMÍA",
-      "date": "2026-10-15T16:38:05+00:00"
     }
   ]
 }
