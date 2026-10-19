@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T12:55:33+00:00",
+  "updated": "2026-10-19T13:30:16+00:00",
   "posts": [
+    {
+      "id": "3c84767a",
+      "image": "img/3c84767a.png",
+      "image_sha": "6ecc9766366e47e5a4e91d9ed797aa4388e29536",
+      "url": "https://www.radiodos.com.ar/215617-reaparecio-el-papa-leon-xiv-gracias-a-todos-los-que-han-rezado-por-mi-he-sentido-su-apoyo",
+      "title": "Reapareció el papa León XIV: \"Gracias a todos los que han rezado por mí, he sentido su apoyo\"",
+      "volanta": "VATICANO",
+      "date": "2026-10-19T13:30:16+00:00"
+    },
     {
       "id": "be828d01",
       "image": "img/be828d01.png",
@@ -531,15 +540,6 @@
       "title": "María Becerra opinó sobre el Martín Fierro que ganó Wanda Nara y sorprendió con su respuesta",
       "volanta": "¿QUÉ DIJO?",
       "date": "2026-10-15T14:33:47+00:00"
-    },
-    {
-      "id": "35c0ca34",
-      "image": "img/35c0ca34.png",
-      "image_sha": "0202b3d7adf60fc2a5d0d808e51626f6dcad1018",
-      "url": "https://www.radiodos.com.ar/215428-en-su-alegato-del-juicio-por-la-muerte-de-maradona-burlando-fue-tajante-fue-asesinado",
-      "title": "En su alegato del juicio por la muerte de Maradona, Burlando fue tajante: \"Fue asesinado\"",
-      "volanta": "ALEGATOS",
-      "date": "2026-10-15T14:12:26+00:00"
     }
   ]
 }
