@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T14:22:38+00:00",
+  "updated": "2026-10-19T15:04:16+00:00",
   "posts": [
+    {
+      "id": "62996866",
+      "image": "img/62996866.png",
+      "image_sha": "1927083b8b9e67ce0a15a8134942e9362d36b52f",
+      "url": "https://www.radiodos.com.ar/215622-inundaciones-el-rio-parana-se-mantiene-en-707-metros-en-la-ciudad-de-corrientes",
+      "title": "Inundaciones: el río Paraná se mantiene en 7,07 metros en la ciudad de Corrientes",
+      "volanta": "FENÓMENO EL NIÑO",
+      "date": "2026-10-19T15:04:16+00:00"
+    },
     {
       "id": "b99d042e",
       "image": "img/b99d042e.png",
@@ -531,15 +540,6 @@
       "title": "\"Los niños mienten también\": repudian a Tamara Paganini por sus dichos sobre el relato de Valentín Yankelevich",
       "volanta": "¿QUÉ DICE SEÑORA?",
       "date": "2026-10-15T16:36:55+00:00"
-    },
-    {
-      "id": "5c011d2f",
-      "image": "img/5c011d2f.png",
-      "image_sha": "d9faa5016fdb5797d8cf62ec6f33917c203ceadf",
-      "url": "https://www.radiodos.com.ar/215433-abel-pintos-se-llevo-el-oro-en-los-martin-fierro-de-musica-2026-uno-por-uno-todos-los-ganadores",
-      "title": "Abel Pintos se llevó el oro en los Martín Fierro de Música 2026: uno por uno, todos los ganadores",
-      "volanta": "MERECIDO",
-      "date": "2026-10-15T15:04:31+00:00"
     }
   ]
 }
