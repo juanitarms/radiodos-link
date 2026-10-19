@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T22:36:30+00:00",
+  "updated": "2026-10-19T10:37:49+00:00",
   "posts": [
+    {
+      "id": "bf5db34a",
+      "image": "img/bf5db34a.png",
+      "image_sha": "77f24828750a53dff8eed673a445ce1a02f6bc14",
+      "url": "https://www.radiodos.com.ar/215593-torneo-clausura-river-goleo-a-belgrano-de-visitante-y-volvio-a-mostrar-su-mejor-version",
+      "title": "Torneo Clausura: River goleó a Belgrano de visitante y volvió a mostrar su mejor versión",
+      "volanta": "Fue 3 a 0",
+      "date": "2026-10-19T10:37:49+00:00"
+    },
     {
       "id": "b579cb7b",
       "image": "img/b579cb7b.png",
@@ -531,15 +540,6 @@
       "title": "Investigan la posible distribución de material de abuso sexual infantil en Corrientes",
       "volanta": "BARRIO SAN ROQUE ESTE",
       "date": "2026-10-15T12:20:13+00:00"
-    },
-    {
-      "id": "8cd2b459",
-      "image": "img/8cd2b459.png",
-      "image_sha": "c035989118fc6eae63ff73b6a4d41e093bdc2edc",
-      "url": "https://www.radiodos.com.ar/215400-plus-de-refuerzo-el-pago-de-octubre-comienza-este-viernes-16",
-      "title": "Plus de Refuerzo: el pago de octubre comienza este viernes 16",
-      "volanta": "DE INTERES",
-      "date": "2026-10-15T11:49:07+00:00"
     }
   ]
 }
