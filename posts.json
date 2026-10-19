@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T21:05:27+00:00",
+  "updated": "2026-10-19T21:07:23+00:00",
   "posts": [
+    {
+      "id": "3f7d3f06",
+      "image": "img/3f7d3f06.png",
+      "image_sha": "9894f2ac3b5128b77b270a7c4e9fb36ccdb5a381",
+      "url": "https://www.radiodos.com.ar/215644-sigue-la-busqueda-de-la-maestra-rural-en-corrientes-ordenaron-la-detencion-de-uno-de-los-peones-que-la-escolto-hasta-la-escuela",
+      "title": "Sigue la búsqueda de la maestra rural en Corrientes: ordenaron la detención de uno de los peones que la escoltó hasta la escuela",
+      "volanta": "ZONA RURAL DE ESQUINA",
+      "date": "2026-10-19T21:07:23+00:00"
+    },
     {
       "id": "aa0765c4",
       "image": "img/aa0765c4.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno provincial y el Banco de Corrientes lanzan beneficios especiales para celebrar el Día de la Madre",
       "volanta": "17 Y 18 DE OCTUBRE",
       "date": "2026-10-15T18:45:38+00:00"
-    },
-    {
-      "id": "28e980c6",
-      "image": "img/28e980c6.png",
-      "image_sha": "3581d9adac168b5fe182be127e5720b562241844",
-      "url": "https://www.radiodos.com.ar/215443-el-gobierno-activo-la-mesa-de-monitoreo-federal-ante-el-impacto-del-fenomeno-de-el-nino-en-el-norte-del-pais",
-      "title": "El Gobierno activó la mesa de monitoreo federal ante el impacto del fenómeno de El Niño en el norte del país",
-      "volanta": "DIÁLOGO",
-      "date": "2026-10-15T18:45:08+00:00"
     }
   ]
 }
