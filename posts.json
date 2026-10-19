@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T12:34:31+00:00",
+  "updated": "2026-10-19T12:55:33+00:00",
   "posts": [
+    {
+      "id": "be828d01",
+      "image": "img/be828d01.png",
+      "image_sha": "8fb2eb55c04b331381ddb05764b0d9250b0ee046",
+      "url": "https://www.radiodos.com.ar/215613-fueron-hallados-los-cuerpos-de-los-hombres-que-desaparecieron-cuando-cruzaban-a-caballo-el-rio-parana",
+      "title": "Fueron hallados los cuerpos de los hombres que desaparecieron cuando cruzaban a caballo el río Paraná",
+      "volanta": "TRAGEDIA",
+      "date": "2026-10-19T12:55:33+00:00"
+    },
     {
       "id": "9b52e87c",
       "image": "img/9b52e87c.png",
@@ -531,15 +540,6 @@
       "title": "En su alegato del juicio por la muerte de Maradona, Burlando fue tajante: \"Fue asesinado\"",
       "volanta": "ALEGATOS",
       "date": "2026-10-15T14:12:26+00:00"
-    },
-    {
-      "id": "fd8cd86b",
-      "image": "img/fd8cd86b.png",
-      "image_sha": "49a423655338544f1ea39b56233c096e2a764213",
-      "url": "https://www.radiodos.com.ar/215427-el-papa-leon-xiv-agradecio-las-oraciones-y-el-apoyo-de-los-fieles-desde-el-sanatorio-tras-su-cirugia-pulmonar",
-      "title": "El papa León XIV agradeció las oraciones y el apoyo de los fieles desde el sanatorio, tras su cirugía pulmonar",
-      "volanta": "VATICANO",
-      "date": "2026-10-15T13:54:45+00:00"
     }
   ]
 }
