@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T21:07:58+00:00",
+  "updated": "2026-10-19T22:11:36+00:00",
   "posts": [
+    {
+      "id": "c6418d20",
+      "image": "img/c6418d20.png",
+      "image_sha": "108a23f5a67276c5d045a94180daa7401894e74a",
+      "url": "https://www.radiodos.com.ar/215645-abrieron-las-compuertas-de-la-represa-mas-grande-de-sudamerica-ante-la-crecida-de-los-rios",
+      "title": "Abrieron las compuertas de la represa más grande de Sudamérica ante la crecida de los ríos",
+      "volanta": "alerta",
+      "date": "2026-10-19T22:11:36+00:00"
+    },
     {
       "id": "9022b82e",
       "image": "img/9022b82e.png",
@@ -531,15 +540,6 @@
       "title": "El Vaticano generó incertidumbre sobre la visita del papa León XIV a la Argentina: \"Debemos esperar\"",
       "volanta": "En noviembre",
       "date": "2026-10-15T22:11:27+00:00"
-    },
-    {
-      "id": "1b1e79ad",
-      "image": "img/1b1e79ad.png",
-      "image_sha": "a30e721cd2a7044f8c9b6a1149019e21c7073afb",
-      "url": "https://www.radiodos.com.ar/215451-ya-son-mas-de-20-los-evacuados-por-la-crecida-del-rio-parana-en-ituzaingo",
-      "title": "Ya son más de 20 los evacuados por la crecida del río Paraná en Ituzaingó",
-      "volanta": "Alerta",
-      "date": "2026-10-15T22:10:57+00:00"
     }
   ]
 }
