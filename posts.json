@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T22:12:42+00:00",
+  "updated": "2026-10-19T22:18:13+00:00",
   "posts": [
+    {
+      "id": "7eaa72fb",
+      "image": "img/7eaa72fb.png",
+      "image_sha": "458bb031228e418b2b6bd179545d29a8228fe292",
+      "url": "https://www.radiodos.com.ar/215650-el-arzobispo-de-lujan-ratifico-la-visita-del-papa-leon-xiv-a-la-argentina-todo-sigue-en-pie",
+      "title": "El arzobispo de Luján ratificó la visita del papa León XIV a la Argentina: \"Todo sigue en pie\"",
+      "volanta": "CRECE LA EXPECTATIVA",
+      "date": "2026-10-19T22:18:13+00:00"
+    },
     {
       "id": "7e163a9e",
       "image": "img/7e163a9e.png",
@@ -531,15 +540,6 @@
       "title": "Se conoció el resultado de la autopsia de Roña Castro",
       "volanta": "¿Cuál fue la causa de su muerte?",
       "date": "2026-10-15T22:13:38+00:00"
-    },
-    {
-      "id": "58869986",
-      "image": "img/58869986.png",
-      "image_sha": "143aae06145a2a23fd967fed531c1c6c5e701ab9",
-      "url": "https://www.radiodos.com.ar/215448-violentos-incidentes-en-la-marcha-federal-universitaria-continuan-los-enfrentamientos-con-la-policia-en-caba",
-      "title": "Violentos incidentes en la Marcha Federal Universitaria: continúan los enfrentamientos con la Policía en CABA",
-      "volanta": "AHORA",
-      "date": "2026-10-15T22:13:02+00:00"
     }
   ]
 }
