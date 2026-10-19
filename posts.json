@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T22:11:36+00:00",
+  "updated": "2026-10-19T22:12:10+00:00",
   "posts": [
+    {
+      "id": "1e85a26c",
+      "image": "img/1e85a26c.png",
+      "image_sha": "2e54a816cf4e4c40540a8c5f1d77cfec6b10b5cc",
+      "url": "https://www.radiodos.com.ar/215646-el-club-hipico-santa-catalina-brillo-en-el-campeonato-federal-de-saltos-hipicos",
+      "title": "El Club Hípico Santa Catalina brilló en el Campeonato Federal de Saltos Hípicos",
+      "volanta": "EN CÓRDOBA",
+      "date": "2026-10-19T22:12:10+00:00"
+    },
     {
       "id": "c6418d20",
       "image": "img/c6418d20.png",
@@ -531,15 +540,6 @@
       "title": "El Niño en Corrientes: JP Valdés recorrió zonas afectadas en Itatí y coordinó asistencia a familias",
       "volanta": "ESTA TARDE",
       "date": "2026-10-15T22:12:31+00:00"
-    },
-    {
-      "id": "5064cb5c",
-      "image": "img/5064cb5c.png",
-      "image_sha": "b36507bfc14ec820b32160089787d434ae1b8a43",
-      "url": "https://www.radiodos.com.ar/215450-el-vaticano-genero-incertidumbre-sobre-la-visita-del-papa-leon-xiv-a-la-argentina-debemos-esperar",
-      "title": "El Vaticano generó incertidumbre sobre la visita del papa León XIV a la Argentina: \"Debemos esperar\"",
-      "volanta": "En noviembre",
-      "date": "2026-10-15T22:11:27+00:00"
     }
   ]
 }
