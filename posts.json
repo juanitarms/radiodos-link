@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T22:18:13+00:00",
+  "updated": "2026-10-19T22:55:19+00:00",
   "posts": [
+    {
+      "id": "0bce4a0c",
+      "image": "img/0bce4a0c.png",
+      "image_sha": "1261fa1eb859e99c56fa71de6ee003e6e4e38329",
+      "url": "https://www.radiodos.com.ar/215648-malvinas-trump-busca-cerrar-el-comite-de-la-onu-que-respalda-el-reclamo-argentino",
+      "title": "Malvinas: Trump busca cerrar el comité de la ONU que respalda el reclamo argentino",
+      "volanta": "polémica",
+      "date": "2026-10-19T22:55:19+00:00"
+    },
     {
       "id": "7eaa72fb",
       "image": "img/7eaa72fb.png",
@@ -531,15 +540,6 @@
       "title": "Los posibles rivales de la Selección Argentina para la fecha FIFA de noviembre",
       "volanta": "Comenzó la era post Messi",
       "date": "2026-10-15T22:14:44+00:00"
-    },
-    {
-      "id": "0e49bd90",
-      "image": "img/0e49bd90.png",
-      "image_sha": "c2f1b50cedf0bf643e68bb7a277881e85ac01abb",
-      "url": "https://www.radiodos.com.ar/215458-se-conocio-el-resultado-de-la-autopsia-de-rona-castro",
-      "title": "Se conoció el resultado de la autopsia de Roña Castro",
-      "volanta": "¿Cuál fue la causa de su muerte?",
-      "date": "2026-10-15T22:13:38+00:00"
     }
   ]
 }
