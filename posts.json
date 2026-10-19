@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T21:07:23+00:00",
+  "updated": "2026-10-19T21:07:58+00:00",
   "posts": [
+    {
+      "id": "9022b82e",
+      "image": "img/9022b82e.png",
+      "image_sha": "88b7f792f585f50dd65778e8a8166de2db48368a",
+      "url": "https://www.radiodos.com.ar/215643-el-nino-kicillof-denunciara-penalmente-a-milei-y-a-caputo-por-los-fondos-para-prevenir-inundaciones",
+      "title": "\"El Niño\": Kicillof denunciará penalmente a Milei y a Caputo por los fondos para prevenir inundaciones",
+      "volanta": "duras palabras",
+      "date": "2026-10-19T21:07:58+00:00"
+    },
     {
       "id": "3f7d3f06",
       "image": "img/3f7d3f06.png",
@@ -531,15 +540,6 @@
       "title": "Ya son más de 20 los evacuados por la crecida del río Paraná en Ituzaingó",
       "volanta": "Alerta",
       "date": "2026-10-15T22:10:57+00:00"
-    },
-    {
-      "id": "22f82078",
-      "image": "img/22f82078.png",
-      "image_sha": "19710df7f24641c16a576fad122d1ef1eb0366c6",
-      "url": "https://www.radiodos.com.ar/215442-el-gobierno-provincial-y-el-banco-de-corrientes-lanzan-beneficios-especiales-para-celebrar-el-dia-de-la-madre",
-      "title": "El Gobierno provincial y el Banco de Corrientes lanzan beneficios especiales para celebrar el Día de la Madre",
-      "volanta": "17 Y 18 DE OCTUBRE",
-      "date": "2026-10-15T18:45:38+00:00"
     }
   ]
 }
