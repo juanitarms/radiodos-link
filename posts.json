@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T17:15:39+00:00",
+  "updated": "2026-10-19T17:17:27+00:00",
   "posts": [
+    {
+      "id": "3e8d038b",
+      "image": "img/3e8d038b.png",
+      "image_sha": "d2fdb371ddb31577139dce9fafb2f9a36135c10c",
+      "url": "https://www.radiodos.com.ar/215636-encontraron-en-uruguay-a-la-adolescente-de-15-anos-que-era-buscada-con-alerta-sofia",
+      "title": "Encontraron en Uruguay a la adolescente de 15 años que era buscada con Alerta Sofía",
+      "volanta": "BAJO GUARDIA",
+      "date": "2026-10-19T17:17:27+00:00"
+    },
     {
       "id": "2913fdef",
       "image": "img/2913fdef.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei aseguró en que el riesgo país está \"debajo de los 100 puntos\" el día en que tocó los 640",
       "volanta": "ECONOMÍA",
       "date": "2026-10-15T16:38:05+00:00"
-    },
-    {
-      "id": "0d7614b5",
-      "image": "img/0d7614b5.png",
-      "image_sha": "9ab573fa87a17f7903de89905e271b138e8f1c99",
-      "url": "https://www.radiodos.com.ar/215437-louis-prevost-hermano-del-papa-leon-xiv-tambien-tiene-cancer",
-      "title": "Louis Prevost, hermano del papa León XIV, también tiene cáncer",
-      "volanta": "MALA NOTICIA",
-      "date": "2026-10-15T16:37:32+00:00"
     }
   ]
 }
