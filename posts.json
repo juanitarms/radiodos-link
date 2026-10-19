@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T13:43:58+00:00",
+  "updated": "2026-10-19T14:22:38+00:00",
   "posts": [
+    {
+      "id": "b99d042e",
+      "image": "img/b99d042e.png",
+      "image_sha": "d601cffa7241767144c8d7d0abe236689db0ebfe",
+      "url": "https://www.radiodos.com.ar/215628-la-feliz-noticia-de-nicolas-keenan-sera-padre-junto-al-primer-ministro-de-paises-bajos",
+      "title": "La feliz noticia de Nicolás Keenan: será padre junto al primer ministro de Países Bajos",
+      "volanta": "GRAN FAMILIA",
+      "date": "2026-10-19T14:22:38+00:00"
+    },
     {
       "id": "f2350be2",
       "image": "img/f2350be2.png",
@@ -531,15 +540,6 @@
       "title": "Abel Pintos se llevó el oro en los Martín Fierro de Música 2026: uno por uno, todos los ganadores",
       "volanta": "MERECIDO",
       "date": "2026-10-15T15:04:31+00:00"
-    },
-    {
-      "id": "588859a7",
-      "image": "img/588859a7.png",
-      "image_sha": "0438bfcf155b50b404d63c29e1e05ebc6f43e566",
-      "url": "https://www.radiodos.com.ar/215431-quien-es-josefina-lynch-la-supuesta-tercera-en-discordia-entre-julieta-prandi-y-emanuel-ortega",
-      "title": "Quién es Josefina Lynch, la supuesta tercera en discordia entre Julieta Prandi y Emanuel Ortega",
-      "volanta": "SORPRESA",
-      "date": "2026-10-15T14:48:29+00:00"
     }
   ]
 }
