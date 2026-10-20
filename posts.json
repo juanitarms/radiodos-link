@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T12:36:56+00:00",
+  "updated": "2026-10-20T13:06:19+00:00",
   "posts": [
+    {
+      "id": "cc82532a",
+      "image": "img/cc82532a.png",
+      "image_sha": "0b39b517eb1b4dfa02a438b5edafafb4b408c5be",
+      "url": "https://www.radiodos.com.ar/215667-buscan-a-un-hombre-que-no-volvio-a-su-hogar-desde-el-domingo",
+      "title": "Buscan a un hombre que no volvió a su hogar desde el domingo",
+      "volanta": "EMPEDRADO",
+      "date": "2026-10-20T13:06:19+00:00"
+    },
     {
       "id": "e274d191",
       "image": "img/e274d191.png",
@@ -531,15 +540,6 @@
       "title": "Claudio Barrelier grabó un video desde la cárcel: la reacción de la madre de Agostina Vega",
       "volanta": "FEMICIDIO",
       "date": "2026-10-16T13:09:34+00:00"
-    },
-    {
-      "id": "5d230c64",
-      "image": "img/5d230c64.png",
-      "image_sha": "b87b17d9f64b4067935816d6612b71d3278470bd",
-      "url": "https://www.radiodos.com.ar/215480-secuestran-un-camion-jaula-con-irregularidades-que-trasladaba-ovinos",
-      "title": "Secuestran un camión jaula con irregularidades que trasladaba ovinos",
-      "volanta": "MOCORETA",
-      "date": "2026-10-16T12:44:14+00:00"
     }
   ]
 }
