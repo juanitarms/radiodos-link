@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T16:51:33+00:00",
+  "updated": "2026-10-20T16:52:07+00:00",
   "posts": [
+    {
+      "id": "c99a2363",
+      "image": "img/c99a2363.png",
+      "image_sha": "23f15d8707e0f3735e425f595f3a179287d0f198",
+      "url": "https://www.radiodos.com.ar/215693-la-diputada-ana-amendola-participo-del-conversatorio-sobre-el-cancer-de-mama",
+      "title": "La diputada Ana Améndola participó del conversatorio sobre el cáncer de mama",
+      "volanta": "Octubre Rosa",
+      "date": "2026-10-20T16:52:07+00:00"
+    },
     {
       "id": "70c9bd70",
       "image": "img/70c9bd70.png",
@@ -531,15 +540,6 @@
       "title": "Causa ANDIS: la Justicia dispuso un nuevo procesamiento a Diego Spagnuolo",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-16T17:31:09+00:00"
-    },
-    {
-      "id": "10b9b08e",
-      "image": "img/10b9b08e.png",
-      "image_sha": "fa830f4769716b3a3463e8cc82236cad0e9d0e40",
-      "url": "https://www.radiodos.com.ar/215510-mato-a-su-pareja-viajo-a-jujuy-para-dejar-a-su-hija-con-un-familiar-y-volvio-para-entregarse",
-      "title": "Mató a su pareja, viajó a Jujuy para dejar a su hija con un familiar y volvió para entregarse",
-      "volanta": "La Plata",
-      "date": "2026-10-16T17:30:37+00:00"
     }
   ]
 }
