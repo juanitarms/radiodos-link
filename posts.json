@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T13:06:19+00:00",
+  "updated": "2026-10-20T13:25:54+00:00",
   "posts": [
+    {
+      "id": "ccc75f65",
+      "image": "img/ccc75f65.png",
+      "image_sha": "cea702159e0ff0b222b48016f1bbcf77a2e9b14a",
+      "url": "https://www.radiodos.com.ar/215670-en-el-cierre-de-las-olimpiadas-de-educacion-economica-premiaron-a-los-ganadores",
+      "title": "En el cierre de las Olimpiadas de Educación Económica, premiaron a los ganadores",
+      "volanta": "EN LA ESCUELA “CONSTRUCCIONES PORTUARIAS”",
+      "date": "2026-10-20T13:25:54+00:00"
+    },
     {
       "id": "cc82532a",
       "image": "img/cc82532a.png",
@@ -531,15 +540,6 @@
       "title": "Desde el Vaticano pusieron en suspenso el viaje del papa León XIV a la Argentina: \"Si es necesario...\"",
       "volanta": "INCERTIDUMBRE",
       "date": "2026-10-16T13:24:00+00:00"
-    },
-    {
-      "id": "7722458f",
-      "image": "img/7722458f.png",
-      "image_sha": "8cc779923d6fc62df2162339a608d3c3fe567a43",
-      "url": "https://www.radiodos.com.ar/215484-claudio-barrelier-grabo-un-video-desde-la-carcel-la-reaccion-de-la-madre-de-agostina-vega",
-      "title": "Claudio Barrelier grabó un video desde la cárcel: la reacción de la madre de Agostina Vega",
-      "volanta": "FEMICIDIO",
-      "date": "2026-10-16T13:09:34+00:00"
     }
   ]
 }
