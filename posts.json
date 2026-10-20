@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T14:04:19+00:00",
+  "updated": "2026-10-20T14:31:02+00:00",
   "posts": [
+    {
+      "id": "eb120e54",
+      "image": "img/eb120e54.png",
+      "image_sha": "235740d3aae56dd827194f2b3d31f2ec8bd106f8",
+      "url": "https://www.radiodos.com.ar/215682-murio-el-actor-antonio-grimau-tenia-82-anos",
+      "title": "Murió el actor Antonio Grimau: tenía 82 años",
+      "volanta": "LUTO EN EL ARTE",
+      "date": "2026-10-20T14:31:02+00:00"
+    },
     {
       "id": "d7b5f0df",
       "image": "img/d7b5f0df.png",
@@ -531,15 +540,6 @@
       "title": "Cinco menores demorados tras una \"batalla\" a hondazos en un barrio de Corrientes",
       "volanta": "BARRIO SAN ANTONIO",
       "date": "2026-10-16T15:11:43+00:00"
-    },
-    {
-      "id": "685a528c",
-      "image": "img/685a528c.png",
-      "image_sha": "9af2bfbe7aed6f6740049e9933b5e9ee2a59778f",
-      "url": "https://www.radiodos.com.ar/215493-el-vaticano-publico-la-primera-foto-del-papa-leon-xiv-tras-la-operacion-del-tumor-maligno-de-pulmon",
-      "title": "El Vaticano publicó la primera foto del papa León XIV tras la operación del tumor maligno de pulmón",
-      "volanta": "EN RECUPERACIÓN",
-      "date": "2026-10-16T14:40:39+00:00"
     }
   ]
 }
