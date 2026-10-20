@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T14:31:02+00:00",
+  "updated": "2026-10-20T14:53:30+00:00",
   "posts": [
+    {
+      "id": "6430c02f",
+      "image": "img/6430c02f.png",
+      "image_sha": "e591252016e6af0906879aae1d5c9fb5394611b2",
+      "url": "https://www.radiodos.com.ar/215692-rompio-el-silencio-el-hermano-de-tini-stoessel-en-plena-disputa-familiar-mi-papa-esta-bien",
+      "title": "Rompió el silencio el hermano de Tini Stoessel en plena disputa familiar: \"Mi papá está bien\"",
+      "volanta": "SIGUE EL CONFLICTO",
+      "date": "2026-10-20T14:53:30+00:00"
+    },
     {
       "id": "eb120e54",
       "image": "img/eb120e54.png",
@@ -531,15 +540,6 @@
       "title": "La ANMAT prohibió un dispositivo de depilación definitiva por irregularidades sanitarias",
       "volanta": "OFICIAL",
       "date": "2026-10-16T17:30:01+00:00"
-    },
-    {
-      "id": "770173c5",
-      "image": "img/770173c5.png",
-      "image_sha": "7e9e2bb0fde76c7c1e6fee5b0ce24e6dcee708c9",
-      "url": "https://www.radiodos.com.ar/215495-cinco-menores-demorados-tras-una-batalla-a-hondazos-en-un-barrio-de-corrientes",
-      "title": "Cinco menores demorados tras una \"batalla\" a hondazos en un barrio de Corrientes",
-      "volanta": "BARRIO SAN ANTONIO",
-      "date": "2026-10-16T15:11:43+00:00"
     }
   ]
 }
