@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T00:41:22+00:00",
+  "updated": "2026-10-20T10:35:27+00:00",
   "posts": [
+    {
+      "id": "c478dc6f",
+      "image": "img/c478dc6f.png",
+      "image_sha": "2d6e57733c9e378659bcb4a421a9d3f3a24a58d6",
+      "url": "https://www.radiodos.com.ar/215657-corrientes-multitudinaria-marcha-por-la-aparicion-con-vida-de-la-maestra-nancy-godoy",
+      "title": "Corrientes: multitudinaria Marcha por la aparición con vida de la maestra Nancy Godoy",
+      "volanta": "Búsqueda",
+      "date": "2026-10-20T10:35:27+00:00"
+    },
     {
       "id": "0e367dea",
       "image": "img/0e367dea.png",
@@ -531,15 +540,6 @@
       "title": "En Corrientes también se marchó por el cumplimiento de la Ley de Financiamiento Universitario",
       "volanta": "MASIVA CONCURRENCIA",
       "date": "2026-10-16T10:49:22+00:00"
-    },
-    {
-      "id": "c71416b7",
-      "image": "img/c71416b7.png",
-      "image_sha": "8d72ffa576e8aded7abc0575671134d602ec2593",
-      "url": "https://www.radiodos.com.ar/215469-la-municipalidad-de-corrientes-prohibio-el-acceso-a-la-playa-molina-punta",
-      "title": "La Municipalidad de Corrientes prohibió el acceso a la playa Molina Punta",
-      "volanta": "Debido a la crecida del río Paraná",
-      "date": "2026-10-16T10:26:58+00:00"
     }
   ]
 }
