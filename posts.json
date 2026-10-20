@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T17:28:43+00:00",
+  "updated": "2026-10-20T17:29:19+00:00",
   "posts": [
+    {
+      "id": "440c8741",
+      "image": "img/440c8741.png",
+      "image_sha": "a7dfbf4440219e035f4f0056706d2be38e6a309b",
+      "url": "https://www.radiodos.com.ar/215696-primera-noche-de-toque-de-queda-en-paris-y-otras-ciudades-para-intentar-contener-las-protestas-en-toda-francia",
+      "title": "Primera noche de toque de queda en París y otras ciudades para intentar contener las protestas en toda Francia",
+      "volanta": "FRANCIA",
+      "date": "2026-10-20T17:29:19+00:00"
+    },
     {
       "id": "a9a62701",
       "image": "img/a9a62701.png",
@@ -531,15 +540,6 @@
       "title": "El Vaticano informó que el papa León XIV dirigirá el Ángelus del domingo próximo",
       "volanta": "BUENA NOTICIA",
       "date": "2026-10-16T18:21:43+00:00"
-    },
-    {
-      "id": "970492d3",
-      "image": "img/970492d3.png",
-      "image_sha": "efa9b3bfcdd5d9daf166ce0d6b4fc27ca246a8c3",
-      "url": "https://www.radiodos.com.ar/215512-encontraron-muerta-a-una-joven-dentro-de-una-heladera-y-buscan-a-su-pareja",
-      "title": "Encontraron muerta a una joven dentro de una heladera y buscan a su pareja",
-      "volanta": "Córdoba",
-      "date": "2026-10-16T18:21:04+00:00"
     }
   ]
 }
