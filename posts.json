@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T16:52:07+00:00",
+  "updated": "2026-10-20T17:28:43+00:00",
   "posts": [
+    {
+      "id": "a9a62701",
+      "image": "img/a9a62701.png",
+      "image_sha": "f85655a5aff2e724de20e9e5f6d6ae69f80a3d33",
+      "url": "https://www.radiodos.com.ar/215699-tras-mantenerlos-congelados-por-un-ano-el-gobierno-actualizo-los-subsidios-y-becas-para-combatir-adicciones",
+      "title": "Tras mantenerlos congelados por un año, el Gobierno actualizó los subsidios y becas para combatir adicciones",
+      "volanta": "NOVEDAD",
+      "date": "2026-10-20T17:28:43+00:00"
+    },
     {
       "id": "c99a2363",
       "image": "img/c99a2363.png",
@@ -531,15 +540,6 @@
       "title": "Encontraron muerta a una joven dentro de una heladera y buscan a su pareja",
       "volanta": "Córdoba",
       "date": "2026-10-16T18:21:04+00:00"
-    },
-    {
-      "id": "42e0b567",
-      "image": "img/42e0b567.png",
-      "image_sha": "1d63f009ef0e4d996a2c66887af8a3cfbb19004a",
-      "url": "https://www.radiodos.com.ar/215511-causa-andis-la-justicia-dispuso-un-nuevo-procesamiento-a-diego-spagnuolo",
-      "title": "Causa ANDIS: la Justicia dispuso un nuevo procesamiento a Diego Spagnuolo",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-10-16T17:31:09+00:00"
     }
   ]
 }
