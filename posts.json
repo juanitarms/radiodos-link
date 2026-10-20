@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T17:29:55+00:00",
+  "updated": "2026-10-20T18:52:57+00:00",
   "posts": [
+    {
+      "id": "f123c2cf",
+      "image": "img/f123c2cf.png",
+      "image_sha": "6d1e2c8ecf508eecc8ba0daf6d570879392259f3",
+      "url": "https://www.radiodos.com.ar/215698-nueva-extension-aulica-de-la-facultad-de-derecho-unne-en-curuzu-cuatia",
+      "title": "Nueva Extensión Áulica de la Facultad de Derecho UNNE en Curuzú Cuatiá",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-10-20T18:52:57+00:00"
+    },
     {
       "id": "f61ccdad",
       "image": "img/f61ccdad.png",
@@ -531,15 +540,6 @@
       "title": "Joven motociclista murió atropellada por un colectivo en la Ruta 5 de Corrientes",
       "volanta": "TRAGEDIA",
       "date": "2026-10-16T20:09:39+00:00"
-    },
-    {
-      "id": "95187f08",
-      "image": "img/95187f08.png",
-      "image_sha": "2127cfd075f6fa6caf1cedc81a487c67cc7426b5",
-      "url": "https://www.radiodos.com.ar/215513-caso-loan-pena-liberaron-al-chofer-ybarra-detenido-por-falso-testimonio",
-      "title": "Caso Loan Peña: Liberaron al chofer Ybarra, detenido por falso testimonio",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-10-16T18:22:21+00:00"
     }
   ]
 }
