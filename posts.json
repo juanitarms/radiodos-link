@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T17:29:19+00:00",
+  "updated": "2026-10-20T17:29:55+00:00",
   "posts": [
+    {
+      "id": "f61ccdad",
+      "image": "img/f61ccdad.png",
+      "image_sha": "29c8e8ef8e0a53eafe8a7530eb22067074a7728f",
+      "url": "https://www.radiodos.com.ar/215697-vicentico-freno-un-show-en-bogota-por-una-bengala-tenes-idea-de-lo-que-significa-eso-para-un-argentino",
+      "title": "Vicentico frenó un show en Bogotá por una bengala: \"¿Tenés idea de lo que significa eso para un argentino?\"",
+      "volanta": "PREOCUPADO",
+      "date": "2026-10-20T17:29:55+00:00"
+    },
     {
       "id": "440c8741",
       "image": "img/440c8741.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan Peña: Liberaron al chofer Ybarra, detenido por falso testimonio",
       "volanta": "ESTA MAÑANA",
       "date": "2026-10-16T18:22:21+00:00"
-    },
-    {
-      "id": "86f57330",
-      "image": "img/86f57330.png",
-      "image_sha": "9e125ec4c9c2585029779b74b5d836d8ca656218",
-      "url": "https://www.radiodos.com.ar/215506-el-vaticano-informo-que-el-papa-leon-xiv-dirigira-el-angelus-del-domingo-proximo",
-      "title": "El Vaticano informó que el papa León XIV dirigirá el Ángelus del domingo próximo",
-      "volanta": "BUENA NOTICIA",
-      "date": "2026-10-16T18:21:43+00:00"
     }
   ]
 }
