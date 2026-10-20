@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T13:44:40+00:00",
+  "updated": "2026-10-20T14:04:19+00:00",
   "posts": [
+    {
+      "id": "d7b5f0df",
+      "image": "img/d7b5f0df.png",
+      "image_sha": "ae6ad2ac811b4bfd76e132920a9eca5fb6a90485",
+      "url": "https://www.radiodos.com.ar/215684-licuacion-de-salarios-el-72-de-los-trabajadores-de-hasta-40-anos-agota-sus-ingresos-antes-del-20-de-cada-mes",
+      "title": "Licuación de salarios: el 72% de los trabajadores de hasta 40 años agota sus ingresos antes del 20 de cada mes",
+      "volanta": "ECONOMÍA",
+      "date": "2026-10-20T14:04:19+00:00"
+    },
     {
       "id": "b138c247",
       "image": "img/b138c247.png",
@@ -531,15 +540,6 @@
       "title": "El Vaticano publicó la primera foto del papa León XIV tras la operación del tumor maligno de pulmón",
       "volanta": "EN RECUPERACIÓN",
       "date": "2026-10-16T14:40:39+00:00"
-    },
-    {
-      "id": "ab9d9072",
-      "image": "img/ab9d9072.png",
-      "image_sha": "3cf6bb55577a994f81fd3b86d90286b66ed89e96",
-      "url": "https://www.radiodos.com.ar/215482-cerraron-playa-molina-punta-y-arazaty-i-y-ii-siguen-habilitadas-con-permanente-monitoreo",
-      "title": "Cerraron playa Molina Punta y Arazaty I y II siguen habilitadas con permanente monitoreo",
-      "volanta": "SITUACIÓN ALARMANTE",
-      "date": "2026-10-16T13:47:35+00:00"
     }
   ]
 }
