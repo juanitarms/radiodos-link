@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T22:55:19+00:00",
+  "updated": "2026-10-20T00:41:22+00:00",
   "posts": [
+    {
+      "id": "0e367dea",
+      "image": "img/0e367dea.png",
+      "image_sha": "db905b23d5b90fb1948179c9a01a9d507ac4b13f",
+      "url": "https://www.radiodos.com.ar/215652-brillante-desempeno-correntino-federica-quijano-aragues-brillo-en-el-torneo-federal-de-salto-hipico-en-cordoba",
+      "title": "Brillante desempeño correntino: Federica Quijano Aragues brilló en el Torneo Federal de Salto Hípico en Córdoba",
+      "volanta": "3ra en Escuela Mayor 0,80 m",
+      "date": "2026-10-20T00:41:22+00:00"
+    },
     {
       "id": "0bce4a0c",
       "image": "img/0bce4a0c.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes prohibió el acceso a la playa Molina Punta",
       "volanta": "Debido a la crecida del río Paraná",
       "date": "2026-10-16T10:26:58+00:00"
-    },
-    {
-      "id": "c16caa4c",
-      "image": "img/c16caa4c.png",
-      "image_sha": "80cc689328409f841e7585aeb750e8363dc99025",
-      "url": "https://www.radiodos.com.ar/215455-los-posibles-rivales-de-la-seleccion-argentina-para-la-fecha-fifa-de-noviembre",
-      "title": "Los posibles rivales de la Selección Argentina para la fecha FIFA de noviembre",
-      "volanta": "Comenzó la era post Messi",
-      "date": "2026-10-15T22:14:44+00:00"
     }
   ]
 }
