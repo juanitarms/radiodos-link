@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T14:53:30+00:00",
+  "updated": "2026-10-20T16:51:33+00:00",
   "posts": [
+    {
+      "id": "70c9bd70",
+      "image": "img/70c9bd70.png",
+      "image_sha": "5f945d7ed1f03ac451af20e214ffba5a4ba433ff",
+      "url": "https://www.radiodos.com.ar/215695-se-suspendio-el-concurso-integracion-de-pesca-del-surubi-con-devolucion-en-ituzaingo",
+      "title": "Se suspendió el Concurso Integración de Pesca del Surubí con Devolución en Ituzaingó",
+      "volanta": "CONSECUENCIAS",
+      "date": "2026-10-20T16:51:33+00:00"
+    },
     {
       "id": "6430c02f",
       "image": "img/6430c02f.png",
@@ -531,15 +540,6 @@
       "title": "Mató a su pareja, viajó a Jujuy para dejar a su hija con un familiar y volvió para entregarse",
       "volanta": "La Plata",
       "date": "2026-10-16T17:30:37+00:00"
-    },
-    {
-      "id": "5e380125",
-      "image": "img/5e380125.png",
-      "image_sha": "28596b427291ef24c23c268cc908c8113d193d23",
-      "url": "https://www.radiodos.com.ar/215509-la-anmat-prohibio-un-dispositivo-de-depilacion-definitiva-por-irregularidades-sanitarias",
-      "title": "La ANMAT prohibió un dispositivo de depilación definitiva por irregularidades sanitarias",
-      "volanta": "OFICIAL",
-      "date": "2026-10-16T17:30:01+00:00"
     }
   ]
 }
