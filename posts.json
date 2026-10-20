@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T12:08:46+00:00",
+  "updated": "2026-10-20T12:36:56+00:00",
   "posts": [
+    {
+      "id": "e274d191",
+      "image": "img/e274d191.png",
+      "image_sha": "4478eae1acf427c38197646ea30997b318527101",
+      "url": "https://www.radiodos.com.ar/215669-presentaron-programa-de-controles-de-salud-gratuitos-para-excombatientes-de-malvinas",
+      "title": "Presentaron programa de controles de salud gratuitos para excombatientes de Malvinas",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-20T12:36:56+00:00"
+    },
     {
       "id": "bb81c7d8",
       "image": "img/bb81c7d8.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran un camión jaula con irregularidades que trasladaba ovinos",
       "volanta": "MOCORETA",
       "date": "2026-10-16T12:44:14+00:00"
-    },
-    {
-      "id": "ee651ba3",
-      "image": "img/ee651ba3.png",
-      "image_sha": "102e2017b30dd3c7a2e204ab529f83df185b0d71",
-      "url": "https://www.radiodos.com.ar/215481-tres-hombres-fueron-demorados-en-distintos-procedimientos",
-      "title": "Tres hombres fueron demorados en distintos procedimientos",
-      "volanta": "DESTACAMENTO SAN MARCOS",
-      "date": "2026-10-16T12:19:11+00:00"
     }
   ]
 }
