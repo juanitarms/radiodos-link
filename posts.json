@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T19:20:56+00:00",
+  "updated": "2026-10-20T19:21:31+00:00",
   "posts": [
+    {
+      "id": "d2d88988",
+      "image": "img/d2d88988.png",
+      "image_sha": "5e75b381adbdac1241e626cba7611e3e4ea2a250",
+      "url": "https://www.radiodos.com.ar/215685-personal-reabre-su-tienda-en-corrientes-y-continua-innovando-su-experiencia-comercial",
+      "title": "Personal reabre su Tienda en Corrientes y continúa innovando su experiencia comercial",
+      "volanta": "COMUNICACIÓN",
+      "date": "2026-10-20T19:21:31+00:00"
+    },
     {
       "id": "740a2788",
       "image": "img/740a2788.png",
@@ -531,15 +540,6 @@
       "title": "Criar a un hijo en Argentina cuesta hasta $728.850 por mes",
       "volanta": "Valores de septiembre",
       "date": "2026-10-17T00:55:54+00:00"
-    },
-    {
-      "id": "82758921",
-      "image": "img/82758921.png",
-      "image_sha": "8f68c30f9f3d55e001710122917edbfc676934fc",
-      "url": "https://www.radiodos.com.ar/215517-el-hospital-geriatrico-de-corrientes-realizo-una-charla-taller-sobre-manejo-de-ofidios-y-suero-antiofidico",
-      "title": "El Hospital Geriátrico de Corrientes realizó una charla-taller sobre manejo de ofidios y suero antiofídico",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-10-16T21:06:11+00:00"
     }
   ]
 }
