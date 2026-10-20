@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T13:25:54+00:00",
+  "updated": "2026-10-20T13:44:40+00:00",
   "posts": [
+    {
+      "id": "b138c247",
+      "image": "img/b138c247.png",
+      "image_sha": "07aa1e135b84c9de131012bfdfe02b2f045e22b2",
+      "url": "https://www.radiodos.com.ar/215677-peligro-al-volante-un-camionero-manejo-desde-corrientes-hasta-buenos-aires-con-265-g-l-de-alcohol-en-sangre",
+      "title": "Peligro al volante: un camionero manejó desde Corrientes hasta Buenos Aires con 2,65 g/l de alcohol en sangre",
+      "volanta": "GRAVÍSIMO",
+      "date": "2026-10-20T13:44:40+00:00"
+    },
     {
       "id": "ccc75f65",
       "image": "img/ccc75f65.png",
@@ -531,15 +540,6 @@
       "title": "Cerraron playa Molina Punta y Arazaty I y II siguen habilitadas con permanente monitoreo",
       "volanta": "SITUACIÓN ALARMANTE",
       "date": "2026-10-16T13:47:35+00:00"
-    },
-    {
-      "id": "2eecc623",
-      "image": "img/2eecc623.png",
-      "image_sha": "5da9d7777835abc232c728a962d09d32c65b1edd",
-      "url": "https://www.radiodos.com.ar/215487-desde-el-vaticano-pusieron-en-suspenso-el-viaje-del-papa-leon-xiv-a-la-argentina-si-es-necesario",
-      "title": "Desde el Vaticano pusieron en suspenso el viaje del papa León XIV a la Argentina: \"Si es necesario...\"",
-      "volanta": "INCERTIDUMBRE",
-      "date": "2026-10-16T13:24:00+00:00"
     }
   ]
 }
