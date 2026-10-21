@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T13:13:34+00:00",
+  "updated": "2026-10-21T13:27:18+00:00",
   "posts": [
+    {
+      "id": "a69d6df8",
+      "image": "img/a69d6df8.png",
+      "image_sha": "b92c04e2d5c3ca36eeb0025a33191f2167539bcb",
+      "url": "https://www.radiodos.com.ar/215745-filas-de-mas-de-diez-cuadras-en-ezeiza-para-conseguir-uno-de-los-40-puestos-de-un-supermercado",
+      "title": "Filas de más de diez cuadras en Ezeiza para conseguir uno de los 40 puestos de un supermercado",
+      "volanta": "NECESIDAD",
+      "date": "2026-10-21T13:27:18+00:00"
+    },
     {
       "id": "75ebd297",
       "image": "img/75ebd297.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Argentinos Juniors se llevó un triunfazo de su visita a Banfield",
       "volanta": "Fue 1  0",
       "date": "2026-10-17T23:52:10+00:00"
-    },
-    {
-      "id": "8e19e23e",
-      "image": "img/8e19e23e.png",
-      "image_sha": "6d3c2348056e97d7c0917fe44cf9c8905bdbaa47",
-      "url": "https://www.radiodos.com.ar/215541-avance-de-las-aguas-en-la-playa-yvaga-punta-norte-en-ituzaingo",
-      "title": "Avance de las aguas en la Playa Yvaga Punta Norte en Ituzaingó",
-      "volanta": "Crecida del Río Paraná",
-      "date": "2026-10-17T20:36:13+00:00"
     }
   ]
 }
