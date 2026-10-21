@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T10:23:03+00:00",
+  "updated": "2026-10-21T10:34:02+00:00",
   "posts": [
+    {
+      "id": "8caa91d7",
+      "image": "img/8caa91d7.png",
+      "image_sha": "657c684dfc7fc78a7e6004def4a0107120a17c70",
+      "url": "https://www.radiodos.com.ar/215720-leandro-paredes-el-heroe-de-boca-en-el-maracana-el-riesgo-estaba-claro-pero-valia-la-pena",
+      "title": "Leandro Paredes, el héroe de Boca en el Maracaná: \"El riesgo estaba claro, pero valía la pena\"",
+      "volanta": "Sudamericana 2026",
+      "date": "2026-10-21T10:34:02+00:00"
+    },
     {
       "id": "594dba00",
       "image": "img/594dba00.png",
@@ -531,15 +540,6 @@
       "title": "Día de la Madre en Corrientes: los comercios aún no logran superar las ventas del año pasado",
       "volanta": "DIA ESPECIAL",
       "date": "2026-10-17T12:57:52+00:00"
-    },
-    {
-      "id": "764298f7",
-      "image": "img/764298f7.png",
-      "image_sha": "7b95ec47f4780481d3ecd4d134e6aedd8590c9aa",
-      "url": "https://www.radiodos.com.ar/215529-el-rio-parana-sigue-creciendo-en-las-costas-de-la-ciudad-de-corrientes",
-      "title": "El río Paraná sigue creciendo en las costas de la ciudad de Corrientes",
-      "volanta": "INUNDACIONES",
-      "date": "2026-10-17T12:16:50+00:00"
     }
   ]
 }
