@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T16:53:38+00:00",
+  "updated": "2026-10-21T16:54:12+00:00",
   "posts": [
+    {
+      "id": "96d234ca",
+      "image": "img/96d234ca.png",
+      "image_sha": "5e94b5da3b5017a4b88f52640b5985936c27de16",
+      "url": "https://www.radiodos.com.ar/215760-la-municipalidad-amplia-la-capacidad-del-drenaje-pluvial-en-el-canal-laguna-brava",
+      "title": "La Municipalidad amplía la capacidad del drenaje pluvial en el canal Laguna Brava",
+      "volanta": "SISTEMA PLUVIAL",
+      "date": "2026-10-21T16:54:12+00:00"
+    },
     {
       "id": "5bbb4e04",
       "image": "img/5bbb4e04.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a peones rurales que desaparecieron en Isla Ibirá Pitá",
       "volanta": "Frente a bella vista",
       "date": "2026-10-18T14:53:44+00:00"
-    },
-    {
-      "id": "315b4cf3",
-      "image": "img/315b4cf3.png",
-      "image_sha": "c0a5e2cbd4ebe3b39fd17ff16f25a4f9417df711",
-      "url": "https://www.radiodos.com.ar/215577-el-papa-leon-xiv-dio-su-primer-angelus-tras-la-operacion-gracias-a-los-que-rezaron-por-mi",
-      "title": "El papa León XIV dio su primer Ángelus tras la operación: \"Gracias a los que rezaron por mí\"",
-      "volanta": "VATICANO",
-      "date": "2026-10-18T13:48:32+00:00"
     }
   ]
 }
