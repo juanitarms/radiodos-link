@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T03:58:22+00:00",
+  "updated": "2026-10-21T10:23:03+00:00",
   "posts": [
+    {
+      "id": "594dba00",
+      "image": "img/594dba00.png",
+      "image_sha": "48285bd7bfa2da729c419ed7e40cfa5707050e22",
+      "url": "https://www.radiodos.com.ar/215721-maestra-desaparecida-en-corrientes-por-pedido-de-la-fiscalia-el-juez-ordeno-dos-nuevas-detenciones",
+      "title": "Maestra desaparecida en Corrientes: por pedido de la Fiscalía, el juez ordenó dos nuevas detenciones",
+      "volanta": "ANOCHE",
+      "date": "2026-10-21T10:23:03+00:00"
+    },
     {
       "id": "d4c235e7",
       "image": "img/d4c235e7.png",
@@ -531,15 +540,6 @@
       "title": "El río Paraná sigue creciendo en las costas de la ciudad de Corrientes",
       "volanta": "INUNDACIONES",
       "date": "2026-10-17T12:16:50+00:00"
-    },
-    {
-      "id": "5d487cb3",
-      "image": "img/5d487cb3.png",
-      "image_sha": "33600a3688b557a3bf6116f75dda2aa1cba2f46c",
-      "url": "https://www.radiodos.com.ar/215526-alejandro-toledo-nosotros-estamos-muy-metidos-muy-ilusionados-en-cumplir-el-objetivo-ascender",
-      "title": "Alejandro Toledo: \"Nosotros estamos muy metidos, muy ilusionados en cumplir el objetivo, ascender\"",
-      "volanta": "Recibe a Lipton en el Gigante del Berón de Astrada",
-      "date": "2026-10-17T02:37:50+00:00"
     }
   ]
 }
