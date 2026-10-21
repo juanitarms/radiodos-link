@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T19:21:31+00:00",
+  "updated": "2026-10-21T03:58:22+00:00",
   "posts": [
+    {
+      "id": "d4c235e7",
+      "image": "img/d4c235e7.png",
+      "image_sha": "e05f8861b39e1cfde4a752c1bce11a8156067b79",
+      "url": "https://www.radiodos.com.ar/215716-copa-sudamericana-una-pincelada-de-paredes-le-dio-la-clasificacion-a-boca-a-la-final",
+      "title": "Copa Sudamericana: Una pincelada de Paredes le dio la clasificación a Boca a la final",
+      "volanta": "Fue 3 a 1",
+      "date": "2026-10-21T03:58:22+00:00"
+    },
     {
       "id": "d2d88988",
       "image": "img/d2d88988.png",
@@ -531,15 +540,6 @@
       "title": "Alejandro Toledo: \"Nosotros estamos muy metidos, muy ilusionados en cumplir el objetivo, ascender\"",
       "volanta": "Recibe a Lipton en el Gigante del Berón de Astrada",
       "date": "2026-10-17T02:37:50+00:00"
-    },
-    {
-      "id": "bc6d2e78",
-      "image": "img/bc6d2e78.png",
-      "image_sha": "fb3501a590487c64c8f2b946b7b3bee07642c64b",
-      "url": "https://www.radiodos.com.ar/215524-criar-a-un-hijo-en-argentina-cuesta-hasta-728850-por-mes",
-      "title": "Criar a un hijo en Argentina cuesta hasta $728.850 por mes",
-      "volanta": "Valores de septiembre",
-      "date": "2026-10-17T00:55:54+00:00"
     }
   ]
 }
