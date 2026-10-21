@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T18:24:46+00:00",
+  "updated": "2026-10-21T18:25:21+00:00",
   "posts": [
+    {
+      "id": "1040ac6a",
+      "image": "img/1040ac6a.png",
+      "image_sha": "080a76c3658fece53469dcd4e68cfe8376d273fb",
+      "url": "https://www.radiodos.com.ar/215761-corrientes-impulsa-la-estrategia-hearts-para-prevenir-enfermedades-cardiovasculares",
+      "title": "Corrientes impulsa la estrategia HEARTS para prevenir enfermedades cardiovasculares",
+      "volanta": "EN LOS CENTROS DE SALUD",
+      "date": "2026-10-21T18:25:21+00:00"
+    },
     {
       "id": "abea38c5",
       "image": "img/abea38c5.png",
@@ -531,15 +540,6 @@
       "title": "Crecida del Paraná: 34 familias evacuadas y otras 24 autoevacuadas en Itatí",
       "volanta": "CORRIENTES",
       "date": "2026-10-18T21:16:47+00:00"
-    },
-    {
-      "id": "848d5d1e",
-      "image": "img/848d5d1e.png",
-      "image_sha": "c283a14066a57550a258a16a80db13ebf478191b",
-      "url": "https://www.radiodos.com.ar/215581-valdes-sobre-la-creciente-del-parana-esperemos-que-la-bajante-se-refleje-en-itati-y-paso-de-la-patria",
-      "title": "Valdés sobre la creciente del Paraná: \"Esperemos que la bajante se refleje en Itatí y Paso de la Patria\"",
-      "volanta": "EL NIÑO",
-      "date": "2026-10-18T21:16:10+00:00"
     }
   ]
 }
