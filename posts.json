@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T16:54:12+00:00",
+  "updated": "2026-10-21T18:24:46+00:00",
   "posts": [
+    {
+      "id": "abea38c5",
+      "image": "img/abea38c5.png",
+      "image_sha": "c2f6c66c73e2f179d73332f88efff83c57a7746a",
+      "url": "https://www.radiodos.com.ar/215759-una-pareja-recibira-una-indemnizacion-millonaria-tras-26-anos-por-una-antena-junto-a-su-casa",
+      "title": "Una pareja recibirá una indemnización millonaria tras 26 años por una antena junto a su casa",
+      "volanta": "LOMAS DE ZAMORA",
+      "date": "2026-10-21T18:24:46+00:00"
+    },
     {
       "id": "96d234ca",
       "image": "img/96d234ca.png",
@@ -531,15 +540,6 @@
       "title": "Valdés sobre la creciente del Paraná: \"Esperemos que la bajante se refleje en Itatí y Paso de la Patria\"",
       "volanta": "EL NIÑO",
       "date": "2026-10-18T21:16:10+00:00"
-    },
-    {
-      "id": "bf718f2d",
-      "image": "img/bf718f2d.png",
-      "image_sha": "dab717921fac62f0bf94cc041ba1db6d0da663fd",
-      "url": "https://www.radiodos.com.ar/215579-buscan-a-peones-rurales-que-desaparecieron-en-isla-ibira-pita",
-      "title": "Buscan a peones rurales que desaparecieron en Isla Ibirá Pitá",
-      "volanta": "Frente a bella vista",
-      "date": "2026-10-18T14:53:44+00:00"
     }
   ]
 }
