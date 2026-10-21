@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T16:53:01+00:00",
+  "updated": "2026-10-21T16:53:38+00:00",
   "posts": [
+    {
+      "id": "5bbb4e04",
+      "image": "img/5bbb4e04.png",
+      "image_sha": "6511cbdfb84bc2b080850f0880aaa2687ebbb751",
+      "url": "https://www.radiodos.com.ar/215758-sobreseyeron-al-adolescente-que-mato-a-un-companero-en-un-tiroteo-escolar",
+      "title": "Sobreseyeron al adolescente que mató a un compañero en un tiroteo escolar",
+      "volanta": "SANTA FE",
+      "date": "2026-10-21T16:53:38+00:00"
+    },
     {
       "id": "01329bf0",
       "image": "img/01329bf0.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV dio su primer Ángelus tras la operación: \"Gracias a los que rezaron por mí\"",
       "volanta": "VATICANO",
       "date": "2026-10-18T13:48:32+00:00"
-    },
-    {
-      "id": "c7459559",
-      "image": "img/c7459559.png",
-      "image_sha": "f2815eed6e85d788048ea1f65049e8cdce6c981d",
-      "url": "https://www.radiodos.com.ar/215578-prefectura-activo-la-etapa-de-alerta-en-corrientes",
-      "title": "Prefectura activó la etapa de alerta en Corrientes",
-      "volanta": "FENÓMENO DE EL NIÑO",
-      "date": "2026-10-18T13:33:42+00:00"
     }
   ]
 }
