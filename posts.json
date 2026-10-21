@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T10:34:02+00:00",
+  "updated": "2026-10-21T11:02:06+00:00",
   "posts": [
+    {
+      "id": "0daa82bc",
+      "image": "img/0daa82bc.png",
+      "image_sha": "0f3a80966144141e6e47d3db27dc4e1bbbdc24b9",
+      "url": "https://www.radiodos.com.ar/215711-un-hombre-mato-a-su-mujer-a-su-hijo-y-a-su-madre-y-luego-se-suicido",
+      "title": "Un hombre mató a su mujer, a su hijo y a su madre, y luego se suicidó",
+      "volanta": "HORROR",
+      "date": "2026-10-21T11:02:06+00:00"
+    },
     {
       "id": "8caa91d7",
       "image": "img/8caa91d7.png",
@@ -531,15 +540,6 @@
       "title": "El río Paraná alcanzó los 6,50 metros en la ciudad de Corrientes y podría alcanzar los 7,20 la próxima semana",
       "volanta": "ALERTA MÁXIMA",
       "date": "2026-10-17T16:22:05+00:00"
-    },
-    {
-      "id": "4cd7a285",
-      "image": "img/4cd7a285.png",
-      "image_sha": "8244da26bf66c65de2cd9e350e6bfd3f59e4be52",
-      "url": "https://www.radiodos.com.ar/215531-dia-de-la-madre-en-corrientes-los-comercios-aun-no-logran-superar-las-ventas-del-ano-pasado",
-      "title": "Día de la Madre en Corrientes: los comercios aún no logran superar las ventas del año pasado",
-      "volanta": "DIA ESPECIAL",
-      "date": "2026-10-17T12:57:52+00:00"
     }
   ]
 }
