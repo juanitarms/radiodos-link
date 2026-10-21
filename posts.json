@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T18:25:21+00:00",
+  "updated": "2026-10-21T18:25:56+00:00",
   "posts": [
+    {
+      "id": "e7661942",
+      "image": "img/e7661942.png",
+      "image_sha": "e57b0b22e5bcb2c3cba792b0b278bb2d591a3da9",
+      "url": "https://www.radiodos.com.ar/215763-con-una-fuerte-inversion-corrientes-afina-detalles-para-los-juegos-nacionales-2026",
+      "title": "Con una fuerte inversión, Corrientes afina detalles para los Juegos Nacionales 2026",
+      "volanta": "SECRETARÍA DE DEPORTES",
+      "date": "2026-10-21T18:25:56+00:00"
+    },
     {
       "id": "1040ac6a",
       "image": "img/1040ac6a.png",
@@ -531,15 +540,6 @@
       "title": "TRFA: En diez minutos lo dio vuelta el Sabalero, escapó de la serie de penales y ahora va por Lipton",
       "volanta": "DEPORTES",
       "date": "2026-10-18T22:36:30+00:00"
-    },
-    {
-      "id": "73b9c694",
-      "image": "img/73b9c694.png",
-      "image_sha": "fa4e51af00d51f2c6986d81e9de8edea8e0d7649",
-      "url": "https://www.radiodos.com.ar/215580-crecida-del-parana-34-familias-evacuadas-y-otras-24-autoevacuadas-en-itati",
-      "title": "Crecida del Paraná: 34 familias evacuadas y otras 24 autoevacuadas en Itatí",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-18T21:16:47+00:00"
     }
   ]
 }
