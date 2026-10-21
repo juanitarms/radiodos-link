@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T12:31:06+00:00",
+  "updated": "2026-10-21T13:13:34+00:00",
   "posts": [
+    {
+      "id": "75ebd297",
+      "image": "img/75ebd297.png",
+      "image_sha": "55844dd1bbb10266d7467889a3dd354f7c9e7f99",
+      "url": "https://www.radiodos.com.ar/215740-cerraron-un-complejo-termal-tras-la-muerte-de-un-nene-por-ameba-comecerebros",
+      "title": "Cerraron un complejo termal tras la muerte de un nene por ameba \"comecerebros\"",
+      "volanta": "Catamarca",
+      "date": "2026-10-21T13:13:34+00:00"
+    },
     {
       "id": "881f16e1",
       "image": "img/881f16e1.png",
@@ -531,15 +540,6 @@
       "title": "Avance de las aguas en la Playa Yvaga Punta Norte en Ituzaingó",
       "volanta": "Crecida del Río Paraná",
       "date": "2026-10-17T20:36:13+00:00"
-    },
-    {
-      "id": "a081ed98",
-      "image": "img/a081ed98.png",
-      "image_sha": "12b76febe9bb9d7d39be1dd5accfef5fdf6520cb",
-      "url": "https://www.radiodos.com.ar/215540-avance-e-ingreso-de-la-crecida-del-rio-parana-en-isla-cerrito",
-      "title": "Avance e Ingreso de la Crecida del Río Paraná en Isla Cerrito",
-      "volanta": "Desastre Natural",
-      "date": "2026-10-17T19:07:23+00:00"
     }
   ]
 }
