@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T19:16:17+00:00",
+  "updated": "2026-10-21T19:16:55+00:00",
   "posts": [
+    {
+      "id": "c90e092b",
+      "image": "img/c90e092b.png",
+      "image_sha": "01b54dfe4f6af6bc3fe0e174c6d5247ceb689d13",
+      "url": "https://www.radiodos.com.ar/215768-en-itati-y-paso-de-la-patria-la-provincia-asiste-a-familias-afectadas-por-la-crecida-del-parana",
+      "title": "En Itatí y Paso de la Patria, la Provincia asiste a familias afectadas por la crecida del Paraná",
+      "volanta": "FENÓMENO DE EL NIÑO",
+      "date": "2026-10-21T19:16:55+00:00"
+    },
     {
       "id": "347226d5",
       "image": "img/347226d5.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: En el clásico de Avellaneda, hubo tablas en el Cilindro",
       "volanta": "CLÁSICO",
       "date": "2026-10-19T11:06:32+00:00"
-    },
-    {
-      "id": "bf5db34a",
-      "image": "img/bf5db34a.png",
-      "image_sha": "77f24828750a53dff8eed673a445ce1a02f6bc14",
-      "url": "https://www.radiodos.com.ar/215593-torneo-clausura-river-goleo-a-belgrano-de-visitante-y-volvio-a-mostrar-su-mejor-version",
-      "title": "Torneo Clausura: River goleó a Belgrano de visitante y volvió a mostrar su mejor versión",
-      "volanta": "Fue 3 a 0",
-      "date": "2026-10-19T10:37:49+00:00"
     }
   ]
 }
