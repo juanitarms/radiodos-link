@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T11:02:06+00:00",
+  "updated": "2026-10-21T12:03:12+00:00",
   "posts": [
+    {
+      "id": "194870f7",
+      "image": "img/194870f7.png",
+      "image_sha": "dee86f749fe00dd276210fe7fde2f629598be89d",
+      "url": "https://www.radiodos.com.ar/215730-olimpico-se-impuso-ampliamente-ante-san-martin",
+      "title": "Olímpico se impuso ampliamente ante San Martín",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-10-21T12:03:12+00:00"
+    },
     {
       "id": "0daa82bc",
       "image": "img/0daa82bc.png",
@@ -531,15 +540,6 @@
       "title": "Impresionante despliegue: más de 80 policías, drones, caballos y canes para buscar a la maestra rural desaparecida en Corrientes",
       "volanta": "AHORA",
       "date": "2026-10-17T17:27:45+00:00"
-    },
-    {
-      "id": "cf6001bd",
-      "image": "img/cf6001bd.png",
-      "image_sha": "73e695bb3b65bb83294efa1b907963eee387117c",
-      "url": "https://www.radiodos.com.ar/215539-el-rio-parana-alcanzo-los-650-metros-en-la-ciudad-de-corrientes-y-podria-alcanzar-los-720-la-proxima-semana",
-      "title": "El río Paraná alcanzó los 6,50 metros en la ciudad de Corrientes y podría alcanzar los 7,20 la próxima semana",
-      "volanta": "ALERTA MÁXIMA",
-      "date": "2026-10-17T16:22:05+00:00"
     }
   ]
 }
