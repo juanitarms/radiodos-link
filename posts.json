@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T14:40:29+00:00",
+  "updated": "2026-10-21T16:53:01+00:00",
   "posts": [
+    {
+      "id": "01329bf0",
+      "image": "img/01329bf0.png",
+      "image_sha": "3119a7e00a7ed4c14ffaadb5307b331d95b4f0f3",
+      "url": "https://www.radiodos.com.ar/215756-luck-ra-prepara-una-bachata-con-khea-y-una-frase-de-la-letra-desperto-rumores-sobre-la-joaqui",
+      "title": "Luck Ra prepara una bachata con Khea y una frase de la letra despertó rumores sobre La Joaqui",
+      "volanta": "SE VIENE",
+      "date": "2026-10-21T16:53:01+00:00"
+    },
     {
       "id": "51d0b784",
       "image": "img/51d0b784.png",
@@ -531,15 +540,6 @@
       "title": "Prefectura activó la etapa de alerta en Corrientes",
       "volanta": "FENÓMENO DE EL NIÑO",
       "date": "2026-10-18T13:33:42+00:00"
-    },
-    {
-      "id": "3a75182b",
-      "image": "img/3a75182b.png",
-      "image_sha": "3ade88455b92bf3acd10937a44fe7b3c003f5841",
-      "url": "https://www.radiodos.com.ar/215576-mls-triunfo-y-doblete-con-magia-de-messi",
-      "title": "MLS: Triunfo y doblete con magia de Messi",
-      "volanta": "936 goles",
-      "date": "2026-10-18T13:12:02+00:00"
     }
   ]
 }
