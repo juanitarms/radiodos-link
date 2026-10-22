@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T16:25:51+00:00",
+  "updated": "2026-10-22T16:26:38+00:00",
   "posts": [
+    {
+      "id": "a3789e8c",
+      "image": "img/a3789e8c.png",
+      "image_sha": "24ae4f7405f8fa33c43a39f68f5af2922714c356",
+      "url": "https://www.radiodos.com.ar/215821-el-gobierno-provincial-refuerza-un-terraplen-y-acondiciona-albergues-en-paso-de-la-patria",
+      "title": "El Gobierno provincial refuerza un terraplén y acondiciona albergues en Paso de la Patria",
+      "volanta": "ANTE LAS CRECIDAS DEL RÍO PARANÁ",
+      "date": "2026-10-22T16:26:38+00:00"
+    },
     {
       "id": "a53a42f6",
       "image": "img/a53a42f6.png",
@@ -531,15 +540,6 @@
       "title": "Abrieron las compuertas de la represa más grande de Sudamérica ante la crecida de los ríos",
       "volanta": "alerta",
       "date": "2026-10-19T22:11:36+00:00"
-    },
-    {
-      "id": "9022b82e",
-      "image": "img/9022b82e.png",
-      "image_sha": "88b7f792f585f50dd65778e8a8166de2db48368a",
-      "url": "https://www.radiodos.com.ar/215643-el-nino-kicillof-denunciara-penalmente-a-milei-y-a-caputo-por-los-fondos-para-prevenir-inundaciones",
-      "title": "\"El Niño\": Kicillof denunciará penalmente a Milei y a Caputo por los fondos para prevenir inundaciones",
-      "volanta": "duras palabras",
-      "date": "2026-10-19T21:07:58+00:00"
     }
   ]
 }
