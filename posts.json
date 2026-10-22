@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T16:28:00+00:00",
+  "updated": "2026-10-22T17:59:54+00:00",
   "posts": [
+    {
+      "id": "aee09541",
+      "image": "img/aee09541.png",
+      "image_sha": "fe4b2ad17291dc32e76628fd24aed12941e68933",
+      "url": "https://www.radiodos.com.ar/215831-carlos-mino-nuevo-dt-de-san-martin-hay-que-abrazar-los-desafios-y-mirar-las-oportunidades",
+      "title": "Carlos Miño, nuevo DT de San Martín: \"Hay que abrazar los desafíos y mirar las oportunidades\"",
+      "volanta": "Reemplaza al Gato Revidatti",
+      "date": "2026-10-22T17:59:54+00:00"
+    },
     {
       "id": "e1eed8c1",
       "image": "img/e1eed8c1.png",
@@ -531,15 +540,6 @@
       "title": "El arzobispo de Luján ratificó la visita del papa León XIV a la Argentina: \"Todo sigue en pie\"",
       "volanta": "CRECE LA EXPECTATIVA",
       "date": "2026-10-19T22:18:13+00:00"
-    },
-    {
-      "id": "7e163a9e",
-      "image": "img/7e163a9e.png",
-      "image_sha": "a3a4a8e0db6466908a5fe6f8a8dbf92a8ce854af",
-      "url": "https://www.radiodos.com.ar/215651-crecida-del-rio-parana-todos-los-puertos-al-norte-de-corrientes-estan-estacionados",
-      "title": "Crecida del río Paraná: todos los puertos al norte de Corrientes están estacionados",
-      "volanta": "AHORA",
-      "date": "2026-10-19T22:12:42+00:00"
     }
   ]
 }
