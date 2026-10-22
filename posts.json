@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T16:27:25+00:00",
+  "updated": "2026-10-22T16:28:00+00:00",
   "posts": [
+    {
+      "id": "e1eed8c1",
+      "image": "img/e1eed8c1.png",
+      "image_sha": "87222c65e58af38e5ff3119b827db8c493b7b8fb",
+      "url": "https://www.radiodos.com.ar/215818-itati-prefectura-facilita-el-traslado-de-alumnos-a-sus-escuelas",
+      "title": "Itatí: Prefectura facilita el traslado de alumnos a sus escuelas",
+      "volanta": "Caminos anegados por la crecida",
+      "date": "2026-10-22T16:28:00+00:00"
+    },
     {
       "id": "0750e75f",
       "image": "img/0750e75f.png",
@@ -531,15 +540,6 @@
       "title": "Crecida del río Paraná: todos los puertos al norte de Corrientes están estacionados",
       "volanta": "AHORA",
       "date": "2026-10-19T22:12:42+00:00"
-    },
-    {
-      "id": "1e85a26c",
-      "image": "img/1e85a26c.png",
-      "image_sha": "2e54a816cf4e4c40540a8c5f1d77cfec6b10b5cc",
-      "url": "https://www.radiodos.com.ar/215646-el-club-hipico-santa-catalina-brillo-en-el-campeonato-federal-de-saltos-hipicos",
-      "title": "El Club Hípico Santa Catalina brilló en el Campeonato Federal de Saltos Hípicos",
-      "volanta": "EN CÓRDOBA",
-      "date": "2026-10-19T22:12:10+00:00"
     }
   ]
 }
