@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T19:36:13+00:00",
+  "updated": "2026-10-22T20:48:44+00:00",
   "posts": [
+    {
+      "id": "cff57d2b",
+      "image": "img/cff57d2b.png",
+      "image_sha": "35706d586eaef78ea9c67fcd281f2565832a3a14",
+      "url": "https://www.radiodos.com.ar/215835-corrientes-en-noviembre-inician-las-inscripciones-para-el-ciclo-lectivo-2027",
+      "title": "Corrientes: en noviembre inician las inscripciones para el ciclo lectivo 2027",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-10-22T20:48:44+00:00"
+    },
     {
       "id": "86a7e51b",
       "image": "img/86a7e51b.png",
@@ -531,15 +540,6 @@
       "title": "Robó un Iphone y lo quería vender en redes sociales: fue detenido",
       "volanta": "COMISARIA 5º URBANA",
       "date": "2026-10-20T12:08:46+00:00"
-    },
-    {
-      "id": "d6e671d6",
-      "image": "img/d6e671d6.png",
-      "image_sha": "b1ec33b9f0c12243efb59c6d7c3c0c5ed57942ef",
-      "url": "https://www.radiodos.com.ar/215661-todavia-faltan-sacar-11000-vacas-en-medio-de-la-urgencia-por-la-crecida-del-rio-parana-en-campos-de-corrientes",
-      "title": "Todavía faltan sacar 11.000 vacas en medio de la urgencia por la crecida del río Paraná en campos de Corrientes",
-      "volanta": "Efecto Niño",
-      "date": "2026-10-20T11:54:15+00:00"
     }
   ]
 }
