@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T11:15:35+00:00",
+  "updated": "2026-10-22T11:29:56+00:00",
   "posts": [
+    {
+      "id": "feab7d66",
+      "image": "img/feab7d66.png",
+      "image_sha": "3ab917d47bd540c6cf8a7d1d275cb7c17d6f5660",
+      "url": "https://www.radiodos.com.ar/215787-juicio-por-la-desaparicion-de-loan-declaran-siete-testigos-entre-ellos-un-vidente-y-un-cura",
+      "title": "Juicio por la desaparición de Loan: declaran siete testigos, entre ellos un vidente y un cura",
+      "volanta": "AUDIENCIA DE HOY",
+      "date": "2026-10-22T11:29:56+00:00"
+    },
     {
       "id": "15d7d7da",
       "image": "img/15d7d7da.png",
@@ -531,15 +540,6 @@
       "title": "Fueron hallados los cuerpos de los hombres que desaparecieron cuando cruzaban a caballo el río Paraná",
       "volanta": "TRAGEDIA",
       "date": "2026-10-19T12:55:33+00:00"
-    },
-    {
-      "id": "9b52e87c",
-      "image": "img/9b52e87c.png",
-      "image_sha": "21092564e638342a5e3993511e4b2df006991762",
-      "url": "https://www.radiodos.com.ar/215608-nueva-semana-de-ferias-de-la-ciudad-frutas-verduras-artesanias-y-propuestas-gastronomicas",
-      "title": "Nueva semana de Ferias de la Ciudad: frutas, verduras, artesanías y propuestas gastronómicas",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-10-19T12:34:31+00:00"
     }
   ]
 }
