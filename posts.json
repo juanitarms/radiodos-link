@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T18:00:37+00:00",
+  "updated": "2026-10-22T18:45:03+00:00",
   "posts": [
+    {
+      "id": "7c495060",
+      "image": "img/7c495060.png",
+      "image_sha": "5e880a45e0c0d6e3e803eb67b55b4d2e0015f845",
+      "url": "https://www.radiodos.com.ar/215827-la-unne-busca-recuperar-el-predio-deportivo-del-campus-resistencia-para-su-comunidad",
+      "title": "La UNNE busca recuperar el predio deportivo del Campus Resistencia para su comunidad",
+      "volanta": "DEFENSA DEL PATRIMONIO UNIVERSITARIO",
+      "date": "2026-10-22T18:45:03+00:00"
+    },
     {
       "id": "04e912e7",
       "image": "img/04e912e7.png",
@@ -531,15 +540,6 @@
       "title": "Brillante desempeño correntino: Federica Quijano Aragues brilló en el Torneo Federal de Salto Hípico en Córdoba",
       "volanta": "3ra en Escuela Mayor 0,80 m",
       "date": "2026-10-20T00:41:22+00:00"
-    },
-    {
-      "id": "0bce4a0c",
-      "image": "img/0bce4a0c.png",
-      "image_sha": "1261fa1eb859e99c56fa71de6ee003e6e4e38329",
-      "url": "https://www.radiodos.com.ar/215648-malvinas-trump-busca-cerrar-el-comite-de-la-onu-que-respalda-el-reclamo-argentino",
-      "title": "Malvinas: Trump busca cerrar el comité de la ONU que respalda el reclamo argentino",
-      "volanta": "polémica",
-      "date": "2026-10-19T22:55:19+00:00"
     }
   ]
 }
