@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T14:42:03+00:00",
+  "updated": "2026-10-22T15:08:52+00:00",
   "posts": [
+    {
+      "id": "5f5e2684",
+      "image": "img/5f5e2684.png",
+      "image_sha": "7424948b57964b4e9289eac06b7b6976b0e65c9a",
+      "url": "https://www.radiodos.com.ar/215817-corrientes-dira-presente-en-los-juegos-argentinos-urbanos-2026",
+      "title": "Corrientes dirá presente en los Juegos Argentinos Urbanos 2026",
+      "volanta": "DEL 28 AL 31 DE OCTUBRE",
+      "date": "2026-10-22T15:08:52+00:00"
+    },
     {
       "id": "c28e3406",
       "image": "img/c28e3406.png",
@@ -531,15 +540,6 @@
       "title": "Sigue la búsqueda de la maestra rural en Corrientes: ordenaron la detención de uno de los peones que la escoltó hasta la escuela",
       "volanta": "ZONA RURAL DE ESQUINA",
       "date": "2026-10-19T21:07:23+00:00"
-    },
-    {
-      "id": "aa0765c4",
-      "image": "img/aa0765c4.png",
-      "image_sha": "05a929268fa0159fa807ebb2794b3a455edf056c",
-      "url": "https://www.radiodos.com.ar/215647-maestra-desaparecida-en-corrientes-encontraron-ropa-y-una-cuchilla-con-sangre-en-la-casa-del-peon-detenido",
-      "title": "Maestra desaparecida en Corrientes: encontraron ropa y una cuchilla con sangre en la casa del peón detenido",
-      "volanta": "MUCHO MISTERIO",
-      "date": "2026-10-19T21:05:27+00:00"
     }
   ]
 }
