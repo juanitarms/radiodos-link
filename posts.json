@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T14:11:39+00:00",
+  "updated": "2026-10-22T14:22:53+00:00",
   "posts": [
+    {
+      "id": "092bf0a3",
+      "image": "img/092bf0a3.png",
+      "image_sha": "41f9126f0c996c94f6b71e71a3e801dad584c285",
+      "url": "https://www.radiodos.com.ar/215807-zoe-bogach-se-sometio-a-un-doloroso-retoque-estetico-y-encendio-las-criticas-en-redes",
+      "title": "Zoe Bogach se sometió a un doloroso retoque estético y encendió las críticas en redes",
+      "volanta": "OTRA VEZ",
+      "date": "2026-10-22T14:22:53+00:00"
+    },
     {
       "id": "8095f7d0",
       "image": "img/8095f7d0.png",
@@ -531,15 +540,6 @@
       "title": "El niño entra en su punto máximo: recomiendan verificar planes municipales y provinciales",
       "volanta": "NOTA TECNICA N°6",
       "date": "2026-10-19T18:33:36+00:00"
-    },
-    {
-      "id": "81b14af9",
-      "image": "img/81b14af9.png",
-      "image_sha": "671520abc2b5dc21be514d38e331ac80f7f888cf",
-      "url": "https://www.radiodos.com.ar/215632-rescatan-a-dos-guazunchos-que-llegaron-a-la-costanera-sur-de-corrientes",
-      "title": "Rescatan a dos guazunchos que llegaron a la Costanera Sur de Corrientes",
-      "volanta": "EFECTOS DE LA CRECIENTE",
-      "date": "2026-10-19T17:18:02+00:00"
     }
   ]
 }
