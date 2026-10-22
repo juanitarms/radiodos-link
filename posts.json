@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T17:59:54+00:00",
+  "updated": "2026-10-22T18:00:37+00:00",
   "posts": [
+    {
+      "id": "04e912e7",
+      "image": "img/04e912e7.png",
+      "image_sha": "c34203973fbac4023a0326f8bbe0047e667a4319",
+      "url": "https://www.radiodos.com.ar/215829-en-came-pymes-argentinas-exploraron-el-mercado-de-emiratos-arabes-unidos",
+      "title": "En CAME, pymes argentinas exploraron el mercado de Emiratos Árabes Unidos",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-10-22T18:00:37+00:00"
+    },
     {
       "id": "aee09541",
       "image": "img/aee09541.png",
@@ -531,15 +540,6 @@
       "title": "Malvinas: Trump busca cerrar el comité de la ONU que respalda el reclamo argentino",
       "volanta": "polémica",
       "date": "2026-10-19T22:55:19+00:00"
-    },
-    {
-      "id": "7eaa72fb",
-      "image": "img/7eaa72fb.png",
-      "image_sha": "458bb031228e418b2b6bd179545d29a8228fe292",
-      "url": "https://www.radiodos.com.ar/215650-el-arzobispo-de-lujan-ratifico-la-visita-del-papa-leon-xiv-a-la-argentina-todo-sigue-en-pie",
-      "title": "El arzobispo de Luján ratificó la visita del papa León XIV a la Argentina: \"Todo sigue en pie\"",
-      "volanta": "CRECE LA EXPECTATIVA",
-      "date": "2026-10-19T22:18:13+00:00"
     }
   ]
 }
