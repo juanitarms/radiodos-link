@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T13:10:20+00:00",
+  "updated": "2026-10-22T13:23:39+00:00",
   "posts": [
+    {
+      "id": "cf7bb5f4",
+      "image": "img/cf7bb5f4.png",
+      "image_sha": "af890a35fa9dc51c514d7349dc009570075c0f6d",
+      "url": "https://www.radiodos.com.ar/215796-diputados-dio-media-sancion-con-abrumadora-mayoria-a-la-nueva-ley-de-discapacidad",
+      "title": "Diputados dio media sanción con abrumadora mayoría a la nueva Ley de Discapacidad",
+      "volanta": "CONGRESO",
+      "date": "2026-10-22T13:23:39+00:00"
+    },
     {
       "id": "03b9bc5d",
       "image": "img/03b9bc5d.png",
@@ -531,15 +540,6 @@
       "title": "Docente desaparecida: Disponen que otra fiscal colabore en la investigación",
       "volanta": "ESQUINA",
       "date": "2026-10-19T17:15:39+00:00"
-    },
-    {
-      "id": "62996866",
-      "image": "img/62996866.png",
-      "image_sha": "1927083b8b9e67ce0a15a8134942e9362d36b52f",
-      "url": "https://www.radiodos.com.ar/215622-inundaciones-el-rio-parana-se-mantiene-en-707-metros-en-la-ciudad-de-corrientes",
-      "title": "Inundaciones: el río Paraná se mantiene en 7,07 metros en la ciudad de Corrientes",
-      "volanta": "FENÓMENO EL NIÑO",
-      "date": "2026-10-19T15:04:16+00:00"
     }
   ]
 }
