@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T18:46:34+00:00",
+  "updated": "2026-10-22T19:36:13+00:00",
   "posts": [
+    {
+      "id": "86a7e51b",
+      "image": "img/86a7e51b.png",
+      "image_sha": "610b51a1dad325f86401ccecce00c1ff2d075358",
+      "url": "https://www.radiodos.com.ar/215824-educacion-fisica-docentes-correntinos-se-capacitaron-con-el-especialista-horacio-anselmi",
+      "title": "Educación Física: docentes correntinos se capacitaron con el especialista Horacio Anselmi",
+      "volanta": "MINISTERIO DE EDUCACIÓN",
+      "date": "2026-10-22T19:36:13+00:00"
+    },
     {
       "id": "810d9a6c",
       "image": "img/810d9a6c.png",
@@ -531,15 +540,6 @@
       "title": "Todavía faltan sacar 11.000 vacas en medio de la urgencia por la crecida del río Paraná en campos de Corrientes",
       "volanta": "Efecto Niño",
       "date": "2026-10-20T11:54:15+00:00"
-    },
-    {
-      "id": "ed48f05e",
-      "image": "img/ed48f05e.png",
-      "image_sha": "7c22479add43ecd3d97332f574b8a04f6ae25e2a",
-      "url": "https://www.radiodos.com.ar/215656-torneo-clausura-instituto-manda-con-autoridad-en-el-grupo-a-y-la-lucha-se-frena-al-rojo-vivo-en-el-grupo-b",
-      "title": "Torneo Clausura: Instituto manda con autoridad en el Grupo A y la lucha se frena al rojo vivo en el Grupo B",
-      "volanta": "FÚTBOL",
-      "date": "2026-10-20T11:25:45+00:00"
     }
   ]
 }
