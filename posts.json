@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T13:23:39+00:00",
+  "updated": "2026-10-22T13:53:55+00:00",
   "posts": [
+    {
+      "id": "5c67ef04",
+      "image": "img/5c67ef04.png",
+      "image_sha": "67bd6bc0f8365ced2650030811da33e18df257b7",
+      "url": "https://www.radiodos.com.ar/215809-encendido-discurso-de-rolando-grana-contra-javier-milei-en-los-martin-fierro-la-gente-no-llega-a-fin-de-mes",
+      "title": "Encendido discurso de Rolando Graña contra Javier Milei en los Martín Fierro: \"La gente no llega a fin de mes\"",
+      "volanta": "POLÉMICO",
+      "date": "2026-10-22T13:53:55+00:00"
+    },
     {
       "id": "cf7bb5f4",
       "image": "img/cf7bb5f4.png",
@@ -531,15 +540,6 @@
       "title": "Encontraron en Uruguay a la adolescente de 15 años que era buscada con Alerta Sofía",
       "volanta": "BAJO GUARDIA",
       "date": "2026-10-19T17:17:27+00:00"
-    },
-    {
-      "id": "2913fdef",
-      "image": "img/2913fdef.png",
-      "image_sha": "0fbc3629fb9a2b05c9d863cd0b89871c515601d7",
-      "url": "https://www.radiodos.com.ar/215638-docente-desaparecida-disponen-que-otra-fiscal-colabore-en-la-investigacion",
-      "title": "Docente desaparecida: Disponen que otra fiscal colabore en la investigación",
-      "volanta": "ESQUINA",
-      "date": "2026-10-19T17:15:39+00:00"
     }
   ]
 }
