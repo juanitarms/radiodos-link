@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T14:22:53+00:00",
+  "updated": "2026-10-22T14:42:03+00:00",
   "posts": [
+    {
+      "id": "c28e3406",
+      "image": "img/c28e3406.png",
+      "image_sha": "a4edf55d5998f3955b102682484adc9a9474ee51",
+      "url": "https://www.radiodos.com.ar/215812-donald-trump-lanzo-su-plan-platita-de-cara-a-las-elecciones-y-echa-mano-de-las-reservas-de-diesel-del-pais",
+      "title": "Donald Trump lanzó su \"plan platita\" de cara a las elecciones y echa mano de las reservas de diésel del país",
+      "volanta": "El 3 de noviembre",
+      "date": "2026-10-22T14:42:03+00:00"
+    },
     {
       "id": "092bf0a3",
       "image": "img/092bf0a3.png",
@@ -531,15 +540,6 @@
       "title": "Maestra desaparecida en Corrientes: encontraron ropa y una cuchilla con sangre en la casa del peón detenido",
       "volanta": "MUCHO MISTERIO",
       "date": "2026-10-19T21:05:27+00:00"
-    },
-    {
-      "id": "c96f4715",
-      "image": "img/c96f4715.png",
-      "image_sha": "af11df3ac3d124e515962ce00152f9f191f1f124",
-      "url": "https://www.radiodos.com.ar/215641-el-nino-entra-en-su-punto-maximo-recomiendan-verificar-planes-municipales-y-provinciales",
-      "title": "El niño entra en su punto máximo: recomiendan verificar planes municipales y provinciales",
-      "volanta": "NOTA TECNICA N°6",
-      "date": "2026-10-19T18:33:36+00:00"
     }
   ]
 }
