@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T20:22:33+00:00",
+  "updated": "2026-10-22T10:04:40+00:00",
   "posts": [
+    {
+      "id": "8e646a88",
+      "image": "img/8e646a88.png",
+      "image_sha": "9ebcae61664b5bb68039c3adee4e72206d13f1f9",
+      "url": "https://www.radiodos.com.ar/215785-maestra-desaparecida-en-corrientes-hay-dos-peones-detenidos-mas-y-las-sospechas-recaen-sobre-uno-de-ellos",
+      "title": "Maestra desaparecida en Corrientes: hay dos peones detenidos más, y las sospechas recaen sobre uno de ellos",
+      "volanta": "SON CINCO DETENIDOS",
+      "date": "2026-10-22T10:04:40+00:00"
+    },
     {
       "id": "50e55b4e",
       "image": "img/50e55b4e.png",
@@ -531,15 +540,6 @@
       "title": "NEA Tech 2026: Corrientes vivió tres jornadas a pura innovación",
       "volanta": "EN EL MACC",
       "date": "2026-10-19T12:06:50+00:00"
-    },
-    {
-      "id": "1db0b726",
-      "image": "img/1db0b726.png",
-      "image_sha": "a4286493ce20842e039534f4233c4416176cd258",
-      "url": "https://www.radiodos.com.ar/215596-corrientes-un-nene-de-11-anos-pescaba-en-un-puente-y-murio-tras-ser-atropellado",
-      "title": "Corrientes: un nene de 11 años pescaba en un puente y murió tras ser atropellado",
-      "volanta": "DESCANSO Y TRAGEDIA",
-      "date": "2026-10-19T11:36:52+00:00"
     }
   ]
 }
