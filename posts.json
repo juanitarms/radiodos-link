@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T18:45:51+00:00",
+  "updated": "2026-10-22T18:46:34+00:00",
   "posts": [
+    {
+      "id": "810d9a6c",
+      "image": "img/810d9a6c.png",
+      "image_sha": "8181fea1fa9a35e27592bafab807ed35d3a0b447",
+      "url": "https://www.radiodos.com.ar/215823-came-y-leasing-argentina-impulsan-el-leasing-y-la-capacitacion-para-las-pymes-de-todo-el-pais",
+      "title": "CAME y Leasing Argentina impulsan el leasing y la capacitación para las pymes de todo el país",
+      "volanta": "Comercio",
+      "date": "2026-10-22T18:46:34+00:00"
+    },
     {
       "id": "70f21388",
       "image": "img/70f21388.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Instituto manda con autoridad en el Grupo A y la lucha se frena al rojo vivo en el Grupo B",
       "volanta": "FÚTBOL",
       "date": "2026-10-20T11:25:45+00:00"
-    },
-    {
-      "id": "c478dc6f",
-      "image": "img/c478dc6f.png",
-      "image_sha": "2d6e57733c9e378659bcb4a421a9d3f3a24a58d6",
-      "url": "https://www.radiodos.com.ar/215657-corrientes-multitudinaria-marcha-por-la-aparicion-con-vida-de-la-maestra-nancy-godoy",
-      "title": "Corrientes: multitudinaria Marcha por la aparición con vida de la maestra Nancy Godoy",
-      "volanta": "Búsqueda",
-      "date": "2026-10-20T10:35:27+00:00"
     }
   ]
 }
