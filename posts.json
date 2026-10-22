@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T11:29:56+00:00",
+  "updated": "2026-10-22T12:07:21+00:00",
   "posts": [
+    {
+      "id": "45db17a9",
+      "image": "img/45db17a9.png",
+      "image_sha": "ef993100076f980ca54a3f6d11e66800e88687de",
+      "url": "https://www.radiodos.com.ar/215789-el-gobierno-provincial-llevo-asistencia-a-los-afectados-por-la-creciente-del-rio-en-itati",
+      "title": "El Gobierno provincial llevó asistencia a los afectados por la creciente del río en Itatí",
+      "volanta": "FENÓMENO EL NIÑO",
+      "date": "2026-10-22T12:07:21+00:00"
+    },
     {
       "id": "feab7d66",
       "image": "img/feab7d66.png",
@@ -531,15 +540,6 @@
       "title": "Reapareció el papa León XIV: \"Gracias a todos los que han rezado por mí, he sentido su apoyo\"",
       "volanta": "VATICANO",
       "date": "2026-10-19T13:30:16+00:00"
-    },
-    {
-      "id": "be828d01",
-      "image": "img/be828d01.png",
-      "image_sha": "8fb2eb55c04b331381ddb05764b0d9250b0ee046",
-      "url": "https://www.radiodos.com.ar/215613-fueron-hallados-los-cuerpos-de-los-hombres-que-desaparecieron-cuando-cruzaban-a-caballo-el-rio-parana",
-      "title": "Fueron hallados los cuerpos de los hombres que desaparecieron cuando cruzaban a caballo el río Paraná",
-      "volanta": "TRAGEDIA",
-      "date": "2026-10-19T12:55:33+00:00"
     }
   ]
 }
