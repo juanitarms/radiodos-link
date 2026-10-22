@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T12:47:47+00:00",
+  "updated": "2026-10-22T13:10:20+00:00",
   "posts": [
+    {
+      "id": "03b9bc5d",
+      "image": "img/03b9bc5d.png",
+      "image_sha": "2fb6504109f52c32103e60a255bbc20c8cd96e34",
+      "url": "https://www.radiodos.com.ar/215798-los-salarios-subieron-27-en-agosto-y-siguen-perdiendo-con-la-inflacion",
+      "title": "Los salarios subieron 2,7% en agosto y siguen perdiendo con la inflación",
+      "volanta": "ECONOMÍA",
+      "date": "2026-10-22T13:10:20+00:00"
+    },
     {
       "id": "81a6f6ed",
       "image": "img/81a6f6ed.png",
@@ -531,15 +540,6 @@
       "title": "Inundaciones: el río Paraná se mantiene en 7,07 metros en la ciudad de Corrientes",
       "volanta": "FENÓMENO EL NIÑO",
       "date": "2026-10-19T15:04:16+00:00"
-    },
-    {
-      "id": "b99d042e",
-      "image": "img/b99d042e.png",
-      "image_sha": "d601cffa7241767144c8d7d0abe236689db0ebfe",
-      "url": "https://www.radiodos.com.ar/215628-la-feliz-noticia-de-nicolas-keenan-sera-padre-junto-al-primer-ministro-de-paises-bajos",
-      "title": "La feliz noticia de Nicolás Keenan: será padre junto al primer ministro de Países Bajos",
-      "volanta": "GRAN FAMILIA",
-      "date": "2026-10-19T14:22:38+00:00"
     }
   ]
 }
