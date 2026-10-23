@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T17:54:24+00:00",
+  "updated": "2026-10-23T17:55:04+00:00",
   "posts": [
+    {
+      "id": "853741b7",
+      "image": "img/853741b7.png",
+      "image_sha": "a992faab2a01e93fd2c3eab7de0aaf2bce144755",
+      "url": "https://www.radiodos.com.ar/215893-causa-nanci-godoy-se-dispuso-que-continue-la-prision-preventiva-de-sergio-nahuel-rojas-y-rosa-leguizamon",
+      "title": "Causa Nanci Godoy: Se dispuso que continúe la prisión preventiva de Sergio Nahuel Rojas y Rosa Leguizamón",
+      "volanta": "AUDIENCIA PARA SOLICITAR MEDIDAS DE COERCIÓN",
+      "date": "2026-10-23T17:55:04+00:00"
+    },
     {
       "id": "70799494",
       "image": "img/70799494.png",
@@ -531,15 +540,6 @@
       "title": "Maestra desaparecida en Corrientes: por pedido de la Fiscalía, el juez ordenó dos nuevas detenciones",
       "volanta": "ANOCHE",
       "date": "2026-10-21T10:23:03+00:00"
-    },
-    {
-      "id": "d4c235e7",
-      "image": "img/d4c235e7.png",
-      "image_sha": "e05f8861b39e1cfde4a752c1bce11a8156067b79",
-      "url": "https://www.radiodos.com.ar/215716-copa-sudamericana-una-pincelada-de-paredes-le-dio-la-clasificacion-a-boca-a-la-final",
-      "title": "Copa Sudamericana: Una pincelada de Paredes le dio la clasificación a Boca a la final",
-      "volanta": "Fue 3 a 1",
-      "date": "2026-10-21T03:58:22+00:00"
     }
   ]
 }
