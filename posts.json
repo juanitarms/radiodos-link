@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T18:57:27+00:00",
+  "updated": "2026-10-23T18:58:03+00:00",
   "posts": [
+    {
+      "id": "53ca53c1",
+      "image": "img/53ca53c1.png",
+      "image_sha": "2b4c2c8e1c5f6eb0c51e6bc94c0154ea7f1db041",
+      "url": "https://www.radiodos.com.ar/215885-los-cdi-llenaron-de-arte-creatividad-y-alegria-una-jornada-especial",
+      "title": "Los CDI llenaron de arte, creatividad y alegría una jornada especial",
+      "volanta": "En Virasoro",
+      "date": "2026-10-23T18:58:03+00:00"
+    },
     {
       "id": "71839903",
       "image": "img/71839903.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "ESTE MIÉRCOLES",
       "date": "2026-10-21T12:31:06+00:00"
-    },
-    {
-      "id": "194870f7",
-      "image": "img/194870f7.png",
-      "image_sha": "dee86f749fe00dd276210fe7fde2f629598be89d",
-      "url": "https://www.radiodos.com.ar/215730-olimpico-se-impuso-ampliamente-ante-san-martin",
-      "title": "Olímpico se impuso ampliamente ante San Martín",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-10-21T12:03:12+00:00"
     }
   ]
 }
