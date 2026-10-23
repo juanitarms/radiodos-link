@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T17:53:41+00:00",
+  "updated": "2026-10-23T17:54:24+00:00",
   "posts": [
+    {
+      "id": "70799494",
+      "image": "img/70799494.png",
+      "image_sha": "1764a001df6f5cca160a45756b4d589f4360f598",
+      "url": "https://www.radiodos.com.ar/215891-la-unne-lanzo-un-curso-de-capacitacion-en-electricidad-para-aprender-sobre-instalaciones-domiciliarias",
+      "title": "La UNNE lanzó un Curso de capacitación en Electricidad para aprender sobre instalaciones domiciliarias",
+      "volanta": "ESCUELA DE EDUCACIÓN PROFESIONAL",
+      "date": "2026-10-23T17:54:24+00:00"
+    },
     {
       "id": "532bd17d",
       "image": "img/532bd17d.png",
@@ -531,15 +540,6 @@
       "title": "Copa Sudamericana: Una pincelada de Paredes le dio la clasificación a Boca a la final",
       "volanta": "Fue 3 a 1",
       "date": "2026-10-21T03:58:22+00:00"
-    },
-    {
-      "id": "d2d88988",
-      "image": "img/d2d88988.png",
-      "image_sha": "5e75b381adbdac1241e626cba7611e3e4ea2a250",
-      "url": "https://www.radiodos.com.ar/215685-personal-reabre-su-tienda-en-corrientes-y-continua-innovando-su-experiencia-comercial",
-      "title": "Personal reabre su Tienda en Corrientes y continúa innovando su experiencia comercial",
-      "volanta": "COMUNICACIÓN",
-      "date": "2026-10-20T19:21:31+00:00"
     }
   ]
 }
