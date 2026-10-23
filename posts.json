@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T20:18:27+00:00",
+  "updated": "2026-10-23T23:19:35+00:00",
   "posts": [
+    {
+      "id": "df15cdf8",
+      "image": "img/df15cdf8.png",
+      "image_sha": "8939a0f04d88ef96148c8fc8e74bf7afedaeca92",
+      "url": "https://www.radiodos.com.ar/215911-caso-nanci-godoy-este-sabado-la-fiscalia-pedira-la-prision-preventiva-sin-plazos-para-zarza-y-sandoval",
+      "title": "Caso Nanci Godoy: éste sábado, la Fiscalía pedirá la prisión preventiva sin plazos para Zarza y Sandoval",
+      "volanta": "ADELANTO DE RADIO DOS",
+      "date": "2026-10-23T23:19:35+00:00"
+    },
     {
       "id": "61bd42eb",
       "image": "img/61bd42eb.png",
@@ -531,15 +540,6 @@
       "title": "Patricia Bullrich no se baja y profundiza la interna libertaria: \"Estoy preparada para ser candidata\"",
       "volanta": "RUMBO AL 2027",
       "date": "2026-10-21T13:43:29+00:00"
-    },
-    {
-      "id": "a69d6df8",
-      "image": "img/a69d6df8.png",
-      "image_sha": "b92c04e2d5c3ca36eeb0025a33191f2167539bcb",
-      "url": "https://www.radiodos.com.ar/215745-filas-de-mas-de-diez-cuadras-en-ezeiza-para-conseguir-uno-de-los-40-puestos-de-un-supermercado",
-      "title": "Filas de más de diez cuadras en Ezeiza para conseguir uno de los 40 puestos de un supermercado",
-      "volanta": "NECESIDAD",
-      "date": "2026-10-21T13:27:18+00:00"
     }
   ]
 }
