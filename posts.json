@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T11:51:00+00:00",
+  "updated": "2026-10-23T12:18:16+00:00",
   "posts": [
+    {
+      "id": "3dc036cd",
+      "image": "img/3dc036cd.png",
+      "image_sha": "ab6e90472d1d2956b13011228464e8e625ce9b6f",
+      "url": "https://www.radiodos.com.ar/215854-los-sueldos-de-octubre-a-estatales-de-corrientes-se-abonaran-a-partir-del-lunes-26",
+      "title": "Los sueldos de octubre a estatales de Corrientes se abonarán a partir del lunes 26",
+      "volanta": "DE INTERÉS",
+      "date": "2026-10-23T12:18:16+00:00"
+    },
     {
       "id": "f5e4d3cb",
       "image": "img/f5e4d3cb.png",
@@ -531,15 +540,6 @@
       "title": "Rompió el silencio el hermano de Tini Stoessel en plena disputa familiar: \"Mi papá está bien\"",
       "volanta": "SIGUE EL CONFLICTO",
       "date": "2026-10-20T14:53:30+00:00"
-    },
-    {
-      "id": "eb120e54",
-      "image": "img/eb120e54.png",
-      "image_sha": "235740d3aae56dd827194f2b3d31f2ec8bd106f8",
-      "url": "https://www.radiodos.com.ar/215682-murio-el-actor-antonio-grimau-tenia-82-anos",
-      "title": "Murió el actor Antonio Grimau: tenía 82 años",
-      "volanta": "LUTO EN EL ARTE",
-      "date": "2026-10-20T14:31:02+00:00"
     }
   ]
 }
