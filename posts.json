@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T12:35:36+00:00",
+  "updated": "2026-10-23T13:09:18+00:00",
   "posts": [
+    {
+      "id": "c44f6795",
+      "image": "img/c44f6795.png",
+      "image_sha": "f264158657cf4eed62d4a2a3b405dd420c8c8854",
+      "url": "https://www.radiodos.com.ar/215855-habilitaron-un-centro-de-evacuados-en-corrientes-hay-71-personas-alojadas",
+      "title": "Habilitaron un centro de evacuados en Corrientes: hay 71 personas alojadas",
+      "volanta": "BARRIO PUJOL",
+      "date": "2026-10-23T13:09:18+00:00"
+    },
     {
       "id": "0e6d0699",
       "image": "img/0e6d0699.png",
@@ -531,15 +540,6 @@
       "title": "La diputada Ana Améndola participó del conversatorio sobre el cáncer de mama",
       "volanta": "Octubre Rosa",
       "date": "2026-10-20T16:52:07+00:00"
-    },
-    {
-      "id": "70c9bd70",
-      "image": "img/70c9bd70.png",
-      "image_sha": "5f945d7ed1f03ac451af20e214ffba5a4ba433ff",
-      "url": "https://www.radiodos.com.ar/215695-se-suspendio-el-concurso-integracion-de-pesca-del-surubi-con-devolucion-en-ituzaingo",
-      "title": "Se suspendió el Concurso Integración de Pesca del Surubí con Devolución en Ituzaingó",
-      "volanta": "CONSECUENCIAS",
-      "date": "2026-10-20T16:51:33+00:00"
     }
   ]
 }
