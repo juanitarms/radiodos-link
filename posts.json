@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T13:09:18+00:00",
+  "updated": "2026-10-23T13:34:13+00:00",
   "posts": [
+    {
+      "id": "dc22b782",
+      "image": "img/dc22b782.png",
+      "image_sha": "7a75471aea7988cd271862fe2e3f83a09afa7024",
+      "url": "https://www.radiodos.com.ar/215867-denuncian-por-reiterados-robos-de-rateros-en-el-predio-de-boca-unidos",
+      "title": "Denuncian por reiterados robos de \"rateros\" en el predio de Boca Unidos",
+      "volanta": "BARRIO 17 DE AGOSTO",
+      "date": "2026-10-23T13:34:13+00:00"
+    },
     {
       "id": "c44f6795",
       "image": "img/c44f6795.png",
@@ -531,15 +540,6 @@
       "title": "Tras mantenerlos congelados por un año, el Gobierno actualizó los subsidios y becas para combatir adicciones",
       "volanta": "NOVEDAD",
       "date": "2026-10-20T17:28:43+00:00"
-    },
-    {
-      "id": "c99a2363",
-      "image": "img/c99a2363.png",
-      "image_sha": "23f15d8707e0f3735e425f595f3a179287d0f198",
-      "url": "https://www.radiodos.com.ar/215693-la-diputada-ana-amendola-participo-del-conversatorio-sobre-el-cancer-de-mama",
-      "title": "La diputada Ana Améndola participó del conversatorio sobre el cáncer de mama",
-      "volanta": "Octubre Rosa",
-      "date": "2026-10-20T16:52:07+00:00"
     }
   ]
 }
