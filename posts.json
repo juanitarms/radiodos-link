@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T17:55:04+00:00",
+  "updated": "2026-10-23T18:55:50+00:00",
   "posts": [
+    {
+      "id": "bc508c09",
+      "image": "img/bc508c09.png",
+      "image_sha": "984927f1afe6fcf202569cca828ce3775e4fd0b2",
+      "url": "https://www.radiodos.com.ar/215889-isla-del-cerrito-quedo-parcialmente-aislada-por-el-avance-del-agua-sobre-ruta-63",
+      "title": "Isla del Cerrito quedó parcialmente aislada por el avance del agua sobre ruta 63",
+      "volanta": "EXCLUSIVO COBERTURA RADIO DOS",
+      "date": "2026-10-23T18:55:50+00:00"
+    },
     {
       "id": "853741b7",
       "image": "img/853741b7.png",
@@ -531,15 +540,6 @@
       "title": "Leandro Paredes, el héroe de Boca en el Maracaná: \"El riesgo estaba claro, pero valía la pena\"",
       "volanta": "Sudamericana 2026",
       "date": "2026-10-21T10:34:02+00:00"
-    },
-    {
-      "id": "594dba00",
-      "image": "img/594dba00.png",
-      "image_sha": "48285bd7bfa2da729c419ed7e40cfa5707050e22",
-      "url": "https://www.radiodos.com.ar/215721-maestra-desaparecida-en-corrientes-por-pedido-de-la-fiscalia-el-juez-ordeno-dos-nuevas-detenciones",
-      "title": "Maestra desaparecida en Corrientes: por pedido de la Fiscalía, el juez ordenó dos nuevas detenciones",
-      "volanta": "ANOCHE",
-      "date": "2026-10-21T10:23:03+00:00"
     }
   ]
 }
