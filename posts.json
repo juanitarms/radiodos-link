@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T21:22:53+00:00",
+  "updated": "2026-10-23T01:06:26+00:00",
   "posts": [
+    {
+      "id": "40562f51",
+      "image": "img/40562f51.png",
+      "image_sha": "8e37b4dd5b7c0e0fc412b71dc54ab03dab0a32fe",
+      "url": "https://www.radiodos.com.ar/215843-el-municipio-suma-nuevas-camaras-con-megafonos-para-proteger-las-plazas-y-erradicar-basurales",
+      "title": "El Municipio suma nuevas cámaras con megáfonos para proteger las plazas y erradicar basurales",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-23T01:06:26+00:00"
+    },
     {
       "id": "54b2a9d3",
       "image": "img/54b2a9d3.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un hombre que no volvió a su hogar desde el domingo",
       "volanta": "EMPEDRADO",
       "date": "2026-10-20T13:06:19+00:00"
-    },
-    {
-      "id": "e274d191",
-      "image": "img/e274d191.png",
-      "image_sha": "4478eae1acf427c38197646ea30997b318527101",
-      "url": "https://www.radiodos.com.ar/215669-presentaron-programa-de-controles-de-salud-gratuitos-para-excombatientes-de-malvinas",
-      "title": "Presentaron programa de controles de salud gratuitos para excombatientes de Malvinas",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-20T12:36:56+00:00"
     }
   ]
 }
