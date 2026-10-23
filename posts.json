@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T14:14:39+00:00",
+  "updated": "2026-10-23T14:41:30+00:00",
   "posts": [
+    {
+      "id": "58c87e6c",
+      "image": "img/58c87e6c.png",
+      "image_sha": "3b071cd68142aa11babff42ca31e1a351cd7d380",
+      "url": "https://www.radiodos.com.ar/215871-otra-vez-una-cruz-cayo-sobre-un-sacerdote-fue-en-colombia-y-el-cura-sobrevivio-al-impacto",
+      "title": "Otra vez una cruz cayó sobre un sacerdote: fue en Colombia y el cura sobrevivió al impacto",
+      "volanta": "CASI UNA TRAGEDIA",
+      "date": "2026-10-23T14:41:30+00:00"
+    },
     {
       "id": "91740bf4",
       "image": "img/91740bf4.png",
@@ -531,15 +540,6 @@
       "title": "Nueva Extensión Áulica de la Facultad de Derecho UNNE en Curuzú Cuatiá",
       "volanta": "EDUCACIÓN",
       "date": "2026-10-20T18:52:57+00:00"
-    },
-    {
-      "id": "f61ccdad",
-      "image": "img/f61ccdad.png",
-      "image_sha": "29c8e8ef8e0a53eafe8a7530eb22067074a7728f",
-      "url": "https://www.radiodos.com.ar/215697-vicentico-freno-un-show-en-bogota-por-una-bengala-tenes-idea-de-lo-que-significa-eso-para-un-argentino",
-      "title": "Vicentico frenó un show en Bogotá por una bengala: \"¿Tenés idea de lo que significa eso para un argentino?\"",
-      "volanta": "PREOCUPADO",
-      "date": "2026-10-20T17:29:55+00:00"
     }
   ]
 }
