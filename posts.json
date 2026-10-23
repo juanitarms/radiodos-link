@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T14:41:30+00:00",
+  "updated": "2026-10-23T15:01:27+00:00",
   "posts": [
+    {
+      "id": "7c672f97",
+      "image": "img/7c672f97.png",
+      "image_sha": "d93e75f19b219b18da030891228e307cc1a357fe",
+      "url": "https://www.radiodos.com.ar/215880-murio-el-hombre-mas-longevo-de-argentina-tenia-118-anos",
+      "title": "Murió el hombre más longevo de Argentina: tenía 118 años",
+      "volanta": "MISIONES",
+      "date": "2026-10-23T15:01:27+00:00"
+    },
     {
       "id": "58c87e6c",
       "image": "img/58c87e6c.png",
@@ -531,15 +540,6 @@
       "title": "Guillermina Valdés fue contundente: \"Volví a hablar con Sebastián Ortega cuando me separé de Marcelo\"",
       "volanta": "SINCERA",
       "date": "2026-10-20T19:20:56+00:00"
-    },
-    {
-      "id": "f123c2cf",
-      "image": "img/f123c2cf.png",
-      "image_sha": "6d1e2c8ecf508eecc8ba0daf6d570879392259f3",
-      "url": "https://www.radiodos.com.ar/215698-nueva-extension-aulica-de-la-facultad-de-derecho-unne-en-curuzu-cuatia",
-      "title": "Nueva Extensión Áulica de la Facultad de Derecho UNNE en Curuzú Cuatiá",
-      "volanta": "EDUCACIÓN",
-      "date": "2026-10-20T18:52:57+00:00"
     }
   ]
 }
