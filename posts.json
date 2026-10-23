@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T11:19:22+00:00",
+  "updated": "2026-10-23T11:51:00+00:00",
   "posts": [
+    {
+      "id": "f5e4d3cb",
+      "image": "img/f5e4d3cb.png",
+      "image_sha": "50ada292941790ca1cacde250654e250c7e9ad20",
+      "url": "https://www.radiodos.com.ar/215853-temporal-de-granizo-e-intensos-vientos-en-localidades-del-sur-de-corrientes",
+      "title": "Temporal de granizo e intensos vientos en localidades del sur de Corrientes",
+      "volanta": "EFECTOS DEL NIÑO",
+      "date": "2026-10-23T11:51:00+00:00"
+    },
     {
       "id": "31432a98",
       "image": "img/31432a98.png",
@@ -531,15 +540,6 @@
       "title": "Murió el actor Antonio Grimau: tenía 82 años",
       "volanta": "LUTO EN EL ARTE",
       "date": "2026-10-20T14:31:02+00:00"
-    },
-    {
-      "id": "d7b5f0df",
-      "image": "img/d7b5f0df.png",
-      "image_sha": "ae6ad2ac811b4bfd76e132920a9eca5fb6a90485",
-      "url": "https://www.radiodos.com.ar/215684-licuacion-de-salarios-el-72-de-los-trabajadores-de-hasta-40-anos-agota-sus-ingresos-antes-del-20-de-cada-mes",
-      "title": "Licuación de salarios: el 72% de los trabajadores de hasta 40 años agota sus ingresos antes del 20 de cada mes",
-      "volanta": "ECONOMÍA",
-      "date": "2026-10-20T14:04:19+00:00"
     }
   ]
 }
