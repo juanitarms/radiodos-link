@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T18:56:34+00:00",
+  "updated": "2026-10-23T18:57:27+00:00",
   "posts": [
+    {
+      "id": "71839903",
+      "image": "img/71839903.png",
+      "image_sha": "de897d0926f9acaac5f15a32b755704176d37d6d",
+      "url": "https://www.radiodos.com.ar/215888-tragedia-dos-jubilados-murieron-en-la-ruta-40",
+      "title": "Tragedia: dos jubilados murieron en la Ruta 40",
+      "volanta": "Catamarca",
+      "date": "2026-10-23T18:57:27+00:00"
+    },
     {
       "id": "8111d11c",
       "image": "img/8111d11c.png",
@@ -531,15 +540,6 @@
       "title": "Olímpico se impuso ampliamente ante San Martín",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-10-21T12:03:12+00:00"
-    },
-    {
-      "id": "0daa82bc",
-      "image": "img/0daa82bc.png",
-      "image_sha": "0f3a80966144141e6e47d3db27dc4e1bbbdc24b9",
-      "url": "https://www.radiodos.com.ar/215711-un-hombre-mato-a-su-mujer-a-su-hijo-y-a-su-madre-y-luego-se-suicido",
-      "title": "Un hombre mató a su mujer, a su hijo y a su madre, y luego se suicidó",
-      "volanta": "HORROR",
-      "date": "2026-10-21T11:02:06+00:00"
     }
   ]
 }
