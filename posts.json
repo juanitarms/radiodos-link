@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T10:35:14+00:00",
+  "updated": "2026-10-23T10:49:06+00:00",
   "posts": [
+    {
+      "id": "bb8326f0",
+      "image": "img/bb8326f0.png",
+      "image_sha": "9a86dcf637afc876f4ab6d05f33d09e2637a89eb",
+      "url": "https://www.radiodos.com.ar/215849-corrientes-cesaron-las-lluvias-pero-el-ascenso-de-las-aguas-del-rio-parana-sigue-provocando-estragos",
+      "title": "Corrientes: cesaron las lluvias pero el ascenso de las aguas del río Paraná sigue provocando estragos",
+      "volanta": "EFECTOS DEL NIÑO",
+      "date": "2026-10-23T10:49:06+00:00"
+    },
     {
       "id": "7444a745",
       "image": "img/7444a745.png",
@@ -531,15 +540,6 @@
       "title": "Peligro al volante: un camionero manejó desde Corrientes hasta Buenos Aires con 2,65 g/l de alcohol en sangre",
       "volanta": "GRAVÍSIMO",
       "date": "2026-10-20T13:44:40+00:00"
-    },
-    {
-      "id": "ccc75f65",
-      "image": "img/ccc75f65.png",
-      "image_sha": "cea702159e0ff0b222b48016f1bbcf77a2e9b14a",
-      "url": "https://www.radiodos.com.ar/215670-en-el-cierre-de-las-olimpiadas-de-educacion-economica-premiaron-a-los-ganadores",
-      "title": "En el cierre de las Olimpiadas de Educación Económica, premiaron a los ganadores",
-      "volanta": "EN LA ESCUELA “CONSTRUCCIONES PORTUARIAS”",
-      "date": "2026-10-20T13:25:54+00:00"
     }
   ]
 }
