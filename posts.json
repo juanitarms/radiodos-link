@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T18:55:50+00:00",
+  "updated": "2026-10-23T18:56:34+00:00",
   "posts": [
+    {
+      "id": "8111d11c",
+      "image": "img/8111d11c.png",
+      "image_sha": "67c06bb1becbe7930c5a6bfd480b8dff53372366",
+      "url": "https://www.radiodos.com.ar/215887-el-martes-27-de-octubre-iniciara-el-pago-del-plus-de-refuerzo-municipal",
+      "title": "El martes 27 de octubre iniciará el pago del plus de refuerzo municipal",
+      "volanta": "COMPLEMENTO SALARIAL",
+      "date": "2026-10-23T18:56:34+00:00"
+    },
     {
       "id": "bc508c09",
       "image": "img/bc508c09.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre mató a su mujer, a su hijo y a su madre, y luego se suicidó",
       "volanta": "HORROR",
       "date": "2026-10-21T11:02:06+00:00"
-    },
-    {
-      "id": "8caa91d7",
-      "image": "img/8caa91d7.png",
-      "image_sha": "657c684dfc7fc78a7e6004def4a0107120a17c70",
-      "url": "https://www.radiodos.com.ar/215720-leandro-paredes-el-heroe-de-boca-en-el-maracana-el-riesgo-estaba-claro-pero-valia-la-pena",
-      "title": "Leandro Paredes, el héroe de Boca en el Maracaná: \"El riesgo estaba claro, pero valía la pena\"",
-      "volanta": "Sudamericana 2026",
-      "date": "2026-10-21T10:34:02+00:00"
     }
   ]
 }
