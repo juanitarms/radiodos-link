@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T12:18:16+00:00",
+  "updated": "2026-10-23T12:35:36+00:00",
   "posts": [
+    {
+      "id": "0e6d0699",
+      "image": "img/0e6d0699.png",
+      "image_sha": "0d4b1445d14795fdb601e06e1f6247d1be64a352",
+      "url": "https://www.radiodos.com.ar/215856-el-parlamento-norte-grande-reunio-a-su-mesa-ejecutiva-y-comisiones",
+      "title": "El Parlamento Norte Grande reunió a su Mesa Ejecutiva y Comisiones",
+      "volanta": "NOA y NEA en Corrientes",
+      "date": "2026-10-23T12:35:36+00:00"
+    },
     {
       "id": "3dc036cd",
       "image": "img/3dc036cd.png",
@@ -531,15 +540,6 @@
       "title": "Se suspendió el Concurso Integración de Pesca del Surubí con Devolución en Ituzaingó",
       "volanta": "CONSECUENCIAS",
       "date": "2026-10-20T16:51:33+00:00"
-    },
-    {
-      "id": "6430c02f",
-      "image": "img/6430c02f.png",
-      "image_sha": "e591252016e6af0906879aae1d5c9fb5394611b2",
-      "url": "https://www.radiodos.com.ar/215692-rompio-el-silencio-el-hermano-de-tini-stoessel-en-plena-disputa-familiar-mi-papa-esta-bien",
-      "title": "Rompió el silencio el hermano de Tini Stoessel en plena disputa familiar: \"Mi papá está bien\"",
-      "volanta": "SIGUE EL CONFLICTO",
-      "date": "2026-10-20T14:53:30+00:00"
     }
   ]
 }
