@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T19:59:19+00:00",
+  "updated": "2026-10-23T20:18:27+00:00",
   "posts": [
+    {
+      "id": "61bd42eb",
+      "image": "img/61bd42eb.png",
+      "image_sha": "521c833d912f6f3338761d072a86f96bbc17cee0",
+      "url": "https://www.radiodos.com.ar/215897-la-municipalidad-de-corrientes-propone-un-fin-de-semana-con-deportes-turismo-artesanos-y-musica-chamamecera",
+      "title": "La Municipalidad de Corrientes propone un fin de semana con deportes, turismo, artesanos y música chamamecera",
+      "volanta": "AGENDA EN LA CIUDAD",
+      "date": "2026-10-23T20:18:27+00:00"
+    },
     {
       "id": "d4bc1e52",
       "image": "img/d4bc1e52.png",
@@ -531,15 +540,6 @@
       "title": "Filas de más de diez cuadras en Ezeiza para conseguir uno de los 40 puestos de un supermercado",
       "volanta": "NECESIDAD",
       "date": "2026-10-21T13:27:18+00:00"
-    },
-    {
-      "id": "75ebd297",
-      "image": "img/75ebd297.png",
-      "image_sha": "55844dd1bbb10266d7467889a3dd354f7c9e7f99",
-      "url": "https://www.radiodos.com.ar/215740-cerraron-un-complejo-termal-tras-la-muerte-de-un-nene-por-ameba-comecerebros",
-      "title": "Cerraron un complejo termal tras la muerte de un nene por ameba \"comecerebros\"",
-      "volanta": "Catamarca",
-      "date": "2026-10-21T13:13:34+00:00"
     }
   ]
 }
