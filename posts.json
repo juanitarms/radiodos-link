@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T13:34:13+00:00",
+  "updated": "2026-10-23T13:58:14+00:00",
   "posts": [
+    {
+      "id": "8d881539",
+      "image": "img/8d881539.png",
+      "image_sha": "73be947c6aafd280fd7b526ebe4146b23bfe4049",
+      "url": "https://www.radiodos.com.ar/215873-julieta-prandi-aseguro-que-no-hay-vuelta-atras-con-emanuel-ortega-no-me-lo-esperaba",
+      "title": "Julieta Prandi aseguró que no hay vuelta atrás con Emanuel Ortega: \"No me lo esperaba\"",
+      "volanta": "CONTUNDENTE",
+      "date": "2026-10-23T13:58:14+00:00"
+    },
     {
       "id": "dc22b782",
       "image": "img/dc22b782.png",
@@ -531,15 +540,6 @@
       "title": "Primera noche de toque de queda en París y otras ciudades para intentar contener las protestas en toda Francia",
       "volanta": "FRANCIA",
       "date": "2026-10-20T17:29:19+00:00"
-    },
-    {
-      "id": "a9a62701",
-      "image": "img/a9a62701.png",
-      "image_sha": "f85655a5aff2e724de20e9e5f6d6ae69f80a3d33",
-      "url": "https://www.radiodos.com.ar/215699-tras-mantenerlos-congelados-por-un-ano-el-gobierno-actualizo-los-subsidios-y-becas-para-combatir-adicciones",
-      "title": "Tras mantenerlos congelados por un año, el Gobierno actualizó los subsidios y becas para combatir adicciones",
-      "volanta": "NOVEDAD",
-      "date": "2026-10-20T17:28:43+00:00"
     }
   ]
 }
