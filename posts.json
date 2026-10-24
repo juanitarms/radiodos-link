@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T23:19:35+00:00",
+  "updated": "2026-10-24T04:23:19+00:00",
   "posts": [
+    {
+      "id": "4f75ead7",
+      "image": "img/4f75ead7.png",
+      "image_sha": "1d712f28cfcfc90dae4e90b6de18ce51272cf954",
+      "url": "https://www.radiodos.com.ar/215913-torneo-clausura-triunfazo-agonico-de-platense-que-lo-dio-vuelta-en-mendoza-y-suena-con-los-playoffs",
+      "title": "Torneo Clausura: Triunfazo agónico de Platense que lo dio vuelta en Mendoza y sueña con los playoffs",
+      "volanta": "FÚTBOL",
+      "date": "2026-10-24T04:23:19+00:00"
+    },
     {
       "id": "df15cdf8",
       "image": "img/df15cdf8.png",
@@ -531,15 +540,6 @@
       "title": "Juan José Neiff: \"El Niño podría alcanzar su máximo pico a fines del otoño y del invierno del año que viene\"",
       "volanta": "FENÓMENO CLIMÁTICO",
       "date": "2026-10-21T14:13:18+00:00"
-    },
-    {
-      "id": "65c6c9dc",
-      "image": "img/65c6c9dc.png",
-      "image_sha": "19de0da6bd056c7c26b4ad5f406e246bd9e5c1db",
-      "url": "https://www.radiodos.com.ar/215737-patricia-bullrich-no-se-baja-y-profundiza-la-interna-libertaria-estoy-preparada-para-ser-candidata",
-      "title": "Patricia Bullrich no se baja y profundiza la interna libertaria: \"Estoy preparada para ser candidata\"",
-      "volanta": "RUMBO AL 2027",
-      "date": "2026-10-21T13:43:29+00:00"
     }
   ]
 }
