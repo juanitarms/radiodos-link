@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T16:42:20+00:00",
+  "updated": "2026-10-24T21:37:29+00:00",
   "posts": [
+    {
+      "id": "4f835de9",
+      "image": "img/4f835de9.png",
+      "image_sha": "4e74b694f4895215d5e0ca0bcdcc0a4166a18392",
+      "url": "https://www.radiodos.com.ar/215919-corrientes-dos-motociclistas-graves-tras-un-choque",
+      "title": "Corrientes: dos motociclistas graves tras un choque",
+      "volanta": "BARRIO VICTOR COLAS",
+      "date": "2026-10-24T21:37:29+00:00"
+    },
     {
       "id": "c2f83d9a",
       "image": "img/c2f83d9a.png",
@@ -531,15 +540,6 @@
       "title": "Una pareja recibirá una indemnización millonaria tras 26 años por una antena junto a su casa",
       "volanta": "LOMAS DE ZAMORA",
       "date": "2026-10-21T18:24:46+00:00"
-    },
-    {
-      "id": "96d234ca",
-      "image": "img/96d234ca.png",
-      "image_sha": "5e94b5da3b5017a4b88f52640b5985936c27de16",
-      "url": "https://www.radiodos.com.ar/215760-la-municipalidad-amplia-la-capacidad-del-drenaje-pluvial-en-el-canal-laguna-brava",
-      "title": "La Municipalidad amplía la capacidad del drenaje pluvial en el canal Laguna Brava",
-      "volanta": "SISTEMA PLUVIAL",
-      "date": "2026-10-21T16:54:12+00:00"
     }
   ]
 }
