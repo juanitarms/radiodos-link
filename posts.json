@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T13:27:22+00:00",
+  "updated": "2026-10-24T15:37:38+00:00",
   "posts": [
+    {
+      "id": "042b14f6",
+      "image": "img/042b14f6.png",
+      "image_sha": "a9d3aa08618b46bc3e95147694634534b0cd7422",
+      "url": "https://www.radiodos.com.ar/215916-yacyreta-argentina-refuerza-sus-defensa-por-la-fuerte-correntada-del-rio-parana",
+      "title": "Yacyretá Argentina refuerza sus defensa por la fuerte correntada del río Paraná",
+      "volanta": "CRECIDA",
+      "date": "2026-10-24T15:37:38+00:00"
+    },
     {
       "id": "6d364eda",
       "image": "img/6d364eda.png",
@@ -531,15 +540,6 @@
       "title": "Sobreseyeron al adolescente que mató a un compañero en un tiroteo escolar",
       "volanta": "SANTA FE",
       "date": "2026-10-21T16:53:38+00:00"
-    },
-    {
-      "id": "01329bf0",
-      "image": "img/01329bf0.png",
-      "image_sha": "3119a7e00a7ed4c14ffaadb5307b331d95b4f0f3",
-      "url": "https://www.radiodos.com.ar/215756-luck-ra-prepara-una-bachata-con-khea-y-una-frase-de-la-letra-desperto-rumores-sobre-la-joaqui",
-      "title": "Luck Ra prepara una bachata con Khea y una frase de la letra despertó rumores sobre La Joaqui",
-      "volanta": "SE VIENE",
-      "date": "2026-10-21T16:53:01+00:00"
     }
   ]
 }
