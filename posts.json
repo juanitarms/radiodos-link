@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T15:37:38+00:00",
+  "updated": "2026-10-24T16:42:20+00:00",
   "posts": [
+    {
+      "id": "c2f83d9a",
+      "image": "img/c2f83d9a.png",
+      "image_sha": "5936160b55e9bc482400640f6ac01e384bd4bbd6",
+      "url": "https://www.radiodos.com.ar/215920-policias-de-corrientes-realizaron-maniobras-de-rcp-a-un-bebe-y-lograron-salvarle-la-vida",
+      "title": "Policías de Corrientes realizaron maniobras de RCP a un bebé y lograron salvarle la vida",
+      "volanta": "RÁPIDO Y EFICAZ ACCIONAR",
+      "date": "2026-10-24T16:42:20+00:00"
+    },
     {
       "id": "042b14f6",
       "image": "img/042b14f6.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad amplía la capacidad del drenaje pluvial en el canal Laguna Brava",
       "volanta": "SISTEMA PLUVIAL",
       "date": "2026-10-21T16:54:12+00:00"
-    },
-    {
-      "id": "5bbb4e04",
-      "image": "img/5bbb4e04.png",
-      "image_sha": "6511cbdfb84bc2b080850f0880aaa2687ebbb751",
-      "url": "https://www.radiodos.com.ar/215758-sobreseyeron-al-adolescente-que-mato-a-un-companero-en-un-tiroteo-escolar",
-      "title": "Sobreseyeron al adolescente que mató a un compañero en un tiroteo escolar",
-      "volanta": "SANTA FE",
-      "date": "2026-10-21T16:53:38+00:00"
     }
   ]
 }
