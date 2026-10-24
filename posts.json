@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T04:23:19+00:00",
+  "updated": "2026-10-24T12:37:17+00:00",
   "posts": [
+    {
+      "id": "633564d0",
+      "image": "img/633564d0.png",
+      "image_sha": "e73e7f3991912c6f021c43215725556b3294273d",
+      "url": "https://www.radiodos.com.ar/215915-caso-nanci-godoy-uno-de-los-hijos-insistio-que-hay-otras-personas-involucradas",
+      "title": "Caso Nanci Godoy: uno de los hijos insistió que \"hay otras personas involucradas\"",
+      "volanta": "DIAS CLAVES",
+      "date": "2026-10-24T12:37:17+00:00"
+    },
     {
       "id": "4f75ead7",
       "image": "img/4f75ead7.png",
@@ -531,15 +540,6 @@
       "title": "Susana Giménez expresó su tristeza por la muerte de Antonio Grimau: \"Qué horrible enterarme...\"",
       "volanta": "MUY RECORDADO",
       "date": "2026-10-21T14:40:29+00:00"
-    },
-    {
-      "id": "cc03b85c",
-      "image": "img/cc03b85c.png",
-      "image_sha": "6f0c29d38e2dc22f9e135df7dfe1e72067ac09a9",
-      "url": "https://www.radiodos.com.ar/215751-juan-jose-neiff-el-nino-podria-alcanzar-su-maximo-pico-a-fines-del-otono-y-del-invierno-del-ano-que-viene",
-      "title": "Juan José Neiff: \"El Niño podría alcanzar su máximo pico a fines del otoño y del invierno del año que viene\"",
-      "volanta": "FENÓMENO CLIMÁTICO",
-      "date": "2026-10-21T14:13:18+00:00"
     }
   ]
 }
