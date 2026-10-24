@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T21:37:29+00:00",
+  "updated": "2026-10-24T22:52:40+00:00",
   "posts": [
+    {
+      "id": "f065a56a",
+      "image": "img/f065a56a.png",
+      "image_sha": "1063642d0c1f62533c93f414e228c984f3526538",
+      "url": "https://www.radiodos.com.ar/215922-f1-franco-colapinto-debera-remontar-desde-la-ultima-fila-en-el-gp-de-estados-unidos",
+      "title": "F1: Franco Colapinto deberá remontar desde la última fila en el GP de Estados Unidos",
+      "volanta": "El poleman fue Kimi Antonelli que puede ser campeón",
+      "date": "2026-10-24T22:52:40+00:00"
+    },
     {
       "id": "4f835de9",
       "image": "img/4f835de9.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes impulsa la estrategia HEARTS para prevenir enfermedades cardiovasculares",
       "volanta": "EN LOS CENTROS DE SALUD",
       "date": "2026-10-21T18:25:21+00:00"
-    },
-    {
-      "id": "abea38c5",
-      "image": "img/abea38c5.png",
-      "image_sha": "c2f6c66c73e2f179d73332f88efff83c57a7746a",
-      "url": "https://www.radiodos.com.ar/215759-una-pareja-recibira-una-indemnizacion-millonaria-tras-26-anos-por-una-antena-junto-a-su-casa",
-      "title": "Una pareja recibirá una indemnización millonaria tras 26 años por una antena junto a su casa",
-      "volanta": "LOMAS DE ZAMORA",
-      "date": "2026-10-21T18:24:46+00:00"
     }
   ]
 }
