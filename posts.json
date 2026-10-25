@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T19:35:38+00:00",
+  "updated": "2026-10-25T20:46:29+00:00",
   "posts": [
+    {
+      "id": "589db3cc",
+      "image": "img/589db3cc.png",
+      "image_sha": "1b95721917261a20eaf973970371ff26269a40bf",
+      "url": "https://www.radiodos.com.ar/215957-tfa-san-martin-de-formosa-gano-y-aascendio-a-la-b-nacional",
+      "title": "TFA: San Martín de Formosa ganó y aascendió a la B Nacional",
+      "volanta": "Fue 2 a 0",
+      "date": "2026-10-25T20:46:29+00:00"
+    },
     {
       "id": "88829704",
       "image": "img/88829704.png",
@@ -531,15 +540,6 @@
       "title": "Los salarios subieron 2,7% en agosto y siguen perdiendo con la inflación",
       "volanta": "ECONOMÍA",
       "date": "2026-10-22T13:10:20+00:00"
-    },
-    {
-      "id": "81a6f6ed",
-      "image": "img/81a6f6ed.png",
-      "image_sha": "9dc9614652518232bed5804c2ed1655f51816706",
-      "url": "https://www.radiodos.com.ar/215797-empate-tecnico-entre-lula-da-silva-y-flavio-bolsonaro-a-cuatro-dias-del-balotaje-las-ultimas-encuestas",
-      "title": "Empate técnico entre Lula da Silva y Flávio Bolsonaro, a cuatro días del balotaje: las últimas encuestas",
-      "volanta": "ELECCIONES",
-      "date": "2026-10-22T12:47:47+00:00"
     }
   ]
 }
