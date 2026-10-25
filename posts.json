@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T15:01:16+00:00",
+  "updated": "2026-10-25T15:24:51+00:00",
   "posts": [
+    {
+      "id": "8aeef657",
+      "image": "img/8aeef657.png",
+      "image_sha": "e0bbef1789dbc5e0cfd219b313cf93f435a96e91",
+      "url": "https://www.radiodos.com.ar/215953-corrientes-y-chaco-enfrentan-las-consecuencias-de-el-nino",
+      "title": "Corrientes y Chaco enfrentan las consecuencias de \"El Niño\"",
+      "volanta": "Crecida de los ríos e inundaciones",
+      "date": "2026-10-25T15:24:51+00:00"
+    },
     {
       "id": "daee4000",
       "image": "img/daee4000.png",
@@ -531,15 +540,6 @@
       "title": "Maestra desaparecida en Corrientes: hay dos peones detenidos más, y las sospechas recaen sobre uno de ellos",
       "volanta": "SON CINCO DETENIDOS",
       "date": "2026-10-22T10:04:40+00:00"
-    },
-    {
-      "id": "50e55b4e",
-      "image": "img/50e55b4e.png",
-      "image_sha": "37ea6539e2a908f863614ff7b4ea1f890146defc",
-      "url": "https://www.radiodos.com.ar/215770-baja-el-rio-uruguay-y-reabren-el-paso-internacional-alvear-itaqui",
-      "title": "Baja el río Uruguay y reabren el paso internacional Alvear–Itaquí",
-      "volanta": "Costa correntina",
-      "date": "2026-10-21T20:22:33+00:00"
     }
   ]
 }
