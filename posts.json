@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T22:52:40+00:00",
+  "updated": "2026-10-25T13:19:25+00:00",
   "posts": [
+    {
+      "id": "8d3fe529",
+      "image": "img/8d3fe529.png",
+      "image_sha": "f016de69744ca7659fab649bcb1546a19367323d",
+      "url": "https://www.radiodos.com.ar/215938-el-caso-de-bullying-que-conmociona-a-catamarca-el-colegio-emitio-un-comunicado",
+      "title": "El caso de bullying que conmociona a Catamarca: el colegio emitió un comunicado",
+      "volanta": "VOZ OFICIAL",
+      "date": "2026-10-25T13:19:25+00:00"
+    },
     {
       "id": "f065a56a",
       "image": "img/f065a56a.png",
@@ -531,15 +540,6 @@
       "title": "Con una fuerte inversión, Corrientes afina detalles para los Juegos Nacionales 2026",
       "volanta": "SECRETARÍA DE DEPORTES",
       "date": "2026-10-21T18:25:56+00:00"
-    },
-    {
-      "id": "1040ac6a",
-      "image": "img/1040ac6a.png",
-      "image_sha": "080a76c3658fece53469dcd4e68cfe8376d273fb",
-      "url": "https://www.radiodos.com.ar/215761-corrientes-impulsa-la-estrategia-hearts-para-prevenir-enfermedades-cardiovasculares",
-      "title": "Corrientes impulsa la estrategia HEARTS para prevenir enfermedades cardiovasculares",
-      "volanta": "EN LOS CENTROS DE SALUD",
-      "date": "2026-10-21T18:25:21+00:00"
     }
   ]
 }
