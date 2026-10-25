@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T13:19:25+00:00",
+  "updated": "2026-10-25T13:59:20+00:00",
   "posts": [
+    {
+      "id": "73ae6c27",
+      "image": "img/73ae6c27.png",
+      "image_sha": "8ab443494e6555521641dbe53e94637547a4bbbd",
+      "url": "https://www.radiodos.com.ar/215949-lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje",
+      "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
+      "volanta": "brasil",
+      "date": "2026-10-25T13:59:20+00:00"
+    },
     {
       "id": "8d3fe529",
       "image": "img/8d3fe529.png",
@@ -531,15 +540,6 @@
       "title": "Desesperada búsqueda de un docente de 59 años que desapareció en un cerro",
       "volanta": "Tucumán",
       "date": "2026-10-21T19:16:17+00:00"
-    },
-    {
-      "id": "e7661942",
-      "image": "img/e7661942.png",
-      "image_sha": "e57b0b22e5bcb2c3cba792b0b278bb2d591a3da9",
-      "url": "https://www.radiodos.com.ar/215763-con-una-fuerte-inversion-corrientes-afina-detalles-para-los-juegos-nacionales-2026",
-      "title": "Con una fuerte inversión, Corrientes afina detalles para los Juegos Nacionales 2026",
-      "volanta": "SECRETARÍA DE DEPORTES",
-      "date": "2026-10-21T18:25:56+00:00"
     }
   ]
 }
