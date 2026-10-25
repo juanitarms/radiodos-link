@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T13:59:20+00:00",
+  "updated": "2026-10-25T14:25:28+00:00",
   "posts": [
+    {
+      "id": "b2265f46",
+      "image": "img/b2265f46.png",
+      "image_sha": "f5154226348efc8a2e70c80649835a4ad1d2a46f",
+      "url": "https://www.radiodos.com.ar/215951-demoraron-a-dos-hombres-y-secuestraron-un-animal-faenado-y-dos-motocicletas",
+      "title": "Demoraron a dos hombres y secuestraron un animal faenado y dos motocicletas",
+      "volanta": "San Miguel",
+      "date": "2026-10-25T14:25:28+00:00"
+    },
     {
       "id": "73ae6c27",
       "image": "img/73ae6c27.png",
@@ -531,15 +540,6 @@
       "title": "En Itatí y Paso de la Patria, la Provincia asiste a familias afectadas por la crecida del Paraná",
       "volanta": "FENÓMENO DE EL NIÑO",
       "date": "2026-10-21T19:16:55+00:00"
-    },
-    {
-      "id": "347226d5",
-      "image": "img/347226d5.png",
-      "image_sha": "f91ab82f9c972b8157d5086a7a9783173acb41ce",
-      "url": "https://www.radiodos.com.ar/215769-desesperada-busqueda-de-un-docente-de-59-anos-que-desaparecio-en-un-cerro",
-      "title": "Desesperada búsqueda de un docente de 59 años que desapareció en un cerro",
-      "volanta": "Tucumán",
-      "date": "2026-10-21T19:16:17+00:00"
     }
   ]
 }
