@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T17:13:59+00:00",
+  "updated": "2026-10-25T17:14:41+00:00",
   "posts": [
+    {
+      "id": "7cd9fd5b",
+      "image": "img/7cd9fd5b.png",
+      "image_sha": "aa7b15f9e9ba11c4c9f22e0c5cc8a752abfe157f",
+      "url": "https://www.radiodos.com.ar/215954-el-papa-leon-xiv-pidio-por-las-victimas-del-atentado-en-jordania-y-reclamo-decisiones-de-paz",
+      "title": "El papa León XIV pidió por las víctimas del atentado en Jordania y reclamó decisiones de paz",
+      "volanta": "VATICANO",
+      "date": "2026-10-25T17:14:41+00:00"
+    },
     {
       "id": "95610c32",
       "image": "img/95610c32.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno provincial llevó asistencia a los afectados por la creciente del río en Itatí",
       "volanta": "FENÓMENO EL NIÑO",
       "date": "2026-10-22T12:07:21+00:00"
-    },
-    {
-      "id": "feab7d66",
-      "image": "img/feab7d66.png",
-      "image_sha": "3ab917d47bd540c6cf8a7d1d275cb7c17d6f5660",
-      "url": "https://www.radiodos.com.ar/215787-juicio-por-la-desaparicion-de-loan-declaran-siete-testigos-entre-ellos-un-vidente-y-un-cura",
-      "title": "Juicio por la desaparición de Loan: declaran siete testigos, entre ellos un vidente y un cura",
-      "volanta": "AUDIENCIA DE HOY",
-      "date": "2026-10-22T11:29:56+00:00"
     }
   ]
 }
