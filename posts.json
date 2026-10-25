@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T17:14:41+00:00",
+  "updated": "2026-10-25T19:35:02+00:00",
   "posts": [
+    {
+      "id": "3543e997",
+      "image": "img/3543e997.png",
+      "image_sha": "4185cf516c5fe9cfdd1b3843d2412914e9c69bc8",
+      "url": "https://www.radiodos.com.ar/215952-concluyo-el-ii-encuentro-anual-de-jueces-penales-con-participacion-de-la-correntina-josefina-gonzalez-cabanas",
+      "title": "Concluyó el II Encuentro Anual de Jueces Penales con participación de la correntina Josefina González Cabañas",
+      "volanta": "Catamarca",
+      "date": "2026-10-25T19:35:02+00:00"
+    },
     {
       "id": "7cd9fd5b",
       "image": "img/7cd9fd5b.png",
@@ -531,15 +540,6 @@
       "title": "Cuarto Festival Solidario: Un llamado a la concientización vocacional y la ayuda a los inundados",
       "volanta": "EVENTO SOLIDARIO",
       "date": "2026-10-22T12:33:46+00:00"
-    },
-    {
-      "id": "45db17a9",
-      "image": "img/45db17a9.png",
-      "image_sha": "ef993100076f980ca54a3f6d11e66800e88687de",
-      "url": "https://www.radiodos.com.ar/215789-el-gobierno-provincial-llevo-asistencia-a-los-afectados-por-la-creciente-del-rio-en-itati",
-      "title": "El Gobierno provincial llevó asistencia a los afectados por la creciente del río en Itatí",
-      "volanta": "FENÓMENO EL NIÑO",
-      "date": "2026-10-22T12:07:21+00:00"
     }
   ]
 }
