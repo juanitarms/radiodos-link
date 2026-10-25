@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T14:25:28+00:00",
+  "updated": "2026-10-25T15:01:16+00:00",
   "posts": [
+    {
+      "id": "daee4000",
+      "image": "img/daee4000.png",
+      "image_sha": "c36f724560a2973beea25dda9224a19c655b2383",
+      "url": "https://www.radiodos.com.ar/215950-hombre-fue-herido-a-punaladas-en-una-pelea-frente-a-un-kiosco",
+      "title": "Hombre fue herido a puñaladas en una pelea frente a un kiosco",
+      "volanta": "Corrientes",
+      "date": "2026-10-25T15:01:16+00:00"
+    },
     {
       "id": "b2265f46",
       "image": "img/b2265f46.png",
@@ -531,15 +540,6 @@
       "title": "Baja el río Uruguay y reabren el paso internacional Alvear–Itaquí",
       "volanta": "Costa correntina",
       "date": "2026-10-21T20:22:33+00:00"
-    },
-    {
-      "id": "c90e092b",
-      "image": "img/c90e092b.png",
-      "image_sha": "01b54dfe4f6af6bc3fe0e174c6d5247ceb689d13",
-      "url": "https://www.radiodos.com.ar/215768-en-itati-y-paso-de-la-patria-la-provincia-asiste-a-familias-afectadas-por-la-crecida-del-parana",
-      "title": "En Itatí y Paso de la Patria, la Provincia asiste a familias afectadas por la crecida del Paraná",
-      "volanta": "FENÓMENO DE EL NIÑO",
-      "date": "2026-10-21T19:16:55+00:00"
     }
   ]
 }
