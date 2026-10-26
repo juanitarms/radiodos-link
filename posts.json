@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T21:28:31+00:00",
+  "updated": "2026-10-26T21:29:17+00:00",
   "posts": [
+    {
+      "id": "606a5db5",
+      "image": "img/606a5db5.png",
+      "image_sha": "45d5080ff00cd3fa3cf0af1e409f9b488e6a610e",
+      "url": "https://www.radiodos.com.ar/216026-comienza-juicio-de-un-grupo-de-jovenes-contra-el-estado-de-canada-por-la-accion-climatica",
+      "title": "Comienza juicio de un grupo de jóvenes contra el estado de Canadá por la acción climática",
+      "volanta": "HISTÓRICO",
+      "date": "2026-10-26T21:29:17+00:00"
+    },
     {
       "id": "532abb89",
       "image": "img/532abb89.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: continúa la intensa búsqueda del sujeto que desapareció mientras cumplía prisión domiciliaria",
       "volanta": "ESTABA EN EMPEDRADO",
       "date": "2026-10-23T11:19:22+00:00"
-    },
-    {
-      "id": "bb8326f0",
-      "image": "img/bb8326f0.png",
-      "image_sha": "9a86dcf637afc876f4ab6d05f33d09e2637a89eb",
-      "url": "https://www.radiodos.com.ar/215849-corrientes-cesaron-las-lluvias-pero-el-ascenso-de-las-aguas-del-rio-parana-sigue-provocando-estragos",
-      "title": "Corrientes: cesaron las lluvias pero el ascenso de las aguas del río Paraná sigue provocando estragos",
-      "volanta": "EFECTOS DEL NIÑO",
-      "date": "2026-10-23T10:49:06+00:00"
     }
   ]
 }
