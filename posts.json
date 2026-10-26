@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T20:46:29+00:00",
+  "updated": "2026-10-26T10:51:18+00:00",
   "posts": [
+    {
+      "id": "60b857e2",
+      "image": "img/60b857e2.png",
+      "image_sha": "977e34d887445619c511a8ac6a3f60fb8bf9df6c",
+      "url": "https://www.radiodos.com.ar/215972-comenzo-el-pago-de-salarios-a-la-administracion-publica-provincial",
+      "title": "Comenzó el pago de salarios a la administración pública provincial",
+      "volanta": "HASTA EL VIERNES 30",
+      "date": "2026-10-26T10:51:18+00:00"
+    },
     {
       "id": "589db3cc",
       "image": "img/589db3cc.png",
@@ -531,15 +540,6 @@
       "title": "Diputados dio media sanción con abrumadora mayoría a la nueva Ley de Discapacidad",
       "volanta": "CONGRESO",
       "date": "2026-10-22T13:23:39+00:00"
-    },
-    {
-      "id": "03b9bc5d",
-      "image": "img/03b9bc5d.png",
-      "image_sha": "2fb6504109f52c32103e60a255bbc20c8cd96e34",
-      "url": "https://www.radiodos.com.ar/215798-los-salarios-subieron-27-en-agosto-y-siguen-perdiendo-con-la-inflacion",
-      "title": "Los salarios subieron 2,7% en agosto y siguen perdiendo con la inflación",
-      "volanta": "ECONOMÍA",
-      "date": "2026-10-22T13:10:20+00:00"
     }
   ]
 }
