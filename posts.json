@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T11:38:00+00:00",
+  "updated": "2026-10-26T11:49:06+00:00",
   "posts": [
+    {
+      "id": "21e056aa",
+      "image": "img/21e056aa.png",
+      "image_sha": "9b360210bf44356aa72703924a81678df3f98067",
+      "url": "https://www.radiodos.com.ar/215973-inundaciones-se-complica-la-situacion-en-paso-de-la-patria-y-refuerzan-la-asistencia-a-los-afectados",
+      "title": "Inundaciones: se complica la situación en Paso de la Patria y refuerzan la asistencia a los afectados",
+      "volanta": "CRECIENTE DEL PARANÁ",
+      "date": "2026-10-26T11:49:06+00:00"
+    },
     {
       "id": "74ff46f3",
       "image": "img/74ff46f3.png",
@@ -531,15 +540,6 @@
       "title": "Zoe Bogach se sometió a un doloroso retoque estético y encendió las críticas en redes",
       "volanta": "OTRA VEZ",
       "date": "2026-10-22T14:22:53+00:00"
-    },
-    {
-      "id": "8095f7d0",
-      "image": "img/8095f7d0.png",
-      "image_sha": "6169766c5445b869c4fe8ab237ce5cf844246d1a",
-      "url": "https://www.radiodos.com.ar/215810-el-desgarrador-homenaje-a-ernestina-pais-en-los-martin-fierro-de-radio-2026",
-      "title": "El desgarrador homenaje a Ernestina Pais en los Martín Fierro de Radio 2026",
-      "volanta": "MUY RECORDADA",
-      "date": "2026-10-22T14:11:39+00:00"
     }
   ]
 }
