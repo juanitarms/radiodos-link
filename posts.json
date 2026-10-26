@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T17:56:16+00:00",
+  "updated": "2026-10-26T17:56:52+00:00",
   "posts": [
+    {
+      "id": "1f270a48",
+      "image": "img/1f270a48.png",
+      "image_sha": "92a41fc416e43a872e48578ef84b6e0331160e67",
+      "url": "https://www.radiodos.com.ar/216019-oficial-el-papa-leon-xiv-viene-a-la-argentina",
+      "title": "Oficial: el papa León XIV viene a la Argentina",
+      "volanta": "VATICANO",
+      "date": "2026-10-26T17:56:52+00:00"
+    },
     {
       "id": "945b747d",
       "image": "img/945b747d.png",
@@ -531,15 +540,6 @@
       "title": "En CAME, pymes argentinas exploraron el mercado de Emiratos Árabes Unidos",
       "volanta": "COMUNICADO DE PRENSA",
       "date": "2026-10-22T18:00:37+00:00"
-    },
-    {
-      "id": "aee09541",
-      "image": "img/aee09541.png",
-      "image_sha": "fe4b2ad17291dc32e76628fd24aed12941e68933",
-      "url": "https://www.radiodos.com.ar/215831-carlos-mino-nuevo-dt-de-san-martin-hay-que-abrazar-los-desafios-y-mirar-las-oportunidades",
-      "title": "Carlos Miño, nuevo DT de San Martín: \"Hay que abrazar los desafíos y mirar las oportunidades\"",
-      "volanta": "Reemplaza al Gato Revidatti",
-      "date": "2026-10-22T17:59:54+00:00"
     }
   ]
 }
