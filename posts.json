@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T12:49:01+00:00",
+  "updated": "2026-10-26T13:08:50+00:00",
   "posts": [
+    {
+      "id": "58bc5210",
+      "image": "img/58bc5210.png",
+      "image_sha": "45dfbb6ca9da8b00bc637e0e7ab3f3dc98870382",
+      "url": "https://www.radiodos.com.ar/215986-productos-frescos-artesanias-y-gastronomia-nueva-semana-de-ferias-en-corrientes",
+      "title": "Productos frescos, artesanías y gastronomía: nueva semana de ferias en Corrientes",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-10-26T13:08:50+00:00"
+    },
     {
       "id": "ef20d3cc",
       "image": "img/ef20d3cc.png",
@@ -531,15 +540,6 @@
       "title": "Rosario: murió la joven que había sido rociada con alcohol e incendiada por su pareja",
       "volanta": "SANTA FE",
       "date": "2026-10-22T16:25:51+00:00"
-    },
-    {
-      "id": "5f5e2684",
-      "image": "img/5f5e2684.png",
-      "image_sha": "7424948b57964b4e9289eac06b7b6976b0e65c9a",
-      "url": "https://www.radiodos.com.ar/215817-corrientes-dira-presente-en-los-juegos-argentinos-urbanos-2026",
-      "title": "Corrientes dirá presente en los Juegos Argentinos Urbanos 2026",
-      "volanta": "DEL 28 AL 31 DE OCTUBRE",
-      "date": "2026-10-22T15:08:52+00:00"
     }
   ]
 }
