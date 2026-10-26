@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T20:36:43+00:00",
+  "updated": "2026-10-26T20:39:11+00:00",
   "posts": [
+    {
+      "id": "79bca84b",
+      "image": "img/79bca84b.png",
+      "image_sha": "82012eefba8e1b09d433c2def66e2db2f01bc2ad",
+      "url": "https://www.radiodos.com.ar/216023-se-presento-en-corrientes-primeros-latidos-un-programa-de-acompanamiento-y-seguimiento-integral-para-embarazadas-y-recien-nacidos",
+      "title": "Se presentó en Corrientes Primeros Latidos, un programa de acompañamiento y seguimiento integral para embarazadas y recién nacidos",
+      "volanta": "CON LA PRESENCIA DEL GOBERNADOR VALDÉS",
+      "date": "2026-10-26T20:39:11+00:00"
+    },
     {
       "id": "7db550d2",
       "image": "img/7db550d2.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: en noviembre inician las inscripciones para el ciclo lectivo 2027",
       "volanta": "EDUCACIÓN",
       "date": "2026-10-22T20:48:44+00:00"
-    },
-    {
-      "id": "86a7e51b",
-      "image": "img/86a7e51b.png",
-      "image_sha": "610b51a1dad325f86401ccecce00c1ff2d075358",
-      "url": "https://www.radiodos.com.ar/215824-educacion-fisica-docentes-correntinos-se-capacitaron-con-el-especialista-horacio-anselmi",
-      "title": "Educación Física: docentes correntinos se capacitaron con el especialista Horacio Anselmi",
-      "volanta": "MINISTERIO DE EDUCACIÓN",
-      "date": "2026-10-22T19:36:13+00:00"
     }
   ]
 }
