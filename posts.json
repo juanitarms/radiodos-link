@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T15:11:08+00:00",
+  "updated": "2026-10-26T17:56:16+00:00",
   "posts": [
+    {
+      "id": "945b747d",
+      "image": "img/945b747d.png",
+      "image_sha": "10f24226a636c8764361a4262ff52f106115d827",
+      "url": "https://www.radiodos.com.ar/216020-la-ciudad-reunio-a-unos-150-atletas-argentinos-y-de-paises-vecinos-en-la-ultramaraton-2026",
+      "title": "La Ciudad reunió a unos 150 atletas argentinos y de países vecinos en la Ultramaratón 2026",
+      "volanta": "DEPORTE Y TURISMO",
+      "date": "2026-10-26T17:56:16+00:00"
+    },
     {
       "id": "997c6c5e",
       "image": "img/997c6c5e.png",
@@ -531,15 +540,6 @@
       "title": "Carlos Miño, nuevo DT de San Martín: \"Hay que abrazar los desafíos y mirar las oportunidades\"",
       "volanta": "Reemplaza al Gato Revidatti",
       "date": "2026-10-22T17:59:54+00:00"
-    },
-    {
-      "id": "e1eed8c1",
-      "image": "img/e1eed8c1.png",
-      "image_sha": "87222c65e58af38e5ff3119b827db8c493b7b8fb",
-      "url": "https://www.radiodos.com.ar/215818-itati-prefectura-facilita-el-traslado-de-alumnos-a-sus-escuelas",
-      "title": "Itatí: Prefectura facilita el traslado de alumnos a sus escuelas",
-      "volanta": "Caminos anegados por la crecida",
-      "date": "2026-10-22T16:28:00+00:00"
     }
   ]
 }
