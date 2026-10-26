@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T20:02:41+00:00",
+  "updated": "2026-10-26T20:36:43+00:00",
   "posts": [
+    {
+      "id": "7db550d2",
+      "image": "img/7db550d2.png",
+      "image_sha": "86ea3ac5d42cdddb8484d0c0d1b080c2b0af27ec",
+      "url": "https://www.radiodos.com.ar/216024-salud-publica-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-10-26T20:36:43+00:00"
+    },
     {
       "id": "6f8e7d46",
       "image": "img/6f8e7d46.png",
@@ -531,15 +540,6 @@
       "title": "Educación Física: docentes correntinos se capacitaron con el especialista Horacio Anselmi",
       "volanta": "MINISTERIO DE EDUCACIÓN",
       "date": "2026-10-22T19:36:13+00:00"
-    },
-    {
-      "id": "810d9a6c",
-      "image": "img/810d9a6c.png",
-      "image_sha": "8181fea1fa9a35e27592bafab807ed35d3a0b447",
-      "url": "https://www.radiodos.com.ar/215823-came-y-leasing-argentina-impulsan-el-leasing-y-la-capacitacion-para-las-pymes-de-todo-el-pais",
-      "title": "CAME y Leasing Argentina impulsan el leasing y la capacitación para las pymes de todo el país",
-      "volanta": "Comercio",
-      "date": "2026-10-22T18:46:34+00:00"
     }
   ]
 }
