@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T10:51:18+00:00",
+  "updated": "2026-10-26T11:16:51+00:00",
   "posts": [
+    {
+      "id": "930d3f60",
+      "image": "img/930d3f60.png",
+      "image_sha": "92ced7c5896b98d5271935ddf088ed7a9aa5f454",
+      "url": "https://www.radiodos.com.ar/215971-atraparon-a-pandillas-que-atacaban-y-danaban-casas-a-gomerazos",
+      "title": "Atraparon a pandillas que atacaban y dañaban casas a gomerazos",
+      "volanta": "Barrios La Chola y San Antonio Oeste",
+      "date": "2026-10-26T11:16:51+00:00"
+    },
     {
       "id": "60b857e2",
       "image": "img/60b857e2.png",
@@ -531,15 +540,6 @@
       "title": "Encendido discurso de Rolando Graña contra Javier Milei en los Martín Fierro: \"La gente no llega a fin de mes\"",
       "volanta": "POLÉMICO",
       "date": "2026-10-22T13:53:55+00:00"
-    },
-    {
-      "id": "cf7bb5f4",
-      "image": "img/cf7bb5f4.png",
-      "image_sha": "af890a35fa9dc51c514d7349dc009570075c0f6d",
-      "url": "https://www.radiodos.com.ar/215796-diputados-dio-media-sancion-con-abrumadora-mayoria-a-la-nueva-ley-de-discapacidad",
-      "title": "Diputados dio media sanción con abrumadora mayoría a la nueva Ley de Discapacidad",
-      "volanta": "CONGRESO",
-      "date": "2026-10-22T13:23:39+00:00"
     }
   ]
 }
