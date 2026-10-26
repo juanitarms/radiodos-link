@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T21:29:17+00:00",
+  "updated": "2026-10-26T23:34:26+00:00",
   "posts": [
+    {
+      "id": "4ca185cc",
+      "image": "img/4ca185cc.png",
+      "image_sha": "3fad05c29b9dad003c4948001d1eb1be8372d8dd",
+      "url": "https://www.radiodos.com.ar/216031-corrientes-exporto-usd-32-millones-en-septiembre-y-consolida-una-suba-interanual-del-23",
+      "title": "Corrientes exportó USD 32 millones en septiembre y consolida una suba interanual del 23%",
+      "volanta": "informe del indec",
+      "date": "2026-10-26T23:34:26+00:00"
+    },
     {
       "id": "606a5db5",
       "image": "img/606a5db5.png",
@@ -531,15 +540,6 @@
       "title": "Temporal de granizo e intensos vientos en localidades del sur de Corrientes",
       "volanta": "EFECTOS DEL NIÑO",
       "date": "2026-10-23T11:51:00+00:00"
-    },
-    {
-      "id": "31432a98",
-      "image": "img/31432a98.png",
-      "image_sha": "78e3ed7484f2e0741ce3d635e648d852249d690f",
-      "url": "https://www.radiodos.com.ar/215851-corrientes-continua-la-intensa-busqueda-del-sujeto-que-desaparecio-mientras-cumplia-prision-domiciliaria",
-      "title": "Corrientes: continúa la intensa búsqueda del sujeto que desapareció mientras cumplía prisión domiciliaria",
-      "volanta": "ESTABA EN EMPEDRADO",
-      "date": "2026-10-23T11:19:22+00:00"
     }
   ]
 }
