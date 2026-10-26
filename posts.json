@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T12:19:30+00:00",
+  "updated": "2026-10-26T12:49:01+00:00",
   "posts": [
+    {
+      "id": "ef20d3cc",
+      "image": "img/ef20d3cc.png",
+      "image_sha": "d955c731bfc00f4a4f5a780ce5127175d6a1af1c",
+      "url": "https://www.radiodos.com.ar/215978-regatas-afronta-la-primera-gira-de-la-temporada",
+      "title": "Regatas afronta la primera gira de la temporada",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-10-26T12:49:01+00:00"
+    },
     {
       "id": "58fa2315",
       "image": "img/58fa2315.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes dirá presente en los Juegos Argentinos Urbanos 2026",
       "volanta": "DEL 28 AL 31 DE OCTUBRE",
       "date": "2026-10-22T15:08:52+00:00"
-    },
-    {
-      "id": "c28e3406",
-      "image": "img/c28e3406.png",
-      "image_sha": "a4edf55d5998f3955b102682484adc9a9474ee51",
-      "url": "https://www.radiodos.com.ar/215812-donald-trump-lanzo-su-plan-platita-de-cara-a-las-elecciones-y-echa-mano-de-las-reservas-de-diesel-del-pais",
-      "title": "Donald Trump lanzó su \"plan platita\" de cara a las elecciones y echa mano de las reservas de diésel del país",
-      "volanta": "El 3 de noviembre",
-      "date": "2026-10-22T14:42:03+00:00"
     }
   ]
 }
