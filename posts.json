@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T13:08:50+00:00",
+  "updated": "2026-10-26T14:19:20+00:00",
   "posts": [
+    {
+      "id": "714fe731",
+      "image": "img/714fe731.png",
+      "image_sha": "9e451f7517b3bc5915b37f6d7bc4c760831a9b55",
+      "url": "https://www.radiodos.com.ar/216001-denunciaron-a-la-familia-del-abusador-de-una-nina-que-esta-profugo-condenado-a-13-anos-de-prision",
+      "title": "Denunciaron a la familia del abusador de una niña que está prófugo: condenado a 13 años de prisión",
+      "volanta": "EMPEDRADO",
+      "date": "2026-10-26T14:19:20+00:00"
+    },
     {
       "id": "58bc5210",
       "image": "img/58bc5210.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno provincial refuerza un terraplén y acondiciona albergues en Paso de la Patria",
       "volanta": "ANTE LAS CRECIDAS DEL RÍO PARANÁ",
       "date": "2026-10-22T16:26:38+00:00"
-    },
-    {
-      "id": "a53a42f6",
-      "image": "img/a53a42f6.png",
-      "image_sha": "bd05c3ddcfb7b0a048e0c0f5b1c763dcb649a457",
-      "url": "https://www.radiodos.com.ar/215820-rosario-murio-la-joven-que-habia-sido-rociada-con-alcohol-e-incendiada-por-su-pareja",
-      "title": "Rosario: murió la joven que había sido rociada con alcohol e incendiada por su pareja",
-      "volanta": "SANTA FE",
-      "date": "2026-10-22T16:25:51+00:00"
     }
   ]
 }
