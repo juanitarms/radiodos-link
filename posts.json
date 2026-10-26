@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T17:56:52+00:00",
+  "updated": "2026-10-26T17:57:29+00:00",
   "posts": [
+    {
+      "id": "15a23566",
+      "image": "img/15a23566.png",
+      "image_sha": "e7b4efa3004aa95825fbdf4d5479d48ffe14ec0b",
+      "url": "https://www.radiodos.com.ar/216016-salarios-los-ingresos-del-87-de-los-trabajadores-no-alcanzan-para-cubrir-necesidades-basicas",
+      "title": "Salarios: los ingresos del 87% de los trabajadores no alcanzan para cubrir necesidades básicas",
+      "volanta": "ECONOMÍA",
+      "date": "2026-10-26T17:57:29+00:00"
+    },
     {
       "id": "1f270a48",
       "image": "img/1f270a48.png",
@@ -531,15 +540,6 @@
       "title": "La UNNE busca recuperar el predio deportivo del Campus Resistencia para su comunidad",
       "volanta": "DEFENSA DEL PATRIMONIO UNIVERSITARIO",
       "date": "2026-10-22T18:45:03+00:00"
-    },
-    {
-      "id": "04e912e7",
-      "image": "img/04e912e7.png",
-      "image_sha": "c34203973fbac4023a0326f8bbe0047e667a4319",
-      "url": "https://www.radiodos.com.ar/215829-en-came-pymes-argentinas-exploraron-el-mercado-de-emiratos-arabes-unidos",
-      "title": "En CAME, pymes argentinas exploraron el mercado de Emiratos Árabes Unidos",
-      "volanta": "COMUNICADO DE PRENSA",
-      "date": "2026-10-22T18:00:37+00:00"
     }
   ]
 }
