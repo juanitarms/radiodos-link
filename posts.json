@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T11:16:51+00:00",
+  "updated": "2026-10-26T11:38:00+00:00",
   "posts": [
+    {
+      "id": "74ff46f3",
+      "image": "img/74ff46f3.png",
+      "image_sha": "fdc9c631bf1bb1e4ddb517af06f84db924221e19",
+      "url": "https://www.radiodos.com.ar/215974-caso-nanci-godoy-hallaron-prendas-quemadas-en-la-tapera-del-capataz-y-se-complica-su-situacion-y-la-de-los-peones",
+      "title": "Caso Nanci Godoy: hallaron prendas quemadas en la tapera del capataz y se complica su situación y la de los peones",
+      "volanta": "MAS CERCA DEL ESCLARECIMIENTO",
+      "date": "2026-10-26T11:38:00+00:00"
+    },
     {
       "id": "930d3f60",
       "image": "img/930d3f60.png",
@@ -531,15 +540,6 @@
       "title": "El desgarrador homenaje a Ernestina Pais en los Martín Fierro de Radio 2026",
       "volanta": "MUY RECORDADA",
       "date": "2026-10-22T14:11:39+00:00"
-    },
-    {
-      "id": "5c67ef04",
-      "image": "img/5c67ef04.png",
-      "image_sha": "67bd6bc0f8365ced2650030811da33e18df257b7",
-      "url": "https://www.radiodos.com.ar/215809-encendido-discurso-de-rolando-grana-contra-javier-milei-en-los-martin-fierro-la-gente-no-llega-a-fin-de-mes",
-      "title": "Encendido discurso de Rolando Graña contra Javier Milei en los Martín Fierro: \"La gente no llega a fin de mes\"",
-      "volanta": "POLÉMICO",
-      "date": "2026-10-22T13:53:55+00:00"
     }
   ]
 }
