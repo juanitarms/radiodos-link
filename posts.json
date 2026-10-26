@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T20:39:43+00:00",
+  "updated": "2026-10-26T21:13:42+00:00",
   "posts": [
+    {
+      "id": "09f90776",
+      "image": "img/09f90776.png",
+      "image_sha": "541ff64c84729c483eaee612deed66225f102a00",
+      "url": "https://www.radiodos.com.ar/216025-incautaron-49-plantas-de-marihuana-en-una-vivienda",
+      "title": "Incautaron 49 plantas de marihuana en una vivienda",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-26T21:13:42+00:00"
+    },
     {
       "id": "3571233e",
       "image": "img/3571233e.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio suma nuevas cámaras con megáfonos para proteger las plazas y erradicar basurales",
       "volanta": "CORRIENTES",
       "date": "2026-10-23T01:06:26+00:00"
-    },
-    {
-      "id": "54b2a9d3",
-      "image": "img/54b2a9d3.png",
-      "image_sha": "15a0951d6e6c4a6c7084b5d5c3dd983a7fba968a",
-      "url": "https://www.radiodos.com.ar/215837-el-rio-parana-sigue-avanzando-sobre-la-costa-de-corrientes-asi-esta-mola",
-      "title": "El río Paraná sigue avanzando sobre la costa de Corrientes: así esta Mola",
-      "volanta": "PASA AHORA",
-      "date": "2026-10-22T21:22:53+00:00"
     }
   ]
 }
