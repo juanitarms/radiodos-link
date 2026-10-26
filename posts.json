@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T21:13:42+00:00",
+  "updated": "2026-10-26T21:27:28+00:00",
   "posts": [
+    {
+      "id": "5ab0e1a5",
+      "image": "img/5ab0e1a5.png",
+      "image_sha": "b4ef33cb6a2e389d3322ce7b1cc72ad922d7f5d2",
+      "url": "https://www.radiodos.com.ar/216028-brasil-la-justicia-le-prohibio-salir-del-pais-a-flavio-bolsonaro-tras-la-derrota-electoral",
+      "title": "Brasil: la Justicia le prohibió salir del país a Flávio Bolsonaro tras la derrota electoral",
+      "volanta": "TRAS LAS ELECCIONES",
+      "date": "2026-10-26T21:27:28+00:00"
+    },
     {
       "id": "09f90776",
       "image": "img/09f90776.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un hombre que habría desaparecido en aguas de un río en el interior de Corrientes",
       "volanta": "ANOCHE",
       "date": "2026-10-23T10:35:14+00:00"
-    },
-    {
-      "id": "40562f51",
-      "image": "img/40562f51.png",
-      "image_sha": "8e37b4dd5b7c0e0fc412b71dc54ab03dab0a32fe",
-      "url": "https://www.radiodos.com.ar/215843-el-municipio-suma-nuevas-camaras-con-megafonos-para-proteger-las-plazas-y-erradicar-basurales",
-      "title": "El Municipio suma nuevas cámaras con megáfonos para proteger las plazas y erradicar basurales",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-23T01:06:26+00:00"
     }
   ]
 }
