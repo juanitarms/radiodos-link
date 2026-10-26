@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T17:57:29+00:00",
+  "updated": "2026-10-26T18:22:38+00:00",
   "posts": [
+    {
+      "id": "aba7c6c1",
+      "image": "img/aba7c6c1.png",
+      "image_sha": "5c3673d7e398856330d0597864e773fb12f77495",
+      "url": "https://www.radiodos.com.ar/216013-juan-pablo-valdes-anuncio-creditos-bancarios-para-quienes-sufrieron-las-consecuencias-de-la-crecida-del-rio",
+      "title": "Juan Pablo Valdés anunció créditos bancarios para quienes sufrieron las consecuencias de la crecida del río",
+      "volanta": "EN CASA DE GOBIERNO",
+      "date": "2026-10-26T18:22:38+00:00"
+    },
     {
       "id": "15a23566",
       "image": "img/15a23566.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre prendió fuego su departamento y los vecinos lo denunciaron por violencia",
       "volanta": "Floresta",
       "date": "2026-10-22T18:45:51+00:00"
-    },
-    {
-      "id": "7c495060",
-      "image": "img/7c495060.png",
-      "image_sha": "5e880a45e0c0d6e3e803eb67b55b4d2e0015f845",
-      "url": "https://www.radiodos.com.ar/215827-la-unne-busca-recuperar-el-predio-deportivo-del-campus-resistencia-para-su-comunidad",
-      "title": "La UNNE busca recuperar el predio deportivo del Campus Resistencia para su comunidad",
-      "volanta": "DEFENSA DEL PATRIMONIO UNIVERSITARIO",
-      "date": "2026-10-22T18:45:03+00:00"
     }
   ]
 }
