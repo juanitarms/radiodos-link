@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T21:27:28+00:00",
+  "updated": "2026-10-26T21:28:31+00:00",
   "posts": [
+    {
+      "id": "532abb89",
+      "image": "img/532abb89.png",
+      "image_sha": "69be94c99b62b459be8fe3d51d2db4cebac015a2",
+      "url": "https://www.radiodos.com.ar/216029-avanza-el-programa-cielo-limpio-y-ya-se-retiro-cableado-en-14-cuadras-del-casco-centrico-de-corrientes",
+      "title": "Avanza el programa \"Cielo Limpio\" y ya se retiró cableado en 14 cuadras del casco céntrico de Corrientes",
+      "volanta": "TAREA CONJUNTA DEL MUNICIPIO",
+      "date": "2026-10-26T21:28:31+00:00"
+    },
     {
       "id": "5ab0e1a5",
       "image": "img/5ab0e1a5.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: cesaron las lluvias pero el ascenso de las aguas del río Paraná sigue provocando estragos",
       "volanta": "EFECTOS DEL NIÑO",
       "date": "2026-10-23T10:49:06+00:00"
-    },
-    {
-      "id": "7444a745",
-      "image": "img/7444a745.png",
-      "image_sha": "0b83340673910d6867371a78b3ede470a0b3d0ef",
-      "url": "https://www.radiodos.com.ar/215850-buscan-a-un-hombre-que-habria-desaparecido-en-aguas-de-un-rio-en-el-interior-de-corrientes",
-      "title": "Buscan a un hombre que habría desaparecido en aguas de un río en el interior de Corrientes",
-      "volanta": "ANOCHE",
-      "date": "2026-10-23T10:35:14+00:00"
     }
   ]
 }
