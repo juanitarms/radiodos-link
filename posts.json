@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T22:45:00+00:00",
+  "updated": "2026-10-27T22:47:10+00:00",
   "posts": [
+    {
+      "id": "384dcf24",
+      "image": "img/384dcf24.png",
+      "image_sha": "8669a106da815e76ae7bfc36e9eee7e0dbe21fef",
+      "url": "https://www.radiodos.com.ar/216093-el-gobernador-acompano-los-145-anos-de-sauce-y-destaco-las-obras-que-impulsan-su-desarrollo",
+      "title": "El Gobernador acompañó los 145 años de Sauce y destacó las obras que impulsan su desarrollo",
+      "volanta": "ACTO Y DESFILE CÍVICO-MILITAR",
+      "date": "2026-10-27T22:47:10+00:00"
+    },
     {
       "id": "7bcd4f1c",
       "image": "img/7bcd4f1c.png",
@@ -531,15 +540,6 @@
       "title": "El caso de bullying que conmociona a Catamarca: el colegio emitió un comunicado",
       "volanta": "VOZ OFICIAL",
       "date": "2026-10-25T13:19:25+00:00"
-    },
-    {
-      "id": "f065a56a",
-      "image": "img/f065a56a.png",
-      "image_sha": "1063642d0c1f62533c93f414e228c984f3526538",
-      "url": "https://www.radiodos.com.ar/215922-f1-franco-colapinto-debera-remontar-desde-la-ultima-fila-en-el-gp-de-estados-unidos",
-      "title": "F1: Franco Colapinto deberá remontar desde la última fila en el GP de Estados Unidos",
-      "volanta": "El poleman fue Kimi Antonelli que puede ser campeón",
-      "date": "2026-10-24T22:52:40+00:00"
     }
   ]
 }
