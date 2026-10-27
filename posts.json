@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T15:01:56+00:00",
+  "updated": "2026-10-27T15:15:13+00:00",
   "posts": [
+    {
+      "id": "dc3e786f",
+      "image": "img/dc3e786f.png",
+      "image_sha": "a2d914cf43901ace2527b9aff08a2dc359d8fa23",
+      "url": "https://www.radiodos.com.ar/216071-brasil-la-policia-federal-investiga-si-flavio-bolsonaro-huyo-hacia-los-estados-unidos-via-la-argentina",
+      "title": "Brasil: la Policía Federal investiga si Flávio Bolsonaro huyó hacia los Estados Unidos vía la Argentina",
+      "volanta": "LUEGO DE LAS ELECCIONES",
+      "date": "2026-10-27T15:15:13+00:00"
+    },
     {
       "id": "bdcd9b03",
       "image": "img/bdcd9b03.png",
@@ -531,15 +540,6 @@
       "title": "La conmovedora historia de Martín, el gallo que lleva 8 años esperando a su dueño afuera de un hospital",
       "volanta": "Bolivia",
       "date": "2026-10-23T19:59:19+00:00"
-    },
-    {
-      "id": "53ca53c1",
-      "image": "img/53ca53c1.png",
-      "image_sha": "2b4c2c8e1c5f6eb0c51e6bc94c0154ea7f1db041",
-      "url": "https://www.radiodos.com.ar/215885-los-cdi-llenaron-de-arte-creatividad-y-alegria-una-jornada-especial",
-      "title": "Los CDI llenaron de arte, creatividad y alegría una jornada especial",
-      "volanta": "En Virasoro",
-      "date": "2026-10-23T18:58:03+00:00"
     }
   ]
 }
