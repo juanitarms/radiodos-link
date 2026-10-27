@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T22:47:45+00:00",
+  "updated": "2026-10-27T22:48:21+00:00",
   "posts": [
+    {
+      "id": "8be39dc1",
+      "image": "img/8be39dc1.png",
+      "image_sha": "47a82334dc233b2000b818122721d39488415545",
+      "url": "https://www.radiodos.com.ar/216095-presentaron-los-proyectos-tecnicos-y-ambientales-para-las-obras-en-las-rutas-provinciales-27-y-68",
+      "title": "Presentaron los proyectos técnicos y ambientales para las obras en las Rutas Provinciales 27 y 68",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-27T22:48:21+00:00"
+    },
     {
       "id": "c6aefcfc",
       "image": "img/c6aefcfc.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a dos hombres y secuestraron un animal faenado y dos motocicletas",
       "volanta": "San Miguel",
       "date": "2026-10-25T14:25:28+00:00"
-    },
-    {
-      "id": "73ae6c27",
-      "image": "img/73ae6c27.png",
-      "image_sha": "8ab443494e6555521641dbe53e94637547a4bbbd",
-      "url": "https://www.radiodos.com.ar/215949-lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje",
-      "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
-      "volanta": "brasil",
-      "date": "2026-10-25T13:59:20+00:00"
     }
   ]
 }
