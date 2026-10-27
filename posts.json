@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T14:32:41+00:00",
+  "updated": "2026-10-27T15:01:56+00:00",
   "posts": [
+    {
+      "id": "bdcd9b03",
+      "image": "img/bdcd9b03.png",
+      "image_sha": "9aee3e809df8ec165b9494e61a3efe944761c2ca",
+      "url": "https://www.radiodos.com.ar/216070-dos-peritos-describieron-el-cerebro-primitivo-de-pity-alvarez-tras-anos-de-consumo-de-drogas",
+      "title": "Dos peritos describieron el \"cerebro primitivo\" de Pity Álvarez tras años de consumo de drogas",
+      "volanta": "SIGUE EL JUICIO",
+      "date": "2026-10-27T15:01:56+00:00"
+    },
     {
       "id": "5a978a46",
       "image": "img/5a978a46.png",
@@ -531,15 +540,6 @@
       "title": "Los CDI llenaron de arte, creatividad y alegría una jornada especial",
       "volanta": "En Virasoro",
       "date": "2026-10-23T18:58:03+00:00"
-    },
-    {
-      "id": "71839903",
-      "image": "img/71839903.png",
-      "image_sha": "de897d0926f9acaac5f15a32b755704176d37d6d",
-      "url": "https://www.radiodos.com.ar/215888-tragedia-dos-jubilados-murieron-en-la-ruta-40",
-      "title": "Tragedia: dos jubilados murieron en la Ruta 40",
-      "volanta": "Catamarca",
-      "date": "2026-10-23T18:57:27+00:00"
     }
   ]
 }
