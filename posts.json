@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T21:22:38+00:00",
+  "updated": "2026-10-27T21:23:14+00:00",
   "posts": [
+    {
+      "id": "35c74516",
+      "image": "img/35c74516.png",
+      "image_sha": "6f29121911561c296dd1c1c45790e092b31af399",
+      "url": "https://www.radiodos.com.ar/216090-un-joven-pelea-por-su-vida-tras-sufrir-un-grave-choque",
+      "title": "Un joven pelea por su vida tras sufrir un grave choque",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-27T21:23:14+00:00"
+    },
     {
       "id": "584e3a82",
       "image": "img/584e3a82.png",
@@ -531,15 +540,6 @@
       "title": "Policías de Corrientes realizaron maniobras de RCP a un bebé y lograron salvarle la vida",
       "volanta": "RÁPIDO Y EFICAZ ACCIONAR",
       "date": "2026-10-24T16:42:20+00:00"
-    },
-    {
-      "id": "042b14f6",
-      "image": "img/042b14f6.png",
-      "image_sha": "a9d3aa08618b46bc3e95147694634534b0cd7422",
-      "url": "https://www.radiodos.com.ar/215916-yacyreta-argentina-refuerza-sus-defensa-por-la-fuerte-correntada-del-rio-parana",
-      "title": "Yacyretá Argentina refuerza sus defensa por la fuerte correntada del río Paraná",
-      "volanta": "CRECIDA",
-      "date": "2026-10-24T15:37:38+00:00"
     }
   ]
 }
