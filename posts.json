@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T12:33:50+00:00",
+  "updated": "2026-10-27T12:54:02+00:00",
   "posts": [
+    {
+      "id": "c66e784a",
+      "image": "img/c66e784a.png",
+      "image_sha": "bd362cf76cce6e44fe8c46bb7f52bc78800e4d21",
+      "url": "https://www.radiodos.com.ar/216054-el-partido-de-flavio-bolsonaro-reconocio-la-victoria-de-lula-da-silva-pero-evito-felicitarlo",
+      "title": "El partido de Flávio Bolsonaro reconoció la victoria de Lula da Silva pero evitó felicitarlo",
+      "volanta": "BRASIL",
+      "date": "2026-10-27T12:54:02+00:00"
+    },
     {
       "id": "c471530c",
       "image": "img/c471530c.png",
@@ -531,15 +540,6 @@
       "title": "La UNNE lanzó un Curso de capacitación en Electricidad para aprender sobre instalaciones domiciliarias",
       "volanta": "ESCUELA DE EDUCACIÓN PROFESIONAL",
       "date": "2026-10-23T17:54:24+00:00"
-    },
-    {
-      "id": "532bd17d",
-      "image": "img/532bd17d.png",
-      "image_sha": "8ed17e10da5622aff4d3e4cc1d50a705b3f73847",
-      "url": "https://www.radiodos.com.ar/215890-mas-de-20-ninos-y-ninas-del-taller-de-robotica-de-la-unne-participaran-del-maker-tech-2026",
-      "title": "Más de 20 niños y niñas del taller de robótica de la UNNE participarán del Maker-Tech 2026",
-      "volanta": "CON 13 ROBOTS PREPARADOS EN EL CUATRIMESTRE",
-      "date": "2026-10-23T17:53:41+00:00"
     }
   ]
 }
