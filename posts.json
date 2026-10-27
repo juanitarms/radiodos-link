@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T14:16:34+00:00",
+  "updated": "2026-10-27T14:32:41+00:00",
   "posts": [
+    {
+      "id": "5a978a46",
+      "image": "img/5a978a46.png",
+      "image_sha": "6d94ac5e416681aa6f1653a02ef9cc025c50c2fd",
+      "url": "https://www.radiodos.com.ar/216065-habra-misas-y-operativos-municipales-en-cementerios-por-el-dia-de-los-fieles-difuntos",
+      "title": "Habrá misas y operativos municipales en cementerios por el Día de los Fieles Difuntos",
+      "volanta": "CONMEMORACIÓN EN LA CIUDAD",
+      "date": "2026-10-27T14:32:41+00:00"
+    },
     {
       "id": "cc26a634",
       "image": "img/cc26a634.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: dos jubilados murieron en la Ruta 40",
       "volanta": "Catamarca",
       "date": "2026-10-23T18:57:27+00:00"
-    },
-    {
-      "id": "8111d11c",
-      "image": "img/8111d11c.png",
-      "image_sha": "67c06bb1becbe7930c5a6bfd480b8dff53372366",
-      "url": "https://www.radiodos.com.ar/215887-el-martes-27-de-octubre-iniciara-el-pago-del-plus-de-refuerzo-municipal",
-      "title": "El martes 27 de octubre iniciará el pago del plus de refuerzo municipal",
-      "volanta": "COMPLEMENTO SALARIAL",
-      "date": "2026-10-23T18:56:34+00:00"
     }
   ]
 }
