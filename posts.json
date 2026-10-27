@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T10:49:28+00:00",
+  "updated": "2026-10-27T11:15:58+00:00",
   "posts": [
+    {
+      "id": "5fff002d",
+      "image": "img/5fff002d.png",
+      "image_sha": "1879ed59c5adad9373f7f386d90bd4428a2083c2",
+      "url": "https://www.radiodos.com.ar/216036-lnb-con-un-bombino-intratable-el-granate-se-hizo-gigante-y-barrio-a-regatas",
+      "title": "LNB: Con un Bombino intratable, El Granate se hizo gigante y barrió a Regatas",
+      "volanta": "BÁSQUET",
+      "date": "2026-10-27T11:15:58+00:00"
+    },
     {
       "id": "426f52d7",
       "image": "img/426f52d7.png",
@@ -531,15 +540,6 @@
       "title": "Julieta Prandi aseguró que no hay vuelta atrás con Emanuel Ortega: \"No me lo esperaba\"",
       "volanta": "CONTUNDENTE",
       "date": "2026-10-23T13:58:14+00:00"
-    },
-    {
-      "id": "dc22b782",
-      "image": "img/dc22b782.png",
-      "image_sha": "7a75471aea7988cd271862fe2e3f83a09afa7024",
-      "url": "https://www.radiodos.com.ar/215867-denuncian-por-reiterados-robos-de-rateros-en-el-predio-de-boca-unidos",
-      "title": "Denuncian por reiterados robos de \"rateros\" en el predio de Boca Unidos",
-      "volanta": "BARRIO 17 DE AGOSTO",
-      "date": "2026-10-23T13:34:13+00:00"
     }
   ]
 }
