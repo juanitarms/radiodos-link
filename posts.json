@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T22:44:12+00:00",
+  "updated": "2026-10-27T22:45:00+00:00",
   "posts": [
+    {
+      "id": "7bcd4f1c",
+      "image": "img/7bcd4f1c.png",
+      "image_sha": "b5d03b7999095e85602c2be612bb471a882fd0f8",
+      "url": "https://www.radiodos.com.ar/216092-juicio-por-la-desaparicion-de-loan-se-reanudan-las-audiencias-con-14-nuevos-testimonios",
+      "title": "Juicio por la desaparición de Loan: se reanudan las audiencias con 14 nuevos testimonios",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-27T22:45:00+00:00"
+    },
     {
       "id": "f7b8e1c6",
       "image": "img/f7b8e1c6.png",
@@ -531,15 +540,6 @@
       "title": "F1: Franco Colapinto deberá remontar desde la última fila en el GP de Estados Unidos",
       "volanta": "El poleman fue Kimi Antonelli que puede ser campeón",
       "date": "2026-10-24T22:52:40+00:00"
-    },
-    {
-      "id": "4f835de9",
-      "image": "img/4f835de9.png",
-      "image_sha": "4e74b694f4895215d5e0ca0bcdcc0a4166a18392",
-      "url": "https://www.radiodos.com.ar/215919-corrientes-dos-motociclistas-graves-tras-un-choque",
-      "title": "Corrientes: dos motociclistas graves tras un choque",
-      "volanta": "BARRIO VICTOR COLAS",
-      "date": "2026-10-24T21:37:29+00:00"
     }
   ]
 }
