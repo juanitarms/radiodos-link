@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T23:39:40+00:00",
+  "updated": "2026-10-27T03:03:22+00:00",
   "posts": [
+    {
+      "id": "09e772a6",
+      "image": "img/09e772a6.png",
+      "image_sha": "79376853e5a6be9b466e6099ab9ef624415c5c90",
+      "url": "https://www.radiodos.com.ar/216035-balon-de-oro-harry-kane-se-quedo-por-primera-vez-con-el-premio-al-mejor-futbolista-de-la-temporada",
+      "title": "Balón de Oro: Harry Kane se quedó por primera vez con el premio al mejor futbolista de la temporada",
+      "volanta": "DEPORTES",
+      "date": "2026-10-27T03:03:22+00:00"
+    },
     {
       "id": "9e0a8908",
       "image": "img/9e0a8908.png",
@@ -531,15 +540,6 @@
       "title": "El Parlamento Norte Grande reunió a su Mesa Ejecutiva y Comisiones",
       "volanta": "NOA y NEA en Corrientes",
       "date": "2026-10-23T12:35:36+00:00"
-    },
-    {
-      "id": "3dc036cd",
-      "image": "img/3dc036cd.png",
-      "image_sha": "ab6e90472d1d2956b13011228464e8e625ce9b6f",
-      "url": "https://www.radiodos.com.ar/215854-los-sueldos-de-octubre-a-estatales-de-corrientes-se-abonaran-a-partir-del-lunes-26",
-      "title": "Los sueldos de octubre a estatales de Corrientes se abonarán a partir del lunes 26",
-      "volanta": "DE INTERÉS",
-      "date": "2026-10-23T12:18:16+00:00"
     }
   ]
 }
