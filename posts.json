@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T11:15:58+00:00",
+  "updated": "2026-10-27T11:33:44+00:00",
   "posts": [
+    {
+      "id": "ee81f62b",
+      "image": "img/ee81f62b.png",
+      "image_sha": "7ae6631f879bd54ec0ceea6ccbf833732c44c5cb",
+      "url": "https://www.radiodos.com.ar/216042-detuvieron-a-un-sujeto-involucrado-en-un-homicidio-ocurrido-hace-dos-anos-en-corrientes",
+      "title": "Detuvieron a un sujeto involucrado en un homicidio ocurrido hace dos años en Corrientes",
+      "volanta": "SEGURIDAD",
+      "date": "2026-10-27T11:33:44+00:00"
+    },
     {
       "id": "5fff002d",
       "image": "img/5fff002d.png",
@@ -531,15 +540,6 @@
       "title": "Charly García cumple 75 años y así lo homenajearon sus fanáticos",
       "volanta": "GRAN ARTISTA",
       "date": "2026-10-23T14:14:39+00:00"
-    },
-    {
-      "id": "8d881539",
-      "image": "img/8d881539.png",
-      "image_sha": "73be947c6aafd280fd7b526ebe4146b23bfe4049",
-      "url": "https://www.radiodos.com.ar/215873-julieta-prandi-aseguro-que-no-hay-vuelta-atras-con-emanuel-ortega-no-me-lo-esperaba",
-      "title": "Julieta Prandi aseguró que no hay vuelta atrás con Emanuel Ortega: \"No me lo esperaba\"",
-      "volanta": "CONTUNDENTE",
-      "date": "2026-10-23T13:58:14+00:00"
     }
   ]
 }
