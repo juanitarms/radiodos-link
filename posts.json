@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T12:54:02+00:00",
+  "updated": "2026-10-27T13:21:41+00:00",
   "posts": [
+    {
+      "id": "2e1c11af",
+      "image": "img/2e1c11af.png",
+      "image_sha": "85c79f30a2dcfceab0c50edc19d9d19c221c014f",
+      "url": "https://www.radiodos.com.ar/216056-cecoal-unne-conicet-publican-nuevos-conocimientos-sobre-el-lobito-de-rio-en-la-cuenca-del-riachuelo",
+      "title": "CECOAL, UNNE-CONICET: publican nuevos conocimientos sobre el lobito de río en la Cuenca del Riachuelo",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-10-27T13:21:41+00:00"
+    },
     {
       "id": "c66e784a",
       "image": "img/c66e784a.png",
@@ -531,15 +540,6 @@
       "title": "Causa Nanci Godoy: Se dispuso que continúe la prisión preventiva de Sergio Nahuel Rojas y Rosa Leguizamón",
       "volanta": "AUDIENCIA PARA SOLICITAR MEDIDAS DE COERCIÓN",
       "date": "2026-10-23T17:55:04+00:00"
-    },
-    {
-      "id": "70799494",
-      "image": "img/70799494.png",
-      "image_sha": "1764a001df6f5cca160a45756b4d589f4360f598",
-      "url": "https://www.radiodos.com.ar/215891-la-unne-lanzo-un-curso-de-capacitacion-en-electricidad-para-aprender-sobre-instalaciones-domiciliarias",
-      "title": "La UNNE lanzó un Curso de capacitación en Electricidad para aprender sobre instalaciones domiciliarias",
-      "volanta": "ESCUELA DE EDUCACIÓN PROFESIONAL",
-      "date": "2026-10-23T17:54:24+00:00"
     }
   ]
 }
