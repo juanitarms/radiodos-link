@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T21:23:14+00:00",
+  "updated": "2026-10-27T22:44:12+00:00",
   "posts": [
+    {
+      "id": "f7b8e1c6",
+      "image": "img/f7b8e1c6.png",
+      "image_sha": "653cb40d988fa1e575d324c0f29aa7dcd5579e58",
+      "url": "https://www.radiodos.com.ar/216091-lourdes-sanchez-blanqueo-su-romance-con-francisco-liotta",
+      "title": "Lourdes Sánchez blanqueó su romance con Francisco Liotta",
+      "volanta": "EN BUENOS AIRES",
+      "date": "2026-10-27T22:44:12+00:00"
+    },
     {
       "id": "35c74516",
       "image": "img/35c74516.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: dos motociclistas graves tras un choque",
       "volanta": "BARRIO VICTOR COLAS",
       "date": "2026-10-24T21:37:29+00:00"
-    },
-    {
-      "id": "c2f83d9a",
-      "image": "img/c2f83d9a.png",
-      "image_sha": "5936160b55e9bc482400640f6ac01e384bd4bbd6",
-      "url": "https://www.radiodos.com.ar/215920-policias-de-corrientes-realizaron-maniobras-de-rcp-a-un-bebe-y-lograron-salvarle-la-vida",
-      "title": "Policías de Corrientes realizaron maniobras de RCP a un bebé y lograron salvarle la vida",
-      "volanta": "RÁPIDO Y EFICAZ ACCIONAR",
-      "date": "2026-10-24T16:42:20+00:00"
     }
   ]
 }
