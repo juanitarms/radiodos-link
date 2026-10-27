@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T13:21:41+00:00",
+  "updated": "2026-10-27T13:47:21+00:00",
   "posts": [
+    {
+      "id": "a1c53b9d",
+      "image": "img/a1c53b9d.png",
+      "image_sha": "b261885bc444794742d2d24f9d985a8cdd48e860",
+      "url": "https://www.radiodos.com.ar/216051-advierten-por-aumento-de-alacranes-por-el-nino-cuales-son-venenosos-y-como-prevenirlos",
+      "title": "Advierten por aumento de alacranes por El Niño: cuáles son venenosos y cómo prevenirlos",
+      "volanta": "CUIDADO",
+      "date": "2026-10-27T13:47:21+00:00"
+    },
     {
       "id": "2e1c11af",
       "image": "img/2e1c11af.png",
@@ -531,15 +540,6 @@
       "title": "Isla del Cerrito quedó parcialmente aislada por el avance del agua sobre ruta 63",
       "volanta": "EXCLUSIVO COBERTURA RADIO DOS",
       "date": "2026-10-23T18:55:50+00:00"
-    },
-    {
-      "id": "853741b7",
-      "image": "img/853741b7.png",
-      "image_sha": "a992faab2a01e93fd2c3eab7de0aaf2bce144755",
-      "url": "https://www.radiodos.com.ar/215893-causa-nanci-godoy-se-dispuso-que-continue-la-prision-preventiva-de-sergio-nahuel-rojas-y-rosa-leguizamon",
-      "title": "Causa Nanci Godoy: Se dispuso que continúe la prisión preventiva de Sergio Nahuel Rojas y Rosa Leguizamón",
-      "volanta": "AUDIENCIA PARA SOLICITAR MEDIDAS DE COERCIÓN",
-      "date": "2026-10-23T17:55:04+00:00"
     }
   ]
 }
