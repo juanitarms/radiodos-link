@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T16:24:09+00:00",
+  "updated": "2026-10-27T16:24:42+00:00",
   "posts": [
+    {
+      "id": "7192e181",
+      "image": "img/7192e181.png",
+      "image_sha": "6e326bf22866868d7b1f5af7d6a1b4ca3c9e1e89",
+      "url": "https://www.radiodos.com.ar/216072-tension-en-una-carcel-presos-tomaron-de-rehen-a-un-penitenciario-y-lo-liberaron-tras-varias-horas",
+      "title": "Tensión en una cárcel: presos tomaron de rehén a un penitenciario y lo liberaron tras varias horas",
+      "volanta": "MENDOZA",
+      "date": "2026-10-27T16:24:42+00:00"
+    },
     {
       "id": "3e28449d",
       "image": "img/3e28449d.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Triunfazo agónico de Platense que lo dio vuelta en Mendoza y sueña con los playoffs",
       "volanta": "FÚTBOL",
       "date": "2026-10-24T04:23:19+00:00"
-    },
-    {
-      "id": "df15cdf8",
-      "image": "img/df15cdf8.png",
-      "image_sha": "8939a0f04d88ef96148c8fc8e74bf7afedaeca92",
-      "url": "https://www.radiodos.com.ar/215911-caso-nanci-godoy-este-sabado-la-fiscalia-pedira-la-prision-preventiva-sin-plazos-para-zarza-y-sandoval",
-      "title": "Caso Nanci Godoy: éste sábado, la Fiscalía pedirá la prisión preventiva sin plazos para Zarza y Sandoval",
-      "volanta": "ADELANTO DE RADIO DOS",
-      "date": "2026-10-23T23:19:35+00:00"
     }
   ]
 }
