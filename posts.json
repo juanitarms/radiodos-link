@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T11:33:44+00:00",
+  "updated": "2026-10-27T11:51:00+00:00",
   "posts": [
+    {
+      "id": "ae281b6e",
+      "image": "img/ae281b6e.png",
+      "image_sha": "341b9099a5ec229058f75352b0be8e2c47b27b04",
+      "url": "https://www.radiodos.com.ar/216041-denuncian-que-peones-habrian-matado-a-un-puma-en-una-estancia-de-corrientes",
+      "title": "Denuncian que peones habrían matado a un puma en una estancia de Corrientes",
+      "volanta": "EMPEDRADO",
+      "date": "2026-10-27T11:51:00+00:00"
+    },
     {
       "id": "ee81f62b",
       "image": "img/ee81f62b.png",
@@ -531,15 +540,6 @@
       "title": "Otra vez una cruz cayó sobre un sacerdote: fue en Colombia y el cura sobrevivió al impacto",
       "volanta": "CASI UNA TRAGEDIA",
       "date": "2026-10-23T14:41:30+00:00"
-    },
-    {
-      "id": "91740bf4",
-      "image": "img/91740bf4.png",
-      "image_sha": "71ff8dd16d97cedee1223d546aaa34b056e6bf74",
-      "url": "https://www.radiodos.com.ar/215872-charly-garcia-cumple-75-anos-y-asi-lo-homenajearon-sus-fanaticos",
-      "title": "Charly García cumple 75 años y así lo homenajearon sus fanáticos",
-      "volanta": "GRAN ARTISTA",
-      "date": "2026-10-23T14:14:39+00:00"
     }
   ]
 }
