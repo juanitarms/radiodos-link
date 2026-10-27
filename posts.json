@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T11:51:00+00:00",
+  "updated": "2026-10-27T12:09:55+00:00",
   "posts": [
+    {
+      "id": "b0c949a2",
+      "image": "img/b0c949a2.png",
+      "image_sha": "16fbc080a9c206964ebe7d0efe8fe592786f353d",
+      "url": "https://www.radiodos.com.ar/216045-el-gobierno-provincial-reforzo-la-asistencia-a-familias-afectadas-por-la-crecida-del-rio-en-capital",
+      "title": "El Gobierno provincial reforzó la asistencia a familias afectadas por la crecida del río en Capital",
+      "volanta": "CORRIENTES CERCA",
+      "date": "2026-10-27T12:09:55+00:00"
+    },
     {
       "id": "ae281b6e",
       "image": "img/ae281b6e.png",
@@ -531,15 +540,6 @@
       "title": "Murió el hombre más longevo de Argentina: tenía 118 años",
       "volanta": "MISIONES",
       "date": "2026-10-23T15:01:27+00:00"
-    },
-    {
-      "id": "58c87e6c",
-      "image": "img/58c87e6c.png",
-      "image_sha": "3b071cd68142aa11babff42ca31e1a351cd7d380",
-      "url": "https://www.radiodos.com.ar/215871-otra-vez-una-cruz-cayo-sobre-un-sacerdote-fue-en-colombia-y-el-cura-sobrevivio-al-impacto",
-      "title": "Otra vez una cruz cayó sobre un sacerdote: fue en Colombia y el cura sobrevivió al impacto",
-      "volanta": "CASI UNA TRAGEDIA",
-      "date": "2026-10-23T14:41:30+00:00"
     }
   ]
 }
