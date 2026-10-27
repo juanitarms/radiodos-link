@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T03:03:22+00:00",
+  "updated": "2026-10-27T10:38:25+00:00",
   "posts": [
+    {
+      "id": "3bcdd841",
+      "image": "img/3bcdd841.png",
+      "image_sha": "983603c2669829f9e82e53d2c61826a48513dad3",
+      "url": "https://www.radiodos.com.ar/216039-tragedia-en-chaco-hallaron-muertos-a-tres-nenes-de-4-y-5-anos-en-una-laguna",
+      "title": "Tragedia en Chaco: hallaron muertos a tres nenes de 4 y 5 años en una laguna",
+      "volanta": "Corzuela",
+      "date": "2026-10-27T10:38:25+00:00"
+    },
     {
       "id": "09e772a6",
       "image": "img/09e772a6.png",
@@ -531,15 +540,6 @@
       "title": "Habilitaron un centro de evacuados en Corrientes: hay 71 personas alojadas",
       "volanta": "BARRIO PUJOL",
       "date": "2026-10-23T13:09:18+00:00"
-    },
-    {
-      "id": "0e6d0699",
-      "image": "img/0e6d0699.png",
-      "image_sha": "0d4b1445d14795fdb601e06e1f6247d1be64a352",
-      "url": "https://www.radiodos.com.ar/215856-el-parlamento-norte-grande-reunio-a-su-mesa-ejecutiva-y-comisiones",
-      "title": "El Parlamento Norte Grande reunió a su Mesa Ejecutiva y Comisiones",
-      "volanta": "NOA y NEA en Corrientes",
-      "date": "2026-10-23T12:35:36+00:00"
     }
   ]
 }
