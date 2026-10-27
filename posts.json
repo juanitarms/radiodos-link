@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T16:23:31+00:00",
+  "updated": "2026-10-27T16:24:09+00:00",
   "posts": [
+    {
+      "id": "3e28449d",
+      "image": "img/3e28449d.png",
+      "image_sha": "95334da6570f847db5e53131539cd2f21a3445fa",
+      "url": "https://www.radiodos.com.ar/216073-un-policia-mato-de-un-tiro-a-una-perra-en-una-comisaria-portena-y-lo-desvincularon-de-la-fuerza",
+      "title": "Un policía mató de un tiro a una perra en una comisaría porteña y lo desvincularon de la fuerza",
+      "volanta": "FLORESTA",
+      "date": "2026-10-27T16:24:09+00:00"
+    },
     {
       "id": "012e419b",
       "image": "img/012e419b.png",
@@ -531,15 +540,6 @@
       "title": "Caso Nanci Godoy: éste sábado, la Fiscalía pedirá la prisión preventiva sin plazos para Zarza y Sandoval",
       "volanta": "ADELANTO DE RADIO DOS",
       "date": "2026-10-23T23:19:35+00:00"
-    },
-    {
-      "id": "61bd42eb",
-      "image": "img/61bd42eb.png",
-      "image_sha": "521c833d912f6f3338761d072a86f96bbc17cee0",
-      "url": "https://www.radiodos.com.ar/215897-la-municipalidad-de-corrientes-propone-un-fin-de-semana-con-deportes-turismo-artesanos-y-musica-chamamecera",
-      "title": "La Municipalidad de Corrientes propone un fin de semana con deportes, turismo, artesanos y música chamamecera",
-      "volanta": "AGENDA EN LA CIUDAD",
-      "date": "2026-10-23T20:18:27+00:00"
     }
   ]
 }
