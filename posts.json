@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T10:38:25+00:00",
+  "updated": "2026-10-27T10:49:28+00:00",
   "posts": [
+    {
+      "id": "426f52d7",
+      "image": "img/426f52d7.png",
+      "image_sha": "dccd95447f7f520c59770ac388b12abeb15582ed",
+      "url": "https://www.radiodos.com.ar/216037-torneo-clausura-instituto-gano-en-alta-cordoba-y-sello-su-clasificacion-a-las-copas-internacionales",
+      "title": "Torneo Clausura: Instituto ganó en Alta Córdoba y selló su clasificación a las copas internacionales.",
+      "volanta": "Fue 1 a 0",
+      "date": "2026-10-27T10:49:28+00:00"
+    },
     {
       "id": "3bcdd841",
       "image": "img/3bcdd841.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian por reiterados robos de \"rateros\" en el predio de Boca Unidos",
       "volanta": "BARRIO 17 DE AGOSTO",
       "date": "2026-10-23T13:34:13+00:00"
-    },
-    {
-      "id": "c44f6795",
-      "image": "img/c44f6795.png",
-      "image_sha": "f264158657cf4eed62d4a2a3b405dd420c8c8854",
-      "url": "https://www.radiodos.com.ar/215855-habilitaron-un-centro-de-evacuados-en-corrientes-hay-71-personas-alojadas",
-      "title": "Habilitaron un centro de evacuados en Corrientes: hay 71 personas alojadas",
-      "volanta": "BARRIO PUJOL",
-      "date": "2026-10-23T13:09:18+00:00"
     }
   ]
 }
