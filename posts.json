@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T15:15:13+00:00",
+  "updated": "2026-10-27T16:23:31+00:00",
   "posts": [
+    {
+      "id": "012e419b",
+      "image": "img/012e419b.png",
+      "image_sha": "d7f9497862421af6163b0ca4eab56410af313c21",
+      "url": "https://www.radiodos.com.ar/216074-llega-el-cyber-monday-2026-cuando-y-donde-estaran-disponibles-las-mejores-ofertas",
+      "title": "Llega el Cyber Monday 2026: cuándo y dónde estarán disponibles las mejores ofertas",
+      "volanta": "OPORTUNIDAD",
+      "date": "2026-10-27T16:23:31+00:00"
+    },
     {
       "id": "dc3e786f",
       "image": "img/dc3e786f.png",
@@ -531,15 +540,6 @@
       "title": "La Municipalidad de Corrientes propone un fin de semana con deportes, turismo, artesanos y música chamamecera",
       "volanta": "AGENDA EN LA CIUDAD",
       "date": "2026-10-23T20:18:27+00:00"
-    },
-    {
-      "id": "d4bc1e52",
-      "image": "img/d4bc1e52.png",
-      "image_sha": "b5f98f45d0f812c07a1fa9cc343520482b2c5a48",
-      "url": "https://www.radiodos.com.ar/215895-la-conmovedora-historia-de-martin-el-gallo-que-lleva-8-anos-esperando-a-su-dueno-afuera-de-un-hospital",
-      "title": "La conmovedora historia de Martín, el gallo que lleva 8 años esperando a su dueño afuera de un hospital",
-      "volanta": "Bolivia",
-      "date": "2026-10-23T19:59:19+00:00"
     }
   ]
 }
