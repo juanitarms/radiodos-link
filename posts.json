@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T13:47:21+00:00",
+  "updated": "2026-10-27T14:16:34+00:00",
   "posts": [
+    {
+      "id": "cc26a634",
+      "image": "img/cc26a634.png",
+      "image_sha": "fd98723a67d808e82e72cb69dbc96ab87ec389f2",
+      "url": "https://www.radiodos.com.ar/216049-condenaron-a-exsecretarios-y-abogados-por-beneficiar-narcotraficantes-asociacion-ilicita-y-cohecho",
+      "title": "Condenaron a exsecretarios y abogados por beneficiar narcotraficantes: asociación ilícita y cohecho",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-27T14:16:34+00:00"
+    },
     {
       "id": "a1c53b9d",
       "image": "img/a1c53b9d.png",
@@ -531,15 +540,6 @@
       "title": "El martes 27 de octubre iniciará el pago del plus de refuerzo municipal",
       "volanta": "COMPLEMENTO SALARIAL",
       "date": "2026-10-23T18:56:34+00:00"
-    },
-    {
-      "id": "bc508c09",
-      "image": "img/bc508c09.png",
-      "image_sha": "984927f1afe6fcf202569cca828ce3775e4fd0b2",
-      "url": "https://www.radiodos.com.ar/215889-isla-del-cerrito-quedo-parcialmente-aislada-por-el-avance-del-agua-sobre-ruta-63",
-      "title": "Isla del Cerrito quedó parcialmente aislada por el avance del agua sobre ruta 63",
-      "volanta": "EXCLUSIVO COBERTURA RADIO DOS",
-      "date": "2026-10-23T18:55:50+00:00"
     }
   ]
 }
