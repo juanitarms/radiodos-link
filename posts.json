@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T17:42:41+00:00",
+  "updated": "2026-10-28T17:43:25+00:00",
   "posts": [
+    {
+      "id": "0eb04336",
+      "image": "img/0eb04336.png",
+      "image_sha": "b3c34af402c2b614365e0ae31698804f2dc8466d",
+      "url": "https://www.radiodos.com.ar/216145-tragedia-en-espana-se-suspendio-la-fecha-de-copa-del-rey-por-el-choque-de-trenes",
+      "title": "Tragedia en España: se suspendió la fecha de Copa del Rey por el choque de trenes",
+      "volanta": "DUELO NACIONAL",
+      "date": "2026-10-28T17:43:25+00:00"
+    },
     {
       "id": "2f04e961",
       "image": "img/2f04e961.png",
@@ -531,15 +540,6 @@
       "title": "Regatas afronta la primera gira de la temporada",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-10-26T12:49:01+00:00"
-    },
-    {
-      "id": "58fa2315",
-      "image": "img/58fa2315.png",
-      "image_sha": "19b71ad65f998028f90b9051a98757660e8da4c0",
-      "url": "https://www.radiodos.com.ar/215977-la-dpec-realizara-trabajos-de-mejoras-en-capital",
-      "title": "La DPEC realizará trabajos de mejoras en Capital",
-      "volanta": "ESTE LUNES 26",
-      "date": "2026-10-26T12:19:30+00:00"
     }
   ]
 }
