@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T12:03:43+00:00",
+  "updated": "2026-10-28T12:18:37+00:00",
   "posts": [
+    {
+      "id": "4d6fc833",
+      "image": "img/4d6fc833.png",
+      "image_sha": "65000cd2c71795be4e457c6262cb1fba4fb5cf72",
+      "url": "https://www.radiodos.com.ar/216108-chaco-prefectura-asistio-a-pobladores-de-la-isla-soto",
+      "title": "Chaco: Prefectura asistió a pobladores de la Isla Soto",
+      "volanta": "INUNDACIONES",
+      "date": "2026-10-28T12:18:37+00:00"
+    },
     {
       "id": "c62278a7",
       "image": "img/c62278a7.png",
@@ -531,15 +540,6 @@
       "title": "Yamandú Barrios: \"En lo que va del año murieron 17 personas en siniestros viales\"",
       "volanta": "lo bueno, lo malo y lo feo",
       "date": "2026-10-25T17:13:59+00:00"
-    },
-    {
-      "id": "1e36e87a",
-      "image": "img/1e36e87a.png",
-      "image_sha": "3ddf7e5828f8863605ca36db6c4690fec27b9a8c",
-      "url": "https://www.radiodos.com.ar/215956-caso-nanci-godoy-nuestra-hipotesis-primaria-es-el-femicidio-afirmo-briend",
-      "title": "Caso Nanci Godoy: \"Nuestra hipótesis primaria es el femicidio\", afirmó Briend",
-      "volanta": "SIGUE LA BÚSQUEDA",
-      "date": "2026-10-25T17:13:16+00:00"
     }
   ]
 }
