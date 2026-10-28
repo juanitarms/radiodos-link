@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T22:14:24+00:00",
+  "updated": "2026-10-28T22:15:48+00:00",
   "posts": [
+    {
+      "id": "58e1cb65",
+      "image": "img/58e1cb65.png",
+      "image_sha": "b2af3b34fec3040209a21fa45da8e9d63a6969e0",
+      "url": "https://www.radiodos.com.ar/216155-la-uba-otorgo-el-titulo-de-doctor-honoris-causa-al-papa-leon-xiv",
+      "title": "La UBA otorgó el título de Doctor Honoris Causa al Papa León XIV",
+      "volanta": "A 11 días de su visita",
+      "date": "2026-10-28T22:15:48+00:00"
+    },
     {
       "id": "18965dd7",
       "image": "img/18965dd7.png",
@@ -531,15 +540,6 @@
       "title": "Salarios: los ingresos del 87% de los trabajadores no alcanzan para cubrir necesidades básicas",
       "volanta": "ECONOMÍA",
       "date": "2026-10-26T17:57:29+00:00"
-    },
-    {
-      "id": "1f270a48",
-      "image": "img/1f270a48.png",
-      "image_sha": "92a41fc416e43a872e48578ef84b6e0331160e67",
-      "url": "https://www.radiodos.com.ar/216019-oficial-el-papa-leon-xiv-viene-a-la-argentina",
-      "title": "Oficial: el papa León XIV viene a la Argentina",
-      "volanta": "VATICANO",
-      "date": "2026-10-26T17:56:52+00:00"
     }
   ]
 }
