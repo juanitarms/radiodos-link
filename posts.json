@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T22:16:21+00:00",
+  "updated": "2026-10-28T22:18:11+00:00",
   "posts": [
+    {
+      "id": "2db24aad",
+      "image": "img/2db24aad.png",
+      "image_sha": "db349a5c88f573cf1631f31da718a29be6dd97b1",
+      "url": "https://www.radiodos.com.ar/216159-reconocido-fotografo-correntino-fallecio-tras-sufrir-un-siniestro-vial",
+      "title": "Reconocido fotÓgrafo correntino falleció tras sufrir un siniestro vial",
+      "volanta": "LAMENTABLE",
+      "date": "2026-10-28T22:18:11+00:00"
+    },
     {
       "id": "308447de",
       "image": "img/308447de.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno de Corrientes reforzó la asistencia a familias afectadas por la crecida del río Paraná en Capital",
       "volanta": "OPERATIVO",
       "date": "2026-10-26T20:02:41+00:00"
-    },
-    {
-      "id": "aba7c6c1",
-      "image": "img/aba7c6c1.png",
-      "image_sha": "5c3673d7e398856330d0597864e773fb12f77495",
-      "url": "https://www.radiodos.com.ar/216013-juan-pablo-valdes-anuncio-creditos-bancarios-para-quienes-sufrieron-las-consecuencias-de-la-crecida-del-rio",
-      "title": "Juan Pablo Valdés anunció créditos bancarios para quienes sufrieron las consecuencias de la crecida del río",
-      "volanta": "EN CASA DE GOBIERNO",
-      "date": "2026-10-26T18:22:38+00:00"
     }
   ]
 }
