@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T11:10:17+00:00",
+  "updated": "2026-10-28T12:03:43+00:00",
   "posts": [
+    {
+      "id": "c62278a7",
+      "image": "img/c62278a7.png",
+      "image_sha": "45e9b0baf6f6c1a2cb65485e0e5ad71629fc0e15",
+      "url": "https://www.radiodos.com.ar/216109-por-la-crecida-del-rio-parana-suspenden-un-concurso-de-pesca-en-el-interior-de-corrientes",
+      "title": "Por la crecida del río Paraná, suspenden un concurso de pesca en el interior de Corrientes",
+      "volanta": "BELLA VISTA",
+      "date": "2026-10-28T12:03:43+00:00"
+    },
     {
       "id": "545833e0",
       "image": "img/545833e0.png",
@@ -531,15 +540,6 @@
       "title": "Caso Nanci Godoy: \"Nuestra hipótesis primaria es el femicidio\", afirmó Briend",
       "volanta": "SIGUE LA BÚSQUEDA",
       "date": "2026-10-25T17:13:16+00:00"
-    },
-    {
-      "id": "8aeef657",
-      "image": "img/8aeef657.png",
-      "image_sha": "e0bbef1789dbc5e0cfd219b313cf93f435a96e91",
-      "url": "https://www.radiodos.com.ar/215953-corrientes-y-chaco-enfrentan-las-consecuencias-de-el-nino",
-      "title": "Corrientes y Chaco enfrentan las consecuencias de \"El Niño\"",
-      "volanta": "Crecida de los ríos e inundaciones",
-      "date": "2026-10-25T15:24:51+00:00"
     }
   ]
 }
