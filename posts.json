@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T12:58:59+00:00",
+  "updated": "2026-10-28T13:22:34+00:00",
   "posts": [
+    {
+      "id": "e710009c",
+      "image": "img/e710009c.png",
+      "image_sha": "895a46368368390582be7d29eb8e26942c2d167f",
+      "url": "https://www.radiodos.com.ar/216125-el-telescopio-swift-de-la-nasa-esta-sin-control-y-caera-en-la-tierra-cuando-ocurrira",
+      "title": "El telescopio Swift de la NASA está sin control y caerá en la Tierra: cuándo ocurrirá",
+      "volanta": "ALERTA",
+      "date": "2026-10-28T13:22:34+00:00"
+    },
     {
       "id": "24d991e9",
       "image": "img/24d991e9.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: El Canalla rugió con el sello de Di María y se sube a lo más alto de la tabla anual",
       "volanta": "FÚTBOL",
       "date": "2026-10-25T19:35:38+00:00"
-    },
-    {
-      "id": "3543e997",
-      "image": "img/3543e997.png",
-      "image_sha": "4185cf516c5fe9cfdd1b3843d2412914e9c69bc8",
-      "url": "https://www.radiodos.com.ar/215952-concluyo-el-ii-encuentro-anual-de-jueces-penales-con-participacion-de-la-correntina-josefina-gonzalez-cabanas",
-      "title": "Concluyó el II Encuentro Anual de Jueces Penales con participación de la correntina Josefina González Cabañas",
-      "volanta": "Catamarca",
-      "date": "2026-10-25T19:35:02+00:00"
     }
   ]
 }
