@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T12:18:37+00:00",
+  "updated": "2026-10-28T12:45:26+00:00",
   "posts": [
+    {
+      "id": "16eb6c15",
+      "image": "img/16eb6c15.png",
+      "image_sha": "3930795ef02ea73b646f8c2e52604b5c71eb48e7",
+      "url": "https://www.radiodos.com.ar/216105-corrientes-preso-por-llevarse-el-pizarron-de-publicidad-de-un-comercio",
+      "title": "Corrientes: preso por llevarse el pizarrón de publicidad de un comercio",
+      "volanta": "YA SE ROBAN CUALQUIER COSA",
+      "date": "2026-10-28T12:45:26+00:00"
+    },
     {
       "id": "4d6fc833",
       "image": "img/4d6fc833.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV pidió por las víctimas del atentado en Jordania y reclamó decisiones de paz",
       "volanta": "VATICANO",
       "date": "2026-10-25T17:14:41+00:00"
-    },
-    {
-      "id": "95610c32",
-      "image": "img/95610c32.png",
-      "image_sha": "42432e3a4bd101f5835d41af781a9a21060065f5",
-      "url": "https://www.radiodos.com.ar/215955-yamandu-barrios-en-lo-que-va-del-ano-murieron-17-personas-en-siniestros-viales",
-      "title": "Yamandú Barrios: \"En lo que va del año murieron 17 personas en siniestros viales\"",
-      "volanta": "lo bueno, lo malo y lo feo",
-      "date": "2026-10-25T17:13:59+00:00"
     }
   ]
 }
