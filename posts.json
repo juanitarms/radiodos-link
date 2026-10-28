@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T19:11:53+00:00",
+  "updated": "2026-10-28T20:35:03+00:00",
   "posts": [
+    {
+      "id": "1dbe4272",
+      "image": "img/1dbe4272.png",
+      "image_sha": "b31e1a0fc5f95539d8acc8a82710c847d3c0ad97",
+      "url": "https://www.radiodos.com.ar/216150-hallaron-el-cuerpo-de-nanci-godoy-estaba-semisumergido-en-un-banado-a-25-km-de-la-escuela",
+      "title": "Hallaron el cuerpo de Nanci Godoy: estaba semisumergido en un bañado a 2.5 km de la escuela",
+      "volanta": "EL PEOR FINAL",
+      "date": "2026-10-28T20:35:03+00:00"
+    },
     {
       "id": "e293da62",
       "image": "img/e293da62.png",
@@ -531,15 +540,6 @@
       "title": "El contundente gesto de la mamá de Tini Stoessel que levantó sospechas: ¿reconciliadas?",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-10-26T15:00:41+00:00"
-    },
-    {
-      "id": "714fe731",
-      "image": "img/714fe731.png",
-      "image_sha": "9e451f7517b3bc5915b37f6d7bc4c760831a9b55",
-      "url": "https://www.radiodos.com.ar/216001-denunciaron-a-la-familia-del-abusador-de-una-nina-que-esta-profugo-condenado-a-13-anos-de-prision",
-      "title": "Denunciaron a la familia del abusador de una niña que está prófugo: condenado a 13 años de prisión",
-      "volanta": "EMPEDRADO",
-      "date": "2026-10-26T14:19:20+00:00"
     }
   ]
 }
