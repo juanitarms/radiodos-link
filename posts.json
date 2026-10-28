@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T15:07:03+00:00",
+  "updated": "2026-10-28T16:14:41+00:00",
   "posts": [
+    {
+      "id": "405d2aa8",
+      "image": "img/405d2aa8.png",
+      "image_sha": "fbbb833f99c471b719d1e11911085ef2908ff115",
+      "url": "https://www.radiodos.com.ar/216144-encontraron-el-cuerpo-sin-vida-de-nanci-godoy",
+      "title": "Encontraron el cuerpo sin vida de Nanci Godoy",
+      "volanta": "LOCAL",
+      "date": "2026-10-28T16:14:41+00:00"
+    },
     {
       "id": "048decde",
       "image": "img/048decde.png",
@@ -531,15 +540,6 @@
       "title": "Inundaciones: se complica la situación en Paso de la Patria y refuerzan la asistencia a los afectados",
       "volanta": "CRECIENTE DEL PARANÁ",
       "date": "2026-10-26T11:49:06+00:00"
-    },
-    {
-      "id": "74ff46f3",
-      "image": "img/74ff46f3.png",
-      "image_sha": "fdc9c631bf1bb1e4ddb517af06f84db924221e19",
-      "url": "https://www.radiodos.com.ar/215974-caso-nanci-godoy-hallaron-prendas-quemadas-en-la-tapera-del-capataz-y-se-complica-su-situacion-y-la-de-los-peones",
-      "title": "Caso Nanci Godoy: hallaron prendas quemadas en la tapera del capataz y se complica su situación y la de los peones",
-      "volanta": "MAS CERCA DEL ESCLARECIMIENTO",
-      "date": "2026-10-26T11:38:00+00:00"
     }
   ]
 }
