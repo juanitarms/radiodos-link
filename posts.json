@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T14:52:11+00:00",
+  "updated": "2026-10-28T15:07:03+00:00",
   "posts": [
+    {
+      "id": "048decde",
+      "image": "img/048decde.png",
+      "image_sha": "b997f59c887109d2a1e527f6bcc6dc6d15cd0c5c",
+      "url": "https://www.radiodos.com.ar/216140-jp-valdes-confirmo-que-corrientes-espera-aporte-economico-de-nacion-para-asistir-a-afectados-por-las-inundaciones",
+      "title": "JP Valdés confirmó que Corrientes espera aporte económico de Nación para asistir a afectados por las inundaciones",
+      "volanta": "ESPERANDO RESPUESTAS",
+      "date": "2026-10-28T15:07:03+00:00"
+    },
     {
       "id": "fda4aa38",
       "image": "img/fda4aa38.png",
@@ -531,15 +540,6 @@
       "title": "Caso Nanci Godoy: hallaron prendas quemadas en la tapera del capataz y se complica su situación y la de los peones",
       "volanta": "MAS CERCA DEL ESCLARECIMIENTO",
       "date": "2026-10-26T11:38:00+00:00"
-    },
-    {
-      "id": "930d3f60",
-      "image": "img/930d3f60.png",
-      "image_sha": "92ced7c5896b98d5271935ddf088ed7a9aa5f454",
-      "url": "https://www.radiodos.com.ar/215971-atraparon-a-pandillas-que-atacaban-y-danaban-casas-a-gomerazos",
-      "title": "Atraparon a pandillas que atacaban y dañaban casas a gomerazos",
-      "volanta": "Barrios La Chola y San Antonio Oeste",
-      "date": "2026-10-26T11:16:51+00:00"
     }
   ]
 }
