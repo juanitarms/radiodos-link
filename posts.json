@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T12:45:26+00:00",
+  "updated": "2026-10-28T12:58:59+00:00",
   "posts": [
+    {
+      "id": "24d991e9",
+      "image": "img/24d991e9.png",
+      "image_sha": "ae3eeaef3e5aa64991a74b0f6ce18bc528e5b350",
+      "url": "https://www.radiodos.com.ar/216116-murio-la-madre-de-lionel-scaloni",
+      "title": "Murió la madre de Lionel Scaloni",
+      "volanta": "DUELO",
+      "date": "2026-10-28T12:58:59+00:00"
+    },
     {
       "id": "16eb6c15",
       "image": "img/16eb6c15.png",
@@ -531,15 +540,6 @@
       "title": "Concluyó el II Encuentro Anual de Jueces Penales con participación de la correntina Josefina González Cabañas",
       "volanta": "Catamarca",
       "date": "2026-10-25T19:35:02+00:00"
-    },
-    {
-      "id": "7cd9fd5b",
-      "image": "img/7cd9fd5b.png",
-      "image_sha": "aa7b15f9e9ba11c4c9f22e0c5cc8a752abfe157f",
-      "url": "https://www.radiodos.com.ar/215954-el-papa-leon-xiv-pidio-por-las-victimas-del-atentado-en-jordania-y-reclamo-decisiones-de-paz",
-      "title": "El papa León XIV pidió por las víctimas del atentado en Jordania y reclamó decisiones de paz",
-      "volanta": "VATICANO",
-      "date": "2026-10-25T17:14:41+00:00"
     }
   ]
 }
