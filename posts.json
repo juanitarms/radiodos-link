@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T17:43:25+00:00",
+  "updated": "2026-10-28T17:44:01+00:00",
   "posts": [
+    {
+      "id": "16a3e00a",
+      "image": "img/16a3e00a.png",
+      "image_sha": "749e0631145965df36d99403eb151e7d4a3dcbc7",
+      "url": "https://www.radiodos.com.ar/216147-recuperan-elementos-robados-demoran-a-tres-hombres-y-secuestran-plantas-de-marihuana",
+      "title": "Recuperan elementos robados, demoran a tres hombres y secuestran plantas de marihuana",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-10-28T17:44:01+00:00"
+    },
     {
       "id": "0eb04336",
       "image": "img/0eb04336.png",
@@ -531,15 +540,6 @@
       "title": "Productos frescos, artesanías y gastronomía: nueva semana de ferias en Corrientes",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-10-26T13:08:50+00:00"
-    },
-    {
-      "id": "ef20d3cc",
-      "image": "img/ef20d3cc.png",
-      "image_sha": "d955c731bfc00f4a4f5a780ce5127175d6a1af1c",
-      "url": "https://www.radiodos.com.ar/215978-regatas-afronta-la-primera-gira-de-la-temporada",
-      "title": "Regatas afronta la primera gira de la temporada",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-10-26T12:49:01+00:00"
     }
   ]
 }
