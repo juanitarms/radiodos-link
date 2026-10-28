@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T10:58:18+00:00",
+  "updated": "2026-10-28T11:10:17+00:00",
   "posts": [
+    {
+      "id": "545833e0",
+      "image": "img/545833e0.png",
+      "image_sha": "35efeeb8abcb568cb185fb623f2e46eb923a54ab",
+      "url": "https://www.radiodos.com.ar/216103-ladrilleros-encontraron-el-cuerpo-de-un-hombre-flotando-en-zona-inundada",
+      "title": "Ladrilleros encontraron el cuerpo de un hombre flotando en zona inundada",
+      "volanta": "BARRIO SANTA MARTA",
+      "date": "2026-10-28T11:10:17+00:00"
+    },
     {
       "id": "7ee610e0",
       "image": "img/7ee610e0.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes y Chaco enfrentan las consecuencias de \"El Niño\"",
       "volanta": "Crecida de los ríos e inundaciones",
       "date": "2026-10-25T15:24:51+00:00"
-    },
-    {
-      "id": "daee4000",
-      "image": "img/daee4000.png",
-      "image_sha": "c36f724560a2973beea25dda9224a19c655b2383",
-      "url": "https://www.radiodos.com.ar/215950-hombre-fue-herido-a-punaladas-en-una-pelea-frente-a-un-kiosco",
-      "title": "Hombre fue herido a puñaladas en una pelea frente a un kiosco",
-      "volanta": "Corrientes",
-      "date": "2026-10-25T15:01:16+00:00"
     }
   ]
 }
