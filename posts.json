@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T13:52:35+00:00",
+  "updated": "2026-10-28T14:35:02+00:00",
   "posts": [
+    {
+      "id": "cb36717d",
+      "image": "img/cb36717d.png",
+      "image_sha": "5e101b2e69cf0487938c059097052390b613cacf",
+      "url": "https://www.radiodos.com.ar/216135-ricardo-darin-revelo-un-secreto-del-chino-darin-tras-convertirse-en-abuelo",
+      "title": "Ricardo Darín reveló un secreto del Chino Darín tras convertirse en abuelo",
+      "volanta": "¿QUÉ SERÁ?",
+      "date": "2026-10-28T14:35:02+00:00"
+    },
     {
       "id": "541a2a4d",
       "image": "img/541a2a4d.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el pago de salarios a la administración pública provincial",
       "volanta": "HASTA EL VIERNES 30",
       "date": "2026-10-26T10:51:18+00:00"
-    },
-    {
-      "id": "589db3cc",
-      "image": "img/589db3cc.png",
-      "image_sha": "1b95721917261a20eaf973970371ff26269a40bf",
-      "url": "https://www.radiodos.com.ar/215957-tfa-san-martin-de-formosa-gano-y-aascendio-a-la-b-nacional",
-      "title": "TFA: San Martín de Formosa ganó y aascendió a la B Nacional",
-      "volanta": "Fue 2 a 0",
-      "date": "2026-10-25T20:46:29+00:00"
     }
   ]
 }
