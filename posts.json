@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T13:22:34+00:00",
+  "updated": "2026-10-28T13:52:35+00:00",
   "posts": [
+    {
+      "id": "541a2a4d",
+      "image": "img/541a2a4d.png",
+      "image_sha": "f10fdf40c0170378660342ea8a9f2545a4fbda0c",
+      "url": "https://www.radiodos.com.ar/216133-se-filtraron-los-chats-de-emanuel-ortega-y-josefina-lynch-que-decian-los-mensajes-que-desataron-la-separacion",
+      "title": "Se filtraron los chats de Emanuel Ortega y Josefina Lynch: qué decían los mensajes que desataron la separación",
+      "volanta": "ESCÁNDALO",
+      "date": "2026-10-28T13:52:35+00:00"
+    },
     {
       "id": "e710009c",
       "image": "img/e710009c.png",
@@ -531,15 +540,6 @@
       "title": "TFA: San Martín de Formosa ganó y aascendió a la B Nacional",
       "volanta": "Fue 2 a 0",
       "date": "2026-10-25T20:46:29+00:00"
-    },
-    {
-      "id": "88829704",
-      "image": "img/88829704.png",
-      "image_sha": "93dbd87d75b26bb38e133be7c08a2b02f460465c",
-      "url": "https://www.radiodos.com.ar/215948-torneo-clausura-el-canalla-rugio-con-el-sello-de-di-maria-y-se-sube-a-lo-mas-alto-de-la-tabla-anual",
-      "title": "Torneo Clausura: El Canalla rugió con el sello de Di María y se sube a lo más alto de la tabla anual",
-      "volanta": "FÚTBOL",
-      "date": "2026-10-25T19:35:38+00:00"
     }
   ]
 }
