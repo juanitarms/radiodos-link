@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T21:45:51+00:00",
+  "updated": "2026-10-28T22:13:48+00:00",
   "posts": [
+    {
+      "id": "01f64a65",
+      "image": "img/01f64a65.png",
+      "image_sha": "c0ea1e0fe39826235f3415aff62396629b4f381f",
+      "url": "https://www.radiodos.com.ar/216153-flavio-bolsonaro-destaco-la-ayuda-de-javier-milei-para-salir-de-brasil-gracias-por-su-valentia-y-sentido-de-justicia",
+      "title": "Flávio Bolsonaro destacó la ayuda de Javier Milei para salir de Brasil: \"Gracias por su valentía y sentido de justicia\"",
+      "volanta": "escándalo internacional",
+      "date": "2026-10-28T22:13:48+00:00"
+    },
     {
       "id": "8a4951d5",
       "image": "img/8a4951d5.png",
@@ -531,15 +540,6 @@
       "title": "La Ciudad reunió a unos 150 atletas argentinos y de países vecinos en la Ultramaratón 2026",
       "volanta": "DEPORTE Y TURISMO",
       "date": "2026-10-26T17:56:16+00:00"
-    },
-    {
-      "id": "997c6c5e",
-      "image": "img/997c6c5e.png",
-      "image_sha": "39a173c0cafdb3000e34b82e33ac51656641f3fe",
-      "url": "https://www.radiodos.com.ar/216006-luciano-pereyra-confirmo-que-le-cantara-al-papa-leon-xiv-26-anos-despues-de-hacerlo-ante-juan-pablo-ii",
-      "title": "Luciano Pereyra confirmó que le cantará al papa León XIV, 26 años después de hacerlo ante Juan Pablo II",
-      "volanta": "GRAN CIERRE",
-      "date": "2026-10-26T15:11:08+00:00"
     }
   ]
 }
