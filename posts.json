@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T14:35:02+00:00",
+  "updated": "2026-10-28T14:52:11+00:00",
   "posts": [
+    {
+      "id": "fda4aa38",
+      "image": "img/fda4aa38.png",
+      "image_sha": "729e052aa92a8199cc3ebb291414a85e1ec6c4e3",
+      "url": "https://www.radiodos.com.ar/216137-flavio-bolsonaro-aterrizo-en-miami-tras-escapar-de-la-justicia-brasilena-por-argentina",
+      "title": "Flávio Bolsonaro aterrizó en Miami tras escapar de la Justicia brasileña por Argentina",
+      "volanta": "TRAS LAS ELECCIONES",
+      "date": "2026-10-28T14:52:11+00:00"
+    },
     {
       "id": "cb36717d",
       "image": "img/cb36717d.png",
@@ -531,15 +540,6 @@
       "title": "Atraparon a pandillas que atacaban y dañaban casas a gomerazos",
       "volanta": "Barrios La Chola y San Antonio Oeste",
       "date": "2026-10-26T11:16:51+00:00"
-    },
-    {
-      "id": "60b857e2",
-      "image": "img/60b857e2.png",
-      "image_sha": "977e34d887445619c511a8ac6a3f60fb8bf9df6c",
-      "url": "https://www.radiodos.com.ar/215972-comenzo-el-pago-de-salarios-a-la-administracion-publica-provincial",
-      "title": "Comenzó el pago de salarios a la administración pública provincial",
-      "volanta": "HASTA EL VIERNES 30",
-      "date": "2026-10-26T10:51:18+00:00"
     }
   ]
 }
