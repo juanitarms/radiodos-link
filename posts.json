@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T17:44:01+00:00",
+  "updated": "2026-10-28T19:11:53+00:00",
   "posts": [
+    {
+      "id": "e293da62",
+      "image": "img/e293da62.png",
+      "image_sha": "17bb16d047d4b9c6645003f98f5529d5d86fd1a6",
+      "url": "https://www.radiodos.com.ar/216143-choque-de-trenes-en-espana-el-gobierno-habilito-una-linea-de-asistencia-por-posibles-pasajeros-argentinos",
+      "title": "Choque de trenes en España: el Gobierno habilitó una línea de asistencia por posibles pasajeros argentinos",
+      "volanta": "TRAGEDIA",
+      "date": "2026-10-28T19:11:53+00:00"
+    },
     {
       "id": "16a3e00a",
       "image": "img/16a3e00a.png",
@@ -531,15 +540,6 @@
       "title": "Denunciaron a la familia del abusador de una niña que está prófugo: condenado a 13 años de prisión",
       "volanta": "EMPEDRADO",
       "date": "2026-10-26T14:19:20+00:00"
-    },
-    {
-      "id": "58bc5210",
-      "image": "img/58bc5210.png",
-      "image_sha": "45dfbb6ca9da8b00bc637e0e7ab3f3dc98870382",
-      "url": "https://www.radiodos.com.ar/215986-productos-frescos-artesanias-y-gastronomia-nueva-semana-de-ferias-en-corrientes",
-      "title": "Productos frescos, artesanías y gastronomía: nueva semana de ferias en Corrientes",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-10-26T13:08:50+00:00"
     }
   ]
 }
