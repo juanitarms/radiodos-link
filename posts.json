@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T22:18:11+00:00",
+  "updated": "2026-10-28T22:31:02+00:00",
   "posts": [
+    {
+      "id": "fc082a6a",
+      "image": "img/fc082a6a.png",
+      "image_sha": "57f25ce1423d02fc7e9b488481365a6e9802d35d",
+      "url": "https://www.radiodos.com.ar/216158-torneo-clausura-cambios-en-el-fixture-por-la-visita-papal",
+      "title": "Torneo Clausura: Cambios en el fixture  por la Visita Papal",
+      "volanta": "Entre el 4 y 6 de noviembre",
+      "date": "2026-10-28T22:31:02+00:00"
+    },
     {
       "id": "2db24aad",
       "image": "img/2db24aad.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-10-26T20:36:43+00:00"
-    },
-    {
-      "id": "6f8e7d46",
-      "image": "img/6f8e7d46.png",
-      "image_sha": "168a8ddcf5b057f1d906dba54e08b436cb2f711a",
-      "url": "https://www.radiodos.com.ar/216021-el-gobierno-de-corrientes-reforzo-la-asistencia-a-familias-afectadas-por-la-crecida-del-rio-parana-en-capital",
-      "title": "El Gobierno de Corrientes reforzó la asistencia a familias afectadas por la crecida del río Paraná en Capital",
-      "volanta": "OPERATIVO",
-      "date": "2026-10-26T20:02:41+00:00"
     }
   ]
 }
