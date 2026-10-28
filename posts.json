@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T20:35:03+00:00",
+  "updated": "2026-10-28T21:45:51+00:00",
   "posts": [
+    {
+      "id": "8a4951d5",
+      "image": "img/8a4951d5.png",
+      "image_sha": "9668c916f9aab23dc53e8ef3e0f34545faf6fa01",
+      "url": "https://www.radiodos.com.ar/216151-donde-quien-y-como-encontraron-el-cuerpo-de-nancy",
+      "title": "Dónde, quién y cómo encontraron el cuerpo de Nancy",
+      "volanta": "EL PEOR FINAL",
+      "date": "2026-10-28T21:45:51+00:00"
+    },
     {
       "id": "1dbe4272",
       "image": "img/1dbe4272.png",
@@ -531,15 +540,6 @@
       "title": "Luciano Pereyra confirmó que le cantará al papa León XIV, 26 años después de hacerlo ante Juan Pablo II",
       "volanta": "GRAN CIERRE",
       "date": "2026-10-26T15:11:08+00:00"
-    },
-    {
-      "id": "2b87e903",
-      "image": "img/2b87e903.png",
-      "image_sha": "1ce3890480d600e91d1c397ca35f04eff0357cad",
-      "url": "https://www.radiodos.com.ar/216004-el-contundente-gesto-de-la-mama-de-tini-stoessel-que-levanto-sospechas-reconciliadas",
-      "title": "El contundente gesto de la mamá de Tini Stoessel que levantó sospechas: ¿reconciliadas?",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-10-26T15:00:41+00:00"
     }
   ]
 }
