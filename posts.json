@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T16:51:10+00:00",
+  "updated": "2026-10-29T16:51:45+00:00",
   "posts": [
+    {
+      "id": "c9b4414b",
+      "image": "img/c9b4414b.png",
+      "image_sha": "5ec27493da4432e1fa29568d1a82a1199d795109",
+      "url": "https://www.radiodos.com.ar/216214-alerta-por-una-falsa-leche-para-bebe-que-se-vendia-en-supermercados-y-contiene-una-toxina-peligrosa",
+      "title": "Alerta por una falsa leche para bebé que se vendía en supermercados y contiene una toxina peligrosa",
+      "volanta": "BUENOS AIRES",
+      "date": "2026-10-29T16:51:45+00:00"
+    },
     {
       "id": "fc9411e5",
       "image": "img/fc9411e5.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno provincial reforzó la asistencia a familias afectadas por la crecida del río en Capital",
       "volanta": "CORRIENTES CERCA",
       "date": "2026-10-27T12:09:55+00:00"
-    },
-    {
-      "id": "ae281b6e",
-      "image": "img/ae281b6e.png",
-      "image_sha": "341b9099a5ec229058f75352b0be8e2c47b27b04",
-      "url": "https://www.radiodos.com.ar/216041-denuncian-que-peones-habrian-matado-a-un-puma-en-una-estancia-de-corrientes",
-      "title": "Denuncian que peones habrían matado a un puma en una estancia de Corrientes",
-      "volanta": "EMPEDRADO",
-      "date": "2026-10-27T11:51:00+00:00"
     }
   ]
 }
