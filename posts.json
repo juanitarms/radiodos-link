@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T19:00:44+00:00",
+  "updated": "2026-10-29T19:01:28+00:00",
   "posts": [
+    {
+      "id": "cf71ed96",
+      "image": "img/cf71ed96.png",
+      "image_sha": "6ad94949ce392e2909d9e0790b045d01e15ffe5f",
+      "url": "https://www.radiodos.com.ar/216222-la-liga-profesional-aprobo-el-nuevo-formato-para-2027-river-fue-el-unico-en-oponerse",
+      "title": "La Liga Profesional aprobó el nuevo formato para 2027: River fue el único en oponerse",
+      "volanta": "FÚTBOL",
+      "date": "2026-10-29T19:01:28+00:00"
+    },
     {
       "id": "741e45a3",
       "image": "img/741e45a3.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron a exsecretarios y abogados por beneficiar narcotraficantes: asociación ilícita y cohecho",
       "volanta": "CORRIENTES",
       "date": "2026-10-27T14:16:34+00:00"
-    },
-    {
-      "id": "a1c53b9d",
-      "image": "img/a1c53b9d.png",
-      "image_sha": "b261885bc444794742d2d24f9d985a8cdd48e860",
-      "url": "https://www.radiodos.com.ar/216051-advierten-por-aumento-de-alacranes-por-el-nino-cuales-son-venenosos-y-como-prevenirlos",
-      "title": "Advierten por aumento de alacranes por El Niño: cuáles son venenosos y cómo prevenirlos",
-      "volanta": "CUIDADO",
-      "date": "2026-10-27T13:47:21+00:00"
     }
   ]
 }
