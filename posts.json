@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T19:01:28+00:00",
+  "updated": "2026-10-29T20:22:46+00:00",
   "posts": [
+    {
+      "id": "c8ab2eb8",
+      "image": "img/c8ab2eb8.png",
+      "image_sha": "1ad1cebb0b10deea7692652164b5f8acf0e9a735",
+      "url": "https://www.radiodos.com.ar/216227-la-fiscalia-desestimo-la-denuncia-por-el-ingreso-de-flavio-bolsonaro-al-pais",
+      "title": "La fiscalía desestimó la denuncia por el ingreso de Flávio Bolsonaro al país",
+      "volanta": "Polémica internacional",
+      "date": "2026-10-29T20:22:46+00:00"
+    },
     {
       "id": "cf71ed96",
       "image": "img/cf71ed96.png",
@@ -531,15 +540,6 @@
       "title": "Habrá misas y operativos municipales en cementerios por el Día de los Fieles Difuntos",
       "volanta": "CONMEMORACIÓN EN LA CIUDAD",
       "date": "2026-10-27T14:32:41+00:00"
-    },
-    {
-      "id": "cc26a634",
-      "image": "img/cc26a634.png",
-      "image_sha": "fd98723a67d808e82e72cb69dbc96ab87ec389f2",
-      "url": "https://www.radiodos.com.ar/216049-condenaron-a-exsecretarios-y-abogados-por-beneficiar-narcotraficantes-asociacion-ilicita-y-cohecho",
-      "title": "Condenaron a exsecretarios y abogados por beneficiar narcotraficantes: asociación ilícita y cohecho",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-27T14:16:34+00:00"
     }
   ]
 }
