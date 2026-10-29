@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T20:46:27+00:00",
+  "updated": "2026-10-29T20:47:05+00:00",
   "posts": [
+    {
+      "id": "731c5646",
+      "image": "img/731c5646.png",
+      "image_sha": "1c9461786c7acc6dd30380e1b5a8680372dc8825",
+      "url": "https://www.radiodos.com.ar/216228-jp-valdes-participo-de-la-cumbre-empresarial-del-rigi-en-rosario",
+      "title": "JP Valdés participó de la cumbre empresarial del RIGI en Rosario",
+      "volanta": "CON KARINA MILEI",
+      "date": "2026-10-29T20:47:05+00:00"
+    },
     {
       "id": "aa613122",
       "image": "img/aa613122.png",
@@ -531,15 +540,6 @@
       "title": "Llega el Cyber Monday 2026: cuándo y dónde estarán disponibles las mejores ofertas",
       "volanta": "OPORTUNIDAD",
       "date": "2026-10-27T16:23:31+00:00"
-    },
-    {
-      "id": "dc3e786f",
-      "image": "img/dc3e786f.png",
-      "image_sha": "a2d914cf43901ace2527b9aff08a2dc359d8fa23",
-      "url": "https://www.radiodos.com.ar/216071-brasil-la-policia-federal-investiga-si-flavio-bolsonaro-huyo-hacia-los-estados-unidos-via-la-argentina",
-      "title": "Brasil: la Policía Federal investiga si Flávio Bolsonaro huyó hacia los Estados Unidos vía la Argentina",
-      "volanta": "LUEGO DE LAS ELECCIONES",
-      "date": "2026-10-27T15:15:13+00:00"
     }
   ]
 }
