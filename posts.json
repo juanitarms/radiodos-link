@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T16:50:34+00:00",
+  "updated": "2026-10-29T16:51:10+00:00",
   "posts": [
+    {
+      "id": "fc9411e5",
+      "image": "img/fc9411e5.png",
+      "image_sha": "916bf2701185c67cf3018503d058eb9e71b0dcb2",
+      "url": "https://www.radiodos.com.ar/216218-el-presupuesto-2027-comenzo-su-tratamiento-en-el-senado-provincial",
+      "title": "El Presupuesto 2027 comenzó su tratamiento en el Senado provincial",
+      "volanta": "14° SESIÓN ORDINARIA",
+      "date": "2026-10-29T16:51:10+00:00"
+    },
     {
       "id": "740866b9",
       "image": "img/740866b9.png",
@@ -531,15 +540,6 @@
       "title": "Denuncian que peones habrían matado a un puma en una estancia de Corrientes",
       "volanta": "EMPEDRADO",
       "date": "2026-10-27T11:51:00+00:00"
-    },
-    {
-      "id": "ee81f62b",
-      "image": "img/ee81f62b.png",
-      "image_sha": "7ae6631f879bd54ec0ceea6ccbf833732c44c5cb",
-      "url": "https://www.radiodos.com.ar/216042-detuvieron-a-un-sujeto-involucrado-en-un-homicidio-ocurrido-hace-dos-anos-en-corrientes",
-      "title": "Detuvieron a un sujeto involucrado en un homicidio ocurrido hace dos años en Corrientes",
-      "volanta": "SEGURIDAD",
-      "date": "2026-10-27T11:33:44+00:00"
     }
   ]
 }
