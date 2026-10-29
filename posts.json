@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T18:10:48+00:00",
+  "updated": "2026-10-29T19:00:44+00:00",
   "posts": [
+    {
+      "id": "741e45a3",
+      "image": "img/741e45a3.png",
+      "image_sha": "960f2637201b6cbb6c0101fb3d53a500e92d0831",
+      "url": "https://www.radiodos.com.ar/216224-la-muni-en-tu-barrio-iniciara-su-recorrido-de-noviembre-en-el-universitario",
+      "title": "La Muni en tu barrio iniciará su recorrido de noviembre en el Universitario",
+      "volanta": "RECORRIDA EN LA CIUDAD",
+      "date": "2026-10-29T19:00:44+00:00"
+    },
     {
       "id": "acc76a14",
       "image": "img/acc76a14.png",
@@ -531,15 +540,6 @@
       "title": "Advierten por aumento de alacranes por El Niño: cuáles son venenosos y cómo prevenirlos",
       "volanta": "CUIDADO",
       "date": "2026-10-27T13:47:21+00:00"
-    },
-    {
-      "id": "2e1c11af",
-      "image": "img/2e1c11af.png",
-      "image_sha": "85c79f30a2dcfceab0c50edc19d9d19c221c014f",
-      "url": "https://www.radiodos.com.ar/216056-cecoal-unne-conicet-publican-nuevos-conocimientos-sobre-el-lobito-de-rio-en-la-cuenca-del-riachuelo",
-      "title": "CECOAL, UNNE-CONICET: publican nuevos conocimientos sobre el lobito de río en la Cuenca del Riachuelo",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-10-27T13:21:41+00:00"
     }
   ]
 }
