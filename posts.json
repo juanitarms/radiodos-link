@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T18:10:02+00:00",
+  "updated": "2026-10-29T18:10:48+00:00",
   "posts": [
+    {
+      "id": "acc76a14",
+      "image": "img/acc76a14.png",
+      "image_sha": "99fbe1b2cbcff0610b5661640896295d159f4b1f",
+      "url": "https://www.radiodos.com.ar/216220-identifican-que-las-distintas-especies-de-termitas-de-la-region-tienen-dietas-propias",
+      "title": "Identifican que las distintas especies de termitas de la región tienen dietas propias",
+      "volanta": "PUBLICACIÓN EN REVISTA INTERNACIONAL",
+      "date": "2026-10-29T18:10:48+00:00"
+    },
     {
       "id": "932dba79",
       "image": "img/932dba79.png",
@@ -531,15 +540,6 @@
       "title": "CECOAL, UNNE-CONICET: publican nuevos conocimientos sobre el lobito de río en la Cuenca del Riachuelo",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-10-27T13:21:41+00:00"
-    },
-    {
-      "id": "c66e784a",
-      "image": "img/c66e784a.png",
-      "image_sha": "bd362cf76cce6e44fe8c46bb7f52bc78800e4d21",
-      "url": "https://www.radiodos.com.ar/216054-el-partido-de-flavio-bolsonaro-reconocio-la-victoria-de-lula-da-silva-pero-evito-felicitarlo",
-      "title": "El partido de Flávio Bolsonaro reconoció la victoria de Lula da Silva pero evitó felicitarlo",
-      "volanta": "BRASIL",
-      "date": "2026-10-27T12:54:02+00:00"
     }
   ]
 }
