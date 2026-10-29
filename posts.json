@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T14:43:19+00:00",
+  "updated": "2026-10-29T15:02:20+00:00",
   "posts": [
+    {
+      "id": "a1cceee5",
+      "image": "img/a1cceee5.png",
+      "image_sha": "20aa4399f837738620b5f3f4540a0f791f881b0a",
+      "url": "https://www.radiodos.com.ar/216209-damian-betular-deja-masterchef-celebrity-los-motivos-de-su-salida-y-quienes-suenan-para-reemplazarlo",
+      "title": "Damián Betular deja MasterChef Celebrity: los motivos de su salida y quiénes suenan para reemplazarlo",
+      "volanta": "Mala noticia",
+      "date": "2026-10-29T15:02:20+00:00"
+    },
     {
       "id": "7fc52591",
       "image": "img/7fc52591.png",
@@ -531,15 +540,6 @@
       "title": "LNB: Con un Bombino intratable, El Granate se hizo gigante y barrió a Regatas",
       "volanta": "BÁSQUET",
       "date": "2026-10-27T11:15:58+00:00"
-    },
-    {
-      "id": "426f52d7",
-      "image": "img/426f52d7.png",
-      "image_sha": "dccd95447f7f520c59770ac388b12abeb15582ed",
-      "url": "https://www.radiodos.com.ar/216037-torneo-clausura-instituto-gano-en-alta-cordoba-y-sello-su-clasificacion-a-las-copas-internacionales",
-      "title": "Torneo Clausura: Instituto ganó en Alta Córdoba y selló su clasificación a las copas internacionales.",
-      "volanta": "Fue 1 a 0",
-      "date": "2026-10-27T10:49:28+00:00"
     }
   ]
 }
