@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T22:39:01+00:00",
+  "updated": "2026-10-29T22:39:38+00:00",
   "posts": [
+    {
+      "id": "ed44ead3",
+      "image": "img/ed44ead3.png",
+      "image_sha": "08eb526e3f86d90742361788a1affdc8e2183fdd",
+      "url": "https://www.radiodos.com.ar/216241-analizan-bloquear-ruta-comercial-chilena-a-malvinas-y-en-chile-hablan-de-conflicto-innecesario",
+      "title": "Analizan bloquear ruta comercial chilena a Malvinas y en Chile hablan de \"conflicto innecesario\"",
+      "volanta": "Diolomacia en crisis",
+      "date": "2026-10-29T22:39:38+00:00"
+    },
     {
       "id": "b793a313",
       "image": "img/b793a313.png",
@@ -531,15 +540,6 @@
       "title": "Aseguran que Flávio Bolsonaro abandonó Brasil y ya estaría en Estados Unidos",
       "volanta": "pese a la prohibición",
       "date": "2026-10-27T21:22:38+00:00"
-    },
-    {
-      "id": "8c850020",
-      "image": "img/8c850020.png",
-      "image_sha": "578c10c2a73295780a28bd57c1f2b946b8e60ba4",
-      "url": "https://www.radiodos.com.ar/216089-este-viernes-30-iniciara-el-pago-de-sueldos-a-trabajadores-municipales-de-la-ciudad-de-corrientes",
-      "title": "Este viernes 30 iniciará el pago de sueldos a trabajadores municipales de la ciudad de Corrientes",
-      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
-      "date": "2026-10-27T21:22:01+00:00"
     }
   ]
 }
