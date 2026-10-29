@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-28T22:31:02+00:00",
+  "updated": "2026-10-29T10:19:09+00:00",
   "posts": [
+    {
+      "id": "bae4e43e",
+      "image": "img/bae4e43e.png",
+      "image_sha": "1f3b7f9d6e8050f96f33ed60eab8666021a19c94",
+      "url": "https://www.radiodos.com.ar/216166-copa-argentina-platense-vencio-por-penales-en-salta-y-es-el-primer-finalista",
+      "title": "Copa Argentina: Platense venció por penales en Salta y es el primer finalista",
+      "volanta": "¡Histórico!",
+      "date": "2026-10-29T10:19:09+00:00"
+    },
     {
       "id": "fc082a6a",
       "image": "img/fc082a6a.png",
@@ -531,15 +540,6 @@
       "title": "Se presentó en Corrientes Primeros Latidos, un programa de acompañamiento y seguimiento integral para embarazadas y recién nacidos",
       "volanta": "CON LA PRESENCIA DEL GOBERNADOR VALDÉS",
       "date": "2026-10-26T20:39:11+00:00"
-    },
-    {
-      "id": "7db550d2",
-      "image": "img/7db550d2.png",
-      "image_sha": "86ea3ac5d42cdddb8484d0c0d1b080c2b0af27ec",
-      "url": "https://www.radiodos.com.ar/216024-salud-publica-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
-      "title": "Salud Pública insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
-      "volanta": "INMUNIZACIÓN",
-      "date": "2026-10-26T20:36:43+00:00"
     }
   ]
 }
