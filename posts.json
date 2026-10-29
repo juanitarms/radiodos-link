@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T14:02:19+00:00",
+  "updated": "2026-10-29T14:43:19+00:00",
   "posts": [
+    {
+      "id": "7fc52591",
+      "image": "img/7fc52591.png",
+      "image_sha": "e541b2a8a0a86af7aadb1f0bae9fbbdde63dc09e",
+      "url": "https://www.radiodos.com.ar/216208-chaco-pagara-un-refuerzo-de-hasta-100000-a-activos-y-jubilados-en-diciembre",
+      "title": "Chaco pagará un refuerzo de hasta $ 100.000 a activos y jubilados en diciembre",
+      "volanta": "POR ÚNICA VEZ",
+      "date": "2026-10-29T14:43:19+00:00"
+    },
     {
       "id": "2f79f40c",
       "image": "img/2f79f40c.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Instituto ganó en Alta Córdoba y selló su clasificación a las copas internacionales.",
       "volanta": "Fue 1 a 0",
       "date": "2026-10-27T10:49:28+00:00"
-    },
-    {
-      "id": "3bcdd841",
-      "image": "img/3bcdd841.png",
-      "image_sha": "983603c2669829f9e82e53d2c61826a48513dad3",
-      "url": "https://www.radiodos.com.ar/216039-tragedia-en-chaco-hallaron-muertos-a-tres-nenes-de-4-y-5-anos-en-una-laguna",
-      "title": "Tragedia en Chaco: hallaron muertos a tres nenes de 4 y 5 años en una laguna",
-      "volanta": "Corzuela",
-      "date": "2026-10-27T10:38:25+00:00"
     }
   ]
 }
