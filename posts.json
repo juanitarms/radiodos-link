@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T11:51:41+00:00",
+  "updated": "2026-10-29T12:00:31+00:00",
   "posts": [
+    {
+      "id": "dc8d216f",
+      "image": "img/dc8d216f.png",
+      "image_sha": "f24eee94f4aa3ae9996497d0e153b02c912dbf07",
+      "url": "https://www.radiodos.com.ar/216174-corrientes-motociclista-herido-tras-ser-arrollado-por-un-camion",
+      "title": "Corrientes: motociclista herido tras ser arrollado por un camión",
+      "volanta": "ANOCHE",
+      "date": "2026-10-29T12:00:31+00:00"
+    },
     {
       "id": "6c13b122",
       "image": "img/6c13b122.png",
@@ -531,15 +540,6 @@
       "title": "Avanza el programa \"Cielo Limpio\" y ya se retiró cableado en 14 cuadras del casco céntrico de Corrientes",
       "volanta": "TAREA CONJUNTA DEL MUNICIPIO",
       "date": "2026-10-26T21:28:31+00:00"
-    },
-    {
-      "id": "5ab0e1a5",
-      "image": "img/5ab0e1a5.png",
-      "image_sha": "b4ef33cb6a2e389d3322ce7b1cc72ad922d7f5d2",
-      "url": "https://www.radiodos.com.ar/216028-brasil-la-justicia-le-prohibio-salir-del-pais-a-flavio-bolsonaro-tras-la-derrota-electoral",
-      "title": "Brasil: la Justicia le prohibió salir del país a Flávio Bolsonaro tras la derrota electoral",
-      "volanta": "TRAS LAS ELECCIONES",
-      "date": "2026-10-26T21:27:28+00:00"
     }
   ]
 }
