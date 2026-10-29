@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T13:03:12+00:00",
+  "updated": "2026-10-29T13:41:07+00:00",
   "posts": [
+    {
+      "id": "2fede035",
+      "image": "img/2fede035.png",
+      "image_sha": "4fab129f074b0c30f0efc555d0211e596b5becb2",
+      "url": "https://www.radiodos.com.ar/216197-tragedia-en-espana-los-audios-entre-el-controlador-y-los-maquinistas-de-los-trenes-que-chocaron-en-toledo",
+      "title": "Tragedia en España: los audios entre el controlador y los maquinistas de los trenes que chocaron en Toledo",
+      "volanta": "Investigación abierta",
+      "date": "2026-10-29T13:41:07+00:00"
+    },
     {
       "id": "32712f04",
       "image": "img/32712f04.png",
@@ -531,15 +540,6 @@
       "title": "Balón de Oro: Harry Kane se quedó por primera vez con el premio al mejor futbolista de la temporada",
       "volanta": "DEPORTES",
       "date": "2026-10-27T03:03:22+00:00"
-    },
-    {
-      "id": "9e0a8908",
-      "image": "img/9e0a8908.png",
-      "image_sha": "5321205bd3cc7f62b152cf4489c109d12a6c39b1",
-      "url": "https://www.radiodos.com.ar/216032-destacadas-figuras-de-la-comunicacion-social-estaran-en-la-unne-para-el-enacom-2026",
-      "title": "Destacadas figuras de la comunicación social estarán en la UNNE para el ENACOM 2026",
-      "volanta": "ENCUENTRO NACIONAL DE CARRERAS DE COMUNICACIÓN",
-      "date": "2026-10-26T23:39:40+00:00"
     }
   ]
 }
