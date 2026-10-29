@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T10:58:43+00:00",
+  "updated": "2026-10-29T11:34:34+00:00",
   "posts": [
+    {
+      "id": "e065b817",
+      "image": "img/e065b817.png",
+      "image_sha": "6e1a7f91b25d2d4a23b6f73a68ea466f9b3d39ac",
+      "url": "https://www.radiodos.com.ar/216172-una-adolescente-de-16-anos-murio-tras-derrapar-con-su-moto-en-el-interior-de-corrientes",
+      "title": "Una adolescente de 16 años murió tras derrapar con su moto en el interior de Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-10-29T11:34:34+00:00"
+    },
     {
       "id": "f36233cd",
       "image": "img/f36233cd.png",
@@ -531,15 +540,6 @@
       "title": "Incautaron 49 plantas de marihuana en una vivienda",
       "volanta": "CORRIENTES",
       "date": "2026-10-26T21:13:42+00:00"
-    },
-    {
-      "id": "3571233e",
-      "image": "img/3571233e.png",
-      "image_sha": "54c4e86d9db9f04603c140102140287f6f112db2",
-      "url": "https://www.radiodos.com.ar/216022-corrientes-registro-una-leve-recuperacion-en-las-ventas-de-combustibles",
-      "title": "Corrientes registró una leve recuperación en las ventas de combustibles",
-      "volanta": "datos oficiales",
-      "date": "2026-10-26T20:39:43+00:00"
     }
   ]
 }
