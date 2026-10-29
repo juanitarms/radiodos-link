@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T20:45:47+00:00",
+  "updated": "2026-10-29T20:46:27+00:00",
   "posts": [
+    {
+      "id": "aa613122",
+      "image": "img/aa613122.png",
+      "image_sha": "47ebcdb439c5dfc3750208ff550d238b3f2437cd",
+      "url": "https://www.radiodos.com.ar/216229-el-concejo-capitalino-analiza-la-adhesion-a-la-emergencia-hidrica-y-climatica",
+      "title": "El Concejo capitalino analiza la adhesión a la emergencia hídrica y climática",
+      "volanta": "Fenómeno de El Niño",
+      "date": "2026-10-29T20:46:27+00:00"
+    },
     {
       "id": "d7012d51",
       "image": "img/d7012d51.png",
@@ -531,15 +540,6 @@
       "title": "Brasil: la Policía Federal investiga si Flávio Bolsonaro huyó hacia los Estados Unidos vía la Argentina",
       "volanta": "LUEGO DE LAS ELECCIONES",
       "date": "2026-10-27T15:15:13+00:00"
-    },
-    {
-      "id": "bdcd9b03",
-      "image": "img/bdcd9b03.png",
-      "image_sha": "9aee3e809df8ec165b9494e61a3efe944761c2ca",
-      "url": "https://www.radiodos.com.ar/216070-dos-peritos-describieron-el-cerebro-primitivo-de-pity-alvarez-tras-anos-de-consumo-de-drogas",
-      "title": "Dos peritos describieron el \"cerebro primitivo\" de Pity Álvarez tras años de consumo de drogas",
-      "volanta": "SIGUE EL JUICIO",
-      "date": "2026-10-27T15:01:56+00:00"
     }
   ]
 }
