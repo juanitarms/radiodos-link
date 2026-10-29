@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T21:23:18+00:00",
+  "updated": "2026-10-29T22:20:54+00:00",
   "posts": [
+    {
+      "id": "31b50311",
+      "image": "img/31b50311.png",
+      "image_sha": "10f1eaacd6743c30adcd3f3a2d5665ddc060630b",
+      "url": "https://www.radiodos.com.ar/216238-tras-incidentes-del-domingo-eliminaron-a-boca-unidos-del-federal-a",
+      "title": "Tras incidentes del domingo, eliminaron a Boca Unidos del Federal A",
+      "volanta": "GRAVE",
+      "date": "2026-10-29T22:20:54+00:00"
+    },
     {
       "id": "dae3fa8a",
       "image": "img/dae3fa8a.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: apareció un cadáver dentro de una planta cervecera e investiga la causa de la muerte",
       "volanta": "HORROR",
       "date": "2026-10-27T20:44:44+00:00"
-    },
-    {
-      "id": "7192e181",
-      "image": "img/7192e181.png",
-      "image_sha": "6e326bf22866868d7b1f5af7d6a1b4ca3c9e1e89",
-      "url": "https://www.radiodos.com.ar/216072-tension-en-una-carcel-presos-tomaron-de-rehen-a-un-penitenciario-y-lo-liberaron-tras-varias-horas",
-      "title": "Tensión en una cárcel: presos tomaron de rehén a un penitenciario y lo liberaron tras varias horas",
-      "volanta": "MENDOZA",
-      "date": "2026-10-27T16:24:42+00:00"
     }
   ]
 }
