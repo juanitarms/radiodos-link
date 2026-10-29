@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T13:41:07+00:00",
+  "updated": "2026-10-29T14:02:19+00:00",
   "posts": [
+    {
+      "id": "2f79f40c",
+      "image": "img/2f79f40c.png",
+      "image_sha": "a05c77e9de85d0a2607a933d866742d05c8caa0e",
+      "url": "https://www.radiodos.com.ar/216196-juan-carlos-pallarols-confecciona-el-caliz-de-la-paz-para-el-papa-leon-xiv-con-plata-y-municiones-de-malvinas",
+      "title": "Juan Carlos Pallarols confecciona el Cáliz de la Paz para el papa León XIV con plata y municiones de Malvinas",
+      "volanta": "Presente",
+      "date": "2026-10-29T14:02:19+00:00"
+    },
     {
       "id": "2fede035",
       "image": "img/2fede035.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia en Chaco: hallaron muertos a tres nenes de 4 y 5 años en una laguna",
       "volanta": "Corzuela",
       "date": "2026-10-27T10:38:25+00:00"
-    },
-    {
-      "id": "09e772a6",
-      "image": "img/09e772a6.png",
-      "image_sha": "79376853e5a6be9b466e6099ab9ef624415c5c90",
-      "url": "https://www.radiodos.com.ar/216035-balon-de-oro-harry-kane-se-quedo-por-primera-vez-con-el-premio-al-mejor-futbolista-de-la-temporada",
-      "title": "Balón de Oro: Harry Kane se quedó por primera vez con el premio al mejor futbolista de la temporada",
-      "volanta": "DEPORTES",
-      "date": "2026-10-27T03:03:22+00:00"
     }
   ]
 }
