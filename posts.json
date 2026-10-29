@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T10:19:09+00:00",
+  "updated": "2026-10-29T10:58:43+00:00",
   "posts": [
+    {
+      "id": "f36233cd",
+      "image": "img/f36233cd.png",
+      "image_sha": "c3ffb7431c52fa4eef85631bf08a86ab59dd29f2",
+      "url": "https://www.radiodos.com.ar/216168-comienza-la-autopsia-al-cuerpo-de-la-maestra-nancy-godoy-investigan-si-hubo-un-ataque-sexual",
+      "title": "Comienza la autopsia al cuerpo de la maestra Nancy Godoy: investigan si hubo un ataque sexual",
+      "volanta": "INSTITUTO MÉDICO FORENSE",
+      "date": "2026-10-29T10:58:43+00:00"
+    },
     {
       "id": "bae4e43e",
       "image": "img/bae4e43e.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes registró una leve recuperación en las ventas de combustibles",
       "volanta": "datos oficiales",
       "date": "2026-10-26T20:39:43+00:00"
-    },
-    {
-      "id": "79bca84b",
-      "image": "img/79bca84b.png",
-      "image_sha": "82012eefba8e1b09d433c2def66e2db2f01bc2ad",
-      "url": "https://www.radiodos.com.ar/216023-se-presento-en-corrientes-primeros-latidos-un-programa-de-acompanamiento-y-seguimiento-integral-para-embarazadas-y-recien-nacidos",
-      "title": "Se presentó en Corrientes Primeros Latidos, un programa de acompañamiento y seguimiento integral para embarazadas y recién nacidos",
-      "volanta": "CON LA PRESENCIA DEL GOBERNADOR VALDÉS",
-      "date": "2026-10-26T20:39:11+00:00"
     }
   ]
 }
