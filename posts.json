@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T12:00:31+00:00",
+  "updated": "2026-10-29T12:20:23+00:00",
   "posts": [
+    {
+      "id": "bae02118",
+      "image": "img/bae02118.png",
+      "image_sha": "f4a0c9332b4185e579dadc80cff1d0f870c37959",
+      "url": "https://www.radiodos.com.ar/216175-investigan-la-presunta-venta-de-mercaderias-destinadas-a-familias-inundadas-en-corrientes",
+      "title": "Investigan la presunta venta de mercaderías destinadas a familias inundadas en Corrientes",
+      "volanta": "DEPLORABLE",
+      "date": "2026-10-29T12:20:23+00:00"
+    },
     {
       "id": "dc8d216f",
       "image": "img/dc8d216f.png",
@@ -531,15 +540,6 @@
       "title": "Comienza juicio de un grupo de jóvenes contra el estado de Canadá por la acción climática",
       "volanta": "HISTÓRICO",
       "date": "2026-10-26T21:29:17+00:00"
-    },
-    {
-      "id": "532abb89",
-      "image": "img/532abb89.png",
-      "image_sha": "69be94c99b62b459be8fe3d51d2db4cebac015a2",
-      "url": "https://www.radiodos.com.ar/216029-avanza-el-programa-cielo-limpio-y-ya-se-retiro-cableado-en-14-cuadras-del-casco-centrico-de-corrientes",
-      "title": "Avanza el programa \"Cielo Limpio\" y ya se retiró cableado en 14 cuadras del casco céntrico de Corrientes",
-      "volanta": "TAREA CONJUNTA DEL MUNICIPIO",
-      "date": "2026-10-26T21:28:31+00:00"
     }
   ]
 }
