@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T20:47:05+00:00",
+  "updated": "2026-10-29T20:49:38+00:00",
   "posts": [
+    {
+      "id": "7e90cc3e",
+      "image": "img/7e90cc3e.png",
+      "image_sha": "fa444d6ec3e90e54c7e33bcfe266215362631c9a",
+      "url": "https://www.radiodos.com.ar/216231-cordoba-marcho-por-nancy-godoy-no-puede-seguir-habiendo-femicidios",
+      "title": "Córdoba marchó por Nancy Godoy: \"No puede seguir habiendo femicidios\"",
+      "volanta": "Reclamo a nivel nacional",
+      "date": "2026-10-29T20:49:38+00:00"
+    },
     {
       "id": "731c5646",
       "image": "img/731c5646.png",
@@ -531,15 +540,6 @@
       "title": "Un policía mató de un tiro a una perra en una comisaría porteña y lo desvincularon de la fuerza",
       "volanta": "FLORESTA",
       "date": "2026-10-27T16:24:09+00:00"
-    },
-    {
-      "id": "012e419b",
-      "image": "img/012e419b.png",
-      "image_sha": "d7f9497862421af6163b0ca4eab56410af313c21",
-      "url": "https://www.radiodos.com.ar/216074-llega-el-cyber-monday-2026-cuando-y-donde-estaran-disponibles-las-mejores-ofertas",
-      "title": "Llega el Cyber Monday 2026: cuándo y dónde estarán disponibles las mejores ofertas",
-      "volanta": "OPORTUNIDAD",
-      "date": "2026-10-27T16:23:31+00:00"
     }
   ]
 }
