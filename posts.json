@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T16:52:22+00:00",
+  "updated": "2026-10-29T18:10:02+00:00",
   "posts": [
+    {
+      "id": "932dba79",
+      "image": "img/932dba79.png",
+      "image_sha": "1e04ac3fff37dad3783ba3acada3b4eed2381be0",
+      "url": "https://www.radiodos.com.ar/216223-todo-listo-para-el-show-de-tan-bionica-en-corrientes",
+      "title": "Todo listo para el show de Tan Biónica en Corrientes",
+      "volanta": "IMPERDIBLE",
+      "date": "2026-10-29T18:10:02+00:00"
+    },
     {
       "id": "a4479617",
       "image": "img/a4479617.png",
@@ -531,15 +540,6 @@
       "title": "El partido de Flávio Bolsonaro reconoció la victoria de Lula da Silva pero evitó felicitarlo",
       "volanta": "BRASIL",
       "date": "2026-10-27T12:54:02+00:00"
-    },
-    {
-      "id": "c471530c",
-      "image": "img/c471530c.png",
-      "image_sha": "8df2f0494dabdaaed0b0e9913a0c2752b28168ed",
-      "url": "https://www.radiodos.com.ar/216046-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE MARTES 27",
-      "date": "2026-10-27T12:33:50+00:00"
     }
   ]
 }
