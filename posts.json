@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T20:49:38+00:00",
+  "updated": "2026-10-29T21:23:18+00:00",
   "posts": [
+    {
+      "id": "dae3fa8a",
+      "image": "img/dae3fa8a.png",
+      "image_sha": "103062abfbdc7a18a545b640f080653215db05be",
+      "url": "https://www.radiodos.com.ar/216234-juegos-nacionales-evita-2026-corrientes-viste-a-sus-deportistas-y-ultima-detalles-para-competir-en-mar-del-plata",
+      "title": "Juegos Nacionales Evita 2026: Corrientes viste a sus deportistas y ultima detalles para competir en Mar del Plata",
+      "volanta": "DEPORTE",
+      "date": "2026-10-29T21:23:18+00:00"
+    },
     {
       "id": "7e90cc3e",
       "image": "img/7e90cc3e.png",
@@ -531,15 +540,6 @@
       "title": "Tensión en una cárcel: presos tomaron de rehén a un penitenciario y lo liberaron tras varias horas",
       "volanta": "MENDOZA",
       "date": "2026-10-27T16:24:42+00:00"
-    },
-    {
-      "id": "3e28449d",
-      "image": "img/3e28449d.png",
-      "image_sha": "95334da6570f847db5e53131539cd2f21a3445fa",
-      "url": "https://www.radiodos.com.ar/216073-un-policia-mato-de-un-tiro-a-una-perra-en-una-comisaria-portena-y-lo-desvincularon-de-la-fuerza",
-      "title": "Un policía mató de un tiro a una perra en una comisaría porteña y lo desvincularon de la fuerza",
-      "volanta": "FLORESTA",
-      "date": "2026-10-27T16:24:09+00:00"
     }
   ]
 }
