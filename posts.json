@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T15:02:20+00:00",
+  "updated": "2026-10-29T16:50:34+00:00",
   "posts": [
+    {
+      "id": "740866b9",
+      "image": "img/740866b9.png",
+      "image_sha": "3fc0e69d611c31285e70df097b3f94f65bd7a879",
+      "url": "https://www.radiodos.com.ar/216216-el-colegio-de-abogados-se-reunio-con-el-presidente-del-superior-tribunal-de-justicia-para-abordar-temas-claves-para-la-abogacia-correntina",
+      "title": "El Colegio de Abogados se reunió con el presidente del Superior Tribunal de Justicia para abordar temas claves para la abogacía correntina",
+      "volanta": "COMUNICADO DE PRENSA N°86",
+      "date": "2026-10-29T16:50:34+00:00"
+    },
     {
       "id": "a1cceee5",
       "image": "img/a1cceee5.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a un sujeto involucrado en un homicidio ocurrido hace dos años en Corrientes",
       "volanta": "SEGURIDAD",
       "date": "2026-10-27T11:33:44+00:00"
-    },
-    {
-      "id": "5fff002d",
-      "image": "img/5fff002d.png",
-      "image_sha": "1879ed59c5adad9373f7f386d90bd4428a2083c2",
-      "url": "https://www.radiodos.com.ar/216036-lnb-con-un-bombino-intratable-el-granate-se-hizo-gigante-y-barrio-a-regatas",
-      "title": "LNB: Con un Bombino intratable, El Granate se hizo gigante y barrió a Regatas",
-      "volanta": "BÁSQUET",
-      "date": "2026-10-27T11:15:58+00:00"
     }
   ]
 }
