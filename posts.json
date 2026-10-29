@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T12:35:20+00:00",
+  "updated": "2026-10-29T13:03:12+00:00",
   "posts": [
+    {
+      "id": "32712f04",
+      "image": "img/32712f04.png",
+      "image_sha": "280f310c3a01defbf4194496c49a42eb0ce9cddc",
+      "url": "https://www.radiodos.com.ar/216186-milei-incumple-otro-fallo-judicial-y-da-de-baja-casi-22-mil-pensiones-por-invalidez",
+      "title": "Milei incumple otro fallo judicial y da de baja casi 22 mil pensiones por invalidez",
+      "volanta": "Ajuste en Discapacidad",
+      "date": "2026-10-29T13:03:12+00:00"
+    },
     {
       "id": "3da2fbbe",
       "image": "img/3da2fbbe.png",
@@ -531,15 +540,6 @@
       "title": "Destacadas figuras de la comunicación social estarán en la UNNE para el ENACOM 2026",
       "volanta": "ENCUENTRO NACIONAL DE CARRERAS DE COMUNICACIÓN",
       "date": "2026-10-26T23:39:40+00:00"
-    },
-    {
-      "id": "4ca185cc",
-      "image": "img/4ca185cc.png",
-      "image_sha": "3fad05c29b9dad003c4948001d1eb1be8372d8dd",
-      "url": "https://www.radiodos.com.ar/216031-corrientes-exporto-usd-32-millones-en-septiembre-y-consolida-una-suba-interanual-del-23",
-      "title": "Corrientes exportó USD 32 millones en septiembre y consolida una suba interanual del 23%",
-      "volanta": "informe del indec",
-      "date": "2026-10-26T23:34:26+00:00"
     }
   ]
 }
