@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T11:34:34+00:00",
+  "updated": "2026-10-29T11:51:41+00:00",
   "posts": [
+    {
+      "id": "6c13b122",
+      "image": "img/6c13b122.png",
+      "image_sha": "5b2a9c3e9dd2325d41938942189f2042509b99ce",
+      "url": "https://www.radiodos.com.ar/216173-salio-a-hacer-compras-y-murio-repentinamente-en-una-calle-de-corrientes",
+      "title": "Salió a hacer compras y murió repentinamente en una calle de Corrientes",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-10-29T11:51:41+00:00"
+    },
     {
       "id": "e065b817",
       "image": "img/e065b817.png",
@@ -531,15 +540,6 @@
       "title": "Brasil: la Justicia le prohibió salir del país a Flávio Bolsonaro tras la derrota electoral",
       "volanta": "TRAS LAS ELECCIONES",
       "date": "2026-10-26T21:27:28+00:00"
-    },
-    {
-      "id": "09f90776",
-      "image": "img/09f90776.png",
-      "image_sha": "541ff64c84729c483eaee612deed66225f102a00",
-      "url": "https://www.radiodos.com.ar/216025-incautaron-49-plantas-de-marihuana-en-una-vivienda",
-      "title": "Incautaron 49 plantas de marihuana en una vivienda",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-26T21:13:42+00:00"
     }
   ]
 }
