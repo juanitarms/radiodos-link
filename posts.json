@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T16:51:45+00:00",
+  "updated": "2026-10-29T16:52:22+00:00",
   "posts": [
+    {
+      "id": "a4479617",
+      "image": "img/a4479617.png",
+      "image_sha": "22f58822a95972606c39c70e00b31fd39be19ce6",
+      "url": "https://www.radiodos.com.ar/216213-caso-nanci-estela-godoy-informaran-a-la-familia-las-causales-de-la-muerte-de-la-maestra",
+      "title": "Caso Nanci Estela Godoy: informarán a la familia las causales de la muerte de la maestra",
+      "volanta": "ESQUINA",
+      "date": "2026-10-29T16:52:22+00:00"
+    },
     {
       "id": "c9b4414b",
       "image": "img/c9b4414b.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE MARTES 27",
       "date": "2026-10-27T12:33:50+00:00"
-    },
-    {
-      "id": "b0c949a2",
-      "image": "img/b0c949a2.png",
-      "image_sha": "16fbc080a9c206964ebe7d0efe8fe592786f353d",
-      "url": "https://www.radiodos.com.ar/216045-el-gobierno-provincial-reforzo-la-asistencia-a-familias-afectadas-por-la-crecida-del-rio-en-capital",
-      "title": "El Gobierno provincial reforzó la asistencia a familias afectadas por la crecida del río en Capital",
-      "volanta": "CORRIENTES CERCA",
-      "date": "2026-10-27T12:09:55+00:00"
     }
   ]
 }
