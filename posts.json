@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T20:22:46+00:00",
+  "updated": "2026-10-29T20:45:47+00:00",
   "posts": [
+    {
+      "id": "d7012d51",
+      "image": "img/d7012d51.png",
+      "image_sha": "93af335a89da16ef75ac3903f4e3f9057762efc4",
+      "url": "https://www.radiodos.com.ar/216230-caso-chirino-la-corte-dejo-firmes-las-condenas-por-el-ritual-de-iniciacion-fatal",
+      "title": "Caso Chirino: la Corte dejó firmes las condenas por el \"ritual de iniciación\" fatal",
+      "volanta": "Fallo judicial",
+      "date": "2026-10-29T20:45:47+00:00"
+    },
     {
       "id": "c8ab2eb8",
       "image": "img/c8ab2eb8.png",
@@ -531,15 +540,6 @@
       "title": "Dos peritos describieron el \"cerebro primitivo\" de Pity Álvarez tras años de consumo de drogas",
       "volanta": "SIGUE EL JUICIO",
       "date": "2026-10-27T15:01:56+00:00"
-    },
-    {
-      "id": "5a978a46",
-      "image": "img/5a978a46.png",
-      "image_sha": "6d94ac5e416681aa6f1653a02ef9cc025c50c2fd",
-      "url": "https://www.radiodos.com.ar/216065-habra-misas-y-operativos-municipales-en-cementerios-por-el-dia-de-los-fieles-difuntos",
-      "title": "Habrá misas y operativos municipales en cementerios por el Día de los Fieles Difuntos",
-      "volanta": "CONMEMORACIÓN EN LA CIUDAD",
-      "date": "2026-10-27T14:32:41+00:00"
     }
   ]
 }
