@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T14:52:18+00:00",
+  "updated": "2026-10-30T15:14:39+00:00",
   "posts": [
+    {
+      "id": "bb1544a0",
+      "image": "img/bb1544a0.png",
+      "image_sha": "0c18caddf43123a35e02e9b23b50016048903e01",
+      "url": "https://www.radiodos.com.ar/216278-el-senado-dio-media-sancion-a-cambios-en-la-ley-salud-mental-todas-las-modificaciones",
+      "title": "El Senado dio media sanción a cambios en la Ley Salud Mental: todas las modificaciones",
+      "volanta": "DEBATE",
+      "date": "2026-10-30T15:14:39+00:00"
+    },
     {
       "id": "08a0f04d",
       "image": "img/08a0f04d.png",
@@ -531,15 +540,6 @@
       "title": "Se filtraron los chats de Emanuel Ortega y Josefina Lynch: qué decían los mensajes que desataron la separación",
       "volanta": "ESCÁNDALO",
       "date": "2026-10-28T13:52:35+00:00"
-    },
-    {
-      "id": "e710009c",
-      "image": "img/e710009c.png",
-      "image_sha": "895a46368368390582be7d29eb8e26942c2d167f",
-      "url": "https://www.radiodos.com.ar/216125-el-telescopio-swift-de-la-nasa-esta-sin-control-y-caera-en-la-tierra-cuando-ocurrira",
-      "title": "El telescopio Swift de la NASA está sin control y caerá en la Tierra: cuándo ocurrirá",
-      "volanta": "ALERTA",
-      "date": "2026-10-28T13:22:34+00:00"
     }
   ]
 }
