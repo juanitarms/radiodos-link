@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T11:08:29+00:00",
+  "updated": "2026-10-30T11:49:53+00:00",
   "posts": [
+    {
+      "id": "e21ee2f2",
+      "image": "img/e21ee2f2.png",
+      "image_sha": "97d0b69b9a654ea4468235d4741b723b6293bd45",
+      "url": "https://www.radiodos.com.ar/216248-nacion-le-va-a-dar-mas-subsidios-a-las-empresas-de-transporte-en-caba-y-amba",
+      "title": "Nación le va a dar más subsidios a las empresas de transporte en CABA y AMBA",
+      "volanta": "MEDIDA PARA ALGUNOS",
+      "date": "2026-10-30T11:49:53+00:00"
+    },
     {
       "id": "6c179937",
       "image": "img/6c179937.png",
@@ -531,15 +540,6 @@
       "title": "Presentaron los proyectos técnicos y ambientales para las obras en las Rutas Provinciales 27 y 68",
       "volanta": "CORRIENTES",
       "date": "2026-10-27T22:48:21+00:00"
-    },
-    {
-      "id": "c6aefcfc",
-      "image": "img/c6aefcfc.png",
-      "image_sha": "c00a45a1839eb8456186a39f932778966b27b214",
-      "url": "https://www.radiodos.com.ar/216094-el-consumo-en-los-hogares-volvio-a-caer-en-septiembre-y-registra-una-contraccion-de-dos-meses-consecutivos",
-      "title": "El consumo en los hogares volvió a caer en septiembre y registra una contracción de dos meses consecutivos",
-      "volanta": "CRISIS",
-      "date": "2026-10-27T22:47:45+00:00"
     }
   ]
 }
