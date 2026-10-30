@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:34:13+00:00",
+  "updated": "2026-10-30T23:36:16+00:00",
   "posts": [
+    {
+      "id": "33503f3b",
+      "image": "img/33503f3b.png",
+      "image_sha": "f77d5b3d621804e38f6e9f180cbcb792203b6fce",
+      "url": "https://www.radiodos.com.ar/216301-la-municipalidad-presenta-una-amplia-agenda-cultural-y-solidaria-para-el-fin-de-semana-largo",
+      "title": "La Municipalidad presenta una amplia agenda cultural y solidaria para el fin de semana largo",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-30T23:36:16+00:00"
+    },
     {
       "id": "d0a0304f",
       "image": "img/d0a0304f.png",
@@ -531,15 +540,6 @@
       "title": "Esquina decretó tres días de duelo por la muerte Nancy Godoy",
       "volanta": "DOCENTE HALLADA MUERTA",
       "date": "2026-10-28T22:14:24+00:00"
-    },
-    {
-      "id": "01f64a65",
-      "image": "img/01f64a65.png",
-      "image_sha": "c0ea1e0fe39826235f3415aff62396629b4f381f",
-      "url": "https://www.radiodos.com.ar/216153-flavio-bolsonaro-destaco-la-ayuda-de-javier-milei-para-salir-de-brasil-gracias-por-su-valentia-y-sentido-de-justicia",
-      "title": "Flávio Bolsonaro destacó la ayuda de Javier Milei para salir de Brasil: \"Gracias por su valentía y sentido de justicia\"",
-      "volanta": "escándalo internacional",
-      "date": "2026-10-28T22:13:48+00:00"
     }
   ]
 }
