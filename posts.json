@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T12:17:26+00:00",
+  "updated": "2026-10-30T12:28:45+00:00",
   "posts": [
+    {
+      "id": "9be36925",
+      "image": "img/9be36925.png",
+      "image_sha": "1093d6d56e1ade770dab4f79e65e494b90334c89",
+      "url": "https://www.radiodos.com.ar/216252-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+      "volanta": "ESTE FIN DE SEMANA",
+      "date": "2026-10-30T12:28:45+00:00"
+    },
     {
       "id": "da63fd95",
       "image": "img/da63fd95.png",
@@ -531,15 +540,6 @@
       "title": "Ladrilleros encontraron el cuerpo de un hombre flotando en zona inundada",
       "volanta": "BARRIO SANTA MARTA",
       "date": "2026-10-28T11:10:17+00:00"
-    },
-    {
-      "id": "7ee610e0",
-      "image": "img/7ee610e0.png",
-      "image_sha": "27051f9f1a88742103821e31eeb54e521548a579",
-      "url": "https://www.radiodos.com.ar/216100-oficial-nicolas-ramirez-dirigira-el-superclasico-entre-boca-y-river-en-la-bombonera",
-      "title": "Oficial: Nicolás Ramírez dirigirá el Superclásico entre Boca y River en La Bombonera",
-      "volanta": "Le cae bien a ambos equipos",
-      "date": "2026-10-28T10:58:18+00:00"
     }
   ]
 }
