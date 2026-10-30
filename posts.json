@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T18:11:06+00:00",
+  "updated": "2026-10-30T23:29:31+00:00",
   "posts": [
+    {
+      "id": "821b1349",
+      "image": "img/821b1349.png",
+      "image_sha": "005786b6402993833666df807370ad0ed12772de",
+      "url": "https://www.radiodos.com.ar/216299-continuara-cerrado-el-paso-fronterizo-ituzaingo-ayolas",
+      "title": "Continuará cerrado el paso fronterizo Ituzaingó-Ayolas",
+      "volanta": "crecida del río",
+      "date": "2026-10-30T23:29:31+00:00"
+    },
     {
       "id": "63cfc327",
       "image": "img/63cfc327.png",
@@ -531,15 +540,6 @@
       "title": "Choque de trenes en España: el Gobierno habilitó una línea de asistencia por posibles pasajeros argentinos",
       "volanta": "TRAGEDIA",
       "date": "2026-10-28T19:11:53+00:00"
-    },
-    {
-      "id": "16a3e00a",
-      "image": "img/16a3e00a.png",
-      "image_sha": "749e0631145965df36d99403eb151e7d4a3dcbc7",
-      "url": "https://www.radiodos.com.ar/216147-recuperan-elementos-robados-demoran-a-tres-hombres-y-secuestran-plantas-de-marihuana",
-      "title": "Recuperan elementos robados, demoran a tres hombres y secuestran plantas de marihuana",
-      "volanta": "SAN LUIS DEL PALMAR",
-      "date": "2026-10-28T17:44:01+00:00"
     }
   ]
 }
