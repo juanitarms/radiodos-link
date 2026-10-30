@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T16:26:10+00:00",
+  "updated": "2026-10-30T16:26:44+00:00",
   "posts": [
+    {
+      "id": "cbac9b49",
+      "image": "img/cbac9b49.png",
+      "image_sha": "bea2b789665c9e4a515f6a5e231a09a57d7c81d7",
+      "url": "https://www.radiodos.com.ar/216285-en-la-previa-de-su-viaje-a-la-argentina-el-papa-leon-xiv-voto-por-correo-en-las-elecciones-estadounidenses",
+      "title": "En la previa de su viaje a la Argentina, el papa León XIV votó por correo en las elecciones estadounidenses",
+      "volanta": "DEMOCRACIA",
+      "date": "2026-10-30T16:26:44+00:00"
+    },
     {
       "id": "d3ecb5c1",
       "image": "img/d3ecb5c1.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés confirmó que Corrientes espera aporte económico de Nación para asistir a afectados por las inundaciones",
       "volanta": "ESPERANDO RESPUESTAS",
       "date": "2026-10-28T15:07:03+00:00"
-    },
-    {
-      "id": "fda4aa38",
-      "image": "img/fda4aa38.png",
-      "image_sha": "729e052aa92a8199cc3ebb291414a85e1ec6c4e3",
-      "url": "https://www.radiodos.com.ar/216137-flavio-bolsonaro-aterrizo-en-miami-tras-escapar-de-la-justicia-brasilena-por-argentina",
-      "title": "Flávio Bolsonaro aterrizó en Miami tras escapar de la Justicia brasileña por Argentina",
-      "volanta": "TRAS LAS ELECCIONES",
-      "date": "2026-10-28T14:52:11+00:00"
     }
   ]
 }
