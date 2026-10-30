@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T00:06:20+00:00",
+  "updated": "2026-10-30T10:16:08+00:00",
   "posts": [
+    {
+      "id": "cc06ac49",
+      "image": "img/cc06ac49.png",
+      "image_sha": "3606563ea9ed479dee9e66b52c410460212d599a",
+      "url": "https://www.radiodos.com.ar/216245-lnb-el-granate-ratifico-su-buen-momento-encadeno-su-segunda-victoria-y-el-rojinegro-no-levanta",
+      "title": "LNB: El \"Granate\" ratificó su buen momento, encadenó su segunda victoria y el Rojinegro no levanta",
+      "volanta": "Fue 81 a 72",
+      "date": "2026-10-30T10:16:08+00:00"
+    },
     {
       "id": "2ad22a80",
       "image": "img/2ad22a80.png",
@@ -531,15 +540,6 @@
       "title": "El Gobernador acompañó los 145 años de Sauce y destacó las obras que impulsan su desarrollo",
       "volanta": "ACTO Y DESFILE CÍVICO-MILITAR",
       "date": "2026-10-27T22:47:10+00:00"
-    },
-    {
-      "id": "7bcd4f1c",
-      "image": "img/7bcd4f1c.png",
-      "image_sha": "b5d03b7999095e85602c2be612bb471a882fd0f8",
-      "url": "https://www.radiodos.com.ar/216092-juicio-por-la-desaparicion-de-loan-se-reanudan-las-audiencias-con-14-nuevos-testimonios",
-      "title": "Juicio por la desaparición de Loan: se reanudan las audiencias con 14 nuevos testimonios",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-27T22:45:00+00:00"
     }
   ]
 }
