@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:29:31+00:00",
+  "updated": "2026-10-30T23:30:04+00:00",
   "posts": [
+    {
+      "id": "29f6ccd5",
+      "image": "img/29f6ccd5.png",
+      "image_sha": "b4dddfbc18842aa1e23a222375de8fab10ea3ffa",
+      "url": "https://www.radiodos.com.ar/216298-la-auditoria-general-revisara-la-licitacion-de-la-hidrovia-parana-paraguay",
+      "title": "La Auditoría General revisará la licitación de la Hidrovía Paraná-Paraguay",
+      "volanta": "Polémica",
+      "date": "2026-10-30T23:30:04+00:00"
+    },
     {
       "id": "821b1349",
       "image": "img/821b1349.png",
@@ -531,15 +540,6 @@
       "title": "Hallaron el cuerpo de Nanci Godoy: estaba semisumergido en un bañado a 2.5 km de la escuela",
       "volanta": "EL PEOR FINAL",
       "date": "2026-10-28T20:35:03+00:00"
-    },
-    {
-      "id": "e293da62",
-      "image": "img/e293da62.png",
-      "image_sha": "17bb16d047d4b9c6645003f98f5529d5d86fd1a6",
-      "url": "https://www.radiodos.com.ar/216143-choque-de-trenes-en-espana-el-gobierno-habilito-una-linea-de-asistencia-por-posibles-pasajeros-argentinos",
-      "title": "Choque de trenes en España: el Gobierno habilitó una línea de asistencia por posibles pasajeros argentinos",
-      "volanta": "TRAGEDIA",
-      "date": "2026-10-28T19:11:53+00:00"
     }
   ]
 }
