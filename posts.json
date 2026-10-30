@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T16:27:17+00:00",
+  "updated": "2026-10-30T18:09:52+00:00",
   "posts": [
+    {
+      "id": "c82e95f0",
+      "image": "img/c82e95f0.png",
+      "image_sha": "70ae18192a52fa71c92879db1c800211db384a73",
+      "url": "https://www.radiodos.com.ar/216288-arranca-un-nuevo-juicio-por-el-femicidio-de-micaela-garcia",
+      "title": "Arranca un nuevo juicio por el femicidio de Micaela García",
+      "volanta": "Entre Ríos",
+      "date": "2026-10-30T18:09:52+00:00"
+    },
     {
       "id": "30808264",
       "image": "img/30808264.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública recomienda medidas preventivas sobre dengue",
       "volanta": "A TENER EN CUENTA",
       "date": "2026-10-28T17:42:41+00:00"
-    },
-    {
-      "id": "405d2aa8",
-      "image": "img/405d2aa8.png",
-      "image_sha": "fbbb833f99c471b719d1e11911085ef2908ff115",
-      "url": "https://www.radiodos.com.ar/216144-encontraron-el-cuerpo-sin-vida-de-nanci-godoy",
-      "title": "Encontraron el cuerpo sin vida de Nanci Godoy",
-      "volanta": "LOCAL",
-      "date": "2026-10-28T16:14:41+00:00"
     }
   ]
 }
