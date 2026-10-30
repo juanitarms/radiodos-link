@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T18:10:31+00:00",
+  "updated": "2026-10-30T18:11:06+00:00",
   "posts": [
+    {
+      "id": "63cfc327",
+      "image": "img/63cfc327.png",
+      "image_sha": "2c5d1f7a90ad39248a1bb8df52ac9d77ef2e72c9",
+      "url": "https://www.radiodos.com.ar/216292-indio-solari-recibira-un-doctorado-post-mortem-de-la-unlp",
+      "title": "Indio Solari recibirá un doctorado post mortem de la UNLP",
+      "volanta": "RECONOCIMIENTO",
+      "date": "2026-10-30T18:11:06+00:00"
+    },
     {
       "id": "3e610850",
       "image": "img/3e610850.png",
@@ -531,15 +540,6 @@
       "title": "Recuperan elementos robados, demoran a tres hombres y secuestran plantas de marihuana",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-10-28T17:44:01+00:00"
-    },
-    {
-      "id": "0eb04336",
-      "image": "img/0eb04336.png",
-      "image_sha": "b3c34af402c2b614365e0ae31698804f2dc8466d",
-      "url": "https://www.radiodos.com.ar/216145-tragedia-en-espana-se-suspendio-la-fecha-de-copa-del-rey-por-el-choque-de-trenes",
-      "title": "Tragedia en España: se suspendió la fecha de Copa del Rey por el choque de trenes",
-      "volanta": "DUELO NACIONAL",
-      "date": "2026-10-28T17:43:25+00:00"
     }
   ]
 }
