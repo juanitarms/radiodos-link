@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T15:14:39+00:00",
+  "updated": "2026-10-30T16:25:36+00:00",
   "posts": [
+    {
+      "id": "8e0301d3",
+      "image": "img/8e0301d3.png",
+      "image_sha": "980591ca9e464dcf700710d61499ca6a91b9924a",
+      "url": "https://www.radiodos.com.ar/216287-edicion-solidaria-del-oktoberfest-del-litoral-para-asistir-a-los-afectados-por-la-crecida",
+      "title": "Edición solidaria del Oktoberfest del Litoral para asistir a los afectados por la crecida",
+      "volanta": "Municipalidad de Corrientes y Cámara Cervecera",
+      "date": "2026-10-30T16:25:36+00:00"
+    },
     {
       "id": "bb1544a0",
       "image": "img/bb1544a0.png",
@@ -531,15 +540,6 @@
       "title": "Ricardo Darín reveló un secreto del Chino Darín tras convertirse en abuelo",
       "volanta": "¿QUÉ SERÁ?",
       "date": "2026-10-28T14:35:02+00:00"
-    },
-    {
-      "id": "541a2a4d",
-      "image": "img/541a2a4d.png",
-      "image_sha": "f10fdf40c0170378660342ea8a9f2545a4fbda0c",
-      "url": "https://www.radiodos.com.ar/216133-se-filtraron-los-chats-de-emanuel-ortega-y-josefina-lynch-que-decian-los-mensajes-que-desataron-la-separacion",
-      "title": "Se filtraron los chats de Emanuel Ortega y Josefina Lynch: qué decían los mensajes que desataron la separación",
-      "volanta": "ESCÁNDALO",
-      "date": "2026-10-28T13:52:35+00:00"
     }
   ]
 }
