@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T16:26:44+00:00",
+  "updated": "2026-10-30T16:27:17+00:00",
   "posts": [
+    {
+      "id": "30808264",
+      "image": "img/30808264.png",
+      "image_sha": "388f3c782704d27e47cdffbb75d359f8e6358446",
+      "url": "https://www.radiodos.com.ar/216284-senado-aprobo-una-ley-para-proteger-a-grandes-felinos-y-asistir-a-productores-afectados",
+      "title": "Senado aprobó una ley para proteger a grandes felinos y asistir a productores afectados",
+      "volanta": "14° SESIÓN ORDINARIA",
+      "date": "2026-10-30T16:27:17+00:00"
+    },
     {
       "id": "cbac9b49",
       "image": "img/cbac9b49.png",
@@ -531,15 +540,6 @@
       "title": "Encontraron el cuerpo sin vida de Nanci Godoy",
       "volanta": "LOCAL",
       "date": "2026-10-28T16:14:41+00:00"
-    },
-    {
-      "id": "048decde",
-      "image": "img/048decde.png",
-      "image_sha": "b997f59c887109d2a1e527f6bcc6dc6d15cd0c5c",
-      "url": "https://www.radiodos.com.ar/216140-jp-valdes-confirmo-que-corrientes-espera-aporte-economico-de-nacion-para-asistir-a-afectados-por-las-inundaciones",
-      "title": "JP Valdés confirmó que Corrientes espera aporte económico de Nación para asistir a afectados por las inundaciones",
-      "volanta": "ESPERANDO RESPUESTAS",
-      "date": "2026-10-28T15:07:03+00:00"
     }
   ]
 }
