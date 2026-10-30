@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:30:04+00:00",
+  "updated": "2026-10-30T23:33:38+00:00",
   "posts": [
+    {
+      "id": "50fddf89",
+      "image": "img/50fddf89.png",
+      "image_sha": "863e5ce7ac856dd51fff22b2c6d0d85a96ad1a3f",
+      "url": "https://www.radiodos.com.ar/216302-2027-la-justicia-solicita-presupuesto-de-361-mil-millones-y-el-ejecutivo-preve-259-mil-millones",
+      "title": "2027: La Justicia solicita presupuesto de $361 mil millones y el Ejecutivo prevé $259 mil millones",
+      "volanta": "CORRIENTES",
+      "date": "2026-10-30T23:33:38+00:00"
+    },
     {
       "id": "29f6ccd5",
       "image": "img/29f6ccd5.png",
@@ -531,15 +540,6 @@
       "title": "Dónde, quién y cómo encontraron el cuerpo de Nancy",
       "volanta": "EL PEOR FINAL",
       "date": "2026-10-28T21:45:51+00:00"
-    },
-    {
-      "id": "1dbe4272",
-      "image": "img/1dbe4272.png",
-      "image_sha": "b31e1a0fc5f95539d8acc8a82710c847d3c0ad97",
-      "url": "https://www.radiodos.com.ar/216150-hallaron-el-cuerpo-de-nanci-godoy-estaba-semisumergido-en-un-banado-a-25-km-de-la-escuela",
-      "title": "Hallaron el cuerpo de Nanci Godoy: estaba semisumergido en un bañado a 2.5 km de la escuela",
-      "volanta": "EL PEOR FINAL",
-      "date": "2026-10-28T20:35:03+00:00"
     }
   ]
 }
