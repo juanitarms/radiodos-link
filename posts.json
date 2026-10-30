@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T22:45:42+00:00",
+  "updated": "2026-10-30T00:06:20+00:00",
   "posts": [
+    {
+      "id": "2ad22a80",
+      "image": "img/2ad22a80.png",
+      "image_sha": "d96346aa0b74db35c20fe59061fc9b9ab53dc90c",
+      "url": "https://www.radiodos.com.ar/216243-confirmaron-que-nanci-godoy-sufrio-una-muerte-extremadamente-violenta-y-con-multiples-armas",
+      "title": "Confirmaron que Nanci Godoy sufrió una muerte extremadamente violenta y con múltiples armas",
+      "volanta": "Autopsia",
+      "date": "2026-10-30T00:06:20+00:00"
+    },
     {
       "id": "1450b3a8",
       "image": "img/1450b3a8.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición de Loan: se reanudan las audiencias con 14 nuevos testimonios",
       "volanta": "CORRIENTES",
       "date": "2026-10-27T22:45:00+00:00"
-    },
-    {
-      "id": "f7b8e1c6",
-      "image": "img/f7b8e1c6.png",
-      "image_sha": "653cb40d988fa1e575d324c0f29aa7dcd5579e58",
-      "url": "https://www.radiodos.com.ar/216091-lourdes-sanchez-blanqueo-su-romance-con-francisco-liotta",
-      "title": "Lourdes Sánchez blanqueó su romance con Francisco Liotta",
-      "volanta": "EN BUENOS AIRES",
-      "date": "2026-10-27T22:44:12+00:00"
     }
   ]
 }
