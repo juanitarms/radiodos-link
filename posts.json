@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T13:10:39+00:00",
+  "updated": "2026-10-30T13:33:09+00:00",
   "posts": [
+    {
+      "id": "4d11caad",
+      "image": "img/4d11caad.png",
+      "image_sha": "949c87cdb652bccfc588443f49587115a3d50ab2",
+      "url": "https://www.radiodos.com.ar/216264-corrientes-desde-isla-apipe-trasladaron-a-un-menor-que-sufrio-una-seria-lesion-en-uno-de-sus-brazos",
+      "title": "Corrientes: desde Isla Apipé, trasladaron a un menor que sufrió una seria lesión en uno de sus brazos",
+      "volanta": "EN MEDIO DE LA CRECIDA DEL PARANA",
+      "date": "2026-10-30T13:33:09+00:00"
+    },
     {
       "id": "80fa4e29",
       "image": "img/80fa4e29.png",
@@ -531,15 +540,6 @@
       "title": "Chaco: Prefectura asistió a pobladores de la Isla Soto",
       "volanta": "INUNDACIONES",
       "date": "2026-10-28T12:18:37+00:00"
-    },
-    {
-      "id": "c62278a7",
-      "image": "img/c62278a7.png",
-      "image_sha": "45e9b0baf6f6c1a2cb65485e0e5ad71629fc0e15",
-      "url": "https://www.radiodos.com.ar/216109-por-la-crecida-del-rio-parana-suspenden-un-concurso-de-pesca-en-el-interior-de-corrientes",
-      "title": "Por la crecida del río Paraná, suspenden un concurso de pesca en el interior de Corrientes",
-      "volanta": "BELLA VISTA",
-      "date": "2026-10-28T12:03:43+00:00"
     }
   ]
 }
