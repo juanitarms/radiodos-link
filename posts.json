@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T16:25:36+00:00",
+  "updated": "2026-10-30T16:26:10+00:00",
   "posts": [
+    {
+      "id": "d3ecb5c1",
+      "image": "img/d3ecb5c1.png",
+      "image_sha": "6e65045ed73c052acc1bd2bd7f4883719e364275",
+      "url": "https://www.radiodos.com.ar/216286-liberaron-al-acosador-de-sofia-gonet-y-homero-pettinato",
+      "title": "Liberaron al acosador de Sofía Gonet y Homero Pettinato",
+      "volanta": "DE CUIDADO",
+      "date": "2026-10-30T16:26:10+00:00"
+    },
     {
       "id": "8e0301d3",
       "image": "img/8e0301d3.png",
@@ -531,15 +540,6 @@
       "title": "Flávio Bolsonaro aterrizó en Miami tras escapar de la Justicia brasileña por Argentina",
       "volanta": "TRAS LAS ELECCIONES",
       "date": "2026-10-28T14:52:11+00:00"
-    },
-    {
-      "id": "cb36717d",
-      "image": "img/cb36717d.png",
-      "image_sha": "5e101b2e69cf0487938c059097052390b613cacf",
-      "url": "https://www.radiodos.com.ar/216135-ricardo-darin-revelo-un-secreto-del-chino-darin-tras-convertirse-en-abuelo",
-      "title": "Ricardo Darín reveló un secreto del Chino Darín tras convertirse en abuelo",
-      "volanta": "¿QUÉ SERÁ?",
-      "date": "2026-10-28T14:35:02+00:00"
     }
   ]
 }
