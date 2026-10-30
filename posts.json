@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:33:38+00:00",
+  "updated": "2026-10-30T23:34:13+00:00",
   "posts": [
+    {
+      "id": "d0a0304f",
+      "image": "img/d0a0304f.png",
+      "image_sha": "e8ebd9b45d49400caadf1d013c5159920db7840a",
+      "url": "https://www.radiodos.com.ar/216300-ya-son-mas-de-75000-los-empleos-publicos-que-se-perdieron-bajo-la-gestion-de-milei",
+      "title": "Ya son más de 75.000 los empleos públicos que se perdieron bajo la gestión de Milei",
+      "volanta": "Plan motosierra",
+      "date": "2026-10-30T23:34:13+00:00"
+    },
     {
       "id": "50fddf89",
       "image": "img/50fddf89.png",
@@ -531,15 +540,6 @@
       "title": "Flávio Bolsonaro destacó la ayuda de Javier Milei para salir de Brasil: \"Gracias por su valentía y sentido de justicia\"",
       "volanta": "escándalo internacional",
       "date": "2026-10-28T22:13:48+00:00"
-    },
-    {
-      "id": "8a4951d5",
-      "image": "img/8a4951d5.png",
-      "image_sha": "9668c916f9aab23dc53e8ef3e0f34545faf6fa01",
-      "url": "https://www.radiodos.com.ar/216151-donde-quien-y-como-encontraron-el-cuerpo-de-nancy",
-      "title": "Dónde, quién y cómo encontraron el cuerpo de Nancy",
-      "volanta": "EL PEOR FINAL",
-      "date": "2026-10-28T21:45:51+00:00"
     }
   ]
 }
