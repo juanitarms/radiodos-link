@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T13:33:09+00:00",
+  "updated": "2026-10-30T14:07:51+00:00",
   "posts": [
+    {
+      "id": "821b6648",
+      "image": "img/821b6648.png",
+      "image_sha": "0c6420d518fd0022fad3e61ca2f792cc70e9eed0",
+      "url": "https://www.radiodos.com.ar/216276-arca-subasta-mas-de-medio-centenar-de-bicicletas-las-claves-para-participar",
+      "title": "ARCA subasta más de medio centenar de bicicletas: las claves para participar",
+      "volanta": "OPORTUNIDAD",
+      "date": "2026-10-30T14:07:51+00:00"
+    },
     {
       "id": "4d11caad",
       "image": "img/4d11caad.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: preso por llevarse el pizarrón de publicidad de un comercio",
       "volanta": "YA SE ROBAN CUALQUIER COSA",
       "date": "2026-10-28T12:45:26+00:00"
-    },
-    {
-      "id": "4d6fc833",
-      "image": "img/4d6fc833.png",
-      "image_sha": "65000cd2c71795be4e457c6262cb1fba4fb5cf72",
-      "url": "https://www.radiodos.com.ar/216108-chaco-prefectura-asistio-a-pobladores-de-la-isla-soto",
-      "title": "Chaco: Prefectura asistió a pobladores de la Isla Soto",
-      "volanta": "INUNDACIONES",
-      "date": "2026-10-28T12:18:37+00:00"
     }
   ]
 }
