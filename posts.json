@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T11:49:53+00:00",
+  "updated": "2026-10-30T12:17:26+00:00",
   "posts": [
+    {
+      "id": "da63fd95",
+      "image": "img/da63fd95.png",
+      "image_sha": "2b0c789c7a45bb3eba4f9f34d1486145f7943c18",
+      "url": "https://www.radiodos.com.ar/216247-jp-valdes-pidio-todo-el-peso-de-la-ley-por-el-femicidio-de-nanci-godoy",
+      "title": "JP Valdés pidió \"todo el peso de la ley\" por el femicidio de Nanci Godoy",
+      "volanta": "A TRAVES DE SUS REDES SOCIALES",
+      "date": "2026-10-30T12:17:26+00:00"
+    },
     {
       "id": "e21ee2f2",
       "image": "img/e21ee2f2.png",
@@ -531,15 +540,6 @@
       "title": "Oficial: Nicolás Ramírez dirigirá el Superclásico entre Boca y River en La Bombonera",
       "volanta": "Le cae bien a ambos equipos",
       "date": "2026-10-28T10:58:18+00:00"
-    },
-    {
-      "id": "8be39dc1",
-      "image": "img/8be39dc1.png",
-      "image_sha": "47a82334dc233b2000b818122721d39488415545",
-      "url": "https://www.radiodos.com.ar/216095-presentaron-los-proyectos-tecnicos-y-ambientales-para-las-obras-en-las-rutas-provinciales-27-y-68",
-      "title": "Presentaron los proyectos técnicos y ambientales para las obras en las Rutas Provinciales 27 y 68",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-27T22:48:21+00:00"
     }
   ]
 }
