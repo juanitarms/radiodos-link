@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31T12:34:32+00:00",
+  "updated": "2026-10-31T13:16:50+00:00",
   "posts": [
+    {
+      "id": "b6db79f1",
+      "image": "img/b6db79f1.png",
+      "image_sha": "a7f719dac663254e772cc7f093a50b173c4edad0",
+      "url": "https://www.radiodos.com.ar/216311-femicidio-de-nanci-el-hermano-de-una-de-las-detenidas-dio-datos-claves-y-confirmo-un-ataque-grupal",
+      "title": "Femicidio de Nanci: el hermano de una de las detenidas dio datos claves y confirmó \"un ataque grupal\"",
+      "volanta": "POR JUSTICIA",
+      "date": "2026-10-31T13:16:50+00:00"
+    },
     {
       "id": "8c582bb7",
       "image": "img/8c582bb7.png",
@@ -531,15 +540,6 @@
       "title": "Servicios y atenciones en las dependencias municipales para el próximo 2 de noviembre",
       "volanta": "CORRIENTES",
       "date": "2026-10-28T22:16:21+00:00"
-    },
-    {
-      "id": "58e1cb65",
-      "image": "img/58e1cb65.png",
-      "image_sha": "b2af3b34fec3040209a21fa45da8e9d63a6969e0",
-      "url": "https://www.radiodos.com.ar/216155-la-uba-otorgo-el-titulo-de-doctor-honoris-causa-al-papa-leon-xiv",
-      "title": "La UBA otorgó el título de Doctor Honoris Causa al Papa León XIV",
-      "volanta": "A 11 días de su visita",
-      "date": "2026-10-28T22:15:48+00:00"
     }
   ]
 }
