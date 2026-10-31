@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:36:16+00:00",
+  "updated": "2026-10-31T12:34:32+00:00",
   "posts": [
+    {
+      "id": "8c582bb7",
+      "image": "img/8c582bb7.png",
+      "image_sha": "cf860c4d5afb9ee2e10331a3f407091213710d08",
+      "url": "https://www.radiodos.com.ar/216308-j-p-valdes-superviso-obras-hidricas-estrategicas-en-san-luis-del-palmar-y-la-palmira",
+      "title": "J P Valdés supervisó obras hídricas estratégicas en San Luis del Palmar y La Palmira",
+      "volanta": "FENÓMENO DE EL NIÑO",
+      "date": "2026-10-31T12:34:32+00:00"
+    },
     {
       "id": "33503f3b",
       "image": "img/33503f3b.png",
@@ -531,15 +540,6 @@
       "title": "La UBA otorgó el título de Doctor Honoris Causa al Papa León XIV",
       "volanta": "A 11 días de su visita",
       "date": "2026-10-28T22:15:48+00:00"
-    },
-    {
-      "id": "18965dd7",
-      "image": "img/18965dd7.png",
-      "image_sha": "490e7da27b34df1fcd7782072cd546697dd1dd63",
-      "url": "https://www.radiodos.com.ar/216154-esquina-decreto-tres-dias-de-duelo-por-la-muerte-nancy-godoy",
-      "title": "Esquina decretó tres días de duelo por la muerte Nancy Godoy",
-      "volanta": "DOCENTE HALLADA MUERTA",
-      "date": "2026-10-28T22:14:24+00:00"
     }
   ]
 }
