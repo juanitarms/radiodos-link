@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T21:22:09+00:00",
+  "updated": "2026-11-01T21:45:11+00:00",
   "posts": [
+    {
+      "id": "e3407b4e",
+      "image": "img/e3407b4e.png",
+      "image_sha": "b3dfd372a43b94592fad47a5e9cb19de4400e843",
+      "url": "https://www.radiodos.com.ar/216356-torneo-clausura-para-arruabarrena-boca-aprovecho-la-expulsion-y-fueron-merecedores-del-triunfo",
+      "title": "Torneo Clausura: Para Arruabarrena, \"Boca aprovechó la expulsión y fueron merecedores del triunfo\"",
+      "volanta": "Superclásico",
+      "date": "2026-11-01T21:45:11+00:00"
+    },
     {
       "id": "06e54c7d",
       "image": "img/06e54c7d.png",
@@ -531,15 +540,6 @@
       "title": "La UBA distinguió al papa León XIV con el título de Doctor Honoris Causa Sociedad28 octubre 2026",
       "volanta": "Reconocimiento",
       "date": "2026-10-29T12:35:20+00:00"
-    },
-    {
-      "id": "bae02118",
-      "image": "img/bae02118.png",
-      "image_sha": "f4a0c9332b4185e579dadc80cff1d0f870c37959",
-      "url": "https://www.radiodos.com.ar/216175-investigan-la-presunta-venta-de-mercaderias-destinadas-a-familias-inundadas-en-corrientes",
-      "title": "Investigan la presunta venta de mercaderías destinadas a familias inundadas en Corrientes",
-      "volanta": "DEPLORABLE",
-      "date": "2026-10-29T12:20:23+00:00"
     }
   ]
 }
