@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T16:01:55+00:00",
+  "updated": "2026-11-01T16:02:37+00:00",
   "posts": [
+    {
+      "id": "74fe5d2a",
+      "image": "img/74fe5d2a.png",
+      "image_sha": "ebc75a0c3438b05dcbd94a9dbe5d62462fb8811c",
+      "url": "https://www.radiodos.com.ar/216351-dos-menores-resultaron-heridos-tras-un-choque-entre-un-auto-y-una-moto",
+      "title": "Dos menores resultaron heridos tras un choque entre un auto y una moto",
+      "volanta": "Monte Caseros",
+      "date": "2026-11-01T16:02:37+00:00"
+    },
     {
       "id": "bf058168",
       "image": "img/bf058168.png",
@@ -531,15 +540,6 @@
       "title": "Salió a hacer compras y murió repentinamente en una calle de Corrientes",
       "volanta": "ESTA MAÑANA",
       "date": "2026-10-29T11:51:41+00:00"
-    },
-    {
-      "id": "e065b817",
-      "image": "img/e065b817.png",
-      "image_sha": "6e1a7f91b25d2d4a23b6f73a68ea466f9b3d39ac",
-      "url": "https://www.radiodos.com.ar/216172-una-adolescente-de-16-anos-murio-tras-derrapar-con-su-moto-en-el-interior-de-corrientes",
-      "title": "Una adolescente de 16 años murió tras derrapar con su moto en el interior de Corrientes",
-      "volanta": "TRAGEDIA",
-      "date": "2026-10-29T11:34:34+00:00"
     }
   ]
 }
