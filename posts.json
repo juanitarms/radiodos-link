@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T16:02:37+00:00",
+  "updated": "2026-11-01T19:59:11+00:00",
   "posts": [
+    {
+      "id": "455e8916",
+      "image": "img/455e8916.png",
+      "image_sha": "39a97e16e80a244142f26d89ba9b08071de60fe1",
+      "url": "https://www.radiodos.com.ar/216354-torneo-clausura-boca-y-river-entregaran-un-superclasico-de-alta-intensidad-en-la-bombonera",
+      "title": "Torneo Clausura: Boca y River entregarán un Superclásico de alta intensidad en La Bombonera",
+      "volanta": "¡Se paraliza el país!",
+      "date": "2026-11-01T19:59:11+00:00"
+    },
     {
       "id": "74fe5d2a",
       "image": "img/74fe5d2a.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: motociclista herido tras ser arrollado por un camión",
       "volanta": "ANOCHE",
       "date": "2026-10-29T12:00:31+00:00"
-    },
-    {
-      "id": "6c13b122",
-      "image": "img/6c13b122.png",
-      "image_sha": "5b2a9c3e9dd2325d41938942189f2042509b99ce",
-      "url": "https://www.radiodos.com.ar/216173-salio-a-hacer-compras-y-murio-repentinamente-en-una-calle-de-corrientes",
-      "title": "Salió a hacer compras y murió repentinamente en una calle de Corrientes",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-10-29T11:51:41+00:00"
     }
   ]
 }
