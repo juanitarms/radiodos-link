@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T15:53:50+00:00",
+  "updated": "2026-11-01T16:01:55+00:00",
   "posts": [
+    {
+      "id": "bf058168",
+      "image": "img/bf058168.png",
+      "image_sha": "a83604c4f1402a7fc52fc1957baf4ca8bbd44f96",
+      "url": "https://www.radiodos.com.ar/216353-vischi-acompanamos-a-milei-cuando-las-medidas-benefician-a-corrientes",
+      "title": "Vischi: \"Acompañamos a Milei cuando las medidas benefician a Corrientes\"",
+      "volanta": "SENADOR NACIONAL",
+      "date": "2026-11-01T16:01:55+00:00"
+    },
     {
       "id": "5b0aebc0",
       "image": "img/5b0aebc0.png",
@@ -531,15 +540,6 @@
       "title": "Una adolescente de 16 años murió tras derrapar con su moto en el interior de Corrientes",
       "volanta": "TRAGEDIA",
       "date": "2026-10-29T11:34:34+00:00"
-    },
-    {
-      "id": "f36233cd",
-      "image": "img/f36233cd.png",
-      "image_sha": "c3ffb7431c52fa4eef85631bf08a86ab59dd29f2",
-      "url": "https://www.radiodos.com.ar/216168-comienza-la-autopsia-al-cuerpo-de-la-maestra-nancy-godoy-investigan-si-hubo-un-ataque-sexual",
-      "title": "Comienza la autopsia al cuerpo de la maestra Nancy Godoy: investigan si hubo un ataque sexual",
-      "volanta": "INSTITUTO MÉDICO FORENSE",
-      "date": "2026-10-29T10:58:43+00:00"
     }
   ]
 }
