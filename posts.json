@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T15:39:36+00:00",
+  "updated": "2026-11-01T15:53:50+00:00",
   "posts": [
+    {
+      "id": "5b0aebc0",
+      "image": "img/5b0aebc0.png",
+      "image_sha": "d644bc2210b295a7b692fb3f5a34f8ccf3592c8f",
+      "url": "https://www.radiodos.com.ar/216352-milei-convoco-a-la-clase-politica-a-la-recepcion-oficial-a-leon-xiv-en-el-palacio-libertad",
+      "title": "Milei convocó a la clase política a la recepción oficial a León XIV en el Palacio Libertad",
+      "volanta": "Satisfacción en el Vaticano",
+      "date": "2026-11-01T15:53:50+00:00"
+    },
     {
       "id": "5abe9b13",
       "image": "img/5abe9b13.png",
@@ -531,15 +540,6 @@
       "title": "Comienza la autopsia al cuerpo de la maestra Nancy Godoy: investigan si hubo un ataque sexual",
       "volanta": "INSTITUTO MÉDICO FORENSE",
       "date": "2026-10-29T10:58:43+00:00"
-    },
-    {
-      "id": "bae4e43e",
-      "image": "img/bae4e43e.png",
-      "image_sha": "1f3b7f9d6e8050f96f33ed60eab8666021a19c94",
-      "url": "https://www.radiodos.com.ar/216166-copa-argentina-platense-vencio-por-penales-en-salta-y-es-el-primer-finalista",
-      "title": "Copa Argentina: Platense venció por penales en Salta y es el primer finalista",
-      "volanta": "¡Histórico!",
-      "date": "2026-10-29T10:19:09+00:00"
     }
   ]
 }
