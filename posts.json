@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31T14:26:57+00:00",
+  "updated": "2026-11-01T15:16:18+00:00",
   "posts": [
+    {
+      "id": "839ccf4a",
+      "image": "img/839ccf4a.png",
+      "image_sha": "9974a44daf86925c9af30fb3dc397cbd943a4267",
+      "url": "https://www.radiodos.com.ar/216350-el-papa-leon-xiv-pidio-que-la-tregua-en-ucrania-impulse-nuevas-iniciativas-de-paz",
+      "title": "El papa León XIV pidió que la tregua en Ucrania impulse nuevas iniciativas de paz",
+      "volanta": "vaticano",
+      "date": "2026-11-01T15:16:18+00:00"
+    },
     {
       "id": "1fd0d6d0",
       "image": "img/1fd0d6d0.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Cambios en el fixture  por la Visita Papal",
       "volanta": "Entre el 4 y 6 de noviembre",
       "date": "2026-10-28T22:31:02+00:00"
-    },
-    {
-      "id": "2db24aad",
-      "image": "img/2db24aad.png",
-      "image_sha": "db349a5c88f573cf1631f31da718a29be6dd97b1",
-      "url": "https://www.radiodos.com.ar/216159-reconocido-fotografo-correntino-fallecio-tras-sufrir-un-siniestro-vial",
-      "title": "Reconocido fotÓgrafo correntino falleció tras sufrir un siniestro vial",
-      "volanta": "LAMENTABLE",
-      "date": "2026-10-28T22:18:11+00:00"
     }
   ]
 }
