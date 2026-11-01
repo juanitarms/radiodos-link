@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T19:59:11+00:00",
+  "updated": "2026-11-01T21:22:09+00:00",
   "posts": [
+    {
+      "id": "06e54c7d",
+      "image": "img/06e54c7d.png",
+      "image_sha": "6903524567e79ef17e440be22b2a3f1d01cd5b8a",
+      "url": "https://www.radiodos.com.ar/216355-comenzaron-las-evacuaciones-en-san-isidro-la-intendenta-vilma-ojeda-superviso-la-asistencia",
+      "title": "Comenzaron las evacuaciones en San Isidro: la intendenta Vilma Ojeda supervisó la asistencia",
+      "volanta": "Crecida del río Paraná",
+      "date": "2026-11-01T21:22:09+00:00"
+    },
     {
       "id": "455e8916",
       "image": "img/455e8916.png",
@@ -531,15 +540,6 @@
       "title": "Investigan la presunta venta de mercaderías destinadas a familias inundadas en Corrientes",
       "volanta": "DEPLORABLE",
       "date": "2026-10-29T12:20:23+00:00"
-    },
-    {
-      "id": "dc8d216f",
-      "image": "img/dc8d216f.png",
-      "image_sha": "f24eee94f4aa3ae9996497d0e153b02c912dbf07",
-      "url": "https://www.radiodos.com.ar/216174-corrientes-motociclista-herido-tras-ser-arrollado-por-un-camion",
-      "title": "Corrientes: motociclista herido tras ser arrollado por un camión",
-      "volanta": "ANOCHE",
-      "date": "2026-10-29T12:00:31+00:00"
     }
   ]
 }
