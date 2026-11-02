@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T14:12:11+00:00",
+  "updated": "2026-11-02T14:51:56+00:00",
   "posts": [
+    {
+      "id": "466e7f5f",
+      "image": "img/466e7f5f.png",
+      "image_sha": "f623dedb807791fb595994a548ce3d255c01c78e",
+      "url": "https://www.radiodos.com.ar/216385-el-jefe-de-pami-de-mburucuya-demorado-junto-a-otros-dos-hombres-por-un-robo",
+      "title": "El jefe de PAMI de Mburucuyá demorado junto a otros dos hombres por un robo",
+      "volanta": "EL DINERO FUE RECUPERADO",
+      "date": "2026-11-02T14:51:56+00:00"
+    },
     {
       "id": "db417e8a",
       "image": "img/db417e8a.png",
@@ -531,15 +540,6 @@
       "title": "Identifican que las distintas especies de termitas de la región tienen dietas propias",
       "volanta": "PUBLICACIÓN EN REVISTA INTERNACIONAL",
       "date": "2026-10-29T18:10:48+00:00"
-    },
-    {
-      "id": "932dba79",
-      "image": "img/932dba79.png",
-      "image_sha": "1e04ac3fff37dad3783ba3acada3b4eed2381be0",
-      "url": "https://www.radiodos.com.ar/216223-todo-listo-para-el-show-de-tan-bionica-en-corrientes",
-      "title": "Todo listo para el show de Tan Biónica en Corrientes",
-      "volanta": "IMPERDIBLE",
-      "date": "2026-10-29T18:10:02+00:00"
     }
   ]
 }
