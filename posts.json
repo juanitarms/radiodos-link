@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T13:49:58+00:00",
+  "updated": "2026-11-02T14:12:11+00:00",
   "posts": [
+    {
+      "id": "db417e8a",
+      "image": "img/db417e8a.png",
+      "image_sha": "a1e71d2e022fdbf30e8e6b64fd9cd21f6bd99b58",
+      "url": "https://www.radiodos.com.ar/216401-alerta-sanitaria-en-ezeiza-por-pasajeros-intoxicados-de-donde-venian",
+      "title": "Alerta sanitaria en Ezeiza por pasajeros intoxicados: ¿de dónde venían?",
+      "volanta": "RÁPIDO ACCIONAR",
+      "date": "2026-11-02T14:12:11+00:00"
+    },
     {
       "id": "6007b7f7",
       "image": "img/6007b7f7.png",
@@ -531,15 +540,6 @@
       "title": "Todo listo para el show de Tan Biónica en Corrientes",
       "volanta": "IMPERDIBLE",
       "date": "2026-10-29T18:10:02+00:00"
-    },
-    {
-      "id": "a4479617",
-      "image": "img/a4479617.png",
-      "image_sha": "22f58822a95972606c39c70e00b31fd39be19ce6",
-      "url": "https://www.radiodos.com.ar/216213-caso-nanci-estela-godoy-informaran-a-la-familia-las-causales-de-la-muerte-de-la-maestra",
-      "title": "Caso Nanci Estela Godoy: informarán a la familia las causales de la muerte de la maestra",
-      "volanta": "ESQUINA",
-      "date": "2026-10-29T16:52:22+00:00"
     }
   ]
 }
