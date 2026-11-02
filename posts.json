@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T22:10:21+00:00",
+  "updated": "2026-11-02T22:10:59+00:00",
   "posts": [
+    {
+      "id": "025611a9",
+      "image": "img/025611a9.png",
+      "image_sha": "13e5c14fa797edc80039402ad748f54d8e2b29a0",
+      "url": "https://www.radiodos.com.ar/216421-se-confirmaron-los-horarios-de-las-finales-de-las-copas-libertadores-y-sudamericana",
+      "title": "Se confirmaron los horarios de las finales de las copas Libertadores y Sudamericana",
+      "volanta": "En Montevideo y en Barranquilla",
+      "date": "2026-11-02T22:10:59+00:00"
+    },
     {
       "id": "c9a4b89e",
       "image": "img/c9a4b89e.png",
@@ -531,15 +540,6 @@
       "title": "Boca Unidos dio a conocer un comunicado tras la dura sanción",
       "volanta": "FEDERAL A",
       "date": "2026-10-29T22:40:16+00:00"
-    },
-    {
-      "id": "ed44ead3",
-      "image": "img/ed44ead3.png",
-      "image_sha": "08eb526e3f86d90742361788a1affdc8e2183fdd",
-      "url": "https://www.radiodos.com.ar/216241-analizan-bloquear-ruta-comercial-chilena-a-malvinas-y-en-chile-hablan-de-conflicto-innecesario",
-      "title": "Analizan bloquear ruta comercial chilena a Malvinas y en Chile hablan de \"conflicto innecesario\"",
-      "volanta": "Diolomacia en crisis",
-      "date": "2026-10-29T22:39:38+00:00"
     }
   ]
 }
