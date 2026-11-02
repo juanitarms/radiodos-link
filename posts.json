@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T11:51:33+00:00",
+  "updated": "2026-11-02T12:33:39+00:00",
   "posts": [
+    {
+      "id": "409f9d89",
+      "image": "img/409f9d89.png",
+      "image_sha": "a03723bcae171e95199e1159b062727c53b2d424",
+      "url": "https://www.radiodos.com.ar/216379-diego-vadell-fue-presentado-oficialmente-como-entrenador-de-san-martin",
+      "title": "Diego Vadell fue presentado oficialmente como entrenador de San Martín",
+      "volanta": "NUEVA ETAPA",
+      "date": "2026-11-02T12:33:39+00:00"
+    },
     {
       "id": "d9a934a6",
       "image": "img/d9a934a6.png",
@@ -531,15 +540,6 @@
       "title": "El Presupuesto 2027 comenzó su tratamiento en el Senado provincial",
       "volanta": "14° SESIÓN ORDINARIA",
       "date": "2026-10-29T16:51:10+00:00"
-    },
-    {
-      "id": "740866b9",
-      "image": "img/740866b9.png",
-      "image_sha": "3fc0e69d611c31285e70df097b3f94f65bd7a879",
-      "url": "https://www.radiodos.com.ar/216216-el-colegio-de-abogados-se-reunio-con-el-presidente-del-superior-tribunal-de-justicia-para-abordar-temas-claves-para-la-abogacia-correntina",
-      "title": "El Colegio de Abogados se reunió con el presidente del Superior Tribunal de Justicia para abordar temas claves para la abogacía correntina",
-      "volanta": "COMUNICADO DE PRENSA N°86",
-      "date": "2026-10-29T16:50:34+00:00"
     }
   ]
 }
