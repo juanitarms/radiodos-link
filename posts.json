@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T11:19:03+00:00",
+  "updated": "2026-11-02T11:51:33+00:00",
   "posts": [
+    {
+      "id": "d9a934a6",
+      "image": "img/d9a934a6.png",
+      "image_sha": "e6ee403b8137c6e2c92850d381c178c2085ea510",
+      "url": "https://www.radiodos.com.ar/216374-femicidio-despediran-con-un-homenaje-a-nancy-godoy-en-una-plaza-de-esquina",
+      "title": "Femicidio: despedirán con un homenaje a Nancy Godoy en una plaza de Esquina",
+      "volanta": "EL MIÉRCOLES",
+      "date": "2026-11-02T11:51:33+00:00"
+    },
     {
       "id": "3604e121",
       "image": "img/3604e121.png",
@@ -531,15 +540,6 @@
       "title": "El Colegio de Abogados se reunió con el presidente del Superior Tribunal de Justicia para abordar temas claves para la abogacía correntina",
       "volanta": "COMUNICADO DE PRENSA N°86",
       "date": "2026-10-29T16:50:34+00:00"
-    },
-    {
-      "id": "a1cceee5",
-      "image": "img/a1cceee5.png",
-      "image_sha": "20aa4399f837738620b5f3f4540a0f791f881b0a",
-      "url": "https://www.radiodos.com.ar/216209-damian-betular-deja-masterchef-celebrity-los-motivos-de-su-salida-y-quienes-suenan-para-reemplazarlo",
-      "title": "Damián Betular deja MasterChef Celebrity: los motivos de su salida y quiénes suenan para reemplazarlo",
-      "volanta": "Mala noticia",
-      "date": "2026-10-29T15:02:20+00:00"
     }
   ]
 }
