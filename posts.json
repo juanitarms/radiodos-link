@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T20:52:02+00:00",
+  "updated": "2026-11-02T22:10:21+00:00",
   "posts": [
+    {
+      "id": "c9a4b89e",
+      "image": "img/c9a4b89e.png",
+      "image_sha": "f4b882ae673e7c5cd7586dba44c96d5811558fa9",
+      "url": "https://www.radiodos.com.ar/216423-el-correntino-leo-jara-denuncio-una-multimillonaria-estafa-inmobiliaria-en-estados-unidos",
+      "title": "El correntino Leo Jara denunció una multimillonaria estafa inmobiliaria en Estados Unidos",
+      "volanta": "ESCÁNDALO",
+      "date": "2026-11-02T22:10:21+00:00"
+    },
     {
       "id": "ca2558c9",
       "image": "img/ca2558c9.png",
@@ -531,15 +540,6 @@
       "title": "Analizan bloquear ruta comercial chilena a Malvinas y en Chile hablan de \"conflicto innecesario\"",
       "volanta": "Diolomacia en crisis",
       "date": "2026-10-29T22:39:38+00:00"
-    },
-    {
-      "id": "b793a313",
-      "image": "img/b793a313.png",
-      "image_sha": "162c83c84f3010cadca245ae3e66e86d8d565eb4",
-      "url": "https://www.radiodos.com.ar/216236-confirmaron-la-muerte-de-agustin-randazzo-el-argentino-que-estaba-desaparecido-tras-el-choque-de-trenes-en-espana",
-      "title": "Confirmaron la muerte de Agustín Randazzo, el argentino que estaba desaparecido tras el choque de trenes en España",
-      "volanta": "TOLEDO",
-      "date": "2026-10-29T22:39:01+00:00"
     }
   ]
 }
