@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T20:51:18+00:00",
+  "updated": "2026-11-02T20:52:02+00:00",
   "posts": [
+    {
+      "id": "ca2558c9",
+      "image": "img/ca2558c9.png",
+      "image_sha": "b1086804e65322bd09c1d1c6b4f67b4dfac1c26d",
+      "url": "https://www.radiodos.com.ar/216420-donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-2027",
+      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones 2027",
+      "volanta": "COMICIOS ELECTORALES",
+      "date": "2026-11-02T20:52:02+00:00"
+    },
     {
       "id": "f2723726",
       "image": "img/f2723726.png",
@@ -531,15 +540,6 @@
       "title": "Confirmaron la muerte de Agustín Randazzo, el argentino que estaba desaparecido tras el choque de trenes en España",
       "volanta": "TOLEDO",
       "date": "2026-10-29T22:39:01+00:00"
-    },
-    {
-      "id": "31b50311",
-      "image": "img/31b50311.png",
-      "image_sha": "10f1eaacd6743c30adcd3f3a2d5665ddc060630b",
-      "url": "https://www.radiodos.com.ar/216238-tras-incidentes-del-domingo-eliminaron-a-boca-unidos-del-federal-a",
-      "title": "Tras incidentes del domingo, eliminaron a Boca Unidos del Federal A",
-      "volanta": "GRAVE",
-      "date": "2026-10-29T22:20:54+00:00"
     }
   ]
 }
