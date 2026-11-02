@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T11:06:21+00:00",
+  "updated": "2026-11-02T11:19:03+00:00",
   "posts": [
+    {
+      "id": "3604e121",
+      "image": "img/3604e121.png",
+      "image_sha": "fe27ed82756a340f8e0353cb6704d756540fa031",
+      "url": "https://www.radiodos.com.ar/216372-mas-de-1600-personas-dejaron-sus-hogares-en-corrientes-por-el-fenomeno-del-nino",
+      "title": "Más de 1600 personas dejaron sus hogares en Corrientes por el fenómeno del Niño",
+      "volanta": "INUNDACIONES",
+      "date": "2026-11-02T11:19:03+00:00"
+    },
     {
       "id": "6303f927",
       "image": "img/6303f927.png",
@@ -531,15 +540,6 @@
       "title": "Damián Betular deja MasterChef Celebrity: los motivos de su salida y quiénes suenan para reemplazarlo",
       "volanta": "Mala noticia",
       "date": "2026-10-29T15:02:20+00:00"
-    },
-    {
-      "id": "7fc52591",
-      "image": "img/7fc52591.png",
-      "image_sha": "e541b2a8a0a86af7aadb1f0bae9fbbdde63dc09e",
-      "url": "https://www.radiodos.com.ar/216208-chaco-pagara-un-refuerzo-de-hasta-100000-a-activos-y-jubilados-en-diciembre",
-      "title": "Chaco pagará un refuerzo de hasta $ 100.000 a activos y jubilados en diciembre",
-      "volanta": "POR ÚNICA VEZ",
-      "date": "2026-10-29T14:43:19+00:00"
     }
   ]
 }
