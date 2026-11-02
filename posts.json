@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T19:06:49+00:00",
+  "updated": "2026-11-02T19:07:28+00:00",
   "posts": [
+    {
+      "id": "49c3e5a6",
+      "image": "img/49c3e5a6.png",
+      "image_sha": "a59566af8af6346dd03bbc4f5c3998dd745c8a84",
+      "url": "https://www.radiodos.com.ar/216415-donde-voto-ya-se-puede-consultar-el-padron-electoral-provisorio-para-las-presidenciales-del-proximo-ano",
+      "title": "Dónde voto: ya se puede consultar el padrón electoral provisorio para las presidenciales del próximo año",
+      "volanta": "ELECCIONES 2027",
+      "date": "2026-11-02T19:07:28+00:00"
+    },
     {
       "id": "b26afcb6",
       "image": "img/b26afcb6.png",
@@ -531,15 +540,6 @@
       "title": "Córdoba marchó por Nancy Godoy: \"No puede seguir habiendo femicidios\"",
       "volanta": "Reclamo a nivel nacional",
       "date": "2026-10-29T20:49:38+00:00"
-    },
-    {
-      "id": "731c5646",
-      "image": "img/731c5646.png",
-      "image_sha": "1c9461786c7acc6dd30380e1b5a8680372dc8825",
-      "url": "https://www.radiodos.com.ar/216228-jp-valdes-participo-de-la-cumbre-empresarial-del-rigi-en-rosario",
-      "title": "JP Valdés participó de la cumbre empresarial del RIGI en Rosario",
-      "volanta": "CON KARINA MILEI",
-      "date": "2026-10-29T20:47:05+00:00"
     }
   ]
 }
