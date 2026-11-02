@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T21:45:11+00:00",
+  "updated": "2026-11-02T10:18:38+00:00",
   "posts": [
+    {
+      "id": "2872b6e6",
+      "image": "img/2872b6e6.png",
+      "image_sha": "4bc14894b44e13ecf3330b8092b86b6bba16b618",
+      "url": "https://www.radiodos.com.ar/216367-corrientes-alerta-por-tormentas-en-el-norte-de-la-provincia",
+      "title": "Corrientes: alerta por tormentas en el norte de la provincia",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-11-02T10:18:38+00:00"
+    },
     {
       "id": "e3407b4e",
       "image": "img/e3407b4e.png",
@@ -531,15 +540,6 @@
       "title": "Milei incumple otro fallo judicial y da de baja casi 22 mil pensiones por invalidez",
       "volanta": "Ajuste en Discapacidad",
       "date": "2026-10-29T13:03:12+00:00"
-    },
-    {
-      "id": "3da2fbbe",
-      "image": "img/3da2fbbe.png",
-      "image_sha": "114286af8408919206599b43434c565ad593eeb9",
-      "url": "https://www.radiodos.com.ar/216184-la-uba-distinguio-al-papa-leon-xiv-con-el-titulo-de-doctor-honoris-causa-sociedad28-octubre-2026",
-      "title": "La UBA distinguió al papa León XIV con el título de Doctor Honoris Causa Sociedad28 octubre 2026",
-      "volanta": "Reconocimiento",
-      "date": "2026-10-29T12:35:20+00:00"
     }
   ]
 }
