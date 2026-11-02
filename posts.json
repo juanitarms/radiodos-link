@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T19:07:28+00:00",
+  "updated": "2026-11-02T20:44:58+00:00",
   "posts": [
+    {
+      "id": "b26831ad",
+      "image": "img/b26831ad.png",
+      "image_sha": "d85aeb244dd4bba1ac6f8c9b927f0c3c02f73afa",
+      "url": "https://www.radiodos.com.ar/216419-yacyreta-mantiene-interrumpido-el-paso-entre-argentina-y-paraguay",
+      "title": "Yacyretá mantiene interrumpido el paso entre Argentina y Paraguay",
+      "volanta": "CRECIDA DEL RÍO",
+      "date": "2026-11-02T20:44:58+00:00"
+    },
     {
       "id": "49c3e5a6",
       "image": "img/49c3e5a6.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Nacionales Evita 2026: Corrientes viste a sus deportistas y ultima detalles para competir en Mar del Plata",
       "volanta": "DEPORTE",
       "date": "2026-10-29T21:23:18+00:00"
-    },
-    {
-      "id": "7e90cc3e",
-      "image": "img/7e90cc3e.png",
-      "image_sha": "fa444d6ec3e90e54c7e33bcfe266215362631c9a",
-      "url": "https://www.radiodos.com.ar/216231-cordoba-marcho-por-nancy-godoy-no-puede-seguir-habiendo-femicidios",
-      "title": "Córdoba marchó por Nancy Godoy: \"No puede seguir habiendo femicidios\"",
-      "volanta": "Reclamo a nivel nacional",
-      "date": "2026-10-29T20:49:38+00:00"
     }
   ]
 }
