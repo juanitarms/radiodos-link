@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T16:26:36+00:00",
+  "updated": "2026-11-02T16:27:11+00:00",
   "posts": [
+    {
+      "id": "c95d3ee7",
+      "image": "img/c95d3ee7.png",
+      "image_sha": "ae21602861171f25f1568922114a68211060ef39",
+      "url": "https://www.radiodos.com.ar/216409-productos-frescos-artesanias-y-sabores-regionales-las-ferias-de-la-ciudad-llegan-a-nuevos-dias-de-noviembre",
+      "title": "Productos frescos, artesanías y sabores regionales: las Ferias de la Ciudad llegan a nuevos días de noviembre",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-11-02T16:27:11+00:00"
+    },
     {
       "id": "b9ed91a1",
       "image": "img/b9ed91a1.png",
@@ -531,15 +540,6 @@
       "title": "La fiscalía desestimó la denuncia por el ingreso de Flávio Bolsonaro al país",
       "volanta": "Polémica internacional",
       "date": "2026-10-29T20:22:46+00:00"
-    },
-    {
-      "id": "cf71ed96",
-      "image": "img/cf71ed96.png",
-      "image_sha": "6ad94949ce392e2909d9e0790b045d01e15ffe5f",
-      "url": "https://www.radiodos.com.ar/216222-la-liga-profesional-aprobo-el-nuevo-formato-para-2027-river-fue-el-unico-en-oponerse",
-      "title": "La Liga Profesional aprobó el nuevo formato para 2027: River fue el único en oponerse",
-      "volanta": "FÚTBOL",
-      "date": "2026-10-29T19:01:28+00:00"
     }
   ]
 }
