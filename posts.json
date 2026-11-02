@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T12:33:39+00:00",
+  "updated": "2026-11-02T13:16:40+00:00",
   "posts": [
+    {
+      "id": "d4c2aadd",
+      "image": "img/d4c2aadd.png",
+      "image_sha": "baac8fd981076bb9604c8c911a8260873b469ad4",
+      "url": "https://www.radiodos.com.ar/216387-leonardo-ponzio-exploto-tras-el-superclasico-el-var-interfiere-solo-en-contra-nuestro",
+      "title": "Leonardo Ponzio explotó tras el Superclásico: \"El VAR interfiere solo en contra nuestro\"",
+      "volanta": "POLÉMICO",
+      "date": "2026-11-02T13:16:40+00:00"
+    },
     {
       "id": "409f9d89",
       "image": "img/409f9d89.png",
@@ -531,15 +540,6 @@
       "title": "Alerta por una falsa leche para bebé que se vendía en supermercados y contiene una toxina peligrosa",
       "volanta": "BUENOS AIRES",
       "date": "2026-10-29T16:51:45+00:00"
-    },
-    {
-      "id": "fc9411e5",
-      "image": "img/fc9411e5.png",
-      "image_sha": "916bf2701185c67cf3018503d058eb9e71b0dcb2",
-      "url": "https://www.radiodos.com.ar/216218-el-presupuesto-2027-comenzo-su-tratamiento-en-el-senado-provincial",
-      "title": "El Presupuesto 2027 comenzó su tratamiento en el Senado provincial",
-      "volanta": "14° SESIÓN ORDINARIA",
-      "date": "2026-10-29T16:51:10+00:00"
     }
   ]
 }
