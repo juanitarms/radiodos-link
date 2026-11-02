@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T16:27:11+00:00",
+  "updated": "2026-11-02T18:07:19+00:00",
   "posts": [
+    {
+      "id": "71df6c8f",
+      "image": "img/71df6c8f.png",
+      "image_sha": "09690215b81710f79eb3f2ea5d59f1cd7a34e1f3",
+      "url": "https://www.radiodos.com.ar/216417-con-el-uso-de-aceites-esenciales-buscan-alternativas-agroecologicas-para-el-control-de-patogenos-en-cultivos-horticolas",
+      "title": "Con el uso de aceites esenciales, buscan alternativas agroecológicas para el control de patógenos en cultivos hortícolas",
+      "volanta": "BIOTECNOLOGÍA AGRARIA",
+      "date": "2026-11-02T18:07:19+00:00"
+    },
     {
       "id": "c95d3ee7",
       "image": "img/c95d3ee7.png",
@@ -531,15 +540,6 @@
       "title": "Caso Chirino: la Corte dejó firmes las condenas por el \"ritual de iniciación\" fatal",
       "volanta": "Fallo judicial",
       "date": "2026-10-29T20:45:47+00:00"
-    },
-    {
-      "id": "c8ab2eb8",
-      "image": "img/c8ab2eb8.png",
-      "image_sha": "1ad1cebb0b10deea7692652164b5f8acf0e9a735",
-      "url": "https://www.radiodos.com.ar/216227-la-fiscalia-desestimo-la-denuncia-por-el-ingreso-de-flavio-bolsonaro-al-pais",
-      "title": "La fiscalía desestimó la denuncia por el ingreso de Flávio Bolsonaro al país",
-      "volanta": "Polémica internacional",
-      "date": "2026-10-29T20:22:46+00:00"
     }
   ]
 }
