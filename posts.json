@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T18:07:19+00:00",
+  "updated": "2026-11-02T18:07:56+00:00",
   "posts": [
+    {
+      "id": "f3f221b3",
+      "image": "img/f3f221b3.png",
+      "image_sha": "0a7f53f4e6ab6b4d49bc14fae888cd7a4ed9e1c4",
+      "url": "https://www.radiodos.com.ar/216418-comenzo-el-juicio-contra-la-toretto-hablo-y-le-pidio-disculpas-a-la-familia-de-walter-armand",
+      "title": "Comenzó el juicio contra \"La Toretto\": habló y le pidió disculpas a la familia de Walter Armand",
+      "volanta": "DEBATE",
+      "date": "2026-11-02T18:07:56+00:00"
+    },
     {
       "id": "71df6c8f",
       "image": "img/71df6c8f.png",
@@ -531,15 +540,6 @@
       "title": "El Concejo capitalino analiza la adhesión a la emergencia hídrica y climática",
       "volanta": "Fenómeno de El Niño",
       "date": "2026-10-29T20:46:27+00:00"
-    },
-    {
-      "id": "d7012d51",
-      "image": "img/d7012d51.png",
-      "image_sha": "93af335a89da16ef75ac3903f4e3f9057762efc4",
-      "url": "https://www.radiodos.com.ar/216230-caso-chirino-la-corte-dejo-firmes-las-condenas-por-el-ritual-de-iniciacion-fatal",
-      "title": "Caso Chirino: la Corte dejó firmes las condenas por el \"ritual de iniciación\" fatal",
-      "volanta": "Fallo judicial",
-      "date": "2026-10-29T20:45:47+00:00"
     }
   ]
 }
