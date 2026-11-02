@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T10:36:38+00:00",
+  "updated": "2026-11-02T11:04:40+00:00",
   "posts": [
+    {
+      "id": "2b9bcd87",
+      "image": "img/2b9bcd87.png",
+      "image_sha": "e7ee51ff010a0a0b26e2cbaa2521b1cea4db2afc",
+      "url": "https://www.radiodos.com.ar/216365-f1-franco-colapinto-fue-sancionado-en-el-gp-de-mexico-y-se-quedo-sin-puntos",
+      "title": "F1: Franco Colapinto fue sancionado en el GP de México y se quedó sin puntos",
+      "volanta": "Por bajar la velocidad ante una bandera amarilla",
+      "date": "2026-11-02T11:04:40+00:00"
+    },
     {
       "id": "dae254e6",
       "image": "img/dae254e6.png",
@@ -531,15 +540,6 @@
       "title": "Juan Carlos Pallarols confecciona el Cáliz de la Paz para el papa León XIV con plata y municiones de Malvinas",
       "volanta": "Presente",
       "date": "2026-10-29T14:02:19+00:00"
-    },
-    {
-      "id": "2fede035",
-      "image": "img/2fede035.png",
-      "image_sha": "4fab129f074b0c30f0efc555d0211e596b5becb2",
-      "url": "https://www.radiodos.com.ar/216197-tragedia-en-espana-los-audios-entre-el-controlador-y-los-maquinistas-de-los-trenes-que-chocaron-en-toledo",
-      "title": "Tragedia en España: los audios entre el controlador y los maquinistas de los trenes que chocaron en Toledo",
-      "volanta": "Investigación abierta",
-      "date": "2026-10-29T13:41:07+00:00"
     }
   ]
 }
