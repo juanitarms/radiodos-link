@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T14:51:56+00:00",
+  "updated": "2026-11-02T16:25:55+00:00",
   "posts": [
+    {
+      "id": "e5d3f862",
+      "image": "img/e5d3f862.png",
+      "image_sha": "c1564c5203bdec0ca62d5688b929dfdd79ce2e22",
+      "url": "https://www.radiodos.com.ar/216411-dayon-griffin-llega-a-regatas-en-lugar-de-stone",
+      "title": "Dayon Griffin llega a Regatas en lugar de Stone",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-11-02T16:25:55+00:00"
+    },
     {
       "id": "466e7f5f",
       "image": "img/466e7f5f.png",
@@ -531,15 +540,6 @@
       "title": "La Muni en tu barrio iniciará su recorrido de noviembre en el Universitario",
       "volanta": "RECORRIDA EN LA CIUDAD",
       "date": "2026-10-29T19:00:44+00:00"
-    },
-    {
-      "id": "acc76a14",
-      "image": "img/acc76a14.png",
-      "image_sha": "99fbe1b2cbcff0610b5661640896295d159f4b1f",
-      "url": "https://www.radiodos.com.ar/216220-identifican-que-las-distintas-especies-de-termitas-de-la-region-tienen-dietas-propias",
-      "title": "Identifican que las distintas especies de termitas de la región tienen dietas propias",
-      "volanta": "PUBLICACIÓN EN REVISTA INTERNACIONAL",
-      "date": "2026-10-29T18:10:48+00:00"
     }
   ]
 }
