@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T18:07:56+00:00",
+  "updated": "2026-11-02T19:06:49+00:00",
   "posts": [
+    {
+      "id": "b26afcb6",
+      "image": "img/b26afcb6.png",
+      "image_sha": "6f1bd976c66075f161e2fbed5e5dd317dea8ad9d",
+      "url": "https://www.radiodos.com.ar/216416-rescatan-a-un-yacare-que-aparecio-en-la-ruta-y-lo-devuelven-a-su-habitat-natural",
+      "title": "Rescatan a un yacaré que apareció en la ruta y lo devuelven a su hábitat natural",
+      "volanta": "SAN COSME",
+      "date": "2026-11-02T19:06:49+00:00"
+    },
     {
       "id": "f3f221b3",
       "image": "img/f3f221b3.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés participó de la cumbre empresarial del RIGI en Rosario",
       "volanta": "CON KARINA MILEI",
       "date": "2026-10-29T20:47:05+00:00"
-    },
-    {
-      "id": "aa613122",
-      "image": "img/aa613122.png",
-      "image_sha": "47ebcdb439c5dfc3750208ff550d238b3f2437cd",
-      "url": "https://www.radiodos.com.ar/216229-el-concejo-capitalino-analiza-la-adhesion-a-la-emergencia-hidrica-y-climatica",
-      "title": "El Concejo capitalino analiza la adhesión a la emergencia hídrica y climática",
-      "volanta": "Fenómeno de El Niño",
-      "date": "2026-10-29T20:46:27+00:00"
     }
   ]
 }
