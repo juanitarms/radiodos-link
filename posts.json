@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T11:04:40+00:00",
+  "updated": "2026-11-02T11:06:21+00:00",
   "posts": [
+    {
+      "id": "6303f927",
+      "image": "img/6303f927.png",
+      "image_sha": "93af84bddc2c3b9bf24de359db00760a037a0113",
+      "url": "https://www.radiodos.com.ar/216370-horror-en-chaco-por-presunta-masacre-familiar-murieron-una-joven-y-cuatro-ninos",
+      "title": "Horror en Chaco por presunta masacre familiar: murieron una joven y cuatro niños",
+      "volanta": "UN HOMBRE DETENIDO",
+      "date": "2026-11-02T11:06:21+00:00"
+    },
     {
       "id": "2b9bcd87",
       "image": "img/2b9bcd87.png",
@@ -531,15 +540,6 @@
       "title": "Chaco pagará un refuerzo de hasta $ 100.000 a activos y jubilados en diciembre",
       "volanta": "POR ÚNICA VEZ",
       "date": "2026-10-29T14:43:19+00:00"
-    },
-    {
-      "id": "2f79f40c",
-      "image": "img/2f79f40c.png",
-      "image_sha": "a05c77e9de85d0a2607a933d866742d05c8caa0e",
-      "url": "https://www.radiodos.com.ar/216196-juan-carlos-pallarols-confecciona-el-caliz-de-la-paz-para-el-papa-leon-xiv-con-plata-y-municiones-de-malvinas",
-      "title": "Juan Carlos Pallarols confecciona el Cáliz de la Paz para el papa León XIV con plata y municiones de Malvinas",
-      "volanta": "Presente",
-      "date": "2026-10-29T14:02:19+00:00"
     }
   ]
 }
