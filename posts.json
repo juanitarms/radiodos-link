@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T18:03:00+00:00",
+  "updated": "2026-11-03T18:52:29+00:00",
   "posts": [
+    {
+      "id": "36b83fd6",
+      "image": "img/36b83fd6.png",
+      "image_sha": "90eb09a0bfda76ea003a6e682ea43f4314e67027",
+      "url": "https://www.radiodos.com.ar/216477-came-destaca-la-suspension-de-embargos-a-las-pymes",
+      "title": "CAME destaca la suspensión de embargos a las pymes",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-11-03T18:52:29+00:00"
+    },
     {
       "id": "656fb21c",
       "image": "img/656fb21c.png",
@@ -531,15 +540,6 @@
       "title": "ARCA prorrogó una vez más el plazo para la presentación de la declaración de Ganancias de 2025",
       "volanta": "NOVEDAD",
       "date": "2026-10-30T18:10:31+00:00"
-    },
-    {
-      "id": "c82e95f0",
-      "image": "img/c82e95f0.png",
-      "image_sha": "70ae18192a52fa71c92879db1c800211db384a73",
-      "url": "https://www.radiodos.com.ar/216288-arranca-un-nuevo-juicio-por-el-femicidio-de-micaela-garcia",
-      "title": "Arranca un nuevo juicio por el femicidio de Micaela García",
-      "volanta": "Entre Ríos",
-      "date": "2026-10-30T18:09:52+00:00"
     }
   ]
 }
