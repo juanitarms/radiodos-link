@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T11:14:47+00:00",
+  "updated": "2026-11-03T11:44:25+00:00",
   "posts": [
+    {
+      "id": "e892dbcf",
+      "image": "img/e892dbcf.png",
+      "image_sha": "4a9645dddd0df0d325e5fd8be50f12b25f2403ab",
+      "url": "https://www.radiodos.com.ar/216440-el-poder-judicial-de-corrientes-trabajara-a-reglamento-en-reclamo-de-mejoras-salariales",
+      "title": "El Poder Judicial de Corrientes trabajará a reglamento en reclamo de mejoras salariales",
+      "volanta": "RECLAMO",
+      "date": "2026-11-03T11:44:25+00:00"
+    },
     {
       "id": "ea7e7c08",
       "image": "img/ea7e7c08.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés pidió \"todo el peso de la ley\" por el femicidio de Nanci Godoy",
       "volanta": "A TRAVES DE SUS REDES SOCIALES",
       "date": "2026-10-30T12:17:26+00:00"
-    },
-    {
-      "id": "e21ee2f2",
-      "image": "img/e21ee2f2.png",
-      "image_sha": "97d0b69b9a654ea4468235d4741b723b6293bd45",
-      "url": "https://www.radiodos.com.ar/216248-nacion-le-va-a-dar-mas-subsidios-a-las-empresas-de-transporte-en-caba-y-amba",
-      "title": "Nación le va a dar más subsidios a las empresas de transporte en CABA y AMBA",
-      "volanta": "MEDIDA PARA ALGUNOS",
-      "date": "2026-10-30T11:49:53+00:00"
     }
   ]
 }
