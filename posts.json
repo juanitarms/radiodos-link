@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T21:05:07+00:00",
+  "updated": "2026-11-03T21:05:50+00:00",
   "posts": [
+    {
+      "id": "52d36ced",
+      "image": "img/52d36ced.png",
+      "image_sha": "3331d9890b6ddebef53866b618ab1b61c59910c2",
+      "url": "https://www.radiodos.com.ar/216485-hallan-a-181-kilometros-de-distancia-un-caballo-a-que-habia-sido-robado-en-julio",
+      "title": "Hallan a 181 kilómetros de distancia un caballo a que había sido robado en julio",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-03T21:05:50+00:00"
+    },
     {
       "id": "c2ff2385",
       "image": "img/c2ff2385.png",
@@ -531,15 +540,6 @@
       "title": "La Auditoría General revisará la licitación de la Hidrovía Paraná-Paraguay",
       "volanta": "Polémica",
       "date": "2026-10-30T23:30:04+00:00"
-    },
-    {
-      "id": "821b1349",
-      "image": "img/821b1349.png",
-      "image_sha": "005786b6402993833666df807370ad0ed12772de",
-      "url": "https://www.radiodos.com.ar/216299-continuara-cerrado-el-paso-fronterizo-ituzaingo-ayolas",
-      "title": "Continuará cerrado el paso fronterizo Ituzaingó-Ayolas",
-      "volanta": "crecida del río",
-      "date": "2026-10-30T23:29:31+00:00"
     }
   ]
 }
