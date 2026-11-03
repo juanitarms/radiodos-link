@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T21:05:50+00:00",
+  "updated": "2026-11-03T22:02:41+00:00",
   "posts": [
+    {
+      "id": "70d9e572",
+      "image": "img/70d9e572.png",
+      "image_sha": "6691075a44594393c5bf18a346dc5a48321a6cc0",
+      "url": "https://www.radiodos.com.ar/216487-caso-loan-se-reanuda-el-juicio-este-miercoles-con-declaraciones-de-policias-y-peritos",
+      "title": "Caso Loan: se reanuda el juicio este miércoles con declaraciones de policías y peritos",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-03T22:02:41+00:00"
+    },
     {
       "id": "52d36ced",
       "image": "img/52d36ced.png",
@@ -531,15 +540,6 @@
       "title": "2027: La Justicia solicita presupuesto de $361 mil millones y el Ejecutivo prevé $259 mil millones",
       "volanta": "CORRIENTES",
       "date": "2026-10-30T23:33:38+00:00"
-    },
-    {
-      "id": "29f6ccd5",
-      "image": "img/29f6ccd5.png",
-      "image_sha": "b4dddfbc18842aa1e23a222375de8fab10ea3ffa",
-      "url": "https://www.radiodos.com.ar/216298-la-auditoria-general-revisara-la-licitacion-de-la-hidrovia-parana-paraguay",
-      "title": "La Auditoría General revisará la licitación de la Hidrovía Paraná-Paraguay",
-      "volanta": "Polémica",
-      "date": "2026-10-30T23:30:04+00:00"
     }
   ]
 }
