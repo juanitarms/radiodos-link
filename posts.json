@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T11:44:25+00:00",
+  "updated": "2026-11-03T12:36:38+00:00",
   "posts": [
+    {
+      "id": "047a8504",
+      "image": "img/047a8504.png",
+      "image_sha": "ad701956a0c92309103ace0bc96ef77a3f71858e",
+      "url": "https://www.radiodos.com.ar/216446-espana-murio-un-delantero-del-tenerife-tras-recibir-una-fuerte-patada-durante-un-partido",
+      "title": "España: murió un delantero del Tenerife tras recibir una fuerte patada durante un partido",
+      "volanta": "SEGUNDA DIVISIÓN",
+      "date": "2026-11-03T12:36:38+00:00"
+    },
     {
       "id": "e892dbcf",
       "image": "img/e892dbcf.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
       "volanta": "ESTE FIN DE SEMANA",
       "date": "2026-10-30T12:28:45+00:00"
-    },
-    {
-      "id": "da63fd95",
-      "image": "img/da63fd95.png",
-      "image_sha": "2b0c789c7a45bb3eba4f9f34d1486145f7943c18",
-      "url": "https://www.radiodos.com.ar/216247-jp-valdes-pidio-todo-el-peso-de-la-ley-por-el-femicidio-de-nanci-godoy",
-      "title": "JP Valdés pidió \"todo el peso de la ley\" por el femicidio de Nanci Godoy",
-      "volanta": "A TRAVES DE SUS REDES SOCIALES",
-      "date": "2026-10-30T12:17:26+00:00"
     }
   ]
 }
