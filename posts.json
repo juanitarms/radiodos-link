@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T13:48:39+00:00",
+  "updated": "2026-11-03T14:03:32+00:00",
   "posts": [
+    {
+      "id": "5bf21bc5",
+      "image": "img/5bf21bc5.png",
+      "image_sha": "00485e08ade7b84f69016e7926576812810d9f75",
+      "url": "https://www.radiodos.com.ar/216462-capacitacion-justicia-restaurativa-en-conflictos-de-genero-y-el-sistema-penal-juvenil",
+      "title": "Capacitación: justicia restaurativa en conflictos de género y el sistema penal juvenil",
+      "volanta": "PODER JUDICIAL",
+      "date": "2026-11-03T14:03:32+00:00"
+    },
     {
       "id": "da5d2511",
       "image": "img/da5d2511.png",
@@ -531,15 +540,6 @@
       "title": "Lali Espósito reveló detalles de su vestido de novia y enloqueció a los fans: cómo vestirá Pedro Rosemblat",
       "volanta": "Muy esperado",
       "date": "2026-10-30T14:38:03+00:00"
-    },
-    {
-      "id": "821b6648",
-      "image": "img/821b6648.png",
-      "image_sha": "0c6420d518fd0022fad3e61ca2f792cc70e9eed0",
-      "url": "https://www.radiodos.com.ar/216276-arca-subasta-mas-de-medio-centenar-de-bicicletas-las-claves-para-participar",
-      "title": "ARCA subasta más de medio centenar de bicicletas: las claves para participar",
-      "volanta": "OPORTUNIDAD",
-      "date": "2026-10-30T14:07:51+00:00"
     }
   ]
 }
