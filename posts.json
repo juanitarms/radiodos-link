@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T10:19:56+00:00",
+  "updated": "2026-11-03T11:14:47+00:00",
   "posts": [
+    {
+      "id": "ea7e7c08",
+      "image": "img/ea7e7c08.png",
+      "image_sha": "ea350e1b2c5fd650336cb557e217f2d12ed18c6a",
+      "url": "https://www.radiodos.com.ar/216437-torneo-clausura-asi-se-jugara-la-decimosexta-y-ultima-fecha",
+      "title": "Torneo Clausura: Así se jugará la decimosexta y última fecha",
+      "volanta": "Del Jueves 5 de noviembre al domingo 8",
+      "date": "2026-11-03T11:14:47+00:00"
+    },
     {
       "id": "9163b123",
       "image": "img/9163b123.png",
@@ -531,15 +540,6 @@
       "title": "Nación le va a dar más subsidios a las empresas de transporte en CABA y AMBA",
       "volanta": "MEDIDA PARA ALGUNOS",
       "date": "2026-10-30T11:49:53+00:00"
-    },
-    {
-      "id": "6c179937",
-      "image": "img/6c179937.png",
-      "image_sha": "628086f460f2d015b156ed58624c21f84f138605",
-      "url": "https://www.radiodos.com.ar/216246-femicidio-de-nanci-sadismo-y-fetichismo-el-estremecedor-perfil-psicologico-de-al-menos-dos-de-los-acusados",
-      "title": "Femicidio de Nanci: \"sadismo y fetichismo\", el estremecedor perfil psicológico de al menos dos de los acusados",
-      "volanta": "NUEVOS DATOS",
-      "date": "2026-10-30T11:08:29+00:00"
     }
   ]
 }
