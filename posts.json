@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T18:52:29+00:00",
+  "updated": "2026-11-03T18:53:11+00:00",
   "posts": [
+    {
+      "id": "b92e0393",
+      "image": "img/b92e0393.png",
+      "image_sha": "11ac55570e90d56d67ebda274133fb5954a8d06b",
+      "url": "https://www.radiodos.com.ar/216475-disney-analiza-el-despido-de-miles-de-trabajadores-para-reducir-en-un-20-sus-costos-operativos",
+      "title": "Disney analiza el despido de miles de trabajadores para reducir en un 20% sus costos operativos",
+      "volanta": "CRISIS",
+      "date": "2026-11-03T18:53:11+00:00"
+    },
     {
       "id": "36b83fd6",
       "image": "img/36b83fd6.png",
@@ -531,15 +540,6 @@
       "title": "Indio Solari recibirá un doctorado post mortem de la UNLP",
       "volanta": "RECONOCIMIENTO",
       "date": "2026-10-30T18:11:06+00:00"
-    },
-    {
-      "id": "3e610850",
-      "image": "img/3e610850.png",
-      "image_sha": "f0a92538690600fa96a7c9326e036080ef15ee12",
-      "url": "https://www.radiodos.com.ar/216291-arca-prorrogo-una-vez-mas-el-plazo-para-la-presentacion-de-la-declaracion-de-ganancias-de-2025",
-      "title": "ARCA prorrogó una vez más el plazo para la presentación de la declaración de Ganancias de 2025",
-      "volanta": "NOVEDAD",
-      "date": "2026-10-30T18:10:31+00:00"
     }
   ]
 }
