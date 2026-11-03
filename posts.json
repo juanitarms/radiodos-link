@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T16:58:33+00:00",
+  "updated": "2026-11-03T18:02:17+00:00",
   "posts": [
+    {
+      "id": "6fbb9b6c",
+      "image": "img/6fbb9b6c.png",
+      "image_sha": "43f359f22323a1213d6252591d37eba89eaf9e42",
+      "url": "https://www.radiodos.com.ar/216483-despues-de-14-anos-una-mujer-sera-indemnizada-por-su-vecino-por-un-tropezon-en-la-puerta-de-su-casa",
+      "title": "Después de 14 años una mujer será indemnizada por su vecino por un tropezón en la puerta de su casa",
+      "volanta": "Flores",
+      "date": "2026-11-03T18:02:17+00:00"
+    },
     {
       "id": "d9f1942d",
       "image": "img/d9f1942d.png",
@@ -531,15 +540,6 @@
       "title": "Senado aprobó una ley para proteger a grandes felinos y asistir a productores afectados",
       "volanta": "14° SESIÓN ORDINARIA",
       "date": "2026-10-30T16:27:17+00:00"
-    },
-    {
-      "id": "cbac9b49",
-      "image": "img/cbac9b49.png",
-      "image_sha": "bea2b789665c9e4a515f6a5e231a09a57d7c81d7",
-      "url": "https://www.radiodos.com.ar/216285-en-la-previa-de-su-viaje-a-la-argentina-el-papa-leon-xiv-voto-por-correo-en-las-elecciones-estadounidenses",
-      "title": "En la previa de su viaje a la Argentina, el papa León XIV votó por correo en las elecciones estadounidenses",
-      "volanta": "DEMOCRACIA",
-      "date": "2026-10-30T16:26:44+00:00"
     }
   ]
 }
