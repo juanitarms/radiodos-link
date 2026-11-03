@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T14:21:14+00:00",
+  "updated": "2026-11-03T15:07:08+00:00",
   "posts": [
+    {
+      "id": "b55c1def",
+      "image": "img/b55c1def.png",
+      "image_sha": "a641d4f99a2c8e3fe75a12b06fa8d4b52818e7cf",
+      "url": "https://www.radiodos.com.ar/216469-la-china-ansa-no-se-hizo-cargo-del-tuit-de-javier-milei-pero-aseguro-no-fui-parte-de-ninguna-emboscada",
+      "title": "La China Ansa no se hizo cargo del tuit de Javier Milei pero aseguró: \"No fui parte de ninguna emboscada\"",
+      "volanta": "POLÉMICA",
+      "date": "2026-11-03T15:07:08+00:00"
+    },
     {
       "id": "0de9d0a1",
       "image": "img/0de9d0a1.png",
@@ -531,15 +540,6 @@
       "title": "El Senado dio media sanción a cambios en la Ley Salud Mental: todas las modificaciones",
       "volanta": "DEBATE",
       "date": "2026-10-30T15:14:39+00:00"
-    },
-    {
-      "id": "08a0f04d",
-      "image": "img/08a0f04d.png",
-      "image_sha": "f40b0c516ca3ff26bff2fa2d4bb213f928a07737",
-      "url": "https://www.radiodos.com.ar/216282-revelan-como-sera-la-boda-de-tini-stoessel-y-rodrigo-de-paul-como-un-show",
-      "title": "Revelan cómo será la boda de Tini Stoessel y Rodrigo de Paul: \"Como un show\"",
-      "volanta": "UN MISTERIO",
-      "date": "2026-10-30T14:52:18+00:00"
     }
   ]
 }
