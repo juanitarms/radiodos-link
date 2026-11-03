@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T16:57:54+00:00",
+  "updated": "2026-11-03T16:58:33+00:00",
   "posts": [
+    {
+      "id": "d9f1942d",
+      "image": "img/d9f1942d.png",
+      "image_sha": "f786576a238c7cac4289481272088bf301e10471",
+      "url": "https://www.radiodos.com.ar/216476-visita-del-jardin-de-infantes-n-23-misericordia-por-el-dia-de-los-angeles-somos",
+      "title": "Visita del Jardín de Infantes N°23 Misericordia por el Día de los Ángeles Somos",
+      "volanta": "JEFATURA DE POLICÍA",
+      "date": "2026-11-03T16:58:33+00:00"
+    },
     {
       "id": "ea0f854f",
       "image": "img/ea0f854f.png",
@@ -531,15 +540,6 @@
       "title": "En la previa de su viaje a la Argentina, el papa León XIV votó por correo en las elecciones estadounidenses",
       "volanta": "DEMOCRACIA",
       "date": "2026-10-30T16:26:44+00:00"
-    },
-    {
-      "id": "d3ecb5c1",
-      "image": "img/d3ecb5c1.png",
-      "image_sha": "6e65045ed73c052acc1bd2bd7f4883719e364275",
-      "url": "https://www.radiodos.com.ar/216286-liberaron-al-acosador-de-sofia-gonet-y-homero-pettinato",
-      "title": "Liberaron al acosador de Sofía Gonet y Homero Pettinato",
-      "volanta": "DE CUIDADO",
-      "date": "2026-10-30T16:26:10+00:00"
     }
   ]
 }
