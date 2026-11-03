@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T22:14:01+00:00",
+  "updated": "2026-11-03T10:19:56+00:00",
   "posts": [
+    {
+      "id": "9163b123",
+      "image": "img/9163b123.png",
+      "image_sha": "6ed63c41441a516ceb81e657a3924866efa3bfd4",
+      "url": "https://www.radiodos.com.ar/216439-fallecio-el-periodista-y-escritor-carlos-lezcano",
+      "title": "Falleció el periodista y escritor Carlos Lezcano",
+      "volanta": "PESAR",
+      "date": "2026-11-03T10:19:56+00:00"
+    },
     {
       "id": "12a51709",
       "image": "img/12a51709.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Nanci: \"sadismo y fetichismo\", el estremecedor perfil psicológico de al menos dos de los acusados",
       "volanta": "NUEVOS DATOS",
       "date": "2026-10-30T11:08:29+00:00"
-    },
-    {
-      "id": "cc06ac49",
-      "image": "img/cc06ac49.png",
-      "image_sha": "3606563ea9ed479dee9e66b52c410460212d599a",
-      "url": "https://www.radiodos.com.ar/216245-lnb-el-granate-ratifico-su-buen-momento-encadeno-su-segunda-victoria-y-el-rojinegro-no-levanta",
-      "title": "LNB: El \"Granate\" ratificó su buen momento, encadenó su segunda victoria y el Rojinegro no levanta",
-      "volanta": "Fue 81 a 72",
-      "date": "2026-10-30T10:16:08+00:00"
     }
   ]
 }
