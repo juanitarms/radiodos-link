@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T18:53:11+00:00",
+  "updated": "2026-11-03T21:05:07+00:00",
   "posts": [
+    {
+      "id": "c2ff2385",
+      "image": "img/c2ff2385.png",
+      "image_sha": "cff119ed188545c2c7b15d5f055eaf89364e7b0c",
+      "url": "https://www.radiodos.com.ar/216486-dos-estudiantes-heridos-tras-una-brutal-golpiza-en-la-zona-del-puerto",
+      "title": "Dos estudiantes heridos tras una brutal golpiza en la zona del puerto",
+      "volanta": "VIOLENCIA EN CORRIENTES",
+      "date": "2026-11-03T21:05:07+00:00"
+    },
     {
       "id": "b92e0393",
       "image": "img/b92e0393.png",
@@ -531,15 +540,6 @@
       "title": "Continuará cerrado el paso fronterizo Ituzaingó-Ayolas",
       "volanta": "crecida del río",
       "date": "2026-10-30T23:29:31+00:00"
-    },
-    {
-      "id": "63cfc327",
-      "image": "img/63cfc327.png",
-      "image_sha": "2c5d1f7a90ad39248a1bb8df52ac9d77ef2e72c9",
-      "url": "https://www.radiodos.com.ar/216292-indio-solari-recibira-un-doctorado-post-mortem-de-la-unlp",
-      "title": "Indio Solari recibirá un doctorado post mortem de la UNLP",
-      "volanta": "RECONOCIMIENTO",
-      "date": "2026-10-30T18:11:06+00:00"
     }
   ]
 }
