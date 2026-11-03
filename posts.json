@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T22:04:37+00:00",
+  "updated": "2026-11-03T22:05:39+00:00",
   "posts": [
+    {
+      "id": "c34e101e",
+      "image": "img/c34e101e.png",
+      "image_sha": "c97d9a5e72f346a8fa675df0cb270ae3aef15f08",
+      "url": "https://www.radiodos.com.ar/216489-una-mujer-fue-atacada-por-su-propio-pitbull-su-hijo-la-salvo-y-mato-al-animal-con-un-cuchillo",
+      "title": "Una mujer fue atacada por su propio pitbull: su hijo la salvó y mató al animal con un cuchillo",
+      "volanta": "santa fe",
+      "date": "2026-11-03T22:05:39+00:00"
+    },
     {
       "id": "469d0010",
       "image": "img/469d0010.png",
@@ -531,15 +540,6 @@
       "title": "J P Valdés supervisó obras hídricas estratégicas en San Luis del Palmar y La Palmira",
       "volanta": "FENÓMENO DE EL NIÑO",
       "date": "2026-10-31T12:34:32+00:00"
-    },
-    {
-      "id": "33503f3b",
-      "image": "img/33503f3b.png",
-      "image_sha": "f77d5b3d621804e38f6e9f180cbcb792203b6fce",
-      "url": "https://www.radiodos.com.ar/216301-la-municipalidad-presenta-una-amplia-agenda-cultural-y-solidaria-para-el-fin-de-semana-largo",
-      "title": "La Municipalidad presenta una amplia agenda cultural y solidaria para el fin de semana largo",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-30T23:36:16+00:00"
     }
   ]
 }
