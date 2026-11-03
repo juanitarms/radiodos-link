@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T12:36:38+00:00",
+  "updated": "2026-11-03T13:19:52+00:00",
   "posts": [
+    {
+      "id": "213e574f",
+      "image": "img/213e574f.png",
+      "image_sha": "b1de4697899be7a4af6d06703a6181ae03c18015",
+      "url": "https://www.radiodos.com.ar/216452-inundaciones-intendente-de-goya-confirmo-que-asisten-a-63-familias-autoevacuadas",
+      "title": "Inundaciones: intendente de Goya confirmó que asisten a 63 familias autoevacuadas",
+      "volanta": "Mariano Hormaechea",
+      "date": "2026-11-03T13:19:52+00:00"
+    },
     {
       "id": "047a8504",
       "image": "img/047a8504.png",
@@ -531,15 +540,6 @@
       "title": "Una jornada de terror, entretenimiento y colecta en Corrientes",
       "volanta": "HALLOWEEN SOLIDARIO",
       "date": "2026-10-30T13:10:39+00:00"
-    },
-    {
-      "id": "9be36925",
-      "image": "img/9be36925.png",
-      "image_sha": "1093d6d56e1ade770dab4f79e65e494b90334c89",
-      "url": "https://www.radiodos.com.ar/216252-la-dpec-realizara-trabajos-de-mejoras-en-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
-      "volanta": "ESTE FIN DE SEMANA",
-      "date": "2026-10-30T12:28:45+00:00"
     }
   ]
 }
