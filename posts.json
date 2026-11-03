@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T22:02:41+00:00",
+  "updated": "2026-11-03T22:03:56+00:00",
   "posts": [
+    {
+      "id": "b9fec89a",
+      "image": "img/b9fec89a.png",
+      "image_sha": "6a599b5fe463c7651d52e59ed65aa1cac4051a8b",
+      "url": "https://www.radiodos.com.ar/216488-el-mid-homenajeo-a-frondizi-y-propuso-reivindicar-su-legado-en-toda-la-provincia",
+      "title": "El MID homenajeó a Frondizi y propuso reivindicar su legado en toda la provincia",
+      "volanta": "en paso de los libres",
+      "date": "2026-11-03T22:03:56+00:00"
+    },
     {
       "id": "70d9e572",
       "image": "img/70d9e572.png",
@@ -531,15 +540,6 @@
       "title": "Ya son más de 75.000 los empleos públicos que se perdieron bajo la gestión de Milei",
       "volanta": "Plan motosierra",
       "date": "2026-10-30T23:34:13+00:00"
-    },
-    {
-      "id": "50fddf89",
-      "image": "img/50fddf89.png",
-      "image_sha": "863e5ce7ac856dd51fff22b2c6d0d85a96ad1a3f",
-      "url": "https://www.radiodos.com.ar/216302-2027-la-justicia-solicita-presupuesto-de-361-mil-millones-y-el-ejecutivo-preve-259-mil-millones",
-      "title": "2027: La Justicia solicita presupuesto de $361 mil millones y el Ejecutivo prevé $259 mil millones",
-      "volanta": "CORRIENTES",
-      "date": "2026-10-30T23:33:38+00:00"
     }
   ]
 }
