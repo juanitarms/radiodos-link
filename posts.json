@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T14:03:32+00:00",
+  "updated": "2026-11-03T14:21:14+00:00",
   "posts": [
+    {
+      "id": "0de9d0a1",
+      "image": "img/0de9d0a1.png",
+      "image_sha": "5a240032a91c1e4cf4406f11721c14d011dd6396",
+      "url": "https://www.radiodos.com.ar/216470-corrientes-sede-xxiii-encuentro-nacional-de-carreras-de-comunicacion-social-comienza-manana",
+      "title": "Corrientes sede XXIII Encuentro Nacional de Carreras de Comunicación Social: comienza mañana",
+      "volanta": "EN EL CAMPUS SARGENTO CABRAL",
+      "date": "2026-11-03T14:21:14+00:00"
+    },
     {
       "id": "5bf21bc5",
       "image": "img/5bf21bc5.png",
@@ -531,15 +540,6 @@
       "title": "Revelan cómo será la boda de Tini Stoessel y Rodrigo de Paul: \"Como un show\"",
       "volanta": "UN MISTERIO",
       "date": "2026-10-30T14:52:18+00:00"
-    },
-    {
-      "id": "67b1050b",
-      "image": "img/67b1050b.png",
-      "image_sha": "5f6201783b61f57a3471468acba9c5eb4d60217f",
-      "url": "https://www.radiodos.com.ar/216283-lali-esposito-revelo-detalles-de-su-vestido-de-novia-y-enloquecio-a-los-fans-como-vestira-pedro-rosemblat",
-      "title": "Lali Espósito reveló detalles de su vestido de novia y enloqueció a los fans: cómo vestirá Pedro Rosemblat",
-      "volanta": "Muy esperado",
-      "date": "2026-10-30T14:38:03+00:00"
     }
   ]
 }
