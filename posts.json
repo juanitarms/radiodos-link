@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T16:57:03+00:00",
+  "updated": "2026-11-03T16:57:54+00:00",
   "posts": [
+    {
+      "id": "ea0f854f",
+      "image": "img/ea0f854f.png",
+      "image_sha": "63479ba2991909ce692dd2474087ec380ae7f0e6",
+      "url": "https://www.radiodos.com.ar/216478-estudiantes-de-ita-ibate-realizaron-experiencias-de-investigacion-microbiologica-junto-a-profesionales-de-la-unne",
+      "title": "Estudiantes de Itá Ibaté realizaron experiencias de investigación microbiológica junto a profesionales de la UNNE",
+      "volanta": "CUVE 2027",
+      "date": "2026-11-03T16:57:54+00:00"
+    },
     {
       "id": "a6e67aef",
       "image": "img/a6e67aef.png",
@@ -531,15 +540,6 @@
       "title": "Liberaron al acosador de Sofía Gonet y Homero Pettinato",
       "volanta": "DE CUIDADO",
       "date": "2026-10-30T16:26:10+00:00"
-    },
-    {
-      "id": "8e0301d3",
-      "image": "img/8e0301d3.png",
-      "image_sha": "980591ca9e464dcf700710d61499ca6a91b9924a",
-      "url": "https://www.radiodos.com.ar/216287-edicion-solidaria-del-oktoberfest-del-litoral-para-asistir-a-los-afectados-por-la-crecida",
-      "title": "Edición solidaria del Oktoberfest del Litoral para asistir a los afectados por la crecida",
-      "volanta": "Municipalidad de Corrientes y Cámara Cervecera",
-      "date": "2026-10-30T16:25:36+00:00"
     }
   ]
 }
