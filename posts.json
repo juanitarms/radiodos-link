@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T13:19:52+00:00",
+  "updated": "2026-11-03T13:37:17+00:00",
   "posts": [
+    {
+      "id": "d9256e4c",
+      "image": "img/d9256e4c.png",
+      "image_sha": "f3870df214f63c51a90f1a3008cf35cc1479ec0f",
+      "url": "https://www.radiodos.com.ar/216461-el-ultimo-pabellon-como-se-eligio-a-los-74-presos-de-devoto-que-recibiran-la-bendicion-del-papa-leon-xiv",
+      "title": "El último pabellón: cómo se eligió a los 74 presos de Devoto que recibirán la bendición del papa León XIV",
+      "volanta": "VISITA A ARGENTINA",
+      "date": "2026-11-03T13:37:17+00:00"
+    },
     {
       "id": "213e574f",
       "image": "img/213e574f.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: desde Isla Apipé, trasladaron a un menor que sufrió una seria lesión en uno de sus brazos",
       "volanta": "EN MEDIO DE LA CRECIDA DEL PARANA",
       "date": "2026-10-30T13:33:09+00:00"
-    },
-    {
-      "id": "80fa4e29",
-      "image": "img/80fa4e29.png",
-      "image_sha": "4add4046534ee7eaf22776fb33005af14e1deafe",
-      "url": "https://www.radiodos.com.ar/216257-una-jornada-de-terror-entretenimiento-y-colecta-en-corrientes",
-      "title": "Una jornada de terror, entretenimiento y colecta en Corrientes",
-      "volanta": "HALLOWEEN SOLIDARIO",
-      "date": "2026-10-30T13:10:39+00:00"
     }
   ]
 }
