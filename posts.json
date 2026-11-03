@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T22:05:39+00:00",
+  "updated": "2026-11-03T22:45:31+00:00",
   "posts": [
+    {
+      "id": "a24b89ff",
+      "image": "img/a24b89ff.png",
+      "image_sha": "6a658a857cbcc668cb32d1ca53a59eb9e0f13d51",
+      "url": "https://www.radiodos.com.ar/216490-valdes-y-polich-supervisaron-obras-hidricas-en-la-capital",
+      "title": "Valdés y Polich supervisaron obras hídricas en la Capital",
+      "volanta": "ANTE EL FENÓMENO DE EL NIÑO",
+      "date": "2026-11-03T22:45:31+00:00"
+    },
     {
       "id": "c34e101e",
       "image": "img/c34e101e.png",
@@ -531,15 +540,6 @@
       "title": "Femicidio de Nanci: el hermano de una de las detenidas dio datos claves y confirmó \"un ataque grupal\"",
       "volanta": "POR JUSTICIA",
       "date": "2026-10-31T13:16:50+00:00"
-    },
-    {
-      "id": "8c582bb7",
-      "image": "img/8c582bb7.png",
-      "image_sha": "cf860c4d5afb9ee2e10331a3f407091213710d08",
-      "url": "https://www.radiodos.com.ar/216308-j-p-valdes-superviso-obras-hidricas-estrategicas-en-san-luis-del-palmar-y-la-palmira",
-      "title": "J P Valdés supervisó obras hídricas estratégicas en San Luis del Palmar y La Palmira",
-      "volanta": "FENÓMENO DE EL NIÑO",
-      "date": "2026-10-31T12:34:32+00:00"
     }
   ]
 }
