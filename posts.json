@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T15:07:08+00:00",
+  "updated": "2026-11-03T16:57:03+00:00",
   "posts": [
+    {
+      "id": "a6e67aef",
+      "image": "img/a6e67aef.png",
+      "image_sha": "e80d89626392178d7e1a1c6e559552ca7bb0bcf4",
+      "url": "https://www.radiodos.com.ar/216479-entradas-para-la-final-de-la-copa-libertadores-entre-estudiantes-y-palmeiras-precios-venta-y-ranking-de-socios",
+      "title": "Entradas para la final de la Copa Libertadores entre Estudiantes y Palmeiras: precios, venta y ranking de socios",
+      "volanta": "28 DE NOVIEMBRE",
+      "date": "2026-11-03T16:57:03+00:00"
+    },
     {
       "id": "b55c1def",
       "image": "img/b55c1def.png",
@@ -531,15 +540,6 @@
       "title": "Edición solidaria del Oktoberfest del Litoral para asistir a los afectados por la crecida",
       "volanta": "Municipalidad de Corrientes y Cámara Cervecera",
       "date": "2026-10-30T16:25:36+00:00"
-    },
-    {
-      "id": "bb1544a0",
-      "image": "img/bb1544a0.png",
-      "image_sha": "0c18caddf43123a35e02e9b23b50016048903e01",
-      "url": "https://www.radiodos.com.ar/216278-el-senado-dio-media-sancion-a-cambios-en-la-ley-salud-mental-todas-las-modificaciones",
-      "title": "El Senado dio media sanción a cambios en la Ley Salud Mental: todas las modificaciones",
-      "volanta": "DEBATE",
-      "date": "2026-10-30T15:14:39+00:00"
     }
   ]
 }
