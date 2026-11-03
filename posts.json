@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T13:37:17+00:00",
+  "updated": "2026-11-03T13:48:39+00:00",
   "posts": [
+    {
+      "id": "da5d2511",
+      "image": "img/da5d2511.png",
+      "image_sha": "e2a3964d41840c0ce5221ab9afacf68cb16d753a",
+      "url": "https://www.radiodos.com.ar/216460-j-p-valdes-anticipo-una-reestructuracion-y-algunos-cambios-en-el-ministerio-de-educacion",
+      "title": "J P Valdés anticipó \"una reestructuración y algunos cambios en el Ministerio de Educación\"",
+      "volanta": "RUEDA DE PRENSA",
+      "date": "2026-11-03T13:48:39+00:00"
+    },
     {
       "id": "d9256e4c",
       "image": "img/d9256e4c.png",
@@ -531,15 +540,6 @@
       "title": "ARCA subasta más de medio centenar de bicicletas: las claves para participar",
       "volanta": "OPORTUNIDAD",
       "date": "2026-10-30T14:07:51+00:00"
-    },
-    {
-      "id": "4d11caad",
-      "image": "img/4d11caad.png",
-      "image_sha": "949c87cdb652bccfc588443f49587115a3d50ab2",
-      "url": "https://www.radiodos.com.ar/216264-corrientes-desde-isla-apipe-trasladaron-a-un-menor-que-sufrio-una-seria-lesion-en-uno-de-sus-brazos",
-      "title": "Corrientes: desde Isla Apipé, trasladaron a un menor que sufrió una seria lesión en uno de sus brazos",
-      "volanta": "EN MEDIO DE LA CRECIDA DEL PARANA",
-      "date": "2026-10-30T13:33:09+00:00"
     }
   ]
 }
