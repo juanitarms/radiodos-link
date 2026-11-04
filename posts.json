@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T20:48:37+00:00",
+  "updated": "2026-11-04T20:50:52+00:00",
   "posts": [
+    {
+      "id": "0cd91055",
+      "image": "img/0cd91055.png",
+      "image_sha": "b042e0f125d666e51843a163eddd8333ade529c1",
+      "url": "https://www.radiodos.com.ar/216558-corrientes-perdio-4300-empleos-privados-en-el-ultimo-ano",
+      "title": "Corrientes perdió 4.300 empleos privados en el último año",
+      "volanta": "ERA MILEI",
+      "date": "2026-11-04T20:50:52+00:00"
+    },
     {
       "id": "e14f9634",
       "image": "img/e14f9634.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá mantiene interrumpido el paso entre Argentina y Paraguay",
       "volanta": "CRECIDA DEL RÍO",
       "date": "2026-11-02T20:44:58+00:00"
-    },
-    {
-      "id": "49c3e5a6",
-      "image": "img/49c3e5a6.png",
-      "image_sha": "a59566af8af6346dd03bbc4f5c3998dd745c8a84",
-      "url": "https://www.radiodos.com.ar/216415-donde-voto-ya-se-puede-consultar-el-padron-electoral-provisorio-para-las-presidenciales-del-proximo-ano",
-      "title": "Dónde voto: ya se puede consultar el padrón electoral provisorio para las presidenciales del próximo año",
-      "volanta": "ELECCIONES 2027",
-      "date": "2026-11-02T19:07:28+00:00"
     }
   ]
 }
