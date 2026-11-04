@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T10:55:13+00:00",
+  "updated": "2026-11-04T12:03:52+00:00",
   "posts": [
+    {
+      "id": "ce6ed245",
+      "image": "img/ce6ed245.png",
+      "image_sha": "f7c9193e35e68818c8acf0741b5925ca84f9452e",
+      "url": "https://www.radiodos.com.ar/216501-ruesga-estamos-poniendo-toda-la-energia-y-el-trabajo-para-sacar-esto-adelante",
+      "title": "Ruesga: \"estamos poniendo toda la energía y el trabajo para sacar esto adelante\"",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-11-04T12:03:52+00:00"
+    },
     {
       "id": "b421d5f9",
       "image": "img/b421d5f9.png",
@@ -531,15 +540,6 @@
       "title": "Boca y River juegan un Superclásico decisivo en la Bombonera",
       "volanta": "TORNEO CLAUDURA",
       "date": "2026-11-01T15:39:36+00:00"
-    },
-    {
-      "id": "839ccf4a",
-      "image": "img/839ccf4a.png",
-      "image_sha": "9974a44daf86925c9af30fb3dc397cbd943a4267",
-      "url": "https://www.radiodos.com.ar/216350-el-papa-leon-xiv-pidio-que-la-tregua-en-ucrania-impulse-nuevas-iniciativas-de-paz",
-      "title": "El papa León XIV pidió que la tregua en Ucrania impulse nuevas iniciativas de paz",
-      "volanta": "vaticano",
-      "date": "2026-11-01T15:16:18+00:00"
     }
   ]
 }
