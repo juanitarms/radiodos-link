@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T20:33:19+00:00",
+  "updated": "2026-11-04T20:34:04+00:00",
   "posts": [
+    {
+      "id": "a401d2a5",
+      "image": "img/a401d2a5.png",
+      "image_sha": "7fac17be69496ef0722340c866b51e1d902d0d68",
+      "url": "https://www.radiodos.com.ar/216553-beron-de-astrada-otra-localidad-seriamente-afectada-por-el-temporal-de-viento-y-lluvia",
+      "title": "Beron de Astrada: otra localidad seriamente afectada por el temporal de viento y lluvia",
+      "volanta": "PASA AHORA",
+      "date": "2026-11-04T20:34:04+00:00"
+    },
     {
       "id": "27d116a5",
       "image": "img/27d116a5.png",
@@ -531,15 +540,6 @@
       "title": "Productos frescos, artesanías y sabores regionales: las Ferias de la Ciudad llegan a nuevos días de noviembre",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-11-02T16:27:11+00:00"
-    },
-    {
-      "id": "b9ed91a1",
-      "image": "img/b9ed91a1.png",
-      "image_sha": "f44b78a4a75d5c897d4d651b3c0828e3e4dee82c",
-      "url": "https://www.radiodos.com.ar/216410-gladys-la-bomba-tucumana-cerro-su-local-de-empanadas-y-apunto-contra-el-gobierno-esta-dificil",
-      "title": "Gladys La Bomba Tucumana cerró su local de empanadas y apuntó contra el Gobierno: \"Está difícil\"",
-      "volanta": "CRISIS",
-      "date": "2026-11-02T16:26:36+00:00"
     }
   ]
 }
