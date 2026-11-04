@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T20:26:20+00:00",
+  "updated": "2026-11-04T20:33:19+00:00",
   "posts": [
+    {
+      "id": "27d116a5",
+      "image": "img/27d116a5.png",
+      "image_sha": "28d0182fc89c399009e716ec28d89b491d90741c",
+      "url": "https://www.radiodos.com.ar/216555-caso-loan-confirman-mas-de-92-de-precision-en-los-rastros-hallados-en-los-vehiculos-de-dos-acusados",
+      "title": "Caso Loan: confirman más de 92% de precisión en los rastros hallados en los vehículos de dos acusados",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-04T20:33:19+00:00"
+    },
     {
       "id": "3d33fdef",
       "image": "img/3d33fdef.png",
@@ -531,15 +540,6 @@
       "title": "Gladys La Bomba Tucumana cerró su local de empanadas y apuntó contra el Gobierno: \"Está difícil\"",
       "volanta": "CRISIS",
       "date": "2026-11-02T16:26:36+00:00"
-    },
-    {
-      "id": "e5d3f862",
-      "image": "img/e5d3f862.png",
-      "image_sha": "c1564c5203bdec0ca62d5688b929dfdd79ce2e22",
-      "url": "https://www.radiodos.com.ar/216411-dayon-griffin-llega-a-regatas-en-lugar-de-stone",
-      "title": "Dayon Griffin llega a Regatas en lugar de Stone",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-11-02T16:25:55+00:00"
     }
   ]
 }
