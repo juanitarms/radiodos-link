@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T12:03:52+00:00",
+  "updated": "2026-11-04T12:18:44+00:00",
   "posts": [
+    {
+      "id": "ee93e770",
+      "image": "img/ee93e770.png",
+      "image_sha": "59890121092a9d439f3c7d1d60f4a316a3786ae2",
+      "url": "https://www.radiodos.com.ar/216504-un-detenido-y-joyas-robadas-recuperadas",
+      "title": "Un detenido y joyas robadas recuperadas",
+      "volanta": "RÁPIDO ACCIONAR POLICIAL",
+      "date": "2026-11-04T12:18:44+00:00"
+    },
     {
       "id": "ce6ed245",
       "image": "img/ce6ed245.png",
@@ -531,15 +540,6 @@
       "title": "Milei convocó a la clase política a la recepción oficial a León XIV en el Palacio Libertad",
       "volanta": "Satisfacción en el Vaticano",
       "date": "2026-11-01T15:53:50+00:00"
-    },
-    {
-      "id": "5abe9b13",
-      "image": "img/5abe9b13.png",
-      "image_sha": "9cabe8568c4a8d21df36e05d4cc630dc497ad2c3",
-      "url": "https://www.radiodos.com.ar/216349-boca-y-river-juegan-un-superclasico-decisivo-en-la-bombonera",
-      "title": "Boca y River juegan un Superclásico decisivo en la Bombonera",
-      "volanta": "TORNEO CLAUDURA",
-      "date": "2026-11-01T15:39:36+00:00"
     }
   ]
 }
