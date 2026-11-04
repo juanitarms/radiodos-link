@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T13:21:44+00:00",
+  "updated": "2026-11-04T13:46:21+00:00",
   "posts": [
+    {
+      "id": "828ea4c8",
+      "image": "img/828ea4c8.png",
+      "image_sha": "cc94cfb2e02d5c3d63e796712ce960e15bbe8f41",
+      "url": "https://www.radiodos.com.ar/216509-el-renatre-aumenta-la-prestacion-por-desempleo-y-eleva-el-monto-maximo-a-420000",
+      "title": "El RENATRE aumenta la Prestación por Desempleo y eleva el monto máximo a $420.000",
+      "volanta": "NOVEDAD",
+      "date": "2026-11-04T13:46:21+00:00"
+    },
     {
       "id": "71be2c6a",
       "image": "img/71be2c6a.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Boca y River entregarán un Superclásico de alta intensidad en La Bombonera",
       "volanta": "¡Se paraliza el país!",
       "date": "2026-11-01T19:59:11+00:00"
-    },
-    {
-      "id": "74fe5d2a",
-      "image": "img/74fe5d2a.png",
-      "image_sha": "ebc75a0c3438b05dcbd94a9dbe5d62462fb8811c",
-      "url": "https://www.radiodos.com.ar/216351-dos-menores-resultaron-heridos-tras-un-choque-entre-un-auto-y-una-moto",
-      "title": "Dos menores resultaron heridos tras un choque entre un auto y una moto",
-      "volanta": "Monte Caseros",
-      "date": "2026-11-01T16:02:37+00:00"
     }
   ]
 }
