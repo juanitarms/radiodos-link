@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T16:46:00+00:00",
+  "updated": "2026-11-04T16:46:48+00:00",
   "posts": [
+    {
+      "id": "e95f069a",
+      "image": "img/e95f069a.png",
+      "image_sha": "e0631035ce05e285b08cf9fc8a6d88ac3f53f39c",
+      "url": "https://www.radiodos.com.ar/216541-trabajadora-sexual-trans-sobre-la-violencia-que-viven-en-palermo-no-es-la-primera-vez-que-pasa",
+      "title": "Trabajadora sexual trans, sobre la violencia que viven en Palermo: \"No es la primera vez que pasa\"",
+      "volanta": "DURA REALIDAD",
+      "date": "2026-11-04T16:46:48+00:00"
+    },
     {
       "id": "041f6f2c",
       "image": "img/041f6f2c.png",
@@ -531,15 +540,6 @@
       "title": "Más de 1600 personas dejaron sus hogares en Corrientes por el fenómeno del Niño",
       "volanta": "INUNDACIONES",
       "date": "2026-11-02T11:19:03+00:00"
-    },
-    {
-      "id": "6303f927",
-      "image": "img/6303f927.png",
-      "image_sha": "93af84bddc2c3b9bf24de359db00760a037a0113",
-      "url": "https://www.radiodos.com.ar/216370-horror-en-chaco-por-presunta-masacre-familiar-murieron-una-joven-y-cuatro-ninos",
-      "title": "Horror en Chaco por presunta masacre familiar: murieron una joven y cuatro niños",
-      "volanta": "UN HOMBRE DETENIDO",
-      "date": "2026-11-02T11:06:21+00:00"
     }
   ]
 }
