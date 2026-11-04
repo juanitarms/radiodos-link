@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T20:34:04+00:00",
+  "updated": "2026-11-04T20:44:42+00:00",
   "posts": [
+    {
+      "id": "c1c622f4",
+      "image": "img/c1c622f4.png",
+      "image_sha": "5b1a4674c0f4ab8996d75c4a08eeac52c0922fac",
+      "url": "https://www.radiodos.com.ar/216552-cuadrillas-municipales-recorren-la-ciudad-de-corrientes-tras-la-tormenta-de-esta-manana",
+      "title": "Cuadrillas municipales recorren la ciudad de Corrientes tras la tormenta de esta mañana",
+      "volanta": "PREVENCIÓN ANTE EL TEMPORAL",
+      "date": "2026-11-04T20:44:42+00:00"
+    },
     {
       "id": "a401d2a5",
       "image": "img/a401d2a5.png",
@@ -531,15 +540,6 @@
       "title": "Con el uso de aceites esenciales, buscan alternativas agroecológicas para el control de patógenos en cultivos hortícolas",
       "volanta": "BIOTECNOLOGÍA AGRARIA",
       "date": "2026-11-02T18:07:19+00:00"
-    },
-    {
-      "id": "c95d3ee7",
-      "image": "img/c95d3ee7.png",
-      "image_sha": "ae21602861171f25f1568922114a68211060ef39",
-      "url": "https://www.radiodos.com.ar/216409-productos-frescos-artesanias-y-sabores-regionales-las-ferias-de-la-ciudad-llegan-a-nuevos-dias-de-noviembre",
-      "title": "Productos frescos, artesanías y sabores regionales: las Ferias de la Ciudad llegan a nuevos días de noviembre",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-11-02T16:27:11+00:00"
     }
   ]
 }
