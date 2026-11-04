@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T19:37:04+00:00",
+  "updated": "2026-11-04T19:37:49+00:00",
   "posts": [
+    {
+      "id": "13f298a2",
+      "image": "img/13f298a2.png",
+      "image_sha": "f3c8fa494a9a7d20138005670b44f1c591ab07cc",
+      "url": "https://www.radiodos.com.ar/216539-triple-crimen-de-florencio-varela-encuentran-un-video-de-las-torturas-a-las-que-fueron-sometidas-las-victimas",
+      "title": "Triple crimen de Florencio Varela: encuentran un video de las torturas a las que fueron sometidas las víctimas",
+      "volanta": "INVESTIGACIÓN ABIERTA",
+      "date": "2026-11-04T19:37:49+00:00"
+    },
     {
       "id": "6b7b5f3b",
       "image": "img/6b7b5f3b.png",
@@ -531,15 +540,6 @@
       "title": "El jefe de PAMI de Mburucuyá demorado junto a otros dos hombres por un robo",
       "volanta": "EL DINERO FUE RECUPERADO",
       "date": "2026-11-02T14:51:56+00:00"
-    },
-    {
-      "id": "db417e8a",
-      "image": "img/db417e8a.png",
-      "image_sha": "a1e71d2e022fdbf30e8e6b64fd9cd21f6bd99b58",
-      "url": "https://www.radiodos.com.ar/216401-alerta-sanitaria-en-ezeiza-por-pasajeros-intoxicados-de-donde-venian",
-      "title": "Alerta sanitaria en Ezeiza por pasajeros intoxicados: ¿de dónde venían?",
-      "volanta": "RÁPIDO ACCIONAR",
-      "date": "2026-11-02T14:12:11+00:00"
     }
   ]
 }
