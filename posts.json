@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T18:21:12+00:00",
+  "updated": "2026-11-04T18:22:00+00:00",
   "posts": [
+    {
+      "id": "2f619734",
+      "image": "img/2f619734.png",
+      "image_sha": "53adc089a271eb5f9f4813f9dc2df286b6053e2d",
+      "url": "https://www.radiodos.com.ar/216545-fabricantes-de-industria-nacional-rematan-zapatos-sandalias-botas-y-zapatillas-de-marca-a-5000",
+      "title": "Fabricantes de industria nacional rematan zapatos, sandalias, botas y zapatillas de marca a $5.000",
+      "volanta": "CRISIS",
+      "date": "2026-11-04T18:22:00+00:00"
+    },
     {
       "id": "05f226c0",
       "image": "img/05f226c0.png",
@@ -531,15 +540,6 @@
       "title": "Leonardo Ponzio explotó tras el Superclásico: \"El VAR interfiere solo en contra nuestro\"",
       "volanta": "POLÉMICO",
       "date": "2026-11-02T13:16:40+00:00"
-    },
-    {
-      "id": "409f9d89",
-      "image": "img/409f9d89.png",
-      "image_sha": "a03723bcae171e95199e1159b062727c53b2d424",
-      "url": "https://www.radiodos.com.ar/216379-diego-vadell-fue-presentado-oficialmente-como-entrenador-de-san-martin",
-      "title": "Diego Vadell fue presentado oficialmente como entrenador de San Martín",
-      "volanta": "NUEVA ETAPA",
-      "date": "2026-11-02T12:33:39+00:00"
     }
   ]
 }
