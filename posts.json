@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T16:47:27+00:00",
+  "updated": "2026-11-04T18:21:12+00:00",
   "posts": [
+    {
+      "id": "05f226c0",
+      "image": "img/05f226c0.png",
+      "image_sha": "0340de1e0a9855be52ca087824501bda3de8a88c",
+      "url": "https://www.radiodos.com.ar/216547-diego-vadell-la-idea-es-encaminar-la-temporada-que-arranco-mal",
+      "title": "Diego Vadell: \"La idea es encaminar la temporada que arrancó mal\"",
+      "volanta": "Liga Nacional de Básquet",
+      "date": "2026-11-04T18:21:12+00:00"
+    },
     {
       "id": "7bcb39de",
       "image": "img/7bcb39de.png",
@@ -531,15 +540,6 @@
       "title": "Diego Vadell fue presentado oficialmente como entrenador de San Martín",
       "volanta": "NUEVA ETAPA",
       "date": "2026-11-02T12:33:39+00:00"
-    },
-    {
-      "id": "d9a934a6",
-      "image": "img/d9a934a6.png",
-      "image_sha": "e6ee403b8137c6e2c92850d381c178c2085ea510",
-      "url": "https://www.radiodos.com.ar/216374-femicidio-despediran-con-un-homenaje-a-nancy-godoy-en-una-plaza-de-esquina",
-      "title": "Femicidio: despedirán con un homenaje a Nancy Godoy en una plaza de Esquina",
-      "volanta": "EL MIÉRCOLES",
-      "date": "2026-11-02T11:51:33+00:00"
     }
   ]
 }
