@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T10:33:24+00:00",
+  "updated": "2026-11-04T10:55:13+00:00",
   "posts": [
+    {
+      "id": "b421d5f9",
+      "image": "img/b421d5f9.png",
+      "image_sha": "9c851e412e53d99c37ce994247ba3cd46e917b50",
+      "url": "https://www.radiodos.com.ar/216498-paso-de-la-patria-acuchillo-a-una-mujer-golpeo-a-un-hombre-y-fue-detenido",
+      "title": "Paso de la Patria: acuchilló a una mujer, golpeó a un hombre y fue detenido",
+      "volanta": "DENUNCIA DE VECINOS",
+      "date": "2026-11-04T10:55:13+00:00"
+    },
     {
       "id": "70365226",
       "image": "img/70365226.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV pidió que la tregua en Ucrania impulse nuevas iniciativas de paz",
       "volanta": "vaticano",
       "date": "2026-11-01T15:16:18+00:00"
-    },
-    {
-      "id": "1fd0d6d0",
-      "image": "img/1fd0d6d0.png",
-      "image_sha": "36af07d394347638c85f1b9cd2d95a2ffd50081b",
-      "url": "https://www.radiodos.com.ar/216309-tras-leve-descenso-del-rio-parana-piden-a-los-evacuados-de-isla-apipe-que-no-regresen-a-sus-casas",
-      "title": "Tras leve descenso del río Paraná, piden a los evacuados de Isla Apipe que no regresen a sus casas",
-      "volanta": "EL NIÑO",
-      "date": "2026-10-31T14:26:57+00:00"
     }
   ]
 }
