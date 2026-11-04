@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T12:52:42+00:00",
+  "updated": "2026-11-04T13:21:44+00:00",
   "posts": [
+    {
+      "id": "71be2c6a",
+      "image": "img/71be2c6a.png",
+      "image_sha": "ba61400d50b99562fe9d3c10cd9aea57ed3b64e0",
+      "url": "https://www.radiodos.com.ar/216513-un-trapito-demorado-por-tratar-agresivamente-a-automovilistas",
+      "title": "Un \"trapito\" demorado por tratar agresivamente a automovilistas",
+      "volanta": "GRIM II",
+      "date": "2026-11-04T13:21:44+00:00"
+    },
     {
       "id": "3d7c9427",
       "image": "img/3d7c9427.png",
@@ -531,15 +540,6 @@
       "title": "Dos menores resultaron heridos tras un choque entre un auto y una moto",
       "volanta": "Monte Caseros",
       "date": "2026-11-01T16:02:37+00:00"
-    },
-    {
-      "id": "bf058168",
-      "image": "img/bf058168.png",
-      "image_sha": "a83604c4f1402a7fc52fc1957baf4ca8bbd44f96",
-      "url": "https://www.radiodos.com.ar/216353-vischi-acompanamos-a-milei-cuando-las-medidas-benefician-a-corrientes",
-      "title": "Vischi: \"Acompañamos a Milei cuando las medidas benefician a Corrientes\"",
-      "volanta": "SENADOR NACIONAL",
-      "date": "2026-11-01T16:01:55+00:00"
     }
   ]
 }
