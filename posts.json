@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T14:15:57+00:00",
+  "updated": "2026-11-04T14:30:45+00:00",
   "posts": [
+    {
+      "id": "6644758a",
+      "image": "img/6644758a.png",
+      "image_sha": "0711dabb95e76f35515ea2a1830c112394ca3cc7",
+      "url": "https://www.radiodos.com.ar/216530-el-papa-leon-xiv-llamo-a-revitalizar-la-educacion-en-la-doctrina-social-de-la-iglesia",
+      "title": "El papa León XIV llamó a \"revitalizar\" la educación en la Doctrina Social de la Iglesia",
+      "volanta": "BIEN COMUN",
+      "date": "2026-11-04T14:30:45+00:00"
+    },
     {
       "id": "ff590dcb",
       "image": "img/ff590dcb.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: alerta por tormentas en el norte de la provincia",
       "volanta": "PRONÓSTICO",
       "date": "2026-11-02T10:18:38+00:00"
-    },
-    {
-      "id": "e3407b4e",
-      "image": "img/e3407b4e.png",
-      "image_sha": "b3dfd372a43b94592fad47a5e9cb19de4400e843",
-      "url": "https://www.radiodos.com.ar/216356-torneo-clausura-para-arruabarrena-boca-aprovecho-la-expulsion-y-fueron-merecedores-del-triunfo",
-      "title": "Torneo Clausura: Para Arruabarrena, \"Boca aprovechó la expulsión y fueron merecedores del triunfo\"",
-      "volanta": "Superclásico",
-      "date": "2026-11-01T21:45:11+00:00"
     }
   ]
 }
