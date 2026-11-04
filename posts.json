@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T14:02:29+00:00",
+  "updated": "2026-11-04T14:15:57+00:00",
   "posts": [
+    {
+      "id": "ff590dcb",
+      "image": "img/ff590dcb.png",
+      "image_sha": "d5d4a87ce197c008a4a5cc498d1f548c221d7cac",
+      "url": "https://www.radiodos.com.ar/216527-rio-negro-hallaron-un-esqueleto-con-las-manos-y-pies-atados-bajo-el-piso-de-una-ex-estacion-de-servicio",
+      "title": "Río Negro: hallaron un esqueleto con las manos y pies atados bajo el piso de una ex estación de servicio",
+      "volanta": "SIERRA GRANDE",
+      "date": "2026-11-04T14:15:57+00:00"
+    },
     {
       "id": "a948c049",
       "image": "img/a948c049.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Para Arruabarrena, \"Boca aprovechó la expulsión y fueron merecedores del triunfo\"",
       "volanta": "Superclásico",
       "date": "2026-11-01T21:45:11+00:00"
-    },
-    {
-      "id": "06e54c7d",
-      "image": "img/06e54c7d.png",
-      "image_sha": "6903524567e79ef17e440be22b2a3f1d01cd5b8a",
-      "url": "https://www.radiodos.com.ar/216355-comenzaron-las-evacuaciones-en-san-isidro-la-intendenta-vilma-ojeda-superviso-la-asistencia",
-      "title": "Comenzaron las evacuaciones en San Isidro: la intendenta Vilma Ojeda supervisó la asistencia",
-      "volanta": "Crecida del río Paraná",
-      "date": "2026-11-01T21:22:09+00:00"
     }
   ]
 }
