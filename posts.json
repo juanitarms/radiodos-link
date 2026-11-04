@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T20:46:42+00:00",
+  "updated": "2026-11-04T20:48:00+00:00",
   "posts": [
+    {
+      "id": "22b64a52",
+      "image": "img/22b64a52.png",
+      "image_sha": "8e71b73a6a603c58b51856eb39270193cf56547d",
+      "url": "https://www.radiodos.com.ar/216549-temporal-en-corrientes-cayeron-32-milimetros-rafagas-de-viento-y-se-derrumbaron-tres-arboles",
+      "title": "Temporal en Corrientes: cayeron 32 milímetros, ráfagas de viento y se derrumbaron tres árboles",
+      "volanta": "ESTE MIÉRCOLES",
+      "date": "2026-11-04T20:48:00+00:00"
+    },
     {
       "id": "28cad997",
       "image": "img/28cad997.png",
@@ -531,15 +540,6 @@
       "title": "Rescatan a un yacaré que apareció en la ruta y lo devuelven a su hábitat natural",
       "volanta": "SAN COSME",
       "date": "2026-11-02T19:06:49+00:00"
-    },
-    {
-      "id": "f3f221b3",
-      "image": "img/f3f221b3.png",
-      "image_sha": "0a7f53f4e6ab6b4d49bc14fae888cd7a4ed9e1c4",
-      "url": "https://www.radiodos.com.ar/216418-comenzo-el-juicio-contra-la-toretto-hablo-y-le-pidio-disculpas-a-la-familia-de-walter-armand",
-      "title": "Comenzó el juicio contra \"La Toretto\": habló y le pidió disculpas a la familia de Walter Armand",
-      "volanta": "DEBATE",
-      "date": "2026-11-02T18:07:56+00:00"
     }
   ]
 }
