@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T18:22:00+00:00",
+  "updated": "2026-11-04T18:22:40+00:00",
   "posts": [
+    {
+      "id": "7d9fc156",
+      "image": "img/7d9fc156.png",
+      "image_sha": "be8d6b0d2d9998846b3cb01218d9c090d3cba165",
+      "url": "https://www.radiodos.com.ar/216546-santiago-pena-tras-la-disolucion-de-ueno-bank-la-prioridad-es-y-sera-proteger-el-fruto-de-ese-esfuerzo",
+      "title": "Santiago Peña, tras la disolución de Ueno Bank: \"La prioridad es y será proteger el fruto de ese esfuerzo\"",
+      "volanta": "CRISIS",
+      "date": "2026-11-04T18:22:40+00:00"
+    },
     {
       "id": "2f619734",
       "image": "img/2f619734.png",
@@ -531,15 +540,6 @@
       "title": "El CyberMonday  llegó a  Tienda Más BanCo: 24 cuotas sin interés y descuentos durante toda la Cyber Week",
       "volanta": "OFERTAS",
       "date": "2026-11-02T13:49:58+00:00"
-    },
-    {
-      "id": "d4c2aadd",
-      "image": "img/d4c2aadd.png",
-      "image_sha": "baac8fd981076bb9604c8c911a8260873b469ad4",
-      "url": "https://www.radiodos.com.ar/216387-leonardo-ponzio-exploto-tras-el-superclasico-el-var-interfiere-solo-en-contra-nuestro",
-      "title": "Leonardo Ponzio explotó tras el Superclásico: \"El VAR interfiere solo en contra nuestro\"",
-      "volanta": "POLÉMICO",
-      "date": "2026-11-02T13:16:40+00:00"
     }
   ]
 }
