@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-03T22:45:31+00:00",
+  "updated": "2026-11-04T10:33:24+00:00",
   "posts": [
+    {
+      "id": "70365226",
+      "image": "img/70365226.png",
+      "image_sha": "f26376bf20be23295652658644ab9617cf09ce7b",
+      "url": "https://www.radiodos.com.ar/216497-continua-el-alerta-naranja-en-corrientes-por-tormentas-y-vientos-fuertes",
+      "title": "Continúa el alerta naranja en Corrientes por tormentas y vientos fuertes",
+      "volanta": "CLIMA",
+      "date": "2026-11-04T10:33:24+00:00"
+    },
     {
       "id": "a24b89ff",
       "image": "img/a24b89ff.png",
@@ -531,15 +540,6 @@
       "title": "Tras leve descenso del río Paraná, piden a los evacuados de Isla Apipe que no regresen a sus casas",
       "volanta": "EL NIÑO",
       "date": "2026-10-31T14:26:57+00:00"
-    },
-    {
-      "id": "b6db79f1",
-      "image": "img/b6db79f1.png",
-      "image_sha": "a7f719dac663254e772cc7f093a50b173c4edad0",
-      "url": "https://www.radiodos.com.ar/216311-femicidio-de-nanci-el-hermano-de-una-de-las-detenidas-dio-datos-claves-y-confirmo-un-ataque-grupal",
-      "title": "Femicidio de Nanci: el hermano de una de las detenidas dio datos claves y confirmó \"un ataque grupal\"",
-      "volanta": "POR JUSTICIA",
-      "date": "2026-10-31T13:16:50+00:00"
     }
   ]
 }
