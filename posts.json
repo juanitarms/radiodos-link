@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T18:59:44+00:00",
+  "updated": "2026-11-05T20:57:01+00:00",
   "posts": [
+    {
+      "id": "935a8d7c",
+      "image": "img/935a8d7c.png",
+      "image_sha": "e3ecf9e8ad8f5a6bcd37063abd122670f23f36fd",
+      "url": "https://www.radiodos.com.ar/216626-crisis-en-paraguay-la-camara-de-diputados-aprobo-iniciarle-un-juicio-politico-a-santiago-pena",
+      "title": "Crisis en Paraguay: la Cámara de Diputados aprobó iniciarle un juicio político a Santiago Peña",
+      "volanta": "POLÍTICA",
+      "date": "2026-11-05T20:57:01+00:00"
+    },
     {
       "id": "1a798394",
       "image": "img/1a798394.png",
@@ -531,15 +540,6 @@
       "title": "CAME destaca la suspensión de embargos a las pymes",
       "volanta": "COMUNICADO DE PRENSA",
       "date": "2026-11-03T18:52:29+00:00"
-    },
-    {
-      "id": "656fb21c",
-      "image": "img/656fb21c.png",
-      "image_sha": "f05b1a73df5f2bf645f9472060d9ce799f280648",
-      "url": "https://www.radiodos.com.ar/216482-horror-una-mujer-murio-tras-ser-atacada-por-su-perro-pitbull",
-      "title": "Horror: una mujer murió tras ser atacada por su perro pitbull",
-      "volanta": "Mendoza",
-      "date": "2026-11-03T18:03:00+00:00"
     }
   ]
 }
