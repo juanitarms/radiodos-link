@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T13:19:35+00:00",
+  "updated": "2026-11-05T13:31:59+00:00",
   "posts": [
+    {
+      "id": "1177d52e",
+      "image": "img/1177d52e.png",
+      "image_sha": "abd343933d1a230d88fc2cf1e230f2a861dd4fdf",
+      "url": "https://www.radiodos.com.ar/216597-el-mensaje-de-javier-milei-al-papa-leon-xiv-antes-de-su-llegada-lo-esperamos-santo-padre",
+      "title": "El mensaje de Javier Milei al papa León XIV antes de su llegada: \"¡Lo esperamos, Santo Padre!\"",
+      "volanta": "REDES SOCIALES",
+      "date": "2026-11-05T13:31:59+00:00"
+    },
     {
       "id": "73693b08",
       "image": "img/73693b08.png",
@@ -531,15 +540,6 @@
       "title": "El Poder Judicial de Corrientes trabajará a reglamento en reclamo de mejoras salariales",
       "volanta": "RECLAMO",
       "date": "2026-11-03T11:44:25+00:00"
-    },
-    {
-      "id": "ea7e7c08",
-      "image": "img/ea7e7c08.png",
-      "image_sha": "ea350e1b2c5fd650336cb557e217f2d12ed18c6a",
-      "url": "https://www.radiodos.com.ar/216437-torneo-clausura-asi-se-jugara-la-decimosexta-y-ultima-fecha",
-      "title": "Torneo Clausura: Así se jugará la decimosexta y última fecha",
-      "volanta": "Del Jueves 5 de noviembre al domingo 8",
-      "date": "2026-11-03T11:14:47+00:00"
     }
   ]
 }
