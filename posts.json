@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T16:05:05+00:00",
+  "updated": "2026-11-05T16:37:11+00:00",
   "posts": [
+    {
+      "id": "92c88383",
+      "image": "img/92c88383.png",
+      "image_sha": "e1832c778c79d19cb991bf631f44cb2469e94259",
+      "url": "https://www.radiodos.com.ar/216619-paraguay-renuncio-el-presidente-santiago-pena-tras-la-caida-de-ueno-bank",
+      "title": "Paraguay: renunció el presidente Santiago Peña tras la caída de Ueno Bank",
+      "volanta": "ÚLTIMO MOMENTO",
+      "date": "2026-11-05T16:37:11+00:00"
+    },
     {
       "id": "c79a6eab",
       "image": "img/c79a6eab.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes sede XXIII Encuentro Nacional de Carreras de Comunicación Social: comienza mañana",
       "volanta": "EN EL CAMPUS SARGENTO CABRAL",
       "date": "2026-11-03T14:21:14+00:00"
-    },
-    {
-      "id": "5bf21bc5",
-      "image": "img/5bf21bc5.png",
-      "image_sha": "00485e08ade7b84f69016e7926576812810d9f75",
-      "url": "https://www.radiodos.com.ar/216462-capacitacion-justicia-restaurativa-en-conflictos-de-genero-y-el-sistema-penal-juvenil",
-      "title": "Capacitación: justicia restaurativa en conflictos de género y el sistema penal juvenil",
-      "volanta": "PODER JUDICIAL",
-      "date": "2026-11-03T14:03:32+00:00"
     }
   ]
 }
