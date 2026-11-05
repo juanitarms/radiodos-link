@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T13:46:58+00:00",
+  "updated": "2026-11-05T14:04:21+00:00",
   "posts": [
+    {
+      "id": "2cae744a",
+      "image": "img/2cae744a.png",
+      "image_sha": "defb95c08bd7161bb7c268f53633d2059f60ac03",
+      "url": "https://www.radiodos.com.ar/216604-general-rodriguez-encontraron-muerta-a-una-mujer-que-estaba-desaparecida-y-detuvieron-a-su-expareja",
+      "title": "General Rodríguez: encontraron muerta a una mujer que estaba desaparecida y detuvieron a su expareja",
+      "volanta": "FEMICIDIO",
+      "date": "2026-11-05T14:04:21+00:00"
+    },
     {
       "id": "78c22b24",
       "image": "img/78c22b24.png",
@@ -531,15 +540,6 @@
       "title": "Inundaciones: intendente de Goya confirmó que asisten a 63 familias autoevacuadas",
       "volanta": "Mariano Hormaechea",
       "date": "2026-11-03T13:19:52+00:00"
-    },
-    {
-      "id": "047a8504",
-      "image": "img/047a8504.png",
-      "image_sha": "ad701956a0c92309103ace0bc96ef77a3f71858e",
-      "url": "https://www.radiodos.com.ar/216446-espana-murio-un-delantero-del-tenerife-tras-recibir-una-fuerte-patada-durante-un-partido",
-      "title": "España: murió un delantero del Tenerife tras recibir una fuerte patada durante un partido",
-      "volanta": "SEGUNDA DIVISIÓN",
-      "date": "2026-11-03T12:36:38+00:00"
     }
   ]
 }
