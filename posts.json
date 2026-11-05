@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T16:37:11+00:00",
+  "updated": "2026-11-05T16:50:05+00:00",
   "posts": [
+    {
+      "id": "9a9fdd8d",
+      "image": "img/9a9fdd8d.png",
+      "image_sha": "3d3342ee0b702f49979e2451425c5f5e07a0d262",
+      "url": "https://www.radiodos.com.ar/216616-desde-manana-se-habilitan-las-tarjetas-sapucay",
+      "title": "Desde mañana se habilitan las Tarjetas Sapucay",
+      "volanta": "DESARROLLO SOCIAL",
+      "date": "2026-11-05T16:50:05+00:00"
+    },
     {
       "id": "92c88383",
       "image": "img/92c88383.png",
@@ -531,15 +540,6 @@
       "title": "La China Ansa no se hizo cargo del tuit de Javier Milei pero aseguró: \"No fui parte de ninguna emboscada\"",
       "volanta": "POLÉMICA",
       "date": "2026-11-03T15:07:08+00:00"
-    },
-    {
-      "id": "0de9d0a1",
-      "image": "img/0de9d0a1.png",
-      "image_sha": "5a240032a91c1e4cf4406f11721c14d011dd6396",
-      "url": "https://www.radiodos.com.ar/216470-corrientes-sede-xxiii-encuentro-nacional-de-carreras-de-comunicacion-social-comienza-manana",
-      "title": "Corrientes sede XXIII Encuentro Nacional de Carreras de Comunicación Social: comienza mañana",
-      "volanta": "EN EL CAMPUS SARGENTO CABRAL",
-      "date": "2026-11-03T14:21:14+00:00"
     }
   ]
 }
