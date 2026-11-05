@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T12:55:33+00:00",
+  "updated": "2026-11-05T13:19:35+00:00",
   "posts": [
+    {
+      "id": "73693b08",
+      "image": "img/73693b08.png",
+      "image_sha": "d966b06eb219f49662349f6332eb7e09118f0a74",
+      "url": "https://www.radiodos.com.ar/216596-piden-250000-por-alquilar-un-balcon-para-ver-pasar-al-papa-en-cordoba-que-ofrecen-a-cambio",
+      "title": "Piden $250.000 por alquilar un balcón para ver pasar al Papa en Córdoba: qué ofrecen a cambio",
+      "volanta": "OPORTUNIDAD",
+      "date": "2026-11-05T13:19:35+00:00"
+    },
     {
       "id": "67ffe77c",
       "image": "img/67ffe77c.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Así se jugará la decimosexta y última fecha",
       "volanta": "Del Jueves 5 de noviembre al domingo 8",
       "date": "2026-11-03T11:14:47+00:00"
-    },
-    {
-      "id": "9163b123",
-      "image": "img/9163b123.png",
-      "image_sha": "6ed63c41441a516ceb81e657a3924866efa3bfd4",
-      "url": "https://www.radiodos.com.ar/216439-fallecio-el-periodista-y-escritor-carlos-lezcano",
-      "title": "Falleció el periodista y escritor Carlos Lezcano",
-      "volanta": "PESAR",
-      "date": "2026-11-03T10:19:56+00:00"
     }
   ]
 }
