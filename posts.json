@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T21:03:17+00:00",
+  "updated": "2026-11-05T10:48:22+00:00",
   "posts": [
+    {
+      "id": "f74ac114",
+      "image": "img/f74ac114.png",
+      "image_sha": "81a79786b047b06a5839cd1c685125f7a17b9b87",
+      "url": "https://www.radiodos.com.ar/216570-comenzo-el-pago-del-plus-unificado-a-empleados-publicos",
+      "title": "Comenzó el pago del Plus Unificado a empleados públicos",
+      "volanta": "HASTA EL VIERNES",
+      "date": "2026-11-05T10:48:22+00:00"
+    },
     {
       "id": "033ae00b",
       "image": "img/033ae00b.png",
@@ -531,15 +540,6 @@
       "title": "Dónde voto: publicaron el padrón provisorio para las elecciones 2027",
       "volanta": "COMICIOS ELECTORALES",
       "date": "2026-11-02T20:52:02+00:00"
-    },
-    {
-      "id": "f2723726",
-      "image": "img/f2723726.png",
-      "image_sha": "d2030d37862d7138aa6dcdf7bbacf6f3a0583d06",
-      "url": "https://www.radiodos.com.ar/216422-joven-de-19-anos-murio-tras-chocar-con-su-moto",
-      "title": "Joven de 19 años murió tras chocar con su moto",
-      "volanta": "TRAGEDIA",
-      "date": "2026-11-02T20:51:18+00:00"
     }
   ]
 }
