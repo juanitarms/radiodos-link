@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T13:31:59+00:00",
+  "updated": "2026-11-05T13:46:58+00:00",
   "posts": [
+    {
+      "id": "78c22b24",
+      "image": "img/78c22b24.png",
+      "image_sha": "beb76177c917f98f0de635abf4947d04099c67f7",
+      "url": "https://www.radiodos.com.ar/216595-comienza-el-juicio-a-dos-policias-por-la-muerte-del-joven-carlos-bartlett",
+      "title": "Comienza el juicio a dos policías por la muerte del joven Carlos Bartlett",
+      "volanta": "EL MARTES 10",
+      "date": "2026-11-05T13:46:58+00:00"
+    },
     {
       "id": "1177d52e",
       "image": "img/1177d52e.png",
@@ -531,15 +540,6 @@
       "title": "España: murió un delantero del Tenerife tras recibir una fuerte patada durante un partido",
       "volanta": "SEGUNDA DIVISIÓN",
       "date": "2026-11-03T12:36:38+00:00"
-    },
-    {
-      "id": "e892dbcf",
-      "image": "img/e892dbcf.png",
-      "image_sha": "4a9645dddd0df0d325e5fd8be50f12b25f2403ab",
-      "url": "https://www.radiodos.com.ar/216440-el-poder-judicial-de-corrientes-trabajara-a-reglamento-en-reclamo-de-mejoras-salariales",
-      "title": "El Poder Judicial de Corrientes trabajará a reglamento en reclamo de mejoras salariales",
-      "volanta": "RECLAMO",
-      "date": "2026-11-03T11:44:25+00:00"
     }
   ]
 }
