@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T23:04:04+00:00",
+  "updated": "2026-11-05T23:04:43+00:00",
   "posts": [
+    {
+      "id": "42b726aa",
+      "image": "img/42b726aa.png",
+      "image_sha": "1067c22cee30aeb877469a3ad52e6dd869829273",
+      "url": "https://www.radiodos.com.ar/216636-la-corte-suprema-ordeno-aplicar-la-reforma-laboral-para-actualizar-las-indemnizaciones-en-juicios-en-tramite",
+      "title": "La Corte Suprema ordenó aplicar la reforma laboral para actualizar las indemnizaciones en juicios en trámite",
+      "volanta": "fallo judicial",
+      "date": "2026-11-05T23:04:43+00:00"
+    },
     {
       "id": "345df1ec",
       "image": "img/345df1ec.png",
@@ -531,15 +540,6 @@
       "title": "Paso de la Patria: acuchilló a una mujer, golpeó a un hombre y fue detenido",
       "volanta": "DENUNCIA DE VECINOS",
       "date": "2026-11-04T10:55:13+00:00"
-    },
-    {
-      "id": "70365226",
-      "image": "img/70365226.png",
-      "image_sha": "f26376bf20be23295652658644ab9617cf09ce7b",
-      "url": "https://www.radiodos.com.ar/216497-continua-el-alerta-naranja-en-corrientes-por-tormentas-y-vientos-fuertes",
-      "title": "Continúa el alerta naranja en Corrientes por tormentas y vientos fuertes",
-      "volanta": "CLIMA",
-      "date": "2026-11-04T10:33:24+00:00"
     }
   ]
 }
