@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T20:57:01+00:00",
+  "updated": "2026-11-05T20:58:00+00:00",
   "posts": [
+    {
+      "id": "885f52ac",
+      "image": "img/885f52ac.png",
+      "image_sha": "e925e4174ffd3fd48549e31edf4eb9d5e1044b5c",
+      "url": "https://www.radiodos.com.ar/216629-detuvieron-a-dos-mujeres-con-mas-de-50-envoltorios-de-marihuana",
+      "title": "Detuvieron a dos mujeres con más de 50 envoltorios de marihuana",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-05T20:58:00+00:00"
+    },
     {
       "id": "935a8d7c",
       "image": "img/935a8d7c.png",
@@ -531,15 +540,6 @@
       "title": "Disney analiza el despido de miles de trabajadores para reducir en un 20% sus costos operativos",
       "volanta": "CRISIS",
       "date": "2026-11-03T18:53:11+00:00"
-    },
-    {
-      "id": "36b83fd6",
-      "image": "img/36b83fd6.png",
-      "image_sha": "90eb09a0bfda76ea003a6e682ea43f4314e67027",
-      "url": "https://www.radiodos.com.ar/216477-came-destaca-la-suspension-de-embargos-a-las-pymes",
-      "title": "CAME destaca la suspensión de embargos a las pymes",
-      "volanta": "COMUNICADO DE PRENSA",
-      "date": "2026-11-03T18:52:29+00:00"
     }
   ]
 }
