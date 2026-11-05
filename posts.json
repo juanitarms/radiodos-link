@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T20:58:00+00:00",
+  "updated": "2026-11-05T20:59:04+00:00",
   "posts": [
+    {
+      "id": "57d62d28",
+      "image": "img/57d62d28.png",
+      "image_sha": "8eeb17a9b6c2a61d71e7628dfa94b358b371bdd0",
+      "url": "https://www.radiodos.com.ar/216628-golpe-al-juego-clandestino-on-line-en-localidad-del-interior-de-corrientes-detuvieron-a-una-familia",
+      "title": "Golpe al juego clandestino \"on line\" en localidad del interior de Corrientes: detuvieron a una familia",
+      "volanta": "EN CURUZU",
+      "date": "2026-11-05T20:59:04+00:00"
+    },
     {
       "id": "885f52ac",
       "image": "img/885f52ac.png",
@@ -531,15 +540,6 @@
       "title": "Dos estudiantes heridos tras una brutal golpiza en la zona del puerto",
       "volanta": "VIOLENCIA EN CORRIENTES",
       "date": "2026-11-03T21:05:07+00:00"
-    },
-    {
-      "id": "b92e0393",
-      "image": "img/b92e0393.png",
-      "image_sha": "11ac55570e90d56d67ebda274133fb5954a8d06b",
-      "url": "https://www.radiodos.com.ar/216475-disney-analiza-el-despido-de-miles-de-trabajadores-para-reducir-en-un-20-sus-costos-operativos",
-      "title": "Disney analiza el despido de miles de trabajadores para reducir en un 20% sus costos operativos",
-      "volanta": "CRISIS",
-      "date": "2026-11-03T18:53:11+00:00"
     }
   ]
 }
