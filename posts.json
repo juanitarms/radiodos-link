@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T14:55:03+00:00",
+  "updated": "2026-11-05T16:05:05+00:00",
   "posts": [
+    {
+      "id": "c79a6eab",
+      "image": "img/c79a6eab.png",
+      "image_sha": "37bc67b458424b52207a726a5a649ce843d22cb6",
+      "url": "https://www.radiodos.com.ar/216617-renuncio-silvina-rollet-al-cargo-de-presidenta-del-consejo-de-educacion-de-corrientes",
+      "title": "Renunció Silvina Rollet al  cargo de presidenta del Consejo de Educación de Corrientes",
+      "volanta": "AHORA",
+      "date": "2026-11-05T16:05:05+00:00"
+    },
     {
       "id": "03af803c",
       "image": "img/03af803c.png",
@@ -531,15 +540,6 @@
       "title": "Capacitación: justicia restaurativa en conflictos de género y el sistema penal juvenil",
       "volanta": "PODER JUDICIAL",
       "date": "2026-11-03T14:03:32+00:00"
-    },
-    {
-      "id": "da5d2511",
-      "image": "img/da5d2511.png",
-      "image_sha": "e2a3964d41840c0ce5221ab9afacf68cb16d753a",
-      "url": "https://www.radiodos.com.ar/216460-j-p-valdes-anticipo-una-reestructuracion-y-algunos-cambios-en-el-ministerio-de-educacion",
-      "title": "J P Valdés anticipó \"una reestructuración y algunos cambios en el Ministerio de Educación\"",
-      "volanta": "RUEDA DE PRENSA",
-      "date": "2026-11-03T13:48:39+00:00"
     }
   ]
 }
