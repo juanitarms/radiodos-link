@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T18:00:30+00:00",
+  "updated": "2026-11-05T18:59:44+00:00",
   "posts": [
+    {
+      "id": "1a798394",
+      "image": "img/1a798394.png",
+      "image_sha": "5a5a1c29850a4acda42e964b98ddb5df8b4337a5",
+      "url": "https://www.radiodos.com.ar/216615-el-poder-judicial-entrego-un-vehiculo-al-juzgado-de-paz-de-caa-cati-para-fortalecer-la-atencion-en-zonas-rurales",
+      "title": "El Poder Judicial entregó un vehículo al Juzgado de Paz de Caá Catí para fortalecer la atención en zonas rurales",
+      "volanta": "ACCESO A LA JUSTICIA",
+      "date": "2026-11-05T18:59:44+00:00"
+    },
     {
       "id": "a08b8094",
       "image": "img/a08b8094.png",
@@ -531,15 +540,6 @@
       "title": "Horror: una mujer murió tras ser atacada por su perro pitbull",
       "volanta": "Mendoza",
       "date": "2026-11-03T18:03:00+00:00"
-    },
-    {
-      "id": "6fbb9b6c",
-      "image": "img/6fbb9b6c.png",
-      "image_sha": "43f359f22323a1213d6252591d37eba89eaf9e42",
-      "url": "https://www.radiodos.com.ar/216483-despues-de-14-anos-una-mujer-sera-indemnizada-por-su-vecino-por-un-tropezon-en-la-puerta-de-su-casa",
-      "title": "Después de 14 años una mujer será indemnizada por su vecino por un tropezón en la puerta de su casa",
-      "volanta": "Flores",
-      "date": "2026-11-03T18:02:17+00:00"
     }
   ]
 }
