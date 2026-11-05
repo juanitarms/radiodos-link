@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T22:59:56+00:00",
+  "updated": "2026-11-05T23:00:29+00:00",
   "posts": [
+    {
+      "id": "6a0e1f47",
+      "image": "img/6a0e1f47.png",
+      "image_sha": "2082efeba1cd1e8765879351e22e0a8e2cf48730",
+      "url": "https://www.radiodos.com.ar/216633-pity-alvarez-dio-positivo-por-cocaina-despues-de-declarar-en-el-juicio",
+      "title": "\"Pity\" Álvarez dio positivo por cocaína después de declarar en el juicio",
+      "volanta": "ACUSADO DE HOMICIDIO",
+      "date": "2026-11-05T23:00:29+00:00"
+    },
     {
       "id": "2ee1a57f",
       "image": "img/2ee1a57f.png",
@@ -531,15 +540,6 @@
       "title": "Valdés y Polich supervisaron obras hídricas en la Capital",
       "volanta": "ANTE EL FENÓMENO DE EL NIÑO",
       "date": "2026-11-03T22:45:31+00:00"
-    },
-    {
-      "id": "c34e101e",
-      "image": "img/c34e101e.png",
-      "image_sha": "c97d9a5e72f346a8fa675df0cb270ae3aef15f08",
-      "url": "https://www.radiodos.com.ar/216489-una-mujer-fue-atacada-por-su-propio-pitbull-su-hijo-la-salvo-y-mato-al-animal-con-un-cuchillo",
-      "title": "Una mujer fue atacada por su propio pitbull: su hijo la salvó y mató al animal con un cuchillo",
-      "volanta": "santa fe",
-      "date": "2026-11-03T22:05:39+00:00"
     }
   ]
 }
