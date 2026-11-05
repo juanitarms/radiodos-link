@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T10:48:22+00:00",
+  "updated": "2026-11-05T11:01:58+00:00",
   "posts": [
+    {
+      "id": "e0ef9475",
+      "image": "img/e0ef9475.png",
+      "image_sha": "ef5a38432c8ec551ba93ab0e5eda6ccf39447d60",
+      "url": "https://www.radiodos.com.ar/216569-frustraron-tres-robos-y-un-ladron-fue-detenido-al-bajar-del-techo",
+      "title": "Frustraron tres robos y un ladrón fue detenido al bajar del techo",
+      "volanta": "CAPITAL",
+      "date": "2026-11-05T11:01:58+00:00"
+    },
     {
       "id": "f74ac114",
       "image": "img/f74ac114.png",
@@ -531,15 +540,6 @@
       "title": "El correntino Leo Jara denunció una multimillonaria estafa inmobiliaria en Estados Unidos",
       "volanta": "ESCÁNDALO",
       "date": "2026-11-02T22:10:21+00:00"
-    },
-    {
-      "id": "ca2558c9",
-      "image": "img/ca2558c9.png",
-      "image_sha": "b1086804e65322bd09c1d1c6b4f67b4dfac1c26d",
-      "url": "https://www.radiodos.com.ar/216420-donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-2027",
-      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones 2027",
-      "volanta": "COMICIOS ELECTORALES",
-      "date": "2026-11-02T20:52:02+00:00"
     }
   ]
 }
