@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T16:50:48+00:00",
+  "updated": "2026-11-05T17:59:05+00:00",
   "posts": [
+    {
+      "id": "b73254ca",
+      "image": "img/b73254ca.png",
+      "image_sha": "6f748198cc2f2bf01de4223dbe2071e3c7823019",
+      "url": "https://www.radiodos.com.ar/216620-investigan-si-el-gobierno-uso-fondos-publicos-para-facilitar-la-salida-de-flavio-bolsonaro-de-la-argentina",
+      "title": "Investigan si el Gobierno usó fondos públicos para facilitar la salida de Flávio Bolsonaro de la Argentina",
+      "volanta": "TRAS LA POLÉMICA",
+      "date": "2026-11-05T17:59:05+00:00"
+    },
     {
       "id": "25455ba1",
       "image": "img/25455ba1.png",
@@ -531,15 +540,6 @@
       "title": "Estudiantes de Itá Ibaté realizaron experiencias de investigación microbiológica junto a profesionales de la UNNE",
       "volanta": "CUVE 2027",
       "date": "2026-11-03T16:57:54+00:00"
-    },
-    {
-      "id": "a6e67aef",
-      "image": "img/a6e67aef.png",
-      "image_sha": "e80d89626392178d7e1a1c6e559552ca7bb0bcf4",
-      "url": "https://www.radiodos.com.ar/216479-entradas-para-la-final-de-la-copa-libertadores-entre-estudiantes-y-palmeiras-precios-venta-y-ranking-de-socios",
-      "title": "Entradas para la final de la Copa Libertadores entre Estudiantes y Palmeiras: precios, venta y ranking de socios",
-      "volanta": "28 DE NOVIEMBRE",
-      "date": "2026-11-03T16:57:03+00:00"
     }
   ]
 }
