@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T23:00:29+00:00",
+  "updated": "2026-11-05T23:04:04+00:00",
   "posts": [
+    {
+      "id": "345df1ec",
+      "image": "img/345df1ec.png",
+      "image_sha": "5f26582d2354412c1933f4e3d4ef2b9a5f088c06",
+      "url": "https://www.radiodos.com.ar/216635-el-miercoles-11-de-noviembre-iniciara-el-pago-del-plus-municipal-en-la-ciudad-de-corrientes",
+      "title": "El miércoles 11 de noviembre iniciará el pago del plus municipal en la ciudad de Corrientes",
+      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
+      "date": "2026-11-05T23:04:04+00:00"
+    },
     {
       "id": "6a0e1f47",
       "image": "img/6a0e1f47.png",
@@ -531,15 +540,6 @@
       "title": "Continúa el alerta naranja en Corrientes por tormentas y vientos fuertes",
       "volanta": "CLIMA",
       "date": "2026-11-04T10:33:24+00:00"
-    },
-    {
-      "id": "a24b89ff",
-      "image": "img/a24b89ff.png",
-      "image_sha": "6a658a857cbcc668cb32d1ca53a59eb9e0f13d51",
-      "url": "https://www.radiodos.com.ar/216490-valdes-y-polich-supervisaron-obras-hidricas-en-la-capital",
-      "title": "Valdés y Polich supervisaron obras hídricas en la Capital",
-      "volanta": "ANTE EL FENÓMENO DE EL NIÑO",
-      "date": "2026-11-03T22:45:31+00:00"
     }
   ]
 }
