@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T16:50:05+00:00",
+  "updated": "2026-11-05T16:50:48+00:00",
   "posts": [
+    {
+      "id": "25455ba1",
+      "image": "img/25455ba1.png",
+      "image_sha": "bbf0c824dd65592fc85bd1a97e00a3988a367328",
+      "url": "https://www.radiodos.com.ar/216614-se-aprobo-la-adhesion-a-la-emergencia-hidrica-y-climatica",
+      "title": "Se aprobó la adhesión a la emergencia hídrica y climática",
+      "volanta": "ÚLTIMA SESIÓN",
+      "date": "2026-11-05T16:50:48+00:00"
+    },
     {
       "id": "9a9fdd8d",
       "image": "img/9a9fdd8d.png",
@@ -531,15 +540,6 @@
       "title": "Entradas para la final de la Copa Libertadores entre Estudiantes y Palmeiras: precios, venta y ranking de socios",
       "volanta": "28 DE NOVIEMBRE",
       "date": "2026-11-03T16:57:03+00:00"
-    },
-    {
-      "id": "b55c1def",
-      "image": "img/b55c1def.png",
-      "image_sha": "a641d4f99a2c8e3fe75a12b06fa8d4b52818e7cf",
-      "url": "https://www.radiodos.com.ar/216469-la-china-ansa-no-se-hizo-cargo-del-tuit-de-javier-milei-pero-aseguro-no-fui-parte-de-ninguna-emboscada",
-      "title": "La China Ansa no se hizo cargo del tuit de Javier Milei pero aseguró: \"No fui parte de ninguna emboscada\"",
-      "volanta": "POLÉMICA",
-      "date": "2026-11-03T15:07:08+00:00"
     }
   ]
 }
