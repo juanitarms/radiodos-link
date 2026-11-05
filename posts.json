@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T20:59:45+00:00",
+  "updated": "2026-11-05T21:00:24+00:00",
   "posts": [
+    {
+      "id": "7f73a887",
+      "image": "img/7f73a887.png",
+      "image_sha": "3dd0685d496493ea860366ec55bd237397e1acd3",
+      "url": "https://www.radiodos.com.ar/216631-aprobaron-por-180-dias-la-emergencia-hidrica-en-corrientes",
+      "title": "Aprobaron por 180 días la emergencia hídrica en Corrientes",
+      "volanta": "FENOMENO EL NIÑO",
+      "date": "2026-11-05T21:00:24+00:00"
+    },
     {
       "id": "94f4a842",
       "image": "img/94f4a842.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: se reanuda el juicio este miércoles con declaraciones de policías y peritos",
       "volanta": "CORRIENTES",
       "date": "2026-11-03T22:02:41+00:00"
-    },
-    {
-      "id": "52d36ced",
-      "image": "img/52d36ced.png",
-      "image_sha": "3331d9890b6ddebef53866b618ab1b61c59910c2",
-      "url": "https://www.radiodos.com.ar/216485-hallan-a-181-kilometros-de-distancia-un-caballo-a-que-habia-sido-robado-en-julio",
-      "title": "Hallan a 181 kilómetros de distancia un caballo a que había sido robado en julio",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-03T21:05:50+00:00"
     }
   ]
 }
