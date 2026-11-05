@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T21:01:07+00:00",
+  "updated": "2026-11-05T22:59:04+00:00",
   "posts": [
+    {
+      "id": "176d6bc2",
+      "image": "img/176d6bc2.png",
+      "image_sha": "91d29570f89cc0c9f69c6f25873a2a85d2346755",
+      "url": "https://www.radiodos.com.ar/216632-marcos-amarilla-el-consenso-y-el-dialogo-que-hay-en-el-concejo-deliberante-es-excepcional",
+      "title": "Marcos Amarilla: \"El consenso y el diálogo que hay en el Concejo Deliberante es excepcional\"",
+      "volanta": "NOTA EN ESTUDIOS",
+      "date": "2026-11-05T22:59:04+00:00"
+    },
     {
       "id": "57092a3a",
       "image": "img/57092a3a.png",
@@ -531,15 +540,6 @@
       "title": "Juan José Toledo ganó la carrera 10K \"Ciudad de las Esculturas\" de Resistencia",
       "volanta": "DEPORTES",
       "date": "2026-11-03T22:04:37+00:00"
-    },
-    {
-      "id": "b9fec89a",
-      "image": "img/b9fec89a.png",
-      "image_sha": "6a599b5fe463c7651d52e59ed65aa1cac4051a8b",
-      "url": "https://www.radiodos.com.ar/216488-el-mid-homenajeo-a-frondizi-y-propuso-reivindicar-su-legado-en-toda-la-provincia",
-      "title": "El MID homenajeó a Frondizi y propuso reivindicar su legado en toda la provincia",
-      "volanta": "en paso de los libres",
-      "date": "2026-11-03T22:03:56+00:00"
     }
   ]
 }
