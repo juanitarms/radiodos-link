@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T12:25:45+00:00",
+  "updated": "2026-11-05T12:27:40+00:00",
   "posts": [
+    {
+      "id": "e589925f",
+      "image": "img/e589925f.png",
+      "image_sha": "48b3b4ed57145d7d168f884b2f1433c28d69cecc",
+      "url": "https://www.radiodos.com.ar/216573-vecinos-carnearon-a-los-animales-muertos-tras-vuelco-de-un-camion-en-corrientes",
+      "title": "Vecinos carnearon a los animales muertos tras vuelco de un camión en Corrientes",
+      "volanta": "RUTA 123",
+      "date": "2026-11-05T12:27:40+00:00"
+    },
     {
       "id": "0049c774",
       "image": "img/0049c774.png",
@@ -531,15 +540,6 @@
       "title": "Peritan ADN de los cinco detenidos por la muerte de la maestra Nancy Godoy",
       "volanta": "MAESTRA ASESINADA",
       "date": "2026-11-02T22:14:01+00:00"
-    },
-    {
-      "id": "1df1393c",
-      "image": "img/1df1393c.png",
-      "image_sha": "08505edb2cd5c807247778a381f66e1d2fbad36b",
-      "url": "https://www.radiodos.com.ar/216425-corrientes-encabeza-el-avance-del-agua-en-la-cuenca-del-parana",
-      "title": "Corrientes encabeza el avance del agua en la cuenca del Paraná",
-      "volanta": "Monitoreo del INTA",
-      "date": "2026-11-02T22:13:27+00:00"
     }
   ]
 }
