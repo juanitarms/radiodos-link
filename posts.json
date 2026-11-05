@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T20:59:04+00:00",
+  "updated": "2026-11-05T20:59:45+00:00",
   "posts": [
+    {
+      "id": "94f4a842",
+      "image": "img/94f4a842.png",
+      "image_sha": "55448e9845a7a6ccfac8ced4d929a9086f97a367",
+      "url": "https://www.radiodos.com.ar/216627-torneo-clausura-el-millo-se-recupero-en-la-feliz",
+      "title": "Torneo Clausura: El Millo se recuperó en La Feliz",
+      "volanta": "Fue 2 a 0",
+      "date": "2026-11-05T20:59:45+00:00"
+    },
     {
       "id": "57d62d28",
       "image": "img/57d62d28.png",
@@ -531,15 +540,6 @@
       "title": "Hallan a 181 kilómetros de distancia un caballo a que había sido robado en julio",
       "volanta": "CORRIENTES",
       "date": "2026-11-03T21:05:50+00:00"
-    },
-    {
-      "id": "c2ff2385",
-      "image": "img/c2ff2385.png",
-      "image_sha": "cff119ed188545c2c7b15d5f055eaf89364e7b0c",
-      "url": "https://www.radiodos.com.ar/216486-dos-estudiantes-heridos-tras-una-brutal-golpiza-en-la-zona-del-puerto",
-      "title": "Dos estudiantes heridos tras una brutal golpiza en la zona del puerto",
-      "volanta": "VIOLENCIA EN CORRIENTES",
-      "date": "2026-11-03T21:05:07+00:00"
     }
   ]
 }
