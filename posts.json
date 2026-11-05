@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T14:27:51+00:00",
+  "updated": "2026-11-05T14:55:03+00:00",
   "posts": [
+    {
+      "id": "03af803c",
+      "image": "img/03af803c.png",
+      "image_sha": "32a9f9712123f08036163c9fe48f46c2171a745f",
+      "url": "https://www.radiodos.com.ar/216610-sos-muy-cagon-se-filtro-el-chat-entre-santiago-maratea-y-un-periodista-tras-la-investigacion-de-sus-colectas",
+      "title": "\"Sos muy cagón\": se filtró el chat entre Santiago Maratea y un periodista tras la investigación de sus colectas",
+      "volanta": "SIGUE LA POLÉMICA",
+      "date": "2026-11-05T14:55:03+00:00"
+    },
     {
       "id": "9dfaf40b",
       "image": "img/9dfaf40b.png",
@@ -531,15 +540,6 @@
       "title": "J P Valdés anticipó \"una reestructuración y algunos cambios en el Ministerio de Educación\"",
       "volanta": "RUEDA DE PRENSA",
       "date": "2026-11-03T13:48:39+00:00"
-    },
-    {
-      "id": "d9256e4c",
-      "image": "img/d9256e4c.png",
-      "image_sha": "f3870df214f63c51a90f1a3008cf35cc1479ec0f",
-      "url": "https://www.radiodos.com.ar/216461-el-ultimo-pabellon-como-se-eligio-a-los-74-presos-de-devoto-que-recibiran-la-bendicion-del-papa-leon-xiv",
-      "title": "El último pabellón: cómo se eligió a los 74 presos de Devoto que recibirán la bendición del papa León XIV",
-      "volanta": "VISITA A ARGENTINA",
-      "date": "2026-11-03T13:37:17+00:00"
     }
   ]
 }
