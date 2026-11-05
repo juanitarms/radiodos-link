@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T21:00:24+00:00",
+  "updated": "2026-11-05T21:01:07+00:00",
   "posts": [
+    {
+      "id": "57092a3a",
+      "image": "img/57092a3a.png",
+      "image_sha": "643ec18c35c5cab2d3084a64f883ef7533d06ac4",
+      "url": "https://www.radiodos.com.ar/216630-el-gobierno-de-la-provincia-realizara-un-operativo-integral-en-el-barrio-santa-marta",
+      "title": "El Gobierno de la Provincia realizará un operativo integral en el barrio Santa Marta",
+      "volanta": "CORRIENTES CERCA",
+      "date": "2026-11-05T21:01:07+00:00"
+    },
     {
       "id": "7f73a887",
       "image": "img/7f73a887.png",
@@ -531,15 +540,6 @@
       "title": "El MID homenajeó a Frondizi y propuso reivindicar su legado en toda la provincia",
       "volanta": "en paso de los libres",
       "date": "2026-11-03T22:03:56+00:00"
-    },
-    {
-      "id": "70d9e572",
-      "image": "img/70d9e572.png",
-      "image_sha": "6691075a44594393c5bf18a346dc5a48321a6cc0",
-      "url": "https://www.radiodos.com.ar/216487-caso-loan-se-reanuda-el-juicio-este-miercoles-con-declaraciones-de-policias-y-peritos",
-      "title": "Caso Loan: se reanuda el juicio este miércoles con declaraciones de policías y peritos",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-03T22:02:41+00:00"
     }
   ]
 }
