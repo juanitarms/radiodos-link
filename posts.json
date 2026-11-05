@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T23:05:51+00:00",
+  "updated": "2026-11-05T23:06:25+00:00",
   "posts": [
+    {
+      "id": "67c8326d",
+      "image": "img/67c8326d.png",
+      "image_sha": "9b53c0c0276d7a1fddb9fe0a06af1288e3c4fb9e",
+      "url": "https://www.radiodos.com.ar/216639-el-tradicional-festival-de-santo-tome-fue-declarado-fiesta-nacional-del-folklore-correntino",
+      "title": "El tradicional festival de Santo Tomé fue declarado Fiesta Nacional del Folklore Correntino",
+      "volanta": "HISTÓRICO",
+      "date": "2026-11-05T23:06:25+00:00"
+    },
     {
       "id": "a0c27f19",
       "image": "img/a0c27f19.png",
@@ -531,15 +540,6 @@
       "title": "Destacada actuación de tenistas rojinegros en los Regionales de la AAT",
       "volanta": "LOGROS",
       "date": "2026-11-04T12:52:42+00:00"
-    },
-    {
-      "id": "ee93e770",
-      "image": "img/ee93e770.png",
-      "image_sha": "59890121092a9d439f3c7d1d60f4a316a3786ae2",
-      "url": "https://www.radiodos.com.ar/216504-un-detenido-y-joyas-robadas-recuperadas",
-      "title": "Un detenido y joyas robadas recuperadas",
-      "volanta": "RÁPIDO ACCIONAR POLICIAL",
-      "date": "2026-11-04T12:18:44+00:00"
     }
   ]
 }
