@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T14:04:21+00:00",
+  "updated": "2026-11-05T14:27:51+00:00",
   "posts": [
+    {
+      "id": "9dfaf40b",
+      "image": "img/9dfaf40b.png",
+      "image_sha": "db2d697e64431217113f38f08aaaaffb4f38db39",
+      "url": "https://www.radiodos.com.ar/216598-con-amplio-consenso-el-senado-avanzo-con-el-proyecto-de-ley-de-discapacidad",
+      "title": "Con amplio consenso, el Senado avanzó con el proyecto de Ley de Discapacidad",
+      "volanta": "DEBATE",
+      "date": "2026-11-05T14:27:51+00:00"
+    },
     {
       "id": "2cae744a",
       "image": "img/2cae744a.png",
@@ -531,15 +540,6 @@
       "title": "El último pabellón: cómo se eligió a los 74 presos de Devoto que recibirán la bendición del papa León XIV",
       "volanta": "VISITA A ARGENTINA",
       "date": "2026-11-03T13:37:17+00:00"
-    },
-    {
-      "id": "213e574f",
-      "image": "img/213e574f.png",
-      "image_sha": "b1de4697899be7a4af6d06703a6181ae03c18015",
-      "url": "https://www.radiodos.com.ar/216452-inundaciones-intendente-de-goya-confirmo-que-asisten-a-63-familias-autoevacuadas",
-      "title": "Inundaciones: intendente de Goya confirmó que asisten a 63 familias autoevacuadas",
-      "volanta": "Mariano Hormaechea",
-      "date": "2026-11-03T13:19:52+00:00"
     }
   ]
 }
