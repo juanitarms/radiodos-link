@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T22:59:04+00:00",
+  "updated": "2026-11-05T22:59:56+00:00",
   "posts": [
+    {
+      "id": "2ee1a57f",
+      "image": "img/2ee1a57f.png",
+      "image_sha": "684ec143359a59c1bf9af0b8560665ff08d3989e",
+      "url": "https://www.radiodos.com.ar/216634-jp-valdes-superviso-el-avance-de-la-pavimentacion-de-la-ruta-provincial-126",
+      "title": "JP Valdés supervisó el avance de la pavimentación de la Ruta Provincial 126",
+      "volanta": "INFRAESTRUCTURA VIAL",
+      "date": "2026-11-05T22:59:56+00:00"
+    },
     {
       "id": "176d6bc2",
       "image": "img/176d6bc2.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer fue atacada por su propio pitbull: su hijo la salvó y mató al animal con un cuchillo",
       "volanta": "santa fe",
       "date": "2026-11-03T22:05:39+00:00"
-    },
-    {
-      "id": "469d0010",
-      "image": "img/469d0010.png",
-      "image_sha": "962a78856971e879fd03e111d26adb3c98e35b11",
-      "url": "https://www.radiodos.com.ar/216484-juan-jose-toledo-gano-la-carrera-10k-ciudad-de-las-esculturas-de-resistencia",
-      "title": "Juan José Toledo ganó la carrera 10K \"Ciudad de las Esculturas\" de Resistencia",
-      "volanta": "DEPORTES",
-      "date": "2026-11-03T22:04:37+00:00"
     }
   ]
 }
