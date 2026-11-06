@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T12:10:19+00:00",
+  "updated": "2026-11-06T12:27:11+00:00",
   "posts": [
+    {
+      "id": "74cb0988",
+      "image": "img/74cb0988.png",
+      "image_sha": "fdaddfc8d05aec8bced707a5e41f81030aaf0a26",
+      "url": "https://www.radiodos.com.ar/216646-prestamista-colombiano-herido-tras-reclamar-millonaria-suma-en-un-barrio-de-corrientes",
+      "title": "\"Prestamista\" colombiano herido tras reclamar millonaria suma en un barrio de Corrientes",
+      "volanta": "barrio san antonio oeste",
+      "date": "2026-11-06T12:27:11+00:00"
+    },
     {
       "id": "c9268281",
       "image": "img/c9268281.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV llamó a \"revitalizar\" la educación en la Doctrina Social de la Iglesia",
       "volanta": "BIEN COMUN",
       "date": "2026-11-04T14:30:45+00:00"
-    },
-    {
-      "id": "ff590dcb",
-      "image": "img/ff590dcb.png",
-      "image_sha": "d5d4a87ce197c008a4a5cc498d1f548c221d7cac",
-      "url": "https://www.radiodos.com.ar/216527-rio-negro-hallaron-un-esqueleto-con-las-manos-y-pies-atados-bajo-el-piso-de-una-ex-estacion-de-servicio",
-      "title": "Río Negro: hallaron un esqueleto con las manos y pies atados bajo el piso de una ex estación de servicio",
-      "volanta": "SIERRA GRANDE",
-      "date": "2026-11-04T14:15:57+00:00"
     }
   ]
 }
