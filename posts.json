@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T14:33:21+00:00",
+  "updated": "2026-11-06T15:18:54+00:00",
   "posts": [
+    {
+      "id": "1c2c530d",
+      "image": "img/1c2c530d.png",
+      "image_sha": "e37e19cb0ef2342dcc498ba80c4466464255479f",
+      "url": "https://www.radiodos.com.ar/216676-asi-sera-el-funcionamiento-de-los-servicios-durante-el-feriado-nacional-del-lunes",
+      "title": "Así será el funcionamiento de los servicios durante el feriado nacional del lunes",
+      "volanta": "ATENCIONES MUNICIPALES",
+      "date": "2026-11-06T15:18:54+00:00"
+    },
     {
       "id": "6ab2129e",
       "image": "img/6ab2129e.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadora sexual trans, sobre la violencia que viven en Palermo: \"No es la primera vez que pasa\"",
       "volanta": "DURA REALIDAD",
       "date": "2026-11-04T16:46:48+00:00"
-    },
-    {
-      "id": "041f6f2c",
-      "image": "img/041f6f2c.png",
-      "image_sha": "63cc138c5b7b070bc9b86976a7227ceee84c8b76",
-      "url": "https://www.radiodos.com.ar/216540-juegos-nacionales-alegria-y-satisfaccion-en-los-primeros-medallistas-de-corrientes",
-      "title": "Juegos Nacionales: alegría y satisfacción en los primeros medallistas de Corrientes",
-      "volanta": "EN MAR DEL PLATA",
-      "date": "2026-11-04T16:46:00+00:00"
     }
   ]
 }
