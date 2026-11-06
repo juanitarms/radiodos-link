@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-05T23:06:25+00:00",
+  "updated": "2026-11-06T10:46:00+00:00",
   "posts": [
+    {
+      "id": "b3e3b7ba",
+      "image": "img/b3e3b7ba.png",
+      "image_sha": "a027cbd94700f42d3696bd1b17d97e1e337601d5",
+      "url": "https://www.radiodos.com.ar/216642-conoce-al-chaqueno-que-firmo-con-el-santos-de-brasil-y-que-tiene-una-clausula-de-100-millones-de-dolares",
+      "title": "Conocé al chaqueño que firmó con el Santos de Brasil y que tiene una cláusula de 100 millones de dólares",
+      "volanta": "Con tan solo 16 años",
+      "date": "2026-11-06T10:46:00+00:00"
+    },
     {
       "id": "67c8326d",
       "image": "img/67c8326d.png",
@@ -531,15 +540,6 @@
       "title": "Un \"trapito\" demorado por tratar agresivamente a automovilistas",
       "volanta": "GRIM II",
       "date": "2026-11-04T13:21:44+00:00"
-    },
-    {
-      "id": "3d7c9427",
-      "image": "img/3d7c9427.png",
-      "image_sha": "feb22cec2f3b87e19e20f75585d66660998f5d77",
-      "url": "https://www.radiodos.com.ar/216503-destacada-actuacion-de-tenistas-rojinegros-en-los-regionales-de-la-aat",
-      "title": "Destacada actuación de tenistas rojinegros en los Regionales de la AAT",
-      "volanta": "LOGROS",
-      "date": "2026-11-04T12:52:42+00:00"
     }
   ]
 }
