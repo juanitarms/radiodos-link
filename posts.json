@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T13:21:53+00:00",
+  "updated": "2026-11-06T14:33:21+00:00",
   "posts": [
+    {
+      "id": "6ab2129e",
+      "image": "img/6ab2129e.png",
+      "image_sha": "62f47fa73e58c76f446c0920a7e8eab069a32cc8",
+      "url": "https://www.radiodos.com.ar/216679-el-angustiante-descargo-de-lizy-tagliani-sobre-las-vidas-de-las-personas-trans-tras-el-ataque-en-palermo",
+      "title": "El angustiante descargo de Lizy Tagliani sobre las vidas de las personas trans tras el ataque en Palermo",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-11-06T14:33:21+00:00"
+    },
     {
       "id": "8d48a78d",
       "image": "img/8d48a78d.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Nacionales: alegría y satisfacción en los primeros medallistas de Corrientes",
       "volanta": "EN MAR DEL PLATA",
       "date": "2026-11-04T16:46:00+00:00"
-    },
-    {
-      "id": "e8d6d8dc",
-      "image": "img/e8d6d8dc.png",
-      "image_sha": "b7f44b5a400a32c2effeaa8bacff55c91f8381f6",
-      "url": "https://www.radiodos.com.ar/216535-thiago-messi-cumplio-14-anos-y-antonela-roccuzzo-le-dedico-un-tierno-mensaje-me-hiciste-mama",
-      "title": "Thiago Messi cumplió 14 años y Antonela Roccuzzo le dedicó un tierno mensaje: \"Me hiciste mamá\"",
-      "volanta": "MADRAZA",
-      "date": "2026-11-04T14:58:08+00:00"
     }
   ]
 }
