@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T18:53:18+00:00",
+  "updated": "2026-11-06T18:53:53+00:00",
   "posts": [
+    {
+      "id": "7512380d",
+      "image": "img/7512380d.png",
+      "image_sha": "0ec116318d488ee3ab628f50e327066245f3a91e",
+      "url": "https://www.radiodos.com.ar/216687-prefectura-secuestro-mas-de-37-kilos-de-droga-que-fueron-arrojados-desde-una-embarcacion-proveniente-de-paraguay",
+      "title": "Prefectura secuestró más de 37 kilos de droga que fueron arrojados desde una embarcación proveniente de Paraguay",
+      "volanta": "ITÁ IBATÉ",
+      "date": "2026-11-06T18:53:53+00:00"
+    },
     {
       "id": "13df92f4",
       "image": "img/13df92f4.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: un trabajador murió ahogado en un aljibe y otro lucha por su vida",
       "volanta": "CATAMARCA",
       "date": "2026-11-04T19:37:04+00:00"
-    },
-    {
-      "id": "7d9fc156",
-      "image": "img/7d9fc156.png",
-      "image_sha": "be8d6b0d2d9998846b3cb01218d9c090d3cba165",
-      "url": "https://www.radiodos.com.ar/216546-santiago-pena-tras-la-disolucion-de-ueno-bank-la-prioridad-es-y-sera-proteger-el-fruto-de-ese-esfuerzo",
-      "title": "Santiago Peña, tras la disolución de Ueno Bank: \"La prioridad es y será proteger el fruto de ese esfuerzo\"",
-      "volanta": "CRISIS",
-      "date": "2026-11-04T18:22:40+00:00"
     }
   ]
 }
