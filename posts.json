@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T12:27:11+00:00",
+  "updated": "2026-11-06T12:59:38+00:00",
   "posts": [
+    {
+      "id": "348af157",
+      "image": "img/348af157.png",
+      "image_sha": "b1e0d267844fcdcbb994d9fa34d23ac79295b78d",
+      "url": "https://www.radiodos.com.ar/216662-caso-andis-los-kovalivker-no-respondieron-preguntas-pero-rechazaron-acusaciones-y-pidieron-anular-la-causa",
+      "title": "Caso ANDIS: los Kovalivker no respondieron preguntas pero rechazaron acusaciones y pidieron anular la causa",
+      "volanta": "CAUSA ABIERTA",
+      "date": "2026-11-06T12:59:38+00:00"
+    },
     {
       "id": "74cb0988",
       "image": "img/74cb0988.png",
@@ -531,15 +540,6 @@
       "title": "ANMAT prohibió insumos médicos por irregularidades y sospechas de falsificación",
       "volanta": "OFICIAL",
       "date": "2026-11-04T14:44:45+00:00"
-    },
-    {
-      "id": "6644758a",
-      "image": "img/6644758a.png",
-      "image_sha": "0711dabb95e76f35515ea2a1830c112394ca3cc7",
-      "url": "https://www.radiodos.com.ar/216530-el-papa-leon-xiv-llamo-a-revitalizar-la-educacion-en-la-doctrina-social-de-la-iglesia",
-      "title": "El papa León XIV llamó a \"revitalizar\" la educación en la Doctrina Social de la Iglesia",
-      "volanta": "BIEN COMUN",
-      "date": "2026-11-04T14:30:45+00:00"
     }
   ]
 }
