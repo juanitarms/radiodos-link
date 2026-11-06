@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T15:18:54+00:00",
+  "updated": "2026-11-06T17:32:42+00:00",
   "posts": [
+    {
+      "id": "deb559d0",
+      "image": "img/deb559d0.png",
+      "image_sha": "2bd8962728395a4e4a60b7c654363b62a01c0280",
+      "url": "https://www.radiodos.com.ar/216691-caso-manuel-adorni-para-el-fiscal-gerardo-pollicita-no-se-pudo-corroborar-enriquecimiento-ilicito",
+      "title": "Caso Manuel Adorni: para el fiscal Gerardo Pollicita, no se pudo corroborar enriquecimiento ilícito",
+      "volanta": "SIGUE LA INVESTIGACIÓN",
+      "date": "2026-11-06T17:32:42+00:00"
+    },
     {
       "id": "1c2c530d",
       "image": "img/1c2c530d.png",
@@ -531,15 +540,6 @@
       "title": "Gendarmería incautó más de 500 kilos de marihuana en la selva misionera",
       "volanta": "OPERATIVO",
       "date": "2026-11-04T16:47:27+00:00"
-    },
-    {
-      "id": "e95f069a",
-      "image": "img/e95f069a.png",
-      "image_sha": "e0631035ce05e285b08cf9fc8a6d88ac3f53f39c",
-      "url": "https://www.radiodos.com.ar/216541-trabajadora-sexual-trans-sobre-la-violencia-que-viven-en-palermo-no-es-la-primera-vez-que-pasa",
-      "title": "Trabajadora sexual trans, sobre la violencia que viven en Palermo: \"No es la primera vez que pasa\"",
-      "volanta": "DURA REALIDAD",
-      "date": "2026-11-04T16:46:48+00:00"
     }
   ]
 }
