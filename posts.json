@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T17:33:13+00:00",
+  "updated": "2026-11-06T17:33:51+00:00",
   "posts": [
+    {
+      "id": "297dd5d6",
+      "image": "img/297dd5d6.png",
+      "image_sha": "80c8e60d7daf359ac7ea522dc8b687973fcd017c",
+      "url": "https://www.radiodos.com.ar/216689-adepa-le-dio-la-bienvenida-al-papa-leon-xiv-y-destaco-el-rol-del-periodismo",
+      "title": "ADEPA le dio la bienvenida al papa León XIV y destacó el rol del periodismo",
+      "volanta": "LLEGA EL DOMINGO",
+      "date": "2026-11-06T17:33:51+00:00"
+    },
     {
       "id": "621d5825",
       "image": "img/621d5825.png",
@@ -531,15 +540,6 @@
       "title": "Fabricantes de industria nacional rematan zapatos, sandalias, botas y zapatillas de marca a $5.000",
       "volanta": "CRISIS",
       "date": "2026-11-04T18:22:00+00:00"
-    },
-    {
-      "id": "05f226c0",
-      "image": "img/05f226c0.png",
-      "image_sha": "0340de1e0a9855be52ca087824501bda3de8a88c",
-      "url": "https://www.radiodos.com.ar/216547-diego-vadell-la-idea-es-encaminar-la-temporada-que-arranco-mal",
-      "title": "Diego Vadell: \"La idea es encaminar la temporada que arrancó mal\"",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-11-04T18:21:12+00:00"
     }
   ]
 }
