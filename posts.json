@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T12:59:38+00:00",
+  "updated": "2026-11-06T13:21:53+00:00",
   "posts": [
+    {
+      "id": "8d48a78d",
+      "image": "img/8d48a78d.png",
+      "image_sha": "3d135b4b078ecb8263cef6aa551f0b99796ed468",
+      "url": "https://www.radiodos.com.ar/216648-la-auditoria-general-de-la-nacion-visito-economicas-de-la-unne",
+      "title": "La Auditoría General de la Nación visitó Económicas de la UNNE",
+      "volanta": "ENTRE ESTE 4 Y 5 DE NOVIEMBRE",
+      "date": "2026-11-06T13:21:53+00:00"
+    },
     {
       "id": "348af157",
       "image": "img/348af157.png",
@@ -531,15 +540,6 @@
       "title": "Thiago Messi cumplió 14 años y Antonela Roccuzzo le dedicó un tierno mensaje: \"Me hiciste mamá\"",
       "volanta": "MADRAZA",
       "date": "2026-11-04T14:58:08+00:00"
-    },
-    {
-      "id": "45057548",
-      "image": "img/45057548.png",
-      "image_sha": "7f0ee5e9e2ebb4f831426c1bede2e0c3d47db8c8",
-      "url": "https://www.radiodos.com.ar/216529-anmat-prohibio-insumos-medicos-por-irregularidades-y-sospechas-de-falsificacion",
-      "title": "ANMAT prohibió insumos médicos por irregularidades y sospechas de falsificación",
-      "volanta": "OFICIAL",
-      "date": "2026-11-04T14:44:45+00:00"
     }
   ]
 }
