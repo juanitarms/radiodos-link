@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T17:33:51+00:00",
+  "updated": "2026-11-06T18:53:18+00:00",
   "posts": [
+    {
+      "id": "13df92f4",
+      "image": "img/13df92f4.png",
+      "image_sha": "7ab07ffd3ff37b910b4c07d4ccc78e5425ba2b86",
+      "url": "https://www.radiodos.com.ar/216692-el-senado-de-paraguay-rechazo-el-pedido-de-prorroga-de-santiago-pena-y-avanza-el-juicio-politico",
+      "title": "El Senado de Paraguay rechazó el pedido de prórroga de Santiago Peña y avanza el juicio político",
+      "volanta": "CRISIS",
+      "date": "2026-11-06T18:53:18+00:00"
+    },
     {
       "id": "297dd5d6",
       "image": "img/297dd5d6.png",
@@ -531,15 +540,6 @@
       "title": "Santiago Peña, tras la disolución de Ueno Bank: \"La prioridad es y será proteger el fruto de ese esfuerzo\"",
       "volanta": "CRISIS",
       "date": "2026-11-04T18:22:40+00:00"
-    },
-    {
-      "id": "2f619734",
-      "image": "img/2f619734.png",
-      "image_sha": "53adc089a271eb5f9f4813f9dc2df286b6053e2d",
-      "url": "https://www.radiodos.com.ar/216545-fabricantes-de-industria-nacional-rematan-zapatos-sandalias-botas-y-zapatillas-de-marca-a-5000",
-      "title": "Fabricantes de industria nacional rematan zapatos, sandalias, botas y zapatillas de marca a $5.000",
-      "volanta": "CRISIS",
-      "date": "2026-11-04T18:22:00+00:00"
     }
   ]
 }
