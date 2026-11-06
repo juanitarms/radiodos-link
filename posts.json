@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T11:33:22+00:00",
+  "updated": "2026-11-06T11:49:13+00:00",
   "posts": [
+    {
+      "id": "207917e4",
+      "image": "img/207917e4.png",
+      "image_sha": "df318650688a82879e52209992980eb54e98d182",
+      "url": "https://www.radiodos.com.ar/216644-nene-de-5-murio-tras-ser-atropellado-por-un-vecino-en-el-interior-de-corrientes",
+      "title": "Nene de 5 murió tras ser atropellado por un vecino en el interior de Corrientes",
+      "volanta": "SALADAS",
+      "date": "2026-11-06T11:49:13+00:00"
+    },
     {
       "id": "d6036896",
       "image": "img/d6036896.png",
@@ -531,15 +540,6 @@
       "title": "La Justicia le puso un límite a la duración de los procesos penales contra menores de edad",
       "volanta": "FALLO",
       "date": "2026-11-04T14:02:29+00:00"
-    },
-    {
-      "id": "828ea4c8",
-      "image": "img/828ea4c8.png",
-      "image_sha": "cc94cfb2e02d5c3d63e796712ce960e15bbe8f41",
-      "url": "https://www.radiodos.com.ar/216509-el-renatre-aumenta-la-prestacion-por-desempleo-y-eleva-el-monto-maximo-a-420000",
-      "title": "El RENATRE aumenta la Prestación por Desempleo y eleva el monto máximo a $420.000",
-      "volanta": "NOVEDAD",
-      "date": "2026-11-04T13:46:21+00:00"
     }
   ]
 }
