@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T11:49:13+00:00",
+  "updated": "2026-11-06T12:10:19+00:00",
   "posts": [
+    {
+      "id": "c9268281",
+      "image": "img/c9268281.png",
+      "image_sha": "4d89314a70e2e117d74d7123ccbad2dd51782c8f",
+      "url": "https://www.radiodos.com.ar/216647-la-noche-de-los-museos-amplia-su-circuito-y-suma-beneficios-en-comercios-del-casco-historico",
+      "title": "La Noche de los Museos amplía su circuito y suma beneficios en comercios del casco histórico",
+      "volanta": "ARTE",
+      "date": "2026-11-06T12:10:19+00:00"
+    },
     {
       "id": "207917e4",
       "image": "img/207917e4.png",
@@ -531,15 +540,6 @@
       "title": "Río Negro: hallaron un esqueleto con las manos y pies atados bajo el piso de una ex estación de servicio",
       "volanta": "SIERRA GRANDE",
       "date": "2026-11-04T14:15:57+00:00"
-    },
-    {
-      "id": "a948c049",
-      "image": "img/a948c049.png",
-      "image_sha": "04f77074819d75142e84ec949a96a1c82bffde22",
-      "url": "https://www.radiodos.com.ar/216521-la-justicia-le-puso-un-limite-a-la-duracion-de-los-procesos-penales-contra-menores-de-edad",
-      "title": "La Justicia le puso un límite a la duración de los procesos penales contra menores de edad",
-      "volanta": "FALLO",
-      "date": "2026-11-04T14:02:29+00:00"
     }
   ]
 }
