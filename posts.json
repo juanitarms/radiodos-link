@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T10:46:00+00:00",
+  "updated": "2026-11-06T11:33:22+00:00",
   "posts": [
+    {
+      "id": "d6036896",
+      "image": "img/d6036896.png",
+      "image_sha": "0946d8006c2bd6347db5f7f0873ba18fb148b105",
+      "url": "https://www.radiodos.com.ar/216645-cachorra-fue-apunalada-y-quemada-en-el-interior-de-corrientes",
+      "title": "Cachorra fue apuñalada y quemada en el interior de Corrientes",
+      "volanta": "CRUELDAD ANIMAL",
+      "date": "2026-11-06T11:33:22+00:00"
+    },
     {
       "id": "b3e3b7ba",
       "image": "img/b3e3b7ba.png",
@@ -531,15 +540,6 @@
       "title": "El RENATRE aumenta la Prestación por Desempleo y eleva el monto máximo a $420.000",
       "volanta": "NOVEDAD",
       "date": "2026-11-04T13:46:21+00:00"
-    },
-    {
-      "id": "71be2c6a",
-      "image": "img/71be2c6a.png",
-      "image_sha": "ba61400d50b99562fe9d3c10cd9aea57ed3b64e0",
-      "url": "https://www.radiodos.com.ar/216513-un-trapito-demorado-por-tratar-agresivamente-a-automovilistas",
-      "title": "Un \"trapito\" demorado por tratar agresivamente a automovilistas",
-      "volanta": "GRIM II",
-      "date": "2026-11-04T13:21:44+00:00"
     }
   ]
 }
