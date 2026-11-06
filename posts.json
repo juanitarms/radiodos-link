@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T17:32:42+00:00",
+  "updated": "2026-11-06T17:33:13+00:00",
   "posts": [
+    {
+      "id": "621d5825",
+      "image": "img/621d5825.png",
+      "image_sha": "d26d84b72849b3026f74a5dc65fc891df489fd0f",
+      "url": "https://www.radiodos.com.ar/216690-chaco-prefectura-brindo-asistencia-a-familias-afectadas-por-la-creciente-del-rio-parana",
+      "title": "Chaco: Prefectura brindó asistencia a  familias afectadas por la creciente del río Paraná",
+      "volanta": "PRESENCIA",
+      "date": "2026-11-06T17:33:13+00:00"
+    },
     {
       "id": "deb559d0",
       "image": "img/deb559d0.png",
@@ -531,15 +540,6 @@
       "title": "Diego Vadell: \"La idea es encaminar la temporada que arrancó mal\"",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-11-04T18:21:12+00:00"
-    },
-    {
-      "id": "7bcb39de",
-      "image": "img/7bcb39de.png",
-      "image_sha": "b82f772a7f443082b031e89c125ec14d4d1199c6",
-      "url": "https://www.radiodos.com.ar/216542-gendarmeria-incauto-mas-de-500-kilos-de-marihuana-en-la-selva-misionera",
-      "title": "Gendarmería incautó más de 500 kilos de marihuana en la selva misionera",
-      "volanta": "OPERATIVO",
-      "date": "2026-11-04T16:47:27+00:00"
     }
   ]
 }
