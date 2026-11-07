@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T14:23:55+00:00",
+  "updated": "2026-11-07T18:54:49+00:00",
   "posts": [
+    {
+      "id": "ea1cc348",
+      "image": "img/ea1cc348.png",
+      "image_sha": "f2985c572ff381d18fcbbb2da3c2424a43c67e49",
+      "url": "https://www.radiodos.com.ar/216725-con-adhesion-de-11-escuelas-y-mas-de-9000-kilos-reciclados-cerro-la-2da-edicion-de-mi-escuela-cuida-corrientes",
+      "title": "Con adhesión de 11 escuelas y más de 9.000 kilos reciclados, cerró la 2da edición de \"Mi Escuela Cuida Corrientes\"",
+      "volanta": "EDUCACIÓN AMBIENTAL",
+      "date": "2026-11-07T18:54:49+00:00"
+    },
     {
       "id": "8ce69809",
       "image": "img/8ce69809.png",
@@ -531,15 +540,6 @@
       "title": "Frustraron tres robos y un ladrón fue detenido al bajar del techo",
       "volanta": "CAPITAL",
       "date": "2026-11-05T11:01:58+00:00"
-    },
-    {
-      "id": "f74ac114",
-      "image": "img/f74ac114.png",
-      "image_sha": "81a79786b047b06a5839cd1c685125f7a17b9b87",
-      "url": "https://www.radiodos.com.ar/216570-comenzo-el-pago-del-plus-unificado-a-empleados-publicos",
-      "title": "Comenzó el pago del Plus Unificado a empleados públicos",
-      "volanta": "HASTA EL VIERNES",
-      "date": "2026-11-05T10:48:22+00:00"
     }
   ]
 }
