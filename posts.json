@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T22:58:17+00:00",
+  "updated": "2026-11-07T23:04:06+00:00",
   "posts": [
+    {
+      "id": "f39064ae",
+      "image": "img/f39064ae.png",
+      "image_sha": "8687360622f623b756807fbfc9393260be2924dd",
+      "url": "https://www.radiodos.com.ar/216741-una-marea-multicolor-volvio-a-tomar-el-centro-porteno-en-la-35-marcha-del-orgullo",
+      "title": "Una marea multicolor volvió a tomar el centro porteño en la 35ª Marcha del Orgullo",
+      "volanta": "GRAN MOVILIZACIÓN",
+      "date": "2026-11-07T23:04:06+00:00"
+    },
     {
       "id": "20fb1841",
       "image": "img/20fb1841.png",
@@ -531,15 +540,6 @@
       "title": "Recuperan una bici y una moto robadas: hay dos demorados",
       "volanta": "GRUPO DE RESPUESTA INMEDIATA MOTORIZADA Nº 5",
       "date": "2026-11-05T12:25:45+00:00"
-    },
-    {
-      "id": "80efb7a4",
-      "image": "img/80efb7a4.png",
-      "image_sha": "6c7472deda1eec5e55fe69e1a4a5fc3f58bd97b5",
-      "url": "https://www.radiodos.com.ar/216577-comunicadores-de-todo-el-pais-reunidos-en-la-unne-en-el-encuentro-nacional-de-carreras-de-comunicacion-social",
-      "title": "Comunicadores de todo el país reunidos en la UNNE en el Encuentro Nacional de Carreras de Comunicación Social",
-      "volanta": "ACTO APERTURA EN CORRIENTES",
-      "date": "2026-11-05T12:04:38+00:00"
     }
   ]
 }
