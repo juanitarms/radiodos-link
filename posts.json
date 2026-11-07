@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T23:04:06+00:00",
+  "updated": "2026-11-07T23:04:45+00:00",
   "posts": [
+    {
+      "id": "5ff8af98",
+      "image": "img/5ff8af98.png",
+      "image_sha": "d42d238bebec70019b10fb0229c4cb611582e444",
+      "url": "https://www.radiodos.com.ar/216748-le-dictaron-una-perimetral-a-mauro-icardi-tras-la-denuncia-de-wanda-nara",
+      "title": "Le dictaron una perimetral a Mauro Icardi tras la denuncia de Wanda Nara",
+      "volanta": "JUSTICIA",
+      "date": "2026-11-07T23:04:45+00:00"
+    },
     {
       "id": "f39064ae",
       "image": "img/f39064ae.png",
@@ -531,15 +540,6 @@
       "title": "Vecinos carnearon a los animales muertos tras vuelco de un camión en Corrientes",
       "volanta": "RUTA 123",
       "date": "2026-11-05T12:27:40+00:00"
-    },
-    {
-      "id": "0049c774",
-      "image": "img/0049c774.png",
-      "image_sha": "634c024e453032f3f572d33f3fd2589f5f6fe59f",
-      "url": "https://www.radiodos.com.ar/216583-recuperan-una-bici-y-una-moto-robadas-hay-dos-demorados",
-      "title": "Recuperan una bici y una moto robadas: hay dos demorados",
-      "volanta": "GRUPO DE RESPUESTA INMEDIATA MOTORIZADA Nº 5",
-      "date": "2026-11-05T12:25:45+00:00"
     }
   ]
 }
