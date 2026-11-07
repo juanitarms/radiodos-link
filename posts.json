@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T20:51:21+00:00",
+  "updated": "2026-11-07T22:58:17+00:00",
   "posts": [
+    {
+      "id": "20fb1841",
+      "image": "img/20fb1841.png",
+      "image_sha": "57bb7a0a55db3ba284b21496c483bf812120f937",
+      "url": "https://www.radiodos.com.ar/216743-una-mujer-cayo-en-su-auto-a-un-arroyo-y-una-policia-se-arrojo-al-agua-para-rescatarla",
+      "title": "Una mujer cayó en su auto a un arroyo y una policía se arrojó al agua para rescatarla",
+      "volanta": "Ensenada",
+      "date": "2026-11-07T22:58:17+00:00"
+    },
     {
       "id": "26d3466c",
       "image": "img/26d3466c.png",
@@ -531,15 +540,6 @@
       "title": "Comunicadores de todo el país reunidos en la UNNE en el Encuentro Nacional de Carreras de Comunicación Social",
       "volanta": "ACTO APERTURA EN CORRIENTES",
       "date": "2026-11-05T12:04:38+00:00"
-    },
-    {
-      "id": "1038bfee",
-      "image": "img/1038bfee.png",
-      "image_sha": "730553aa8087d7c6eea24193cb3bed800b42967b",
-      "url": "https://www.radiodos.com.ar/216571-senadores-reciben-al-ministro-grachot-y-apuran-el-debate-del-presupuesto",
-      "title": "Senadores reciben al ministro Grachot y apuran el debate del Presupuesto",
-      "volanta": "EN LA LEGISLATURA",
-      "date": "2026-11-05T11:37:57+00:00"
     }
   ]
 }
