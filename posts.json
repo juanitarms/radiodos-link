@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T23:04:45+00:00",
+  "updated": "2026-11-07T23:06:36+00:00",
   "posts": [
+    {
+      "id": "9b822a8e",
+      "image": "img/9b822a8e.png",
+      "image_sha": "b8da444315eb6b4f270343173e73fdc04d4cfad3",
+      "url": "https://www.radiodos.com.ar/216740-torneo-clausura-con-un-gol-agonico-de-valencia-boca-se-consagro-campeon-de-la-lpf",
+      "title": "Torneo Clausura: Con un gol agónico de Valencia, Boca se consagró campeón de la LPF",
+      "volanta": "Fue 1 a 0",
+      "date": "2026-11-07T23:06:36+00:00"
+    },
     {
       "id": "5ff8af98",
       "image": "img/5ff8af98.png",
@@ -531,15 +540,6 @@
       "title": "Efecto El Niño: descubren cientos de nuevas especies en un mundo oculto del Pacífico",
       "volanta": "INCREIBLE",
       "date": "2026-11-05T12:55:33+00:00"
-    },
-    {
-      "id": "e589925f",
-      "image": "img/e589925f.png",
-      "image_sha": "48b3b4ed57145d7d168f884b2f1433c28d69cecc",
-      "url": "https://www.radiodos.com.ar/216573-vecinos-carnearon-a-los-animales-muertos-tras-vuelco-de-un-camion-en-corrientes",
-      "title": "Vecinos carnearon a los animales muertos tras vuelco de un camión en Corrientes",
-      "volanta": "RUTA 123",
-      "date": "2026-11-05T12:27:40+00:00"
     }
   ]
 }
