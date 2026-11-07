@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-06T23:06:06+00:00",
+  "updated": "2026-11-07T12:05:00+00:00",
   "posts": [
+    {
+      "id": "cdc40f45",
+      "image": "img/cdc40f45.png",
+      "image_sha": "5989be60d3e8e4445648301e4759192325658f1b",
+      "url": "https://www.radiodos.com.ar/216716-juegos-nacionales-2026-corrientes-brilla-con-destacados-logros-en-pesas-atletismo-y-un-historico-desempeno-adaptado",
+      "title": "Juegos Nacionales 2026: Corrientes brilla con destacados logros en pesas, atletismo y un histórico desempeño adaptado",
+      "volanta": "JORNADA DESTACADA",
+      "date": "2026-11-07T12:05:00+00:00"
+    },
     {
       "id": "8b5752b9",
       "image": "img/8b5752b9.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Nacionales Evita: alegría y satisfacción en los primeros medallistas de Corrientes",
       "volanta": "EN MAR DEL PLATA",
       "date": "2026-11-04T20:48:37+00:00"
-    },
-    {
-      "id": "22b64a52",
-      "image": "img/22b64a52.png",
-      "image_sha": "8e71b73a6a603c58b51856eb39270193cf56547d",
-      "url": "https://www.radiodos.com.ar/216549-temporal-en-corrientes-cayeron-32-milimetros-rafagas-de-viento-y-se-derrumbaron-tres-arboles",
-      "title": "Temporal en Corrientes: cayeron 32 milímetros, ráfagas de viento y se derrumbaron tres árboles",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-11-04T20:48:00+00:00"
     }
   ]
 }
