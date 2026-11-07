@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T12:05:40+00:00",
+  "updated": "2026-11-07T12:34:58+00:00",
   "posts": [
+    {
+      "id": "19b0be5d",
+      "image": "img/19b0be5d.png",
+      "image_sha": "ee3a0b48f272867f9f468cd0c2d6291d77c5dc19",
+      "url": "https://www.radiodos.com.ar/216721-la-ciudad-de-corrientes-vivira-un-fin-de-semana-con-la-noche-de-los-museos-deportes-ferias-y-pena",
+      "title": "La ciudad de Corrientes vivirá un fin de semana con La Noche de los Museos, deportes, ferias y peña",
+      "volanta": "AMPLIA AGENDA",
+      "date": "2026-11-07T12:34:58+00:00"
+    },
     {
       "id": "2091952a",
       "image": "img/2091952a.png",
@@ -531,15 +540,6 @@
       "title": "El Papa León XIV confirma su inminente viaje a Sudamérica y pide oraciones para la misión",
       "volanta": "Desde el Vaticano",
       "date": "2026-11-04T21:03:17+00:00"
-    },
-    {
-      "id": "0cd91055",
-      "image": "img/0cd91055.png",
-      "image_sha": "b042e0f125d666e51843a163eddd8333ade529c1",
-      "url": "https://www.radiodos.com.ar/216558-corrientes-perdio-4300-empleos-privados-en-el-ultimo-ano",
-      "title": "Corrientes perdió 4.300 empleos privados en el último año",
-      "volanta": "ERA MILEI",
-      "date": "2026-11-04T20:50:52+00:00"
     }
   ]
 }
