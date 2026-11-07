@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T12:05:00+00:00",
+  "updated": "2026-11-07T12:05:40+00:00",
   "posts": [
+    {
+      "id": "2091952a",
+      "image": "img/2091952a.png",
+      "image_sha": "dc3d37084bac97eca5821ceb5101a11592fd8ad2",
+      "url": "https://www.radiodos.com.ar/216710-el-papa-leon-xiv-brindo-un-fuerte-llamado-a-garantizar-la-salud-universal-y-proteger-la-dignidad-humana",
+      "title": "El Papa León XIV brindó un fuerte llamado a garantizar la salud universal y proteger la dignidad humana",
+      "volanta": "Así inició su gira por Sudamérica",
+      "date": "2026-11-07T12:05:40+00:00"
+    },
     {
       "id": "cdc40f45",
       "image": "img/cdc40f45.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes perdió 4.300 empleos privados en el último año",
       "volanta": "ERA MILEI",
       "date": "2026-11-04T20:50:52+00:00"
-    },
-    {
-      "id": "e14f9634",
-      "image": "img/e14f9634.png",
-      "image_sha": "75c1c137d8a05bff0d2f4dda6a1d8296c143cac2",
-      "url": "https://www.radiodos.com.ar/216556-juegos-nacionales-evita-alegria-y-satisfaccion-en-los-primeros-medallistas-de-corrientes",
-      "title": "Juegos Nacionales Evita: alegría y satisfacción en los primeros medallistas de Corrientes",
-      "volanta": "EN MAR DEL PLATA",
-      "date": "2026-11-04T20:48:37+00:00"
     }
   ]
 }
