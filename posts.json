@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T15:00:13+00:00",
+  "updated": "2026-11-08T15:23:35+00:00",
   "posts": [
+    {
+      "id": "1ec126f7",
+      "image": "img/1ec126f7.png",
+      "image_sha": "ca72c6a258fea2ed92c5d470e722e71ebf2fb15e",
+      "url": "https://www.radiodos.com.ar/216757-el-papa-leon-xiv-celebro-su-ultima-misa-en-uruguay-hay-que-ponerse-en-camino",
+      "title": "El papa León XIV celebró su última misa en Uruguay: \"Hay que ponerse en camino\"",
+      "volanta": "Antes de viajar a la Argentina",
+      "date": "2026-11-08T15:23:35+00:00"
+    },
     {
       "id": "e082c6bc",
       "image": "img/e082c6bc.png",
@@ -531,15 +540,6 @@
       "title": "General Rodríguez: encontraron muerta a una mujer que estaba desaparecida y detuvieron a su expareja",
       "volanta": "FEMICIDIO",
       "date": "2026-11-05T14:04:21+00:00"
-    },
-    {
-      "id": "78c22b24",
-      "image": "img/78c22b24.png",
-      "image_sha": "beb76177c917f98f0de635abf4947d04099c67f7",
-      "url": "https://www.radiodos.com.ar/216595-comienza-el-juicio-a-dos-policias-por-la-muerte-del-joven-carlos-bartlett",
-      "title": "Comienza el juicio a dos policías por la muerte del joven Carlos Bartlett",
-      "volanta": "EL MARTES 10",
-      "date": "2026-11-05T13:46:58+00:00"
     }
   ]
 }
