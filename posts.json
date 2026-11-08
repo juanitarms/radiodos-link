@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T14:01:05+00:00",
+  "updated": "2026-11-08T15:00:13+00:00",
   "posts": [
+    {
+      "id": "e082c6bc",
+      "image": "img/e082c6bc.png",
+      "image_sha": "a0099658c0e24c337f20aa0141f4148af3a6e211",
+      "url": "https://www.radiodos.com.ar/216756-vecinos-y-turistas-recorrieron-los-espacios-culturales-en-la-noche-de-los-museos",
+      "title": "Vecinos y turistas recorrieron los espacios culturales en La Noche de los Museos",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-08T15:00:13+00:00"
+    },
     {
       "id": "7772823d",
       "image": "img/7772823d.png",
@@ -531,15 +540,6 @@
       "title": "Comienza el juicio a dos policías por la muerte del joven Carlos Bartlett",
       "volanta": "EL MARTES 10",
       "date": "2026-11-05T13:46:58+00:00"
-    },
-    {
-      "id": "1177d52e",
-      "image": "img/1177d52e.png",
-      "image_sha": "abd343933d1a230d88fc2cf1e230f2a861dd4fdf",
-      "url": "https://www.radiodos.com.ar/216597-el-mensaje-de-javier-milei-al-papa-leon-xiv-antes-de-su-llegada-lo-esperamos-santo-padre",
-      "title": "El mensaje de Javier Milei al papa León XIV antes de su llegada: \"¡Lo esperamos, Santo Padre!\"",
-      "volanta": "REDES SOCIALES",
-      "date": "2026-11-05T13:31:59+00:00"
     }
   ]
 }
