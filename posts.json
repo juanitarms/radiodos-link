@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T15:23:35+00:00",
+  "updated": "2026-11-08T17:00:18+00:00",
   "posts": [
+    {
+      "id": "f2311138",
+      "image": "img/f2311138.png",
+      "image_sha": "5b74146f1543ff9a9c099f8c0889b477a0cd8c92",
+      "url": "https://www.radiodos.com.ar/216760-parricidio-en-corrientes-un-joven-mato-a-su-papa-tras-una-discusion",
+      "title": "Parricidio en Corrientes: un joven mató a su papá tras una discusión",
+      "volanta": "Estación Torrent",
+      "date": "2026-11-08T17:00:18+00:00"
+    },
     {
       "id": "1ec126f7",
       "image": "img/1ec126f7.png",
@@ -531,15 +540,6 @@
       "title": "Con amplio consenso, el Senado avanzó con el proyecto de Ley de Discapacidad",
       "volanta": "DEBATE",
       "date": "2026-11-05T14:27:51+00:00"
-    },
-    {
-      "id": "2cae744a",
-      "image": "img/2cae744a.png",
-      "image_sha": "defb95c08bd7161bb7c268f53633d2059f60ac03",
-      "url": "https://www.radiodos.com.ar/216604-general-rodriguez-encontraron-muerta-a-una-mujer-que-estaba-desaparecida-y-detuvieron-a-su-expareja",
-      "title": "General Rodríguez: encontraron muerta a una mujer que estaba desaparecida y detuvieron a su expareja",
-      "volanta": "FEMICIDIO",
-      "date": "2026-11-05T14:04:21+00:00"
     }
   ]
 }
