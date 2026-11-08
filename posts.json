@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T17:00:57+00:00",
+  "updated": "2026-11-08T17:01:33+00:00",
   "posts": [
+    {
+      "id": "cb316f0c",
+      "image": "img/cb316f0c.png",
+      "image_sha": "1eeda1a5e3589672da276fa51dbdb01f863e5e8e",
+      "url": "https://www.radiodos.com.ar/216758-las-ventas-minoristas-cayeron-16-interanual-en-octubre-pero-tuvieron-una-leve-suba-mensual",
+      "title": "Las ventas minoristas cayeron 1,6% interanual en octubre, pero tuvieron una leve suba mensual",
+      "volanta": "economía",
+      "date": "2026-11-08T17:01:33+00:00"
+    },
     {
       "id": "05390b55",
       "image": "img/05390b55.png",
@@ -531,15 +540,6 @@
       "title": "Renunció Silvina Rollet al  cargo de presidenta del Consejo de Educación de Corrientes",
       "volanta": "AHORA",
       "date": "2026-11-05T16:05:05+00:00"
-    },
-    {
-      "id": "03af803c",
-      "image": "img/03af803c.png",
-      "image_sha": "32a9f9712123f08036163c9fe48f46c2171a745f",
-      "url": "https://www.radiodos.com.ar/216610-sos-muy-cagon-se-filtro-el-chat-entre-santiago-maratea-y-un-periodista-tras-la-investigacion-de-sus-colectas",
-      "title": "\"Sos muy cagón\": se filtró el chat entre Santiago Maratea y un periodista tras la investigación de sus colectas",
-      "volanta": "SIGUE LA POLÉMICA",
-      "date": "2026-11-05T14:55:03+00:00"
     }
   ]
 }
