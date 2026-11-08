@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T19:16:40+00:00",
+  "updated": "2026-11-08T19:17:25+00:00",
   "posts": [
+    {
+      "id": "3b0f9e84",
+      "image": "img/3b0f9e84.png",
+      "image_sha": "1ef0484c65d1f933686b080b880e8b6962eadad0",
+      "url": "https://www.radiodos.com.ar/216755-un-muerto-tras-choque-frontal-entre-dos-vehiculos-en-ruta-14",
+      "title": "Un muerto tras choque frontal entre dos vehículos en ruta 14",
+      "volanta": "TRAGEDIA EN CORRIENTES",
+      "date": "2026-11-08T19:17:25+00:00"
+    },
     {
       "id": "1b659269",
       "image": "img/1b659269.png",
@@ -531,15 +540,6 @@
       "title": "Desde mañana se habilitan las Tarjetas Sapucay",
       "volanta": "DESARROLLO SOCIAL",
       "date": "2026-11-05T16:50:05+00:00"
-    },
-    {
-      "id": "92c88383",
-      "image": "img/92c88383.png",
-      "image_sha": "e1832c778c79d19cb991bf631f44cb2469e94259",
-      "url": "https://www.radiodos.com.ar/216619-paraguay-renuncio-el-presidente-santiago-pena-tras-la-caida-de-ueno-bank",
-      "title": "Paraguay: renunció el presidente Santiago Peña tras la caída de Ueno Bank",
-      "volanta": "ÚLTIMO MOMENTO",
-      "date": "2026-11-05T16:37:11+00:00"
     }
   ]
 }
