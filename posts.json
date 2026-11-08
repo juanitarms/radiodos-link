@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T13:29:58+00:00",
+  "updated": "2026-11-08T14:01:05+00:00",
   "posts": [
+    {
+      "id": "7772823d",
+      "image": "img/7772823d.png",
+      "image_sha": "1a87c81b5964f849f13cd5d097a7161b9ed34fd6",
+      "url": "https://www.radiodos.com.ar/216753-juegos-olimpicos-de-la-juventud-argentina-goleo-y-jugara-el-lunes-en-semis-ante-marruecos",
+      "title": "Juegos Olímpicos de la Juventud: Argentina goleó y jugará el lunes en semis ante Marruecos",
+      "volanta": "Derrotó a Panamá",
+      "date": "2026-11-08T14:01:05+00:00"
+    },
     {
       "id": "4ae601bd",
       "image": "img/4ae601bd.png",
@@ -531,15 +540,6 @@
       "title": "El mensaje de Javier Milei al papa León XIV antes de su llegada: \"¡Lo esperamos, Santo Padre!\"",
       "volanta": "REDES SOCIALES",
       "date": "2026-11-05T13:31:59+00:00"
-    },
-    {
-      "id": "73693b08",
-      "image": "img/73693b08.png",
-      "image_sha": "d966b06eb219f49662349f6332eb7e09118f0a74",
-      "url": "https://www.radiodos.com.ar/216596-piden-250000-por-alquilar-un-balcon-para-ver-pasar-al-papa-en-cordoba-que-ofrecen-a-cambio",
-      "title": "Piden $250.000 por alquilar un balcón para ver pasar al Papa en Córdoba: qué ofrecen a cambio",
-      "volanta": "OPORTUNIDAD",
-      "date": "2026-11-05T13:19:35+00:00"
     }
   ]
 }
