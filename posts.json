@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T14:19:32+00:00",
+  "updated": "2026-11-09T14:47:17+00:00",
   "posts": [
+    {
+      "id": "effde37a",
+      "image": "img/effde37a.png",
+      "image_sha": "ff65caba9fa06e60827044b591ea78a870343619",
+      "url": "https://www.radiodos.com.ar/216800-la-historia-de-norma-la-mujer-que-le-conto-su-dura-infancia-al-papa-leon-xiv-en-el-cottolengo-don-orione",
+      "title": "La historia de Norma, la mujer que le contó su dura infancia al papa León XIV en el Cottolengo Don Orione",
+      "volanta": "VISITA HISTÓRICA",
+      "date": "2026-11-09T14:47:17+00:00"
+    },
     {
       "id": "8fdadca8",
       "image": "img/8fdadca8.png",
@@ -531,15 +540,6 @@
       "title": "Aprobaron por 180 días la emergencia hídrica en Corrientes",
       "volanta": "FENOMENO EL NIÑO",
       "date": "2026-11-05T21:00:24+00:00"
-    },
-    {
-      "id": "94f4a842",
-      "image": "img/94f4a842.png",
-      "image_sha": "55448e9845a7a6ccfac8ced4d929a9086f97a367",
-      "url": "https://www.radiodos.com.ar/216627-torneo-clausura-el-millo-se-recupero-en-la-feliz",
-      "title": "Torneo Clausura: El Millo se recuperó en La Feliz",
-      "volanta": "Fue 2 a 0",
-      "date": "2026-11-05T20:59:45+00:00"
     }
   ]
 }
