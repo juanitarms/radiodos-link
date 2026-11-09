@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T11:31:20+00:00",
+  "updated": "2026-11-09T11:55:26+00:00",
   "posts": [
+    {
+      "id": "2c753292",
+      "image": "img/2c753292.png",
+      "image_sha": "b644fdade2feb1d34fae0aa04a9209cddc241a2f",
+      "url": "https://www.radiodos.com.ar/216780-en-corrientes-proyectaran-las-misas-de-leon-xiv-en-pantalla-gigante",
+      "title": "En Corrientes proyectarán las misas de León XIV en pantalla gigante",
+      "volanta": "VISITA HISTÓRICA",
+      "date": "2026-11-09T11:55:26+00:00"
+    },
     {
       "id": "6578a735",
       "image": "img/6578a735.png",
@@ -531,15 +540,6 @@
       "title": "El escándalo de Ueno Bank en Paraguay dejó en el limbo a cerca de mil trabajadores en la Argentina",
       "volanta": "CRISIS",
       "date": "2026-11-05T17:59:48+00:00"
-    },
-    {
-      "id": "b73254ca",
-      "image": "img/b73254ca.png",
-      "image_sha": "6f748198cc2f2bf01de4223dbe2071e3c7823019",
-      "url": "https://www.radiodos.com.ar/216620-investigan-si-el-gobierno-uso-fondos-publicos-para-facilitar-la-salida-de-flavio-bolsonaro-de-la-argentina",
-      "title": "Investigan si el Gobierno usó fondos públicos para facilitar la salida de Flávio Bolsonaro de la Argentina",
-      "volanta": "TRAS LA POLÉMICA",
-      "date": "2026-11-05T17:59:05+00:00"
     }
   ]
 }
