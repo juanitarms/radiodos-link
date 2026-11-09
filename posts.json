@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T16:36:19+00:00",
+  "updated": "2026-11-09T16:36:59+00:00",
   "posts": [
+    {
+      "id": "11a3a141",
+      "image": "img/11a3a141.png",
+      "image_sha": "78aece3ea38065888cac7cc1fa0e2918ac988afa",
+      "url": "https://www.radiodos.com.ar/216811-el-programa-ferias-de-la-ciudad-renueva-su-propuesta-en-plazas-y-paseos-capitalinos",
+      "title": "El programa Ferias de la Ciudad renueva su propuesta en plazas y paseos capitalinos",
+      "volanta": "NUEVO RECORRIDO SEMANAL",
+      "date": "2026-11-09T16:36:59+00:00"
+    },
     {
       "id": "8493e368",
       "image": "img/8493e368.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés supervisó el avance de la pavimentación de la Ruta Provincial 126",
       "volanta": "INFRAESTRUCTURA VIAL",
       "date": "2026-11-05T22:59:56+00:00"
-    },
-    {
-      "id": "176d6bc2",
-      "image": "img/176d6bc2.png",
-      "image_sha": "91d29570f89cc0c9f69c6f25873a2a85d2346755",
-      "url": "https://www.radiodos.com.ar/216632-marcos-amarilla-el-consenso-y-el-dialogo-que-hay-en-el-concejo-deliberante-es-excepcional",
-      "title": "Marcos Amarilla: \"El consenso y el diálogo que hay en el Concejo Deliberante es excepcional\"",
-      "volanta": "NOTA EN ESTUDIOS",
-      "date": "2026-11-05T22:59:04+00:00"
     }
   ]
 }
