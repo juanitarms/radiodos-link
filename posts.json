@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T14:04:22+00:00",
+  "updated": "2026-11-09T14:19:32+00:00",
   "posts": [
+    {
+      "id": "8fdadca8",
+      "image": "img/8fdadca8.png",
+      "image_sha": "38fb88ab4ddae1be94ca9e66c75481cd3fe5f3d3",
+      "url": "https://www.radiodos.com.ar/216796-la-confesion-de-santiago-pena-al-jefe-del-regimiento-en-que-esta-detenido-por-la-crisis-en-paraguay",
+      "title": "La confesión de Santiago Peña al jefe del regimiento en que está detenido por la crisis en Paraguay",
+      "volanta": "CAUSA ABIERTA",
+      "date": "2026-11-09T14:19:32+00:00"
+    },
     {
       "id": "ee4ea559",
       "image": "img/ee4ea559.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: El Millo se recuperó en La Feliz",
       "volanta": "Fue 2 a 0",
       "date": "2026-11-05T20:59:45+00:00"
-    },
-    {
-      "id": "57d62d28",
-      "image": "img/57d62d28.png",
-      "image_sha": "8eeb17a9b6c2a61d71e7628dfa94b358b371bdd0",
-      "url": "https://www.radiodos.com.ar/216628-golpe-al-juego-clandestino-on-line-en-localidad-del-interior-de-corrientes-detuvieron-a-una-familia",
-      "title": "Golpe al juego clandestino \"on line\" en localidad del interior de Corrientes: detuvieron a una familia",
-      "volanta": "EN CURUZU",
-      "date": "2026-11-05T20:59:04+00:00"
     }
   ]
 }
