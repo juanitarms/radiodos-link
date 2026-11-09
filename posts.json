@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T15:19:39+00:00",
+  "updated": "2026-11-09T16:36:19+00:00",
   "posts": [
+    {
+      "id": "8493e368",
+      "image": "img/8493e368.png",
+      "image_sha": "8871110fcc8e4b8eb6050b839602bcd63f8fcde4",
+      "url": "https://www.radiodos.com.ar/216815-la-policia-rural-intensifico-controles-preventivos-por-agua-y-tierra-en-zonas-rurales-e-islas",
+      "title": "La Policía Rural intensificó controles preventivos por agua y tierra en zonas rurales e islas",
+      "volanta": "LA CRUZ",
+      "date": "2026-11-09T16:36:19+00:00"
+    },
     {
       "id": "7b63ec81",
       "image": "img/7b63ec81.png",
@@ -531,15 +540,6 @@
       "title": "Marcos Amarilla: \"El consenso y el diálogo que hay en el Concejo Deliberante es excepcional\"",
       "volanta": "NOTA EN ESTUDIOS",
       "date": "2026-11-05T22:59:04+00:00"
-    },
-    {
-      "id": "57092a3a",
-      "image": "img/57092a3a.png",
-      "image_sha": "643ec18c35c5cab2d3084a64f883ef7533d06ac4",
-      "url": "https://www.radiodos.com.ar/216630-el-gobierno-de-la-provincia-realizara-un-operativo-integral-en-el-barrio-santa-marta",
-      "title": "El Gobierno de la Provincia realizará un operativo integral en el barrio Santa Marta",
-      "volanta": "CORRIENTES CERCA",
-      "date": "2026-11-05T21:01:07+00:00"
     }
   ]
 }
