@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T13:20:35+00:00",
+  "updated": "2026-11-09T13:49:29+00:00",
   "posts": [
+    {
+      "id": "48df7691",
+      "image": "img/48df7691.png",
+      "image_sha": "283a35acddcc93f318d004e5267730736f0d502c",
+      "url": "https://www.radiodos.com.ar/216786-un-efectivo-de-la-policia-de-corrientes-perdio-la-vida-al-chocar-un-patrullero-estacionado-en-chaco",
+      "title": "Un efectivo de la Policía de Corrientes perdió la vida al chocar un patrullero estacionado en Chaco",
+      "volanta": "AVIA TERAI",
+      "date": "2026-11-09T13:49:29+00:00"
+    },
     {
       "id": "5a018c2f",
       "image": "img/5a018c2f.png",
@@ -531,15 +540,6 @@
       "title": "Detuvieron a dos mujeres con más de 50 envoltorios de marihuana",
       "volanta": "CORRIENTES",
       "date": "2026-11-05T20:58:00+00:00"
-    },
-    {
-      "id": "935a8d7c",
-      "image": "img/935a8d7c.png",
-      "image_sha": "e3ecf9e8ad8f5a6bcd37063abd122670f23f36fd",
-      "url": "https://www.radiodos.com.ar/216626-crisis-en-paraguay-la-camara-de-diputados-aprobo-iniciarle-un-juicio-politico-a-santiago-pena",
-      "title": "Crisis en Paraguay: la Cámara de Diputados aprobó iniciarle un juicio político a Santiago Peña",
-      "volanta": "POLÍTICA",
-      "date": "2026-11-05T20:57:01+00:00"
     }
   ]
 }
