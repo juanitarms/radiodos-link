@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T11:23:36+00:00",
+  "updated": "2026-11-09T11:31:20+00:00",
   "posts": [
+    {
+      "id": "6578a735",
+      "image": "img/6578a735.png",
+      "image_sha": "66b0bbc4edfdb3c4d0d5f077ba6d5cef709ca0fa",
+      "url": "https://www.radiodos.com.ar/216776-el-papa-leon-xiv-en-la-argentina-visita-el-cottolengo-don-orione-y-da-su-primera-misa-en-palermo",
+      "title": "El papa León XIV en la Argentina:  visita el cottolengo Don Orione y da su primera misa en Palermo",
+      "volanta": "VISITA HISTORICA",
+      "date": "2026-11-09T11:31:20+00:00"
+    },
     {
       "id": "121b79d0",
       "image": "img/121b79d0.png",
@@ -531,15 +540,6 @@
       "title": "Investigan si el Gobierno usó fondos públicos para facilitar la salida de Flávio Bolsonaro de la Argentina",
       "volanta": "TRAS LA POLÉMICA",
       "date": "2026-11-05T17:59:05+00:00"
-    },
-    {
-      "id": "25455ba1",
-      "image": "img/25455ba1.png",
-      "image_sha": "bbf0c824dd65592fc85bd1a97e00a3988a367328",
-      "url": "https://www.radiodos.com.ar/216614-se-aprobo-la-adhesion-a-la-emergencia-hidrica-y-climatica",
-      "title": "Se aprobó la adhesión a la emergencia hídrica y climática",
-      "volanta": "ÚLTIMA SESIÓN",
-      "date": "2026-11-05T16:50:48+00:00"
     }
   ]
 }
