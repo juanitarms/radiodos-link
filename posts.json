@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T16:36:59+00:00",
+  "updated": "2026-11-09T19:06:27+00:00",
   "posts": [
+    {
+      "id": "ac869f79",
+      "image": "img/ac869f79.png",
+      "image_sha": "c7aacec14273d52157e957900a32114435f386cc",
+      "url": "https://www.radiodos.com.ar/216818-jorge-garcia-cuerva-le-agradecio-la-visita-al-papa-leon-xiv-su-mensaje-nos-llena-de-esperanza-y-nos-une",
+      "title": "Jorge García Cuerva le agradeció la visita al papa León XIV: \"Su mensaje nos llena de esperanza y nos une\"",
+      "volanta": "HISTÓRICO",
+      "date": "2026-11-09T19:06:27+00:00"
+    },
     {
       "id": "11a3a141",
       "image": "img/11a3a141.png",
@@ -531,15 +540,6 @@
       "title": "\"Pity\" Álvarez dio positivo por cocaína después de declarar en el juicio",
       "volanta": "ACUSADO DE HOMICIDIO",
       "date": "2026-11-05T23:00:29+00:00"
-    },
-    {
-      "id": "2ee1a57f",
-      "image": "img/2ee1a57f.png",
-      "image_sha": "684ec143359a59c1bf9af0b8560665ff08d3989e",
-      "url": "https://www.radiodos.com.ar/216634-jp-valdes-superviso-el-avance-de-la-pavimentacion-de-la-ruta-provincial-126",
-      "title": "JP Valdés supervisó el avance de la pavimentación de la Ruta Provincial 126",
-      "volanta": "INFRAESTRUCTURA VIAL",
-      "date": "2026-11-05T22:59:56+00:00"
     }
   ]
 }
