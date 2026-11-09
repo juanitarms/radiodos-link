@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T19:17:25+00:00",
+  "updated": "2026-11-09T11:23:36+00:00",
   "posts": [
+    {
+      "id": "121b79d0",
+      "image": "img/121b79d0.png",
+      "image_sha": "6c3af9ff601ea7ffc27b10eee63e2fa9cf7dca4e",
+      "url": "https://www.radiodos.com.ar/216777-leon-xiv-en-argentina-miles-de-personas-esperan-por-la-misa-en-palermo",
+      "title": "León XIV en Argentina: miles de personas esperan por  la misa en Palermo",
+      "volanta": "VISITA HISTÓRICA",
+      "date": "2026-11-09T11:23:36+00:00"
+    },
     {
       "id": "3b0f9e84",
       "image": "img/3b0f9e84.png",
@@ -531,15 +540,6 @@
       "title": "Se aprobó la adhesión a la emergencia hídrica y climática",
       "volanta": "ÚLTIMA SESIÓN",
       "date": "2026-11-05T16:50:48+00:00"
-    },
-    {
-      "id": "9a9fdd8d",
-      "image": "img/9a9fdd8d.png",
-      "image_sha": "3d3342ee0b702f49979e2451425c5f5e07a0d262",
-      "url": "https://www.radiodos.com.ar/216616-desde-manana-se-habilitan-las-tarjetas-sapucay",
-      "title": "Desde mañana se habilitan las Tarjetas Sapucay",
-      "volanta": "DESARROLLO SOCIAL",
-      "date": "2026-11-05T16:50:05+00:00"
     }
   ]
 }
