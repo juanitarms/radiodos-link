@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T21:27:49+00:00",
+  "updated": "2026-11-09T21:28:53+00:00",
   "posts": [
+    {
+      "id": "65eebb5c",
+      "image": "img/65eebb5c.png",
+      "image_sha": "26fc9b7e494b57230d904d9c03635e09fdeb8c96",
+      "url": "https://www.radiodos.com.ar/216824-leon-xiv-defendio-las-3t-de-francisco-tierra-techo-y-trabajo-son-exigencias-de-la-justicia-social",
+      "title": "León XIV defendió las '3T' de Francisco: \"Tierra, techo y trabajo son exigencias de la justicia social\"",
+      "volanta": "Visita a Argentina",
+      "date": "2026-11-09T21:28:53+00:00"
+    },
     {
       "id": "400ccbe6",
       "image": "img/400ccbe6.png",
@@ -531,15 +540,6 @@
       "title": "El tradicional festival de Santo Tomé fue declarado Fiesta Nacional del Folklore Correntino",
       "volanta": "HISTÓRICO",
       "date": "2026-11-05T23:06:25+00:00"
-    },
-    {
-      "id": "a0c27f19",
-      "image": "img/a0c27f19.png",
-      "image_sha": "9547bd2188a492cd1141161e419fb5084418f524",
-      "url": "https://www.radiodos.com.ar/216638-construiran-un-ascensor-para-peces-en-el-rio-parana",
-      "title": "Construirán un ascensor para peces en el río Paraná",
-      "volanta": "innovadora obra",
-      "date": "2026-11-05T23:05:51+00:00"
     }
   ]
 }
