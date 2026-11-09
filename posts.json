@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T19:06:27+00:00",
+  "updated": "2026-11-09T19:07:05+00:00",
   "posts": [
+    {
+      "id": "e20db399",
+      "image": "img/e20db399.png",
+      "image_sha": "7723b2bde710c68927587af1452cbb80b601a28a",
+      "url": "https://www.radiodos.com.ar/216817-las-familias-viven-situaciones-complejas-el-papa-leon-xiv-brindo-la-masiva-misa-central-con-un-duro-mensaje",
+      "title": "\"Las familias viven situaciones complejas\": el papa León XIV brindó la masiva misa central con un duro mensaje",
+      "volanta": "VISITA AL PAÌS",
+      "date": "2026-11-09T19:07:05+00:00"
+    },
     {
       "id": "ac869f79",
       "image": "img/ac869f79.png",
@@ -531,15 +540,6 @@
       "title": "El miércoles 11 de noviembre iniciará el pago del plus municipal en la ciudad de Corrientes",
       "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
       "date": "2026-11-05T23:04:04+00:00"
-    },
-    {
-      "id": "6a0e1f47",
-      "image": "img/6a0e1f47.png",
-      "image_sha": "2082efeba1cd1e8765879351e22e0a8e2cf48730",
-      "url": "https://www.radiodos.com.ar/216633-pity-alvarez-dio-positivo-por-cocaina-despues-de-declarar-en-el-juicio",
-      "title": "\"Pity\" Álvarez dio positivo por cocaína después de declarar en el juicio",
-      "volanta": "ACUSADO DE HOMICIDIO",
-      "date": "2026-11-05T23:00:29+00:00"
     }
   ]
 }
