@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T13:49:29+00:00",
+  "updated": "2026-11-09T14:04:22+00:00",
   "posts": [
+    {
+      "id": "ee4ea559",
+      "image": "img/ee4ea559.png",
+      "image_sha": "a792ae07ad5143b53fb0ae64d9d692aa1dd67252",
+      "url": "https://www.radiodos.com.ar/216791-policia-rural-rescato-a-cinco-perros-maltratados-y-sin-alimento",
+      "title": "Policía Rural rescató a cinco perros maltratados y sin alimento",
+      "volanta": "GOYA",
+      "date": "2026-11-09T14:04:22+00:00"
+    },
     {
       "id": "48df7691",
       "image": "img/48df7691.png",
@@ -531,15 +540,6 @@
       "title": "Golpe al juego clandestino \"on line\" en localidad del interior de Corrientes: detuvieron a una familia",
       "volanta": "EN CURUZU",
       "date": "2026-11-05T20:59:04+00:00"
-    },
-    {
-      "id": "885f52ac",
-      "image": "img/885f52ac.png",
-      "image_sha": "e925e4174ffd3fd48549e31edf4eb9d5e1044b5c",
-      "url": "https://www.radiodos.com.ar/216629-detuvieron-a-dos-mujeres-con-mas-de-50-envoltorios-de-marihuana",
-      "title": "Detuvieron a dos mujeres con más de 50 envoltorios de marihuana",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-05T20:58:00+00:00"
     }
   ]
 }
