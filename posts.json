@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T19:07:43+00:00",
+  "updated": "2026-11-09T21:20:55+00:00",
   "posts": [
+    {
+      "id": "40f9c12d",
+      "image": "img/40f9c12d.png",
+      "image_sha": "1d1d9ba0ed076899c10ab8a626cbd7f9c3e72859",
+      "url": "https://www.radiodos.com.ar/216822-papa-leon-xiv-en-la-uca-privar-a-una-persona-del-trabajo-es-sumergirla-en-la-exclusion-social",
+      "title": "Papa León XIV en la UCA: \"Privar a una persona del trabajo es sumergirla en la exclusión social\"",
+      "volanta": "Visita papal",
+      "date": "2026-11-09T21:20:55+00:00"
+    },
     {
       "id": "9a859743",
       "image": "img/9a859743.png",
@@ -531,15 +540,6 @@
       "title": "La camiseta 10 de la Selección Argentina no se usará en la Fecha FIFA",
       "volanta": "NUEVA ERA",
       "date": "2026-11-05T23:05:18+00:00"
-    },
-    {
-      "id": "42b726aa",
-      "image": "img/42b726aa.png",
-      "image_sha": "1067c22cee30aeb877469a3ad52e6dd869829273",
-      "url": "https://www.radiodos.com.ar/216636-la-corte-suprema-ordeno-aplicar-la-reforma-laboral-para-actualizar-las-indemnizaciones-en-juicios-en-tramite",
-      "title": "La Corte Suprema ordenó aplicar la reforma laboral para actualizar las indemnizaciones en juicios en trámite",
-      "volanta": "fallo judicial",
-      "date": "2026-11-05T23:04:43+00:00"
     }
   ]
 }
