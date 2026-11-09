@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T21:20:55+00:00",
+  "updated": "2026-11-09T21:27:49+00:00",
   "posts": [
+    {
+      "id": "400ccbe6",
+      "image": "img/400ccbe6.png",
+      "image_sha": "ef192468d92d54bf8deb16bb90559f47db7ad7d0",
+      "url": "https://www.radiodos.com.ar/216823-nuevo-golpe-al-narcomenudeo-deja-un-detenido-armas-y-estupefacientes-secuestrados",
+      "title": "Nuevo golpe al narcomenudeo deja un detenido, armas y estupefacientes secuestrados",
+      "volanta": "Curuzú Cuatiá",
+      "date": "2026-11-09T21:27:49+00:00"
+    },
     {
       "id": "40f9c12d",
       "image": "img/40f9c12d.png",
@@ -531,15 +540,6 @@
       "title": "Construirán un ascensor para peces en el río Paraná",
       "volanta": "innovadora obra",
       "date": "2026-11-05T23:05:51+00:00"
-    },
-    {
-      "id": "bbf2c4fc",
-      "image": "img/bbf2c4fc.png",
-      "image_sha": "484d7043f539c7af7a7bd4f07082f082d0aa1635",
-      "url": "https://www.radiodos.com.ar/216637-la-camiseta-10-de-la-seleccion-argentina-no-se-usara-en-la-fecha-fifa",
-      "title": "La camiseta 10 de la Selección Argentina no se usará en la Fecha FIFA",
-      "volanta": "NUEVA ERA",
-      "date": "2026-11-05T23:05:18+00:00"
     }
   ]
 }
