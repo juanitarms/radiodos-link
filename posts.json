@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T12:16:45+00:00",
+  "updated": "2026-11-09T12:49:43+00:00",
   "posts": [
+    {
+      "id": "954695d0",
+      "image": "img/954695d0.png",
+      "image_sha": "a29dda206b6fa780b892e6fb96bcbb920ae2996c",
+      "url": "https://www.radiodos.com.ar/216782-lnb-san-martin-de-corrientes-logro-un-amplio-triunfo-ante-san-lorenzo",
+      "title": "LNB: San Martín de Corrientes logró  un amplio triunfo ante San Lorenzo",
+      "volanta": "SALIÓ DE PERDEDOR",
+      "date": "2026-11-09T12:49:43+00:00"
+    },
     {
       "id": "77dc7498",
       "image": "img/77dc7498.png",
@@ -531,15 +540,6 @@
       "title": "El Poder Judicial entregó un vehículo al Juzgado de Paz de Caá Catí para fortalecer la atención en zonas rurales",
       "volanta": "ACCESO A LA JUSTICIA",
       "date": "2026-11-05T18:59:44+00:00"
-    },
-    {
-      "id": "a08b8094",
-      "image": "img/a08b8094.png",
-      "image_sha": "2781b4052ae409a5e052525b3c5f2c969e2b05c5",
-      "url": "https://www.radiodos.com.ar/216624-desvian-vuelos-en-europa-por-amenazas-de-bomba-crece-el-temor-a-una-posible-guerra-hibrida",
-      "title": "Desvían vuelos en Europa por amenazas de bomba: crece el temor a una posible \"guerra híbrida\"",
-      "volanta": "ADVERTENCIA",
-      "date": "2026-11-05T18:00:30+00:00"
     }
   ]
 }
