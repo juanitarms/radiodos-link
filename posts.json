@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T19:07:05+00:00",
+  "updated": "2026-11-09T19:07:43+00:00",
   "posts": [
+    {
+      "id": "9a859743",
+      "image": "img/9a859743.png",
+      "image_sha": "68840fa4362c98ab9dc33aa63b075d4b83b690ae",
+      "url": "https://www.radiodos.com.ar/216816-lisandro-almiron-asistio-al-encuentro-institucional-con-el-papa-leon-xiv",
+      "title": "Lisandro Almirón asistió al encuentro institucional con el papa León XIV",
+      "volanta": "Hoy jornada en la UCA",
+      "date": "2026-11-09T19:07:43+00:00"
+    },
     {
       "id": "e20db399",
       "image": "img/e20db399.png",
@@ -531,15 +540,6 @@
       "title": "La Corte Suprema ordenó aplicar la reforma laboral para actualizar las indemnizaciones en juicios en trámite",
       "volanta": "fallo judicial",
       "date": "2026-11-05T23:04:43+00:00"
-    },
-    {
-      "id": "345df1ec",
-      "image": "img/345df1ec.png",
-      "image_sha": "5f26582d2354412c1933f4e3d4ef2b9a5f088c06",
-      "url": "https://www.radiodos.com.ar/216635-el-miercoles-11-de-noviembre-iniciara-el-pago-del-plus-municipal-en-la-ciudad-de-corrientes",
-      "title": "El miércoles 11 de noviembre iniciará el pago del plus municipal en la ciudad de Corrientes",
-      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
-      "date": "2026-11-05T23:04:04+00:00"
     }
   ]
 }
