@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T21:28:53+00:00",
+  "updated": "2026-11-09T21:29:36+00:00",
   "posts": [
+    {
+      "id": "470fdd6d",
+      "image": "img/470fdd6d.png",
+      "image_sha": "666f9f9f1f36f144dc51c6c621768f2e1aae3075",
+      "url": "https://www.radiodos.com.ar/216825-alliana-le-pidio-la-renuncia-a-todos-los-ministros-en-paraguay",
+      "title": "Alliana le pidió la renuncia a todos los ministros en Paraguay",
+      "volanta": "nuevo presidente",
+      "date": "2026-11-09T21:29:36+00:00"
+    },
     {
       "id": "65eebb5c",
       "image": "img/65eebb5c.png",
@@ -531,15 +540,6 @@
       "title": "Conocé al chaqueño que firmó con el Santos de Brasil y que tiene una cláusula de 100 millones de dólares",
       "volanta": "Con tan solo 16 años",
       "date": "2026-11-06T10:46:00+00:00"
-    },
-    {
-      "id": "67c8326d",
-      "image": "img/67c8326d.png",
-      "image_sha": "9b53c0c0276d7a1fddb9fe0a06af1288e3c4fb9e",
-      "url": "https://www.radiodos.com.ar/216639-el-tradicional-festival-de-santo-tome-fue-declarado-fiesta-nacional-del-folklore-correntino",
-      "title": "El tradicional festival de Santo Tomé fue declarado Fiesta Nacional del Folklore Correntino",
-      "volanta": "HISTÓRICO",
-      "date": "2026-11-05T23:06:25+00:00"
     }
   ]
 }
