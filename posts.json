@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-09T11:55:26+00:00",
+  "updated": "2026-11-09T12:16:45+00:00",
   "posts": [
+    {
+      "id": "77dc7498",
+      "image": "img/77dc7498.png",
+      "image_sha": "8a1da88c0b7ff5c8ab2d274a89f3eb8085dad16a",
+      "url": "https://www.radiodos.com.ar/216779-corrientes-motociclistas-chocaron-a-policias-luego-de-escapar-de-un-control",
+      "title": "Corrientes: motociclistas chocaron a policías luego de escapar de un control",
+      "volanta": "POR RUTA 5",
+      "date": "2026-11-09T12:16:45+00:00"
+    },
     {
       "id": "2c753292",
       "image": "img/2c753292.png",
@@ -531,15 +540,6 @@
       "title": "Desvían vuelos en Europa por amenazas de bomba: crece el temor a una posible \"guerra híbrida\"",
       "volanta": "ADVERTENCIA",
       "date": "2026-11-05T18:00:30+00:00"
-    },
-    {
-      "id": "2f9685ca",
-      "image": "img/2f9685ca.png",
-      "image_sha": "c8048076083423636765c0ab37688f7d9e87d364",
-      "url": "https://www.radiodos.com.ar/216623-el-escandalo-de-ueno-bank-en-paraguay-dejo-en-el-limbo-a-cerca-de-mil-trabajadores-en-la-argentina",
-      "title": "El escándalo de Ueno Bank en Paraguay dejó en el limbo a cerca de mil trabajadores en la Argentina",
-      "volanta": "CRISIS",
-      "date": "2026-11-05T17:59:48+00:00"
     }
   ]
 }
