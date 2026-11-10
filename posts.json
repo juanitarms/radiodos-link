@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T23:12:54+00:00",
+  "updated": "2026-11-10T23:14:07+00:00",
   "posts": [
+    {
+      "id": "fcdd8ea6",
+      "image": "img/fcdd8ea6.png",
+      "image_sha": "88df876d30393bcfcda884c19a0d59d0c06b83a0",
+      "url": "https://www.radiodos.com.ar/216891-martin-palermo-se-suma-al-homenaje-de-carlos-tevez",
+      "title": "Martín Palermo se suma al homenaje de Carlos Tevez",
+      "volanta": "El 20 de diciembre en La Bombonera",
+      "date": "2026-11-10T23:14:07+00:00"
+    },
     {
       "id": "84dbb8af",
       "image": "img/84dbb8af.png",
@@ -531,15 +540,6 @@
       "title": "F1: Franco Colapinto no logró pasar a la Q2 del GP de Brasil y largará 17° en la carrera del domingo",
       "volanta": "Bajo una intensa lluvia",
       "date": "2026-11-07T20:51:21+00:00"
-    },
-    {
-      "id": "ea1cc348",
-      "image": "img/ea1cc348.png",
-      "image_sha": "f2985c572ff381d18fcbbb2da3c2424a43c67e49",
-      "url": "https://www.radiodos.com.ar/216725-con-adhesion-de-11-escuelas-y-mas-de-9000-kilos-reciclados-cerro-la-2da-edicion-de-mi-escuela-cuida-corrientes",
-      "title": "Con adhesión de 11 escuelas y más de 9.000 kilos reciclados, cerró la 2da edición de \"Mi Escuela Cuida Corrientes\"",
-      "volanta": "EDUCACIÓN AMBIENTAL",
-      "date": "2026-11-07T18:54:49+00:00"
     }
   ]
 }
