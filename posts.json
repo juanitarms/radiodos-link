@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T16:29:25+00:00",
+  "updated": "2026-11-10T16:30:00+00:00",
   "posts": [
+    {
+      "id": "a69c93a8",
+      "image": "img/a69c93a8.png",
+      "image_sha": "96a1a82b2b8b9df26a39d1c0cea10e02c561d60f",
+      "url": "https://www.radiodos.com.ar/216865-con-el-rio-uruguay-creciendo-el-municipio-de-libres-cerro-el-acceso-a-la-costanera",
+      "title": "Con el río Uruguay creciendo, el Municipio de Libres cerró el acceso a la Costanera",
+      "volanta": "MEDIDA",
+      "date": "2026-11-10T16:30:00+00:00"
+    },
     {
       "id": "08106189",
       "image": "img/08106189.png",
@@ -531,15 +540,6 @@
       "title": "La industria manufacturera cayó 1,8% en septiembre a nivel interanual",
       "volanta": "Crisis",
       "date": "2026-11-06T21:21:51+00:00"
-    },
-    {
-      "id": "25e31248",
-      "image": "img/25e31248.png",
-      "image_sha": "50c49f1e5ded766f53012e5401e6378d0ab57dd7",
-      "url": "https://www.radiodos.com.ar/216694-habrian-identificado-el-lugar-exacto-donde-torturaron-y-mataron-a-nanci-godoy",
-      "title": "Habrían identificado el lugar exacto donde torturaron y mataron a Nanci Godoy",
-      "volanta": "FEMICIDIO",
-      "date": "2026-11-06T21:21:10+00:00"
     }
   ]
 }
