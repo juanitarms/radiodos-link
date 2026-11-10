@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:13:11+00:00",
+  "updated": "2026-11-10T22:13:53+00:00",
   "posts": [
+    {
+      "id": "132df29c",
+      "image": "img/132df29c.png",
+      "image_sha": "d9b1219d8e5f088d500ff9dd3e0dfeccd55c84a8",
+      "url": "https://www.radiodos.com.ar/216889-historico-lionel-scaloni-confirmara-su-continuidad-y-batira-un-record-en-la-seleccion-argentina",
+      "title": "Histórico: Lionel Scaloni confirmará su continuidad y batirá un récord en la Selección Argentina",
+      "volanta": "Superará a Menotti y a Bilardo",
+      "date": "2026-11-10T22:13:53+00:00"
+    },
     {
       "id": "99f6ac0b",
       "image": "img/99f6ac0b.png",
@@ -531,15 +540,6 @@
       "title": "La ciudad de Corrientes vivirá un fin de semana con La Noche de los Museos, deportes, ferias y peña",
       "volanta": "AMPLIA AGENDA",
       "date": "2026-11-07T12:34:58+00:00"
-    },
-    {
-      "id": "2091952a",
-      "image": "img/2091952a.png",
-      "image_sha": "dc3d37084bac97eca5821ceb5101a11592fd8ad2",
-      "url": "https://www.radiodos.com.ar/216710-el-papa-leon-xiv-brindo-un-fuerte-llamado-a-garantizar-la-salud-universal-y-proteger-la-dignidad-humana",
-      "title": "El Papa León XIV brindó un fuerte llamado a garantizar la salud universal y proteger la dignidad humana",
-      "volanta": "Así inició su gira por Sudamérica",
-      "date": "2026-11-07T12:05:40+00:00"
     }
   ]
 }
