@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T14:36:09+00:00",
+  "updated": "2026-11-10T15:09:48+00:00",
   "posts": [
+    {
+      "id": "ac41dc52",
+      "image": "img/ac41dc52.png",
+      "image_sha": "ef7ee55e1d44515c09702cffceaa84475e0e37e8",
+      "url": "https://www.radiodos.com.ar/216860-cuanta-gente-fue-a-ver-al-papa-leon-xiv-al-predio-de-fadea-en-cordoba",
+      "title": "Cuánta gente fue a ver al papa León XIV al predio de FAdeA en Córdoba",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-10T15:09:48+00:00"
+    },
     {
       "id": "d6a2ef27",
       "image": "img/d6a2ef27.png",
@@ -531,15 +540,6 @@
       "title": "ADEPA le dio la bienvenida al papa León XIV y destacó el rol del periodismo",
       "volanta": "LLEGA EL DOMINGO",
       "date": "2026-11-06T17:33:51+00:00"
-    },
-    {
-      "id": "621d5825",
-      "image": "img/621d5825.png",
-      "image_sha": "d26d84b72849b3026f74a5dc65fc891df489fd0f",
-      "url": "https://www.radiodos.com.ar/216690-chaco-prefectura-brindo-asistencia-a-familias-afectadas-por-la-creciente-del-rio-parana",
-      "title": "Chaco: Prefectura brindó asistencia a  familias afectadas por la creciente del río Paraná",
-      "volanta": "PRESENCIA",
-      "date": "2026-11-06T17:33:13+00:00"
     }
   ]
 }
