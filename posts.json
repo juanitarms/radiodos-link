@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T20:32:58+00:00",
+  "updated": "2026-11-10T22:04:15+00:00",
   "posts": [
+    {
+      "id": "bedf5440",
+      "image": "img/bedf5440.png",
+      "image_sha": "8828df00740828c97c1bcf220cf10fc643415534",
+      "url": "https://www.radiodos.com.ar/216884-salud-publica-de-corrientes-insta-a-completar-esquemas-de-vacunas-del-calendario-y-la-antigripal-para-grupos-de-riesgo",
+      "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
+      "volanta": "INMUNIZACIÓN",
+      "date": "2026-11-10T22:04:15+00:00"
+    },
     {
       "id": "22330b03",
       "image": "img/22330b03.png",
@@ -531,15 +540,6 @@
       "title": "\"Visitar Argentina es un homenaje a Francisco\", las palabras de León XIV en el avión camino a Latinoamérica:",
       "volanta": "HISTORICO",
       "date": "2026-11-06T21:55:02+00:00"
-    },
-    {
-      "id": "51c0b21b",
-      "image": "img/51c0b21b.png",
-      "image_sha": "c5554764420092a1d6d0bebb501c26399496a53c",
-      "url": "https://www.radiodos.com.ar/216697-colapinto-termino-noveno-y-undecimo-en-las-dos-primeras-practicas-libres-del-gran-premio-de-brasil",
-      "title": "Colapinto terminó noveno y undécimo en las dos primeras prácticas libres del Gran Premio de Brasil",
-      "volanta": "F1",
-      "date": "2026-11-06T21:22:24+00:00"
     }
   ]
 }
