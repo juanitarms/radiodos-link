@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T23:09:09+00:00",
+  "updated": "2026-11-10T23:12:54+00:00",
   "posts": [
+    {
+      "id": "84dbb8af",
+      "image": "img/84dbb8af.png",
+      "image_sha": "7601ee77180a8fbc46e45990c74d70a0be40e3dc",
+      "url": "https://www.radiodos.com.ar/216892-realizaba-willy-con-escape-libre-en-una-avenida-y-termino-demorado",
+      "title": "Realizaba \"willy\" con escape libre en una avenida y terminó demorado",
+      "volanta": "Imprudencia vial",
+      "date": "2026-11-10T23:12:54+00:00"
+    },
     {
       "id": "4d01a62e",
       "image": "img/4d01a62e.png",
@@ -531,15 +540,6 @@
       "title": "Con adhesión de 11 escuelas y más de 9.000 kilos reciclados, cerró la 2da edición de \"Mi Escuela Cuida Corrientes\"",
       "volanta": "EDUCACIÓN AMBIENTAL",
       "date": "2026-11-07T18:54:49+00:00"
-    },
-    {
-      "id": "8ce69809",
-      "image": "img/8ce69809.png",
-      "image_sha": "b713320198c2038fab6f25139e045ff684389304",
-      "url": "https://www.radiodos.com.ar/216724-tras-mas-de-seis-anos-la-justicia-de-corrientes-absolvio-a-un-hombre-acusado-de-abusar-de-su-propio-hijo",
-      "title": "Tras más de seis años, la Justicia de Corrientes absolvió a un hombre acusado de abusar de su propio hijo",
-      "volanta": "MUCHO TIEMPO",
-      "date": "2026-11-07T14:23:55+00:00"
     }
   ]
 }
