@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:11:47+00:00",
+  "updated": "2026-11-10T22:13:11+00:00",
   "posts": [
+    {
+      "id": "99f6ac0b",
+      "image": "img/99f6ac0b.png",
+      "image_sha": "0af7957b5ce30f042d495a17aa4d670e30211111",
+      "url": "https://www.radiodos.com.ar/216885-queremos-recuperar-los-huesos-de-la-oscuridad-de-los-secuestros-para-darles-una-sepultura-humana",
+      "title": "\"Queremos recuperar los huesos de la oscuridad de los secuestros para darles una sepultura humana\"",
+      "volanta": "Fue recibida por Su Santidad",
+      "date": "2026-11-10T22:13:11+00:00"
+    },
     {
       "id": "9f78ecfd",
       "image": "img/9f78ecfd.png",
@@ -531,15 +540,6 @@
       "title": "El Papa León XIV brindó un fuerte llamado a garantizar la salud universal y proteger la dignidad humana",
       "volanta": "Así inició su gira por Sudamérica",
       "date": "2026-11-07T12:05:40+00:00"
-    },
-    {
-      "id": "cdc40f45",
-      "image": "img/cdc40f45.png",
-      "image_sha": "5989be60d3e8e4445648301e4759192325658f1b",
-      "url": "https://www.radiodos.com.ar/216716-juegos-nacionales-2026-corrientes-brilla-con-destacados-logros-en-pesas-atletismo-y-un-historico-desempeno-adaptado",
-      "title": "Juegos Nacionales 2026: Corrientes brilla con destacados logros en pesas, atletismo y un histórico desempeño adaptado",
-      "volanta": "JORNADA DESTACADA",
-      "date": "2026-11-07T12:05:00+00:00"
     }
   ]
 }
