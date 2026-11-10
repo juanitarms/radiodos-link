@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:08:24+00:00",
+  "updated": "2026-11-10T22:10:19+00:00",
   "posts": [
+    {
+      "id": "9ceb027e",
+      "image": "img/9ceb027e.png",
+      "image_sha": "0c97d3fd2f3830d20138256ea944e63f89cdfaf6",
+      "url": "https://www.radiodos.com.ar/216886-un-hombre-de-53-anos-fue-encontrado-sin-vida-en-la-vereda",
+      "title": "Un hombre de 53 años fue encontrado sin vida en la vereda",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-10T22:10:19+00:00"
+    },
     {
       "id": "1648bb3a",
       "image": "img/1648bb3a.png",
@@ -531,15 +540,6 @@
       "title": "El Cyber Monday vendió un 20% menos que el año pasado",
       "volanta": "Crisis",
       "date": "2026-11-06T23:06:06+00:00"
-    },
-    {
-      "id": "541cdf83",
-      "image": "img/541cdf83.png",
-      "image_sha": "8fa2147e55ff567f045a8fe91c4ed9e74f83629b",
-      "url": "https://www.radiodos.com.ar/216706-historico-el-papa-leon-xiv-llego-a-uruguay-en-el-inicio-de-su-gira-por-sudamerica",
-      "title": "Histórico: El Papa León XIV llegó a Uruguay en el inicio de su gira por Sudamérica",
-      "volanta": "Después visitará Argentina y finalizará en Perú",
-      "date": "2026-11-06T23:05:34+00:00"
     }
   ]
 }
