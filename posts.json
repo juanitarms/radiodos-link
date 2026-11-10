@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T11:48:45+00:00",
+  "updated": "2026-11-10T12:19:30+00:00",
   "posts": [
+    {
+      "id": "9b8e3740",
+      "image": "img/9b8e3740.png",
+      "image_sha": "5ba88aa767b3ae6857b838b6619f887ef8886532",
+      "url": "https://www.radiodos.com.ar/216832-j-p-valdes-anuncio-inversiones-para-potenciar-el-desarrollo-de-goya",
+      "title": "J P Valdés anunció inversiones para potenciar el desarrollo de Goya",
+      "volanta": "235° ANIVERSARIO DE LA PRIMERA RADICACIÓN HISTÓRICA",
+      "date": "2026-11-10T12:19:30+00:00"
+    },
     {
       "id": "6bd73ad7",
       "image": "img/6bd73ad7.png",
@@ -531,15 +540,6 @@
       "title": "\"Prestamista\" colombiano herido tras reclamar millonaria suma en un barrio de Corrientes",
       "volanta": "barrio san antonio oeste",
       "date": "2026-11-06T12:27:11+00:00"
-    },
-    {
-      "id": "c9268281",
-      "image": "img/c9268281.png",
-      "image_sha": "4d89314a70e2e117d74d7123ccbad2dd51782c8f",
-      "url": "https://www.radiodos.com.ar/216647-la-noche-de-los-museos-amplia-su-circuito-y-suma-beneficios-en-comercios-del-casco-historico",
-      "title": "La Noche de los Museos amplía su circuito y suma beneficios en comercios del casco histórico",
-      "volanta": "ARTE",
-      "date": "2026-11-06T12:10:19+00:00"
     }
   ]
 }
