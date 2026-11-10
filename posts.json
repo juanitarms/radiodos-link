@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T13:15:05+00:00",
+  "updated": "2026-11-10T13:31:52+00:00",
   "posts": [
+    {
+      "id": "8abe1b8b",
+      "image": "img/8abe1b8b.png",
+      "image_sha": "f3911cd6781f4c01e0fbe1cac2adde982bf084ed",
+      "url": "https://www.radiodos.com.ar/216851-javier-milei-no-viajara-a-cordoba-para-la-misa-de-leon-xiv-y-delega-la-representacion-en-su-hermana",
+      "title": "Javier Milei no viajará a Córdoba para la misa de León XIV y delega la representación en su hermana",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-10T13:31:52+00:00"
+    },
     {
       "id": "44fb808a",
       "image": "img/44fb808a.png",
@@ -531,15 +540,6 @@
       "title": "El angustiante descargo de Lizy Tagliani sobre las vidas de las personas trans tras el ataque en Palermo",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-11-06T14:33:21+00:00"
-    },
-    {
-      "id": "8d48a78d",
-      "image": "img/8d48a78d.png",
-      "image_sha": "3d135b4b078ecb8263cef6aa551f0b99796ed468",
-      "url": "https://www.radiodos.com.ar/216648-la-auditoria-general-de-la-nacion-visito-economicas-de-la-unne",
-      "title": "La Auditoría General de la Nación visitó Económicas de la UNNE",
-      "volanta": "ENTRE ESTE 4 Y 5 DE NOVIEMBRE",
-      "date": "2026-11-06T13:21:53+00:00"
     }
   ]
 }
