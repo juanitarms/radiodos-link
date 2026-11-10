@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:04:49+00:00",
+  "updated": "2026-11-10T22:08:24+00:00",
   "posts": [
+    {
+      "id": "1648bb3a",
+      "image": "img/1648bb3a.png",
+      "image_sha": "4f27b0065fdb35d44821137958f0343af84e5747",
+      "url": "https://www.radiodos.com.ar/216882-la-misa-del-papa-leon-xiv-en-palermo-entre-las-mas-multitudinarias-de-la-historia",
+      "title": "La misa del papa León XIV en Palermo, entre las más multitudinarias de la historia",
+      "volanta": "HISTÓRICO",
+      "date": "2026-11-10T22:08:24+00:00"
+    },
     {
       "id": "d20d96f5",
       "image": "img/d20d96f5.png",
@@ -531,15 +540,6 @@
       "title": "Histórico: El Papa León XIV llegó a Uruguay en el inicio de su gira por Sudamérica",
       "volanta": "Después visitará Argentina y finalizará en Perú",
       "date": "2026-11-06T23:05:34+00:00"
-    },
-    {
-      "id": "a0094b34",
-      "image": "img/a0094b34.png",
-      "image_sha": "43b423a61d4d8628a5919b228a7e9f4999cdcdaf",
-      "url": "https://www.radiodos.com.ar/216705-juicio-contra-pity-alvarez-la-querella-pidio-11-anos-y-2-meses-de-prision-para-el-cantante",
-      "title": "Juicio contra \"Pity\" Álvarez: la querella pidió 11 años y 2 meses de prisión para el cantante",
-      "volanta": "Acusado de homicidio",
-      "date": "2026-11-06T23:03:40+00:00"
     }
   ]
 }
