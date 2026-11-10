@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T13:31:52+00:00",
+  "updated": "2026-11-10T13:54:21+00:00",
   "posts": [
+    {
+      "id": "001c69a0",
+      "image": "img/001c69a0.png",
+      "image_sha": "f2fe5d0b20207a617b5f987f0fd6b4e2a06c23ac",
+      "url": "https://www.radiodos.com.ar/216853-lujan-peregrinos-voluntariado-y-todos-los-preparativos-para-recibir-al-papa-leon-xiv",
+      "title": "Luján: peregrinos, voluntariado y todos los preparativos para recibir al papa León XIV",
+      "volanta": "MUY ESPERADO",
+      "date": "2026-11-10T13:54:21+00:00"
+    },
     {
       "id": "8abe1b8b",
       "image": "img/8abe1b8b.png",
@@ -531,15 +540,6 @@
       "title": "Así será el funcionamiento de los servicios durante el feriado nacional del lunes",
       "volanta": "ATENCIONES MUNICIPALES",
       "date": "2026-11-06T15:18:54+00:00"
-    },
-    {
-      "id": "6ab2129e",
-      "image": "img/6ab2129e.png",
-      "image_sha": "62f47fa73e58c76f446c0920a7e8eab069a32cc8",
-      "url": "https://www.radiodos.com.ar/216679-el-angustiante-descargo-de-lizy-tagliani-sobre-las-vidas-de-las-personas-trans-tras-el-ataque-en-palermo",
-      "title": "El angustiante descargo de Lizy Tagliani sobre las vidas de las personas trans tras el ataque en Palermo",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-11-06T14:33:21+00:00"
     }
   ]
 }
