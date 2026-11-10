@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:04:15+00:00",
+  "updated": "2026-11-10T22:04:49+00:00",
   "posts": [
+    {
+      "id": "d20d96f5",
+      "image": "img/d20d96f5.png",
+      "image_sha": "3e96dcf18dbda3590276bc97e43300bc939c40f1",
+      "url": "https://www.radiodos.com.ar/216883-expo-interactiva-estudiantes-de-cruz-roja-llevaran-la-salud-a-la-peatonal-junin",
+      "title": "Expo interactiva: estudiantes de Cruz Roja llevarán la salud a la peatonal Junín",
+      "volanta": "ESTE MIÉRCOLES",
+      "date": "2026-11-10T22:04:49+00:00"
+    },
     {
       "id": "bedf5440",
       "image": "img/bedf5440.png",
@@ -531,15 +540,6 @@
       "title": "Juicio contra \"Pity\" Álvarez: la querella pidió 11 años y 2 meses de prisión para el cantante",
       "volanta": "Acusado de homicidio",
       "date": "2026-11-06T23:03:40+00:00"
-    },
-    {
-      "id": "d22063b3",
-      "image": "img/d22063b3.png",
-      "image_sha": "07c7cd40a8a8296aa67e4cf5d39a502110bde56a",
-      "url": "https://www.radiodos.com.ar/216704-visitar-argentina-es-un-homenaje-a-francisco-las-palabras-de-leon-xiv-en-el-avion-camino-a-latinoamerica",
-      "title": "\"Visitar Argentina es un homenaje a Francisco\", las palabras de León XIV en el avión camino a Latinoamérica:",
-      "volanta": "HISTORICO",
-      "date": "2026-11-06T21:55:02+00:00"
     }
   ]
 }
