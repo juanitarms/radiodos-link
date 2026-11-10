@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T22:13:53+00:00",
+  "updated": "2026-11-10T23:09:09+00:00",
   "posts": [
+    {
+      "id": "4d01a62e",
+      "image": "img/4d01a62e.png",
+      "image_sha": "c39134bf2d08e18afdddd9be175ea7ba779bcf92",
+      "url": "https://www.radiodos.com.ar/216890-alerta-amarilla-por-tormentas-fuertes-para-este-miercoles-en-corrientes",
+      "title": "Alerta amarilla por tormentas fuertes para este miércoles en Corrientes",
+      "volanta": "TEMPORAL",
+      "date": "2026-11-10T23:09:09+00:00"
+    },
     {
       "id": "132df29c",
       "image": "img/132df29c.png",
@@ -531,15 +540,6 @@
       "title": "Tras más de seis años, la Justicia de Corrientes absolvió a un hombre acusado de abusar de su propio hijo",
       "volanta": "MUCHO TIEMPO",
       "date": "2026-11-07T14:23:55+00:00"
-    },
-    {
-      "id": "19b0be5d",
-      "image": "img/19b0be5d.png",
-      "image_sha": "ee3a0b48f272867f9f468cd0c2d6291d77c5dc19",
-      "url": "https://www.radiodos.com.ar/216721-la-ciudad-de-corrientes-vivira-un-fin-de-semana-con-la-noche-de-los-museos-deportes-ferias-y-pena",
-      "title": "La ciudad de Corrientes vivirá un fin de semana con La Noche de los Museos, deportes, ferias y peña",
-      "volanta": "AMPLIA AGENDA",
-      "date": "2026-11-07T12:34:58+00:00"
     }
   ]
 }
