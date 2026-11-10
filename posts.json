@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T13:00:26+00:00",
+  "updated": "2026-11-10T13:15:05+00:00",
   "posts": [
+    {
+      "id": "44fb808a",
+      "image": "img/44fb808a.png",
+      "image_sha": "d7dae20fa14da66880826f11b671d6096b12cb1a",
+      "url": "https://www.radiodos.com.ar/216849-el-papa-leon-xiv-en-la-catedral-homenaje-a-san-martin-y-reconocimiento-a-los-obispos-angelelli-y-pironio",
+      "title": "El papa León XIV en la Catedral: homenaje a San Martín y reconocimiento a los obispos Angelelli y Pironio",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-10T13:15:05+00:00"
+    },
     {
       "id": "fa89564b",
       "image": "img/fa89564b.png",
@@ -531,15 +540,6 @@
       "title": "La Auditoría General de la Nación visitó Económicas de la UNNE",
       "volanta": "ENTRE ESTE 4 Y 5 DE NOVIEMBRE",
       "date": "2026-11-06T13:21:53+00:00"
-    },
-    {
-      "id": "348af157",
-      "image": "img/348af157.png",
-      "image_sha": "b1e0d267844fcdcbb994d9fa34d23ac79295b78d",
-      "url": "https://www.radiodos.com.ar/216662-caso-andis-los-kovalivker-no-respondieron-preguntas-pero-rechazaron-acusaciones-y-pidieron-anular-la-causa",
-      "title": "Caso ANDIS: los Kovalivker no respondieron preguntas pero rechazaron acusaciones y pidieron anular la causa",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-11-06T12:59:38+00:00"
     }
   ]
 }
