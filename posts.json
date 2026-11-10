@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T14:16:48+00:00",
+  "updated": "2026-11-10T14:36:09+00:00",
   "posts": [
+    {
+      "id": "d6a2ef27",
+      "image": "img/d6a2ef27.png",
+      "image_sha": "1917355f97c457406c7b26b67659b0771158cc1a",
+      "url": "https://www.radiodos.com.ar/216864-ante-una-multitud-en-cordoba-el-papa-leon-xiv-pidio-la-santificacion-del-pueblo-argentino",
+      "title": "Ante una multitud en Córdoba, el papa León XIV pidió \"la santificación del pueblo argentino\"",
+      "volanta": "JORNADA HISTÓRICA",
+      "date": "2026-11-10T14:36:09+00:00"
+    },
     {
       "id": "bcf47f09",
       "image": "img/bcf47f09.png",
@@ -531,15 +540,6 @@
       "title": "Chaco: Prefectura brindó asistencia a  familias afectadas por la creciente del río Paraná",
       "volanta": "PRESENCIA",
       "date": "2026-11-06T17:33:13+00:00"
-    },
-    {
-      "id": "deb559d0",
-      "image": "img/deb559d0.png",
-      "image_sha": "2bd8962728395a4e4a60b7c654363b62a01c0280",
-      "url": "https://www.radiodos.com.ar/216691-caso-manuel-adorni-para-el-fiscal-gerardo-pollicita-no-se-pudo-corroborar-enriquecimiento-ilicito",
-      "title": "Caso Manuel Adorni: para el fiscal Gerardo Pollicita, no se pudo corroborar enriquecimiento ilícito",
-      "volanta": "SIGUE LA INVESTIGACIÓN",
-      "date": "2026-11-06T17:32:42+00:00"
     }
   ]
 }
