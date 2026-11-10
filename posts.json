@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T12:19:30+00:00",
+  "updated": "2026-11-10T13:00:26+00:00",
   "posts": [
+    {
+      "id": "fa89564b",
+      "image": "img/fa89564b.png",
+      "image_sha": "5e8ae956fc692cf46868b890e38b6c21d6d9cf12",
+      "url": "https://www.radiodos.com.ar/216831-infinitos-testimonios-de-correntinos-que-cuentan-sus-experiencias-en-la-visita-del-papa-leon-xiv",
+      "title": "Infinitos testimonios de correntinos que cuentan sus experiencias en la visita del Papa León XIV",
+      "volanta": "Bravo por Corrientes",
+      "date": "2026-11-10T13:00:26+00:00"
+    },
     {
       "id": "9b8e3740",
       "image": "img/9b8e3740.png",
@@ -531,15 +540,6 @@
       "title": "Caso ANDIS: los Kovalivker no respondieron preguntas pero rechazaron acusaciones y pidieron anular la causa",
       "volanta": "CAUSA ABIERTA",
       "date": "2026-11-06T12:59:38+00:00"
-    },
-    {
-      "id": "74cb0988",
-      "image": "img/74cb0988.png",
-      "image_sha": "fdaddfc8d05aec8bced707a5e41f81030aaf0a26",
-      "url": "https://www.radiodos.com.ar/216646-prestamista-colombiano-herido-tras-reclamar-millonaria-suma-en-un-barrio-de-corrientes",
-      "title": "\"Prestamista\" colombiano herido tras reclamar millonaria suma en un barrio de Corrientes",
-      "volanta": "barrio san antonio oeste",
-      "date": "2026-11-06T12:27:11+00:00"
     }
   ]
 }
