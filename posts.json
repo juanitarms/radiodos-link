@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T16:28:50+00:00",
+  "updated": "2026-11-10T16:29:25+00:00",
   "posts": [
+    {
+      "id": "08106189",
+      "image": "img/08106189.png",
+      "image_sha": "6e308654512d5bfda08d87c24e1c0be357792ab9",
+      "url": "https://www.radiodos.com.ar/216866-buscan-a-una-adolescente-que-se-ausento-del-hogar-maria-nazareth",
+      "title": "Buscan a una adolescente que se ausentó del Hogar María Nazareth",
+      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
+      "date": "2026-11-10T16:29:25+00:00"
+    },
     {
       "id": "5437d722",
       "image": "img/5437d722.png",
@@ -531,15 +540,6 @@
       "title": "Habrían identificado el lugar exacto donde torturaron y mataron a Nanci Godoy",
       "volanta": "FEMICIDIO",
       "date": "2026-11-06T21:21:10+00:00"
-    },
-    {
-      "id": "7512380d",
-      "image": "img/7512380d.png",
-      "image_sha": "0ec116318d488ee3ab628f50e327066245f3a91e",
-      "url": "https://www.radiodos.com.ar/216687-prefectura-secuestro-mas-de-37-kilos-de-droga-que-fueron-arrojados-desde-una-embarcacion-proveniente-de-paraguay",
-      "title": "Prefectura secuestró más de 37 kilos de droga que fueron arrojados desde una embarcación proveniente de Paraguay",
-      "volanta": "ITÁ IBATÉ",
-      "date": "2026-11-06T18:53:53+00:00"
     }
   ]
 }
