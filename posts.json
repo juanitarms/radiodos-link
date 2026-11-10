@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T15:09:48+00:00",
+  "updated": "2026-11-10T16:28:12+00:00",
   "posts": [
+    {
+      "id": "b257b15e",
+      "image": "img/b257b15e.png",
+      "image_sha": "7313f5f194aca77e79796ff5995fbee4cb6376e1",
+      "url": "https://www.radiodos.com.ar/216867-la-diputada-ana-amendola-participo-de-la-radicacion-historica-de-goya",
+      "title": "La diputada Ana Améndola participó de la radicación histórica de Goya",
+      "volanta": "CELEBRACIÓN",
+      "date": "2026-11-10T16:28:12+00:00"
+    },
     {
       "id": "ac41dc52",
       "image": "img/ac41dc52.png",
@@ -531,15 +540,6 @@
       "title": "El Senado de Paraguay rechazó el pedido de prórroga de Santiago Peña y avanza el juicio político",
       "volanta": "CRISIS",
       "date": "2026-11-06T18:53:18+00:00"
-    },
-    {
-      "id": "297dd5d6",
-      "image": "img/297dd5d6.png",
-      "image_sha": "80c8e60d7daf359ac7ea522dc8b687973fcd017c",
-      "url": "https://www.radiodos.com.ar/216689-adepa-le-dio-la-bienvenida-al-papa-leon-xiv-y-destaco-el-rol-del-periodismo",
-      "title": "ADEPA le dio la bienvenida al papa León XIV y destacó el rol del periodismo",
-      "volanta": "LLEGA EL DOMINGO",
-      "date": "2026-11-06T17:33:51+00:00"
     }
   ]
 }
