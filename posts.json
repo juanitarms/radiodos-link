@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T16:30:00+00:00",
+  "updated": "2026-11-10T20:32:58+00:00",
   "posts": [
+    {
+      "id": "22330b03",
+      "image": "img/22330b03.png",
+      "image_sha": "c77b5df886866b1763309d000895e00a1be80fc6",
+      "url": "https://www.radiodos.com.ar/216880-tras-su-actividad-en-cordoba-leon-xiv-regresa-a-buenos-aires-para-la-vigilia-con-los-jovenes",
+      "title": "Tras su actividad en Córdoba, León XIV regresa a Buenos Aires para la vigilia con los jóvenes",
+      "volanta": "VISITA HISTORICA",
+      "date": "2026-11-10T20:32:58+00:00"
+    },
     {
       "id": "a69c93a8",
       "image": "img/a69c93a8.png",
@@ -531,15 +540,6 @@
       "title": "Colapinto terminó noveno y undécimo en las dos primeras prácticas libres del Gran Premio de Brasil",
       "volanta": "F1",
       "date": "2026-11-06T21:22:24+00:00"
-    },
-    {
-      "id": "3f5eca6d",
-      "image": "img/3f5eca6d.png",
-      "image_sha": "2c67b1040b910332d5e82353a9369effb19ae929",
-      "url": "https://www.radiodos.com.ar/216698-la-industria-manufacturera-cayo-18-en-septiembre-a-nivel-interanual",
-      "title": "La industria manufacturera cayó 1,8% en septiembre a nivel interanual",
-      "volanta": "Crisis",
-      "date": "2026-11-06T21:21:51+00:00"
     }
   ]
 }
