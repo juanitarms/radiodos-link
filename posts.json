@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T11:03:50+00:00",
+  "updated": "2026-11-10T11:48:45+00:00",
   "posts": [
+    {
+      "id": "6bd73ad7",
+      "image": "img/6bd73ad7.png",
+      "image_sha": "046050a1aa24146d751067ba2eb03cc37a5e8650",
+      "url": "https://www.radiodos.com.ar/216833-rescataron-una-enorme-yarara-en-el-patio-de-una-casa-en-el-interior-de-corrientes",
+      "title": "Rescataron una enorme yarará en el patio de una casa en el interior de Corrientes",
+      "volanta": "SAN COSME",
+      "date": "2026-11-10T11:48:45+00:00"
+    },
     {
       "id": "e6f7b0fb",
       "image": "img/e6f7b0fb.png",
@@ -531,15 +540,6 @@
       "title": "La Noche de los Museos amplía su circuito y suma beneficios en comercios del casco histórico",
       "volanta": "ARTE",
       "date": "2026-11-06T12:10:19+00:00"
-    },
-    {
-      "id": "207917e4",
-      "image": "img/207917e4.png",
-      "image_sha": "df318650688a82879e52209992980eb54e98d182",
-      "url": "https://www.radiodos.com.ar/216644-nene-de-5-murio-tras-ser-atropellado-por-un-vecino-en-el-interior-de-corrientes",
-      "title": "Nene de 5 murió tras ser atropellado por un vecino en el interior de Corrientes",
-      "volanta": "SALADAS",
-      "date": "2026-11-06T11:49:13+00:00"
     }
   ]
 }
