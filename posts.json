@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T23:15:47+00:00",
+  "updated": "2026-11-10T23:16:47+00:00",
   "posts": [
+    {
+      "id": "bf612dbf",
+      "image": "img/bf612dbf.png",
+      "image_sha": "d0b0875451c809fad71c197850490e7e06ff5469",
+      "url": "https://www.radiodos.com.ar/216894-trabajadores-de-exen-exigen-recuperar-las-maquinas-para-volver-a-trabajar",
+      "title": "Trabajadores de Exen exigen recuperar las máquinas para volver a trabajar",
+      "volanta": "CHACO",
+      "date": "2026-11-10T23:16:47+00:00"
+    },
     {
       "id": "1827b6bc",
       "image": "img/1827b6bc.png",
@@ -531,15 +540,6 @@
       "title": "Una marea multicolor volvió a tomar el centro porteño en la 35ª Marcha del Orgullo",
       "volanta": "GRAN MOVILIZACIÓN",
       "date": "2026-11-07T23:04:06+00:00"
-    },
-    {
-      "id": "20fb1841",
-      "image": "img/20fb1841.png",
-      "image_sha": "57bb7a0a55db3ba284b21496c483bf812120f937",
-      "url": "https://www.radiodos.com.ar/216743-una-mujer-cayo-en-su-auto-a-un-arroyo-y-una-policia-se-arrojo-al-agua-para-rescatarla",
-      "title": "Una mujer cayó en su auto a un arroyo y una policía se arrojó al agua para rescatarla",
-      "volanta": "Ensenada",
-      "date": "2026-11-07T22:58:17+00:00"
     }
   ]
 }
