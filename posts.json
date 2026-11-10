@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T16:28:12+00:00",
+  "updated": "2026-11-10T16:28:50+00:00",
   "posts": [
+    {
+      "id": "5437d722",
+      "image": "img/5437d722.png",
+      "image_sha": "4c51d9441f61460fc9b9b67793d08b3be3c9ef09",
+      "url": "https://www.radiodos.com.ar/216868-el-papa-leon-xiv-evoco-el-legado-de-mama-antula-y-el-cura-brochero-durante-su-multitudinaria-misa-en-cordoba",
+      "title": "El papa León XIV evocó el legado de Mama Antula y el Cura Brochero durante su multitudinaria misa en Córdoba",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-10T16:28:50+00:00"
+    },
     {
       "id": "b257b15e",
       "image": "img/b257b15e.png",
@@ -531,15 +540,6 @@
       "title": "Prefectura secuestró más de 37 kilos de droga que fueron arrojados desde una embarcación proveniente de Paraguay",
       "volanta": "ITÁ IBATÉ",
       "date": "2026-11-06T18:53:53+00:00"
-    },
-    {
-      "id": "13df92f4",
-      "image": "img/13df92f4.png",
-      "image_sha": "7ab07ffd3ff37b910b4c07d4ccc78e5425ba2b86",
-      "url": "https://www.radiodos.com.ar/216692-el-senado-de-paraguay-rechazo-el-pedido-de-prorroga-de-santiago-pena-y-avanza-el-juicio-politico",
-      "title": "El Senado de Paraguay rechazó el pedido de prórroga de Santiago Peña y avanza el juicio político",
-      "volanta": "CRISIS",
-      "date": "2026-11-06T18:53:18+00:00"
     }
   ]
 }
