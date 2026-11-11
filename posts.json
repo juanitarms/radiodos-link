@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T15:01:06+00:00",
+  "updated": "2026-11-11T20:41:58+00:00",
   "posts": [
+    {
+      "id": "2569b093",
+      "image": "img/2569b093.png",
+      "image_sha": "b0284cd851a0cc765df949f4d8d31494c5659452",
+      "url": "https://www.radiodos.com.ar/216947-leon-xiv-se-despidio-de-la-argentina-este-pais-desde-ahora-tiene-dos-papas-uno-que-ha-nacido-aqui-y-otro-por-adopcion",
+      "title": "León XIV se despidió de la Argentina: \"Este país desde ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción\"",
+      "volanta": "UNA FRASE",
+      "date": "2026-11-11T20:41:58+00:00"
+    },
     {
       "id": "107fb690",
       "image": "img/107fb690.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: motociclistas chocaron a policías luego de escapar de un control",
       "volanta": "POR RUTA 5",
       "date": "2026-11-09T12:16:45+00:00"
-    },
-    {
-      "id": "2c753292",
-      "image": "img/2c753292.png",
-      "image_sha": "b644fdade2feb1d34fae0aa04a9209cddc241a2f",
-      "url": "https://www.radiodos.com.ar/216780-en-corrientes-proyectaran-las-misas-de-leon-xiv-en-pantalla-gigante",
-      "title": "En Corrientes proyectarán las misas de León XIV en pantalla gigante",
-      "volanta": "VISITA HISTÓRICA",
-      "date": "2026-11-09T11:55:26+00:00"
     }
   ]
 }
