@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T21:06:58+00:00",
+  "updated": "2026-11-11T21:18:35+00:00",
   "posts": [
+    {
+      "id": "ccd2aa9a",
+      "image": "img/ccd2aa9a.png",
+      "image_sha": "426c0fe15460df72ea042ea4fd8e155005adcbbd",
+      "url": "https://www.radiodos.com.ar/216951-el-fiscal-schaefer-ratifica-la-hipotesis-de-la-sustraccion-de-loan",
+      "title": "El fiscal Schaefer ratifica la hipótesis de la sustracción de Loan",
+      "volanta": "JUICIO",
+      "date": "2026-11-11T21:18:35+00:00"
+    },
     {
       "id": "4b98280e",
       "image": "img/4b98280e.png",
@@ -531,15 +540,6 @@
       "title": "Policía Rural rescató a cinco perros maltratados y sin alimento",
       "volanta": "GOYA",
       "date": "2026-11-09T14:04:22+00:00"
-    },
-    {
-      "id": "48df7691",
-      "image": "img/48df7691.png",
-      "image_sha": "283a35acddcc93f318d004e5267730736f0d502c",
-      "url": "https://www.radiodos.com.ar/216786-un-efectivo-de-la-policia-de-corrientes-perdio-la-vida-al-chocar-un-patrullero-estacionado-en-chaco",
-      "title": "Un efectivo de la Policía de Corrientes perdió la vida al chocar un patrullero estacionado en Chaco",
-      "volanta": "AVIA TERAI",
-      "date": "2026-11-09T13:49:29+00:00"
     }
   ]
 }
