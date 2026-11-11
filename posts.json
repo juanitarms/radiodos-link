@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T22:21:57+00:00",
+  "updated": "2026-11-11T23:18:21+00:00",
   "posts": [
+    {
+      "id": "b9274ca5",
+      "image": "img/b9274ca5.png",
+      "image_sha": "23a7bd4791cfc063b048d7ce12b1e3d04c302229",
+      "url": "https://www.radiodos.com.ar/216954-que-le-cantaron-los-obispos-al-papa-leon-xiv",
+      "title": "¿Que le cantaron los obispos al Papa León XIV?",
+      "volanta": "Perlitas de la visita de Su Santidad",
+      "date": "2026-11-11T23:18:21+00:00"
+    },
     {
       "id": "e71898b2",
       "image": "img/e71898b2.png",
@@ -531,15 +540,6 @@
       "title": "Batalla campal entre pandillas en Corrientes: tres detenidos con armas y gomeras",
       "volanta": "VIOLENCIA URBANA",
       "date": "2026-11-09T15:19:39+00:00"
-    },
-    {
-      "id": "effde37a",
-      "image": "img/effde37a.png",
-      "image_sha": "ff65caba9fa06e60827044b591ea78a870343619",
-      "url": "https://www.radiodos.com.ar/216800-la-historia-de-norma-la-mujer-que-le-conto-su-dura-infancia-al-papa-leon-xiv-en-el-cottolengo-don-orione",
-      "title": "La historia de Norma, la mujer que le contó su dura infancia al papa León XIV en el Cottolengo Don Orione",
-      "volanta": "VISITA HISTÓRICA",
-      "date": "2026-11-09T14:47:17+00:00"
     }
   ]
 }
