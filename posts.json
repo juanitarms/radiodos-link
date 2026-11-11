@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T11:26:05+00:00",
+  "updated": "2026-11-11T11:31:39+00:00",
   "posts": [
+    {
+      "id": "0768a677",
+      "image": "img/0768a677.png",
+      "image_sha": "dab1c04753280a047b9ea444c61f044c8d2a1306",
+      "url": "https://www.radiodos.com.ar/216909-leon-xiv-visita-a-un-grupo-de-presos-en-la-carcel-de-devoto",
+      "title": "León XIV visita a un grupo de presos en la cárcel de Devoto",
+      "volanta": "VISITA HISTORICA",
+      "date": "2026-11-11T11:31:39+00:00"
+    },
     {
       "id": "7859fedb",
       "image": "img/7859fedb.png",
@@ -531,15 +540,6 @@
       "title": "Parricidio en Corrientes: un joven mató a su papá tras una discusión",
       "volanta": "Estación Torrent",
       "date": "2026-11-08T17:00:18+00:00"
-    },
-    {
-      "id": "1ec126f7",
-      "image": "img/1ec126f7.png",
-      "image_sha": "ca72c6a258fea2ed92c5d470e722e71ebf2fb15e",
-      "url": "https://www.radiodos.com.ar/216757-el-papa-leon-xiv-celebro-su-ultima-misa-en-uruguay-hay-que-ponerse-en-camino",
-      "title": "El papa León XIV celebró su última misa en Uruguay: \"Hay que ponerse en camino\"",
-      "volanta": "Antes de viajar a la Argentina",
-      "date": "2026-11-08T15:23:35+00:00"
     }
   ]
 }
