@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T22:21:20+00:00",
+  "updated": "2026-11-11T22:21:57+00:00",
   "posts": [
+    {
+      "id": "e71898b2",
+      "image": "img/e71898b2.png",
+      "image_sha": "8604ff284c015d911c98591d11b1d2a9424d5b81",
+      "url": "https://www.radiodos.com.ar/216953-un-obrero-cayo-de-10-metros-de-altura-y-pelea-por-su-vida-en-terapia-intensiva",
+      "title": "Un obrero cayó de 10 metros de altura y pelea por su vida en terapia intensiva",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-11T22:21:57+00:00"
+    },
     {
       "id": "899e1305",
       "image": "img/899e1305.png",
@@ -531,15 +540,6 @@
       "title": "La historia de Norma, la mujer que le contó su dura infancia al papa León XIV en el Cottolengo Don Orione",
       "volanta": "VISITA HISTÓRICA",
       "date": "2026-11-09T14:47:17+00:00"
-    },
-    {
-      "id": "8fdadca8",
-      "image": "img/8fdadca8.png",
-      "image_sha": "38fb88ab4ddae1be94ca9e66c75481cd3fe5f3d3",
-      "url": "https://www.radiodos.com.ar/216796-la-confesion-de-santiago-pena-al-jefe-del-regimiento-en-que-esta-detenido-por-la-crisis-en-paraguay",
-      "title": "La confesión de Santiago Peña al jefe del regimiento en que está detenido por la crisis en Paraguay",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-11-09T14:19:32+00:00"
     }
   ]
 }
