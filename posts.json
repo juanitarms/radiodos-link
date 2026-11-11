@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T23:37:37+00:00",
+  "updated": "2026-11-11T23:38:20+00:00",
   "posts": [
+    {
+      "id": "af63af63",
+      "image": "img/af63af63.png",
+      "image_sha": "f9a04ebabb753d4c26e6957f8307b223a36a1902",
+      "url": "https://www.radiodos.com.ar/216956-el-tribunal-del-mar-fijo-para-el-28-de-noviembre-la-fecha-del-fallo-sobre-la-explotacion-petrolera-en-malvinas",
+      "title": "El Tribunal del Mar fijó para el 28 de noviembre la fecha del fallo sobre la explotación petrolera en Malvinas",
+      "volanta": "expectativa",
+      "date": "2026-11-11T23:38:20+00:00"
+    },
     {
       "id": "7f831162",
       "image": "img/7f831162.png",
@@ -531,15 +540,6 @@
       "title": "El programa Ferias de la Ciudad renueva su propuesta en plazas y paseos capitalinos",
       "volanta": "NUEVO RECORRIDO SEMANAL",
       "date": "2026-11-09T16:36:59+00:00"
-    },
-    {
-      "id": "8493e368",
-      "image": "img/8493e368.png",
-      "image_sha": "8871110fcc8e4b8eb6050b839602bcd63f8fcde4",
-      "url": "https://www.radiodos.com.ar/216815-la-policia-rural-intensifico-controles-preventivos-por-agua-y-tierra-en-zonas-rurales-e-islas",
-      "title": "La Policía Rural intensificó controles preventivos por agua y tierra en zonas rurales e islas",
-      "volanta": "LA CRUZ",
-      "date": "2026-11-09T16:36:19+00:00"
     }
   ]
 }
