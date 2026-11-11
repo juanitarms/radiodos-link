@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T14:42:47+00:00",
+  "updated": "2026-11-11T15:01:06+00:00",
   "posts": [
+    {
+      "id": "107fb690",
+      "image": "img/107fb690.png",
+      "image_sha": "c264386121714c23424e8e5dc6e50034a2a79b03",
+      "url": "https://www.radiodos.com.ar/216932-la-municipalidad-de-corrientes-instala-camaras-en-semaforos-para-reforzar-la-seguridad-vial",
+      "title": "La Municipalidad de Corrientes instala cámaras en semáforos para reforzar la seguridad vial",
+      "volanta": "EN VARIOS PUNTOS",
+      "date": "2026-11-11T15:01:06+00:00"
+    },
     {
       "id": "46d92bac",
       "image": "img/46d92bac.png",
@@ -531,15 +540,6 @@
       "title": "En Corrientes proyectarán las misas de León XIV en pantalla gigante",
       "volanta": "VISITA HISTÓRICA",
       "date": "2026-11-09T11:55:26+00:00"
-    },
-    {
-      "id": "6578a735",
-      "image": "img/6578a735.png",
-      "image_sha": "66b0bbc4edfdb3c4d0d5f077ba6d5cef709ca0fa",
-      "url": "https://www.radiodos.com.ar/216776-el-papa-leon-xiv-en-la-argentina-visita-el-cottolengo-don-orione-y-da-su-primera-misa-en-palermo",
-      "title": "El papa León XIV en la Argentina:  visita el cottolengo Don Orione y da su primera misa en Palermo",
-      "volanta": "VISITA HISTORICA",
-      "date": "2026-11-09T11:31:20+00:00"
     }
   ]
 }
