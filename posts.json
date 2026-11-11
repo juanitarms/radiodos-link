@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T20:41:58+00:00",
+  "updated": "2026-11-11T20:48:19+00:00",
   "posts": [
+    {
+      "id": "a39ded6a",
+      "image": "img/a39ded6a.png",
+      "image_sha": "1b1ecf9f68c58ab5ab7cc9694f3474af98ef29b0",
+      "url": "https://www.radiodos.com.ar/216949-asi-fue-el-millonario-robo-a-un-empresario-en-el-interior-de-corrientes",
+      "title": "Así fue el millonario robo a un empresario en el interior de Corrientes",
+      "volanta": "BELLA VISTA",
+      "date": "2026-11-11T20:48:19+00:00"
+    },
     {
       "id": "2569b093",
       "image": "img/2569b093.png",
@@ -531,15 +540,6 @@
       "title": "LNB: San Martín de Corrientes logró  un amplio triunfo ante San Lorenzo",
       "volanta": "SALIÓ DE PERDEDOR",
       "date": "2026-11-09T12:49:43+00:00"
-    },
-    {
-      "id": "77dc7498",
-      "image": "img/77dc7498.png",
-      "image_sha": "8a1da88c0b7ff5c8ab2d274a89f3eb8085dad16a",
-      "url": "https://www.radiodos.com.ar/216779-corrientes-motociclistas-chocaron-a-policias-luego-de-escapar-de-un-control",
-      "title": "Corrientes: motociclistas chocaron a policías luego de escapar de un control",
-      "volanta": "POR RUTA 5",
-      "date": "2026-11-09T12:16:45+00:00"
     }
   ]
 }
