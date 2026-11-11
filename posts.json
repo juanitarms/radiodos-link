@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T11:31:39+00:00",
+  "updated": "2026-11-11T11:50:48+00:00",
   "posts": [
+    {
+      "id": "449be89b",
+      "image": "img/449be89b.png",
+      "image_sha": "701ec2e8eeffb96df8fa9982040a3734a0b6aa5a",
+      "url": "https://www.radiodos.com.ar/216911-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
+      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
+      "volanta": "ESTE MIÉRCOLES 11",
+      "date": "2026-11-11T11:50:48+00:00"
+    },
     {
       "id": "0768a677",
       "image": "img/0768a677.png",
@@ -531,15 +540,6 @@
       "title": "Karatecas correntinos con destacada participación en un Torneo Nacional",
       "volanta": "EN NEUQUÉN",
       "date": "2026-11-08T17:00:57+00:00"
-    },
-    {
-      "id": "f2311138",
-      "image": "img/f2311138.png",
-      "image_sha": "5b74146f1543ff9a9c099f8c0889b477a0cd8c92",
-      "url": "https://www.radiodos.com.ar/216760-parricidio-en-corrientes-un-joven-mato-a-su-papa-tras-una-discusion",
-      "title": "Parricidio en Corrientes: un joven mató a su papá tras una discusión",
-      "volanta": "Estación Torrent",
-      "date": "2026-11-08T17:00:18+00:00"
     }
   ]
 }
