@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T11:50:48+00:00",
+  "updated": "2026-11-11T12:42:37+00:00",
   "posts": [
+    {
+      "id": "76097cdc",
+      "image": "img/76097cdc.png",
+      "image_sha": "3f66a805616e3385abcd3741c444059b4339f033",
+      "url": "https://www.radiodos.com.ar/216919-un-sacerdote-con-discapacidad-conmovio-al-papa-leon-xiv-elegi-abrirme-y-seguir-amando-la-vida",
+      "title": "Un sacerdote con discapacidad conmovió al papa León XIV: \"Elegí abrirme y seguir amando la vida\"",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-11T12:42:37+00:00"
+    },
     {
       "id": "449be89b",
       "image": "img/449be89b.png",
@@ -531,15 +540,6 @@
       "title": "Las ventas minoristas cayeron 1,6% interanual en octubre, pero tuvieron una leve suba mensual",
       "volanta": "economía",
       "date": "2026-11-08T17:01:33+00:00"
-    },
-    {
-      "id": "05390b55",
-      "image": "img/05390b55.png",
-      "image_sha": "380187805480320cc3c434b780a0856c4b876026",
-      "url": "https://www.radiodos.com.ar/216759-karatecas-correntinos-con-destacada-participacion-en-un-torneo-nacional",
-      "title": "Karatecas correntinos con destacada participación en un Torneo Nacional",
-      "volanta": "EN NEUQUÉN",
-      "date": "2026-11-08T17:00:57+00:00"
     }
   ]
 }
