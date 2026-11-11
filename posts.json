@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T10:48:29+00:00",
+  "updated": "2026-11-11T11:26:05+00:00",
   "posts": [
+    {
+      "id": "7859fedb",
+      "image": "img/7859fedb.png",
+      "image_sha": "5c131ade3ab648f91eaaf2cbc1bc9f077f88f67e",
+      "url": "https://www.radiodos.com.ar/216906-lnb-regatas-corrientes-tuvo-un-mal-cierre-y-perdio-con-argentino-en-junin",
+      "title": "LNB: Regatas Corrientes tuvo un mal cierre y perdió con Argentino en Junín",
+      "volanta": "OTRA DERROTA EN RUTA",
+      "date": "2026-11-11T11:26:05+00:00"
+    },
     {
       "id": "04db29b2",
       "image": "img/04db29b2.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV celebró su última misa en Uruguay: \"Hay que ponerse en camino\"",
       "volanta": "Antes de viajar a la Argentina",
       "date": "2026-11-08T15:23:35+00:00"
-    },
-    {
-      "id": "e082c6bc",
-      "image": "img/e082c6bc.png",
-      "image_sha": "a0099658c0e24c337f20aa0141f4148af3a6e211",
-      "url": "https://www.radiodos.com.ar/216756-vecinos-y-turistas-recorrieron-los-espacios-culturales-en-la-noche-de-los-museos",
-      "title": "Vecinos y turistas recorrieron los espacios culturales en La Noche de los Museos",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-08T15:00:13+00:00"
     }
   ]
 }
