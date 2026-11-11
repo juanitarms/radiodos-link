@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T13:31:25+00:00",
+  "updated": "2026-11-11T14:05:39+00:00",
   "posts": [
+    {
+      "id": "4c38e1e8",
+      "image": "img/4c38e1e8.png",
+      "image_sha": "61fc564b6c70791413775c6691705ba693693147",
+      "url": "https://www.radiodos.com.ar/216928-la-imagen-de-la-virgen-de-lujan-fue-trasladada-para-acompanar-al-papa-leon-xiv-en-su-multitudinaria-misa",
+      "title": "La imagen de la Virgen de Luján fue trasladada para acompañar al papa León XIV en su multitudinaria misa",
+      "volanta": "DÍA HISTÓRICO",
+      "date": "2026-11-11T14:05:39+00:00"
+    },
     {
       "id": "3fe404e0",
       "image": "img/3fe404e0.png",
@@ -531,15 +540,6 @@
       "title": "León XIV en Argentina: miles de personas esperan por  la misa en Palermo",
       "volanta": "VISITA HISTÓRICA",
       "date": "2026-11-09T11:23:36+00:00"
-    },
-    {
-      "id": "3b0f9e84",
-      "image": "img/3b0f9e84.png",
-      "image_sha": "1ef0484c65d1f933686b080b880e8b6962eadad0",
-      "url": "https://www.radiodos.com.ar/216755-un-muerto-tras-choque-frontal-entre-dos-vehiculos-en-ruta-14",
-      "title": "Un muerto tras choque frontal entre dos vehículos en ruta 14",
-      "volanta": "TRAGEDIA EN CORRIENTES",
-      "date": "2026-11-08T19:17:25+00:00"
     }
   ]
 }
