@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T20:48:19+00:00",
+  "updated": "2026-11-11T20:50:08+00:00",
   "posts": [
+    {
+      "id": "9f5e6683",
+      "image": "img/9f5e6683.png",
+      "image_sha": "3b14fcbbda55eebdf6595f92a70c3c8d0cd41e0b",
+      "url": "https://www.radiodos.com.ar/216948-declaro-el-bombero-que-intento-llegar-al-escenario-del-papa-con-credenciales-falsas",
+      "title": "Declaró el bombero que intentó llegar al escenario del Papa con credenciales falsas",
+      "volanta": "seguirá detenido",
+      "date": "2026-11-11T20:50:08+00:00"
+    },
     {
       "id": "a39ded6a",
       "image": "img/a39ded6a.png",
@@ -531,15 +540,6 @@
       "title": "La emotiva historia de los seis hermanitos de Corrientes que encontraron una familia",
       "volanta": "DÍA MUNDIAL DE LA ADOPCIÓN",
       "date": "2026-11-09T13:20:35+00:00"
-    },
-    {
-      "id": "954695d0",
-      "image": "img/954695d0.png",
-      "image_sha": "a29dda206b6fa780b892e6fb96bcbb920ae2996c",
-      "url": "https://www.radiodos.com.ar/216782-lnb-san-martin-de-corrientes-logro-un-amplio-triunfo-ante-san-lorenzo",
-      "title": "LNB: San Martín de Corrientes logró  un amplio triunfo ante San Lorenzo",
-      "volanta": "SALIÓ DE PERDEDOR",
-      "date": "2026-11-09T12:49:43+00:00"
     }
   ]
 }
