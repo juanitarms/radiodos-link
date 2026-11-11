@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T14:05:39+00:00",
+  "updated": "2026-11-11T14:42:47+00:00",
   "posts": [
+    {
+      "id": "46d92bac",
+      "image": "img/46d92bac.png",
+      "image_sha": "260de3b1d85bc3d74a49ed327c5252d08c98cfa2",
+      "url": "https://www.radiodos.com.ar/216931-en-lujan-leon-xiv-advirtio-que-la-falta-de-trabajo-y-la-pobreza-llevan-a-muchos-argentinos-a-momentos-de-calvario",
+      "title": "En Luján, León XIV advirtió que la falta de trabajo y la pobreza llevan a muchos argentinos a \"momentos de calvario\"",
+      "volanta": "DESPEDIDA DE ARGENTINA",
+      "date": "2026-11-11T14:42:47+00:00"
+    },
     {
       "id": "4c38e1e8",
       "image": "img/4c38e1e8.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV en la Argentina:  visita el cottolengo Don Orione y da su primera misa en Palermo",
       "volanta": "VISITA HISTORICA",
       "date": "2026-11-09T11:31:20+00:00"
-    },
-    {
-      "id": "121b79d0",
-      "image": "img/121b79d0.png",
-      "image_sha": "6c3af9ff601ea7ffc27b10eee63e2fa9cf7dca4e",
-      "url": "https://www.radiodos.com.ar/216777-leon-xiv-en-argentina-miles-de-personas-esperan-por-la-misa-en-palermo",
-      "title": "León XIV en Argentina: miles de personas esperan por  la misa en Palermo",
-      "volanta": "VISITA HISTÓRICA",
-      "date": "2026-11-09T11:23:36+00:00"
     }
   ]
 }
