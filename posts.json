@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-10T23:50:49+00:00",
+  "updated": "2026-11-11T10:29:15+00:00",
   "posts": [
+    {
+      "id": "8cdb5cf7",
+      "image": "img/8cdb5cf7.png",
+      "image_sha": "610ad8673e1547d8a4eb9d756c61b21098f4df29",
+      "url": "https://www.radiodos.com.ar/216903-hay-tres-demorados-por-el-asesinato-de-un-pescador-en-localidad-de-corrientes",
+      "title": "Hay tres demorados por el asesinato de un pescador en localidad de Corrientes",
+      "volanta": "EN PLENA CALLE",
+      "date": "2026-11-11T10:29:15+00:00"
+    },
     {
       "id": "216b070d",
       "image": "img/216b070d.png",
@@ -531,15 +540,6 @@
       "title": "Juegos Olímpicos de la Juventud: Argentina goleó y jugará el lunes en semis ante Marruecos",
       "volanta": "Derrotó a Panamá",
       "date": "2026-11-08T14:01:05+00:00"
-    },
-    {
-      "id": "4ae601bd",
-      "image": "img/4ae601bd.png",
-      "image_sha": "4ce5d9fedc1770a9b753dad720eb0f61fcde5693",
-      "url": "https://www.radiodos.com.ar/216750-emanuel-noir-protagonizo-un-incidente-en-concepcion-del-uruguay-y-fue-detenido",
-      "title": "Emanuel Noir protagonizó un incidente en Concepción del Uruguay y fue detenido",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-11-08T13:29:58+00:00"
     }
   ]
 }
