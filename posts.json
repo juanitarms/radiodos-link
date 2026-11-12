@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:46:06+00:00",
+  "updated": "2026-11-12T23:22:11+00:00",
   "posts": [
+    {
+      "id": "31776615",
+      "image": "img/31776615.png",
+      "image_sha": "ba2f9e83dab24c8064e5886b1e5fa3ca63db3332",
+      "url": "https://www.radiodos.com.ar/217024-renovacion-historica-habra-scaloneta-hasta-el-mundial-2030",
+      "title": "Renovación histórica: Habrá Scaloneta hasta el Mundial 2030",
+      "volanta": "Lo confirmó juanto a Chiqui Tapia",
+      "date": "2026-11-12T23:22:11+00:00"
+    },
     {
       "id": "40954935",
       "image": "img/40954935.png",
@@ -531,15 +540,6 @@
       "title": "La misa del papa León XIV en Palermo, entre las más multitudinarias de la historia",
       "volanta": "HISTÓRICO",
       "date": "2026-11-10T22:08:24+00:00"
-    },
-    {
-      "id": "d20d96f5",
-      "image": "img/d20d96f5.png",
-      "image_sha": "3e96dcf18dbda3590276bc97e43300bc939c40f1",
-      "url": "https://www.radiodos.com.ar/216883-expo-interactiva-estudiantes-de-cruz-roja-llevaran-la-salud-a-la-peatonal-junin",
-      "title": "Expo interactiva: estudiantes de Cruz Roja llevarán la salud a la peatonal Junín",
-      "volanta": "ESTE MIÉRCOLES",
-      "date": "2026-11-10T22:04:49+00:00"
     }
   ]
 }
