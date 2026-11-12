@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T23:22:11+00:00",
+  "updated": "2026-11-12T23:23:10+00:00",
   "posts": [
+    {
+      "id": "b2cdb672",
+      "image": "img/b2cdb672.png",
+      "image_sha": "3074c2d3ab9537903ea98aacb972fb2c87400921",
+      "url": "https://www.radiodos.com.ar/217031-bullrich-pondero-a-la-ley-de-discapacidad-y-volvio-a-mandar-un-mensaje-interno",
+      "title": "Bullrich ponderó a la Ley de Discapacidad y volvió a mandar un mensaje interno",
+      "volanta": "CRISIS EN EL OFICIALISMO",
+      "date": "2026-11-12T23:23:10+00:00"
+    },
     {
       "id": "31776615",
       "image": "img/31776615.png",
@@ -531,15 +540,6 @@
       "title": "Un hombre de 53 años fue encontrado sin vida en la vereda",
       "volanta": "CORRIENTES",
       "date": "2026-11-10T22:10:19+00:00"
-    },
-    {
-      "id": "1648bb3a",
-      "image": "img/1648bb3a.png",
-      "image_sha": "4f27b0065fdb35d44821137958f0343af84e5747",
-      "url": "https://www.radiodos.com.ar/216882-la-misa-del-papa-leon-xiv-en-palermo-entre-las-mas-multitudinarias-de-la-historia",
-      "title": "La misa del papa León XIV en Palermo, entre las más multitudinarias de la historia",
-      "volanta": "HISTÓRICO",
-      "date": "2026-11-10T22:08:24+00:00"
     }
   ]
 }
