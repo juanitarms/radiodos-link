@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:03:52+00:00",
+  "updated": "2026-11-12T22:04:29+00:00",
   "posts": [
+    {
+      "id": "c9933f1d",
+      "image": "img/c9933f1d.png",
+      "image_sha": "3b5a6aee3c390ced8e500e1de656759f2142b465",
+      "url": "https://www.radiodos.com.ar/217022-claudio-chiqui-tapia-confirmo-la-renovacion-de-lionel-scaloni-al-frente-de-la-seleccion-argentina-hasta-el-mundial-2030",
+      "title": "Claudio \"Chiqui\" Tapia confirmó la renovación de Lionel Scaloni al frente de la Selección Argentina hasta el Mundial 2030",
+      "volanta": "Oficial",
+      "date": "2026-11-12T22:04:29+00:00"
+    },
     {
       "id": "a0338378",
       "image": "img/a0338378.png",
@@ -531,15 +540,6 @@
       "title": "Tras su actividad en Córdoba, León XIV regresa a Buenos Aires para la vigilia con los jóvenes",
       "volanta": "VISITA HISTORICA",
       "date": "2026-11-10T20:32:58+00:00"
-    },
-    {
-      "id": "a69c93a8",
-      "image": "img/a69c93a8.png",
-      "image_sha": "96a1a82b2b8b9df26a39d1c0cea10e02c561d60f",
-      "url": "https://www.radiodos.com.ar/216865-con-el-rio-uruguay-creciendo-el-municipio-de-libres-cerro-el-acceso-a-la-costanera",
-      "title": "Con el río Uruguay creciendo, el Municipio de Libres cerró el acceso a la Costanera",
-      "volanta": "MEDIDA",
-      "date": "2026-11-10T16:30:00+00:00"
     }
   ]
 }
