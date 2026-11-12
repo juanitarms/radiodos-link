@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T14:25:57+00:00",
+  "updated": "2026-11-12T14:40:15+00:00",
   "posts": [
+    {
+      "id": "c44ae8a9",
+      "image": "img/c44ae8a9.png",
+      "image_sha": "fa2af29524a070b2b92fc067071885fb1a94d3c5",
+      "url": "https://www.radiodos.com.ar/217001-el-indec-da-a-conocer-la-inflacion-de-octubre",
+      "title": "El Indec da a conocer la inflación de octubre",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-12T14:40:15+00:00"
+    },
     {
       "id": "52961133",
       "image": "img/52961133.png",
@@ -531,15 +540,6 @@
       "title": "J P Valdés anunció inversiones para potenciar el desarrollo de Goya",
       "volanta": "235° ANIVERSARIO DE LA PRIMERA RADICACIÓN HISTÓRICA",
       "date": "2026-11-10T12:19:30+00:00"
-    },
-    {
-      "id": "6bd73ad7",
-      "image": "img/6bd73ad7.png",
-      "image_sha": "046050a1aa24146d751067ba2eb03cc37a5e8650",
-      "url": "https://www.radiodos.com.ar/216833-rescataron-una-enorme-yarara-en-el-patio-de-una-casa-en-el-interior-de-corrientes",
-      "title": "Rescataron una enorme yarará en el patio de una casa en el interior de Corrientes",
-      "volanta": "SAN COSME",
-      "date": "2026-11-10T11:48:45+00:00"
     }
   ]
 }
