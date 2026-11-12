@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T20:55:00+00:00",
+  "updated": "2026-11-12T20:57:24+00:00",
   "posts": [
+    {
+      "id": "420946ca",
+      "image": "img/420946ca.png",
+      "image_sha": "e4d482a6340644edf81c6add9fc5f1ce1c6b5f4c",
+      "url": "https://www.radiodos.com.ar/217017-scaloni-renovo-con-la-seleccion-argentina-y-apunta-al-mundial-2030",
+      "title": "Scaloni renovó con la Selección Argentina y apunta al Mundial 2030",
+      "volanta": "FÚTBOL",
+      "date": "2026-11-12T20:57:24+00:00"
+    },
     {
       "id": "f9531bd6",
       "image": "img/f9531bd6.png",
@@ -531,15 +540,6 @@
       "title": "La diputada Ana Améndola participó de la radicación histórica de Goya",
       "volanta": "CELEBRACIÓN",
       "date": "2026-11-10T16:28:12+00:00"
-    },
-    {
-      "id": "ac41dc52",
-      "image": "img/ac41dc52.png",
-      "image_sha": "ef7ee55e1d44515c09702cffceaa84475e0e37e8",
-      "url": "https://www.radiodos.com.ar/216860-cuanta-gente-fue-a-ver-al-papa-leon-xiv-al-predio-de-fadea-en-cordoba",
-      "title": "Cuánta gente fue a ver al papa León XIV al predio de FAdeA en Córdoba",
-      "volanta": "DÍA HISTÓRICO",
-      "date": "2026-11-10T15:09:48+00:00"
     }
   ]
 }
