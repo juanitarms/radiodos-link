@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T20:57:24+00:00",
+  "updated": "2026-11-12T20:58:41+00:00",
   "posts": [
+    {
+      "id": "ec70a3e9",
+      "image": "img/ec70a3e9.png",
+      "image_sha": "9eaffe5318386a6f3611bf416c1cdd014e3c5e9a",
+      "url": "https://www.radiodos.com.ar/217016-la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses",
+      "title": "La inflación en octubre fue de 2,2% y acumuló 33,1% en los últimos doce meses",
+      "volanta": "INDEC",
+      "date": "2026-11-12T20:58:41+00:00"
+    },
     {
       "id": "420946ca",
       "image": "img/420946ca.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV evocó el legado de Mama Antula y el Cura Brochero durante su multitudinaria misa en Córdoba",
       "volanta": "DÍA HISTÓRICO",
       "date": "2026-11-10T16:28:50+00:00"
-    },
-    {
-      "id": "b257b15e",
-      "image": "img/b257b15e.png",
-      "image_sha": "7313f5f194aca77e79796ff5995fbee4cb6376e1",
-      "url": "https://www.radiodos.com.ar/216867-la-diputada-ana-amendola-participo-de-la-radicacion-historica-de-goya",
-      "title": "La diputada Ana Améndola participó de la radicación histórica de Goya",
-      "volanta": "CELEBRACIÓN",
-      "date": "2026-11-10T16:28:12+00:00"
     }
   ]
 }
