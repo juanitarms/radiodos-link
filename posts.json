@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T13:16:45+00:00",
+  "updated": "2026-11-12T13:37:14+00:00",
   "posts": [
+    {
+      "id": "be03a22b",
+      "image": "img/be03a22b.png",
+      "image_sha": "06a23fe64605b62a50b8ed80be212158d0dac8eb",
+      "url": "https://www.radiodos.com.ar/216996-sofi-martinez-se-emociono-al-recordar-la-multitudinaria-vigilia-que-condujo-antes-de-la-misa-del-papa-leon-xiv",
+      "title": "Sofi Martínez se emocionó al recordar la multitudinaria vigilia que condujo antes de la misa del papa León XIV",
+      "volanta": "INOLVIDABLE",
+      "date": "2026-11-12T13:37:14+00:00"
+    },
     {
       "id": "6aba1612",
       "image": "img/6aba1612.png",
@@ -531,15 +540,6 @@
       "title": "Un chaqueño murió en Córdoba durante la vigilia por la llegada del Papa León XIV",
       "volanta": "TENÍA 73 AÑOS",
       "date": "2026-11-10T10:48:38+00:00"
-    },
-    {
-      "id": "470fdd6d",
-      "image": "img/470fdd6d.png",
-      "image_sha": "666f9f9f1f36f144dc51c6c621768f2e1aae3075",
-      "url": "https://www.radiodos.com.ar/216825-alliana-le-pidio-la-renuncia-a-todos-los-ministros-en-paraguay",
-      "title": "Alliana le pidió la renuncia a todos los ministros en Paraguay",
-      "volanta": "nuevo presidente",
-      "date": "2026-11-09T21:29:36+00:00"
     }
   ]
 }
