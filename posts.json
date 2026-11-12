@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T23:24:49+00:00",
+  "updated": "2026-11-12T23:53:18+00:00",
   "posts": [
+    {
+      "id": "df02d31d",
+      "image": "img/df02d31d.png",
+      "image_sha": "e65e8b61ca4af21877ee4d5853d26c44b4b10cb0",
+      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
+      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-12T23:53:18+00:00"
+    },
     {
       "id": "4d3a4b0b",
       "image": "img/4d3a4b0b.png",
@@ -531,15 +540,6 @@
       "title": "Histórico: Lionel Scaloni confirmará su continuidad y batirá un récord en la Selección Argentina",
       "volanta": "Superará a Menotti y a Bilardo",
       "date": "2026-11-10T22:13:53+00:00"
-    },
-    {
-      "id": "99f6ac0b",
-      "image": "img/99f6ac0b.png",
-      "image_sha": "0af7957b5ce30f042d495a17aa4d670e30211111",
-      "url": "https://www.radiodos.com.ar/216885-queremos-recuperar-los-huesos-de-la-oscuridad-de-los-secuestros-para-darles-una-sepultura-humana",
-      "title": "\"Queremos recuperar los huesos de la oscuridad de los secuestros para darles una sepultura humana\"",
-      "volanta": "Fue recibida por Su Santidad",
-      "date": "2026-11-10T22:13:11+00:00"
     }
   ]
 }
