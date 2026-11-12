@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T18:08:37+00:00",
+  "updated": "2026-11-12T20:55:00+00:00",
   "posts": [
+    {
+      "id": "f9531bd6",
+      "image": "img/f9531bd6.png",
+      "image_sha": "efb564f37cfef2015dffb842219f4aa498c5caaf",
+      "url": "https://www.radiodos.com.ar/217018-karina-milei-visito-el-comando-operativo-de-emergencias-de-corrientes-junto-a-valdes",
+      "title": "Karina Milei visitó el Comando Operativo de Emergencias de Corrientes junto a Valdés",
+      "volanta": "FENOMENO DE EL NIÑO",
+      "date": "2026-11-12T20:55:00+00:00"
+    },
     {
       "id": "077e1cfc",
       "image": "img/077e1cfc.png",
@@ -531,15 +540,6 @@
       "title": "Cuánta gente fue a ver al papa León XIV al predio de FAdeA en Córdoba",
       "volanta": "DÍA HISTÓRICO",
       "date": "2026-11-10T15:09:48+00:00"
-    },
-    {
-      "id": "d6a2ef27",
-      "image": "img/d6a2ef27.png",
-      "image_sha": "1917355f97c457406c7b26b67659b0771158cc1a",
-      "url": "https://www.radiodos.com.ar/216864-ante-una-multitud-en-cordoba-el-papa-leon-xiv-pidio-la-santificacion-del-pueblo-argentino",
-      "title": "Ante una multitud en Córdoba, el papa León XIV pidió \"la santificación del pueblo argentino\"",
-      "volanta": "JORNADA HISTÓRICA",
-      "date": "2026-11-10T14:36:09+00:00"
     }
   ]
 }
