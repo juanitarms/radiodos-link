@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T18:08:01+00:00",
+  "updated": "2026-11-12T18:08:37+00:00",
   "posts": [
+    {
+      "id": "077e1cfc",
+      "image": "img/077e1cfc.png",
+      "image_sha": "1c070c2dac9a7e9b1e15585d2bdf3d00c5313b55",
+      "url": "https://www.radiodos.com.ar/217009-de-que-murio-ian-el-sobrino-de-gladys-la-bomba-tucumana",
+      "title": "De qué murió Ian, el sobrino de Gladys \"La Bomba Tucumana\"",
+      "volanta": "TRISTEZA",
+      "date": "2026-11-12T18:08:37+00:00"
+    },
     {
       "id": "8c9b5f03",
       "image": "img/8c9b5f03.png",
@@ -531,15 +540,6 @@
       "title": "Ante una multitud en Córdoba, el papa León XIV pidió \"la santificación del pueblo argentino\"",
       "volanta": "JORNADA HISTÓRICA",
       "date": "2026-11-10T14:36:09+00:00"
-    },
-    {
-      "id": "bcf47f09",
-      "image": "img/bcf47f09.png",
-      "image_sha": "ce03ac5d7e4d21ca897fa3874c1032a38c992350",
-      "url": "https://www.radiodos.com.ar/216857-arturo-puig-recibio-un-inesperado-guino-de-selva-aleman-durante-el-paso-del-papa-leon-xiv",
-      "title": "Arturo Puig recibió un inesperado guiño de Selva Alemán durante el paso del papa León XIV",
-      "volanta": "SORPRESA",
-      "date": "2026-11-10T14:16:48+00:00"
     }
   ]
 }
