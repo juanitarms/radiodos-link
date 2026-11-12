@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T14:40:15+00:00",
+  "updated": "2026-11-12T14:54:02+00:00",
   "posts": [
+    {
+      "id": "8d16874d",
+      "image": "img/8d16874d.png",
+      "image_sha": "d6e2c8c2f6af110f14df3f6d3f895f697e30ad17",
+      "url": "https://www.radiodos.com.ar/217005-renuncio-el-ceo-de-nvidia-tras-el-escandalo-por-una-relacion-extramatrimonial-con-una-presunta-espia-china",
+      "title": "Renunció el CEO de Nvidia tras el escándalo por una relación extramatrimonial con una presunta espía china",
+      "volanta": "CRISIS",
+      "date": "2026-11-12T14:54:02+00:00"
+    },
     {
       "id": "c44ae8a9",
       "image": "img/c44ae8a9.png",
@@ -531,15 +540,6 @@
       "title": "Infinitos testimonios de correntinos que cuentan sus experiencias en la visita del Papa León XIV",
       "volanta": "Bravo por Corrientes",
       "date": "2026-11-10T13:00:26+00:00"
-    },
-    {
-      "id": "9b8e3740",
-      "image": "img/9b8e3740.png",
-      "image_sha": "5ba88aa767b3ae6857b838b6619f887ef8886532",
-      "url": "https://www.radiodos.com.ar/216832-j-p-valdes-anuncio-inversiones-para-potenciar-el-desarrollo-de-goya",
-      "title": "J P Valdés anunció inversiones para potenciar el desarrollo de Goya",
-      "volanta": "235° ANIVERSARIO DE LA PRIMERA RADICACIÓN HISTÓRICA",
-      "date": "2026-11-10T12:19:30+00:00"
     }
   ]
 }
