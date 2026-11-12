@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:04:29+00:00",
+  "updated": "2026-11-12T22:06:13+00:00",
   "posts": [
+    {
+      "id": "60456790",
+      "image": "img/60456790.png",
+      "image_sha": "e905fccc82782b23d953a0d09311d5925205e61d",
+      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
+      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
+      "volanta": "CONFIRMADO",
+      "date": "2026-11-12T22:06:13+00:00"
+    },
     {
       "id": "c9933f1d",
       "image": "img/c9933f1d.png",
@@ -531,15 +540,6 @@
       "title": "Salud Pública de Corrientes insta a completar esquemas de vacunas del calendario y la antigripal para grupos de riesgo",
       "volanta": "INMUNIZACIÓN",
       "date": "2026-11-10T22:04:15+00:00"
-    },
-    {
-      "id": "22330b03",
-      "image": "img/22330b03.png",
-      "image_sha": "c77b5df886866b1763309d000895e00a1be80fc6",
-      "url": "https://www.radiodos.com.ar/216880-tras-su-actividad-en-cordoba-leon-xiv-regresa-a-buenos-aires-para-la-vigilia-con-los-jovenes",
-      "title": "Tras su actividad en Córdoba, León XIV regresa a Buenos Aires para la vigilia con los jóvenes",
-      "volanta": "VISITA HISTORICA",
-      "date": "2026-11-10T20:32:58+00:00"
     }
   ]
 }
