@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T12:23:51+00:00",
+  "updated": "2026-11-12T12:54:27+00:00",
   "posts": [
+    {
+      "id": "2c2d6481",
+      "image": "img/2c2d6481.png",
+      "image_sha": "a46f6604f32f2b50a6c37ff96eec5814f24f3dbf",
+      "url": "https://www.radiodos.com.ar/216974-murio-paolo-el-rockero-iconico-personaje-del-cine-y-tv-de-los-80",
+      "title": "Murió Paolo el Rockero, icónico personaje del cine y TV de los '80",
+      "volanta": "MUY RECORDADO",
+      "date": "2026-11-12T12:54:27+00:00"
+    },
     {
       "id": "f72be712",
       "image": "img/f72be712.png",
@@ -531,15 +540,6 @@
       "title": "León XIV defendió las '3T' de Francisco: \"Tierra, techo y trabajo son exigencias de la justicia social\"",
       "volanta": "Visita a Argentina",
       "date": "2026-11-09T21:28:53+00:00"
-    },
-    {
-      "id": "400ccbe6",
-      "image": "img/400ccbe6.png",
-      "image_sha": "ef192468d92d54bf8deb16bb90559f47db7ad7d0",
-      "url": "https://www.radiodos.com.ar/216823-nuevo-golpe-al-narcomenudeo-deja-un-detenido-armas-y-estupefacientes-secuestrados",
-      "title": "Nuevo golpe al narcomenudeo deja un detenido, armas y estupefacientes secuestrados",
-      "volanta": "Curuzú Cuatiá",
-      "date": "2026-11-09T21:27:49+00:00"
     }
   ]
 }
