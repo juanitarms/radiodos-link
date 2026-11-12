@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T23:38:20+00:00",
+  "updated": "2026-11-12T02:53:13+00:00",
   "posts": [
+    {
+      "id": "b7a84f9b",
+      "image": "img/b7a84f9b.png",
+      "image_sha": "df6d89a249afcc3b0f888ed9a0f0c68f0840a449",
+      "url": "https://www.radiodos.com.ar/216958-las-canciones-y-los-artistas-que-marcaron-el-paso-del-papa-leon-xiv-por-la-argentina",
+      "title": "Las canciones y los artistas que marcaron el paso del papa León XIV por la Argentina",
+      "volanta": "La banda sonora de una visita histórica",
+      "date": "2026-11-12T02:53:13+00:00"
+    },
     {
       "id": "af63af63",
       "image": "img/af63af63.png",
@@ -531,15 +540,6 @@
       "title": "Jorge García Cuerva le agradeció la visita al papa León XIV: \"Su mensaje nos llena de esperanza y nos une\"",
       "volanta": "HISTÓRICO",
       "date": "2026-11-09T19:06:27+00:00"
-    },
-    {
-      "id": "11a3a141",
-      "image": "img/11a3a141.png",
-      "image_sha": "78aece3ea38065888cac7cc1fa0e2918ac988afa",
-      "url": "https://www.radiodos.com.ar/216811-el-programa-ferias-de-la-ciudad-renueva-su-propuesta-en-plazas-y-paseos-capitalinos",
-      "title": "El programa Ferias de la Ciudad renueva su propuesta en plazas y paseos capitalinos",
-      "volanta": "NUEVO RECORRIDO SEMANAL",
-      "date": "2026-11-09T16:36:59+00:00"
     }
   ]
 }
