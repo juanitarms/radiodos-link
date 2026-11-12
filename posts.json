@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T14:54:02+00:00",
+  "updated": "2026-11-12T17:36:23+00:00",
   "posts": [
+    {
+      "id": "8db0623f",
+      "image": "img/8db0623f.png",
+      "image_sha": "808f74b8bea47ba4a38579f3e8ddc9cb082e61ab",
+      "url": "https://www.radiodos.com.ar/217015-atacaron-a-tiros-un-jardin-de-infantes-no-hay-seguridad",
+      "title": "Atacaron a tiros un jardín de infantes: \"No hay seguridad\"",
+      "volanta": "PELIGROSO",
+      "date": "2026-11-12T17:36:23+00:00"
+    },
     {
       "id": "8d16874d",
       "image": "img/8d16874d.png",
@@ -531,15 +540,6 @@
       "title": "El papa León XIV en la Catedral: homenaje a San Martín y reconocimiento a los obispos Angelelli y Pironio",
       "volanta": "DÍA HISTÓRICO",
       "date": "2026-11-10T13:15:05+00:00"
-    },
-    {
-      "id": "fa89564b",
-      "image": "img/fa89564b.png",
-      "image_sha": "5e8ae956fc692cf46868b890e38b6c21d6d9cf12",
-      "url": "https://www.radiodos.com.ar/216831-infinitos-testimonios-de-correntinos-que-cuentan-sus-experiencias-en-la-visita-del-papa-leon-xiv",
-      "title": "Infinitos testimonios de correntinos que cuentan sus experiencias en la visita del Papa León XIV",
-      "volanta": "Bravo por Corrientes",
-      "date": "2026-11-10T13:00:26+00:00"
     }
   ]
 }
