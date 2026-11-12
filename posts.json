@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T20:58:41+00:00",
+  "updated": "2026-11-12T22:03:12+00:00",
   "posts": [
+    {
+      "id": "98e76254",
+      "image": "img/98e76254.png",
+      "image_sha": "e2d20a2131f8a0946fd9468547aaba2dc2fd6d50",
+      "url": "https://www.radiodos.com.ar/217023-corrientes-el-partido-democrata-progresista-refuerza-su-trabajo-territorial-y-apoyo-vecinal",
+      "title": "Corrientes: El Partido Demócrata Progresista refuerza su trabajo territorial y apoyo vecinal",
+      "volanta": "EN BARRIOS CAPITALINOS",
+      "date": "2026-11-12T22:03:12+00:00"
+    },
     {
       "id": "ec70a3e9",
       "image": "img/ec70a3e9.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una adolescente que se ausentó del Hogar María Nazareth",
       "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
       "date": "2026-11-10T16:29:25+00:00"
-    },
-    {
-      "id": "5437d722",
-      "image": "img/5437d722.png",
-      "image_sha": "4c51d9441f61460fc9b9b67793d08b3be3c9ef09",
-      "url": "https://www.radiodos.com.ar/216868-el-papa-leon-xiv-evoco-el-legado-de-mama-antula-y-el-cura-brochero-durante-su-multitudinaria-misa-en-cordoba",
-      "title": "El papa León XIV evocó el legado de Mama Antula y el Cura Brochero durante su multitudinaria misa en Córdoba",
-      "volanta": "DÍA HISTÓRICO",
-      "date": "2026-11-10T16:28:50+00:00"
     }
   ]
 }
