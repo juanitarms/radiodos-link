@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T10:33:37+00:00",
+  "updated": "2026-11-12T11:33:44+00:00",
   "posts": [
+    {
+      "id": "4e22cf3c",
+      "image": "img/4e22cf3c.png",
+      "image_sha": "2a2be550bbfda56aab4920f002ea0ff4c7044ed6",
+      "url": "https://www.radiodos.com.ar/216965-caso-bartlett-el-juicio-a-dos-policias-continua-hoy-con-la-declaracion-de-cinco-testigos",
+      "title": "Caso Bartlett: El juicio a dos policías continúa hoy con la declaración de cinco testigos",
+      "volanta": "GOYA",
+      "date": "2026-11-12T11:33:44+00:00"
+    },
     {
       "id": "2593d61b",
       "image": "img/2593d61b.png",
@@ -531,15 +540,6 @@
       "title": "Lisandro Almirón asistió al encuentro institucional con el papa León XIV",
       "volanta": "Hoy jornada en la UCA",
       "date": "2026-11-09T19:07:43+00:00"
-    },
-    {
-      "id": "e20db399",
-      "image": "img/e20db399.png",
-      "image_sha": "7723b2bde710c68927587af1452cbb80b601a28a",
-      "url": "https://www.radiodos.com.ar/216817-las-familias-viven-situaciones-complejas-el-papa-leon-xiv-brindo-la-masiva-misa-central-con-un-duro-mensaje",
-      "title": "\"Las familias viven situaciones complejas\": el papa León XIV brindó la masiva misa central con un duro mensaje",
-      "volanta": "VISITA AL PAÌS",
-      "date": "2026-11-09T19:07:05+00:00"
     }
   ]
 }
