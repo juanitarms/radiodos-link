@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T18:07:22+00:00",
+  "updated": "2026-11-12T18:08:01+00:00",
   "posts": [
+    {
+      "id": "8c9b5f03",
+      "image": "img/8c9b5f03.png",
+      "image_sha": "66b8ac30a58cddbdf146c7a75af2be649c29a9e8",
+      "url": "https://www.radiodos.com.ar/217011-caso-loan-un-testigo-de-la-policia-federal-indico-que-pudo-ser-un-accidente",
+      "title": "Caso Loan: un testigo de la Policía Federal indicó que pudo ser un accidente",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-11-12T18:08:01+00:00"
+    },
     {
       "id": "b41a99e1",
       "image": "img/b41a99e1.png",
@@ -531,15 +540,6 @@
       "title": "Arturo Puig recibió un inesperado guiño de Selva Alemán durante el paso del papa León XIV",
       "volanta": "SORPRESA",
       "date": "2026-11-10T14:16:48+00:00"
-    },
-    {
-      "id": "001c69a0",
-      "image": "img/001c69a0.png",
-      "image_sha": "f2fe5d0b20207a617b5f987f0fd6b4e2a06c23ac",
-      "url": "https://www.radiodos.com.ar/216853-lujan-peregrinos-voluntariado-y-todos-los-preparativos-para-recibir-al-papa-leon-xiv",
-      "title": "Luján: peregrinos, voluntariado y todos los preparativos para recibir al papa León XIV",
-      "volanta": "MUY ESPERADO",
-      "date": "2026-11-10T13:54:21+00:00"
     }
   ]
 }
