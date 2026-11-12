@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T02:53:13+00:00",
+  "updated": "2026-11-12T10:33:37+00:00",
   "posts": [
+    {
+      "id": "2593d61b",
+      "image": "img/2593d61b.png",
+      "image_sha": "b91739bf0d7ebf4e2f85004c3771faf5db2005ef",
+      "url": "https://www.radiodos.com.ar/216961-efectos-del-fenomeno-de-el-nino-karina-milei-y-diego-santilli-desembarcan-en-corrientes",
+      "title": "Efectos del fenómeno de El Niño:  Karina Milei  y Diego Santilli desembarcan en Corrientes",
+      "volanta": "HOY A PARTIR DE LAS 11",
+      "date": "2026-11-12T10:33:37+00:00"
+    },
     {
       "id": "b7a84f9b",
       "image": "img/b7a84f9b.png",
@@ -531,15 +540,6 @@
       "title": "\"Las familias viven situaciones complejas\": el papa León XIV brindó la masiva misa central con un duro mensaje",
       "volanta": "VISITA AL PAÌS",
       "date": "2026-11-09T19:07:05+00:00"
-    },
-    {
-      "id": "ac869f79",
-      "image": "img/ac869f79.png",
-      "image_sha": "c7aacec14273d52157e957900a32114435f386cc",
-      "url": "https://www.radiodos.com.ar/216818-jorge-garcia-cuerva-le-agradecio-la-visita-al-papa-leon-xiv-su-mensaje-nos-llena-de-esperanza-y-nos-une",
-      "title": "Jorge García Cuerva le agradeció la visita al papa León XIV: \"Su mensaje nos llena de esperanza y nos une\"",
-      "volanta": "HISTÓRICO",
-      "date": "2026-11-09T19:06:27+00:00"
     }
   ]
 }
