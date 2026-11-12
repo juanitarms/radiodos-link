@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T12:04:03+00:00",
+  "updated": "2026-11-12T12:23:51+00:00",
   "posts": [
+    {
+      "id": "f72be712",
+      "image": "img/f72be712.png",
+      "image_sha": "cff8c633c86320195edd31deff93eb37555a2863",
+      "url": "https://www.radiodos.com.ar/216970-atropellaron-tres-vacas-en-la-ruta-14-y-se-salvaron-de-milagro",
+      "title": "Atropellaron tres vacas en la ruta 14 y se salvaron de milagro",
+      "volanta": "CERCA DE LA CRUZ",
+      "date": "2026-11-12T12:23:51+00:00"
+    },
     {
       "id": "9074a036",
       "image": "img/9074a036.png",
@@ -531,15 +540,6 @@
       "title": "Nuevo golpe al narcomenudeo deja un detenido, armas y estupefacientes secuestrados",
       "volanta": "Curuzú Cuatiá",
       "date": "2026-11-09T21:27:49+00:00"
-    },
-    {
-      "id": "40f9c12d",
-      "image": "img/40f9c12d.png",
-      "image_sha": "1d1d9ba0ed076899c10ab8a626cbd7f9c3e72859",
-      "url": "https://www.radiodos.com.ar/216822-papa-leon-xiv-en-la-uca-privar-a-una-persona-del-trabajo-es-sumergirla-en-la-exclusion-social",
-      "title": "Papa León XIV en la UCA: \"Privar a una persona del trabajo es sumergirla en la exclusión social\"",
-      "volanta": "Visita papal",
-      "date": "2026-11-09T21:20:55+00:00"
     }
   ]
 }
