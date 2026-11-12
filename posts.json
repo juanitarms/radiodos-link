@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:03:12+00:00",
+  "updated": "2026-11-12T22:03:52+00:00",
   "posts": [
+    {
+      "id": "a0338378",
+      "image": "img/a0338378.png",
+      "image_sha": "286aef4ccaa8a9f417909ddc04746a533ef68f37",
+      "url": "https://www.radiodos.com.ar/217020-encontraron-muerto-a-un-gendarme-que-prestaba-servicios-en-el-escuadron-48-de-corrientes",
+      "title": "Encontraron muerto a un gendarme que prestaba servicios en el Escuadrón 48 de Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-11-12T22:03:52+00:00"
+    },
     {
       "id": "98e76254",
       "image": "img/98e76254.png",
@@ -531,15 +540,6 @@
       "title": "Con el río Uruguay creciendo, el Municipio de Libres cerró el acceso a la Costanera",
       "volanta": "MEDIDA",
       "date": "2026-11-10T16:30:00+00:00"
-    },
-    {
-      "id": "08106189",
-      "image": "img/08106189.png",
-      "image_sha": "6e308654512d5bfda08d87c24e1c0be357792ab9",
-      "url": "https://www.radiodos.com.ar/216866-buscan-a-una-adolescente-que-se-ausento-del-hogar-maria-nazareth",
-      "title": "Buscan a una adolescente que se ausentó del Hogar María Nazareth",
-      "volanta": "COMISARIA PRIMERA DE LA MUJER Y EL MENOR",
-      "date": "2026-11-10T16:29:25+00:00"
     }
   ]
 }
