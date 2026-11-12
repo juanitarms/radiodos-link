@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T13:37:14+00:00",
+  "updated": "2026-11-12T13:58:09+00:00",
   "posts": [
+    {
+      "id": "dfd44c64",
+      "image": "img/dfd44c64.png",
+      "image_sha": "c38ab589171cc2dc5f12354a10ce7c8264faa0f2",
+      "url": "https://www.radiodos.com.ar/216994-pampita-protagonizo-un-tenso-episodio-en-lujan-durante-la-misa-del-papa-leon-xiv-que-se-vaya",
+      "title": "Pampita protagonizó un tenso episodio en Luján durante la misa del papa León XIV: \"Que se vaya\"",
+      "volanta": "¿QUE PASÓ?",
+      "date": "2026-11-12T13:58:09+00:00"
+    },
     {
       "id": "be03a22b",
       "image": "img/be03a22b.png",
@@ -531,15 +540,6 @@
       "title": "Muestras multitudinarias de fe: Córdoba recibe al Papa León XIV y se esperan casi un millón de personas",
       "volanta": "VISITA A LA ARGENTINA",
       "date": "2026-11-10T11:03:50+00:00"
-    },
-    {
-      "id": "0a5b5f7c",
-      "image": "img/0a5b5f7c.png",
-      "image_sha": "e5b4f74f08e61ede8eb0a498691ea10d43942142",
-      "url": "https://www.radiodos.com.ar/216826-un-chaqueno-murio-en-cordoba-durante-la-vigilia-por-la-llegada-del-papa-leon-xiv",
-      "title": "Un chaqueño murió en Córdoba durante la vigilia por la llegada del Papa León XIV",
-      "volanta": "TENÍA 73 AÑOS",
-      "date": "2026-11-10T10:48:38+00:00"
     }
   ]
 }
