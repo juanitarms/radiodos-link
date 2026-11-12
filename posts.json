@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T23:23:10+00:00",
+  "updated": "2026-11-12T23:23:50+00:00",
   "posts": [
+    {
+      "id": "300f72aa",
+      "image": "img/300f72aa.png",
+      "image_sha": "6ec4c9f9631d17ed8e0d653ab46d2c1d7ba2e018",
+      "url": "https://www.radiodos.com.ar/217030-copa-argentina-leandro-paredes-se-recupero-de-los-calambres-y-sera-titular-ante-banfield",
+      "title": "Copa Argentina: Leandro Paredes se recuperó de los calambres y será titular ante Banfield",
+      "volanta": "También volvió a entrenar Enner Valencia",
+      "date": "2026-11-12T23:23:50+00:00"
+    },
     {
       "id": "b2cdb672",
       "image": "img/b2cdb672.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a un nene de 12 años que escapó del Hogar Domingo Sabio en Corrientes",
       "volanta": "PEDIDO DE COLABORACION",
       "date": "2026-11-10T22:11:47+00:00"
-    },
-    {
-      "id": "9ceb027e",
-      "image": "img/9ceb027e.png",
-      "image_sha": "0c97d3fd2f3830d20138256ea944e63f89cdfaf6",
-      "url": "https://www.radiodos.com.ar/216886-un-hombre-de-53-anos-fue-encontrado-sin-vida-en-la-vereda",
-      "title": "Un hombre de 53 años fue encontrado sin vida en la vereda",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-10T22:10:19+00:00"
     }
   ]
 }
