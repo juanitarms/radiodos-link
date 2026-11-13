@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T16:41:30+00:00",
+  "updated": "2026-11-13T16:42:08+00:00",
   "posts": [
+    {
+      "id": "ae3eb538",
+      "image": "img/ae3eb538.png",
+      "image_sha": "295dd04cabf2e76ff5b19304786f5ffa70b7e0b7",
+      "url": "https://www.radiodos.com.ar/217072-a-partir-del-lunes-16-provincia-paga-el-plus-de-refuerzo-de-noviembre",
+      "title": "A partir del lunes 16, Provincia paga el Plus de Refuerzo de noviembre",
+      "volanta": "CRONOGRAMA",
+      "date": "2026-11-13T16:42:08+00:00"
+    },
     {
       "id": "f1870915",
       "image": "img/f1870915.png",
@@ -531,15 +540,6 @@
       "title": "Un sacerdote con discapacidad conmovió al papa León XIV: \"Elegí abrirme y seguir amando la vida\"",
       "volanta": "DÍA HISTÓRICO",
       "date": "2026-11-11T12:42:37+00:00"
-    },
-    {
-      "id": "449be89b",
-      "image": "img/449be89b.png",
-      "image_sha": "701ec2e8eeffb96df8fa9982040a3734a0b6aa5a",
-      "url": "https://www.radiodos.com.ar/216911-la-dpec-realizara-trabajos-de-mejoras-en-capital-y-el-interior-de-la-provincia",
-      "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
-      "volanta": "ESTE MIÉRCOLES 11",
-      "date": "2026-11-11T11:50:48+00:00"
     }
   ]
 }
