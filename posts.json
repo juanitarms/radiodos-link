@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T14:52:41+00:00",
+  "updated": "2026-11-13T15:09:12+00:00",
   "posts": [
+    {
+      "id": "1df98761",
+      "image": "img/1df98761.png",
+      "image_sha": "889baca392a934061420762386e37b326571f988",
+      "url": "https://www.radiodos.com.ar/217059-hernan-de-mala-fama-protagonizo-un-escandalo-con-su-esposa-en-ph-podemos-hablar-ella-quiso",
+      "title": "Hernán de Mala Fama protagonizó un escándalo con su esposa en PH, Podemos Hablar: \"Ella quiso...\"",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-11-13T15:09:12+00:00"
+    },
     {
       "id": "8677d2e6",
       "image": "img/8677d2e6.png",
@@ -531,15 +540,6 @@
       "title": "León XIV visita a un grupo de presos en la cárcel de Devoto",
       "volanta": "VISITA HISTORICA",
       "date": "2026-11-11T11:31:39+00:00"
-    },
-    {
-      "id": "7859fedb",
-      "image": "img/7859fedb.png",
-      "image_sha": "5c131ade3ab648f91eaaf2cbc1bc9f077f88f67e",
-      "url": "https://www.radiodos.com.ar/216906-lnb-regatas-corrientes-tuvo-un-mal-cierre-y-perdio-con-argentino-en-junin",
-      "title": "LNB: Regatas Corrientes tuvo un mal cierre y perdió con Argentino en Junín",
-      "volanta": "OTRA DERROTA EN RUTA",
-      "date": "2026-11-11T11:26:05+00:00"
     }
   ]
 }
