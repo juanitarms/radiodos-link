@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T12:50:32+00:00",
+  "updated": "2026-11-13T12:59:03+00:00",
   "posts": [
+    {
+      "id": "931c0852",
+      "image": "img/931c0852.png",
+      "image_sha": "7bceac9ee6f37ad7b9874cdcd191b416b0d907d9",
+      "url": "https://www.radiodos.com.ar/217050-lionel-scaloni-hablo-de-la-visita-del-papa-leon-xiv-la-sensacion-de-que-el-pais-es-feliz-por-un-momento",
+      "title": "Lionel Scaloni habló de la visita del papa León XIV: \"La sensación de que el país es feliz por un momento\"",
+      "volanta": "EMOCIONADO",
+      "date": "2026-11-13T12:59:03+00:00"
+    },
     {
       "id": "3e7023ed",
       "image": "img/3e7023ed.png",
@@ -531,15 +540,6 @@
       "title": "La industria textil lleva más de un año en caída: perdió 28.800 empleos y 1.090 empresas",
       "volanta": "en la era milei",
       "date": "2026-11-10T23:19:27+00:00"
-    },
-    {
-      "id": "bf612dbf",
-      "image": "img/bf612dbf.png",
-      "image_sha": "d0b0875451c809fad71c197850490e7e06ff5469",
-      "url": "https://www.radiodos.com.ar/216894-trabajadores-de-exen-exigen-recuperar-las-maquinas-para-volver-a-trabajar",
-      "title": "Trabajadores de Exen exigen recuperar las máquinas para volver a trabajar",
-      "volanta": "CHACO",
-      "date": "2026-11-10T23:16:47+00:00"
     }
   ]
 }
