@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T16:42:39+00:00",
+  "updated": "2026-11-13T17:28:23+00:00",
   "posts": [
+    {
+      "id": "87050238",
+      "image": "img/87050238.png",
+      "image_sha": "3cbb0185d223708f8fb1f3fcead8be295431711a",
+      "url": "https://www.radiodos.com.ar/217076-este-lunes-16-de-noviembre-abren-las-inscripciones-para-el-ciclo-lectivo-2027-en-la-unne",
+      "title": "Este lunes 16 de noviembre abren las inscripciones para el ciclo lectivo 2027 en la UNNE",
+      "volanta": "TRÁMITE 100% VIRTUAL",
+      "date": "2026-11-13T17:28:23+00:00"
+    },
     {
       "id": "dd3d67b6",
       "image": "img/dd3d67b6.png",
@@ -531,15 +540,6 @@
       "title": "León XIV da una misa para más de 2 millones de personas en Luján",
       "volanta": "AHORA",
       "date": "2026-11-11T13:31:25+00:00"
-    },
-    {
-      "id": "d3f4fd9e",
-      "image": "img/d3f4fd9e.png",
-      "image_sha": "53b5ec985636cca079ab2c34dd28a7a99ea96cb4",
-      "url": "https://www.radiodos.com.ar/216920-de-que-murio-marcos-camino-el-historico-miembro-y-fundador-de-los-palmeras",
-      "title": "De qué murió Marcos Camino, el histórico miembro y fundador de Los Palmeras",
-      "volanta": "LUTO EN LA MÚSICA",
-      "date": "2026-11-11T13:07:00+00:00"
     }
   ]
 }
