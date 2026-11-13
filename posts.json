@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T22:59:15+00:00",
+  "updated": "2026-11-13T22:59:45+00:00",
   "posts": [
+    {
+      "id": "93c2628b",
+      "image": "img/93c2628b.png",
+      "image_sha": "0396914a6c05baf965260bde614fc8ede2f3adf1",
+      "url": "https://www.radiodos.com.ar/217087-mauricio-pochettino-deja-la-seleccion-de-estados-unidos-y-es-el-nuevo-entrenador-del-manchester-united",
+      "title": "Mauricio Pochettino deja la Selección de Estados Unidos y es el nuevo entrenador del Manchester United",
+      "volanta": "Conferencia entre lágrimas",
+      "date": "2026-11-13T22:59:45+00:00"
+    },
     {
       "id": "fdc3d063",
       "image": "img/fdc3d063.png",
@@ -531,15 +540,6 @@
       "title": "El fiscal Schaefer ratifica la hipótesis de la sustracción de Loan",
       "volanta": "JUICIO",
       "date": "2026-11-11T21:18:35+00:00"
-    },
-    {
-      "id": "4b98280e",
-      "image": "img/4b98280e.png",
-      "image_sha": "0382744bfdadd5d919ddd771c1dde650e21ebcb0",
-      "url": "https://www.radiodos.com.ar/216950-williams-tendria-a-colapinto-entre-sus-candidatos-si-carlos-sainz-deja-la-escuderia",
-      "title": "Williams tendría a Colapinto entre sus candidatos si Carlos Sainz deja la escudería",
-      "volanta": "FORMULA 1",
-      "date": "2026-11-11T21:06:58+00:00"
     }
   ]
 }
