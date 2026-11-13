@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T11:02:03+00:00",
+  "updated": "2026-11-13T11:33:35+00:00",
   "posts": [
+    {
+      "id": "5757b9f0",
+      "image": "img/5757b9f0.png",
+      "image_sha": "66ff62883ad3ee1a2027b29c86e6a0a56c2595f2",
+      "url": "https://www.radiodos.com.ar/217035-jp-valdes-inauguro-un-mega-aserradero-en-santo-tome-que-proyecta-generar-mas-de-700-puestos-de-trabajo",
+      "title": "JP Valdés inauguró un mega aserradero en Santo Tomé que proyecta generar más de 700 puestos de trabajo",
+      "volanta": "INVERSIÓN PRIVADA",
+      "date": "2026-11-13T11:33:35+00:00"
+    },
     {
       "id": "b0268aa6",
       "image": "img/b0268aa6.png",
@@ -531,15 +540,6 @@
       "title": "Martín Palermo se suma al homenaje de Carlos Tevez",
       "volanta": "El 20 de diciembre en La Bombonera",
       "date": "2026-11-10T23:14:07+00:00"
-    },
-    {
-      "id": "84dbb8af",
-      "image": "img/84dbb8af.png",
-      "image_sha": "7601ee77180a8fbc46e45990c74d70a0be40e3dc",
-      "url": "https://www.radiodos.com.ar/216892-realizaba-willy-con-escape-libre-en-una-avenida-y-termino-demorado",
-      "title": "Realizaba \"willy\" con escape libre en una avenida y terminó demorado",
-      "volanta": "Imprudencia vial",
-      "date": "2026-11-10T23:12:54+00:00"
     }
   ]
 }
