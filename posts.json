@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T17:28:23+00:00",
+  "updated": "2026-11-13T17:29:05+00:00",
   "posts": [
+    {
+      "id": "9cf62dff",
+      "image": "img/9cf62dff.png",
+      "image_sha": "3ea874752565d50a1fd99aa5c30ff084e5a7448b",
+      "url": "https://www.radiodos.com.ar/217071-jujuy-buscan-voluntarios-para-vivir-gratis-a-cambio-de-colaborar-30-horas-a-la-semana-en-un-hostel",
+      "title": "Jujuy: buscan voluntarios para vivir gratis a cambio de colaborar 30 horas a la semana en un hostel",
+      "volanta": "GRAN OPORTUNIDAD",
+      "date": "2026-11-13T17:29:05+00:00"
+    },
     {
       "id": "87050238",
       "image": "img/87050238.png",
@@ -531,15 +540,6 @@
       "title": "La imagen de la Virgen de Luján fue trasladada para acompañar al papa León XIV en su multitudinaria misa",
       "volanta": "DÍA HISTÓRICO",
       "date": "2026-11-11T14:05:39+00:00"
-    },
-    {
-      "id": "3fe404e0",
-      "image": "img/3fe404e0.png",
-      "image_sha": "7d96dc834890567d0c8053456fc66e4726a0ee93",
-      "url": "https://www.radiodos.com.ar/216924-leon-xiv-da-una-misa-para-mas-de-2-millones-de-personas-en-lujan",
-      "title": "León XIV da una misa para más de 2 millones de personas en Luján",
-      "volanta": "AHORA",
-      "date": "2026-11-11T13:31:25+00:00"
     }
   ]
 }
