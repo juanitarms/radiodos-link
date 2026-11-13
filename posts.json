@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T12:05:28+00:00",
+  "updated": "2026-11-13T12:50:32+00:00",
   "posts": [
+    {
+      "id": "3e7023ed",
+      "image": "img/3e7023ed.png",
+      "image_sha": "61bbb6fbc0151065d73ce45a33354b1716c3afdd",
+      "url": "https://www.radiodos.com.ar/217042-trabajadores-de-ate-anac-realizan-un-paro-a-la-japonesa-en-aeroparque-y-ezeiza-en-que-consiste",
+      "title": "Trabajadores de ATE-ANAC realizan un paro \"a la japonesa\" en Aeroparque y Ezeiza: en qué consiste",
+      "volanta": "NOVEDAD",
+      "date": "2026-11-13T12:50:32+00:00"
+    },
     {
       "id": "6a42acc2",
       "image": "img/6a42acc2.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores de Exen exigen recuperar las máquinas para volver a trabajar",
       "volanta": "CHACO",
       "date": "2026-11-10T23:16:47+00:00"
-    },
-    {
-      "id": "1827b6bc",
-      "image": "img/1827b6bc.png",
-      "image_sha": "5849502ed91a04bf5b13ad4af7ff3152fe4316a6",
-      "url": "https://www.radiodos.com.ar/216893-f1-ratifica-el-cierre-de-la-temporada-en-oriente-medio-pese-al-conflicto-belico",
-      "title": "F1: Ratifica el cierre de la temporada en Oriente Medio pese al conflicto bélico",
-      "volanta": "Cierre en Qatar y Abu Dhabi",
-      "date": "2026-11-10T23:15:47+00:00"
     }
   ]
 }
