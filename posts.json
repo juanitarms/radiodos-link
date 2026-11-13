@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T15:09:12+00:00",
+  "updated": "2026-11-13T16:41:30+00:00",
   "posts": [
+    {
+      "id": "f1870915",
+      "image": "img/f1870915.png",
+      "image_sha": "e4d1180ec63f91b74ce6e88bb92ba51676473192",
+      "url": "https://www.radiodos.com.ar/217074-explosion-e-incendio-tras-una-fuga-de-gas-en-renedios-de-escalada-deja-un-saldo-de-20-heridos",
+      "title": "Explosión e incendio tras una fuga de gas en Renedios de Escalada deja un saldo de 20 heridos",
+      "volanta": "Parte oficial de Defensa Civil",
+      "date": "2026-11-13T16:41:30+00:00"
+    },
     {
       "id": "1df98761",
       "image": "img/1df98761.png",
@@ -531,15 +540,6 @@
       "title": "La DPEC realizará trabajos de mejoras en Capital y el interior de la provincia",
       "volanta": "ESTE MIÉRCOLES 11",
       "date": "2026-11-11T11:50:48+00:00"
-    },
-    {
-      "id": "0768a677",
-      "image": "img/0768a677.png",
-      "image_sha": "dab1c04753280a047b9ea444c61f044c8d2a1306",
-      "url": "https://www.radiodos.com.ar/216909-leon-xiv-visita-a-un-grupo-de-presos-en-la-carcel-de-devoto",
-      "title": "León XIV visita a un grupo de presos en la cárcel de Devoto",
-      "volanta": "VISITA HISTORICA",
-      "date": "2026-11-11T11:31:39+00:00"
     }
   ]
 }
