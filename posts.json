@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T18:14:51+00:00",
+  "updated": "2026-11-13T22:57:39+00:00",
   "posts": [
+    {
+      "id": "9afe1d3c",
+      "image": "img/9afe1d3c.png",
+      "image_sha": "6367ba6d1b8bc5429d78a330e5644fba49d6ff87",
+      "url": "https://www.radiodos.com.ar/217081-argentina-compartira-grupo-con-brasil-en-el-mundial-de-talla-baja",
+      "title": "Argentina compartira grupo con Brasil en el Mundial de Talla Baja",
+      "volanta": "MARRUECOS 2026",
+      "date": "2026-11-13T22:57:39+00:00"
+    },
     {
       "id": "d4b95c1b",
       "image": "img/d4b95c1b.png",
@@ -531,15 +540,6 @@
       "title": "Así fue el millonario robo a un empresario en el interior de Corrientes",
       "volanta": "BELLA VISTA",
       "date": "2026-11-11T20:48:19+00:00"
-    },
-    {
-      "id": "2569b093",
-      "image": "img/2569b093.png",
-      "image_sha": "b0284cd851a0cc765df949f4d8d31494c5659452",
-      "url": "https://www.radiodos.com.ar/216947-leon-xiv-se-despidio-de-la-argentina-este-pais-desde-ahora-tiene-dos-papas-uno-que-ha-nacido-aqui-y-otro-por-adopcion",
-      "title": "León XIV se despidió de la Argentina: \"Este país desde ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción\"",
-      "volanta": "UNA FRASE",
-      "date": "2026-11-11T20:41:58+00:00"
     }
   ]
 }
