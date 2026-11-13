@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T18:14:11+00:00",
+  "updated": "2026-11-13T18:14:51+00:00",
   "posts": [
+    {
+      "id": "d4b95c1b",
+      "image": "img/d4b95c1b.png",
+      "image_sha": "9f1e36d9ebf89fd498d5930c5a8d2f39d933a997",
+      "url": "https://www.radiodos.com.ar/217068-el-municipio-proyecta-recuperar-los-espacios-publicos-del-historico-laguna-seca",
+      "title": "El Municipio proyecta recuperar los espacios públicos del histórico Laguna Seca",
+      "volanta": "OBRAS",
+      "date": "2026-11-13T18:14:51+00:00"
+    },
     {
       "id": "46285c42",
       "image": "img/46285c42.png",
@@ -531,15 +540,6 @@
       "title": "León XIV se despidió de la Argentina: \"Este país desde ahora tiene dos Papas, uno que ha nacido aquí y otro por adopción\"",
       "volanta": "UNA FRASE",
       "date": "2026-11-11T20:41:58+00:00"
-    },
-    {
-      "id": "107fb690",
-      "image": "img/107fb690.png",
-      "image_sha": "c264386121714c23424e8e5dc6e50034a2a79b03",
-      "url": "https://www.radiodos.com.ar/216932-la-municipalidad-de-corrientes-instala-camaras-en-semaforos-para-reforzar-la-seguridad-vial",
-      "title": "La Municipalidad de Corrientes instala cámaras en semáforos para reforzar la seguridad vial",
-      "volanta": "EN VARIOS PUNTOS",
-      "date": "2026-11-11T15:01:06+00:00"
     }
   ]
 }
