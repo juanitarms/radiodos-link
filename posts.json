@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T14:11:44+00:00",
+  "updated": "2026-11-13T14:43:11+00:00",
   "posts": [
+    {
+      "id": "5511a178",
+      "image": "img/5511a178.png",
+      "image_sha": "a937f5e7b9c4b28fb321a3a8455314e6b5dffac6",
+      "url": "https://www.radiodos.com.ar/217066-el-gobierno-provincial-y-el-banco-de-corrientes-presentaron-lineas-de-alivio-financiero-para-familias-y-empresas",
+      "title": "El Gobierno provincial y el Banco de Corrientes presentaron líneas de alivio financiero para familias y empresas",
+      "volanta": "ESTA MAÑANA",
+      "date": "2026-11-13T14:43:11+00:00"
+    },
     {
       "id": "8ee12558",
       "image": "img/8ee12558.png",
@@ -531,15 +540,6 @@
       "title": "El Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
       "volanta": "VISITA HISTÓRICA",
       "date": "2026-11-11T10:48:29+00:00"
-    },
-    {
-      "id": "8cdb5cf7",
-      "image": "img/8cdb5cf7.png",
-      "image_sha": "610ad8673e1547d8a4eb9d756c61b21098f4df29",
-      "url": "https://www.radiodos.com.ar/216903-hay-tres-demorados-por-el-asesinato-de-un-pescador-en-localidad-de-corrientes",
-      "title": "Hay tres demorados por el asesinato de un pescador en localidad de Corrientes",
-      "volanta": "EN PLENA CALLE",
-      "date": "2026-11-11T10:29:15+00:00"
     }
   ]
 }
