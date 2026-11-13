@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T11:33:35+00:00",
+  "updated": "2026-11-13T12:05:28+00:00",
   "posts": [
+    {
+      "id": "6a42acc2",
+      "image": "img/6a42acc2.png",
+      "image_sha": "84f2c19dd2e53af8f19feda40e969e8ade47f765",
+      "url": "https://www.radiodos.com.ar/217041-ioscor-abrio-nuevos-servicios-en-su-policlinico-tendra-24-consultorios-120-medicos-y-3-quirofanos",
+      "title": "IOSCOR abrió nuevos servicios en su policlínico: tendrá 24 consultorios, 120 médicos y 3 quirófanos",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-13T12:05:28+00:00"
+    },
     {
       "id": "5757b9f0",
       "image": "img/5757b9f0.png",
@@ -531,15 +540,6 @@
       "title": "F1: Ratifica el cierre de la temporada en Oriente Medio pese al conflicto bélico",
       "volanta": "Cierre en Qatar y Abu Dhabi",
       "date": "2026-11-10T23:15:47+00:00"
-    },
-    {
-      "id": "fcdd8ea6",
-      "image": "img/fcdd8ea6.png",
-      "image_sha": "88df876d30393bcfcda884c19a0d59d0c06b83a0",
-      "url": "https://www.radiodos.com.ar/216891-martin-palermo-se-suma-al-homenaje-de-carlos-tevez",
-      "title": "Martín Palermo se suma al homenaje de Carlos Tevez",
-      "volanta": "El 20 de diciembre en La Bombonera",
-      "date": "2026-11-10T23:14:07+00:00"
     }
   ]
 }
