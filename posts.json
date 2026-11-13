@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T16:42:08+00:00",
+  "updated": "2026-11-13T16:42:39+00:00",
   "posts": [
+    {
+      "id": "dd3d67b6",
+      "image": "img/dd3d67b6.png",
+      "image_sha": "721d5587ee6c9572b82e8d2c9c625b416a29bb44",
+      "url": "https://www.radiodos.com.ar/217073-contra-river-lionel-messi-cerrara-su-etapa-en-inter-miami-y-se-espera-una-decision-sobre-su-futuro",
+      "title": "Contra River, Lionel Messi cerrará su etapa en Inter Miami y se espera una decisión sobre su futuro",
+      "volanta": "AMISTOSO",
+      "date": "2026-11-13T16:42:39+00:00"
+    },
     {
       "id": "ae3eb538",
       "image": "img/ae3eb538.png",
@@ -531,15 +540,6 @@
       "title": "De qué murió Marcos Camino, el histórico miembro y fundador de Los Palmeras",
       "volanta": "LUTO EN LA MÚSICA",
       "date": "2026-11-11T13:07:00+00:00"
-    },
-    {
-      "id": "76097cdc",
-      "image": "img/76097cdc.png",
-      "image_sha": "3f66a805616e3385abcd3741c444059b4339f033",
-      "url": "https://www.radiodos.com.ar/216919-un-sacerdote-con-discapacidad-conmovio-al-papa-leon-xiv-elegi-abrirme-y-seguir-amando-la-vida",
-      "title": "Un sacerdote con discapacidad conmovió al papa León XIV: \"Elegí abrirme y seguir amando la vida\"",
-      "volanta": "DÍA HISTÓRICO",
-      "date": "2026-11-11T12:42:37+00:00"
     }
   ]
 }
