@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T13:50:27+00:00",
+  "updated": "2026-11-13T14:11:44+00:00",
   "posts": [
+    {
+      "id": "8ee12558",
+      "image": "img/8ee12558.png",
+      "image_sha": "9d79b4f5d61a692ad378bc2c3cafdc73c8b5415e",
+      "url": "https://www.radiodos.com.ar/217061-que-declaro-mauro-icardi-tras-el-escandalo-por-la-denuncia-de-wanda-nara-la-palabra-de-su-abogado",
+      "title": "Qué declaró Mauro Icardi tras el escándalo por la denuncia de Wanda Nara: la palabra de su abogado",
+      "volanta": "VIOLENCIA FAMILIAR",
+      "date": "2026-11-13T14:11:44+00:00"
+    },
     {
       "id": "a4cede4d",
       "image": "img/a4cede4d.png",
@@ -531,15 +540,6 @@
       "title": "Hay tres demorados por el asesinato de un pescador en localidad de Corrientes",
       "volanta": "EN PLENA CALLE",
       "date": "2026-11-11T10:29:15+00:00"
-    },
-    {
-      "id": "216b070d",
-      "image": "img/216b070d.png",
-      "image_sha": "b5375a32aa56ed2c2ed0fab8ca4078d8d4a378c5",
-      "url": "https://www.radiodos.com.ar/216897-furor-por-los-bebes-leon-xiv-protagoniza-un-tierno-y-multitudinario-momento-en-argentina",
-      "title": "Furor por los bebés: León XIV protagoniza un tierno y multitudinario momento en Argentina",
-      "volanta": "En la Nunciatura",
-      "date": "2026-11-10T23:50:49+00:00"
     }
   ]
 }
