@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T23:53:18+00:00",
+  "updated": "2026-11-13T10:34:08+00:00",
   "posts": [
+    {
+      "id": "a21c144e",
+      "image": "img/a21c144e.png",
+      "image_sha": "7f14cbb5732c170fe3f63dd2d92e13ca69670b74",
+      "url": "https://www.radiodos.com.ar/217034-la-inflacion-del-nea-cayo-al-15-en-octubre",
+      "title": "La inflación del NEA cayó al 1,5% en octubre",
+      "volanta": "SEGÚN LA MEDICIÓN DEL IPC DEL INDEC",
+      "date": "2026-11-13T10:34:08+00:00"
+    },
     {
       "id": "df02d31d",
       "image": "img/df02d31d.png",
@@ -531,15 +540,6 @@
       "title": "Alerta amarilla por tormentas fuertes para este miércoles en Corrientes",
       "volanta": "TEMPORAL",
       "date": "2026-11-10T23:09:09+00:00"
-    },
-    {
-      "id": "132df29c",
-      "image": "img/132df29c.png",
-      "image_sha": "d9b1219d8e5f088d500ff9dd3e0dfeccd55c84a8",
-      "url": "https://www.radiodos.com.ar/216889-historico-lionel-scaloni-confirmara-su-continuidad-y-batira-un-record-en-la-seleccion-argentina",
-      "title": "Histórico: Lionel Scaloni confirmará su continuidad y batirá un récord en la Selección Argentina",
-      "volanta": "Superará a Menotti y a Bilardo",
-      "date": "2026-11-10T22:13:53+00:00"
     }
   ]
 }
