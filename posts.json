@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T14:43:11+00:00",
+  "updated": "2026-11-13T14:52:41+00:00",
   "posts": [
+    {
+      "id": "8677d2e6",
+      "image": "img/8677d2e6.png",
+      "image_sha": "b5673e8ea411e4903e6dd23ea5d89dbad7afba0b",
+      "url": "https://www.radiodos.com.ar/217065-rugbier-molio-a-palos-a-un-hombre-porque-creyo-que-habia-mirado-a-su-pareja",
+      "title": "Rugbier molió a palos a un hombre porque creyó que había mirado a su pareja",
+      "volanta": "IMÁGENES SENSIBLES",
+      "date": "2026-11-13T14:52:41+00:00"
+    },
     {
       "id": "5511a178",
       "image": "img/5511a178.png",
@@ -531,15 +540,6 @@
       "title": "LNB: Regatas Corrientes tuvo un mal cierre y perdió con Argentino en Junín",
       "volanta": "OTRA DERROTA EN RUTA",
       "date": "2026-11-11T11:26:05+00:00"
-    },
-    {
-      "id": "04db29b2",
-      "image": "img/04db29b2.png",
-      "image_sha": "6c2849e1ebd80ecd817ca6cd060515b68a80f93d",
-      "url": "https://www.radiodos.com.ar/216902-el-papa-celebrara-una-historica-misa-en-la-basilica-de-lujan-antes-de-partir-hacia-peru",
-      "title": "El Papa celebrará una histórica misa en la Basílica de Luján antes de partir hacia Perú",
-      "volanta": "VISITA HISTÓRICA",
-      "date": "2026-11-11T10:48:29+00:00"
     }
   ]
 }
