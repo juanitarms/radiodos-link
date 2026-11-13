@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T22:57:39+00:00",
+  "updated": "2026-11-13T22:58:43+00:00",
   "posts": [
+    {
+      "id": "37ca38ef",
+      "image": "img/37ca38ef.png",
+      "image_sha": "0d3216e9ae5cc1b254d212f1d9bf639c3a018d39",
+      "url": "https://www.radiodos.com.ar/217086-el-gobernador-valdes-inauguro-obras-deportivas-una-planta-de-faena-y-enripiado-en-colonia-liebig",
+      "title": "El gobernador Valdés inauguró obras deportivas, una planta de faena y enripiado en Colonia Liebig",
+      "volanta": "AGENDA OFICIAL",
+      "date": "2026-11-13T22:58:43+00:00"
+    },
     {
       "id": "9afe1d3c",
       "image": "img/9afe1d3c.png",
@@ -531,15 +540,6 @@
       "title": "Declaró el bombero que intentó llegar al escenario del Papa con credenciales falsas",
       "volanta": "seguirá detenido",
       "date": "2026-11-11T20:50:08+00:00"
-    },
-    {
-      "id": "a39ded6a",
-      "image": "img/a39ded6a.png",
-      "image_sha": "1b1ecf9f68c58ab5ab7cc9694f3474af98ef29b0",
-      "url": "https://www.radiodos.com.ar/216949-asi-fue-el-millonario-robo-a-un-empresario-en-el-interior-de-corrientes",
-      "title": "Así fue el millonario robo a un empresario en el interior de Corrientes",
-      "volanta": "BELLA VISTA",
-      "date": "2026-11-11T20:48:19+00:00"
     }
   ]
 }
