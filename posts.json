@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T21:49:20+00:00",
+  "updated": "2026-11-14T23:54:34+00:00",
   "posts": [
+    {
+      "id": "62de0ea6",
+      "image": "img/62de0ea6.png",
+      "image_sha": "13ba5575ae6ed01972a80bfccd00d7a250933ee5",
+      "url": "https://www.radiodos.com.ar/217122-ricardo-arjona-sorprendio-con-un-show-callejero-en-mexico-canto-en-plena-via-publica-y-se-volvio-viral",
+      "title": "Ricardo Arjona sorprendió con un show callejero en México: cantó en plena vía pública y se volvió viral",
+      "volanta": "SE ANIMÓ",
+      "date": "2026-11-14T23:54:34+00:00"
+    },
     {
       "id": "ef13790b",
       "image": "img/ef13790b.png",
@@ -531,15 +540,6 @@
       "title": "Milei aviva la interna con Bullrich con un mensaje en redes",
       "volanta": "crisis en el oficialismo",
       "date": "2026-11-11T23:37:37+00:00"
-    },
-    {
-      "id": "b9274ca5",
-      "image": "img/b9274ca5.png",
-      "image_sha": "23a7bd4791cfc063b048d7ce12b1e3d04c302229",
-      "url": "https://www.radiodos.com.ar/216954-que-le-cantaron-los-obispos-al-papa-leon-xiv",
-      "title": "¿Que le cantaron los obispos al Papa León XIV?",
-      "volanta": "Perlitas de la visita de Su Santidad",
-      "date": "2026-11-11T23:18:21+00:00"
     }
   ]
 }
