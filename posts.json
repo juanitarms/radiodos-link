@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T21:15:44+00:00",
+  "updated": "2026-11-15T21:55:51+00:00",
   "posts": [
+    {
+      "id": "d680f4f5",
+      "image": "img/d680f4f5.png",
+      "image_sha": "7beb597ed7e404fa9f427ed905a345004e0c5d94",
+      "url": "https://www.radiodos.com.ar/217140-trfa-huracan-de-goya-gana-y-esta-clasificando-a-la-final",
+      "title": "TRFA: Huracán de Goya gana y está clasificando a la final",
+      "volanta": "Ya jugando el segundo tiempo",
+      "date": "2026-11-15T21:55:51+00:00"
+    },
     {
       "id": "e28fe2f6",
       "image": "img/e28fe2f6.png",
@@ -531,15 +540,6 @@
       "title": "Por qué el Vaticano borró el tuit del papa León XIV que decía que la Argentina tiene \"dos papas\"",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-11-12T14:25:57+00:00"
-    },
-    {
-      "id": "dfd44c64",
-      "image": "img/dfd44c64.png",
-      "image_sha": "c38ab589171cc2dc5f12354a10ce7c8264faa0f2",
-      "url": "https://www.radiodos.com.ar/216994-pampita-protagonizo-un-tenso-episodio-en-lujan-durante-la-misa-del-papa-leon-xiv-que-se-vaya",
-      "title": "Pampita protagonizó un tenso episodio en Luján durante la misa del papa León XIV: \"Que se vaya\"",
-      "volanta": "¿QUE PASÓ?",
-      "date": "2026-11-12T13:58:09+00:00"
     }
   ]
 }
