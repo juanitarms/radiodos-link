@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T12:49:20+00:00",
+  "updated": "2026-11-15T14:03:35+00:00",
   "posts": [
+    {
+      "id": "a45eb15c",
+      "image": "img/a45eb15c.png",
+      "image_sha": "77b5a9a2c8b7fb2d2c6632ee311608b22b36ae0a",
+      "url": "https://www.radiodos.com.ar/217129-milei-ratifico-que-ira-por-la-reeleccion-en-el-2027",
+      "title": "Milei ratificó que irá por la reelección en el 2027",
+      "volanta": "POLÍTICA",
+      "date": "2026-11-15T14:03:35+00:00"
+    },
     {
       "id": "2339dbf1",
       "image": "img/2339dbf1.png",
@@ -531,15 +540,6 @@
       "title": "Las canciones y los artistas que marcaron el paso del papa León XIV por la Argentina",
       "volanta": "La banda sonora de una visita histórica",
       "date": "2026-11-12T02:53:13+00:00"
-    },
-    {
-      "id": "af63af63",
-      "image": "img/af63af63.png",
-      "image_sha": "f9a04ebabb753d4c26e6957f8307b223a36a1902",
-      "url": "https://www.radiodos.com.ar/216956-el-tribunal-del-mar-fijo-para-el-28-de-noviembre-la-fecha-del-fallo-sobre-la-explotacion-petrolera-en-malvinas",
-      "title": "El Tribunal del Mar fijó para el 28 de noviembre la fecha del fallo sobre la explotación petrolera en Malvinas",
-      "volanta": "expectativa",
-      "date": "2026-11-11T23:38:20+00:00"
     }
   ]
 }
