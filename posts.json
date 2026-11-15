@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T21:15:07+00:00",
+  "updated": "2026-11-15T21:15:44+00:00",
   "posts": [
+    {
+      "id": "e28fe2f6",
+      "image": "img/e28fe2f6.png",
+      "image_sha": "02293a2e2fe274e76d10757a6a0e13337b1b3748",
+      "url": "https://www.radiodos.com.ar/217137-el-coprodis-intensifica-su-labor-con-capacitaciones-entrega-de-insumos-y-asistencia-ante-las-inundaciones",
+      "title": "El Coprodis intensifica su labor con capacitaciones, entrega de insumos y asistencia ante las inundaciones",
+      "volanta": "DISCAPACIDAD",
+      "date": "2026-11-15T21:15:44+00:00"
+    },
     {
       "id": "29c758e4",
       "image": "img/29c758e4.png",
@@ -531,15 +540,6 @@
       "title": "Pampita protagonizó un tenso episodio en Luján durante la misa del papa León XIV: \"Que se vaya\"",
       "volanta": "¿QUE PASÓ?",
       "date": "2026-11-12T13:58:09+00:00"
-    },
-    {
-      "id": "be03a22b",
-      "image": "img/be03a22b.png",
-      "image_sha": "06a23fe64605b62a50b8ed80be212158d0dac8eb",
-      "url": "https://www.radiodos.com.ar/216996-sofi-martinez-se-emociono-al-recordar-la-multitudinaria-vigilia-que-condujo-antes-de-la-misa-del-papa-leon-xiv",
-      "title": "Sofi Martínez se emocionó al recordar la multitudinaria vigilia que condujo antes de la misa del papa León XIV",
-      "volanta": "INOLVIDABLE",
-      "date": "2026-11-12T13:37:14+00:00"
     }
   ]
 }
