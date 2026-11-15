@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T17:32:59+00:00",
+  "updated": "2026-11-15T19:23:22+00:00",
   "posts": [
+    {
+      "id": "e7f4be40",
+      "image": "img/e7f4be40.png",
+      "image_sha": "bd79bb2b42c3ddb1117d242ff559133ab27bf23b",
+      "url": "https://www.radiodos.com.ar/217134-dos-acrobatas-argentinos-fueron-detenidos-por-el-ice-tras-viajar-a-un-funeral",
+      "title": "Dos acróbatas argentinos fueron detenidos por el ICE tras viajar a un funeral",
+      "volanta": "Estados Unidos",
+      "date": "2026-11-15T19:23:22+00:00"
+    },
     {
       "id": "0a32045e",
       "image": "img/0a32045e.png",
@@ -531,15 +540,6 @@
       "title": "Murió Paolo el Rockero, icónico personaje del cine y TV de los '80",
       "volanta": "MUY RECORDADO",
       "date": "2026-11-12T12:54:27+00:00"
-    },
-    {
-      "id": "f72be712",
-      "image": "img/f72be712.png",
-      "image_sha": "cff8c633c86320195edd31deff93eb37555a2863",
-      "url": "https://www.radiodos.com.ar/216970-atropellaron-tres-vacas-en-la-ruta-14-y-se-salvaron-de-milagro",
-      "title": "Atropellaron tres vacas en la ruta 14 y se salvaron de milagro",
-      "volanta": "CERCA DE LA CRUZ",
-      "date": "2026-11-12T12:23:51+00:00"
     }
   ]
 }
