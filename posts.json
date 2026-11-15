@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T15:04:16+00:00",
+  "updated": "2026-11-15T15:57:15+00:00",
   "posts": [
+    {
+      "id": "b5ef8a95",
+      "image": "img/b5ef8a95.png",
+      "image_sha": "8c9c372355b22ed121589cc64d008c38459dadbb",
+      "url": "https://www.radiodos.com.ar/217130-la-invasion-china-no-para-y-se-amplia-con-polirrubros-en-junin",
+      "title": "La invasión China no para y se amplía con polirrubros en Junín",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-15T15:57:15+00:00"
+    },
     {
       "id": "be583a09",
       "image": "img/be583a09.png",
@@ -531,15 +540,6 @@
       "title": "Caso Bartlett: El juicio a dos policías continúa hoy con la declaración de cinco testigos",
       "volanta": "GOYA",
       "date": "2026-11-12T11:33:44+00:00"
-    },
-    {
-      "id": "2593d61b",
-      "image": "img/2593d61b.png",
-      "image_sha": "b91739bf0d7ebf4e2f85004c3771faf5db2005ef",
-      "url": "https://www.radiodos.com.ar/216961-efectos-del-fenomeno-de-el-nino-karina-milei-y-diego-santilli-desembarcan-en-corrientes",
-      "title": "Efectos del fenómeno de El Niño:  Karina Milei  y Diego Santilli desembarcan en Corrientes",
-      "volanta": "HOY A PARTIR DE LAS 11",
-      "date": "2026-11-12T10:33:37+00:00"
     }
   ]
 }
