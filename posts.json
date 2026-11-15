@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T19:24:02+00:00",
+  "updated": "2026-11-15T21:15:07+00:00",
   "posts": [
+    {
+      "id": "29c758e4",
+      "image": "img/29c758e4.png",
+      "image_sha": "bf7ffca83040beb8ba737e77d2cb5d22d6e21799",
+      "url": "https://www.radiodos.com.ar/217138-virasoro-de-la-cruz-cierra-su-primer-ano-con-obras-por-mas-de-2000-millones-de-pesos",
+      "title": "Virasoro: De La Cruz cierra su primer año con obras por más de 2.000 millones de pesos",
+      "volanta": "Desarrollo",
+      "date": "2026-11-15T21:15:07+00:00"
+    },
     {
       "id": "acf60d72",
       "image": "img/acf60d72.png",
@@ -531,15 +540,6 @@
       "title": "Sofi Martínez se emocionó al recordar la multitudinaria vigilia que condujo antes de la misa del papa León XIV",
       "volanta": "INOLVIDABLE",
       "date": "2026-11-12T13:37:14+00:00"
-    },
-    {
-      "id": "6aba1612",
-      "image": "img/6aba1612.png",
-      "image_sha": "dcf01b911bc9b33e36e23b3a1aea2255dbda91a9",
-      "url": "https://www.radiodos.com.ar/216990-detienen-a-un-sospechoso-por-el-feroz-ataque-a-mujeres-trans-en-palermo",
-      "title": "Detienen a un sospechoso por el feroz ataque a mujeres trans en Palermo",
-      "volanta": "CAUSA ABIERTA",
-      "date": "2026-11-12T13:16:45+00:00"
     }
   ]
 }
