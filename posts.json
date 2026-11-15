@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T15:57:15+00:00",
+  "updated": "2026-11-15T17:32:18+00:00",
   "posts": [
+    {
+      "id": "4ff40b10",
+      "image": "img/4ff40b10.png",
+      "image_sha": "adf2f8b2a4f70f08e7117b35a6cf0d554677b83c",
+      "url": "https://www.radiodos.com.ar/217136-gabur-tenemos-que-empezar-a-pensar-en-producir-para-los-mercados-del-mundo",
+      "title": "Gabur: \"Tenemos que empezar a pensar en producir para los mercados del mundo\"",
+      "volanta": "LO BUENO, LO MALO Y LO FEO",
+      "date": "2026-11-15T17:32:18+00:00"
+    },
     {
       "id": "b5ef8a95",
       "image": "img/b5ef8a95.png",
@@ -531,15 +540,6 @@
       "title": "Tras varios días bajo el agua, retiran una emblemática imagen de la Virgen de Itatí para restaurarla",
       "volanta": "TABACUE",
       "date": "2026-11-12T12:04:03+00:00"
-    },
-    {
-      "id": "4e22cf3c",
-      "image": "img/4e22cf3c.png",
-      "image_sha": "2a2be550bbfda56aab4920f002ea0ff4c7044ed6",
-      "url": "https://www.radiodos.com.ar/216965-caso-bartlett-el-juicio-a-dos-policias-continua-hoy-con-la-declaracion-de-cinco-testigos",
-      "title": "Caso Bartlett: El juicio a dos policías continúa hoy con la declaración de cinco testigos",
-      "volanta": "GOYA",
-      "date": "2026-11-12T11:33:44+00:00"
     }
   ]
 }
