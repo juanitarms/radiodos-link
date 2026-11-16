@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T23:54:34+00:00",
+  "updated": "2026-11-15T12:49:20+00:00",
   "posts": [
+    {
+      "id": "2339dbf1",
+      "image": "img/2339dbf1.png",
+      "image_sha": "cde88088ea560a547e600b58200d1f17008ac5ea",
+      "url": "https://www.radiodos.com.ar/217126-multitudinaria-convocatoria-de-jovenes-en-el-congreso-de-la-libertad-avanza-de-corrientes",
+      "title": "Multitudinaria convocatoria de jóvenes en el Congreso de la Libertad Avanza de Corrientes",
+      "volanta": "Cerca de 700 jóvenes",
+      "date": "2026-11-15T12:49:20+00:00"
+    },
     {
       "id": "62de0ea6",
       "image": "img/62de0ea6.png",
@@ -531,15 +540,6 @@
       "title": "Milei ratificó que irá por la reelección en el 2027",
       "volanta": "POLÍTICA",
       "date": "2026-11-15T14:03:35+00:00"
-    },
-    {
-      "id": "2339dbf1",
-      "image": "img/2339dbf1.png",
-      "image_sha": "cde88088ea560a547e600b58200d1f17008ac5ea",
-      "url": "https://www.radiodos.com.ar/217126-multitudinaria-convocatoria-de-jovenes-en-el-congreso-de-la-libertad-avanza-de-corrientes",
-      "title": "Multitudinaria convocatoria de jóvenes en el Congreso de la Libertad Avanza de Corrientes",
-      "volanta": "Cerca de 700 jóvenes",
-      "date": "2026-11-15T12:49:20+00:00"
     }
   ]
 }
