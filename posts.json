@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T17:17:30+00:00",
+  "updated": "2026-11-16T17:18:04+00:00",
   "posts": [
+    {
+      "id": "06c051ed",
+      "image": "img/06c051ed.png",
+      "image_sha": "009d0fb09d04c41f0842544617a86a6526ca6840",
+      "url": "https://www.radiodos.com.ar/217192-con-una-segunda-edicion-multitudinaria-el-mercado-de-pulgas-se-consolido-en-la-agenda-de-la-ciudad",
+      "title": "Con una segunda edición multitudinaria el Mercado de Pulgas se consolidó en la agenda de la ciudad",
+      "volanta": "EXITOSA PARTICIPACIÓN",
+      "date": "2026-11-16T17:18:04+00:00"
+    },
     {
       "id": "637807a2",
       "image": "img/637807a2.png",
@@ -531,15 +540,6 @@
       "title": "Bullrich ponderó a la Ley de Discapacidad y volvió a mandar un mensaje interno",
       "volanta": "CRISIS EN EL OFICIALISMO",
       "date": "2026-11-12T23:23:10+00:00"
-    },
-    {
-      "id": "31776615",
-      "image": "img/31776615.png",
-      "image_sha": "ba2f9e83dab24c8064e5886b1e5fa3ca63db3332",
-      "url": "https://www.radiodos.com.ar/217024-renovacion-historica-habra-scaloneta-hasta-el-mundial-2030",
-      "title": "Renovación histórica: Habrá Scaloneta hasta el Mundial 2030",
-      "volanta": "Lo confirmó juanto a Chiqui Tapia",
-      "date": "2026-11-12T23:22:11+00:00"
     }
   ]
 }
