@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T11:33:35+00:00",
+  "updated": "2026-11-13T12:05:28+00:00",
   "posts": [
+    {
+      "id": "6a42acc2",
+      "image": "img/6a42acc2.png",
+      "image_sha": "84f2c19dd2e53af8f19feda40e969e8ade47f765",
+      "url": "https://www.radiodos.com.ar/217041-ioscor-abrio-nuevos-servicios-en-su-policlinico-tendra-24-consultorios-120-medicos-y-3-quirofanos",
+      "title": "IOSCOR abrió nuevos servicios en su policlínico: tendrá 24 consultorios, 120 médicos y 3 quirófanos",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-13T12:05:28+00:00"
+    },
     {
       "id": "5757b9f0",
       "image": "img/5757b9f0.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores de ATE-ANAC realizan un paro \"a la japonesa\" en Aeroparque y Ezeiza: en qué consiste",
       "volanta": "NOVEDAD",
       "date": "2026-11-13T12:50:32+00:00"
-    },
-    {
-      "id": "6a42acc2",
-      "image": "img/6a42acc2.png",
-      "image_sha": "84f2c19dd2e53af8f19feda40e969e8ade47f765",
-      "url": "https://www.radiodos.com.ar/217041-ioscor-abrio-nuevos-servicios-en-su-policlinico-tendra-24-consultorios-120-medicos-y-3-quirofanos",
-      "title": "IOSCOR abrió nuevos servicios en su policlínico: tendrá 24 consultorios, 120 médicos y 3 quirófanos",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-13T12:05:28+00:00"
     }
   ]
 }
