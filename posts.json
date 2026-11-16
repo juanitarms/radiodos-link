@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T21:55:51+00:00",
+  "updated": "2026-11-16T10:44:18+00:00",
   "posts": [
+    {
+      "id": "563315bb",
+      "image": "img/563315bb.png",
+      "image_sha": "13a06194802e285e9df6defc7e977ac52172b49a",
+      "url": "https://www.radiodos.com.ar/217139-senti-que-me-olvidaba-de-todo-el-resto-la-historia-de-la-correntina-que-conmovio-al-papa-leon-xiv",
+      "title": "\"Sentí que me olvidaba de todo el resto\": La historia de la correntina que conmovió al Papa León XIV",
+      "volanta": "Nota exclusiva",
+      "date": "2026-11-16T10:44:18+00:00"
+    },
     {
       "id": "d680f4f5",
       "image": "img/d680f4f5.png",
@@ -531,15 +540,6 @@
       "title": "El Indec da a conocer la inflación de octubre",
       "volanta": "ECONOMÍA",
       "date": "2026-11-12T14:40:15+00:00"
-    },
-    {
-      "id": "52961133",
-      "image": "img/52961133.png",
-      "image_sha": "91f13dc399947a35cf8280d2c0a233ce02e9022d",
-      "url": "https://www.radiodos.com.ar/217003-por-que-el-vaticano-borro-el-tuit-del-papa-leon-xiv-que-decia-que-la-argentina-tiene-dos-papas",
-      "title": "Por qué el Vaticano borró el tuit del papa León XIV que decía que la Argentina tiene \"dos papas\"",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-11-12T14:25:57+00:00"
     }
   ]
 }
