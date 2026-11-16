@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T15:01:37+00:00",
+  "updated": "2026-11-16T16:25:13+00:00",
   "posts": [
+    {
+      "id": "de41b3a0",
+      "image": "img/de41b3a0.png",
+      "image_sha": "2f43cdd87321d4c9364df803c727a10fffb5fdeb",
+      "url": "https://www.radiodos.com.ar/217189-emotivo-reconocimiento-a-florencia-charon-tras-el-historico-subcampeonato-del-tribunal-de-cuentas",
+      "title": "Emotivo reconocimiento a Florencia Charón tras el histórico subcampeonato del Tribunal de Cuentas",
+      "volanta": "Enseñar con el corazón",
+      "date": "2026-11-16T16:25:13+00:00"
+    },
     {
       "id": "40441b7d",
       "image": "img/40441b7d.png",
@@ -531,15 +540,6 @@
       "title": "Claudio \"Chiqui\" Tapia confirmó la renovación de Lionel Scaloni al frente de la Selección Argentina hasta el Mundial 2030",
       "volanta": "Oficial",
       "date": "2026-11-12T22:04:29+00:00"
-    },
-    {
-      "id": "a0338378",
-      "image": "img/a0338378.png",
-      "image_sha": "286aef4ccaa8a9f417909ddc04746a533ef68f37",
-      "url": "https://www.radiodos.com.ar/217020-encontraron-muerto-a-un-gendarme-que-prestaba-servicios-en-el-escuadron-48-de-corrientes",
-      "title": "Encontraron muerto a un gendarme que prestaba servicios en el Escuadrón 48 de Corrientes",
-      "volanta": "TRAGEDIA",
-      "date": "2026-11-12T22:03:52+00:00"
     }
   ]
 }
