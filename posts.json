@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:19:04+00:00",
+  "updated": "2026-11-16T21:19:36+00:00",
   "posts": [
+    {
+      "id": "f0b4dce3",
+      "image": "img/f0b4dce3.png",
+      "image_sha": "5d0e882fead7d24439a5e4a4e076056cb8910055",
+      "url": "https://www.radiodos.com.ar/217197-la-uca-estimo-que-la-pobreza-llego-al-424-en-el-segundo-trimestre-de-2026",
+      "title": "La UCA estimó que la pobreza llegó al 42,4% en el segundo trimestre de 2026",
+      "volanta": "INFORME",
+      "date": "2026-11-16T21:19:36+00:00"
+    },
     {
       "id": "de870eca",
       "image": "img/de870eca.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés inauguró un mega aserradero en Santo Tomé que proyecta generar más de 700 puestos de trabajo",
       "volanta": "INVERSIÓN PRIVADA",
       "date": "2026-11-13T11:33:35+00:00"
-    },
-    {
-      "id": "b0268aa6",
-      "image": "img/b0268aa6.png",
-      "image_sha": "7aaa744268ec3436d7b0fb1ccd9b4742a7c88388",
-      "url": "https://www.radiodos.com.ar/217033-investigan-una-llamada-previa-del-empresario-al-que-le-robaron-mas-de-50-m-de-pesos-en-el-interior-de-corrientes",
-      "title": "Investigan una llamada previa del empresario al que le robaron más de 50 M de pesos en el interior de Corrientes",
-      "volanta": "BELLA VISTA",
-      "date": "2026-11-13T11:02:03+00:00"
     }
   ]
 }
