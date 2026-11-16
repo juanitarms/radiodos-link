@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T12:04:43+00:00",
+  "updated": "2026-11-16T12:35:37+00:00",
   "posts": [
+    {
+      "id": "37391e32",
+      "image": "img/37391e32.png",
+      "image_sha": "7dfaa4b6a9fce13d2c65e9c14690ecdf7a4f591a",
+      "url": "https://www.radiodos.com.ar/217148-el-gobernador-jp-valdes-inauguro-obras-de-infraestructura-en-curuzu-cuatia",
+      "title": "El gobernador JP Valdés inauguró obras de infraestructura en Curuzú Cuatiá",
+      "volanta": "EN SU 216° ANIVERSARIO",
+      "date": "2026-11-16T12:35:37+00:00"
+    },
     {
       "id": "5dc443c6",
       "image": "img/5dc443c6.png",
@@ -531,15 +540,6 @@
       "title": "Una mujer irá a juicio por intentar estafar a su propia madre",
       "volanta": "CORRIENTES",
       "date": "2026-11-12T18:06:41+00:00"
-    },
-    {
-      "id": "8db0623f",
-      "image": "img/8db0623f.png",
-      "image_sha": "808f74b8bea47ba4a38579f3e8ddc9cb082e61ab",
-      "url": "https://www.radiodos.com.ar/217015-atacaron-a-tiros-un-jardin-de-infantes-no-hay-seguridad",
-      "title": "Atacaron a tiros un jardín de infantes: \"No hay seguridad\"",
-      "volanta": "PELIGROSO",
-      "date": "2026-11-12T17:36:23+00:00"
     }
   ]
 }
