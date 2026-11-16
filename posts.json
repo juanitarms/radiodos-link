@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:03:20+00:00",
+  "updated": "2026-11-16T21:19:04+00:00",
   "posts": [
+    {
+      "id": "de870eca",
+      "image": "img/de870eca.png",
+      "image_sha": "7312774bd86088af953825da9c2afb739d167864",
+      "url": "https://www.radiodos.com.ar/217201-dictaron-prision-preventiva-para-un-hombre-que-abuso-de-su-hijastra-de-11-anos",
+      "title": "Dictaron prisión preventiva para un hombre que abusó de su hijastra de 11 años",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-16T21:19:04+00:00"
+    },
     {
       "id": "5105337e",
       "image": "img/5105337e.png",
@@ -531,15 +540,6 @@
       "title": "Investigan una llamada previa del empresario al que le robaron más de 50 M de pesos en el interior de Corrientes",
       "volanta": "BELLA VISTA",
       "date": "2026-11-13T11:02:03+00:00"
-    },
-    {
-      "id": "a21c144e",
-      "image": "img/a21c144e.png",
-      "image_sha": "7f14cbb5732c170fe3f63dd2d92e13ca69670b74",
-      "url": "https://www.radiodos.com.ar/217034-la-inflacion-del-nea-cayo-al-15-en-octubre",
-      "title": "La inflación del NEA cayó al 1,5% en octubre",
-      "volanta": "SEGÚN LA MEDICIÓN DEL IPC DEL INDEC",
-      "date": "2026-11-13T10:34:08+00:00"
     }
   ]
 }
