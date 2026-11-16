@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T14:53:03+00:00",
+  "updated": "2026-11-16T15:01:37+00:00",
   "posts": [
+    {
+      "id": "40441b7d",
+      "image": "img/40441b7d.png",
+      "image_sha": "dde622eeacf0ca0ac45cce650bf2eef39d7dd3f2",
+      "url": "https://www.radiodos.com.ar/217183-la-profesora-eliana-samaniego-confirmada-nueva-titular-del-consejo-de-educacion-de-corrientes",
+      "title": "La profesora Eliana Samaniego, confirmada nueva titular del Consejo de Educación de Corrientes",
+      "volanta": "FUE ADELANTO DE RADIO DOS",
+      "date": "2026-11-16T15:01:37+00:00"
+    },
     {
       "id": "42ef3140",
       "image": "img/42ef3140.png",
@@ -531,15 +540,6 @@
       "title": "Encontraron muerto a un gendarme que prestaba servicios en el Escuadrón 48 de Corrientes",
       "volanta": "TRAGEDIA",
       "date": "2026-11-12T22:03:52+00:00"
-    },
-    {
-      "id": "98e76254",
-      "image": "img/98e76254.png",
-      "image_sha": "e2d20a2131f8a0946fd9468547aaba2dc2fd6d50",
-      "url": "https://www.radiodos.com.ar/217023-corrientes-el-partido-democrata-progresista-refuerza-su-trabajo-territorial-y-apoyo-vecinal",
-      "title": "Corrientes: El Partido Demócrata Progresista refuerza su trabajo territorial y apoyo vecinal",
-      "volanta": "EN BARRIOS CAPITALINOS",
-      "date": "2026-11-12T22:03:12+00:00"
     }
   ]
 }
