@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T23:24:49+00:00",
+  "updated": "2026-11-12T23:53:18+00:00",
   "posts": [
+    {
+      "id": "df02d31d",
+      "image": "img/df02d31d.png",
+      "image_sha": "e65e8b61ca4af21877ee4d5853d26c44b4b10cb0",
+      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
+      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-12T23:53:18+00:00"
+    },
     {
       "id": "4d3a4b0b",
       "image": "img/4d3a4b0b.png",
@@ -531,15 +540,6 @@
       "title": "La inflación del NEA cayó al 1,5% en octubre",
       "volanta": "SEGÚN LA MEDICIÓN DEL IPC DEL INDEC",
       "date": "2026-11-13T10:34:08+00:00"
-    },
-    {
-      "id": "df02d31d",
-      "image": "img/df02d31d.png",
-      "image_sha": "e65e8b61ca4af21877ee4d5853d26c44b4b10cb0",
-      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
-      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
-      "volanta": "ECONOMÍA",
-      "date": "2026-11-12T23:53:18+00:00"
     }
   ]
 }
