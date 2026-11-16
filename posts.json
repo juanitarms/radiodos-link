@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:19:36+00:00",
+  "updated": "2026-11-16T21:21:33+00:00",
   "posts": [
+    {
+      "id": "47bfa291",
+      "image": "img/47bfa291.png",
+      "image_sha": "33833b32a2457d4f78711b8986256037d7f43fbd",
+      "url": "https://www.radiodos.com.ar/217200-corrientes-cayo-preso-tras-robarle-costosa-olla-a-su-abuela",
+      "title": "Corrientes: cayó preso tras robarle costosa olla a su abuela",
+      "volanta": "SAN LUIS DEL PALMAR",
+      "date": "2026-11-16T21:21:33+00:00"
+    },
     {
       "id": "f0b4dce3",
       "image": "img/f0b4dce3.png",
@@ -531,15 +540,6 @@
       "title": "IOSCOR abrió nuevos servicios en su policlínico: tendrá 24 consultorios, 120 médicos y 3 quirófanos",
       "volanta": "CORRIENTES",
       "date": "2026-11-13T12:05:28+00:00"
-    },
-    {
-      "id": "5757b9f0",
-      "image": "img/5757b9f0.png",
-      "image_sha": "66ff62883ad3ee1a2027b29c86e6a0a56c2595f2",
-      "url": "https://www.radiodos.com.ar/217035-jp-valdes-inauguro-un-mega-aserradero-en-santo-tome-que-proyecta-generar-mas-de-700-puestos-de-trabajo",
-      "title": "JP Valdés inauguró un mega aserradero en Santo Tomé que proyecta generar más de 700 puestos de trabajo",
-      "volanta": "INVERSIÓN PRIVADA",
-      "date": "2026-11-13T11:33:35+00:00"
     }
   ]
 }
