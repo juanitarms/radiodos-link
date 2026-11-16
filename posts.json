@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T17:32:59+00:00",
+  "updated": "2026-11-15T19:23:22+00:00",
   "posts": [
+    {
+      "id": "e7f4be40",
+      "image": "img/e7f4be40.png",
+      "image_sha": "bd79bb2b42c3ddb1117d242ff559133ab27bf23b",
+      "url": "https://www.radiodos.com.ar/217134-dos-acrobatas-argentinos-fueron-detenidos-por-el-ice-tras-viajar-a-un-funeral",
+      "title": "Dos acróbatas argentinos fueron detenidos por el ICE tras viajar a un funeral",
+      "volanta": "Estados Unidos",
+      "date": "2026-11-15T19:23:22+00:00"
+    },
     {
       "id": "0a32045e",
       "image": "img/0a32045e.png",
@@ -531,15 +540,6 @@
       "title": "Motociclista sufrió heridas graves tras chocar contra una camioneta",
       "volanta": "Lavalle",
       "date": "2026-11-15T19:24:02+00:00"
-    },
-    {
-      "id": "e7f4be40",
-      "image": "img/e7f4be40.png",
-      "image_sha": "bd79bb2b42c3ddb1117d242ff559133ab27bf23b",
-      "url": "https://www.radiodos.com.ar/217134-dos-acrobatas-argentinos-fueron-detenidos-por-el-ice-tras-viajar-a-un-funeral",
-      "title": "Dos acróbatas argentinos fueron detenidos por el ICE tras viajar a un funeral",
-      "volanta": "Estados Unidos",
-      "date": "2026-11-15T19:23:22+00:00"
     }
   ]
 }
