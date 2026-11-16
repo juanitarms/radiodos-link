@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T17:16:56+00:00",
+  "updated": "2026-11-16T17:17:30+00:00",
   "posts": [
+    {
+      "id": "637807a2",
+      "image": "img/637807a2.png",
+      "image_sha": "b8a3ff568b075bcee8c445ca7f540dd31e498197",
+      "url": "https://www.radiodos.com.ar/217190-en-tres-allanamientos-secuestran-ocho-animales-vacunos-que-presentaban-irregularidades",
+      "title": "En tres allanamientos secuestran ocho animales vacunos que presentaban irregularidades",
+      "volanta": "ALVEAR",
+      "date": "2026-11-16T17:17:30+00:00"
+    },
     {
       "id": "c050fc39",
       "image": "img/c050fc39.png",
@@ -531,15 +540,6 @@
       "title": "Renovación histórica: Habrá Scaloneta hasta el Mundial 2030",
       "volanta": "Lo confirmó juanto a Chiqui Tapia",
       "date": "2026-11-12T23:22:11+00:00"
-    },
-    {
-      "id": "40954935",
-      "image": "img/40954935.png",
-      "image_sha": "f9d929f05b41922cd0031ae38c376e40288792ba",
-      "url": "https://www.radiodos.com.ar/217028-el-hospital-geriatrico-de-corrientes-realizara-controles-oftalmologicos-para-la-deteccion-de-retinopatia-diabetica",
-      "title": "El Hospital Geriátrico de Corrientes realizará controles oftalmológicos para la detección de retinopatía diabética",
-      "volanta": "PREVENCIÓN",
-      "date": "2026-11-12T22:46:06+00:00"
     }
   ]
 }
