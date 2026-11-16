@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T13:54:43+00:00",
+  "updated": "2026-11-16T14:03:14+00:00",
   "posts": [
+    {
+      "id": "fe86e0e6",
+      "image": "img/fe86e0e6.png",
+      "image_sha": "a2b9b4ec469c7c4befd280582eef5a1e1a861323",
+      "url": "https://www.radiodos.com.ar/217182-productos-frescos-y-sabores-locales-asi-sera-el-nuevo-recorrido-semanal-de-las-ferias-de-la-ciudad",
+      "title": "Productos frescos y sabores locales: así será el nuevo recorrido semanal de las Ferias de la Ciudad",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-11-16T14:03:14+00:00"
+    },
     {
       "id": "ee0d58fb",
       "image": "img/ee0d58fb.png",
@@ -531,15 +540,6 @@
       "title": "De qué murió Ian, el sobrino de Gladys \"La Bomba Tucumana\"",
       "volanta": "TRISTEZA",
       "date": "2026-11-12T18:08:37+00:00"
-    },
-    {
-      "id": "8c9b5f03",
-      "image": "img/8c9b5f03.png",
-      "image_sha": "66b8ac30a58cddbdf146c7a75af2be649c29a9e8",
-      "url": "https://www.radiodos.com.ar/217011-caso-loan-un-testigo-de-la-policia-federal-indico-que-pudo-ser-un-accidente",
-      "title": "Caso Loan: un testigo de la Policía Federal indicó que pudo ser un accidente",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-11-12T18:08:01+00:00"
     }
   ]
 }
