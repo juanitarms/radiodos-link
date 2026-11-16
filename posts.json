@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T11:59:01+00:00",
+  "updated": "2026-11-16T12:04:43+00:00",
   "posts": [
+    {
+      "id": "5dc443c6",
+      "image": "img/5dc443c6.png",
+      "image_sha": "ec2c4149d181860c5c02554d7523ee00a1d2f114",
+      "url": "https://www.radiodos.com.ar/217149-empleados-de-la-administracion-publica-provincial-comenzaron-a-cobrar-el-plus-de-refuerzo",
+      "title": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
+      "volanta": "HASTA EL VIERNES",
+      "date": "2026-11-16T12:04:43+00:00"
+    },
     {
       "id": "2d0442b4",
       "image": "img/2d0442b4.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador JP Valdés inauguró obras de infraestructura en Curuzú Cuatiá",
       "volanta": "EN SU 216° ANIVERSARIO",
       "date": "2026-11-16T12:35:37+00:00"
-    },
-    {
-      "id": "5dc443c6",
-      "image": "img/5dc443c6.png",
-      "image_sha": "ec2c4149d181860c5c02554d7523ee00a1d2f114",
-      "url": "https://www.radiodos.com.ar/217149-empleados-de-la-administracion-publica-provincial-comenzaron-a-cobrar-el-plus-de-refuerzo",
-      "title": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
-      "volanta": "HASTA EL VIERNES",
-      "date": "2026-11-16T12:04:43+00:00"
     }
   ]
 }
