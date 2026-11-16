@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T15:04:16+00:00",
+  "updated": "2026-11-15T15:57:15+00:00",
   "posts": [
+    {
+      "id": "b5ef8a95",
+      "image": "img/b5ef8a95.png",
+      "image_sha": "8c9c372355b22ed121589cc64d008c38459dadbb",
+      "url": "https://www.radiodos.com.ar/217130-la-invasion-china-no-para-y-se-amplia-con-polirrubros-en-junin",
+      "title": "La invasión China no para y se amplía con polirrubros en Junín",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-15T15:57:15+00:00"
+    },
     {
       "id": "be583a09",
       "image": "img/be583a09.png",
@@ -531,15 +540,6 @@
       "title": "Gabur: \"Tenemos que empezar a pensar en producir para los mercados del mundo\"",
       "volanta": "LO BUENO, LO MALO Y LO FEO",
       "date": "2026-11-15T17:32:18+00:00"
-    },
-    {
-      "id": "b5ef8a95",
-      "image": "img/b5ef8a95.png",
-      "image_sha": "8c9c372355b22ed121589cc64d008c38459dadbb",
-      "url": "https://www.radiodos.com.ar/217130-la-invasion-china-no-para-y-se-amplia-con-polirrubros-en-junin",
-      "title": "La invasión China no para y se amplía con polirrubros en Junín",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-15T15:57:15+00:00"
     }
   ]
 }
