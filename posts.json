@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T18:14:11+00:00",
+  "updated": "2026-11-13T18:14:51+00:00",
   "posts": [
+    {
+      "id": "d4b95c1b",
+      "image": "img/d4b95c1b.png",
+      "image_sha": "9f1e36d9ebf89fd498d5930c5a8d2f39d933a997",
+      "url": "https://www.radiodos.com.ar/217068-el-municipio-proyecta-recuperar-los-espacios-publicos-del-historico-laguna-seca",
+      "title": "El Municipio proyecta recuperar los espacios públicos del histórico Laguna Seca",
+      "volanta": "OBRAS",
+      "date": "2026-11-13T18:14:51+00:00"
+    },
     {
       "id": "46285c42",
       "image": "img/46285c42.png",
@@ -531,15 +540,6 @@
       "title": "Argentina compartira grupo con Brasil en el Mundial de Talla Baja",
       "volanta": "MARRUECOS 2026",
       "date": "2026-11-13T22:57:39+00:00"
-    },
-    {
-      "id": "d4b95c1b",
-      "image": "img/d4b95c1b.png",
-      "image_sha": "9f1e36d9ebf89fd498d5930c5a8d2f39d933a997",
-      "url": "https://www.radiodos.com.ar/217068-el-municipio-proyecta-recuperar-los-espacios-publicos-del-historico-laguna-seca",
-      "title": "El Municipio proyecta recuperar los espacios públicos del histórico Laguna Seca",
-      "volanta": "OBRAS",
-      "date": "2026-11-13T18:14:51+00:00"
     }
   ]
 }
