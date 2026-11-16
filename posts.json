@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T22:57:39+00:00",
+  "updated": "2026-11-13T22:58:43+00:00",
   "posts": [
+    {
+      "id": "37ca38ef",
+      "image": "img/37ca38ef.png",
+      "image_sha": "0d3216e9ae5cc1b254d212f1d9bf639c3a018d39",
+      "url": "https://www.radiodos.com.ar/217086-el-gobernador-valdes-inauguro-obras-deportivas-una-planta-de-faena-y-enripiado-en-colonia-liebig",
+      "title": "El gobernador Valdés inauguró obras deportivas, una planta de faena y enripiado en Colonia Liebig",
+      "volanta": "AGENDA OFICIAL",
+      "date": "2026-11-13T22:58:43+00:00"
+    },
     {
       "id": "9afe1d3c",
       "image": "img/9afe1d3c.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a un correntino por trasladar droga en un remis",
       "volanta": "EN ENTRE RÍOS",
       "date": "2026-11-13T22:59:15+00:00"
-    },
-    {
-      "id": "37ca38ef",
-      "image": "img/37ca38ef.png",
-      "image_sha": "0d3216e9ae5cc1b254d212f1d9bf639c3a018d39",
-      "url": "https://www.radiodos.com.ar/217086-el-gobernador-valdes-inauguro-obras-deportivas-una-planta-de-faena-y-enripiado-en-colonia-liebig",
-      "title": "El gobernador Valdés inauguró obras deportivas, una planta de faena y enripiado en Colonia Liebig",
-      "volanta": "AGENDA OFICIAL",
-      "date": "2026-11-13T22:58:43+00:00"
     }
   ]
 }
