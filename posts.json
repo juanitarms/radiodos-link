@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:03:12+00:00",
+  "updated": "2026-11-12T22:03:52+00:00",
   "posts": [
+    {
+      "id": "a0338378",
+      "image": "img/a0338378.png",
+      "image_sha": "286aef4ccaa8a9f417909ddc04746a533ef68f37",
+      "url": "https://www.radiodos.com.ar/217020-encontraron-muerto-a-un-gendarme-que-prestaba-servicios-en-el-escuadron-48-de-corrientes",
+      "title": "Encontraron muerto a un gendarme que prestaba servicios en el Escuadrón 48 de Corrientes",
+      "volanta": "TRAGEDIA",
+      "date": "2026-11-12T22:03:52+00:00"
+    },
     {
       "id": "98e76254",
       "image": "img/98e76254.png",
@@ -531,15 +540,6 @@
       "title": "Claudio \"Chiqui\" Tapia confirmó la renovación de Lionel Scaloni al frente de la Selección Argentina hasta el Mundial 2030",
       "volanta": "Oficial",
       "date": "2026-11-12T22:04:29+00:00"
-    },
-    {
-      "id": "a0338378",
-      "image": "img/a0338378.png",
-      "image_sha": "286aef4ccaa8a9f417909ddc04746a533ef68f37",
-      "url": "https://www.radiodos.com.ar/217020-encontraron-muerto-a-un-gendarme-que-prestaba-servicios-en-el-escuadron-48-de-corrientes",
-      "title": "Encontraron muerto a un gendarme que prestaba servicios en el Escuadrón 48 de Corrientes",
-      "volanta": "TRAGEDIA",
-      "date": "2026-11-12T22:03:52+00:00"
     }
   ]
 }
