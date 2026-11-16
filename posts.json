@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T22:12:43+00:00",
+  "updated": "2026-11-16T22:13:16+00:00",
   "posts": [
+    {
+      "id": "b1602e0f",
+      "image": "img/b1602e0f.png",
+      "image_sha": "f707dfd239fcd7d4b5f9abbd984522493c04e14f",
+      "url": "https://www.radiodos.com.ar/217203-tecnicar-2026-con-la-participacion-de-22-escuelas-de-toda-la-provincia-comenzo-en-la-costanera-sur",
+      "title": "Tecnicar 2026: Con la participación de 22 escuelas de toda la provincia, comenzó en la Costanera Sur",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-11-16T22:13:16+00:00"
+    },
     {
       "id": "96684d88",
       "image": "img/96684d88.png",
@@ -531,15 +540,6 @@
       "title": "Se viene La Noche de las Heladerías con 2x1 en helados",
       "volanta": "OPORTUNIDAD",
       "date": "2026-11-13T13:31:58+00:00"
-    },
-    {
-      "id": "931c0852",
-      "image": "img/931c0852.png",
-      "image_sha": "7bceac9ee6f37ad7b9874cdcd191b416b0d907d9",
-      "url": "https://www.radiodos.com.ar/217050-lionel-scaloni-hablo-de-la-visita-del-papa-leon-xiv-la-sensacion-de-que-el-pais-es-feliz-por-un-momento",
-      "title": "Lionel Scaloni habló de la visita del papa León XIV: \"La sensación de que el país es feliz por un momento\"",
-      "volanta": "EMOCIONADO",
-      "date": "2026-11-13T12:59:03+00:00"
     }
   ]
 }
