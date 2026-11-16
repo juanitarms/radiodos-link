@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T19:52:54+00:00",
+  "updated": "2026-11-16T21:03:20+00:00",
   "posts": [
+    {
+      "id": "5105337e",
+      "image": "img/5105337e.png",
+      "image_sha": "4600ddec6c4c635c8ffe15f8abebbe4d9cf3f7c6",
+      "url": "https://www.radiodos.com.ar/217198-el-concejo-deliberante-de-corrientes-aprobo-la-primera-lectura-de-la-tarifaria-2027-y-convoco-a-audiencia-publica",
+      "title": "El Concejo Deliberante de Corrientes aprobó la primera lectura de la Tarifaria 2027 y convocó a audiencia pública",
+      "volanta": "SESION ESPECIAL",
+      "date": "2026-11-16T21:03:20+00:00"
+    },
     {
       "id": "0631a0e7",
       "image": "img/0631a0e7.png",
@@ -531,15 +540,6 @@
       "title": "La inflación del NEA cayó al 1,5% en octubre",
       "volanta": "SEGÚN LA MEDICIÓN DEL IPC DEL INDEC",
       "date": "2026-11-13T10:34:08+00:00"
-    },
-    {
-      "id": "df02d31d",
-      "image": "img/df02d31d.png",
-      "image_sha": "e65e8b61ca4af21877ee4d5853d26c44b4b10cb0",
-      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
-      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
-      "volanta": "ECONOMÍA",
-      "date": "2026-11-12T23:53:18+00:00"
     }
   ]
 }
