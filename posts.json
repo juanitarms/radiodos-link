@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:22:07+00:00",
+  "updated": "2026-11-16T22:12:43+00:00",
   "posts": [
+    {
+      "id": "96684d88",
+      "image": "img/96684d88.png",
+      "image_sha": "e25d93ce1811d709a9d6ba716c183160bd396841",
+      "url": "https://www.radiodos.com.ar/217202-corrientes-detuvieron-a-un-hombre-que-se-hacia-pasar-por-medico",
+      "title": "Corrientes: detuvieron a un hombre que se hacía pasar por médico",
+      "volanta": "utilizaba documentación falsa",
+      "date": "2026-11-16T22:12:43+00:00"
+    },
     {
       "id": "ab5fdced",
       "image": "img/ab5fdced.png",
@@ -531,15 +540,6 @@
       "title": "Lionel Scaloni habló de la visita del papa León XIV: \"La sensación de que el país es feliz por un momento\"",
       "volanta": "EMOCIONADO",
       "date": "2026-11-13T12:59:03+00:00"
-    },
-    {
-      "id": "3e7023ed",
-      "image": "img/3e7023ed.png",
-      "image_sha": "61bbb6fbc0151065d73ce45a33354b1716c3afdd",
-      "url": "https://www.radiodos.com.ar/217042-trabajadores-de-ate-anac-realizan-un-paro-a-la-japonesa-en-aeroparque-y-ezeiza-en-que-consiste",
-      "title": "Trabajadores de ATE-ANAC realizan un paro \"a la japonesa\" en Aeroparque y Ezeiza: en qué consiste",
-      "volanta": "NOVEDAD",
-      "date": "2026-11-13T12:50:32+00:00"
     }
   ]
 }
