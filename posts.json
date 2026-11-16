@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T17:32:18+00:00",
+  "updated": "2026-11-15T17:32:59+00:00",
   "posts": [
+    {
+      "id": "0a32045e",
+      "image": "img/0a32045e.png",
+      "image_sha": "089665b1c3c833ede398d6807c0cdca7c0f825a8",
+      "url": "https://www.radiodos.com.ar/217135-ley-de-ludopatia-dos-anos-de-resistencia-en-el-senado-y-los-intereses-que-la-ley-tocaria-de-lleno",
+      "title": "Ley de ludopatía: dos años de resistencia en el Senado y los intereses que la ley tocaría de lleno",
+      "volanta": "JUEGO ONLINE",
+      "date": "2026-11-15T17:32:59+00:00"
+    },
     {
       "id": "4ff40b10",
       "image": "img/4ff40b10.png",
@@ -531,15 +540,6 @@
       "title": "Dos acróbatas argentinos fueron detenidos por el ICE tras viajar a un funeral",
       "volanta": "Estados Unidos",
       "date": "2026-11-15T19:23:22+00:00"
-    },
-    {
-      "id": "0a32045e",
-      "image": "img/0a32045e.png",
-      "image_sha": "089665b1c3c833ede398d6807c0cdca7c0f825a8",
-      "url": "https://www.radiodos.com.ar/217135-ley-de-ludopatia-dos-anos-de-resistencia-en-el-senado-y-los-intereses-que-la-ley-tocaria-de-lleno",
-      "title": "Ley de ludopatía: dos años de resistencia en el Senado y los intereses que la ley tocaría de lleno",
-      "volanta": "JUEGO ONLINE",
-      "date": "2026-11-15T17:32:59+00:00"
     }
   ]
 }
