@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T22:13:50+00:00",
+  "updated": "2026-11-16T22:14:27+00:00",
   "posts": [
+    {
+      "id": "cfffac01",
+      "image": "img/cfffac01.png",
+      "image_sha": "78b995fdf7fd4443b3be102690be4ee0e39f6b71",
+      "url": "https://www.radiodos.com.ar/217205-corrientes-supero-los-37-c-de-sensacion-termica-y-rige-un-alerta-por-tormentas-para-este-martes",
+      "title": "Corrientes superó los 37°C de sensación térmica y rige un alerta por tormentas para este martes",
+      "volanta": "TIEMPO",
+      "date": "2026-11-16T22:14:27+00:00"
+    },
     {
       "id": "f3b6357c",
       "image": "img/f3b6357c.png",
@@ -531,15 +540,6 @@
       "title": "Qué declaró Mauro Icardi tras el escándalo por la denuncia de Wanda Nara: la palabra de su abogado",
       "volanta": "VIOLENCIA FAMILIAR",
       "date": "2026-11-13T14:11:44+00:00"
-    },
-    {
-      "id": "a4cede4d",
-      "image": "img/a4cede4d.png",
-      "image_sha": "ecbddfc719649bc9c2bfd6b119ad495232e7dcc4",
-      "url": "https://www.radiodos.com.ar/217060-sin-messi-antonela-roccuzzo-viajo-a-peru-al-mismo-tiempo-que-el-papa-leon-xiv-a-que-fue",
-      "title": "Sin Messi, Antonela Roccuzzo viajó a Perú al mismo tiempo que el papa León XIV: ¿a qué fue?",
-      "volanta": "SORPRESA",
-      "date": "2026-11-13T13:50:27+00:00"
     }
   ]
 }
