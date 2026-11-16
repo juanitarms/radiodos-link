@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T22:13:16+00:00",
+  "updated": "2026-11-16T22:13:50+00:00",
   "posts": [
+    {
+      "id": "f3b6357c",
+      "image": "img/f3b6357c.png",
+      "image_sha": "10a8e6d257e4404f6df0686a05600bedf51701c8",
+      "url": "https://www.radiodos.com.ar/217206-la-libertad-avanza-busca-fortalecer-su-estructura-en-el-interior-correntino",
+      "title": "La Libertad Avanza busca fortalecer su estructura en el interior correntino",
+      "volanta": "de cara al 2027",
+      "date": "2026-11-16T22:13:50+00:00"
+    },
     {
       "id": "b1602e0f",
       "image": "img/b1602e0f.png",
@@ -531,15 +540,6 @@
       "title": "Sin Messi, Antonela Roccuzzo viajó a Perú al mismo tiempo que el papa León XIV: ¿a qué fue?",
       "volanta": "SORPRESA",
       "date": "2026-11-13T13:50:27+00:00"
-    },
-    {
-      "id": "5e221660",
-      "image": "img/5e221660.png",
-      "image_sha": "72394e8f8ed36155b2a41b6c8b621f057c86829d",
-      "url": "https://www.radiodos.com.ar/217054-se-viene-la-noche-de-las-heladerias-con-2x1-en-helados",
-      "title": "Se viene La Noche de las Heladerías con 2x1 en helados",
-      "volanta": "OPORTUNIDAD",
-      "date": "2026-11-13T13:31:58+00:00"
     }
   ]
 }
