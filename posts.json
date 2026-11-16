@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T14:13:41+00:00",
+  "updated": "2026-11-16T14:24:58+00:00",
   "posts": [
+    {
+      "id": "926aa95c",
+      "image": "img/926aa95c.png",
+      "image_sha": "30a3ecfd7b3f9ce1a3957cd7cadf7e6f699b5897",
+      "url": "https://www.radiodos.com.ar/217184-el-ministerio-de-salud-publica-recomienda-medidas-de-prevencion-ante-ofidios",
+      "title": "El Ministerio de Salud Pública recomienda medidas de prevención ante ofidios",
+      "volanta": "APARICIÓN POR LA CRECIDA",
+      "date": "2026-11-16T14:24:58+00:00"
+    },
     {
       "id": "993f2b42",
       "image": "img/993f2b42.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni renovó con la Selección Argentina y apunta al Mundial 2030",
       "volanta": "FÚTBOL",
       "date": "2026-11-12T20:57:24+00:00"
-    },
-    {
-      "id": "f9531bd6",
-      "image": "img/f9531bd6.png",
-      "image_sha": "efb564f37cfef2015dffb842219f4aa498c5caaf",
-      "url": "https://www.radiodos.com.ar/217018-karina-milei-visito-el-comando-operativo-de-emergencias-de-corrientes-junto-a-valdes",
-      "title": "Karina Milei visitó el Comando Operativo de Emergencias de Corrientes junto a Valdés",
-      "volanta": "FENOMENO DE EL NIÑO",
-      "date": "2026-11-12T20:55:00+00:00"
     }
   ]
 }
