@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T16:25:52+00:00",
+  "updated": "2026-11-16T17:16:56+00:00",
   "posts": [
+    {
+      "id": "c050fc39",
+      "image": "img/c050fc39.png",
+      "image_sha": "49e3c3e07e2cc2cdd6d930f27d8174c5a2de95ea",
+      "url": "https://www.radiodos.com.ar/217191-curuzu-cuatia-celebro-sus-216-anos-con-un-multitudinario-acto-encabezado-por-valdes",
+      "title": "Curuzú Cuatiá celebró sus 216 años con un multitudinario acto encabezado por Valdés",
+      "volanta": "PLAZA BELGRANO",
+      "date": "2026-11-16T17:16:56+00:00"
+    },
     {
       "id": "a7d0e443",
       "image": "img/a7d0e443.png",
@@ -531,15 +540,6 @@
       "title": "El Hospital Geriátrico de Corrientes realizará controles oftalmológicos para la detección de retinopatía diabética",
       "volanta": "PREVENCIÓN",
       "date": "2026-11-12T22:46:06+00:00"
-    },
-    {
-      "id": "60456790",
-      "image": "img/60456790.png",
-      "image_sha": "e905fccc82782b23d953a0d09311d5925205e61d",
-      "url": "https://www.radiodos.com.ar/217025-corrientes-el-anuncio-salarial-sera-este-viernes-a-las-9-de-la-manana",
-      "title": "Corrientes: el anuncio salarial será éste viernes a las 9 de la mañana",
-      "volanta": "CONFIRMADO",
-      "date": "2026-11-12T22:06:13+00:00"
     }
   ]
 }
