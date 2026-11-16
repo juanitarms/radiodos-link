@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T14:24:58+00:00",
+  "updated": "2026-11-16T14:42:42+00:00",
   "posts": [
+    {
+      "id": "f287d71f",
+      "image": "img/f287d71f.png",
+      "image_sha": "cb87a21e61956905b1cdac43ef902e33e7c0e7c3",
+      "url": "https://www.radiodos.com.ar/217150-comienzan-hoy-las-inscripciones-para-el-ciclo-lectivo-2027-en-la-unne",
+      "title": "Comienzan hoy las inscripciones para el ciclo lectivo 2027 en la UNNE",
+      "volanta": "Universidad",
+      "date": "2026-11-16T14:42:42+00:00"
+    },
     {
       "id": "926aa95c",
       "image": "img/926aa95c.png",
@@ -531,15 +540,6 @@
       "title": "La inflación en octubre fue de 2,2% y acumuló 33,1% en los últimos doce meses",
       "volanta": "INDEC",
       "date": "2026-11-12T20:58:41+00:00"
-    },
-    {
-      "id": "420946ca",
-      "image": "img/420946ca.png",
-      "image_sha": "e4d482a6340644edf81c6add9fc5f1ce1c6b5f4c",
-      "url": "https://www.radiodos.com.ar/217017-scaloni-renovo-con-la-seleccion-argentina-y-apunta-al-mundial-2030",
-      "title": "Scaloni renovó con la Selección Argentina y apunta al Mundial 2030",
-      "volanta": "FÚTBOL",
-      "date": "2026-11-12T20:57:24+00:00"
     }
   ]
 }
