@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T13:19:51+00:00",
+  "updated": "2026-11-16T13:54:43+00:00",
   "posts": [
+    {
+      "id": "ee0d58fb",
+      "image": "img/ee0d58fb.png",
+      "image_sha": "8a3646380dfd9fa00b75557afe69ea6fae07dd78",
+      "url": "https://www.radiodos.com.ar/217178-explota-el-wandagate-ahora-hablo-la-mujer-de-maxi-lopez-que-dijo",
+      "title": "Explota el Wandagate, ahora habló la mujer de Maxi López: ¿qué dijo?",
+      "volanta": "Buena onda",
+      "date": "2026-11-16T13:54:43+00:00"
+    },
     {
       "id": "10014f61",
       "image": "img/10014f61.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: un testigo de la Policía Federal indicó que pudo ser un accidente",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-11-12T18:08:01+00:00"
-    },
-    {
-      "id": "b41a99e1",
-      "image": "img/b41a99e1.png",
-      "image_sha": "44ad0f259c9281dc0b3132a2bd7dd2dacec6839a",
-      "url": "https://www.radiodos.com.ar/217010-caso-augusto-estigarribia-15-anos-de-prision-para-gonzalo-martinez",
-      "title": "Caso Augusto Estigarribia: 15 años de prisión para Gonzalo Martínez",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-12T18:07:22+00:00"
     }
   ]
 }
