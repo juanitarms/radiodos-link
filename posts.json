@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:21:33+00:00",
+  "updated": "2026-11-16T21:22:07+00:00",
   "posts": [
+    {
+      "id": "ab5fdced",
+      "image": "img/ab5fdced.png",
+      "image_sha": "2ac7cfb662e3725f99612f52fecf7c7e1efe3d73",
+      "url": "https://www.radiodos.com.ar/217196-scaloni-confirmo-el-regreso-del-dibu-martinez-anticipo-variantes-y-respaldo-el-recambio-juvenil",
+      "title": "Scaloni confirmó el regreso del \"Dibu\" Martínez, anticipó variantes y respaldó el recambio juvenil",
+      "volanta": "Antes de Costa Rica",
+      "date": "2026-11-16T21:22:07+00:00"
+    },
     {
       "id": "47bfa291",
       "image": "img/47bfa291.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores de ATE-ANAC realizan un paro \"a la japonesa\" en Aeroparque y Ezeiza: en qué consiste",
       "volanta": "NOVEDAD",
       "date": "2026-11-13T12:50:32+00:00"
-    },
-    {
-      "id": "6a42acc2",
-      "image": "img/6a42acc2.png",
-      "image_sha": "84f2c19dd2e53af8f19feda40e969e8ade47f765",
-      "url": "https://www.radiodos.com.ar/217041-ioscor-abrio-nuevos-servicios-en-su-policlinico-tendra-24-consultorios-120-medicos-y-3-quirofanos",
-      "title": "IOSCOR abrió nuevos servicios en su policlínico: tendrá 24 consultorios, 120 médicos y 3 quirófanos",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-13T12:05:28+00:00"
     }
   ]
 }
