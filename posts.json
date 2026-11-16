@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T17:18:04+00:00",
+  "updated": "2026-11-16T19:51:41+00:00",
   "posts": [
+    {
+      "id": "31505832",
+      "image": "img/31505832.png",
+      "image_sha": "01fceea9ba119e49c946c72d91468db48aca59a6",
+      "url": "https://www.radiodos.com.ar/217193-la-logia-irupe-se-encamina-hacia-la-edicion-50-de-mujeres-constructoras",
+      "title": "La Logia Irupé se encamina hacia la edición 50 de \"Mujeres Constructoras\"",
+      "volanta": "Reconocimientos 2026",
+      "date": "2026-11-16T19:51:41+00:00"
+    },
     {
       "id": "06c051ed",
       "image": "img/06c051ed.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina: Leandro Paredes se recuperó de los calambres y será titular ante Banfield",
       "volanta": "También volvió a entrenar Enner Valencia",
       "date": "2026-11-12T23:23:50+00:00"
-    },
-    {
-      "id": "b2cdb672",
-      "image": "img/b2cdb672.png",
-      "image_sha": "3074c2d3ab9537903ea98aacb972fb2c87400921",
-      "url": "https://www.radiodos.com.ar/217031-bullrich-pondero-a-la-ley-de-discapacidad-y-volvio-a-mandar-un-mensaje-interno",
-      "title": "Bullrich ponderó a la Ley de Discapacidad y volvió a mandar un mensaje interno",
-      "volanta": "CRISIS EN EL OFICIALISMO",
-      "date": "2026-11-12T23:23:10+00:00"
     }
   ]
 }
