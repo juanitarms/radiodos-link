@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T10:34:08+00:00",
+  "updated": "2026-11-13T11:02:03+00:00",
   "posts": [
+    {
+      "id": "b0268aa6",
+      "image": "img/b0268aa6.png",
+      "image_sha": "7aaa744268ec3436d7b0fb1ccd9b4742a7c88388",
+      "url": "https://www.radiodos.com.ar/217033-investigan-una-llamada-previa-del-empresario-al-que-le-robaron-mas-de-50-m-de-pesos-en-el-interior-de-corrientes",
+      "title": "Investigan una llamada previa del empresario al que le robaron más de 50 M de pesos en el interior de Corrientes",
+      "volanta": "BELLA VISTA",
+      "date": "2026-11-13T11:02:03+00:00"
+    },
     {
       "id": "a21c144e",
       "image": "img/a21c144e.png",
@@ -531,15 +540,6 @@
       "title": "JP Valdés inauguró un mega aserradero en Santo Tomé que proyecta generar más de 700 puestos de trabajo",
       "volanta": "INVERSIÓN PRIVADA",
       "date": "2026-11-13T11:33:35+00:00"
-    },
-    {
-      "id": "b0268aa6",
-      "image": "img/b0268aa6.png",
-      "image_sha": "7aaa744268ec3436d7b0fb1ccd9b4742a7c88388",
-      "url": "https://www.radiodos.com.ar/217033-investigan-una-llamada-previa-del-empresario-al-que-le-robaron-mas-de-50-m-de-pesos-en-el-interior-de-corrientes",
-      "title": "Investigan una llamada previa del empresario al que le robaron más de 50 M de pesos en el interior de Corrientes",
-      "volanta": "BELLA VISTA",
-      "date": "2026-11-13T11:02:03+00:00"
     }
   ]
 }
