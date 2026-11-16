@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T22:46:06+00:00",
+  "updated": "2026-11-12T23:22:11+00:00",
   "posts": [
+    {
+      "id": "31776615",
+      "image": "img/31776615.png",
+      "image_sha": "ba2f9e83dab24c8064e5886b1e5fa3ca63db3332",
+      "url": "https://www.radiodos.com.ar/217024-renovacion-historica-habra-scaloneta-hasta-el-mundial-2030",
+      "title": "Renovación histórica: Habrá Scaloneta hasta el Mundial 2030",
+      "volanta": "Lo confirmó juanto a Chiqui Tapia",
+      "date": "2026-11-12T23:22:11+00:00"
+    },
     {
       "id": "40954935",
       "image": "img/40954935.png",
@@ -531,15 +540,6 @@
       "title": "Bullrich ponderó a la Ley de Discapacidad y volvió a mandar un mensaje interno",
       "volanta": "CRISIS EN EL OFICIALISMO",
       "date": "2026-11-12T23:23:10+00:00"
-    },
-    {
-      "id": "31776615",
-      "image": "img/31776615.png",
-      "image_sha": "ba2f9e83dab24c8064e5886b1e5fa3ca63db3332",
-      "url": "https://www.radiodos.com.ar/217024-renovacion-historica-habra-scaloneta-hasta-el-mundial-2030",
-      "title": "Renovación histórica: Habrá Scaloneta hasta el Mundial 2030",
-      "volanta": "Lo confirmó juanto a Chiqui Tapia",
-      "date": "2026-11-12T23:22:11+00:00"
     }
   ]
 }
