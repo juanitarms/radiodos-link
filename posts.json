@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T16:42:39+00:00",
+  "updated": "2026-11-13T17:28:23+00:00",
   "posts": [
+    {
+      "id": "87050238",
+      "image": "img/87050238.png",
+      "image_sha": "3cbb0185d223708f8fb1f3fcead8be295431711a",
+      "url": "https://www.radiodos.com.ar/217076-este-lunes-16-de-noviembre-abren-las-inscripciones-para-el-ciclo-lectivo-2027-en-la-unne",
+      "title": "Este lunes 16 de noviembre abren las inscripciones para el ciclo lectivo 2027 en la UNNE",
+      "volanta": "TRÁMITE 100% VIRTUAL",
+      "date": "2026-11-13T17:28:23+00:00"
+    },
     {
       "id": "dd3d67b6",
       "image": "img/dd3d67b6.png",
@@ -531,15 +540,6 @@
       "title": "Jujuy: buscan voluntarios para vivir gratis a cambio de colaborar 30 horas a la semana en un hostel",
       "volanta": "GRAN OPORTUNIDAD",
       "date": "2026-11-13T17:29:05+00:00"
-    },
-    {
-      "id": "87050238",
-      "image": "img/87050238.png",
-      "image_sha": "3cbb0185d223708f8fb1f3fcead8be295431711a",
-      "url": "https://www.radiodos.com.ar/217076-este-lunes-16-de-noviembre-abren-las-inscripciones-para-el-ciclo-lectivo-2027-en-la-unne",
-      "title": "Este lunes 16 de noviembre abren las inscripciones para el ciclo lectivo 2027 en la UNNE",
-      "volanta": "TRÁMITE 100% VIRTUAL",
-      "date": "2026-11-13T17:28:23+00:00"
     }
   ]
 }
