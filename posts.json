@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:26:43+00:00",
+  "updated": "2026-11-17T23:28:20+00:00",
   "posts": [
+    {
+      "id": "97d92729",
+      "image": "img/97d92729.png",
+      "image_sha": "7b51f9cd2a14c01564b8414574b20c9378836bd9",
+      "url": "https://www.radiodos.com.ar/217265-gustavo-valdes-se-reunio-con-hernan-lacunza",
+      "title": "Gustavo Valdés se reunió con Hernán Lacunza",
+      "volanta": "ENCUENTRO POLÍTICO",
+      "date": "2026-11-17T23:28:20+00:00"
+    },
     {
       "id": "0573772f",
       "image": "img/0573772f.png",
@@ -531,15 +540,6 @@
       "title": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
       "volanta": "HASTA EL VIERNES",
       "date": "2026-11-16T12:04:43+00:00"
-    },
-    {
-      "id": "2d0442b4",
-      "image": "img/2d0442b4.png",
-      "image_sha": "e6a6088c61e467f03fb8a40c66fe7f70b33d6bd3",
-      "url": "https://www.radiodos.com.ar/217149-empleados-de-la-administracion-publica-provincial-comenzaron-a-cobrar-el-plus-de-refuerzo",
-      "title": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
-      "volanta": "ADMINISTRACIÓN",
-      "date": "2026-11-16T11:59:01+00:00"
     }
   ]
 }
