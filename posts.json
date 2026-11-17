@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:31:25+00:00",
+  "updated": "2026-11-17T23:32:50+00:00",
   "posts": [
+    {
+      "id": "04e3c2fe",
+      "image": "img/04e3c2fe.png",
+      "image_sha": "fef007af5845c51eb58b7a0149f8fc601e050f1b",
+      "url": "https://www.radiodos.com.ar/217268-salarios-municipales-piden-abrir-la-discusion-paritaria-para-recuperar-el-poder-adquisitivo",
+      "title": "Salarios municipales: piden abrir la discusión paritaria para recuperar el poder adquisitivo",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-17T23:32:50+00:00"
+    },
     {
       "id": "950ccaf2",
       "image": "img/950ccaf2.png",
@@ -531,15 +540,6 @@
       "title": "Explota el Wandagate, ahora habló la mujer de Maxi López: ¿qué dijo?",
       "volanta": "Buena onda",
       "date": "2026-11-16T13:54:43+00:00"
-    },
-    {
-      "id": "10014f61",
-      "image": "img/10014f61.png",
-      "image_sha": "c6e3931974f10aaa9d804c2caab983391a8dff83",
-      "url": "https://www.radiodos.com.ar/217168-javier-milei-enfoca-su-agenda-en-reuniones-con-empresarios-mientras-crece-la-interna-con-patricia-bullrich",
-      "title": "Javier Milei enfoca su agenda en reuniones con empresarios, mientras crece la interna con Patricia Bullrich",
-      "volanta": "NUEVA SEMANA",
-      "date": "2026-11-16T13:19:51+00:00"
     }
   ]
 }
