@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T11:36:29+00:00",
+  "updated": "2026-11-17T11:51:25+00:00",
   "posts": [
+    {
+      "id": "5727ddcc",
+      "image": "img/5727ddcc.png",
+      "image_sha": "f6aa54ba5712292dc377b45be8e6f2352d322f79",
+      "url": "https://www.radiodos.com.ar/217216-tecnicar-2026-corrientes-puso-en-marcha-la-5-edicion-del-desafio-de-vehiculos-electricos",
+      "title": "Tecnicar 2026: Corrientes puso en marcha la 5° edición del desafío de vehículos eléctricos",
+      "volanta": "EDUCACIÓN E INNOVACIÓN",
+      "date": "2026-11-17T11:51:25+00:00"
+    },
     {
       "id": "9194e9f0",
       "image": "img/9194e9f0.png",
@@ -531,15 +540,6 @@
       "title": "A partir del lunes 16, Provincia paga el Plus de Refuerzo de noviembre",
       "volanta": "CRONOGRAMA",
       "date": "2026-11-13T16:42:08+00:00"
-    },
-    {
-      "id": "f1870915",
-      "image": "img/f1870915.png",
-      "image_sha": "e4d1180ec63f91b74ce6e88bb92ba51676473192",
-      "url": "https://www.radiodos.com.ar/217074-explosion-e-incendio-tras-una-fuga-de-gas-en-renedios-de-escalada-deja-un-saldo-de-20-heridos",
-      "title": "Explosión e incendio tras una fuga de gas en Renedios de Escalada deja un saldo de 20 heridos",
-      "volanta": "Parte oficial de Defensa Civil",
-      "date": "2026-11-13T16:41:30+00:00"
     }
   ]
 }
