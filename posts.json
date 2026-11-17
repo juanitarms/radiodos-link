@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T16:40:57+00:00",
+  "updated": "2026-11-17T18:12:54+00:00",
   "posts": [
+    {
+      "id": "95e7e777",
+      "image": "img/95e7e777.png",
+      "image_sha": "080949af7c618fab5a7a8b1dab88fda0be72402d",
+      "url": "https://www.radiodos.com.ar/217243-libres-es-sede-del-inicio-del-programa-mas-cerca-de-la-tecnologia",
+      "title": "Libres es sede del inicio del programa \"Más Cerca de la Tecnología\"",
+      "volanta": "GRAN PARTICIPACIÓN",
+      "date": "2026-11-17T18:12:54+00:00"
+    },
     {
       "id": "bfc675dc",
       "image": "img/bfc675dc.png",
@@ -531,15 +540,6 @@
       "title": "En Argentina solo el 1,15% de la población dona sangre",
       "volanta": "SALUD",
       "date": "2026-11-15T15:04:16+00:00"
-    },
-    {
-      "id": "a45eb15c",
-      "image": "img/a45eb15c.png",
-      "image_sha": "77b5a9a2c8b7fb2d2c6632ee311608b22b36ae0a",
-      "url": "https://www.radiodos.com.ar/217129-milei-ratifico-que-ira-por-la-reeleccion-en-el-2027",
-      "title": "Milei ratificó que irá por la reelección en el 2027",
-      "volanta": "POLÍTICA",
-      "date": "2026-11-15T14:03:35+00:00"
     }
   ]
 }
