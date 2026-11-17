@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T13:53:59+00:00",
+  "updated": "2026-11-17T14:09:19+00:00",
   "posts": [
+    {
+      "id": "679ad60b",
+      "image": "img/679ad60b.png",
+      "image_sha": "d14192d4a7e3666c4e7d003068175b81f206f46d",
+      "url": "https://www.radiodos.com.ar/217237-veda-extendida-15-anos-una-propuesta-desde-la-ciencia-que-optimizo-el-cuidado-del-recurso-ictico",
+      "title": "Veda extendida: 15 años  una propuesta desde la ciencia que optimizó el cuidado del recurso íctico",
+      "volanta": "INVESTIGACIÓN UNNE",
+      "date": "2026-11-17T14:09:19+00:00"
+    },
     {
       "id": "1c9e0ece",
       "image": "img/1c9e0ece.png",
@@ -531,15 +540,6 @@
       "title": "El gobernador Valdés inauguró obras deportivas, una planta de faena y enripiado en Colonia Liebig",
       "volanta": "AGENDA OFICIAL",
       "date": "2026-11-13T22:58:43+00:00"
-    },
-    {
-      "id": "9afe1d3c",
-      "image": "img/9afe1d3c.png",
-      "image_sha": "6367ba6d1b8bc5429d78a330e5644fba49d6ff87",
-      "url": "https://www.radiodos.com.ar/217081-argentina-compartira-grupo-con-brasil-en-el-mundial-de-talla-baja",
-      "title": "Argentina compartira grupo con Brasil en el Mundial de Talla Baja",
-      "volanta": "MARRUECOS 2026",
-      "date": "2026-11-13T22:57:39+00:00"
     }
   ]
 }
