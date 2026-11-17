@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T21:04:14+00:00",
+  "updated": "2026-11-17T23:25:00+00:00",
   "posts": [
+    {
+      "id": "689cb66d",
+      "image": "img/689cb66d.png",
+      "image_sha": "d7c8a40c20b55ef535bc6957fde30d9c5a1d4b60",
+      "url": "https://www.radiodos.com.ar/217262-el-grupo-faro-verde-adquiere-94000-hectareas-forestales-en-corrientes-y-misiones",
+      "title": "El grupo Faro Verde adquiere 94.000 hectáreas forestales en Corrientes y Misiones",
+      "volanta": "Operación millonaria en el NEA",
+      "date": "2026-11-17T23:25:00+00:00"
+    },
     {
       "id": "6c71b77c",
       "image": "img/6c71b77c.png",
@@ -531,15 +540,6 @@
       "title": "TRFA: Huracán de Goya gana y está clasificando a la final",
       "volanta": "Ya jugando el segundo tiempo",
       "date": "2026-11-15T21:55:51+00:00"
-    },
-    {
-      "id": "e28fe2f6",
-      "image": "img/e28fe2f6.png",
-      "image_sha": "02293a2e2fe274e76d10757a6a0e13337b1b3748",
-      "url": "https://www.radiodos.com.ar/217137-el-coprodis-intensifica-su-labor-con-capacitaciones-entrega-de-insumos-y-asistencia-ante-las-inundaciones",
-      "title": "El Coprodis intensifica su labor con capacitaciones, entrega de insumos y asistencia ante las inundaciones",
-      "volanta": "DISCAPACIDAD",
-      "date": "2026-11-15T21:15:44+00:00"
     }
   ]
 }
