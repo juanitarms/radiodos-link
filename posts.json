@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:25:00+00:00",
+  "updated": "2026-11-17T23:25:41+00:00",
   "posts": [
+    {
+      "id": "fbfe5216",
+      "image": "img/fbfe5216.png",
+      "image_sha": "dff0799b9cccea5e31de21e7d2f4db3326803a30",
+      "url": "https://www.radiodos.com.ar/217261-corrientes-allanaron-dos-predios-rurales-y-asistieron-a-once-presuntas-victimas-de-explotacion-laboral",
+      "title": "Corrientes:  allanaron dos predios rurales y asistieron a once presuntas víctimas de explotación laboral",
+      "volanta": "TRAS DENUNCIAS ANONIMAS",
+      "date": "2026-11-17T23:25:41+00:00"
+    },
     {
       "id": "689cb66d",
       "image": "img/689cb66d.png",
@@ -531,15 +540,6 @@
       "title": "\"Sentí que me olvidaba de todo el resto\": La historia de la correntina que conmovió al Papa León XIV",
       "volanta": "Nota exclusiva",
       "date": "2026-11-16T10:44:18+00:00"
-    },
-    {
-      "id": "d680f4f5",
-      "image": "img/d680f4f5.png",
-      "image_sha": "7beb597ed7e404fa9f427ed905a345004e0c5d94",
-      "url": "https://www.radiodos.com.ar/217140-trfa-huracan-de-goya-gana-y-esta-clasificando-a-la-final",
-      "title": "TRFA: Huracán de Goya gana y está clasificando a la final",
-      "volanta": "Ya jugando el segundo tiempo",
-      "date": "2026-11-15T21:55:51+00:00"
     }
   ]
 }
