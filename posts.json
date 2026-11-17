@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T20:51:13+00:00",
+  "updated": "2026-11-17T21:03:16+00:00",
   "posts": [
+    {
+      "id": "94bcb29e",
+      "image": "img/94bcb29e.png",
+      "image_sha": "283488ddd192e4b04bdc204a0fd93c6abbc05e1f",
+      "url": "https://www.radiodos.com.ar/217259-separaron-preventivamente-de-la-fuerza-al-efectivo-de-la-policia-de-corrientes-que-atropello-y-abandono-a-una-mujer",
+      "title": "Separaron preventivamente de la fuerza al efectivo de la Policía de Corrientes que atropelló y abandonó a una mujer",
+      "volanta": "OCURRIÓ EN EL BARRIO NUEVO",
+      "date": "2026-11-17T21:03:16+00:00"
+    },
     {
       "id": "6c4c1923",
       "image": "img/6c4c1923.png",
@@ -531,15 +540,6 @@
       "title": "Virasoro: De La Cruz cierra su primer año con obras por más de 2.000 millones de pesos",
       "volanta": "Desarrollo",
       "date": "2026-11-15T21:15:07+00:00"
-    },
-    {
-      "id": "acf60d72",
-      "image": "img/acf60d72.png",
-      "image_sha": "0d6e6fbd1903e2b0d1d7741a6e49f40a91b2fc6a",
-      "url": "https://www.radiodos.com.ar/217132-motociclista-sufrio-heridas-graves-tras-chocar-contra-una-camioneta",
-      "title": "Motociclista sufrió heridas graves tras chocar contra una camioneta",
-      "volanta": "Lavalle",
-      "date": "2026-11-15T19:24:02+00:00"
     }
   ]
 }
