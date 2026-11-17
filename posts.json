@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T21:03:16+00:00",
+  "updated": "2026-11-17T21:04:14+00:00",
   "posts": [
+    {
+      "id": "6c71b77c",
+      "image": "img/6c71b77c.png",
+      "image_sha": "24016b8bf97df06a934178560571b8b49b64ed3b",
+      "url": "https://www.radiodos.com.ar/217258-voy-a-ser-reelecto-javier-milei-volvio-a-pronosticar-que-tendra-un-segundo-mandato",
+      "title": "\"Voy a ser reelecto\": Javier Milei volvió a pronosticar que tendrá un segundo mandato",
+      "volanta": "COMICIOS 2027",
+      "date": "2026-11-17T21:04:14+00:00"
+    },
     {
       "id": "94bcb29e",
       "image": "img/94bcb29e.png",
@@ -531,15 +540,6 @@
       "title": "El Coprodis intensifica su labor con capacitaciones, entrega de insumos y asistencia ante las inundaciones",
       "volanta": "DISCAPACIDAD",
       "date": "2026-11-15T21:15:44+00:00"
-    },
-    {
-      "id": "29c758e4",
-      "image": "img/29c758e4.png",
-      "image_sha": "bf7ffca83040beb8ba737e77d2cb5d22d6e21799",
-      "url": "https://www.radiodos.com.ar/217138-virasoro-de-la-cruz-cierra-su-primer-ano-con-obras-por-mas-de-2000-millones-de-pesos",
-      "title": "Virasoro: De La Cruz cierra su primer año con obras por más de 2.000 millones de pesos",
-      "volanta": "Desarrollo",
-      "date": "2026-11-15T21:15:07+00:00"
     }
   ]
 }
