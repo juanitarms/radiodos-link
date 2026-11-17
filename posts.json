@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T15:12:16+00:00",
+  "updated": "2026-11-17T16:39:05+00:00",
   "posts": [
+    {
+      "id": "3df05c73",
+      "image": "img/3df05c73.png",
+      "image_sha": "42bf65c661da14cd416fb4c641aabac67efcd39d",
+      "url": "https://www.radiodos.com.ar/217248-javier-milei-aseguro-que-discutio-con-victoria-villarruel-por-su-presunto-rechazo-al-protocolo-antipiquetes",
+      "title": "Javier Milei aseguró que discutió con Victoria Villarruel por su presunto rechazo al protocolo antipiquetes",
+      "volanta": "CONFLICTO",
+      "date": "2026-11-17T16:39:05+00:00"
+    },
     {
       "id": "9bba3a4b",
       "image": "img/9bba3a4b.png",
@@ -531,15 +540,6 @@
       "title": "¿Cómo puede Boca clasificar a Platense a la Copa Libertadores 2027",
       "volanta": "Faltan dos clubes",
       "date": "2026-11-14T21:49:20+00:00"
-    },
-    {
-      "id": "8a3095a7",
-      "image": "img/8a3095a7.png",
-      "image_sha": "05bf21bbd7720e32e860d035afaa4ee3e4acd606",
-      "url": "https://www.radiodos.com.ar/217097-fin-de-semana-en-la-ciudad-de-corrientes-con-mercado-de-pulgas-super-seven-ferias-pena-y-mucho-mas",
-      "title": "Fin de semana en la ciudad de Corrientes con Mercado de Pulgas, Súper Seven, ferias, Peña y mucho más",
-      "volanta": "AGENDA DE ACTIVIDADES",
-      "date": "2026-11-14T14:58:38+00:00"
     }
   ]
 }
