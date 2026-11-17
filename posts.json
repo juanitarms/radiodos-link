@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:25:41+00:00",
+  "updated": "2026-11-17T23:26:43+00:00",
   "posts": [
+    {
+      "id": "0573772f",
+      "image": "img/0573772f.png",
+      "image_sha": "63c65f11c52248729c345217a3ae104265ca736c",
+      "url": "https://www.radiodos.com.ar/217263-caso-loan-citaron-a-declarar-a-la-duena-del-campo-donde-se-hallo-el-botin",
+      "title": "Caso Loan: citaron a declarar a la dueña del campo donde se halló el botín",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-17T23:26:43+00:00"
+    },
     {
       "id": "fbfe5216",
       "image": "img/fbfe5216.png",
@@ -531,15 +540,6 @@
       "title": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
       "volanta": "ADMINISTRACIÓN",
       "date": "2026-11-16T11:59:01+00:00"
-    },
-    {
-      "id": "563315bb",
-      "image": "img/563315bb.png",
-      "image_sha": "13a06194802e285e9df6defc7e977ac52172b49a",
-      "url": "https://www.radiodos.com.ar/217139-senti-que-me-olvidaba-de-todo-el-resto-la-historia-de-la-correntina-que-conmovio-al-papa-leon-xiv",
-      "title": "\"Sentí que me olvidaba de todo el resto\": La historia de la correntina que conmovió al Papa León XIV",
-      "volanta": "Nota exclusiva",
-      "date": "2026-11-16T10:44:18+00:00"
     }
   ]
 }
