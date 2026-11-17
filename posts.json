@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T13:17:33+00:00",
+  "updated": "2026-11-17T13:31:31+00:00",
   "posts": [
+    {
+      "id": "5c1625e5",
+      "image": "img/5c1625e5.png",
+      "image_sha": "ce4a81e2a96d638b5b62529170e33349371b6e1d",
+      "url": "https://www.radiodos.com.ar/217235-quien-es-agata-lescano-la-nueva-novia-de-marcelo-tinelli-campeona-de-bikini-fitness-entrenadora-y-apasionada-por-la-musica",
+      "title": "Quién es Ágata Lescano, la nueva novia de Marcelo Tinelli: campeona de bikini fitness, entrenadora y apasionada por la música",
+      "volanta": "OFICIAL",
+      "date": "2026-11-17T13:31:31+00:00"
+    },
     {
       "id": "cf59af11",
       "image": "img/cf59af11.png",
@@ -531,15 +540,6 @@
       "title": "El Municipio proyecta recuperar los espacios públicos del histórico Laguna Seca",
       "volanta": "OBRAS",
       "date": "2026-11-13T18:14:51+00:00"
-    },
-    {
-      "id": "46285c42",
-      "image": "img/46285c42.png",
-      "image_sha": "4fbf996444733ac6646a9cf1f7a23376638e99ed",
-      "url": "https://www.radiodos.com.ar/217069-el-gobierno-de-la-provincia-establecio-una-veda-extraordinaria",
-      "title": "El gobierno de la provincia estableció una veda extraordinaria",
-      "volanta": "QUEDANDO PROHIBIDA TODA MODALIDAD DE PESCA",
-      "date": "2026-11-13T18:14:11+00:00"
     }
   ]
 }
