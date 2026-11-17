@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:29:20+00:00",
+  "updated": "2026-11-17T23:31:25+00:00",
   "posts": [
+    {
+      "id": "950ccaf2",
+      "image": "img/950ccaf2.png",
+      "image_sha": "01ac8a6871106feb1f011ccbe83661f927c8b7e4",
+      "url": "https://www.radiodos.com.ar/217266-el-92-de-los-jovenes-argentinos-busca-trabajo-pero-menos-de-la-mitad-posee-uno",
+      "title": "El 92% de los jóvenes argentinos busca trabajo, pero menos de la mitad posee uno",
+      "volanta": "CRISIS LABORAL",
+      "date": "2026-11-17T23:31:25+00:00"
+    },
     {
       "id": "50396456",
       "image": "img/50396456.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei enfoca su agenda en reuniones con empresarios, mientras crece la interna con Patricia Bullrich",
       "volanta": "NUEVA SEMANA",
       "date": "2026-11-16T13:19:51+00:00"
-    },
-    {
-      "id": "37391e32",
-      "image": "img/37391e32.png",
-      "image_sha": "7dfaa4b6a9fce13d2c65e9c14690ecdf7a4f591a",
-      "url": "https://www.radiodos.com.ar/217148-el-gobernador-jp-valdes-inauguro-obras-de-infraestructura-en-curuzu-cuatia",
-      "title": "El gobernador JP Valdés inauguró obras de infraestructura en Curuzú Cuatiá",
-      "volanta": "EN SU 216° ANIVERSARIO",
-      "date": "2026-11-16T12:35:37+00:00"
     }
   ]
 }
