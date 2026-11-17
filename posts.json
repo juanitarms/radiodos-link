@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T18:14:09+00:00",
+  "updated": "2026-11-17T20:33:14+00:00",
   "posts": [
+    {
+      "id": "ef27b8e3",
+      "image": "img/ef27b8e3.png",
+      "image_sha": "d710cc623a2571f364caa7d2e14899e61f938801",
+      "url": "https://www.radiodos.com.ar/217255-muerte-de-nanci-trasladaron-a-corrientes-al-principal-sospechoso-del-crimen-para-realizarle-pericias-psicologicas",
+      "title": "Muerte de Nanci: trasladaron a Corrientes al principal sospechoso del crimen para realizarle pericias psicológicas",
+      "volanta": "DURANTE TRES DIAS",
+      "date": "2026-11-17T20:33:14+00:00"
+    },
     {
       "id": "327a25e8",
       "image": "img/327a25e8.png",
@@ -531,15 +540,6 @@
       "title": "Ley de ludopatía: dos años de resistencia en el Senado y los intereses que la ley tocaría de lleno",
       "volanta": "JUEGO ONLINE",
       "date": "2026-11-15T17:32:59+00:00"
-    },
-    {
-      "id": "4ff40b10",
-      "image": "img/4ff40b10.png",
-      "image_sha": "adf2f8b2a4f70f08e7117b35a6cf0d554677b83c",
-      "url": "https://www.radiodos.com.ar/217136-gabur-tenemos-que-empezar-a-pensar-en-producir-para-los-mercados-del-mundo",
-      "title": "Gabur: \"Tenemos que empezar a pensar en producir para los mercados del mundo\"",
-      "volanta": "LO BUENO, LO MALO Y LO FEO",
-      "date": "2026-11-15T17:32:18+00:00"
     }
   ]
 }
