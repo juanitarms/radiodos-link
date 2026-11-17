@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T16:40:19+00:00",
+  "updated": "2026-11-17T16:40:57+00:00",
   "posts": [
+    {
+      "id": "bfc675dc",
+      "image": "img/bfc675dc.png",
+      "image_sha": "7d0c158fcd43b136591cdcbc941351af40db5a1f",
+      "url": "https://www.radiodos.com.ar/217244-vamos-azules-se-reunio-en-curuzu-cuatia-con-agenda-centrada-en-la-cercania-con-los-vecinos",
+      "title": "\"Vamos Azules\" se reunió en Curuzú Cuatiá con agenda  centrada en la cercanía con los vecinos",
+      "volanta": "Este lunes",
+      "date": "2026-11-17T16:40:57+00:00"
+    },
     {
       "id": "7963da65",
       "image": "img/7963da65.png",
@@ -531,15 +540,6 @@
       "title": "Milei ratificó que irá por la reelección en el 2027",
       "volanta": "POLÍTICA",
       "date": "2026-11-15T14:03:35+00:00"
-    },
-    {
-      "id": "2339dbf1",
-      "image": "img/2339dbf1.png",
-      "image_sha": "cde88088ea560a547e600b58200d1f17008ac5ea",
-      "url": "https://www.radiodos.com.ar/217126-multitudinaria-convocatoria-de-jovenes-en-el-congreso-de-la-libertad-avanza-de-corrientes",
-      "title": "Multitudinaria convocatoria de jóvenes en el Congreso de la Libertad Avanza de Corrientes",
-      "volanta": "Cerca de 700 jóvenes",
-      "date": "2026-11-15T12:49:20+00:00"
     }
   ]
 }
