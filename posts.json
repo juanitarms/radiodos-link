@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T16:39:05+00:00",
+  "updated": "2026-11-17T16:39:41+00:00",
   "posts": [
+    {
+      "id": "06f3739b",
+      "image": "img/06f3739b.png",
+      "image_sha": "d249a6afbb35ea5e2c8d9af63f72bb63704f29b8",
+      "url": "https://www.radiodos.com.ar/217247-comunicado-de-la-querella-en-la-causa-ara-san-juan-a-nueve-anos-del-hundimiento-condena-insuficiente",
+      "title": "Comunicado de la querella en la causa ARA San Juan a nueve años del hundimiento: \"Condena insuficiente\"",
+      "volanta": "JUICIO",
+      "date": "2026-11-17T16:39:41+00:00"
+    },
     {
       "id": "3df05c73",
       "image": "img/3df05c73.png",
@@ -531,15 +540,6 @@
       "title": "Ricardo Arjona sorprendió con un show callejero en México: cantó en plena vía pública y se volvió viral",
       "volanta": "SE ANIMÓ",
       "date": "2026-11-14T23:54:34+00:00"
-    },
-    {
-      "id": "ef13790b",
-      "image": "img/ef13790b.png",
-      "image_sha": "ee26726b6b6be6302c8741d8840bd0b2db3e455a",
-      "url": "https://www.radiodos.com.ar/217101-como-puede-boca-clasificar-a-platense-a-la-copa-libertadores-2027",
-      "title": "¿Cómo puede Boca clasificar a Platense a la Copa Libertadores 2027",
-      "volanta": "Faltan dos clubes",
-      "date": "2026-11-14T21:49:20+00:00"
     }
   ]
 }
