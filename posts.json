@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T11:13:25+00:00",
+  "updated": "2026-11-17T11:18:23+00:00",
   "posts": [
+    {
+      "id": "2adc0128",
+      "image": "img/2adc0128.png",
+      "image_sha": "61405b8cad1db14067834918cb1bcd618d7a5ef8",
+      "url": "https://www.radiodos.com.ar/217212-el-papa-leon-xiv-no-es-necesario-usar-un-lenguaje-violento",
+      "title": "El Papa León XIV:  \"No es necesario usar un lenguaje violento\"",
+      "volanta": "CONFERENCIA DE PRENSA EN EL AVIÓN",
+      "date": "2026-11-17T11:18:23+00:00"
+    },
     {
       "id": "cabe71ae",
       "image": "img/cabe71ae.png",
@@ -531,15 +540,6 @@
       "title": "Rugbier molió a palos a un hombre porque creyó que había mirado a su pareja",
       "volanta": "IMÁGENES SENSIBLES",
       "date": "2026-11-13T14:52:41+00:00"
-    },
-    {
-      "id": "5511a178",
-      "image": "img/5511a178.png",
-      "image_sha": "a937f5e7b9c4b28fb321a3a8455314e6b5dffac6",
-      "url": "https://www.radiodos.com.ar/217066-el-gobierno-provincial-y-el-banco-de-corrientes-presentaron-lineas-de-alivio-financiero-para-familias-y-empresas",
-      "title": "El Gobierno provincial y el Banco de Corrientes presentaron líneas de alivio financiero para familias y empresas",
-      "volanta": "ESTA MAÑANA",
-      "date": "2026-11-13T14:43:11+00:00"
     }
   ]
 }
