@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T12:47:03+00:00",
+  "updated": "2026-11-17T13:04:45+00:00",
   "posts": [
+    {
+      "id": "57c1abec",
+      "image": "img/57c1abec.png",
+      "image_sha": "57d4fdbd9349d3169b4d2a8fab9da78dc33ddce3",
+      "url": "https://www.radiodos.com.ar/217230-anses-confirman-un-plus-extraordinario-para-titulares-de-la-auh",
+      "title": "ANSES: confirman un plus extraordinario para titulares de la AUH",
+      "volanta": "BENEFICIO",
+      "date": "2026-11-17T13:04:45+00:00"
+    },
     {
       "id": "ece179d9",
       "image": "img/ece179d9.png",
@@ -531,15 +540,6 @@
       "title": "Detienen a un hombre y a un adolescente por robarse 13 patos",
       "volanta": "Lagos de Palermo",
       "date": "2026-11-13T17:29:42+00:00"
-    },
-    {
-      "id": "9cf62dff",
-      "image": "img/9cf62dff.png",
-      "image_sha": "3ea874752565d50a1fd99aa5c30ff084e5a7448b",
-      "url": "https://www.radiodos.com.ar/217071-jujuy-buscan-voluntarios-para-vivir-gratis-a-cambio-de-colaborar-30-horas-a-la-semana-en-un-hostel",
-      "title": "Jujuy: buscan voluntarios para vivir gratis a cambio de colaborar 30 horas a la semana en un hostel",
-      "volanta": "GRAN OPORTUNIDAD",
-      "date": "2026-11-13T17:29:05+00:00"
     }
   ]
 }
