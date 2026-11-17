@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T13:04:45+00:00",
+  "updated": "2026-11-17T13:17:33+00:00",
   "posts": [
+    {
+      "id": "cf59af11",
+      "image": "img/cf59af11.png",
+      "image_sha": "a5b864cf66440ba5c2844212d32217c30c879548",
+      "url": "https://www.radiodos.com.ar/217231-buscan-a-dos-hermanas-de-12-y-11-anos-desaparecidas-en-cordoba",
+      "title": "Buscan a dos hermanas de 12 y 11 años desaparecidas en Córdoba",
+      "volanta": "URGENTE",
+      "date": "2026-11-17T13:17:33+00:00"
+    },
     {
       "id": "57c1abec",
       "image": "img/57c1abec.png",
@@ -531,15 +540,6 @@
       "title": "El gobierno de la provincia estableció una veda extraordinaria",
       "volanta": "QUEDANDO PROHIBIDA TODA MODALIDAD DE PESCA",
       "date": "2026-11-13T18:14:11+00:00"
-    },
-    {
-      "id": "4699a068",
-      "image": "img/4699a068.png",
-      "image_sha": "3403b8646ac49d673b0bd7c4ea4ef208a5a30e95",
-      "url": "https://www.radiodos.com.ar/217070-detienen-a-un-hombre-y-a-un-adolescente-por-robarse-13-patos",
-      "title": "Detienen a un hombre y a un adolescente por robarse 13 patos",
-      "volanta": "Lagos de Palermo",
-      "date": "2026-11-13T17:29:42+00:00"
     }
   ]
 }
