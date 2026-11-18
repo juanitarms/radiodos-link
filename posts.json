@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T18:56:08+00:00",
+  "updated": "2026-11-18T18:56:44+00:00",
   "posts": [
+    {
+      "id": "6c3eb4e2",
+      "image": "img/6c3eb4e2.png",
+      "image_sha": "b96bc1c31d55d83a4804508bbf04dbd454dd4abb",
+      "url": "https://www.radiodos.com.ar/217322-se-cayo-por-falta-de-quorum-la-sesion-en-diputados-para-debatir-la-ley-malvinas-y-la-reforma-del-banco-central",
+      "title": "Se cayó por falta de quórum la sesión en Diputados para debatir la Ley Malvinas y la Reforma del Banco Central",
+      "volanta": "CONGRESO",
+      "date": "2026-11-18T18:56:44+00:00"
+    },
     {
       "id": "808a1ae7",
       "image": "img/808a1ae7.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: detuvieron a un hombre que se hacía pasar por médico",
       "volanta": "utilizaba documentación falsa",
       "date": "2026-11-16T22:12:43+00:00"
-    },
-    {
-      "id": "ab5fdced",
-      "image": "img/ab5fdced.png",
-      "image_sha": "2ac7cfb662e3725f99612f52fecf7c7e1efe3d73",
-      "url": "https://www.radiodos.com.ar/217196-scaloni-confirmo-el-regreso-del-dibu-martinez-anticipo-variantes-y-respaldo-el-recambio-juvenil",
-      "title": "Scaloni confirmó el regreso del \"Dibu\" Martínez, anticipó variantes y respaldó el recambio juvenil",
-      "volanta": "Antes de Costa Rica",
-      "date": "2026-11-16T21:22:07+00:00"
     }
   ]
 }
