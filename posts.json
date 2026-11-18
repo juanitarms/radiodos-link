@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:24:42+00:00",
+  "updated": "2026-11-18T21:26:03+00:00",
   "posts": [
+    {
+      "id": "08ece2ec",
+      "image": "img/08ece2ec.png",
+      "image_sha": "3d5338c83cf4cc4e90c6e3b0e61a6ac1d37dff65",
+      "url": "https://www.radiodos.com.ar/217330-condenaron-al-estado-a-indemnizar-a-la-familia-de-matias-chirino-por-su-muerte-en-un-bautismo-militar",
+      "title": "Condenaron al Estado a indemnizar a la familia de Matías Chirino por su muerte en un bautismo militar",
+      "volanta": "Fallo judicial",
+      "date": "2026-11-18T21:26:03+00:00"
+    },
     {
       "id": "f97b680c",
       "image": "img/f97b680c.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes superó los 37°C de sensación térmica y rige un alerta por tormentas para este martes",
       "volanta": "TIEMPO",
       "date": "2026-11-16T22:14:27+00:00"
-    },
-    {
-      "id": "f3b6357c",
-      "image": "img/f3b6357c.png",
-      "image_sha": "10a8e6d257e4404f6df0686a05600bedf51701c8",
-      "url": "https://www.radiodos.com.ar/217206-la-libertad-avanza-busca-fortalecer-su-estructura-en-el-interior-correntino",
-      "title": "La Libertad Avanza busca fortalecer su estructura en el interior correntino",
-      "volanta": "de cara al 2027",
-      "date": "2026-11-16T22:13:50+00:00"
     }
   ]
 }
