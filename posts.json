@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:24:05+00:00",
+  "updated": "2026-11-18T21:24:42+00:00",
   "posts": [
+    {
+      "id": "f97b680c",
+      "image": "img/f97b680c.png",
+      "image_sha": "16d57c3e63389a329ef92ab9a27b23171d679fd3",
+      "url": "https://www.radiodos.com.ar/217327-el-hospital-vidal-de-corrientes-incorporo-un-ecografo-de-ultima-generacion",
+      "title": "El Hospital Vidal de Corrientes incorporó un ecógrafo de última generación",
+      "volanta": "TECNOLOGÍA DE PUNTA",
+      "date": "2026-11-18T21:24:42+00:00"
+    },
     {
       "id": "53ae9c58",
       "image": "img/53ae9c58.png",
@@ -531,15 +540,6 @@
       "title": "La Libertad Avanza busca fortalecer su estructura en el interior correntino",
       "volanta": "de cara al 2027",
       "date": "2026-11-16T22:13:50+00:00"
-    },
-    {
-      "id": "b1602e0f",
-      "image": "img/b1602e0f.png",
-      "image_sha": "f707dfd239fcd7d4b5f9abbd984522493c04e14f",
-      "url": "https://www.radiodos.com.ar/217203-tecnicar-2026-con-la-participacion-de-22-escuelas-de-toda-la-provincia-comenzo-en-la-costanera-sur",
-      "title": "Tecnicar 2026: Con la participación de 22 escuelas de toda la provincia, comenzó en la Costanera Sur",
-      "volanta": "EDUCACIÓN",
-      "date": "2026-11-16T22:13:16+00:00"
     }
   ]
 }
