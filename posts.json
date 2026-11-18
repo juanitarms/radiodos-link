@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T14:49:18+00:00",
+  "updated": "2026-11-18T16:28:41+00:00",
   "posts": [
+    {
+      "id": "f07165b6",
+      "image": "img/f07165b6.png",
+      "image_sha": "12d266fab3226e1d6087f20d58cf1b04873903a2",
+      "url": "https://www.radiodos.com.ar/217318-lanzan-el-nande-week-correntino-2026-con-descuentos-promociones-y-3-millones-en-premios",
+      "title": "Lanzan el Ñande Week Correntino 2026 con descuentos, promociones y $3 millones en premios",
+      "volanta": "IMPULSO AL COMERCIO LOCAL",
+      "date": "2026-11-18T16:28:41+00:00"
+    },
     {
       "id": "10b04430",
       "image": "img/10b04430.png",
@@ -531,15 +540,6 @@
       "title": "El correntino Juan José Toledo se subió al podio general en una exigente prueba de 10K en Chajarí",
       "volanta": "Cierra un año altamente positivo",
       "date": "2026-11-16T19:52:54+00:00"
-    },
-    {
-      "id": "91c982a8",
-      "image": "img/91c982a8.png",
-      "image_sha": "a4f39739fa0440c4f618487cac0a49ff9c144e84",
-      "url": "https://www.radiodos.com.ar/217194-jovenes-de-paso-de-los-libres-visitaron-la-legislatura-correntina",
-      "title": "Jóvenes de Paso de los Libres visitaron la Legislatura correntina",
-      "volanta": "NUEVOS VISITANTES",
-      "date": "2026-11-16T19:52:20+00:00"
     }
   ]
 }
