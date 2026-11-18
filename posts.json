@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:59:33+00:00",
+  "updated": "2026-11-18T22:00:11+00:00",
   "posts": [
+    {
+      "id": "3be2d1ec",
+      "image": "img/3be2d1ec.png",
+      "image_sha": "7bab9610b7de5dd22e95707eb105a91193708857",
+      "url": "https://www.radiodos.com.ar/217336-ate-corrientes-convoco-a-un-paro-provincial-para-este-viernes-en-reclamo-de-una-recomposicion-salarial",
+      "title": "ATE Corrientes convocó a un paro provincial para este viernes en reclamo de una recomposición salarial",
+      "volanta": "Medida de fuerza",
+      "date": "2026-11-18T22:00:11+00:00"
+    },
     {
       "id": "d6bf926c",
       "image": "img/d6bf926c.png",
@@ -531,15 +540,6 @@
       "title": "Tecnicar 2026: Corrientes puso en marcha la 5° edición del desafío de vehículos eléctricos",
       "volanta": "EDUCACIÓN E INNOVACIÓN",
       "date": "2026-11-17T11:51:25+00:00"
-    },
-    {
-      "id": "9194e9f0",
-      "image": "img/9194e9f0.png",
-      "image_sha": "69c903bb1ba2db31286d8e2a46fe874c949b15ee",
-      "url": "https://www.radiodos.com.ar/217213-cultivos-bajo-cubierta-pautas-para-enfrentar-periodos-de-lluvias-frecuentes",
-      "title": "Cultivos bajo cubierta: pautas para enfrentar períodos de lluvias frecuentes",
-      "volanta": "INTA CORRIENTES",
-      "date": "2026-11-17T11:36:29+00:00"
     }
   ]
 }
