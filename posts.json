@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T14:35:29+00:00",
+  "updated": "2026-11-18T14:49:18+00:00",
   "posts": [
+    {
+      "id": "10b04430",
+      "image": "img/10b04430.png",
+      "image_sha": "47b9b1f998ac48056a603ab81b22b31706135f12",
+      "url": "https://www.radiodos.com.ar/217306-el-corrientes-promueven-el-dialogo-de-la-salud-mental-en-escuelas",
+      "title": "El Corrientes promueven el diálogo de la salud mental en escuelas",
+      "volanta": "HABLEMOS ENTRE TODOS",
+      "date": "2026-11-18T14:49:18+00:00"
+    },
     {
       "id": "fbc9b0e9",
       "image": "img/fbc9b0e9.png",
@@ -531,15 +540,6 @@
       "title": "Jóvenes de Paso de los Libres visitaron la Legislatura correntina",
       "volanta": "NUEVOS VISITANTES",
       "date": "2026-11-16T19:52:20+00:00"
-    },
-    {
-      "id": "31505832",
-      "image": "img/31505832.png",
-      "image_sha": "01fceea9ba119e49c946c72d91468db48aca59a6",
-      "url": "https://www.radiodos.com.ar/217193-la-logia-irupe-se-encamina-hacia-la-edicion-50-de-mujeres-constructoras",
-      "title": "La Logia Irupé se encamina hacia la edición 50 de \"Mujeres Constructoras\"",
-      "volanta": "Reconocimientos 2026",
-      "date": "2026-11-16T19:51:41+00:00"
     }
   ]
 }
