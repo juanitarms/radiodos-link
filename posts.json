@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:58:35+00:00",
+  "updated": "2026-11-18T21:59:33+00:00",
   "posts": [
+    {
+      "id": "d6bf926c",
+      "image": "img/d6bf926c.png",
+      "image_sha": "19efe6eb4f87276ab4ac9acc489e8438842f0689",
+      "url": "https://www.radiodos.com.ar/217337-itati-el-rio-parana-sigue-en-bajante-y-la-costanera-volvio-a-quedar-libre-de-agua",
+      "title": "Itatí: El río Paraná sigue en bajante y la Costanera volvió a quedar libre de agua",
+      "volanta": "Alivio",
+      "date": "2026-11-18T21:59:33+00:00"
+    },
     {
       "id": "53a3268c",
       "image": "img/53a3268c.png",
@@ -531,15 +540,6 @@
       "title": "Cultivos bajo cubierta: pautas para enfrentar períodos de lluvias frecuentes",
       "volanta": "INTA CORRIENTES",
       "date": "2026-11-17T11:36:29+00:00"
-    },
-    {
-      "id": "9a428a9f",
-      "image": "img/9a428a9f.png",
-      "image_sha": "e08d623590af4d57293c85dd6dc84cb2172e1c22",
-      "url": "https://www.radiodos.com.ar/217200-corrientes-cayo-preso-tras-robarle-costosa-olla-a-su-propia-madre",
-      "title": "Corrientes: cayó preso tras robarle costosa olla a su propia madre",
-      "volanta": "CRIMEN",
-      "date": "2026-11-17T11:30:34+00:00"
     }
   ]
 }
