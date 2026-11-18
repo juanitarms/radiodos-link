@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T22:00:11+00:00",
+  "updated": "2026-11-18T22:33:18+00:00",
   "posts": [
+    {
+      "id": "30fd7cca",
+      "image": "img/30fd7cca.png",
+      "image_sha": "7feb1ba995cfc8b3489a419c10b79ad5fde0f7ba",
+      "url": "https://www.radiodos.com.ar/217340-el-gobierno-consiguio-dictamen-y-la-suspension-de-las-paso-se-tratara-el-jueves-26-en-el-senado",
+      "title": "El Gobierno consiguió dictamen y la suspensión de las PASO se tratará el jueves 26 en el Senado",
+      "volanta": "Reforma electoral",
+      "date": "2026-11-18T22:33:18+00:00"
+    },
     {
       "id": "3be2d1ec",
       "image": "img/3be2d1ec.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a un joven que realizaba maniobras peligrosas a bordo de una moto",
       "volanta": "COMANDO PATRULLA",
       "date": "2026-11-17T12:28:07+00:00"
-    },
-    {
-      "id": "5727ddcc",
-      "image": "img/5727ddcc.png",
-      "image_sha": "f6aa54ba5712292dc377b45be8e6f2352d322f79",
-      "url": "https://www.radiodos.com.ar/217216-tecnicar-2026-corrientes-puso-en-marcha-la-5-edicion-del-desafio-de-vehiculos-electricos",
-      "title": "Tecnicar 2026: Corrientes puso en marcha la 5° edición del desafío de vehículos eléctricos",
-      "volanta": "EDUCACIÓN E INNOVACIÓN",
-      "date": "2026-11-17T11:51:25+00:00"
     }
   ]
 }
