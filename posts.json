@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T11:21:40+00:00",
+  "updated": "2026-11-18T12:04:00+00:00",
   "posts": [
+    {
+      "id": "f06e1164",
+      "image": "img/f06e1164.png",
+      "image_sha": "6ac29b597cbe6747ab5b423d64dcfe46a9483dda",
+      "url": "https://www.radiodos.com.ar/217283-tras-la-eliminacion-levantaron-la-suspension-del-estadio-y-la-multa-economica-para-boca-unidos",
+      "title": "Tras la eliminación, levantaron la suspensión del estadio y la multa económica para Boca Unidos",
+      "volanta": "FEDERAL A",
+      "date": "2026-11-18T12:04:00+00:00"
+    },
     {
       "id": "ec53b15a",
       "image": "img/ec53b15a.png",
@@ -531,15 +540,6 @@
       "title": "Martín Cirio habló sobre su candidatura a diputado nacional: \"Era bait\"",
       "volanta": "ACLARADO",
       "date": "2026-11-16T14:53:03+00:00"
-    },
-    {
-      "id": "f287d71f",
-      "image": "img/f287d71f.png",
-      "image_sha": "cb87a21e61956905b1cdac43ef902e33e7c0e7c3",
-      "url": "https://www.radiodos.com.ar/217150-comienzan-hoy-las-inscripciones-para-el-ciclo-lectivo-2027-en-la-unne",
-      "title": "Comienzan hoy las inscripciones para el ciclo lectivo 2027 en la UNNE",
-      "volanta": "Universidad",
-      "date": "2026-11-16T14:42:42+00:00"
     }
   ]
 }
