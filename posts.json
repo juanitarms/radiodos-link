@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T18:56:44+00:00",
+  "updated": "2026-11-18T21:24:05+00:00",
   "posts": [
+    {
+      "id": "53ae9c58",
+      "image": "img/53ae9c58.png",
+      "image_sha": "69d54fd6305b8ebb68cc34f19e3f9f029a30ac46",
+      "url": "https://www.radiodos.com.ar/217326-es-ley-la-declaracion-de-emergencia-climatica-e-hidrica-en-corrientes",
+      "title": "Es ley la Declaración de Emergencia Climática e Hídrica en Corrientes",
+      "volanta": "Sesión 19",
+      "date": "2026-11-18T21:24:05+00:00"
+    },
     {
       "id": "6c3eb4e2",
       "image": "img/6c3eb4e2.png",
@@ -531,15 +540,6 @@
       "title": "Tecnicar 2026: Con la participación de 22 escuelas de toda la provincia, comenzó en la Costanera Sur",
       "volanta": "EDUCACIÓN",
       "date": "2026-11-16T22:13:16+00:00"
-    },
-    {
-      "id": "96684d88",
-      "image": "img/96684d88.png",
-      "image_sha": "e25d93ce1811d709a9d6ba716c183160bd396841",
-      "url": "https://www.radiodos.com.ar/217202-corrientes-detuvieron-a-un-hombre-que-se-hacia-pasar-por-medico",
-      "title": "Corrientes: detuvieron a un hombre que se hacía pasar por médico",
-      "volanta": "utilizaba documentación falsa",
-      "date": "2026-11-16T22:12:43+00:00"
     }
   ]
 }
