@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T14:15:20+00:00",
+  "updated": "2026-11-18T14:35:29+00:00",
   "posts": [
+    {
+      "id": "fbc9b0e9",
+      "image": "img/fbc9b0e9.png",
+      "image_sha": "7fcd7ad4314b05104cdbbda89cfc09a881bba5b5",
+      "url": "https://www.radiodos.com.ar/217305-desgarrador-testimonio-de-la-mama-de-la-adolescente-que-murio-tras-asistir-a-una-fiesta-en-mendoza",
+      "title": "Desgarrador testimonio de la mamá de la adolescente que murió tras asistir a una fiesta en Mendoza",
+      "volanta": "INVESTIGACIÓN",
+      "date": "2026-11-18T14:35:29+00:00"
+    },
     {
       "id": "9e4cd7d3",
       "image": "img/9e4cd7d3.png",
@@ -531,15 +540,6 @@
       "title": "La Logia Irupé se encamina hacia la edición 50 de \"Mujeres Constructoras\"",
       "volanta": "Reconocimientos 2026",
       "date": "2026-11-16T19:51:41+00:00"
-    },
-    {
-      "id": "06c051ed",
-      "image": "img/06c051ed.png",
-      "image_sha": "009d0fb09d04c41f0842544617a86a6526ca6840",
-      "url": "https://www.radiodos.com.ar/217192-con-una-segunda-edicion-multitudinaria-el-mercado-de-pulgas-se-consolido-en-la-agenda-de-la-ciudad",
-      "title": "Con una segunda edición multitudinaria el Mercado de Pulgas se consolidó en la agenda de la ciudad",
-      "volanta": "EXITOSA PARTICIPACIÓN",
-      "date": "2026-11-16T17:18:04+00:00"
     }
   ]
 }
