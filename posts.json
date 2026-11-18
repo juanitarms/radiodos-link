@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T16:30:09+00:00",
+  "updated": "2026-11-18T18:04:55+00:00",
   "posts": [
+    {
+      "id": "275d92f3",
+      "image": "img/275d92f3.png",
+      "image_sha": "6ff466c22bd1f8945eea7a3b9a59735175370db2",
+      "url": "https://www.radiodos.com.ar/217321-caso-loan-realizaran-un-careo-entre-caillava-y-un-efectivo-de-la-policia-federal",
+      "title": "Caso Loan: Realizarán un careo entre Caillava y un efectivo de la Policía Federal",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-11-18T18:04:55+00:00"
+    },
     {
       "id": "89aecfb7",
       "image": "img/89aecfb7.png",
@@ -531,15 +540,6 @@
       "title": "La UCA estimó que la pobreza llegó al 42,4% en el segundo trimestre de 2026",
       "volanta": "INFORME",
       "date": "2026-11-16T21:19:36+00:00"
-    },
-    {
-      "id": "de870eca",
-      "image": "img/de870eca.png",
-      "image_sha": "7312774bd86088af953825da9c2afb739d167864",
-      "url": "https://www.radiodos.com.ar/217201-dictaron-prision-preventiva-para-un-hombre-que-abuso-de-su-hijastra-de-11-anos",
-      "title": "Dictaron prisión preventiva para un hombre que abusó de su hijastra de 11 años",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-16T21:19:04+00:00"
     }
   ]
 }
