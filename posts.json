@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T13:54:55+00:00",
+  "updated": "2026-11-18T14:08:40+00:00",
   "posts": [
+    {
+      "id": "c62dfb8b",
+      "image": "img/c62dfb8b.png",
+      "image_sha": "158fe4db89b9623dc22cf9b0f175adb0d82b9f47",
+      "url": "https://www.radiodos.com.ar/217303-relevamiento-municipal-de-alarma-vecinal-en-barrios-de-paso-de-los-libres",
+      "title": "Relevamiento municipal de alarma vecinal en barrios de Paso de los Libres",
+      "volanta": "Monte Verde",
+      "date": "2026-11-18T14:08:40+00:00"
+    },
     {
       "id": "67d0ec3c",
       "image": "img/67d0ec3c.png",
@@ -531,15 +540,6 @@
       "title": "En tres allanamientos secuestran ocho animales vacunos que presentaban irregularidades",
       "volanta": "ALVEAR",
       "date": "2026-11-16T17:17:30+00:00"
-    },
-    {
-      "id": "c050fc39",
-      "image": "img/c050fc39.png",
-      "image_sha": "49e3c3e07e2cc2cdd6d930f27d8174c5a2de95ea",
-      "url": "https://www.radiodos.com.ar/217191-curuzu-cuatia-celebro-sus-216-anos-con-un-multitudinario-acto-encabezado-por-valdes",
-      "title": "Curuzú Cuatiá celebró sus 216 años con un multitudinario acto encabezado por Valdés",
-      "volanta": "PLAZA BELGRANO",
-      "date": "2026-11-16T17:16:56+00:00"
     }
   ]
 }
