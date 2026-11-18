@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T12:53:51+00:00",
+  "updated": "2026-11-18T13:13:32+00:00",
   "posts": [
+    {
+      "id": "000ffaf1",
+      "image": "img/000ffaf1.png",
+      "image_sha": "a9dc9c2a8ca0b4882d04e4e124abab3c3da3b584",
+      "url": "https://www.radiodos.com.ar/217299-la-armada-argentina-invertira-mas-de-us620-mil-para-modernizar-tres-buques-de-guerra-de-la-decada-del-80",
+      "title": "La Armada Argentina invertirá más de US$620 mil para modernizar tres buques de guerra de la década del '80",
+      "volanta": "NOVEDAD",
+      "date": "2026-11-18T13:13:32+00:00"
+    },
     {
       "id": "e94a126e",
       "image": "img/e94a126e.png",
@@ -531,15 +540,6 @@
       "title": "Santo Tomé presentó la 60° Fiesta Nacional del Folklore Correntino",
       "volanta": "TRADICIÓN E IDENTIDAD",
       "date": "2026-11-16T16:25:52+00:00"
-    },
-    {
-      "id": "de41b3a0",
-      "image": "img/de41b3a0.png",
-      "image_sha": "2f43cdd87321d4c9364df803c727a10fffb5fdeb",
-      "url": "https://www.radiodos.com.ar/217189-emotivo-reconocimiento-a-florencia-charon-tras-el-historico-subcampeonato-del-tribunal-de-cuentas",
-      "title": "Emotivo reconocimiento a Florencia Charón tras el histórico subcampeonato del Tribunal de Cuentas",
-      "volanta": "Enseñar con el corazón",
-      "date": "2026-11-16T16:25:13+00:00"
     }
   ]
 }
