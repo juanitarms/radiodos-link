@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T16:28:41+00:00",
+  "updated": "2026-11-18T16:29:31+00:00",
   "posts": [
+    {
+      "id": "063d5b65",
+      "image": "img/063d5b65.png",
+      "image_sha": "49d9bc924151993dd806d570563d2fd0fd53b90f",
+      "url": "https://www.radiodos.com.ar/217317-aguas-de-corrientes-amplia-la-red-de-agua-potable-en-el-barrio-quintana",
+      "title": "Aguas de Corrientes amplía la red de agua potable en el barrio Quintana",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-18T16:29:31+00:00"
+    },
     {
       "id": "f07165b6",
       "image": "img/f07165b6.png",
@@ -531,15 +540,6 @@
       "title": "El Concejo Deliberante de Corrientes aprobó la primera lectura de la Tarifaria 2027 y convocó a audiencia pública",
       "volanta": "SESION ESPECIAL",
       "date": "2026-11-16T21:03:20+00:00"
-    },
-    {
-      "id": "0631a0e7",
-      "image": "img/0631a0e7.png",
-      "image_sha": "95522dc379903b25f918f394c01a54b37de4a034",
-      "url": "https://www.radiodos.com.ar/217195-el-correntino-juan-jose-toledo-se-subio-al-podio-general-en-una-exigente-prueba-de-10k-en-chajari",
-      "title": "El correntino Juan José Toledo se subió al podio general en una exigente prueba de 10K en Chajarí",
-      "volanta": "Cierra un año altamente positivo",
-      "date": "2026-11-16T19:52:54+00:00"
     }
   ]
 }
