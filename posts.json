@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T12:22:24+00:00",
+  "updated": "2026-11-18T12:53:51+00:00",
   "posts": [
+    {
+      "id": "e94a126e",
+      "image": "img/e94a126e.png",
+      "image_sha": "934846c251a34f5c51c99b4027f4b16a59ee35da",
+      "url": "https://www.radiodos.com.ar/217294-el-dj-del-casamiento-de-lali-esposito-y-pedro-rosemblat-filtro-la-lista-de-canciones-prohibidas-en-la-fiesta",
+      "title": "El DJ del casamiento de Lali Espósito y Pedro Rosemblat filtró la lista de canciones prohibidas en la fiesta",
+      "volanta": "SORPRESA",
+      "date": "2026-11-18T12:53:51+00:00"
+    },
     {
       "id": "7083f8ea",
       "image": "img/7083f8ea.png",
@@ -531,15 +540,6 @@
       "title": "Emotivo reconocimiento a Florencia Charón tras el histórico subcampeonato del Tribunal de Cuentas",
       "volanta": "Enseñar con el corazón",
       "date": "2026-11-16T16:25:13+00:00"
-    },
-    {
-      "id": "40441b7d",
-      "image": "img/40441b7d.png",
-      "image_sha": "dde622eeacf0ca0ac45cce650bf2eef39d7dd3f2",
-      "url": "https://www.radiodos.com.ar/217183-la-profesora-eliana-samaniego-confirmada-nueva-titular-del-consejo-de-educacion-de-corrientes",
-      "title": "La profesora Eliana Samaniego, confirmada nueva titular del Consejo de Educación de Corrientes",
-      "volanta": "FUE ADELANTO DE RADIO DOS",
-      "date": "2026-11-16T15:01:37+00:00"
     }
   ]
 }
