@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T13:13:32+00:00",
+  "updated": "2026-11-18T13:54:55+00:00",
   "posts": [
+    {
+      "id": "67d0ec3c",
+      "image": "img/67d0ec3c.png",
+      "image_sha": "14c696a3f5b6a37b7787e24f6256660a84af56f4",
+      "url": "https://www.radiodos.com.ar/217289-paso-patricia-bullrich-busca-reunir-firmas-para-avanzar-con-el-dictamen-de-la-reforma-politica",
+      "title": "PASO: Patricia Bullrich busca reunir firmas para avanzar con el dictamen de la reforma política",
+      "volanta": "RUMBO AL 2027",
+      "date": "2026-11-18T13:54:55+00:00"
+    },
     {
       "id": "000ffaf1",
       "image": "img/000ffaf1.png",
@@ -531,15 +540,6 @@
       "title": "Curuzú Cuatiá celebró sus 216 años con un multitudinario acto encabezado por Valdés",
       "volanta": "PLAZA BELGRANO",
       "date": "2026-11-16T17:16:56+00:00"
-    },
-    {
-      "id": "a7d0e443",
-      "image": "img/a7d0e443.png",
-      "image_sha": "dc4619b3831eb597761d8fdc6057bccb67b7c9fc",
-      "url": "https://www.radiodos.com.ar/217188-santo-tome-presento-la-60-fiesta-nacional-del-folklore-correntino",
-      "title": "Santo Tomé presentó la 60° Fiesta Nacional del Folklore Correntino",
-      "volanta": "TRADICIÓN E IDENTIDAD",
-      "date": "2026-11-16T16:25:52+00:00"
     }
   ]
 }
