@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T18:55:27+00:00",
+  "updated": "2026-11-18T18:56:08+00:00",
   "posts": [
+    {
+      "id": "808a1ae7",
+      "image": "img/808a1ae7.png",
+      "image_sha": "21e18db957af59c995483b48532f0fb78aa167f4",
+      "url": "https://www.radiodos.com.ar/217324-brasil-aplicara-una-dura-sancion-a-los-clubes-que-no-paguen-los-salarios-que-les-pasara",
+      "title": "Brasil aplicará una dura sanción a los clubes que no paguen los salarios: qué les pasará",
+      "volanta": "NOVEDAD",
+      "date": "2026-11-18T18:56:08+00:00"
+    },
     {
       "id": "05071543",
       "image": "img/05071543.png",
@@ -531,15 +540,6 @@
       "title": "Scaloni confirmó el regreso del \"Dibu\" Martínez, anticipó variantes y respaldó el recambio juvenil",
       "volanta": "Antes de Costa Rica",
       "date": "2026-11-16T21:22:07+00:00"
-    },
-    {
-      "id": "47bfa291",
-      "image": "img/47bfa291.png",
-      "image_sha": "33833b32a2457d4f78711b8986256037d7f43fbd",
-      "url": "https://www.radiodos.com.ar/217200-corrientes-cayo-preso-tras-robarle-costosa-olla-a-su-abuela",
-      "title": "Corrientes: cayó preso tras robarle costosa olla a su abuela",
-      "volanta": "SAN LUIS DEL PALMAR",
-      "date": "2026-11-16T21:21:33+00:00"
     }
   ]
 }
