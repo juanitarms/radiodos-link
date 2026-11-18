@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:26:03+00:00",
+  "updated": "2026-11-18T21:57:23+00:00",
   "posts": [
+    {
+      "id": "e6291c32",
+      "image": "img/e6291c32.png",
+      "image_sha": "9c04598d3f151e44fab12f1fea18ea053d404163",
+      "url": "https://www.radiodos.com.ar/217328-prive-marriott-corrientes-sera-escenario-de-la-gala-del-ano",
+      "title": "PRIVÉ: Marriott Corrientes será escenario de La Gala del Año",
+      "volanta": "REUNION DE LUJO",
+      "date": "2026-11-18T21:57:23+00:00"
+    },
     {
       "id": "08ece2ec",
       "image": "img/08ece2ec.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el temporal de viento y lluvia en Corrientes y pronostican alerta durante toda la jornada",
       "volanta": "Se inició antes de las 7",
       "date": "2026-11-17T11:13:25+00:00"
-    },
-    {
-      "id": "cfffac01",
-      "image": "img/cfffac01.png",
-      "image_sha": "78b995fdf7fd4443b3be102690be4ee0e39f6b71",
-      "url": "https://www.radiodos.com.ar/217205-corrientes-supero-los-37-c-de-sensacion-termica-y-rige-un-alerta-por-tormentas-para-este-martes",
-      "title": "Corrientes superó los 37°C de sensación térmica y rige un alerta por tormentas para este martes",
-      "volanta": "TIEMPO",
-      "date": "2026-11-16T22:14:27+00:00"
     }
   ]
 }
