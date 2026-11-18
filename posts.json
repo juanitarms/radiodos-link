@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T14:08:40+00:00",
+  "updated": "2026-11-18T14:15:20+00:00",
   "posts": [
+    {
+      "id": "9e4cd7d3",
+      "image": "img/9e4cd7d3.png",
+      "image_sha": "dc97b1a609ee177403a0156e9879575289d7cc91",
+      "url": "https://www.radiodos.com.ar/217301-un-apostador-del-interior-de-corrientes-gano-42-millones-con-la-poceada",
+      "title": "Un apostador del interior de Corrientes ganó $42 millones con la Poceada",
+      "volanta": "QUINIELA CORRENTINA",
+      "date": "2026-11-18T14:15:20+00:00"
+    },
     {
       "id": "c62dfb8b",
       "image": "img/c62dfb8b.png",
@@ -531,15 +540,6 @@
       "title": "Con una segunda edición multitudinaria el Mercado de Pulgas se consolidó en la agenda de la ciudad",
       "volanta": "EXITOSA PARTICIPACIÓN",
       "date": "2026-11-16T17:18:04+00:00"
-    },
-    {
-      "id": "637807a2",
-      "image": "img/637807a2.png",
-      "image_sha": "b8a3ff568b075bcee8c445ca7f540dd31e498197",
-      "url": "https://www.radiodos.com.ar/217190-en-tres-allanamientos-secuestran-ocho-animales-vacunos-que-presentaban-irregularidades",
-      "title": "En tres allanamientos secuestran ocho animales vacunos que presentaban irregularidades",
-      "volanta": "ALVEAR",
-      "date": "2026-11-16T17:17:30+00:00"
     }
   ]
 }
