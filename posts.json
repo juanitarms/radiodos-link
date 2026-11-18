@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T10:47:14+00:00",
+  "updated": "2026-11-18T11:21:40+00:00",
   "posts": [
+    {
+      "id": "ec53b15a",
+      "image": "img/ec53b15a.png",
+      "image_sha": "3452f7f05507aca74d179f712d6b01e9eae06330",
+      "url": "https://www.radiodos.com.ar/217275-liga-nacional-de-basquetbol-quimsa-derroto-a-regatas",
+      "title": "Liga Nacional de Básquetbol: Quimsa derrotó a Regatas",
+      "volanta": "POR CUARTA VEZ",
+      "date": "2026-11-18T11:21:40+00:00"
+    },
     {
       "id": "71808741",
       "image": "img/71808741.png",
@@ -531,15 +540,6 @@
       "title": "Comienzan hoy las inscripciones para el ciclo lectivo 2027 en la UNNE",
       "volanta": "Universidad",
       "date": "2026-11-16T14:42:42+00:00"
-    },
-    {
-      "id": "926aa95c",
-      "image": "img/926aa95c.png",
-      "image_sha": "30a3ecfd7b3f9ce1a3957cd7cadf7e6f699b5897",
-      "url": "https://www.radiodos.com.ar/217184-el-ministerio-de-salud-publica-recomienda-medidas-de-prevencion-ante-ofidios",
-      "title": "El Ministerio de Salud Pública recomienda medidas de prevención ante ofidios",
-      "volanta": "APARICIÓN POR LA CRECIDA",
-      "date": "2026-11-16T14:24:58+00:00"
     }
   ]
 }
