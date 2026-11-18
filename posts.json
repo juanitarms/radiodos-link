@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T23:33:39+00:00",
+  "updated": "2026-11-18T10:33:50+00:00",
   "posts": [
+    {
+      "id": "1ef10f78",
+      "image": "img/1ef10f78.png",
+      "image_sha": "8a0a41360be9d8552619fceee0e2c7203a957bba",
+      "url": "https://www.radiodos.com.ar/217273-alerta-naranja-en-casi-toda-la-provincia-por-tormentas-fuertes",
+      "title": "Alerta naranja en casi toda la provincia por tormentas fuertes",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-11-18T10:33:50+00:00"
+    },
     {
       "id": "f2330f11",
       "image": "img/f2330f11.png",
@@ -531,15 +540,6 @@
       "title": "Rocío Robles quiere encontrar a su hermana: \"Se la llevaron y dijeron que había muerto\"",
       "volanta": "HISTORIA DE VIDA",
       "date": "2026-11-16T14:13:41+00:00"
-    },
-    {
-      "id": "fe86e0e6",
-      "image": "img/fe86e0e6.png",
-      "image_sha": "a2b9b4ec469c7c4befd280582eef5a1e1a861323",
-      "url": "https://www.radiodos.com.ar/217182-productos-frescos-y-sabores-locales-asi-sera-el-nuevo-recorrido-semanal-de-las-ferias-de-la-ciudad",
-      "title": "Productos frescos y sabores locales: así será el nuevo recorrido semanal de las Ferias de la Ciudad",
-      "volanta": "ECONOMÍA SOCIAL",
-      "date": "2026-11-16T14:03:14+00:00"
     }
   ]
 }
