@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T18:04:55+00:00",
+  "updated": "2026-11-18T18:55:27+00:00",
   "posts": [
+    {
+      "id": "05071543",
+      "image": "img/05071543.png",
+      "image_sha": "22f11b3b22982ed6596b316bfae222c9df18266a",
+      "url": "https://www.radiodos.com.ar/217323-en-pleno-juicio-codazzi-ingreso-a-la-sala-y-fue-retirado-por-las-autoridades",
+      "title": "En pleno juicio Codazzi ingresó a la sala y fue retirado por las autoridades",
+      "volanta": "CASO LOAN PEÑA",
+      "date": "2026-11-18T18:55:27+00:00"
+    },
     {
       "id": "275d92f3",
       "image": "img/275d92f3.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: cayó preso tras robarle costosa olla a su abuela",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-11-16T21:21:33+00:00"
-    },
-    {
-      "id": "f0b4dce3",
-      "image": "img/f0b4dce3.png",
-      "image_sha": "5d0e882fead7d24439a5e4a4e076056cb8910055",
-      "url": "https://www.radiodos.com.ar/217197-la-uca-estimo-que-la-pobreza-llego-al-424-en-el-segundo-trimestre-de-2026",
-      "title": "La UCA estimó que la pobreza llegó al 42,4% en el segundo trimestre de 2026",
-      "volanta": "INFORME",
-      "date": "2026-11-16T21:19:36+00:00"
     }
   ]
 }
