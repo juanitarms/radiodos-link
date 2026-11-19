@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T16:42:39+00:00",
+  "updated": "2026-11-19T16:43:21+00:00",
   "posts": [
+    {
+      "id": "36b5de91",
+      "image": "img/36b5de91.png",
+      "image_sha": "eaf8c9f074c82a14b729a9514835d042f5c3ad57",
+      "url": "https://www.radiodos.com.ar/217379-pensiones-no-contributivas-de-anses-en-diciembre-2026-los-detalles-acerca-de-los-pagos",
+      "title": "Pensiones no Contributivas de ANSES en diciembre 2026: los detalles acerca de los pagos",
+      "volanta": "INFO UTIL",
+      "date": "2026-11-19T16:43:21+00:00"
+    },
     {
       "id": "1b598e62",
       "image": "img/1b598e62.png",
@@ -531,15 +540,6 @@
       "title": "\"Vamos Azules\" se reunió en Curuzú Cuatiá con agenda  centrada en la cercanía con los vecinos",
       "volanta": "Este lunes",
       "date": "2026-11-17T16:40:57+00:00"
-    },
-    {
-      "id": "7963da65",
-      "image": "img/7963da65.png",
-      "image_sha": "780d733bb5773df398d4bb1773c22f61be6d96c1",
-      "url": "https://www.radiodos.com.ar/217245-los-premios-regatas-se-celebraran-el-10-de-diciembre",
-      "title": "Los Premios Regatas se celebrarán el 10 de diciembre",
-      "volanta": "Institucional",
-      "date": "2026-11-17T16:40:19+00:00"
     }
   ]
 }
