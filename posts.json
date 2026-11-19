@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T22:36:32+00:00",
+  "updated": "2026-11-19T22:37:33+00:00",
   "posts": [
+    {
+      "id": "6b603252",
+      "image": "img/6b603252.png",
+      "image_sha": "18dbd99bdc8ea95c111733ca9f3bf5d538e74bea",
+      "url": "https://www.radiodos.com.ar/217403-villarruel-se-diferencio-del-bloque-oficialista-y-respaldo-votar-hoy-la-ley-contra-la-ludopatia",
+      "title": "Villarruel se diferenció del bloque oficialista y respaldó votar hoy la Ley contra la Ludopatía",
+      "volanta": "\"Debería haberse votado\"",
+      "date": "2026-11-19T22:37:33+00:00"
+    },
     {
       "id": "dfd8a60b",
       "image": "img/dfd8a60b.png",
@@ -531,15 +540,6 @@
       "title": "Gustavo Valdés se reunió con Hernán Lacunza",
       "volanta": "ENCUENTRO POLÍTICO",
       "date": "2026-11-17T23:28:20+00:00"
-    },
-    {
-      "id": "0573772f",
-      "image": "img/0573772f.png",
-      "image_sha": "63c65f11c52248729c345217a3ae104265ca736c",
-      "url": "https://www.radiodos.com.ar/217263-caso-loan-citaron-a-declarar-a-la-duena-del-campo-donde-se-hallo-el-botin",
-      "title": "Caso Loan: citaron a declarar a la dueña del campo donde se halló el botín",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-17T23:26:43+00:00"
     }
   ]
 }
