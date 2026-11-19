@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T13:51:37+00:00",
+  "updated": "2026-11-19T14:12:05+00:00",
   "posts": [
+    {
+      "id": "5cbd0429",
+      "image": "img/5cbd0429.png",
+      "image_sha": "18ef4ab0c8673841de979089420d94938d6b8e4d",
+      "url": "https://www.radiodos.com.ar/217378-tragedia-un-nene-cayo-al-agua-su-padre-se-tiro-a-salvarlo-y-murieron-los-dos",
+      "title": "Tragedia: un nene cayó al agua, su padre se tiró a salvarlo y murieron los dos",
+      "volanta": "Mendoza",
+      "date": "2026-11-19T14:12:05+00:00"
+    },
     {
       "id": "ea6dc484",
       "image": "img/ea6dc484.png",
@@ -531,15 +540,6 @@
       "title": "Melody Luz rompió en llanto y apuntó contra Alex Caniggia: \"No reconozco a la persona que es\"",
       "volanta": "SINCERA",
       "date": "2026-11-17T14:44:13+00:00"
-    },
-    {
-      "id": "512da51b",
-      "image": "img/512da51b.png",
-      "image_sha": "da973d50d0753c252d76337c58550607d65b98a6",
-      "url": "https://www.radiodos.com.ar/217240-sofia-jujuy-jimenez-anuncio-que-esta-embarazada-y-compartio-la-feliz-noticia-recibi-el-regalo-de-dios",
-      "title": "Sofía Jujuy Jiménez anunció que está embarazada y compartió la feliz noticia: \"Recibí el regalo de Dios\"",
-      "volanta": "FELICITACIONES",
-      "date": "2026-11-17T14:16:32+00:00"
     }
   ]
 }
