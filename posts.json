@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T15:14:33+00:00",
+  "updated": "2026-11-19T16:41:58+00:00",
   "posts": [
+    {
+      "id": "18e538ff",
+      "image": "img/18e538ff.png",
+      "image_sha": "477a0dc2134999236a9ad0bc2d474414e3e823b3",
+      "url": "https://www.radiodos.com.ar/217376-cayo-el-sospechoso-de-matar-al-dueno-de-una-metalurgica-en-villa-luzuriaga",
+      "title": "Cayó el sospechoso de matar al dueño de una metalúrgica en Villa Luzuriaga",
+      "volanta": "CAUSA ABIERTA",
+      "date": "2026-11-19T16:41:58+00:00"
+    },
     {
       "id": "1b403dd2",
       "image": "img/1b403dd2.png",
@@ -531,15 +540,6 @@
       "title": "Comunicado de la querella en la causa ARA San Juan a nueve años del hundimiento: \"Condena insuficiente\"",
       "volanta": "JUICIO",
       "date": "2026-11-17T16:39:41+00:00"
-    },
-    {
-      "id": "3df05c73",
-      "image": "img/3df05c73.png",
-      "image_sha": "42bf65c661da14cd416fb4c641aabac67efcd39d",
-      "url": "https://www.radiodos.com.ar/217248-javier-milei-aseguro-que-discutio-con-victoria-villarruel-por-su-presunto-rechazo-al-protocolo-antipiquetes",
-      "title": "Javier Milei aseguró que discutió con Victoria Villarruel por su presunto rechazo al protocolo antipiquetes",
-      "volanta": "CONFLICTO",
-      "date": "2026-11-17T16:39:05+00:00"
     }
   ]
 }
