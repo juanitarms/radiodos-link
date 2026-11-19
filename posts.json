@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T22:37:33+00:00",
+  "updated": "2026-11-19T22:38:11+00:00",
   "posts": [
+    {
+      "id": "f51e5728",
+      "image": "img/f51e5728.png",
+      "image_sha": "1a12714bb57122ce248578e69a30961349706847",
+      "url": "https://www.radiodos.com.ar/217410-abuso-sexual-infantil-siete-de-cada-diez-declaraciones-de-ninos-estuvieron-vinculadas-a-estos-casos",
+      "title": "Abuso sexual infantil: siete de cada diez declaraciones de niños estuvieron vinculadas a estos casos",
+      "volanta": "LAMENTABLE",
+      "date": "2026-11-19T22:38:11+00:00"
+    },
     {
       "id": "6b603252",
       "image": "img/6b603252.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes fue una de las pocas provincias que logró destrabar ATN",
       "volanta": "Pese al ajuste de Nación",
       "date": "2026-11-17T23:29:20+00:00"
-    },
-    {
-      "id": "97d92729",
-      "image": "img/97d92729.png",
-      "image_sha": "7b51f9cd2a14c01564b8414574b20c9378836bd9",
-      "url": "https://www.radiodos.com.ar/217265-gustavo-valdes-se-reunio-con-hernan-lacunza",
-      "title": "Gustavo Valdés se reunió con Hernán Lacunza",
-      "volanta": "ENCUENTRO POLÍTICO",
-      "date": "2026-11-17T23:28:20+00:00"
     }
   ]
 }
