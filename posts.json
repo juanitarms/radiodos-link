@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T22:38:11+00:00",
+  "updated": "2026-11-19T22:38:54+00:00",
   "posts": [
+    {
+      "id": "b3777c19",
+      "image": "img/b3777c19.png",
+      "image_sha": "8213f512fd6ce828d6c5a602eef8fe7a5ad619f9",
+      "url": "https://www.radiodos.com.ar/217409-corrientes-el-smn-emitio-un-alerta-amarilla-por-tormentas-fuertes-y-rafagas",
+      "title": "Corrientes: el SMN emitió un alerta amarilla por tormentas fuertes y ráfagas",
+      "volanta": "Viernes inestabl",
+      "date": "2026-11-19T22:38:54+00:00"
+    },
     {
       "id": "f51e5728",
       "image": "img/f51e5728.png",
@@ -531,15 +540,6 @@
       "title": "El 92% de los jóvenes argentinos busca trabajo, pero menos de la mitad posee uno",
       "volanta": "CRISIS LABORAL",
       "date": "2026-11-17T23:31:25+00:00"
-    },
-    {
-      "id": "50396456",
-      "image": "img/50396456.png",
-      "image_sha": "7c8e2f98f42751f39e5cc6c038bfb821809a46fc",
-      "url": "https://www.radiodos.com.ar/217264-corrientes-fue-una-de-las-pocas-provincias-que-logro-destrabar-atn",
-      "title": "Corrientes fue una de las pocas provincias que logró destrabar ATN",
-      "volanta": "Pese al ajuste de Nación",
-      "date": "2026-11-17T23:29:20+00:00"
     }
   ]
 }
