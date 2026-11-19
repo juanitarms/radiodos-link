@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T11:48:34+00:00",
+  "updated": "2026-11-19T12:12:20+00:00",
   "posts": [
+    {
+      "id": "195f2bb6",
+      "image": "img/195f2bb6.png",
+      "image_sha": "5af27cfc9ef8559b9eeb53c8cf1281ce88ef03f4",
+      "url": "https://www.radiodos.com.ar/217351-came-solicita-a-los-diputados-nacionales-la-aprobacion-de-la-nueva-ley-de-biocombustibles",
+      "title": "CAME solicita a los diputados nacionales la aprobación de la nueva Ley de Biocombustibles",
+      "volanta": "Comunicado",
+      "date": "2026-11-19T12:12:20+00:00"
+    },
     {
       "id": "b661d822",
       "image": "img/b661d822.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a dos hermanas de 12 y 11 años desaparecidas en Córdoba",
       "volanta": "URGENTE",
       "date": "2026-11-17T13:17:33+00:00"
-    },
-    {
-      "id": "57c1abec",
-      "image": "img/57c1abec.png",
-      "image_sha": "57d4fdbd9349d3169b4d2a8fab9da78dc33ddce3",
-      "url": "https://www.radiodos.com.ar/217230-anses-confirman-un-plus-extraordinario-para-titulares-de-la-auh",
-      "title": "ANSES: confirman un plus extraordinario para titulares de la AUH",
-      "volanta": "BENEFICIO",
-      "date": "2026-11-17T13:04:45+00:00"
     }
   ]
 }
