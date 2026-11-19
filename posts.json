@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T20:56:15+00:00",
+  "updated": "2026-11-19T21:05:24+00:00",
   "posts": [
+    {
+      "id": "bd4b465f",
+      "image": "img/bd4b465f.png",
+      "image_sha": "47cc4ca7132125629f3e1ea35d7ef8c5805bd7a5",
+      "url": "https://www.radiodos.com.ar/217405-el-nino-obligo-a-evacuar-casi-un-millon-de-cabezas-de-ganado-por-la-crecida-del-rio",
+      "title": "El Niño obligó a evacuar casi un millón de cabezas de ganado por la crecida del río",
+      "volanta": "ALERTA EN EL SECTOR GANADERO",
+      "date": "2026-11-19T21:05:24+00:00"
+    },
     {
       "id": "f5d91d2c",
       "image": "img/f5d91d2c.png",
@@ -531,15 +540,6 @@
       "title": "\"Voy a ser reelecto\": Javier Milei volvió a pronosticar que tendrá un segundo mandato",
       "volanta": "COMICIOS 2027",
       "date": "2026-11-17T21:04:14+00:00"
-    },
-    {
-      "id": "94bcb29e",
-      "image": "img/94bcb29e.png",
-      "image_sha": "283488ddd192e4b04bdc204a0fd93c6abbc05e1f",
-      "url": "https://www.radiodos.com.ar/217259-separaron-preventivamente-de-la-fuerza-al-efectivo-de-la-policia-de-corrientes-que-atropello-y-abandono-a-una-mujer",
-      "title": "Separaron preventivamente de la fuerza al efectivo de la Policía de Corrientes que atropelló y abandonó a una mujer",
-      "volanta": "OCURRIÓ EN EL BARRIO NUEVO",
-      "date": "2026-11-17T21:03:16+00:00"
     }
   ]
 }
