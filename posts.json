@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T10:35:23+00:00",
+  "updated": "2026-11-19T11:35:23+00:00",
   "posts": [
+    {
+      "id": "fd10089f",
+      "image": "img/fd10089f.png",
+      "image_sha": "eeba43f626caf6a41386fe903d0b9e689178acbb",
+      "url": "https://www.radiodos.com.ar/217346-el-instituto-clinico-polivalente-del-ioscor-consolida-su-atencion-con-tecnologia-de-punta-y-nuevas-prestaciones",
+      "title": "El Instituto Clínico Polivalente del IOSCOR consolida su atención con tecnología de punta y nuevas prestaciones",
+      "volanta": "SALUD Y PREVENCIÓN PARA LOS AFILIADOS",
+      "date": "2026-11-19T11:35:23+00:00"
+    },
     {
       "id": "584389fa",
       "image": "img/584389fa.png",
@@ -531,15 +540,6 @@
       "title": "El Remero vuelve a Corrientes con Quimsa en la mira",
       "volanta": "Liga Nacional de Básquet",
       "date": "2026-11-17T12:47:03+00:00"
-    },
-    {
-      "id": "5b3b5b8c",
-      "image": "img/5b3b5b8c.png",
-      "image_sha": "9559effcd0749548046a2c49b052dffc3542dd2d",
-      "url": "https://www.radiodos.com.ar/217226-el-superior-tribunal-de-justicia-dispuso-un-aumento-salarial-del-10-para-diciembre",
-      "title": "El Superior Tribunal de Justicia dispuso un aumento salarial del 10% para diciembre",
-      "volanta": "PARA TRABAJADORES Y FUNCIONARIOS",
-      "date": "2026-11-17T12:34:10+00:00"
     }
   ]
 }
