@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T19:00:41+00:00",
+  "updated": "2026-11-19T19:01:15+00:00",
   "posts": [
+    {
+      "id": "383f0c42",
+      "image": "img/383f0c42.png",
+      "image_sha": "0fb08a2670f11589bbc1fde4793d318670009c37",
+      "url": "https://www.radiodos.com.ar/217375-ingeniero-juan-borus-corrientes-tiene-una-perspectiva-de-lluvia-por-encima-de-lo-normal",
+      "title": "Ingeniero Juan Borus: \"Corrientes tiene una perspectiva de lluvia por encima de lo normal\"",
+      "volanta": "PRONÓSTICO",
+      "date": "2026-11-19T19:01:15+00:00"
+    },
     {
       "id": "15ef8bb9",
       "image": "img/15ef8bb9.png",
@@ -531,15 +540,6 @@
       "title": "Corte total de Ruta 14 por el vuelco de un camión que transportaba maíz",
       "volanta": "AHORA",
       "date": "2026-11-17T20:50:30+00:00"
-    },
-    {
-      "id": "ef27b8e3",
-      "image": "img/ef27b8e3.png",
-      "image_sha": "d710cc623a2571f364caa7d2e14899e61f938801",
-      "url": "https://www.radiodos.com.ar/217255-muerte-de-nanci-trasladaron-a-corrientes-al-principal-sospechoso-del-crimen-para-realizarle-pericias-psicologicas",
-      "title": "Muerte de Nanci: trasladaron a Corrientes al principal sospechoso del crimen para realizarle pericias psicológicas",
-      "volanta": "DURANTE TRES DIAS",
-      "date": "2026-11-17T20:33:14+00:00"
     }
   ]
 }
