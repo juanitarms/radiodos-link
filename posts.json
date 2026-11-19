@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T22:35:13+00:00",
+  "updated": "2026-11-19T22:36:32+00:00",
   "posts": [
+    {
+      "id": "dfd8a60b",
+      "image": "img/dfd8a60b.png",
+      "image_sha": "03a8cb4e567d509f1125e9207fe3a9ae11f38535",
+      "url": "https://www.radiodos.com.ar/217408-murio-un-motociclista-de-51-anos-tras-chocar-contra-una-camioneta",
+      "title": "Murió un motociclista de 51 años tras chocar contra una camioneta",
+      "volanta": "TRAGEDIA",
+      "date": "2026-11-19T22:36:32+00:00"
+    },
     {
       "id": "9875cfa2",
       "image": "img/9875cfa2.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: citaron a declarar a la dueña del campo donde se halló el botín",
       "volanta": "CORRIENTES",
       "date": "2026-11-17T23:26:43+00:00"
-    },
-    {
-      "id": "fbfe5216",
-      "image": "img/fbfe5216.png",
-      "image_sha": "dff0799b9cccea5e31de21e7d2f4db3326803a30",
-      "url": "https://www.radiodos.com.ar/217261-corrientes-allanaron-dos-predios-rurales-y-asistieron-a-once-presuntas-victimas-de-explotacion-laboral",
-      "title": "Corrientes:  allanaron dos predios rurales y asistieron a once presuntas víctimas de explotación laboral",
-      "volanta": "TRAS DENUNCIAS ANONIMAS",
-      "date": "2026-11-17T23:25:41+00:00"
     }
   ]
 }
