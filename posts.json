@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T14:23:36+00:00",
+  "updated": "2026-11-19T14:58:04+00:00",
   "posts": [
+    {
+      "id": "50b947d2",
+      "image": "img/50b947d2.png",
+      "image_sha": "818b5b331a31f0782e0daeb9330c427cebc8b913",
+      "url": "https://www.radiodos.com.ar/217383-marta-fort-destrozo-a-su-exnovio-tras-la-separacion-y-lanzo-una-frase-lapidaria-no-le-dio-la-talla",
+      "title": "Marta Fort destrozó a su exnovio tras la separación y lanzó una frase lapidaria: \"No le dio la talla\"",
+      "volanta": "SINCERA",
+      "date": "2026-11-19T14:58:04+00:00"
+    },
     {
       "id": "2bdb8c16",
       "image": "img/2bdb8c16.png",
@@ -531,15 +540,6 @@
       "title": "El STJ fijó la feria judicial de verano del 26 de diciembre al 31 de enero y declaró feriados el 24 y 31 de diciembre",
       "volanta": "ACUERDO N° 36/26",
       "date": "2026-11-17T15:12:16+00:00"
-    },
-    {
-      "id": "9e4d32b6",
-      "image": "img/9e4d32b6.png",
-      "image_sha": "aee16a5e5cb74bf66a29d1607787eb3c568f621f",
-      "url": "https://www.radiodos.com.ar/217241-lluvias-intenso-trabajo-de-las-cuadrillas-municipales-para-mantener-limpios-los-sumideros",
-      "title": "Lluvias: intenso trabajo de las cuadrillas municipales para mantener limpios los sumideros",
-      "volanta": "TAREAS DE PREVENCIÓN",
-      "date": "2026-11-17T15:02:56+00:00"
     }
   ]
 }
