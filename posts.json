@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T11:35:23+00:00",
+  "updated": "2026-11-19T11:48:34+00:00",
   "posts": [
+    {
+      "id": "b661d822",
+      "image": "img/b661d822.png",
+      "image_sha": "f5b500584ee5f823732d8b9a56da72989f8b3683",
+      "url": "https://www.radiodos.com.ar/217352-el-nino-continuara-durante-el-verano-y-advierten-sobre-los-niveles-del-rio-parana",
+      "title": "El Niño continuará durante el verano y advierten sobre los niveles del río Paraná",
+      "volanta": "NOTA TÉCNICA N° 7",
+      "date": "2026-11-19T11:48:34+00:00"
+    },
     {
       "id": "fd10089f",
       "image": "img/fd10089f.png",
@@ -531,15 +540,6 @@
       "title": "ANSES: confirman un plus extraordinario para titulares de la AUH",
       "volanta": "BENEFICIO",
       "date": "2026-11-17T13:04:45+00:00"
-    },
-    {
-      "id": "ece179d9",
-      "image": "img/ece179d9.png",
-      "image_sha": "722ab55889be2885e0cabe1dd2db737879d6b71b",
-      "url": "https://www.radiodos.com.ar/217218-el-remero-vuelve-a-corrientes-con-quimsa-en-la-mira",
-      "title": "El Remero vuelve a Corrientes con Quimsa en la mira",
-      "volanta": "Liga Nacional de Básquet",
-      "date": "2026-11-17T12:47:03+00:00"
     }
   ]
 }
