@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T14:58:04+00:00",
+  "updated": "2026-11-19T15:14:33+00:00",
   "posts": [
+    {
+      "id": "1b403dd2",
+      "image": "img/1b403dd2.png",
+      "image_sha": "06f9f8c451da2ae8c489b2a2268acbdd7b3da0dc",
+      "url": "https://www.radiodos.com.ar/217380-rodrigo-de-la-serna-atraviesa-un-duro-momento-con-su-ex-por-sus-hijos",
+      "title": "Rodrigo de la Serna atraviesa un duro momento con su ex por sus hijos",
+      "volanta": "CONFLICTO",
+      "date": "2026-11-19T15:14:33+00:00"
+    },
     {
       "id": "50b947d2",
       "image": "img/50b947d2.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei aseguró que discutió con Victoria Villarruel por su presunto rechazo al protocolo antipiquetes",
       "volanta": "CONFLICTO",
       "date": "2026-11-17T16:39:05+00:00"
-    },
-    {
-      "id": "9bba3a4b",
-      "image": "img/9bba3a4b.png",
-      "image_sha": "bbe0f9c9ee70cd501136fb356effed897eebbba1",
-      "url": "https://www.radiodos.com.ar/217242-el-stj-fijo-la-feria-judicial-de-verano-del-26-de-diciembre-al-31-de-enero-y-declaro-feriados-el-24-y-31-de-diciembre",
-      "title": "El STJ fijó la feria judicial de verano del 26 de diciembre al 31 de enero y declaró feriados el 24 y 31 de diciembre",
-      "volanta": "ACUERDO N° 36/26",
-      "date": "2026-11-17T15:12:16+00:00"
     }
   ]
 }
