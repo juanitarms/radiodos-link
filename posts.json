@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T20:49:14+00:00",
+  "updated": "2026-11-19T20:56:15+00:00",
   "posts": [
+    {
+      "id": "f5d91d2c",
+      "image": "img/f5d91d2c.png",
+      "image_sha": "08d3de45e1340fbe4bb47e423af7d92cce405779",
+      "url": "https://www.radiodos.com.ar/217404-valdes-anuncio-150-millones-y-alivio-fiscal-para-paso-de-la-patria",
+      "title": "Valdés anunció $150 millones y alivio fiscal para Paso de la Patria",
+      "volanta": "en su 154° aniversario",
+      "date": "2026-11-19T20:56:15+00:00"
+    },
     {
       "id": "b16b0367",
       "image": "img/b16b0367.png",
@@ -531,15 +540,6 @@
       "title": "Separaron preventivamente de la fuerza al efectivo de la Policía de Corrientes que atropelló y abandonó a una mujer",
       "volanta": "OCURRIÓ EN EL BARRIO NUEVO",
       "date": "2026-11-17T21:03:16+00:00"
-    },
-    {
-      "id": "6c4c1923",
-      "image": "img/6c4c1923.png",
-      "image_sha": "030ba608bd41c2be888fbdbe05b2a69adc8db9c9",
-      "url": "https://www.radiodos.com.ar/217256-los-precios-mayoristas-subieron-16-en-octubre-impulsados-por-los-combustibles",
-      "title": "Los precios mayoristas subieron 1,6% en octubre impulsados por los combustibles",
-      "volanta": "DATOS OFICIALES",
-      "date": "2026-11-17T20:51:13+00:00"
     }
   ]
 }
