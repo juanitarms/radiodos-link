@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T19:00:00+00:00",
+  "updated": "2026-11-19T19:00:41+00:00",
   "posts": [
+    {
+      "id": "15ef8bb9",
+      "image": "img/15ef8bb9.png",
+      "image_sha": "e7c225a19003cc4c4c6900eddc1273b359ff22b6",
+      "url": "https://www.radiodos.com.ar/217384-camau-espinola-fundamento-su-respaldo-al-dictamen-para-suspender-las-paso-y-ratifico-su-acompanamiento-a-jp-valdes",
+      "title": "Camau Espínola fundamentó su respaldo al dictamen para suspender las PASO y ratificó su acompañamiento a JP Valdés",
+      "volanta": "NOTA EXCLUSIVA",
+      "date": "2026-11-19T19:00:41+00:00"
+    },
     {
       "id": "a89fb824",
       "image": "img/a89fb824.png",
@@ -531,15 +540,6 @@
       "title": "Muerte de Nanci: trasladaron a Corrientes al principal sospechoso del crimen para realizarle pericias psicológicas",
       "volanta": "DURANTE TRES DIAS",
       "date": "2026-11-17T20:33:14+00:00"
-    },
-    {
-      "id": "327a25e8",
-      "image": "img/327a25e8.png",
-      "image_sha": "f94909bdfe8fccc990737ff1d9b6492a348e1f78",
-      "url": "https://www.radiodos.com.ar/217253-lucas-victoriano-me-gusta-transmitir-que-quiero-ganar",
-      "title": "Lucas Victoriano: \"Me gusta transmitir que quiero ganar\"",
-      "volanta": "LIGA NACIONAL DE BÁSQUET",
-      "date": "2026-11-17T18:14:09+00:00"
     }
   ]
 }
