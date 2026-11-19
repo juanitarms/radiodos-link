@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T13:00:27+00:00",
+  "updated": "2026-11-19T13:32:58+00:00",
   "posts": [
+    {
+      "id": "af94a5a0",
+      "image": "img/af94a5a0.png",
+      "image_sha": "c04d235087b7780d21b6c24e36a5e8ba594eada7",
+      "url": "https://www.radiodos.com.ar/217368-asi-seran-los-servicios-municipales-durante-el-feriado-del-23-de-noviembre",
+      "title": "Así serán los servicios municipales durante el feriado del 23 de noviembre",
+      "volanta": "DÍA DE LA SOBERANÍA NACIONAL",
+      "date": "2026-11-19T13:32:58+00:00"
+    },
     {
       "id": "23bacfa3",
       "image": "img/23bacfa3.png",
@@ -531,15 +540,6 @@
       "title": "Veda extendida: 15 años  una propuesta desde la ciencia que optimizó el cuidado del recurso íctico",
       "volanta": "INVESTIGACIÓN UNNE",
       "date": "2026-11-17T14:09:19+00:00"
-    },
-    {
-      "id": "1c9e0ece",
-      "image": "img/1c9e0ece.png",
-      "image_sha": "0f11eb982871609c9dbfc6c8869d0b2359e6a678",
-      "url": "https://www.radiodos.com.ar/217238-el-teatro-municipal-fortalece-su-continuidad-con-un-equipo-de-amplia-trayectoria",
-      "title": "El Teatro Municipal fortalece su continuidad con un equipo de amplia trayectoria",
-      "volanta": "CULTURA",
-      "date": "2026-11-17T13:53:59+00:00"
     }
   ]
 }
