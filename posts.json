@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T18:03:26+00:00",
+  "updated": "2026-11-19T18:04:10+00:00",
   "posts": [
+    {
+      "id": "111cdd02",
+      "image": "img/111cdd02.png",
+      "image_sha": "e5cec93549d996d0dde91b030fa17caec4f845ae",
+      "url": "https://www.radiodos.com.ar/217386-exitosa-muestra-cientifico-tecnologica-y-de-practicas-profesionalizantes-en-paso-de-los-libres",
+      "title": "Exitosa muestra científico tecnológica y de prácticas profesionalizantes en Paso de los Libres",
+      "volanta": "Escuela de Arte y Oficios",
+      "date": "2026-11-19T18:04:10+00:00"
+    },
     {
       "id": "065562b3",
       "image": "img/065562b3.png",
@@ -531,15 +540,6 @@
       "title": "Tecnicar 2026: Inició el desafío de vehículos eléctricos",
       "volanta": "EN COSTANERA SUR",
       "date": "2026-11-17T18:13:35+00:00"
-    },
-    {
-      "id": "95e7e777",
-      "image": "img/95e7e777.png",
-      "image_sha": "080949af7c618fab5a7a8b1dab88fda0be72402d",
-      "url": "https://www.radiodos.com.ar/217243-libres-es-sede-del-inicio-del-programa-mas-cerca-de-la-tecnologia",
-      "title": "Libres es sede del inicio del programa \"Más Cerca de la Tecnología\"",
-      "volanta": "GRAN PARTICIPACIÓN",
-      "date": "2026-11-17T18:12:54+00:00"
     }
   ]
 }
