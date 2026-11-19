@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T21:05:24+00:00",
+  "updated": "2026-11-19T22:34:27+00:00",
   "posts": [
+    {
+      "id": "6865fd53",
+      "image": "img/6865fd53.png",
+      "image_sha": "68f559d039a9c737bfac4478a9be5c0ecb6da828",
+      "url": "https://www.radiodos.com.ar/217406-argentina-mantiene-el-precio-del-gasoil-mas-alto-de-la-region",
+      "title": "Argentina mantiene el precio del gasoil más alto de la región",
+      "volanta": "GOLPE AL BOLSILLO",
+      "date": "2026-11-19T22:34:27+00:00"
+    },
     {
       "id": "bd4b465f",
       "image": "img/bd4b465f.png",
@@ -531,15 +540,6 @@
       "title": "El grupo Faro Verde adquiere 94.000 hectáreas forestales en Corrientes y Misiones",
       "volanta": "Operación millonaria en el NEA",
       "date": "2026-11-17T23:25:00+00:00"
-    },
-    {
-      "id": "6c71b77c",
-      "image": "img/6c71b77c.png",
-      "image_sha": "24016b8bf97df06a934178560571b8b49b64ed3b",
-      "url": "https://www.radiodos.com.ar/217258-voy-a-ser-reelecto-javier-milei-volvio-a-pronosticar-que-tendra-un-segundo-mandato",
-      "title": "\"Voy a ser reelecto\": Javier Milei volvió a pronosticar que tendrá un segundo mandato",
-      "volanta": "COMICIOS 2027",
-      "date": "2026-11-17T21:04:14+00:00"
     }
   ]
 }
