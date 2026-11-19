@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T12:12:20+00:00",
+  "updated": "2026-11-19T12:44:31+00:00",
   "posts": [
+    {
+      "id": "b88e9845",
+      "image": "img/b88e9845.png",
+      "image_sha": "72eea2e10392e43a2609946147b9b3aaea444885",
+      "url": "https://www.radiodos.com.ar/217361-murio-otro-operario-de-metrogas-por-la-explosion-en-remedios-escalada",
+      "title": "Murió otro operario de Metrogas por la explosión en Remedios Escalada",
+      "volanta": "SIGUE LA INVESTIGACIÓN",
+      "date": "2026-11-19T12:44:31+00:00"
+    },
     {
       "id": "195f2bb6",
       "image": "img/195f2bb6.png",
@@ -531,15 +540,6 @@
       "title": "Quién es Ágata Lescano, la nueva novia de Marcelo Tinelli: campeona de bikini fitness, entrenadora y apasionada por la música",
       "volanta": "OFICIAL",
       "date": "2026-11-17T13:31:31+00:00"
-    },
-    {
-      "id": "cf59af11",
-      "image": "img/cf59af11.png",
-      "image_sha": "a5b864cf66440ba5c2844212d32217c30c879548",
-      "url": "https://www.radiodos.com.ar/217231-buscan-a-dos-hermanas-de-12-y-11-anos-desaparecidas-en-cordoba",
-      "title": "Buscan a dos hermanas de 12 y 11 años desaparecidas en Córdoba",
-      "volanta": "URGENTE",
-      "date": "2026-11-17T13:17:33+00:00"
     }
   ]
 }
