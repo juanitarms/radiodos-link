@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T11:46:23+00:00",
+  "updated": "2026-11-20T12:16:53+00:00",
   "posts": [
+    {
+      "id": "ee200b7e",
+      "image": "img/ee200b7e.png",
+      "image_sha": "fb3a95e8d814e21e7308652d4b85800ea79980a0",
+      "url": "https://www.radiodos.com.ar/217432-hoy-se-conoce-el-veredicto-para-pity-alvarez-por-el-crimen-de-su-vecino-en-villa-lugano",
+      "title": "Hoy se conoce el veredicto para Pity Álvarez por el crimen de su vecino en Villa Lugano",
+      "volanta": "FIN DEL DEBATE",
+      "date": "2026-11-20T12:16:53+00:00"
+    },
     {
       "id": "7befdb8f",
       "image": "img/7befdb8f.png",
@@ -531,15 +540,6 @@
       "title": "Un grupo chamamecero de Corrientes devolvió importante suma de dinero que recibieron de manera errónea",
       "volanta": "TREMENDO GESTO",
       "date": "2026-11-18T12:22:24+00:00"
-    },
-    {
-      "id": "f06e1164",
-      "image": "img/f06e1164.png",
-      "image_sha": "6ac29b597cbe6747ab5b423d64dcfe46a9483dda",
-      "url": "https://www.radiodos.com.ar/217283-tras-la-eliminacion-levantaron-la-suspension-del-estadio-y-la-multa-economica-para-boca-unidos",
-      "title": "Tras la eliminación, levantaron la suspensión del estadio y la multa económica para Boca Unidos",
-      "volanta": "FEDERAL A",
-      "date": "2026-11-18T12:04:00+00:00"
     }
   ]
 }
