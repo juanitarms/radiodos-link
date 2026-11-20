@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T11:09:55+00:00",
+  "updated": "2026-11-20T11:19:28+00:00",
   "posts": [
+    {
+      "id": "817f76d6",
+      "image": "img/817f76d6.png",
+      "image_sha": "ae6e1edd5812b17db7c8c07ecabca66641525eef",
+      "url": "https://www.radiodos.com.ar/217418-jubilados-y-pensionados-de-anses-el-aumento-que-recibiran-durante-diciembre-2026",
+      "title": "Jubilados y pensionados de ANSES: el aumento que recibirán durante diciembre 2026",
+      "volanta": "INFO ÚTIL",
+      "date": "2026-11-20T11:19:28+00:00"
+    },
     {
       "id": "3dc581c0",
       "image": "img/3dc581c0.png",
@@ -531,15 +540,6 @@
       "title": "Juicio por la desaparición Loan: declaran testigos de los allanamientos",
       "volanta": "ANTE EL TRIBUNAL",
       "date": "2026-11-18T10:47:14+00:00"
-    },
-    {
-      "id": "1ef10f78",
-      "image": "img/1ef10f78.png",
-      "image_sha": "8a0a41360be9d8552619fceee0e2c7203a957bba",
-      "url": "https://www.radiodos.com.ar/217273-alerta-naranja-en-casi-toda-la-provincia-por-tormentas-fuertes",
-      "title": "Alerta naranja en casi toda la provincia por tormentas fuertes",
-      "volanta": "PRONÓSTICO",
-      "date": "2026-11-18T10:33:50+00:00"
     }
   ]
 }
