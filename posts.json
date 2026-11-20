@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T14:20:23+00:00",
+  "updated": "2026-11-20T14:45:14+00:00",
   "posts": [
+    {
+      "id": "9e97b5ef",
+      "image": "img/9e97b5ef.png",
+      "image_sha": "0b235ba4291cc63ae4d720dab7634af94a17823b",
+      "url": "https://www.radiodos.com.ar/217448-felipe-fort-sufrio-un-accidente-automovilistico-en-la-ruta-5-como-esta-de-salud",
+      "title": "Felipe Fort sufrió un accidente automovilístico en la Ruta 5: cómo está de salud",
+      "volanta": "¿QUÉ PASÓ?",
+      "date": "2026-11-20T14:45:14+00:00"
+    },
     {
       "id": "37c5092f",
       "image": "img/37c5092f.png",
@@ -531,15 +540,6 @@
       "title": "El Corrientes promueven el diálogo de la salud mental en escuelas",
       "volanta": "HABLEMOS ENTRE TODOS",
       "date": "2026-11-18T14:49:18+00:00"
-    },
-    {
-      "id": "fbc9b0e9",
-      "image": "img/fbc9b0e9.png",
-      "image_sha": "7fcd7ad4314b05104cdbbda89cfc09a881bba5b5",
-      "url": "https://www.radiodos.com.ar/217305-desgarrador-testimonio-de-la-mama-de-la-adolescente-que-murio-tras-asistir-a-una-fiesta-en-mendoza",
-      "title": "Desgarrador testimonio de la mamá de la adolescente que murió tras asistir a una fiesta en Mendoza",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-11-18T14:35:29+00:00"
     }
   ]
 }
