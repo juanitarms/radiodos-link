@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T22:38:54+00:00",
+  "updated": "2026-11-20T10:33:29+00:00",
   "posts": [
+    {
+      "id": "25ea5483",
+      "image": "img/25ea5483.png",
+      "image_sha": "3d5079e4663266dca4fa83dd7d1430ecec8b0912",
+      "url": "https://www.radiodos.com.ar/217415-las-claves-de-la-nueva-ley-de-discapacidad-que-aprobo-el-senado",
+      "title": "Las claves de la nueva Ley de Discapacidad que aprobó el Senado",
+      "volanta": "CONGRESO",
+      "date": "2026-11-20T10:33:29+00:00"
+    },
     {
       "id": "b3777c19",
       "image": "img/b3777c19.png",
@@ -531,15 +540,6 @@
       "title": "Salarios municipales: piden abrir la discusión paritaria para recuperar el poder adquisitivo",
       "volanta": "CORRIENTES",
       "date": "2026-11-17T23:32:50+00:00"
-    },
-    {
-      "id": "950ccaf2",
-      "image": "img/950ccaf2.png",
-      "image_sha": "01ac8a6871106feb1f011ccbe83661f927c8b7e4",
-      "url": "https://www.radiodos.com.ar/217266-el-92-de-los-jovenes-argentinos-busca-trabajo-pero-menos-de-la-mitad-posee-uno",
-      "title": "El 92% de los jóvenes argentinos busca trabajo, pero menos de la mitad posee uno",
-      "volanta": "CRISIS LABORAL",
-      "date": "2026-11-17T23:31:25+00:00"
     }
   ]
 }
