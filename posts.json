@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T13:32:48+00:00",
+  "updated": "2026-11-20T13:45:51+00:00",
   "posts": [
+    {
+      "id": "2534d311",
+      "image": "img/2534d311.png",
+      "image_sha": "4580b2234ee418ba54b15ebb113e54f4ccf66b87",
+      "url": "https://www.radiodos.com.ar/217442-caso-loan-un-imputado-y-un-testigo-negaron-sus-firmas-en-actas-de-detencion",
+      "title": "Caso Loan: Un imputado y un testigo negaron sus firmas en actas de detención",
+      "volanta": "JUICIO EN CORRIENTES",
+      "date": "2026-11-20T13:45:51+00:00"
+    },
     {
       "id": "8e84af88",
       "image": "img/8e84af88.png",
@@ -531,15 +540,6 @@
       "title": "Relevamiento municipal de alarma vecinal en barrios de Paso de los Libres",
       "volanta": "Monte Verde",
       "date": "2026-11-18T14:08:40+00:00"
-    },
-    {
-      "id": "67d0ec3c",
-      "image": "img/67d0ec3c.png",
-      "image_sha": "14c696a3f5b6a37b7787e24f6256660a84af56f4",
-      "url": "https://www.radiodos.com.ar/217289-paso-patricia-bullrich-busca-reunir-firmas-para-avanzar-con-el-dictamen-de-la-reforma-politica",
-      "title": "PASO: Patricia Bullrich busca reunir firmas para avanzar con el dictamen de la reforma política",
-      "volanta": "RUMBO AL 2027",
-      "date": "2026-11-18T13:54:55+00:00"
     }
   ]
 }
