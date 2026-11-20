@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T22:04:54+00:00",
+  "updated": "2026-11-20T22:05:31+00:00",
   "posts": [
+    {
+      "id": "0e0cd955",
+      "image": "img/0e0cd955.png",
+      "image_sha": "ceb9dc0b47c16e31f28ef5015358255d803727c9",
+      "url": "https://www.radiodos.com.ar/217464-copa-sudamericana-los-millones-que-podria-recibir-boca-si-se-consagra-campeon",
+      "title": "Copa Sudamericana: Los millones que podría recibir Boca si se consagra campeón",
+      "volanta": "Este sábado a las 19.30 horas",
+      "date": "2026-11-20T22:05:31+00:00"
+    },
     {
       "id": "7efacb15",
       "image": "img/7efacb15.png",
@@ -531,15 +540,6 @@
       "title": "Demoraron a un adolescente que deambulaba armado con un cuchillo y llevaba un cuadro de bicicleta robado",
       "volanta": "Barrio Montaña",
       "date": "2026-11-18T21:57:59+00:00"
-    },
-    {
-      "id": "e6291c32",
-      "image": "img/e6291c32.png",
-      "image_sha": "9c04598d3f151e44fab12f1fea18ea053d404163",
-      "url": "https://www.radiodos.com.ar/217328-prive-marriott-corrientes-sera-escenario-de-la-gala-del-ano",
-      "title": "PRIVÉ: Marriott Corrientes será escenario de La Gala del Año",
-      "volanta": "REUNION DE LUJO",
-      "date": "2026-11-18T21:57:23+00:00"
     }
   ]
 }
