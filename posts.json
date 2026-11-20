@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T18:42:53+00:00",
+  "updated": "2026-11-20T18:43:28+00:00",
   "posts": [
+    {
+      "id": "48acc942",
+      "image": "img/48acc942.png",
+      "image_sha": "c612d48236d79fd0836752cff774e2dbe959de4f",
+      "url": "https://www.radiodos.com.ar/217459-una-nena-en-gravisismo-estado-de-salud-tras-sufrir-un-accidente-en-un-campo",
+      "title": "Una nena en gravísismo estado de salud tras sufrir un accidente en un campo",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-20T18:43:28+00:00"
+    },
     {
       "id": "429e1940",
       "image": "img/429e1940.png",
@@ -531,15 +540,6 @@
       "title": "Se cayó por falta de quórum la sesión en Diputados para debatir la Ley Malvinas y la Reforma del Banco Central",
       "volanta": "CONGRESO",
       "date": "2026-11-18T18:56:44+00:00"
-    },
-    {
-      "id": "808a1ae7",
-      "image": "img/808a1ae7.png",
-      "image_sha": "21e18db957af59c995483b48532f0fb78aa167f4",
-      "url": "https://www.radiodos.com.ar/217324-brasil-aplicara-una-dura-sancion-a-los-clubes-que-no-paguen-los-salarios-que-les-pasara",
-      "title": "Brasil aplicará una dura sanción a los clubes que no paguen los salarios: qué les pasará",
-      "volanta": "NOVEDAD",
-      "date": "2026-11-18T18:56:08+00:00"
     }
   ]
 }
