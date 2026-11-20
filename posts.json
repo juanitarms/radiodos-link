@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T16:16:43+00:00",
+  "updated": "2026-11-20T16:17:29+00:00",
   "posts": [
+    {
+      "id": "619d6006",
+      "image": "img/619d6006.png",
+      "image_sha": "47101cc8f9f514bb800fa35e4a802f4f73677f39",
+      "url": "https://www.radiodos.com.ar/217462-alumnos-correntinos-escribieron-un-libro-para-conocer-y-defender-sus-derechos",
+      "title": "Alumnos correntinos escribieron un libro para conocer y defender sus derechos",
+      "volanta": "ARTICULACIÓN EDUCACIÓN-JUSTICIA",
+      "date": "2026-11-20T16:17:29+00:00"
+    },
     {
       "id": "0c57a5a8",
       "image": "img/0c57a5a8.png",
@@ -531,15 +540,6 @@
       "title": "Llevaban marihuana entre sus ropas y fueron detenidos",
       "volanta": "SAN LUIS DEL PALMAR",
       "date": "2026-11-18T16:30:09+00:00"
-    },
-    {
-      "id": "063d5b65",
-      "image": "img/063d5b65.png",
-      "image_sha": "49d9bc924151993dd806d570563d2fd0fd53b90f",
-      "url": "https://www.radiodos.com.ar/217317-aguas-de-corrientes-amplia-la-red-de-agua-potable-en-el-barrio-quintana",
-      "title": "Aguas de Corrientes amplía la red de agua potable en el barrio Quintana",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-18T16:29:31+00:00"
     }
   ]
 }
