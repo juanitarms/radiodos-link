@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T15:11:21+00:00",
+  "updated": "2026-11-20T16:16:43+00:00",
   "posts": [
+    {
+      "id": "0c57a5a8",
+      "image": "img/0c57a5a8.png",
+      "image_sha": "097cf0bde2d20d96a3b77e23446047f1e6b93052",
+      "url": "https://www.radiodos.com.ar/217463-tras-una-intensa-persecucion-localizaron-dos-camionetas-robadas-cargadas-con-cigarrillos-de-contrabando",
+      "title": "Tras una intensa persecución localizaron dos camionetas robadas cargadas con cigarrillos de contrabando",
+      "volanta": "MERCEDES",
+      "date": "2026-11-20T16:16:43+00:00"
+    },
     {
       "id": "88f31cae",
       "image": "img/88f31cae.png",
@@ -531,15 +540,6 @@
       "title": "Aguas de Corrientes amplía la red de agua potable en el barrio Quintana",
       "volanta": "CORRIENTES",
       "date": "2026-11-18T16:29:31+00:00"
-    },
-    {
-      "id": "f07165b6",
-      "image": "img/f07165b6.png",
-      "image_sha": "12d266fab3226e1d6087f20d58cf1b04873903a2",
-      "url": "https://www.radiodos.com.ar/217318-lanzan-el-nande-week-correntino-2026-con-descuentos-promociones-y-3-millones-en-premios",
-      "title": "Lanzan el Ñande Week Correntino 2026 con descuentos, promociones y $3 millones en premios",
-      "volanta": "IMPULSO AL COMERCIO LOCAL",
-      "date": "2026-11-18T16:28:41+00:00"
     }
   ]
 }
