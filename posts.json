@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T16:17:29+00:00",
+  "updated": "2026-11-20T17:23:28+00:00",
   "posts": [
+    {
+      "id": "0fce4fe8",
+      "image": "img/0fce4fe8.png",
+      "image_sha": "1ce2e3552429ccc8c29f9ad0702ed6ccdfa552d7",
+      "url": "https://www.radiodos.com.ar/217461-a-poco-mas-de-una-semana-de-las-elecciones-en-espana-sanchez-y-feijoo-protagonizaron-un-fuerte-debate",
+      "title": "A poco más de una semana de las elecciones en España, Sánchez y Feijóo protagonizaron un fuerte debate",
+      "volanta": "RECTA FINAL",
+      "date": "2026-11-20T17:23:28+00:00"
+    },
     {
       "id": "619d6006",
       "image": "img/619d6006.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: Realizarán un careo entre Caillava y un efectivo de la Policía Federal",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-11-18T18:04:55+00:00"
-    },
-    {
-      "id": "89aecfb7",
-      "image": "img/89aecfb7.png",
-      "image_sha": "d50029fba3be9af313d101a9373057adbe2c6188",
-      "url": "https://www.radiodos.com.ar/217315-llevaban-marihuana-entre-sus-ropas-y-fueron-detenidos",
-      "title": "Llevaban marihuana entre sus ropas y fueron detenidos",
-      "volanta": "SAN LUIS DEL PALMAR",
-      "date": "2026-11-18T16:30:09+00:00"
     }
   ]
 }
