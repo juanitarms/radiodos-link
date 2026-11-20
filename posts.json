@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T13:11:10+00:00",
+  "updated": "2026-11-20T13:32:48+00:00",
   "posts": [
+    {
+      "id": "8e84af88",
+      "image": "img/8e84af88.png",
+      "image_sha": "2920ff3f6d4b5b644604c496b4a4efb06576b207",
+      "url": "https://www.radiodos.com.ar/217441-madre-de-matias-chirino-tras-la-indemnizacion-civil-mi-hijo-no-es-una-cifra",
+      "title": "Madre de Matías Chirino tras la indemnización civil: \"Mi hijo no es una cifra\"",
+      "volanta": "DURO DESCARGO",
+      "date": "2026-11-20T13:32:48+00:00"
+    },
     {
       "id": "2b7bbc70",
       "image": "img/2b7bbc70.png",
@@ -531,15 +540,6 @@
       "title": "PASO: Patricia Bullrich busca reunir firmas para avanzar con el dictamen de la reforma política",
       "volanta": "RUMBO AL 2027",
       "date": "2026-11-18T13:54:55+00:00"
-    },
-    {
-      "id": "000ffaf1",
-      "image": "img/000ffaf1.png",
-      "image_sha": "a9dc9c2a8ca0b4882d04e4e124abab3c3da3b584",
-      "url": "https://www.radiodos.com.ar/217299-la-armada-argentina-invertira-mas-de-us620-mil-para-modernizar-tres-buques-de-guerra-de-la-decada-del-80",
-      "title": "La Armada Argentina invertirá más de US$620 mil para modernizar tres buques de guerra de la década del '80",
-      "volanta": "NOVEDAD",
-      "date": "2026-11-18T13:13:32+00:00"
     }
   ]
 }
