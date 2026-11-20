@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T12:37:18+00:00",
+  "updated": "2026-11-20T13:11:10+00:00",
   "posts": [
+    {
+      "id": "2b7bbc70",
+      "image": "img/2b7bbc70.png",
+      "image_sha": "ad2727d11e3f7a8e7ef883f131f9dc043733d3ab",
+      "url": "https://www.radiodos.com.ar/217438-el-martes-24-empieza-el-pago-de-sueldos-a-agentes-provinciales",
+      "title": "El martes 24 empieza el pago de sueldos a agentes provinciales",
+      "volanta": "MES DE NOVIEMBRE",
+      "date": "2026-11-20T13:11:10+00:00"
+    },
     {
       "id": "dc2ded7a",
       "image": "img/dc2ded7a.png",
@@ -531,15 +540,6 @@
       "title": "La Armada Argentina invertirá más de US$620 mil para modernizar tres buques de guerra de la década del '80",
       "volanta": "NOVEDAD",
       "date": "2026-11-18T13:13:32+00:00"
-    },
-    {
-      "id": "e94a126e",
-      "image": "img/e94a126e.png",
-      "image_sha": "934846c251a34f5c51c99b4027f4b16a59ee35da",
-      "url": "https://www.radiodos.com.ar/217294-el-dj-del-casamiento-de-lali-esposito-y-pedro-rosemblat-filtro-la-lista-de-canciones-prohibidas-en-la-fiesta",
-      "title": "El DJ del casamiento de Lali Espósito y Pedro Rosemblat filtró la lista de canciones prohibidas en la fiesta",
-      "volanta": "SORPRESA",
-      "date": "2026-11-18T12:53:51+00:00"
     }
   ]
 }
