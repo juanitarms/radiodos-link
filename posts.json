@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T13:58:01+00:00",
+  "updated": "2026-11-20T14:20:23+00:00",
   "posts": [
+    {
+      "id": "37c5092f",
+      "image": "img/37c5092f.png",
+      "image_sha": "73da904beca30a80a0450bbdaa434e9b95b466b7",
+      "url": "https://www.radiodos.com.ar/217451-operativo-de-garrafa-social-cronograma-semanal",
+      "title": "Operativo de Garrafa Social: Cronograma Semanal",
+      "volanta": "DESARROLLO SOCIAL",
+      "date": "2026-11-20T14:20:23+00:00"
+    },
     {
       "id": "ba3cd04e",
       "image": "img/ba3cd04e.png",
@@ -531,15 +540,6 @@
       "title": "Desgarrador testimonio de la mamá de la adolescente que murió tras asistir a una fiesta en Mendoza",
       "volanta": "INVESTIGACIÓN",
       "date": "2026-11-18T14:35:29+00:00"
-    },
-    {
-      "id": "9e4cd7d3",
-      "image": "img/9e4cd7d3.png",
-      "image_sha": "dc97b1a609ee177403a0156e9879575289d7cc91",
-      "url": "https://www.radiodos.com.ar/217301-un-apostador-del-interior-de-corrientes-gano-42-millones-con-la-poceada",
-      "title": "Un apostador del interior de Corrientes ganó $42 millones con la Poceada",
-      "volanta": "QUINIELA CORRENTINA",
-      "date": "2026-11-18T14:15:20+00:00"
     }
   ]
 }
