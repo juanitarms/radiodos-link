@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T19:12:02+00:00",
+  "updated": "2026-11-20T21:59:48+00:00",
   "posts": [
+    {
+      "id": "4e45de87",
+      "image": "img/4e45de87.png",
+      "image_sha": "386da00b94ddb5f4e022338ecd271679302a0cc2",
+      "url": "https://www.radiodos.com.ar/217465-pity-alvarez-fue-condenado-a-12-anos-por-el-crimen-de-cristian-diaz",
+      "title": "Pity Álvarez fue condenado a 12 años por el crimen de Cristian Díaz",
+      "volanta": "FALLO JUDICIAL",
+      "date": "2026-11-20T21:59:48+00:00"
+    },
     {
       "id": "57749d31",
       "image": "img/57749d31.png",
@@ -531,15 +540,6 @@
       "title": "El Hospital Vidal de Corrientes incorporó un ecógrafo de última generación",
       "volanta": "TECNOLOGÍA DE PUNTA",
       "date": "2026-11-18T21:24:42+00:00"
-    },
-    {
-      "id": "53ae9c58",
-      "image": "img/53ae9c58.png",
-      "image_sha": "69d54fd6305b8ebb68cc34f19e3f9f029a30ac46",
-      "url": "https://www.radiodos.com.ar/217326-es-ley-la-declaracion-de-emergencia-climatica-e-hidrica-en-corrientes",
-      "title": "Es ley la Declaración de Emergencia Climática e Hídrica en Corrientes",
-      "volanta": "Sesión 19",
-      "date": "2026-11-18T21:24:05+00:00"
     }
   ]
 }
