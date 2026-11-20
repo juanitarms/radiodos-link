@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T17:23:28+00:00",
+  "updated": "2026-11-20T17:24:13+00:00",
   "posts": [
+    {
+      "id": "7f46230b",
+      "image": "img/7f46230b.png",
+      "image_sha": "b037b638bc89ae6861c41c70eff458cf547e6c63",
+      "url": "https://www.radiodos.com.ar/217460-vecinos-saquearon-el-supermercado-del-comerciante-chino-acusado-de-manosear-a-un-chico",
+      "title": "Vecinos saquearon el supermercado del comerciante chino acusado de manosear a un chico",
+      "volanta": "Tigre",
+      "date": "2026-11-20T17:24:13+00:00"
+    },
     {
       "id": "0fce4fe8",
       "image": "img/0fce4fe8.png",
@@ -531,15 +540,6 @@
       "title": "En pleno juicio Codazzi ingresó a la sala y fue retirado por las autoridades",
       "volanta": "CASO LOAN PEÑA",
       "date": "2026-11-18T18:55:27+00:00"
-    },
-    {
-      "id": "275d92f3",
-      "image": "img/275d92f3.png",
-      "image_sha": "6ff466c22bd1f8945eea7a3b9a59735175370db2",
-      "url": "https://www.radiodos.com.ar/217321-caso-loan-realizaran-un-careo-entre-caillava-y-un-efectivo-de-la-policia-federal",
-      "title": "Caso Loan: Realizarán un careo entre Caillava y un efectivo de la Policía Federal",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-11-18T18:04:55+00:00"
     }
   ]
 }
