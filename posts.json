@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T10:33:29+00:00",
+  "updated": "2026-11-20T10:48:21+00:00",
   "posts": [
+    {
+      "id": "0114d47e",
+      "image": "img/0114d47e.png",
+      "image_sha": "3dafc998d345c948c1056d1b6abce702f9fec055",
+      "url": "https://www.radiodos.com.ar/217414-el-hospital-materno-neonatal-celebro-la-vuelta-de-los-campeones",
+      "title": "El Hospital Materno Neonatal celebró la \"vuelta de los campeones\"",
+      "volanta": "Una red de cuidados",
+      "date": "2026-11-20T10:48:21+00:00"
+    },
     {
       "id": "25ea5483",
       "image": "img/25ea5483.png",
@@ -531,15 +540,6 @@
       "title": "Nations League: Con un penal agónico de Haaland, Noruega dio vuelta el partido ante los daneses  y clasificó a cuartos de final",
       "volanta": "FÚTBOL",
       "date": "2026-11-17T23:33:39+00:00"
-    },
-    {
-      "id": "04e3c2fe",
-      "image": "img/04e3c2fe.png",
-      "image_sha": "fef007af5845c51eb58b7a0149f8fc601e050f1b",
-      "url": "https://www.radiodos.com.ar/217268-salarios-municipales-piden-abrir-la-discusion-paritaria-para-recuperar-el-poder-adquisitivo",
-      "title": "Salarios municipales: piden abrir la discusión paritaria para recuperar el poder adquisitivo",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-17T23:32:50+00:00"
     }
   ]
 }
