@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T10:48:21+00:00",
+  "updated": "2026-11-20T11:09:55+00:00",
   "posts": [
+    {
+      "id": "3dc581c0",
+      "image": "img/3dc581c0.png",
+      "image_sha": "32539fcd20afcaa7f1c13812fac79f86e3bdb1c3",
+      "url": "https://www.radiodos.com.ar/217413-un-automovilista-atropello-a-dos-motociclistas-y-huyo",
+      "title": "Un automovilista atropelló a dos motociclistas y huyó",
+      "volanta": "Buscan al conductor",
+      "date": "2026-11-20T11:09:55+00:00"
+    },
     {
       "id": "0114d47e",
       "image": "img/0114d47e.png",
@@ -531,15 +540,6 @@
       "title": "Alerta naranja en casi toda la provincia por tormentas fuertes",
       "volanta": "PRONÓSTICO",
       "date": "2026-11-18T10:33:50+00:00"
-    },
-    {
-      "id": "f2330f11",
-      "image": "img/f2330f11.png",
-      "image_sha": "b30d2861ea682f9fdb5ec9a41206ab4e30d0ff08",
-      "url": "https://www.radiodos.com.ar/217267-nations-league-con-un-penal-agonico-de-haaland-noruega-dio-vuelta-el-partido-ante-los-daneses-y-clasifico-a-cuartos-de-final",
-      "title": "Nations League: Con un penal agónico de Haaland, Noruega dio vuelta el partido ante los daneses  y clasificó a cuartos de final",
-      "volanta": "FÚTBOL",
-      "date": "2026-11-17T23:33:39+00:00"
     }
   ]
 }
