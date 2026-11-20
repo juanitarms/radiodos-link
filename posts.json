@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T21:59:48+00:00",
+  "updated": "2026-11-20T22:04:08+00:00",
   "posts": [
+    {
+      "id": "ed85c9f7",
+      "image": "img/ed85c9f7.png",
+      "image_sha": "2b0b80830e5bb61f8e52aaf1dbdf828ce1857205",
+      "url": "https://www.radiodos.com.ar/217467-yacyreta-avanza-con-una-obra-clave-que-permitira-aumentar-un-10-su-generacion-de-energia",
+      "title": "Yacyretá avanza con una obra clave que permitirá aumentar un 10% su generación de energía",
+      "volanta": "ampliación de su capacida",
+      "date": "2026-11-20T22:04:08+00:00"
+    },
     {
       "id": "4e45de87",
       "image": "img/4e45de87.png",
@@ -531,15 +540,6 @@
       "title": "Condenaron al Estado a indemnizar a la familia de Matías Chirino por su muerte en un bautismo militar",
       "volanta": "Fallo judicial",
       "date": "2026-11-18T21:26:03+00:00"
-    },
-    {
-      "id": "f97b680c",
-      "image": "img/f97b680c.png",
-      "image_sha": "16d57c3e63389a329ef92ab9a27b23171d679fd3",
-      "url": "https://www.radiodos.com.ar/217327-el-hospital-vidal-de-corrientes-incorporo-un-ecografo-de-ultima-generacion",
-      "title": "El Hospital Vidal de Corrientes incorporó un ecógrafo de última generación",
-      "volanta": "TECNOLOGÍA DE PUNTA",
-      "date": "2026-11-18T21:24:42+00:00"
     }
   ]
 }
