@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T22:04:08+00:00",
+  "updated": "2026-11-20T22:04:54+00:00",
   "posts": [
+    {
+      "id": "7efacb15",
+      "image": "img/7efacb15.png",
+      "image_sha": "bc68e4aa47d9be29a294b2f21c200c9ded047453",
+      "url": "https://www.radiodos.com.ar/217468-un-grave-siniestro-dejo-una-persona-muerta-sobre-ruta-12",
+      "title": "Un grave siniestro dejó una persona muerta sobre ruta 12",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-20T22:04:54+00:00"
+    },
     {
       "id": "ed85c9f7",
       "image": "img/ed85c9f7.png",
@@ -531,15 +540,6 @@
       "title": "PRIVÉ: Marriott Corrientes será escenario de La Gala del Año",
       "volanta": "REUNION DE LUJO",
       "date": "2026-11-18T21:57:23+00:00"
-    },
-    {
-      "id": "08ece2ec",
-      "image": "img/08ece2ec.png",
-      "image_sha": "3d5338c83cf4cc4e90c6e3b0e61a6ac1d37dff65",
-      "url": "https://www.radiodos.com.ar/217330-condenaron-al-estado-a-indemnizar-a-la-familia-de-matias-chirino-por-su-muerte-en-un-bautismo-militar",
-      "title": "Condenaron al Estado a indemnizar a la familia de Matías Chirino por su muerte en un bautismo militar",
-      "volanta": "Fallo judicial",
-      "date": "2026-11-18T21:26:03+00:00"
     }
   ]
 }
