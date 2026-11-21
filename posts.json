@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-21T14:11:56+00:00",
+  "updated": "2026-11-21T17:10:47+00:00",
   "posts": [
+    {
+      "id": "efe379b8",
+      "image": "img/efe379b8.png",
+      "image_sha": "ebc30786d9bfadd5eb25b1b59e145147550f6f20",
+      "url": "https://www.radiodos.com.ar/217480-tragedia-vial-en-curuzu-cuatia-murio-el-chofer-de-un-camion-cisterna-en-ruta-119",
+      "title": "Tragedia vial en Curuzú Cuatiá: murió el chofer de un camión cisterna en Ruta 119",
+      "volanta": "LAMENTABLE",
+      "date": "2026-11-21T17:10:47+00:00"
+    },
     {
       "id": "4c9c4dd6",
       "image": "img/4c9c4dd6.png",
@@ -531,15 +540,6 @@
       "title": "ATE Corrientes convocó a un paro provincial para este viernes en reclamo de una recomposición salarial",
       "volanta": "Medida de fuerza",
       "date": "2026-11-18T22:00:11+00:00"
-    },
-    {
-      "id": "d6bf926c",
-      "image": "img/d6bf926c.png",
-      "image_sha": "19efe6eb4f87276ab4ac9acc489e8438842f0689",
-      "url": "https://www.radiodos.com.ar/217337-itati-el-rio-parana-sigue-en-bajante-y-la-costanera-volvio-a-quedar-libre-de-agua",
-      "title": "Itatí: El río Paraná sigue en bajante y la Costanera volvió a quedar libre de agua",
-      "volanta": "Alivio",
-      "date": "2026-11-18T21:59:33+00:00"
     }
   ]
 }
