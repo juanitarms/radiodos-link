@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T20:41:19+00:00",
+  "updated": "2026-11-22T22:15:07+00:00",
   "posts": [
+    {
+      "id": "bcfa68b9",
+      "image": "img/bcfa68b9.png",
+      "image_sha": "97950c016f78e0783c6dcefb68e62d966500d8f9",
+      "url": "https://www.radiodos.com.ar/217516-una-adolescente-de-17-anos-esta-en-estado-critico-tras-sufrir-una-descarga-electrica-de-un-secarropas",
+      "title": "Una adolescente de 17 años está en estado crítico tras sufrir una descarga eléctrica de un secarropas",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-22T22:15:07+00:00"
+    },
     {
       "id": "adc099bd",
       "image": "img/adc099bd.png",
@@ -531,15 +540,6 @@
       "title": "Reforma electoral: tras obtener dictamen, el Senado debatirá la suspensión de las PASO el próximo jueves 26",
       "volanta": "CONGRESO",
       "date": "2026-11-19T13:00:27+00:00"
-    },
-    {
-      "id": "b88e9845",
-      "image": "img/b88e9845.png",
-      "image_sha": "72eea2e10392e43a2609946147b9b3aaea444885",
-      "url": "https://www.radiodos.com.ar/217361-murio-otro-operario-de-metrogas-por-la-explosion-en-remedios-escalada",
-      "title": "Murió otro operario de Metrogas por la explosión en Remedios Escalada",
-      "volanta": "SIGUE LA INVESTIGACIÓN",
-      "date": "2026-11-19T12:44:31+00:00"
     }
   ]
 }
