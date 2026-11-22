@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T17:48:30+00:00",
+  "updated": "2026-11-22T20:40:33+00:00",
   "posts": [
+    {
+      "id": "ce352fc0",
+      "image": "img/ce352fc0.png",
+      "image_sha": "a2f985ff2940bdd080bd2746af2381ac4bf68a21",
+      "url": "https://www.radiodos.com.ar/217512-el-consumo-masivo-crecio-en-octubre-pero-acumula-una-caida-de-23-en-lo-que-va-del-ano",
+      "title": "El consumo masivo creció en octubre, pero acumula una caída de 2,3% en lo que va del año",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-22T20:40:33+00:00"
+    },
     {
       "id": "eda32102",
       "image": "img/eda32102.png",
@@ -531,15 +540,6 @@
       "title": "CAME solicita a los diputados nacionales la aprobación de la nueva Ley de Biocombustibles",
       "volanta": "Comunicado",
       "date": "2026-11-19T12:12:20+00:00"
-    },
-    {
-      "id": "b661d822",
-      "image": "img/b661d822.png",
-      "image_sha": "f5b500584ee5f823732d8b9a56da72989f8b3683",
-      "url": "https://www.radiodos.com.ar/217352-el-nino-continuara-durante-el-verano-y-advierten-sobre-los-niveles-del-rio-parana",
-      "title": "El Niño continuará durante el verano y advierten sobre los niveles del río Paraná",
-      "volanta": "NOTA TÉCNICA N° 7",
-      "date": "2026-11-19T11:48:34+00:00"
     }
   ]
 }
