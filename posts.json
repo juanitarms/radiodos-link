@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T22:15:07+00:00",
+  "updated": "2026-11-22T22:15:51+00:00",
   "posts": [
+    {
+      "id": "b413b3d6",
+      "image": "img/b413b3d6.png",
+      "image_sha": "3fef5ec4d22d6ac815b2a447c24e9383051bb355",
+      "url": "https://www.radiodos.com.ar/217517-las-tarjetas-de-credito-y-debito-concentran-casi-7-de-cada-10-pagos-en-los-supermercados-argentinos",
+      "title": "Las tarjetas de crédito y débito concentran casi 7 de cada 10 pagos en los supermercados argentinos",
+      "volanta": "Crisis",
+      "date": "2026-11-22T22:15:51+00:00"
+    },
     {
       "id": "bcfa68b9",
       "image": "img/bcfa68b9.png",
@@ -531,15 +540,6 @@
       "title": "Así serán los servicios municipales durante el feriado del 23 de noviembre",
       "volanta": "DÍA DE LA SOBERANÍA NACIONAL",
       "date": "2026-11-19T13:32:58+00:00"
-    },
-    {
-      "id": "23bacfa3",
-      "image": "img/23bacfa3.png",
-      "image_sha": "4e3b122848afe9d237ec42167a4090f9a99a103f",
-      "url": "https://www.radiodos.com.ar/217364-reforma-electoral-tras-obtener-dictamen-el-senado-debatira-la-suspension-de-las-paso-el-proximo-jueves-26",
-      "title": "Reforma electoral: tras obtener dictamen, el Senado debatirá la suspensión de las PASO el próximo jueves 26",
-      "volanta": "CONGRESO",
-      "date": "2026-11-19T13:00:27+00:00"
     }
   ]
 }
