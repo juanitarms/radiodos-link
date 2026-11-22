@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T17:47:54+00:00",
+  "updated": "2026-11-22T17:48:30+00:00",
   "posts": [
+    {
+      "id": "eda32102",
+      "image": "img/eda32102.png",
+      "image_sha": "93b6a318de09b8c8ca8645692c5402e330d1b707",
+      "url": "https://www.radiodos.com.ar/217510-anciano-baleo-a-un-vecino-en-el-barrio-san-marcos",
+      "title": "Anciano baleó a un vecino en el barrio San Marcos",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-22T17:48:30+00:00"
+    },
     {
       "id": "33494435",
       "image": "img/33494435.png",
@@ -531,15 +540,6 @@
       "title": "El Niño continuará durante el verano y advierten sobre los niveles del río Paraná",
       "volanta": "NOTA TÉCNICA N° 7",
       "date": "2026-11-19T11:48:34+00:00"
-    },
-    {
-      "id": "fd10089f",
-      "image": "img/fd10089f.png",
-      "image_sha": "eeba43f626caf6a41386fe903d0b9e689178acbb",
-      "url": "https://www.radiodos.com.ar/217346-el-instituto-clinico-polivalente-del-ioscor-consolida-su-atencion-con-tecnologia-de-punta-y-nuevas-prestaciones",
-      "title": "El Instituto Clínico Polivalente del IOSCOR consolida su atención con tecnología de punta y nuevas prestaciones",
-      "volanta": "SALUD Y PREVENCIÓN PARA LOS AFILIADOS",
-      "date": "2026-11-19T11:35:23+00:00"
     }
   ]
 }
