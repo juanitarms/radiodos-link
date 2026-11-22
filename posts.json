@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T20:40:33+00:00",
+  "updated": "2026-11-22T20:41:19+00:00",
   "posts": [
+    {
+      "id": "adc099bd",
+      "image": "img/adc099bd.png",
+      "image_sha": "70e7e1bd3194ea62a8237fdfa195e232ab908112",
+      "url": "https://www.radiodos.com.ar/217507-copa-sudamericana-arruabarrena-celebro-el-campeonato-de-boca-pero-ya-puso-la-mira-en-el-torneo-local",
+      "title": "Copa Sudamericana: Arruabarrena celebró el campeonato de Boca pero ya puso la mira en el torneo local",
+      "volanta": "Con los pies en la tierra",
+      "date": "2026-11-22T20:41:19+00:00"
+    },
     {
       "id": "ce352fc0",
       "image": "img/ce352fc0.png",
@@ -531,15 +540,6 @@
       "title": "Murió otro operario de Metrogas por la explosión en Remedios Escalada",
       "volanta": "SIGUE LA INVESTIGACIÓN",
       "date": "2026-11-19T12:44:31+00:00"
-    },
-    {
-      "id": "195f2bb6",
-      "image": "img/195f2bb6.png",
-      "image_sha": "5af27cfc9ef8559b9eeb53c8cf1281ce88ef03f4",
-      "url": "https://www.radiodos.com.ar/217351-came-solicita-a-los-diputados-nacionales-la-aprobacion-de-la-nueva-ley-de-biocombustibles",
-      "title": "CAME solicita a los diputados nacionales la aprobación de la nueva Ley de Biocombustibles",
-      "volanta": "Comunicado",
-      "date": "2026-11-19T12:12:20+00:00"
     }
   ]
 }
