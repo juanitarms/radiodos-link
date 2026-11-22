@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T15:10:36+00:00",
+  "updated": "2026-11-22T17:47:54+00:00",
   "posts": [
+    {
+      "id": "33494435",
+      "image": "img/33494435.png",
+      "image_sha": "85e523fb947f113699adc36cd575579dc526038e",
+      "url": "https://www.radiodos.com.ar/217515-rocio-baez-acompano-a-clara-galindez-y-puso-la-inclusion-en-el-centro-de-la-jornada-sobre-sindrome-de-down",
+      "title": "Rocío Báez acompañó a Clara Galíndez y puso la inclusión en el centro de la jornada sobre síndrome de Down",
+      "volanta": "Concientización",
+      "date": "2026-11-22T17:47:54+00:00"
+    },
     {
       "id": "95fed8bd",
       "image": "img/95fed8bd.png",
@@ -531,15 +540,6 @@
       "title": "El Instituto Clínico Polivalente del IOSCOR consolida su atención con tecnología de punta y nuevas prestaciones",
       "volanta": "SALUD Y PREVENCIÓN PARA LOS AFILIADOS",
       "date": "2026-11-19T11:35:23+00:00"
-    },
-    {
-      "id": "584389fa",
-      "image": "img/584389fa.png",
-      "image_sha": "924837134e0be8632aa83cfcc157dfcfcf7bd9ac",
-      "url": "https://www.radiodos.com.ar/217344-se-anuncian-para-hoy-tormentas-fuertes-en-corrientes-y-tres-localidades",
-      "title": "Se anuncian para hoy tormentas fuertes en Corrientes y tres localidades",
-      "volanta": "PRONÓSTICO",
-      "date": "2026-11-19T10:35:23+00:00"
     }
   ]
 }
