@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T13:10:08+00:00",
+  "updated": "2026-11-23T13:32:50+00:00",
   "posts": [
+    {
+      "id": "abbabe5d",
+      "image": "img/abbabe5d.png",
+      "image_sha": "22b71ea30ff7eaa9f3b2cc6fad27b8c21cddd2e4",
+      "url": "https://www.radiodos.com.ar/217530-seguridad-y-educacion-vial-la-ciudad-de-corrientes-redujo-un-40-las-victimas-fatales",
+      "title": "Seguridad y educación vial: la ciudad  de Corrientes redujo un 40% las víctimas fatales",
+      "volanta": "INFORME DE LA MUNICIPALIDAD",
+      "date": "2026-11-23T13:32:50+00:00"
+    },
     {
       "id": "bb8b726c",
       "image": "img/bb8b726c.png",
@@ -531,15 +540,6 @@
       "title": "Marta Fort destrozó a su exnovio tras la separación y lanzó una frase lapidaria: \"No le dio la talla\"",
       "volanta": "SINCERA",
       "date": "2026-11-19T14:58:04+00:00"
-    },
-    {
-      "id": "2bdb8c16",
-      "image": "img/2bdb8c16.png",
-      "image_sha": "a72a17284681e48119b83e7e692491691a34f6c2",
-      "url": "https://www.radiodos.com.ar/217358-buscan-a-una-mujer-que-padece-una-enfermedad-de-salud-mental",
-      "title": "Buscan a una mujer que padece una enfermedad de salud mental",
-      "volanta": "GOYA",
-      "date": "2026-11-19T14:23:36+00:00"
     }
   ]
 }
