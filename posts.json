@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T13:32:50+00:00",
+  "updated": "2026-11-23T14:03:54+00:00",
   "posts": [
+    {
+      "id": "8693ac9f",
+      "image": "img/8693ac9f.png",
+      "image_sha": "ecababf7505b5a32aeca9ef0e09c3926afce204d",
+      "url": "https://www.radiodos.com.ar/217533-con-viajes-mas-cortos-y-menor-consumo-el-fin-de-semana-largo-por-el-dia-de-la-soberania-nacional-dejo-un-impacto-de-332557-millones",
+      "title": "Con viajes más cortos y menor consumo, el fin de semana largo por el Día de la Soberanía Nacional dejó un impacto de $ 332.557 millones",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-11-23T14:03:54+00:00"
+    },
     {
       "id": "abbabe5d",
       "image": "img/abbabe5d.png",
@@ -531,15 +540,6 @@
       "title": "Rodrigo de la Serna atraviesa un duro momento con su ex por sus hijos",
       "volanta": "CONFLICTO",
       "date": "2026-11-19T15:14:33+00:00"
-    },
-    {
-      "id": "50b947d2",
-      "image": "img/50b947d2.png",
-      "image_sha": "818b5b331a31f0782e0daeb9330c427cebc8b913",
-      "url": "https://www.radiodos.com.ar/217383-marta-fort-destrozo-a-su-exnovio-tras-la-separacion-y-lanzo-una-frase-lapidaria-no-le-dio-la-talla",
-      "title": "Marta Fort destrozó a su exnovio tras la separación y lanzó una frase lapidaria: \"No le dio la talla\"",
-      "volanta": "SINCERA",
-      "date": "2026-11-19T14:58:04+00:00"
     }
   ]
 }
