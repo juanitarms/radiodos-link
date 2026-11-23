@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T23:15:47+00:00",
+  "updated": "2026-11-23T23:29:03+00:00",
   "posts": [
+    {
+      "id": "bfa86809",
+      "image": "img/bfa86809.png",
+      "image_sha": "ff08f96518806a3e7cc5628a3ef506a7fa241eb4",
+      "url": "https://www.radiodos.com.ar/217555-torneo-clausura-en-un-duelo-infartante-que-llego-al-alargue-gimnasia-supero-a-newell-s-y-avanza",
+      "title": "Torneo Clausura: En un duelo infartante que llegó al alargue, Gimnasia superó a Newell’s y avanza",
+      "volanta": "Fue 4 a 2",
+      "date": "2026-11-23T23:29:03+00:00"
+    },
     {
       "id": "ba7613c9",
       "image": "img/ba7613c9.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: el SMN emitió un alerta amarilla por tormentas fuertes y ráfagas",
       "volanta": "Viernes inestabl",
       "date": "2026-11-19T22:38:54+00:00"
-    },
-    {
-      "id": "f51e5728",
-      "image": "img/f51e5728.png",
-      "image_sha": "1a12714bb57122ce248578e69a30961349706847",
-      "url": "https://www.radiodos.com.ar/217410-abuso-sexual-infantil-siete-de-cada-diez-declaraciones-de-ninos-estuvieron-vinculadas-a-estos-casos",
-      "title": "Abuso sexual infantil: siete de cada diez declaraciones de niños estuvieron vinculadas a estos casos",
-      "volanta": "LAMENTABLE",
-      "date": "2026-11-19T22:38:11+00:00"
     }
   ]
 }
