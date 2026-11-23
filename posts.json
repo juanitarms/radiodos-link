@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T17:03:12+00:00",
+  "updated": "2026-11-23T18:10:49+00:00",
   "posts": [
+    {
+      "id": "bfd6bb17",
+      "image": "img/bfd6bb17.png",
+      "image_sha": "b2349fab77c40485bb14131f2f6228c54f4ecd20",
+      "url": "https://www.radiodos.com.ar/217520-torneo-clausura-campaz-y-copetti-pusieron-al-canalla-en-cuartos-de-final",
+      "title": "Torneo Clausura: Campaz y Copetti pusieron al Canalla en cuartos de final",
+      "volanta": "Fue 3 a 1",
+      "date": "2026-11-23T18:10:49+00:00"
+    },
     {
       "id": "41466ffc",
       "image": "img/41466ffc.png",
@@ -531,15 +540,6 @@
       "title": "Camila Galante rompió el silencio tras rumores que vinculan a Paredes con la China Suárez: \"Cortamos...\"",
       "volanta": "CONTUNDENTE",
       "date": "2026-11-19T19:00:00+00:00"
-    },
-    {
-      "id": "111cdd02",
-      "image": "img/111cdd02.png",
-      "image_sha": "e5cec93549d996d0dde91b030fa17caec4f845ae",
-      "url": "https://www.radiodos.com.ar/217386-exitosa-muestra-cientifico-tecnologica-y-de-practicas-profesionalizantes-en-paso-de-los-libres",
-      "title": "Exitosa muestra científico tecnológica y de prácticas profesionalizantes en Paso de los Libres",
-      "volanta": "Escuela de Arte y Oficios",
-      "date": "2026-11-19T18:04:10+00:00"
     }
   ]
 }
