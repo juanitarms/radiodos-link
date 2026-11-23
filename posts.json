@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T12:33:50+00:00",
+  "updated": "2026-11-23T13:10:08+00:00",
   "posts": [
+    {
+      "id": "bb8b726c",
+      "image": "img/bb8b726c.png",
+      "image_sha": "506aa36ef1f54e001a462dcf9f654b55e5a2169e",
+      "url": "https://www.radiodos.com.ar/217529-manana-comienza-el-pago-de-sueldos-a-la-administracion-publica-provincial",
+      "title": "Mañana comienza el pago de sueldos a la administración pública provincial",
+      "volanta": "HASTA EL LUNES 30",
+      "date": "2026-11-23T13:10:08+00:00"
+    },
     {
       "id": "c331fb36",
       "image": "img/c331fb36.png",
@@ -531,15 +540,6 @@
       "title": "Buscan a una mujer que padece una enfermedad de salud mental",
       "volanta": "GOYA",
       "date": "2026-11-19T14:23:36+00:00"
-    },
-    {
-      "id": "5cbd0429",
-      "image": "img/5cbd0429.png",
-      "image_sha": "18ef4ab0c8673841de979089420d94938d6b8e4d",
-      "url": "https://www.radiodos.com.ar/217378-tragedia-un-nene-cayo-al-agua-su-padre-se-tiro-a-salvarlo-y-murieron-los-dos",
-      "title": "Tragedia: un nene cayó al agua, su padre se tiró a salvarlo y murieron los dos",
-      "volanta": "Mendoza",
-      "date": "2026-11-19T14:12:05+00:00"
     }
   ]
 }
