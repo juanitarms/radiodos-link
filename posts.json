@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T22:15:51+00:00",
+  "updated": "2026-11-23T12:03:44+00:00",
   "posts": [
+    {
+      "id": "a881d825",
+      "image": "img/a881d825.png",
+      "image_sha": "daa3bcc0a6f10fa79c9ee353699dc204b21dfbbe",
+      "url": "https://www.radiodos.com.ar/217527-choque-entre-dos-motos-termino-con-la-vida-de-un-joven-de-21-anos",
+      "title": "Choque entre dos motos terminó con la vida de un joven de 21 años",
+      "volanta": "GOBERNADOR VIRASORO",
+      "date": "2026-11-23T12:03:44+00:00"
+    },
     {
       "id": "b413b3d6",
       "image": "img/b413b3d6.png",
@@ -531,15 +540,6 @@
       "title": "\"Hacen mal las cuentas\": Javier Milei insiste en que \"es una mentira\" que la gente no llega a fin de mes",
       "volanta": "CRISIS",
       "date": "2026-11-19T13:51:37+00:00"
-    },
-    {
-      "id": "af94a5a0",
-      "image": "img/af94a5a0.png",
-      "image_sha": "c04d235087b7780d21b6c24e36a5e8ba594eada7",
-      "url": "https://www.radiodos.com.ar/217368-asi-seran-los-servicios-municipales-durante-el-feriado-del-23-de-noviembre",
-      "title": "Así serán los servicios municipales durante el feriado del 23 de noviembre",
-      "volanta": "DÍA DE LA SOBERANÍA NACIONAL",
-      "date": "2026-11-19T13:32:58+00:00"
     }
   ]
 }
