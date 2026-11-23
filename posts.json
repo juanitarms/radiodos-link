@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T18:52:46+00:00",
+  "updated": "2026-11-23T19:33:17+00:00",
   "posts": [
+    {
+      "id": "f79d19a0",
+      "image": "img/f79d19a0.png",
+      "image_sha": "63134d8d991fa02f24290cac42755fad3138660c",
+      "url": "https://www.radiodos.com.ar/217546-la-iglesia-pidio-al-senado-que-no-deje-caer-la-ley-contra-la-ludopatia",
+      "title": "La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
+      "volanta": "Fuerte reclamo",
+      "date": "2026-11-23T19:33:17+00:00"
+    },
     {
       "id": "3bf3524d",
       "image": "img/3bf3524d.png",
@@ -531,15 +540,6 @@
       "title": "Argentina mantiene el precio del gasoil más alto de la región",
       "volanta": "GOLPE AL BOLSILLO",
       "date": "2026-11-19T22:34:27+00:00"
-    },
-    {
-      "id": "bd4b465f",
-      "image": "img/bd4b465f.png",
-      "image_sha": "47cc4ca7132125629f3e1ea35d7ef8c5805bd7a5",
-      "url": "https://www.radiodos.com.ar/217405-el-nino-obligo-a-evacuar-casi-un-millon-de-cabezas-de-ganado-por-la-crecida-del-rio",
-      "title": "El Niño obligó a evacuar casi un millón de cabezas de ganado por la crecida del río",
-      "volanta": "ALERTA EN EL SECTOR GANADERO",
-      "date": "2026-11-19T21:05:24+00:00"
     }
   ]
 }
