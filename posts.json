@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T18:52:05+00:00",
+  "updated": "2026-11-23T18:52:46+00:00",
   "posts": [
+    {
+      "id": "3bf3524d",
+      "image": "img/3bf3524d.png",
+      "image_sha": "c5b15d5f2a3962c737073236054f94b6dca322c1",
+      "url": "https://www.radiodos.com.ar/217543-el-indice-de-confianza-en-el-gobierno-subio-un-41-en-noviembre-y-alcanzo-los-204-puntos",
+      "title": "El Índice de Confianza en el Gobierno subió un 4,1% en noviembre y alcanzó los 2,04 puntos",
+      "volanta": "Informe",
+      "date": "2026-11-23T18:52:46+00:00"
+    },
     {
       "id": "2490f3cc",
       "image": "img/2490f3cc.png",
@@ -531,15 +540,6 @@
       "title": "El Niño obligó a evacuar casi un millón de cabezas de ganado por la crecida del río",
       "volanta": "ALERTA EN EL SECTOR GANADERO",
       "date": "2026-11-19T21:05:24+00:00"
-    },
-    {
-      "id": "f5d91d2c",
-      "image": "img/f5d91d2c.png",
-      "image_sha": "08d3de45e1340fbe4bb47e423af7d92cce405779",
-      "url": "https://www.radiodos.com.ar/217404-valdes-anuncio-150-millones-y-alivio-fiscal-para-paso-de-la-patria",
-      "title": "Valdés anunció $150 millones y alivio fiscal para Paso de la Patria",
-      "volanta": "en su 154° aniversario",
-      "date": "2026-11-19T20:56:15+00:00"
     }
   ]
 }
