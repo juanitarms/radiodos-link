@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T17:02:14+00:00",
+  "updated": "2026-11-23T17:03:12+00:00",
   "posts": [
+    {
+      "id": "41466ffc",
+      "image": "img/41466ffc.png",
+      "image_sha": "7503e612e3d95b027250bab267e2d3e5aba0f33b",
+      "url": "https://www.radiodos.com.ar/217519-trfa-huracan-de-goya-sufrio-un-contundente-golpe-en-formosa-y-cayo-goleado",
+      "title": "TRFA: Huracán de Goya sufrió un contundente golpe en Formosa y cayó goleado",
+      "volanta": "Fue 4 a 1",
+      "date": "2026-11-23T17:03:12+00:00"
+    },
     {
       "id": "27bc865e",
       "image": "img/27bc865e.png",
@@ -531,15 +540,6 @@
       "title": "Exitosa muestra científico tecnológica y de prácticas profesionalizantes en Paso de los Libres",
       "volanta": "Escuela de Arte y Oficios",
       "date": "2026-11-19T18:04:10+00:00"
-    },
-    {
-      "id": "065562b3",
-      "image": "img/065562b3.png",
-      "image_sha": "7af5099686c6743e2301c14877cbf10b23d3b00c",
-      "url": "https://www.radiodos.com.ar/217373-fernandez-codazzi-en-un-programa-de-tv-laudelina-me-dijo-que-loan-esta-en-una-laguna",
-      "title": "Fernández Codazzi en un programa de TV:  \"Laudelina me dijo que Loan está en una laguna\"",
-      "volanta": "ABOGADO CITADO COMO TESTIGO",
-      "date": "2026-11-19T18:03:26+00:00"
     }
   ]
 }
