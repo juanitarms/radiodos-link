@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T19:33:17+00:00",
+  "updated": "2026-11-23T20:47:18+00:00",
   "posts": [
+    {
+      "id": "14611c61",
+      "image": "img/14611c61.png",
+      "image_sha": "5bd4fc1b7727ffce27e9ba864667fcdb9dbc5f89",
+      "url": "https://www.radiodos.com.ar/217552-detectaron-una-nueva-variante-de-covid-19-en-la-argentina-que-se-sabe-y-cuales-son-los-riesgos",
+      "title": "Detectaron una nueva variante de COVID-19 en la Argentina: qué se sabe y cuáles son los riesgos",
+      "volanta": "Salud",
+      "date": "2026-11-23T20:47:18+00:00"
+    },
     {
       "id": "f79d19a0",
       "image": "img/f79d19a0.png",
@@ -531,15 +540,6 @@
       "title": "Convocan a una marcha para pedir justicia por Claudia, la mujer atropellada por un policía",
       "volanta": "corrientes",
       "date": "2026-11-19T22:35:13+00:00"
-    },
-    {
-      "id": "6865fd53",
-      "image": "img/6865fd53.png",
-      "image_sha": "68f559d039a9c737bfac4478a9be5c0ecb6da828",
-      "url": "https://www.radiodos.com.ar/217406-argentina-mantiene-el-precio-del-gasoil-mas-alto-de-la-region",
-      "title": "Argentina mantiene el precio del gasoil más alto de la región",
-      "volanta": "GOLPE AL BOLSILLO",
-      "date": "2026-11-19T22:34:27+00:00"
     }
   ]
 }
