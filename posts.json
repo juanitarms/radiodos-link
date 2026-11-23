@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T21:16:25+00:00",
+  "updated": "2026-11-23T23:15:47+00:00",
   "posts": [
+    {
+      "id": "ba7613c9",
+      "image": "img/ba7613c9.png",
+      "image_sha": "87d9f9b2983fecf7e603111e23c8d7f79edbfa46",
+      "url": "https://www.radiodos.com.ar/217554-rumbo-a-qatar-2027-la-preseleccion-para-los-partidos-ante-bahamas-y-canada-en-zarate",
+      "title": "Rumbo a Qatar 2027: La Preselección para los partidos ante Bahamas y Canadá en Zárate",
+      "volanta": "Partido de preparación",
+      "date": "2026-11-23T23:15:47+00:00"
+    },
     {
       "id": "46ca1e16",
       "image": "img/46ca1e16.png",
@@ -531,15 +540,6 @@
       "title": "Abuso sexual infantil: siete de cada diez declaraciones de niños estuvieron vinculadas a estos casos",
       "volanta": "LAMENTABLE",
       "date": "2026-11-19T22:38:11+00:00"
-    },
-    {
-      "id": "6b603252",
-      "image": "img/6b603252.png",
-      "image_sha": "18dbd99bdc8ea95c111733ca9f3bf5d538e74bea",
-      "url": "https://www.radiodos.com.ar/217403-villarruel-se-diferencio-del-bloque-oficialista-y-respaldo-votar-hoy-la-ley-contra-la-ludopatia",
-      "title": "Villarruel se diferenció del bloque oficialista y respaldó votar hoy la Ley contra la Ludopatía",
-      "volanta": "\"Debería haberse votado\"",
-      "date": "2026-11-19T22:37:33+00:00"
     }
   ]
 }
