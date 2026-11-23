@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T20:47:18+00:00",
+  "updated": "2026-11-23T20:48:11+00:00",
   "posts": [
+    {
+      "id": "5793a95c",
+      "image": "img/5793a95c.png",
+      "image_sha": "2e5dfcec3014021b603c5931dcf5b6502ee3fc78",
+      "url": "https://www.radiodos.com.ar/217551-corrientes-entre-los-destinos-favoritos-del-fin-de-semana-largo-impulsada-por-sus-fiestas-y-atractivos-naturales",
+      "title": "Corrientes, entre los destinos favoritos del fin de semana largo impulsada por sus fiestas y atractivos naturales",
+      "volanta": "Turismo",
+      "date": "2026-11-23T20:48:11+00:00"
+    },
     {
       "id": "14611c61",
       "image": "img/14611c61.png",
@@ -531,15 +540,6 @@
       "title": "Murió un motociclista de 51 años tras chocar contra una camioneta",
       "volanta": "TRAGEDIA",
       "date": "2026-11-19T22:36:32+00:00"
-    },
-    {
-      "id": "9875cfa2",
-      "image": "img/9875cfa2.png",
-      "image_sha": "c4a32bcdf8aa7951426163b911f84eb23701cdd6",
-      "url": "https://www.radiodos.com.ar/217407-convocan-a-una-marcha-para-pedir-justicia-por-claudia-la-mujer-atropellada-por-un-policia",
-      "title": "Convocan a una marcha para pedir justicia por Claudia, la mujer atropellada por un policía",
-      "volanta": "corrientes",
-      "date": "2026-11-19T22:35:13+00:00"
     }
   ]
 }
