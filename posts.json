@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T12:03:44+00:00",
+  "updated": "2026-11-23T12:33:50+00:00",
   "posts": [
+    {
+      "id": "c331fb36",
+      "image": "img/c331fb36.png",
+      "image_sha": "3b83f9e11a6673ca8353db37cd16764c835e96c8",
+      "url": "https://www.radiodos.com.ar/217528-muerte-de-la-beba-en-resistencia-sus-padres-declararan-acusados-de-homicidio-agravado",
+      "title": "Muerte de la beba en Resistencia: sus padres declararán acusados de homicidio agravado",
+      "volanta": "MAÑANA",
+      "date": "2026-11-23T12:33:50+00:00"
+    },
     {
       "id": "a881d825",
       "image": "img/a881d825.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia: un nene cayó al agua, su padre se tiró a salvarlo y murieron los dos",
       "volanta": "Mendoza",
       "date": "2026-11-19T14:12:05+00:00"
-    },
-    {
-      "id": "ea6dc484",
-      "image": "img/ea6dc484.png",
-      "image_sha": "bbb2e5e45522aeb87ab3c32aacb7b2cb23637139",
-      "url": "https://www.radiodos.com.ar/217366-hacen-mal-las-cuentas-javier-milei-insiste-en-que-es-una-mentira-que-la-gente-no-llega-a-fin-de-mes",
-      "title": "\"Hacen mal las cuentas\": Javier Milei insiste en que \"es una mentira\" que la gente no llega a fin de mes",
-      "volanta": "CRISIS",
-      "date": "2026-11-19T13:51:37+00:00"
     }
   ]
 }
