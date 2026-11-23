@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-23T14:34:46+00:00",
+  "updated": "2026-11-23T15:07:47+00:00",
   "posts": [
+    {
+      "id": "f40b4697",
+      "image": "img/f40b4697.png",
+      "image_sha": "31025aa577424a2e700963e35695cc364aff5467",
+      "url": "https://www.radiodos.com.ar/217537-boca-llego-a-la-argentina-y-fue-recibido-por-una-multitud-de-hinchas-en-ezeiza",
+      "title": "Boca llegó a la Argentina y fue recibido por una multitud de hinchas en Ezeiza",
+      "volanta": "LOCURA",
+      "date": "2026-11-23T15:07:47+00:00"
+    },
     {
       "id": "4cc02a72",
       "image": "img/4cc02a72.png",
@@ -531,15 +540,6 @@
       "title": "Pensiones no Contributivas de ANSES en diciembre 2026: los detalles acerca de los pagos",
       "volanta": "INFO UTIL",
       "date": "2026-11-19T16:43:21+00:00"
-    },
-    {
-      "id": "1b598e62",
-      "image": "img/1b598e62.png",
-      "image_sha": "f6f1262b3079afd04c775e9e0effde1d256fd478",
-      "url": "https://www.radiodos.com.ar/217377-hallaron-en-los-glaciares-de-la-patagonia-chilena-un-insecto-que-podria-ser-una-nueva-especie",
-      "title": "Hallaron en los glaciares de la Patagonia chilena un insecto que podría ser una nueva especie",
-      "volanta": "INVESTIGACIÓN",
-      "date": "2026-11-19T16:42:39+00:00"
     }
   ]
 }
