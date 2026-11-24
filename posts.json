@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T17:45:47+00:00",
+  "updated": "2026-11-24T18:46:40+00:00",
   "posts": [
+    {
+      "id": "fd0741b8",
+      "image": "img/fd0741b8.png",
+      "image_sha": "5126469fd98fe4d6910c8833caee0c527e1698e5",
+      "url": "https://www.radiodos.com.ar/217601-el-regreso-de-jensen-huang-a-nvidia-le-genero-ganancias-a-donald-trump-por-hasta-15-millones-de-dolares",
+      "title": "El regreso de Jensen Huang a Nvidia le generó ganancias a Donald Trump por hasta 15 millones de dólares",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-24T18:46:40+00:00"
+    },
     {
       "id": "60744eb4",
       "image": "img/60744eb4.png",
@@ -531,15 +540,6 @@
       "title": "Pity Álvarez fue condenado a 12 años por el crimen de Cristian Díaz",
       "volanta": "FALLO JUDICIAL",
       "date": "2026-11-20T21:59:48+00:00"
-    },
-    {
-      "id": "57749d31",
-      "image": "img/57749d31.png",
-      "image_sha": "adacbe046d7f5f83927c73b8944249dc93e75d78",
-      "url": "https://www.radiodos.com.ar/217457-vischi-sobre-la-nueva-ley-de-discapacidad-es-un-paso-coherente-y-sensible-en-el-sentido-correcto",
-      "title": "Vischi sobre la nueva ley de discapacidad: \"Es un paso coherente y sensible en el sentido correcto\"",
-      "volanta": "CONGRESO",
-      "date": "2026-11-20T19:12:02+00:00"
     }
   ]
 }
