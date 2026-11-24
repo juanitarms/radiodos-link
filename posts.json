@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:21:15+00:00",
+  "updated": "2026-11-24T14:36:23+00:00",
   "posts": [
+    {
+      "id": "ea1a8d1c",
+      "image": "img/ea1a8d1c.png",
+      "image_sha": "7cff5cebb297b68777f7d14bb32c33687c49f53b",
+      "url": "https://www.radiodos.com.ar/217585-nicki-nicole-hablo-de-su-presente-musical-y-palpito-el-casamiento-de-tini-stoessel-voy-a-llorar-de-pe-a-pa",
+      "title": "Nicki Nicole habló de su presente musical y palpitó el casamiento de Tini Stoessel: \"Voy a llorar de pe a pa\"",
+      "volanta": "MEJORES AMIGAS",
+      "date": "2026-11-24T14:36:23+00:00"
+    },
     {
       "id": "1f1e979d",
       "image": "img/1f1e979d.png",
@@ -531,15 +540,6 @@
       "title": "Aumentó la frecuencia de los femicidios desde el año 2020: Uno cada 29 horas",
       "volanta": "Alarma nacional",
       "date": "2026-11-20T15:11:21+00:00"
-    },
-    {
-      "id": "9e97b5ef",
-      "image": "img/9e97b5ef.png",
-      "image_sha": "0b235ba4291cc63ae4d720dab7634af94a17823b",
-      "url": "https://www.radiodos.com.ar/217448-felipe-fort-sufrio-un-accidente-automovilistico-en-la-ruta-5-como-esta-de-salud",
-      "title": "Felipe Fort sufrió un accidente automovilístico en la Ruta 5: cómo está de salud",
-      "volanta": "¿QUÉ PASÓ?",
-      "date": "2026-11-20T14:45:14+00:00"
     }
   ]
 }
