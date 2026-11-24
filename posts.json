@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T21:30:09+00:00",
+  "updated": "2026-11-24T21:30:56+00:00",
   "posts": [
+    {
+      "id": "cf0e7cc3",
+      "image": "img/cf0e7cc3.png",
+      "image_sha": "f04bcc537e1bcccd7e12eb8de8b0b7b6630c52c3",
+      "url": "https://www.radiodos.com.ar/217608-un-venezolano-sin-documentacion-fue-detenido-en-corrientes-tras-comprar-un-pasaje-con-una-transferencia-falsa",
+      "title": "Un venezolano sin documentación fue detenido en Corrientes tras comprar un pasaje con una transferencia falsa",
+      "volanta": "Estafador",
+      "date": "2026-11-24T21:30:56+00:00"
+    },
     {
       "id": "6317601d",
       "image": "img/6317601d.png",
@@ -531,15 +540,6 @@
       "title": "Copa Sudamericana: Los millones que podría recibir Boca si se consagra campeón",
       "volanta": "Este sábado a las 19.30 horas",
       "date": "2026-11-20T22:05:31+00:00"
-    },
-    {
-      "id": "7efacb15",
-      "image": "img/7efacb15.png",
-      "image_sha": "bc68e4aa47d9be29a294b2f21c200c9ded047453",
-      "url": "https://www.radiodos.com.ar/217468-un-grave-siniestro-dejo-una-persona-muerta-sobre-ruta-12",
-      "title": "Un grave siniestro dejó una persona muerta sobre ruta 12",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-20T22:04:54+00:00"
     }
   ]
 }
