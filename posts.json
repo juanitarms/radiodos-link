@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T22:54:25+00:00",
+  "updated": "2026-11-24T22:55:05+00:00",
   "posts": [
+    {
+      "id": "b062656d",
+      "image": "img/b062656d.png",
+      "image_sha": "bb2b4afcfad274c5b6e31d7961108f6164a0529a",
+      "url": "https://www.radiodos.com.ar/217620-un-menor-que-circulaba-sin-casco-protagonizo-un-fuerte-choque-entre-dos-motos",
+      "title": "Un menor que circulaba sin casco protagonizó un fuerte choque entre dos motos",
+      "volanta": "Imprudencia",
+      "date": "2026-11-24T22:55:05+00:00"
+    },
     {
       "id": "1d462176",
       "image": "img/1d462176.png",
@@ -531,15 +540,6 @@
       "title": "Rocío Báez acompañó a Clara Galíndez y puso la inclusión en el centro de la jornada sobre síndrome de Down",
       "volanta": "Concientización",
       "date": "2026-11-22T17:47:54+00:00"
-    },
-    {
-      "id": "95fed8bd",
-      "image": "img/95fed8bd.png",
-      "image_sha": "1a1657cf2ae7085ccb697a9796c8afb7faecdede",
-      "url": "https://www.radiodos.com.ar/217509-corrientes-abrira-las-preinscripciones-para-los-centros-de-desarrollo-infantil-del-ciclo-2027",
-      "title": "Corrientes abrirá las preinscripciones para los Centros de Desarrollo Infantil del ciclo 2027",
-      "volanta": "PRIMERA INFANCIA",
-      "date": "2026-11-22T15:10:36+00:00"
     }
   ]
 }
