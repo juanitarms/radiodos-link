@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T12:26:06+00:00",
+  "updated": "2026-11-24T12:50:11+00:00",
   "posts": [
+    {
+      "id": "f5b43f4a",
+      "image": "img/f5b43f4a.png",
+      "image_sha": "9bb6917233b920454454bbe9eea16e06be3fcc51",
+      "url": "https://www.radiodos.com.ar/217576-marea-de-estudiantes-en-montevideo-mas-de-35-mil-hinchas-viajaran-a-la-final-de-la-copa-libertadores",
+      "title": "Marea de Estudiantes en Montevideo: más de 35 mil hinchas viajarán a la final de la Copa Libertadores",
+      "volanta": "URUGUAY",
+      "date": "2026-11-24T12:50:11+00:00"
+    },
     {
       "id": "4069cf4c",
       "image": "img/4069cf4c.png",
@@ -531,15 +540,6 @@
       "title": "El martes 24 empieza el pago de sueldos a agentes provinciales",
       "volanta": "MES DE NOVIEMBRE",
       "date": "2026-11-20T13:11:10+00:00"
-    },
-    {
-      "id": "dc2ded7a",
-      "image": "img/dc2ded7a.png",
-      "image_sha": "82eab8a48d23108bdef51ece65a6db81939dc8b5",
-      "url": "https://www.radiodos.com.ar/217433-mas-de-un-millon-cuanto-cuesta-cargar-el-changuito-de-supermercado-con-productos-basicos-en-cada-provincia",
-      "title": "Más de un millón: cuánto cuesta cargar el changuito de supermercado con productos básicos en cada provincia",
-      "volanta": "ECONOMÍA",
-      "date": "2026-11-20T12:37:18+00:00"
     }
   ]
 }
