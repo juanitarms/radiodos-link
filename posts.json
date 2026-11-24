@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T22:52:38+00:00",
+  "updated": "2026-11-24T22:53:11+00:00",
   "posts": [
+    {
+      "id": "28fd2621",
+      "image": "img/28fd2621.png",
+      "image_sha": "6e49da59df11bcc63956bfd8cad2265418f8cc7b",
+      "url": "https://www.radiodos.com.ar/217614-abrieron-la-convocatoria-de-artistas-para-la-36-fiesta-nacional-del-chamame",
+      "title": "Abrieron la convocatoria de artistas para la 36ª Fiesta Nacional del Chamamé",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-24T22:53:11+00:00"
+    },
     {
       "id": "ccd49901",
       "image": "img/ccd49901.png",
@@ -531,15 +540,6 @@
       "title": "F1: En una espectacular carrera de los últimos años, Franco Colapinto quedó sexto en Las Vegas",
       "volanta": "Max Verstappen ganó el Gran Premio",
       "date": "2026-11-22T13:30:58+00:00"
-    },
-    {
-      "id": "efe379b8",
-      "image": "img/efe379b8.png",
-      "image_sha": "ebc30786d9bfadd5eb25b1b59e145147550f6f20",
-      "url": "https://www.radiodos.com.ar/217480-tragedia-vial-en-curuzu-cuatia-murio-el-chofer-de-un-camion-cisterna-en-ruta-119",
-      "title": "Tragedia vial en Curuzú Cuatiá: murió el chofer de un camión cisterna en Ruta 119",
-      "volanta": "LAMENTABLE",
-      "date": "2026-11-21T17:10:47+00:00"
     }
   ]
 }
