@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T18:47:24+00:00",
+  "updated": "2026-11-24T21:30:09+00:00",
   "posts": [
+    {
+      "id": "6317601d",
+      "image": "img/6317601d.png",
+      "image_sha": "49c7c5c0096dfa8f5e967de6074d9cf8731a9022",
+      "url": "https://www.radiodos.com.ar/217607-argentina-entro-en-recesion-tecnica-la-actividad-economica-cayo-por-segundo-trimestre-consecutivo",
+      "title": "Argentina entró en recesión técnica: la actividad económica cayó por segundo trimestre consecutivo",
+      "volanta": "Crisis",
+      "date": "2026-11-24T21:30:09+00:00"
+    },
     {
       "id": "ad1aeb52",
       "image": "img/ad1aeb52.png",
@@ -531,15 +540,6 @@
       "title": "Un grave siniestro dejó una persona muerta sobre ruta 12",
       "volanta": "CORRIENTES",
       "date": "2026-11-20T22:04:54+00:00"
-    },
-    {
-      "id": "ed85c9f7",
-      "image": "img/ed85c9f7.png",
-      "image_sha": "2b0b80830e5bb61f8e52aaf1dbdf828ce1857205",
-      "url": "https://www.radiodos.com.ar/217467-yacyreta-avanza-con-una-obra-clave-que-permitira-aumentar-un-10-su-generacion-de-energia",
-      "title": "Yacyretá avanza con una obra clave que permitirá aumentar un 10% su generación de energía",
-      "volanta": "ampliación de su capacida",
-      "date": "2026-11-20T22:04:08+00:00"
     }
   ]
 }
