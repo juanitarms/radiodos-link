@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T10:36:50+00:00",
+  "updated": "2026-11-24T10:42:45+00:00",
   "posts": [
+    {
+      "id": "c28b918e",
+      "image": "img/c28b918e.png",
+      "image_sha": "94adfe88bdab3c36728d28218c9304d26e83d03f",
+      "url": "https://www.radiodos.com.ar/217558-corrientes-en-alerta-por-tormentas-fuertes-durante-toda-la-jornada",
+      "title": "Corrientes en alerta por tormentas fuertes durante toda la jornada",
+      "volanta": "EN TODO EL TERRITORIO PROVINCIAL",
+      "date": "2026-11-24T10:42:45+00:00"
+    },
     {
       "id": "11a83399",
       "image": "img/11a83399.png",
@@ -531,15 +540,6 @@
       "title": "Un automovilista atropelló a dos motociclistas y huyó",
       "volanta": "Buscan al conductor",
       "date": "2026-11-20T11:09:55+00:00"
-    },
-    {
-      "id": "0114d47e",
-      "image": "img/0114d47e.png",
-      "image_sha": "3dafc998d345c948c1056d1b6abce702f9fec055",
-      "url": "https://www.radiodos.com.ar/217414-el-hospital-materno-neonatal-celebro-la-vuelta-de-los-campeones",
-      "title": "El Hospital Materno Neonatal celebró la \"vuelta de los campeones\"",
-      "volanta": "Una red de cuidados",
-      "date": "2026-11-20T10:48:21+00:00"
     }
   ]
 }
