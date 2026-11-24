@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T16:21:56+00:00",
+  "updated": "2026-11-24T16:22:44+00:00",
   "posts": [
+    {
+      "id": "6ab65759",
+      "image": "img/6ab65759.png",
+      "image_sha": "52407f61e4b45d30bdd9fe51c570b0362485e4b8",
+      "url": "https://www.radiodos.com.ar/217595-en-control-vehicular-secuestraron-un-arma-de-fuego-cargada-y-demoraron-a-tres-hombres",
+      "title": "En control vehicular, secuestraron un arma de fuego cargada y demoraron a tres hombres",
+      "volanta": "GENERAL PAZ",
+      "date": "2026-11-24T16:22:44+00:00"
+    },
     {
       "id": "316ef5fa",
       "image": "img/316ef5fa.png",
@@ -531,15 +540,6 @@
       "title": "Vecinos saquearon el supermercado del comerciante chino acusado de manosear a un chico",
       "volanta": "Tigre",
       "date": "2026-11-20T17:24:13+00:00"
-    },
-    {
-      "id": "0fce4fe8",
-      "image": "img/0fce4fe8.png",
-      "image_sha": "1ce2e3552429ccc8c29f9ad0702ed6ccdfa552d7",
-      "url": "https://www.radiodos.com.ar/217461-a-poco-mas-de-una-semana-de-las-elecciones-en-espana-sanchez-y-feijoo-protagonizaron-un-fuerte-debate",
-      "title": "A poco más de una semana de las elecciones en España, Sánchez y Feijóo protagonizaron un fuerte debate",
-      "volanta": "RECTA FINAL",
-      "date": "2026-11-20T17:23:28+00:00"
     }
   ]
 }
