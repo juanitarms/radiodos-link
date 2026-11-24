@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T22:33:09+00:00",
+  "updated": "2026-11-24T22:52:38+00:00",
   "posts": [
+    {
+      "id": "ccd49901",
+      "image": "img/ccd49901.png",
+      "image_sha": "7409b869b6d69c8d46f5623b45948ac590b787f9",
+      "url": "https://www.radiodos.com.ar/217612-confirmado-estados-unidos-volvera-a-ser-sede-de-la-copa-america-en-2028-y-repetira-el-formato-de-16-selecciones",
+      "title": "Confirmado: Estados Unidos volverá a ser sede de la Copa América en 2028 y repetirá el formato de 16 selecciones",
+      "volanta": "Junio a Julio del 2028",
+      "date": "2026-11-24T22:52:38+00:00"
+    },
     {
       "id": "c076ec43",
       "image": "img/c076ec43.png",
@@ -531,15 +540,6 @@
       "title": "Tragedia vial en Curuzú Cuatiá: murió el chofer de un camión cisterna en Ruta 119",
       "volanta": "LAMENTABLE",
       "date": "2026-11-21T17:10:47+00:00"
-    },
-    {
-      "id": "4c9c4dd6",
-      "image": "img/4c9c4dd6.png",
-      "image_sha": "6c16c49755b033f22cb2f334b42f6dbdb584ab14",
-      "url": "https://www.radiodos.com.ar/217479-un-gesto-que-salva-vidas-realizaron-una-donacion-multiorganica-en-goya",
-      "title": "Un gesto que salva vidas: realizaron una donación multiorgánica en Goya",
-      "volanta": "CUCAICOR",
-      "date": "2026-11-21T14:11:56+00:00"
     }
   ]
 }
