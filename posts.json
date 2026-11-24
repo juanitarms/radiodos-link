@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T10:18:30+00:00",
+  "updated": "2026-11-24T10:36:50+00:00",
   "posts": [
+    {
+      "id": "11a83399",
+      "image": "img/11a83399.png",
+      "image_sha": "b9d03251dea4db4096e38ecd97b83551becbc378",
+      "url": "https://www.radiodos.com.ar/217556-prision-preventiva-para-un-nieto-acusado-de-asesinar-a-su-abuelo-para-robarle",
+      "title": "Prisión preventiva para un nieto acusado de asesinar a su abuelo para robarle",
+      "volanta": "ESQUINA",
+      "date": "2026-11-24T10:36:50+00:00"
+    },
     {
       "id": "5a2c5fe4",
       "image": "img/5a2c5fe4.png",
@@ -531,15 +540,6 @@
       "title": "El Hospital Materno Neonatal celebró la \"vuelta de los campeones\"",
       "volanta": "Una red de cuidados",
       "date": "2026-11-20T10:48:21+00:00"
-    },
-    {
-      "id": "25ea5483",
-      "image": "img/25ea5483.png",
-      "image_sha": "3d5079e4663266dca4fa83dd7d1430ecec8b0912",
-      "url": "https://www.radiodos.com.ar/217415-las-claves-de-la-nueva-ley-de-discapacidad-que-aprobo-el-senado",
-      "title": "Las claves de la nueva Ley de Discapacidad que aprobó el Senado",
-      "volanta": "CONGRESO",
-      "date": "2026-11-20T10:33:29+00:00"
     }
   ]
 }
