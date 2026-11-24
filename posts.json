@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T16:23:23+00:00",
+  "updated": "2026-11-24T17:44:53+00:00",
   "posts": [
+    {
+      "id": "fb0cd673",
+      "image": "img/fb0cd673.png",
+      "image_sha": "573ace49de5f774fcd0f7366d06dfa02dafa8c74",
+      "url": "https://www.radiodos.com.ar/217603-italia-descubren-un-cementerio-de-osos-de-las-cavernas-extintos-hace-24000-anos",
+      "title": "Italia: descubren un cementerio de osos de las cavernas extintos hace 24.000 años",
+      "volanta": "EXPEDICIÓN",
+      "date": "2026-11-24T17:44:53+00:00"
+    },
     {
       "id": "800114a8",
       "image": "img/800114a8.png",
@@ -531,15 +540,6 @@
       "title": "Una nena en gravísismo estado de salud tras sufrir un accidente en un campo",
       "volanta": "CORRIENTES",
       "date": "2026-11-20T18:43:28+00:00"
-    },
-    {
-      "id": "429e1940",
-      "image": "img/429e1940.png",
-      "image_sha": "58077fdc44993d7204d2c3ebcb616542fe1ddde2",
-      "url": "https://www.radiodos.com.ar/217458-en-libres-personal-municipal-recoge-ramas-y-residuos-que-dejo-la-tormenta",
-      "title": "En Libres personal municipal recoge ramas y residuos que dejó la tormenta",
-      "volanta": "TEMPORAL",
-      "date": "2026-11-20T18:42:53+00:00"
     }
   ]
 }
