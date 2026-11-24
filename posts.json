@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T18:46:40+00:00",
+  "updated": "2026-11-24T18:47:24+00:00",
   "posts": [
+    {
+      "id": "ad1aeb52",
+      "image": "img/ad1aeb52.png",
+      "image_sha": "5af624c73ddd08b0c1737b252542a276acff2113",
+      "url": "https://www.radiodos.com.ar/217600-comenzo-el-black-friday-en-tienda-mas-banco-hasta-24-cuotas-sin-interes-en-todos-los-productos",
+      "title": "Comenzó el Black Friday en Tienda Más BanCo: hasta 24 cuotas sin interés en todos los productos",
+      "volanta": "ENVÍOS GRATIS EN PRODUCTOS SELECCIONADOS",
+      "date": "2026-11-24T18:47:24+00:00"
+    },
     {
       "id": "fd0741b8",
       "image": "img/fd0741b8.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá avanza con una obra clave que permitirá aumentar un 10% su generación de energía",
       "volanta": "ampliación de su capacida",
       "date": "2026-11-20T22:04:08+00:00"
-    },
-    {
-      "id": "4e45de87",
-      "image": "img/4e45de87.png",
-      "image_sha": "386da00b94ddb5f4e022338ecd271679302a0cc2",
-      "url": "https://www.radiodos.com.ar/217465-pity-alvarez-fue-condenado-a-12-anos-por-el-crimen-de-cristian-diaz",
-      "title": "Pity Álvarez fue condenado a 12 años por el crimen de Cristian Díaz",
-      "volanta": "FALLO JUDICIAL",
-      "date": "2026-11-20T21:59:48+00:00"
     }
   ]
 }
