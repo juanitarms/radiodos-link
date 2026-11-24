@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T13:09:44+00:00",
+  "updated": "2026-11-24T13:23:30+00:00",
   "posts": [
+    {
+      "id": "bec2b691",
+      "image": "img/bec2b691.png",
+      "image_sha": "d123e82328bcd52b262d1d83c239ba3719d2019c",
+      "url": "https://www.radiodos.com.ar/217581-volvieron-a-robar-y-causar-destrozos-en-una-escuela-tecnica-en-el-interior-provincial",
+      "title": "Volvieron a robar y causar destrozos en una escuela técnica en el interior provincial",
+      "volanta": "INDIGNACIÓN",
+      "date": "2026-11-24T13:23:30+00:00"
+    },
     {
       "id": "e52d63ea",
       "image": "img/e52d63ea.png",
@@ -531,15 +540,6 @@
       "title": "Caso Loan: Un imputado y un testigo negaron sus firmas en actas de detención",
       "volanta": "JUICIO EN CORRIENTES",
       "date": "2026-11-20T13:45:51+00:00"
-    },
-    {
-      "id": "8e84af88",
-      "image": "img/8e84af88.png",
-      "image_sha": "2920ff3f6d4b5b644604c496b4a4efb06576b207",
-      "url": "https://www.radiodos.com.ar/217441-madre-de-matias-chirino-tras-la-indemnizacion-civil-mi-hijo-no-es-una-cifra",
-      "title": "Madre de Matías Chirino tras la indemnización civil: \"Mi hijo no es una cifra\"",
-      "volanta": "DURO DESCARGO",
-      "date": "2026-11-20T13:32:48+00:00"
     }
   ]
 }
