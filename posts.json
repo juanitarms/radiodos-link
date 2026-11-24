@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T22:55:05+00:00",
+  "updated": "2026-11-24T23:09:58+00:00",
   "posts": [
+    {
+      "id": "2224a8af",
+      "image": "img/2224a8af.png",
+      "image_sha": "df40f4164fc52bf0837026480fc5960c3c0498db",
+      "url": "https://www.radiodos.com.ar/217618-mundial-de-talla-baja-marruecos-2026-argentina-aplasto-a-brasil-y-avanza-invicta",
+      "title": "Mundial de Talla Baja Marruecos 2026: Argentina aplastó a Brasil y avanza invicta",
+      "volanta": "¡Goleada histórica en el clásico!",
+      "date": "2026-11-24T23:09:58+00:00"
+    },
     {
       "id": "b062656d",
       "image": "img/b062656d.png",
@@ -531,15 +540,6 @@
       "title": "Anciano baleó a un vecino en el barrio San Marcos",
       "volanta": "CORRIENTES",
       "date": "2026-11-22T17:48:30+00:00"
-    },
-    {
-      "id": "33494435",
-      "image": "img/33494435.png",
-      "image_sha": "85e523fb947f113699adc36cd575579dc526038e",
-      "url": "https://www.radiodos.com.ar/217515-rocio-baez-acompano-a-clara-galindez-y-puso-la-inclusion-en-el-centro-de-la-jornada-sobre-sindrome-de-down",
-      "title": "Rocío Báez acompañó a Clara Galíndez y puso la inclusión en el centro de la jornada sobre síndrome de Down",
-      "volanta": "Concientización",
-      "date": "2026-11-22T17:47:54+00:00"
     }
   ]
 }
