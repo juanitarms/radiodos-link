@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T13:38:29+00:00",
+  "updated": "2026-11-24T13:55:31+00:00",
   "posts": [
+    {
+      "id": "0c3a4c21",
+      "image": "img/0c3a4c21.png",
+      "image_sha": "d1b513b72b5581a4a2450919d51c11edb84180d5",
+      "url": "https://www.radiodos.com.ar/217590-la-copa-america-2028-se-jugara-otra-vez-en-estados-unidos-tendria-un-formato-renovado",
+      "title": "La Copa América 2028 se jugará otra vez en Estados Unidos: tendría un formato renovado",
+      "volanta": "FÚTBOL",
+      "date": "2026-11-24T13:55:31+00:00"
+    },
     {
       "id": "12832a66",
       "image": "img/12832a66.png",
@@ -531,15 +540,6 @@
       "title": "Operativo de Garrafa Social: Cronograma Semanal",
       "volanta": "DESARROLLO SOCIAL",
       "date": "2026-11-20T14:20:23+00:00"
-    },
-    {
-      "id": "ba3cd04e",
-      "image": "img/ba3cd04e.png",
-      "image_sha": "2a105ac5b6d5d0b92ee597fe40f1aa2b0b885370",
-      "url": "https://www.radiodos.com.ar/217444-sube-realizara-el-domingo-22-una-actualizacion-de-sus-sistemas",
-      "title": "SUBE realizará el domingo 22 una actualización de sus sistemas",
-      "volanta": "Cargá con anticipación",
-      "date": "2026-11-20T13:58:01+00:00"
     }
   ]
 }
