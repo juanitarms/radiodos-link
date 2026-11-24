@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T21:30:56+00:00",
+  "updated": "2026-11-24T21:31:38+00:00",
   "posts": [
+    {
+      "id": "67254350",
+      "image": "img/67254350.png",
+      "image_sha": "e46bf7afa50aa83bfb70f654cfd7ae3c2ebed9d8",
+      "url": "https://www.radiodos.com.ar/217609-gremios-docentes-formalizaron-un-paro-docente-por-24-horas-para-este-viernes-en-corrientes",
+      "title": "Gremios docentes formalizaron un paro docente por 24 horas para este viernes en Corrientes",
+      "volanta": "A nivel provincial",
+      "date": "2026-11-24T21:31:38+00:00"
+    },
     {
       "id": "cf0e7cc3",
       "image": "img/cf0e7cc3.png",
@@ -531,15 +540,6 @@
       "title": "Economista correntino: \"El mercado está sacando de encima activos argentinos\"",
       "volanta": "ENTREVISTA CON RADIO DOS",
       "date": "2026-11-20T22:07:55+00:00"
-    },
-    {
-      "id": "0e0cd955",
-      "image": "img/0e0cd955.png",
-      "image_sha": "ceb9dc0b47c16e31f28ef5015358255d803727c9",
-      "url": "https://www.radiodos.com.ar/217464-copa-sudamericana-los-millones-que-podria-recibir-boca-si-se-consagra-campeon",
-      "title": "Copa Sudamericana: Los millones que podría recibir Boca si se consagra campeón",
-      "volanta": "Este sábado a las 19.30 horas",
-      "date": "2026-11-20T22:05:31+00:00"
     }
   ]
 }
