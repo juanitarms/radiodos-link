@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T17:44:53+00:00",
+  "updated": "2026-11-24T17:45:47+00:00",
   "posts": [
+    {
+      "id": "60744eb4",
+      "image": "img/60744eb4.png",
+      "image_sha": "91a46f421b781d36ea8980a5ecc324ae25970d18",
+      "url": "https://www.radiodos.com.ar/217604-juicio-contra-la-toretto-la-fiscalia-pidio-10-anos-de-prision",
+      "title": "Juicio contra \"La Toretto\": la fiscalía pidió 10 años de prisión",
+      "volanta": "JUICIO",
+      "date": "2026-11-24T17:45:47+00:00"
+    },
     {
       "id": "fb0cd673",
       "image": "img/fb0cd673.png",
@@ -531,15 +540,6 @@
       "title": "Vischi sobre la nueva ley de discapacidad: \"Es un paso coherente y sensible en el sentido correcto\"",
       "volanta": "CONGRESO",
       "date": "2026-11-20T19:12:02+00:00"
-    },
-    {
-      "id": "48acc942",
-      "image": "img/48acc942.png",
-      "image_sha": "c612d48236d79fd0836752cff774e2dbe959de4f",
-      "url": "https://www.radiodos.com.ar/217459-una-nena-en-gravisismo-estado-de-salud-tras-sufrir-un-accidente-en-un-campo",
-      "title": "Una nena en gravísismo estado de salud tras sufrir un accidente en un campo",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-20T18:43:28+00:00"
     }
   ]
 }
