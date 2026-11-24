@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:36:23+00:00",
+  "updated": "2026-11-24T14:53:34+00:00",
   "posts": [
+    {
+      "id": "d5760895",
+      "image": "img/d5760895.png",
+      "image_sha": "a555d28b492a1bd96d4da5e9bcf403301d74dd38",
+      "url": "https://www.radiodos.com.ar/217580-el-emotivo-mensaje-de-mariana-fabbiani-tras-el-alta-medica-de-mariano-chihade-luego-de-su-cirugia-cerebral",
+      "title": "El emotivo mensaje de Mariana Fabbiani tras el alta médica de Mariano Chihade luego de su cirugía cerebral",
+      "volanta": "AGRADECIDA",
+      "date": "2026-11-24T14:53:34+00:00"
+    },
     {
       "id": "ea1a8d1c",
       "image": "img/ea1a8d1c.png",
@@ -531,15 +540,6 @@
       "title": "Tras una intensa persecución localizaron dos camionetas robadas cargadas con cigarrillos de contrabando",
       "volanta": "MERCEDES",
       "date": "2026-11-20T16:16:43+00:00"
-    },
-    {
-      "id": "88f31cae",
-      "image": "img/88f31cae.png",
-      "image_sha": "9ed7ef55fce87035b14825655a5e55c8960469b5",
-      "url": "https://www.radiodos.com.ar/217456-aumento-la-frecuencia-de-los-femicidios-desde-el-ano-2020-uno-cada-29-horas",
-      "title": "Aumentó la frecuencia de los femicidios desde el año 2020: Uno cada 29 horas",
-      "volanta": "Alarma nacional",
-      "date": "2026-11-20T15:11:21+00:00"
     }
   ]
 }
