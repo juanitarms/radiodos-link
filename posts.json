@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T15:05:33+00:00",
+  "updated": "2026-11-24T16:21:56+00:00",
   "posts": [
+    {
+      "id": "316ef5fa",
+      "image": "img/316ef5fa.png",
+      "image_sha": "cce2ad166adb6489db419607a27a5b69b5401240",
+      "url": "https://www.radiodos.com.ar/217599-corrientes-presento-el-plan-provincial-de-prevencion-y-control-de-dengue",
+      "title": "Corrientes presentó el Plan Provincial de Prevención y Control de Dengue",
+      "volanta": "PERÍODO 2026/2027",
+      "date": "2026-11-24T16:21:56+00:00"
+    },
     {
       "id": "2db15e15",
       "image": "img/2db15e15.png",
@@ -531,15 +540,6 @@
       "title": "A poco más de una semana de las elecciones en España, Sánchez y Feijóo protagonizaron un fuerte debate",
       "volanta": "RECTA FINAL",
       "date": "2026-11-20T17:23:28+00:00"
-    },
-    {
-      "id": "619d6006",
-      "image": "img/619d6006.png",
-      "image_sha": "47101cc8f9f514bb800fa35e4a802f4f73677f39",
-      "url": "https://www.radiodos.com.ar/217462-alumnos-correntinos-escribieron-un-libro-para-conocer-y-defender-sus-derechos",
-      "title": "Alumnos correntinos escribieron un libro para conocer y defender sus derechos",
-      "volanta": "ARTICULACIÓN EDUCACIÓN-JUSTICIA",
-      "date": "2026-11-20T16:17:29+00:00"
     }
   ]
 }
