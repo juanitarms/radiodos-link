@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T13:55:31+00:00",
+  "updated": "2026-11-24T14:21:15+00:00",
   "posts": [
+    {
+      "id": "1f1e979d",
+      "image": "img/1f1e979d.png",
+      "image_sha": "fbd37543d49201ae680a353e661244c9eea62278",
+      "url": "https://www.radiodos.com.ar/217589-inscripciones-abiertas-para-ingresar-a-la-escuela-de-suboficiales-de-la-policia-de-corrientes",
+      "title": "Inscripciones abiertas para ingresar a la Escuela de Suboficiales de la Policía de Corrientes",
+      "volanta": "HASTA EL 22 DE DICIEMBRE",
+      "date": "2026-11-24T14:21:15+00:00"
+    },
     {
       "id": "0c3a4c21",
       "image": "img/0c3a4c21.png",
@@ -531,15 +540,6 @@
       "title": "Felipe Fort sufrió un accidente automovilístico en la Ruta 5: cómo está de salud",
       "volanta": "¿QUÉ PASÓ?",
       "date": "2026-11-20T14:45:14+00:00"
-    },
-    {
-      "id": "37c5092f",
-      "image": "img/37c5092f.png",
-      "image_sha": "73da904beca30a80a0450bbdaa434e9b95b466b7",
-      "url": "https://www.radiodos.com.ar/217451-operativo-de-garrafa-social-cronograma-semanal",
-      "title": "Operativo de Garrafa Social: Cronograma Semanal",
-      "volanta": "DESARROLLO SOCIAL",
-      "date": "2026-11-20T14:20:23+00:00"
     }
   ]
 }
