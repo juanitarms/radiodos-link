@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T23:09:58+00:00",
+  "updated": "2026-11-24T23:11:49+00:00",
   "posts": [
+    {
+      "id": "eb3dbda9",
+      "image": "img/eb3dbda9.png",
+      "image_sha": "9d6645fc15903c5b909fd74465575336bc069de6",
+      "url": "https://www.radiodos.com.ar/217619-paulo-dybala-revelo-donde-quiere-terminar-su-carrera-seria-hermoso",
+      "title": "Paulo Dybala reveló donde quiere terminar su carrera: \"Sería hermoso\"",
+      "volanta": "Crack argentino",
+      "date": "2026-11-24T23:11:49+00:00"
+    },
     {
       "id": "2224a8af",
       "image": "img/2224a8af.png",
@@ -531,15 +540,6 @@
       "title": "El consumo masivo creció en octubre, pero acumula una caída de 2,3% en lo que va del año",
       "volanta": "ECONOMÍA",
       "date": "2026-11-22T20:40:33+00:00"
-    },
-    {
-      "id": "eda32102",
-      "image": "img/eda32102.png",
-      "image_sha": "93b6a318de09b8c8ca8645692c5402e330d1b707",
-      "url": "https://www.radiodos.com.ar/217510-anciano-baleo-a-un-vecino-en-el-barrio-san-marcos",
-      "title": "Anciano baleó a un vecino en el barrio San Marcos",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-22T17:48:30+00:00"
     }
   ]
 }
