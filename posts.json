@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T21:31:38+00:00",
+  "updated": "2026-11-24T22:33:09+00:00",
   "posts": [
+    {
+      "id": "c076ec43",
+      "image": "img/c076ec43.png",
+      "image_sha": "376e312f08913e876ac47db3165c5fa81e091ef2",
+      "url": "https://www.radiodos.com.ar/217613-javier-milei-llega-este-jueves-a-corrientes-para-cerrar-el-13-congreso-de-economia-regional",
+      "title": "Javier Milei llega este jueves a Corrientes para cerrar el 13.º Congreso de Economía Regional",
+      "volanta": "Evento privado",
+      "date": "2026-11-24T22:33:09+00:00"
+    },
     {
       "id": "67254350",
       "image": "img/67254350.png",
@@ -531,15 +540,6 @@
       "title": "Un gesto que salva vidas: realizaron una donación multiorgánica en Goya",
       "volanta": "CUCAICOR",
       "date": "2026-11-21T14:11:56+00:00"
-    },
-    {
-      "id": "1b068824",
-      "image": "img/1b068824.png",
-      "image_sha": "c5c2c904bd8c7939115644f1ccae4a968922eea9",
-      "url": "https://www.radiodos.com.ar/217470-economista-correntino-el-mercado-esta-sacando-de-encima-activos-argentinos",
-      "title": "Economista correntino: \"El mercado está sacando de encima activos argentinos\"",
-      "volanta": "ENTREVISTA CON RADIO DOS",
-      "date": "2026-11-20T22:07:55+00:00"
     }
   ]
 }
