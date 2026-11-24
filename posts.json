@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:53:34+00:00",
+  "updated": "2026-11-24T15:05:33+00:00",
   "posts": [
+    {
+      "id": "2db15e15",
+      "image": "img/2db15e15.png",
+      "image_sha": "9c10bbdf04b91aa3fa324ba82c0b284fe60ebd8c",
+      "url": "https://www.radiodos.com.ar/217587-murio-la-mama-de-guido-kaczka-y-el-conductor-se-despidio-al-aire-sentis-que-no-podes-cambiar-las-cosas",
+      "title": "Murió la mamá de Guido Kaczka y el conductor se despidió al aire: \"Sentís que no podés cambiar las cosas\"",
+      "volanta": "A CORAZÓN ABIERTO",
+      "date": "2026-11-24T15:05:33+00:00"
+    },
     {
       "id": "d5760895",
       "image": "img/d5760895.png",
@@ -531,15 +540,6 @@
       "title": "Alumnos correntinos escribieron un libro para conocer y defender sus derechos",
       "volanta": "ARTICULACIÓN EDUCACIÓN-JUSTICIA",
       "date": "2026-11-20T16:17:29+00:00"
-    },
-    {
-      "id": "0c57a5a8",
-      "image": "img/0c57a5a8.png",
-      "image_sha": "097cf0bde2d20d96a3b77e23446047f1e6b93052",
-      "url": "https://www.radiodos.com.ar/217463-tras-una-intensa-persecucion-localizaron-dos-camionetas-robadas-cargadas-con-cigarrillos-de-contrabando",
-      "title": "Tras una intensa persecución localizaron dos camionetas robadas cargadas con cigarrillos de contrabando",
-      "volanta": "MERCEDES",
-      "date": "2026-11-20T16:16:43+00:00"
     }
   ]
 }
