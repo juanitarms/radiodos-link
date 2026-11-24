@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T13:23:30+00:00",
+  "updated": "2026-11-24T13:38:29+00:00",
   "posts": [
+    {
+      "id": "12832a66",
+      "image": "img/12832a66.png",
+      "image_sha": "03c943c7e728f9e461f0c7fc0e70eafb32abcb68",
+      "url": "https://www.radiodos.com.ar/217584-tras-la-intensa-lluvia-cuadrillas-municipales-trabajan-en-distintos-puntos-de-la-ciudad",
+      "title": "Tras la intensa lluvia cuadrillas municipales trabajan en distintos puntos de la ciudad",
+      "volanta": "LIMPIEZA",
+      "date": "2026-11-24T13:38:29+00:00"
+    },
     {
       "id": "bec2b691",
       "image": "img/bec2b691.png",
@@ -531,15 +540,6 @@
       "title": "SUBE realizará el domingo 22 una actualización de sus sistemas",
       "volanta": "Cargá con anticipación",
       "date": "2026-11-20T13:58:01+00:00"
-    },
-    {
-      "id": "2534d311",
-      "image": "img/2534d311.png",
-      "image_sha": "4580b2234ee418ba54b15ebb113e54f4ccf66b87",
-      "url": "https://www.radiodos.com.ar/217442-caso-loan-un-imputado-y-un-testigo-negaron-sus-firmas-en-actas-de-detencion",
-      "title": "Caso Loan: Un imputado y un testigo negaron sus firmas en actas de detención",
-      "volanta": "JUICIO EN CORRIENTES",
-      "date": "2026-11-20T13:45:51+00:00"
     }
   ]
 }
