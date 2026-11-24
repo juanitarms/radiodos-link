@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T11:17:30+00:00",
+  "updated": "2026-11-24T11:48:40+00:00",
   "posts": [
+    {
+      "id": "e6d9be6d",
+      "image": "img/e6d9be6d.png",
+      "image_sha": "21980bd058f3053b63c9204a2a3d05cbc6b6c6c3",
+      "url": "https://www.radiodos.com.ar/217562-las-ferias-de-la-ciudad-llevan-sus-ofertas-a-las-plazas-y-espacios-publicos",
+      "title": "Las Ferias de la Ciudad llevan sus ofertas a las plazas y espacios públicos",
+      "volanta": "ECONOMÍA SOCIAL",
+      "date": "2026-11-24T11:48:40+00:00"
+    },
     {
       "id": "628e9858",
       "image": "img/628e9858.png",
@@ -531,15 +540,6 @@
       "title": "Mburucuyá anuncia su Festival del Auténtico Chamamé Tradicional 2027",
       "volanta": "DÍA DE LA MÚSICA",
       "date": "2026-11-20T11:46:23+00:00"
-    },
-    {
-      "id": "0f65e4fc",
-      "image": "img/0f65e4fc.png",
-      "image_sha": "f0b6a1190aafcc8dc3c9ce7fa6204b7c4619b57d",
-      "url": "https://www.radiodos.com.ar/217417-colapinto-termino-noveno-en-las-p2-con-buenas-sensaciones-para-alpine",
-      "title": "Colapinto terminó noveno en las P2, con buenas sensaciones para Alpine",
-      "volanta": "FÓRMULA 1",
-      "date": "2026-11-20T11:34:49+00:00"
     }
   ]
 }
