@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T12:50:11+00:00",
+  "updated": "2026-11-24T13:09:44+00:00",
   "posts": [
+    {
+      "id": "e52d63ea",
+      "image": "img/e52d63ea.png",
+      "image_sha": "0616b25d29f90ee5d2d63f2edb85415fe03bab4c",
+      "url": "https://www.radiodos.com.ar/217573-trabajadores-del-hospital-garrahan-toman-el-centro-de-salud-en-protesta-por-despidos-y-cesantias",
+      "title": "Trabajadores del Hospital Garrahan toman el centro de salud en protesta por despidos y cesantías",
+      "volanta": "CRISIS",
+      "date": "2026-11-24T13:09:44+00:00"
+    },
     {
       "id": "f5b43f4a",
       "image": "img/f5b43f4a.png",
@@ -531,15 +540,6 @@
       "title": "Madre de Matías Chirino tras la indemnización civil: \"Mi hijo no es una cifra\"",
       "volanta": "DURO DESCARGO",
       "date": "2026-11-20T13:32:48+00:00"
-    },
-    {
-      "id": "2b7bbc70",
-      "image": "img/2b7bbc70.png",
-      "image_sha": "ad2727d11e3f7a8e7ef883f131f9dc043733d3ab",
-      "url": "https://www.radiodos.com.ar/217438-el-martes-24-empieza-el-pago-de-sueldos-a-agentes-provinciales",
-      "title": "El martes 24 empieza el pago de sueldos a agentes provinciales",
-      "volanta": "MES DE NOVIEMBRE",
-      "date": "2026-11-20T13:11:10+00:00"
     }
   ]
 }
