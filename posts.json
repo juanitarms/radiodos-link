@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T10:42:45+00:00",
+  "updated": "2026-11-24T10:58:23+00:00",
   "posts": [
+    {
+      "id": "3eafc597",
+      "image": "img/3eafc597.png",
+      "image_sha": "af205214ca9d534a5ac9712bd437a0a4912e3db7",
+      "url": "https://www.radiodos.com.ar/217559-yacyreta-puso-en-marcha-las-turbinas-y-reactiva-el-empleo-local",
+      "title": "Yacyretá puso en marcha las turbinas y reactiva el empleo local",
+      "volanta": "ITUZAINGÓ",
+      "date": "2026-11-24T10:58:23+00:00"
+    },
     {
       "id": "c28b918e",
       "image": "img/c28b918e.png",
@@ -531,15 +540,6 @@
       "title": "Jubilados y pensionados de ANSES: el aumento que recibirán durante diciembre 2026",
       "volanta": "INFO ÚTIL",
       "date": "2026-11-20T11:19:28+00:00"
-    },
-    {
-      "id": "3dc581c0",
-      "image": "img/3dc581c0.png",
-      "image_sha": "32539fcd20afcaa7f1c13812fac79f86e3bdb1c3",
-      "url": "https://www.radiodos.com.ar/217413-un-automovilista-atropello-a-dos-motociclistas-y-huyo",
-      "title": "Un automovilista atropelló a dos motociclistas y huyó",
-      "volanta": "Buscan al conductor",
-      "date": "2026-11-20T11:09:55+00:00"
     }
   ]
 }
