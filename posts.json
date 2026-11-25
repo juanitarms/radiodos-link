@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T18:18:04+00:00",
+  "updated": "2026-11-25T18:18:43+00:00",
   "posts": [
+    {
+      "id": "ed566cca",
+      "image": "img/ed566cca.png",
+      "image_sha": "e6c3354a1ec7b048e55dcb61978996e1d6b39139",
+      "url": "https://www.radiodos.com.ar/217663-cristian-el-enfermero-wichi-que-tiende-puentes-entre-dos-lenguas-para-cuidar-la-salud-de-su-comunidad",
+      "title": "Cristian, el enfermero wichí que tiende puentes entre dos lenguas para cuidar la salud de su comunidad",
+      "volanta": "DESDE EL CORAZÓN DE EL IMPENETRABLE CHAQUEÑO",
+      "date": "2026-11-25T18:18:43+00:00"
+    },
     {
       "id": "fac92f74",
       "image": "img/fac92f74.png",
@@ -531,15 +540,6 @@
       "title": "Torneo Clausura: Campaz y Copetti pusieron al Canalla en cuartos de final",
       "volanta": "Fue 3 a 1",
       "date": "2026-11-23T18:10:49+00:00"
-    },
-    {
-      "id": "41466ffc",
-      "image": "img/41466ffc.png",
-      "image_sha": "7503e612e3d95b027250bab267e2d3e5aba0f33b",
-      "url": "https://www.radiodos.com.ar/217519-trfa-huracan-de-goya-sufrio-un-contundente-golpe-en-formosa-y-cayo-goleado",
-      "title": "TRFA: Huracán de Goya sufrió un contundente golpe en Formosa y cayó goleado",
-      "volanta": "Fue 4 a 1",
-      "date": "2026-11-23T17:03:12+00:00"
     }
   ]
 }
