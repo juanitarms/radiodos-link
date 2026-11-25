@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T23:21:06+00:00",
+  "updated": "2026-11-25T23:23:11+00:00",
   "posts": [
+    {
+      "id": "32a62e14",
+      "image": "img/32a62e14.png",
+      "image_sha": "ccc74b7f31685e72b148d2621a514ae85c310099",
+      "url": "https://www.radiodos.com.ar/217672-copa-argentina-el-silbatoy-el-escenario-elegidos-que-guardan-el-secreto-de-la-gloria-en-la-gran-definicion",
+      "title": "Copa Argentina: El silbatoy el escenario elegidos que guardan el secreto de la gloria en la gran definición",
+      "volanta": "Miércoles 2 de diciembre a las 20 horas",
+      "date": "2026-11-25T23:23:11+00:00"
+    },
     {
       "id": "9a96b049",
       "image": "img/9a96b049.png",
@@ -531,15 +540,6 @@
       "title": "Prisión preventiva para un nieto acusado de asesinar a su abuelo para robarle",
       "volanta": "ESQUINA",
       "date": "2026-11-24T10:36:50+00:00"
-    },
-    {
-      "id": "5a2c5fe4",
-      "image": "img/5a2c5fe4.png",
-      "image_sha": "f187f874ff928467f90e5a2847d4ae51747db3f8",
-      "url": "https://www.radiodos.com.ar/217557-corrientes-con-una-ocupacion-hotelera-del-50-en-el-finde-largo",
-      "title": "Corrientes con una ocupación hotelera del 50% en el finde largo",
-      "volanta": "TURISMO",
-      "date": "2026-11-24T10:18:30+00:00"
     }
   ]
 }
