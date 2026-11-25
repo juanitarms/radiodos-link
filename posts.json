@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T10:47:06+00:00",
+  "updated": "2026-11-25T11:01:49+00:00",
   "posts": [
+    {
+      "id": "0898333e",
+      "image": "img/0898333e.png",
+      "image_sha": "99d69c64bed3e911ef2235106c52c0790aba648e",
+      "url": "https://www.radiodos.com.ar/217624-murio-el-peaton-de-68-anos-que-habia-sido-atropellado-por-una-moto",
+      "title": "Murió el peatón de 68 años que había sido atropellado por una moto",
+      "volanta": "EN AVENIDA INDEPENDENCIA",
+      "date": "2026-11-25T11:01:49+00:00"
+    },
     {
       "id": "67f95b76",
       "image": "img/67f95b76.png",
@@ -531,15 +540,6 @@
       "title": "Una adolescente de 17 años está en estado crítico tras sufrir una descarga eléctrica de un secarropas",
       "volanta": "CORRIENTES",
       "date": "2026-11-22T22:15:07+00:00"
-    },
-    {
-      "id": "adc099bd",
-      "image": "img/adc099bd.png",
-      "image_sha": "70e7e1bd3194ea62a8237fdfa195e232ab908112",
-      "url": "https://www.radiodos.com.ar/217507-copa-sudamericana-arruabarrena-celebro-el-campeonato-de-boca-pero-ya-puso-la-mira-en-el-torneo-local",
-      "title": "Copa Sudamericana: Arruabarrena celebró el campeonato de Boca pero ya puso la mira en el torneo local",
-      "volanta": "Con los pies en la tierra",
-      "date": "2026-11-22T20:41:19+00:00"
     }
   ]
 }
