@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T13:50:14+00:00",
+  "updated": "2026-11-25T14:32:11+00:00",
   "posts": [
+    {
+      "id": "f61e187a",
+      "image": "img/f61e187a.png",
+      "image_sha": "037d3ff1604edafab82a776e22950f0fbc68131e",
+      "url": "https://www.radiodos.com.ar/217633-abrio-la-inscripcion-para-nuevos-alumnos-en-los-centros-de-desarrollo-infantil-municipales",
+      "title": "Abrió la inscripción para nuevos alumnos en los Centros de Desarrollo Infantil municipales",
+      "volanta": "EDUCACIÓN EN LA CIUDAD",
+      "date": "2026-11-25T14:32:11+00:00"
+    },
     {
       "id": "56c87cf6",
       "image": "img/56c87cf6.png",
@@ -531,15 +540,6 @@
       "title": "San Lorenzo se quedó con el primer juego de las finales del Provincial",
       "volanta": "BÁSQUET",
       "date": "2026-11-23T14:18:45+00:00"
-    },
-    {
-      "id": "8693ac9f",
-      "image": "img/8693ac9f.png",
-      "image_sha": "ecababf7505b5a32aeca9ef0e09c3926afce204d",
-      "url": "https://www.radiodos.com.ar/217533-con-viajes-mas-cortos-y-menor-consumo-el-fin-de-semana-largo-por-el-dia-de-la-soberania-nacional-dejo-un-impacto-de-332557-millones",
-      "title": "Con viajes más cortos y menor consumo, el fin de semana largo por el Día de la Soberanía Nacional dejó un impacto de $ 332.557 millones",
-      "volanta": "COMUNICADO DE PRENSA",
-      "date": "2026-11-23T14:03:54+00:00"
     }
   ]
 }
