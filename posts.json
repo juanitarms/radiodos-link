@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T14:32:11+00:00",
+  "updated": "2026-11-25T14:58:48+00:00",
   "posts": [
+    {
+      "id": "b10a04e1",
+      "image": "img/b10a04e1.png",
+      "image_sha": "64d7806f976e6f8f9f9c44c6714ddbf5eef8bfb6",
+      "url": "https://www.radiodos.com.ar/217629-nodocentes-y-docentes-de-la-unne-adhieren-al-paro-nacional",
+      "title": "Nodocentes y docentes de la UNNE adhieren al paro nacional",
+      "volanta": "POR EL FINANCIAMIENTO",
+      "date": "2026-11-25T14:58:48+00:00"
+    },
     {
       "id": "f61e187a",
       "image": "img/f61e187a.png",
@@ -531,15 +540,6 @@
       "title": "El Gobierno enfrenta una semana sobrecargada en el Congreso",
       "volanta": "SUPER JUEVES",
       "date": "2026-11-23T14:34:46+00:00"
-    },
-    {
-      "id": "2364aadf",
-      "image": "img/2364aadf.png",
-      "image_sha": "b383d9fc992e38f419dcfc204c5ad2de7d53bf53",
-      "url": "https://www.radiodos.com.ar/217532-san-lorenzo-se-quedo-con-el-primer-juego-de-las-finales-del-provincial",
-      "title": "San Lorenzo se quedó con el primer juego de las finales del Provincial",
-      "volanta": "BÁSQUET",
-      "date": "2026-11-23T14:18:45+00:00"
     }
   ]
 }
