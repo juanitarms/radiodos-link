@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T20:44:37+00:00",
+  "updated": "2026-11-25T21:31:19+00:00",
   "posts": [
+    {
+      "id": "f68345a3",
+      "image": "img/f68345a3.png",
+      "image_sha": "518d2ca81c366a6eeb7447b7443c1992ab0abde7",
+      "url": "https://www.radiodos.com.ar/217670-una-nena-de-3-anos-oriunda-de-corrientes-murio-en-la-provincia-de-bs-as-detuvieron-a-su-madre-y-a-su-padrastro",
+      "title": "Una nena de 3 años oriunda de Corrientes murió en la provincia de Bs As: detuvieron a su madre y a su padrastro",
+      "volanta": "TENIA GOLPES EN EL CUERPO",
+      "date": "2026-11-25T21:31:19+00:00"
+    },
     {
       "id": "00658b21",
       "image": "img/00658b21.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes, entre los destinos favoritos del fin de semana largo impulsada por sus fiestas y atractivos naturales",
       "volanta": "Turismo",
       "date": "2026-11-23T20:48:11+00:00"
-    },
-    {
-      "id": "14611c61",
-      "image": "img/14611c61.png",
-      "image_sha": "5bd4fc1b7727ffce27e9ba864667fcdb9dbc5f89",
-      "url": "https://www.radiodos.com.ar/217552-detectaron-una-nueva-variante-de-covid-19-en-la-argentina-que-se-sabe-y-cuales-son-los-riesgos",
-      "title": "Detectaron una nueva variante de COVID-19 en la Argentina: qué se sabe y cuáles son los riesgos",
-      "volanta": "Salud",
-      "date": "2026-11-23T20:47:18+00:00"
     }
   ]
 }
