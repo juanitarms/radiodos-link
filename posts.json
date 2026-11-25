@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T23:11:49+00:00",
+  "updated": "2026-11-25T10:47:06+00:00",
   "posts": [
+    {
+      "id": "67f95b76",
+      "image": "img/67f95b76.png",
+      "image_sha": "ca120bf8c1346f641982864d93cbb8acce37ca80",
+      "url": "https://www.radiodos.com.ar/217623-rina-en-un-barrio-un-adolescente-recibio-un-balazo-cuando-volvia-a-su-casa",
+      "title": "Riña en un barrio: un adolescente recibió un balazo cuando volvía a su casa",
+      "volanta": "B° PALOMA DE LA PAZ",
+      "date": "2026-11-25T10:47:06+00:00"
+    },
     {
       "id": "eb3dbda9",
       "image": "img/eb3dbda9.png",
@@ -531,15 +540,6 @@
       "title": "Copa Sudamericana: Arruabarrena celebró el campeonato de Boca pero ya puso la mira en el torneo local",
       "volanta": "Con los pies en la tierra",
       "date": "2026-11-22T20:41:19+00:00"
-    },
-    {
-      "id": "ce352fc0",
-      "image": "img/ce352fc0.png",
-      "image_sha": "a2f985ff2940bdd080bd2746af2381ac4bf68a21",
-      "url": "https://www.radiodos.com.ar/217512-el-consumo-masivo-crecio-en-octubre-pero-acumula-una-caida-de-23-en-lo-que-va-del-ano",
-      "title": "El consumo masivo creció en octubre, pero acumula una caída de 2,3% en lo que va del año",
-      "volanta": "ECONOMÍA",
-      "date": "2026-11-22T20:40:33+00:00"
     }
   ]
 }
