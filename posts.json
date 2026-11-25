@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T21:34:40+00:00",
+  "updated": "2026-11-25T23:21:06+00:00",
   "posts": [
+    {
+      "id": "9a96b049",
+      "image": "img/9a96b049.png",
+      "image_sha": "465f775308fbb3970d1ed88eabb741eed93c21e4",
+      "url": "https://www.radiodos.com.ar/217678-rio-uruguay-aumentaron-los-caudales-que-evacuan-las-represas-de-brasil",
+      "title": "Río Uruguay: aumentaron los caudales que evacuan las represas de Brasil",
+      "volanta": "Alerta",
+      "date": "2026-11-25T23:21:06+00:00"
+    },
     {
       "id": "4b5f1e4d",
       "image": "img/4b5f1e4d.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes con una ocupación hotelera del 50% en el finde largo",
       "volanta": "TURISMO",
       "date": "2026-11-24T10:18:30+00:00"
-    },
-    {
-      "id": "bfa86809",
-      "image": "img/bfa86809.png",
-      "image_sha": "ff08f96518806a3e7cc5628a3ef506a7fa241eb4",
-      "url": "https://www.radiodos.com.ar/217555-torneo-clausura-en-un-duelo-infartante-que-llego-al-alargue-gimnasia-supero-a-newell-s-y-avanza",
-      "title": "Torneo Clausura: En un duelo infartante que llegó al alargue, Gimnasia superó a Newell’s y avanza",
-      "volanta": "Fue 4 a 2",
-      "date": "2026-11-23T23:29:03+00:00"
     }
   ]
 }
