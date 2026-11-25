@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T20:43:10+00:00",
+  "updated": "2026-11-25T20:43:54+00:00",
   "posts": [
+    {
+      "id": "93070641",
+      "image": "img/93070641.png",
+      "image_sha": "772a84818c54f6429766c9291abb21acd0dea528",
+      "url": "https://www.radiodos.com.ar/217666-santilli-defendio-al-gobierno-en-el-senado-milei-no-se-cayo-a-los-seis-meses-y-hoy-va-por-la-reeleccion",
+      "title": "Santilli defendió al Gobierno en el Senado: \"Milei no se cayó a los seis meses y hoy va por la reelección\"",
+      "volanta": "Discurso",
+      "date": "2026-11-25T20:43:54+00:00"
+    },
     {
       "id": "19a6832f",
       "image": "img/19a6832f.png",
@@ -531,15 +540,6 @@
       "title": "La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
       "volanta": "Fuerte reclamo",
       "date": "2026-11-23T19:33:17+00:00"
-    },
-    {
-      "id": "3bf3524d",
-      "image": "img/3bf3524d.png",
-      "image_sha": "c5b15d5f2a3962c737073236054f94b6dca322c1",
-      "url": "https://www.radiodos.com.ar/217543-el-indice-de-confianza-en-el-gobierno-subio-un-41-en-noviembre-y-alcanzo-los-204-puntos",
-      "title": "El Índice de Confianza en el Gobierno subió un 4,1% en noviembre y alcanzó los 2,04 puntos",
-      "volanta": "Informe",
-      "date": "2026-11-23T18:52:46+00:00"
     }
   ]
 }
