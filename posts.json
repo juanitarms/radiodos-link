@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T18:58:45+00:00",
+  "updated": "2026-11-25T20:41:39+00:00",
   "posts": [
+    {
+      "id": "9a5b21d5",
+      "image": "img/9a5b21d5.png",
+      "image_sha": "a85e794917c479b0cf628058fe05ae2b9b2a1130",
+      "url": "https://www.radiodos.com.ar/217621-copa-argentina-boca-y-platense-jugaran-la-final-el-proximo-2-de-diciembre",
+      "title": "Copa Argentina : Boca y Platense jugarán la final el próximo 2 de diciembre",
+      "volanta": "Confirmado",
+      "date": "2026-11-25T20:41:39+00:00"
+    },
     {
       "id": "8dd385e2",
       "image": "img/8dd385e2.png",
@@ -531,15 +540,6 @@
       "title": "El Cholo Simeone rompió un récord con Atlético Madrid: es el DT que más partidos ganó por la Liga\"",
       "volanta": "345 triunfo",
       "date": "2026-11-23T18:51:22+00:00"
-    },
-    {
-      "id": "83404ba0",
-      "image": "img/83404ba0.png",
-      "image_sha": "c6700c79121d15cc56ec5bd1a0fb401c295d6ca5",
-      "url": "https://www.radiodos.com.ar/217521-javier-milei-defendio-el-manejo-del-oro-del-bcra-tras-la-caida-del-precio-y-cuestiono-a-sus-criticos",
-      "title": "Javier Milei defendió el manejo del oro del BCRA tras la caída del precio y cuestionó a sus críticos",
-      "volanta": "Duras palabras",
-      "date": "2026-11-23T18:12:30+00:00"
     }
   ]
 }
