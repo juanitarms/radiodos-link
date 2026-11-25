@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T20:42:27+00:00",
+  "updated": "2026-11-25T20:43:10+00:00",
   "posts": [
+    {
+      "id": "19a6832f",
+      "image": "img/19a6832f.png",
+      "image_sha": "adb0fa483f77c8b0247a328322bf813718940f0a",
+      "url": "https://www.radiodos.com.ar/217667-whatsapp-habilito-una-funcion-muy-esperada-por-los-usuarios",
+      "title": "WhatsApp habilitó una función muy esperada por los usuarios",
+      "volanta": "OFICIAL",
+      "date": "2026-11-25T20:43:10+00:00"
+    },
     {
       "id": "d80f4f01",
       "image": "img/d80f4f01.png",
@@ -531,15 +540,6 @@
       "title": "El Índice de Confianza en el Gobierno subió un 4,1% en noviembre y alcanzó los 2,04 puntos",
       "volanta": "Informe",
       "date": "2026-11-23T18:52:46+00:00"
-    },
-    {
-      "id": "2490f3cc",
-      "image": "img/2490f3cc.png",
-      "image_sha": "d62a3cc231ecb43f755796e8e084828fd633d223",
-      "url": "https://www.radiodos.com.ar/217544-atp-zverev-cerro-el-2026-como-numero-uno-del-mundo-y-diez-argentinos-terminaron-en-el-top-100-del-ranking",
-      "title": "ATP: Zverev cerró el 2026 como número uno del mundo y diez argentinos terminaron en el Top 100 del ranking",
-      "volanta": "Francisco Cerúndolo el mejor argentino",
-      "date": "2026-11-23T18:52:05+00:00"
     }
   ]
 }
