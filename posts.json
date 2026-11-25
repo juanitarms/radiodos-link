@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T20:43:54+00:00",
+  "updated": "2026-11-25T20:44:37+00:00",
   "posts": [
+    {
+      "id": "00658b21",
+      "image": "img/00658b21.png",
+      "image_sha": "681eeed9a7f927b9bc951025f9fae3e94004956a",
+      "url": "https://www.radiodos.com.ar/217665-mundial-sub17-gran-reaccion-albiceleste-en-un-partidazo-empate-y-clasificacion-a-playoffs",
+      "title": "Mundial Sub17: Gran reacción Albiceleste en un partidazo, empate y clasificación a playoffs",
+      "volanta": "Fue 3 a 3 en Qatar",
+      "date": "2026-11-25T20:44:37+00:00"
+    },
     {
       "id": "93070641",
       "image": "img/93070641.png",
@@ -531,15 +540,6 @@
       "title": "Detectaron una nueva variante de COVID-19 en la Argentina: qué se sabe y cuáles son los riesgos",
       "volanta": "Salud",
       "date": "2026-11-23T20:47:18+00:00"
-    },
-    {
-      "id": "f79d19a0",
-      "image": "img/f79d19a0.png",
-      "image_sha": "63134d8d991fa02f24290cac42755fad3138660c",
-      "url": "https://www.radiodos.com.ar/217546-la-iglesia-pidio-al-senado-que-no-deje-caer-la-ley-contra-la-ludopatia",
-      "title": "La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
-      "volanta": "Fuerte reclamo",
-      "date": "2026-11-23T19:33:17+00:00"
     }
   ]
 }
