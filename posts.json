@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T18:17:29+00:00",
+  "updated": "2026-11-25T18:18:04+00:00",
   "posts": [
+    {
+      "id": "fac92f74",
+      "image": "img/fac92f74.png",
+      "image_sha": "65cc20cf55ef7aed7d78aa009380db338ef704bc",
+      "url": "https://www.radiodos.com.ar/217659-en-allanamientos-secuestraron-dispositivos-electronicos-de-una-investigacion-judicial",
+      "title": "En allanamientos secuestraron dispositivos electrónicos de una investigación judicial",
+      "volanta": "OPERATIVO INTERNACIONAL “ALIADOS POR LA INFANCIA VII”",
+      "date": "2026-11-25T18:18:04+00:00"
+    },
     {
       "id": "bed3b9d1",
       "image": "img/bed3b9d1.png",
@@ -531,15 +540,6 @@
       "title": "TRFA: Huracán de Goya sufrió un contundente golpe en Formosa y cayó goleado",
       "volanta": "Fue 4 a 1",
       "date": "2026-11-23T17:03:12+00:00"
-    },
-    {
-      "id": "27bc865e",
-      "image": "img/27bc865e.png",
-      "image_sha": "e8978b5d52a7a49726d2d89275f78368136d93b2",
-      "url": "https://www.radiodos.com.ar/217518-un-conductor-alcoholizado-choco-contra-un-poste-de-luz-tras-salir-de-una-fiesta",
-      "title": "Un conductor alcoholizado chocó contra un poste de luz tras salir de una fiesta",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-23T17:02:14+00:00"
     }
   ]
 }
