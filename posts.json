@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T12:52:21+00:00",
+  "updated": "2026-11-25T13:11:49+00:00",
   "posts": [
+    {
+      "id": "fc54d1de",
+      "image": "img/fc54d1de.png",
+      "image_sha": "7d3815b8f83ad03250b6bdd5777904bc1cef2ad8",
+      "url": "https://www.radiodos.com.ar/217643-corrientes-entraron-a-robar-a-un-mayorista-y-se-llevaron-una-caja-de-seguridad-vacia",
+      "title": "Corrientes: entraron a robar a un mayorista y se llevaron una caja de seguridad \"vacía\"",
+      "volanta": "ERROR",
+      "date": "2026-11-25T13:11:49+00:00"
+    },
     {
       "id": "8ce9f15b",
       "image": "img/8ce9f15b.png",
@@ -531,15 +540,6 @@
       "title": "Mañana comienza el pago de sueldos a la administración pública provincial",
       "volanta": "HASTA EL LUNES 30",
       "date": "2026-11-23T13:10:08+00:00"
-    },
-    {
-      "id": "c331fb36",
-      "image": "img/c331fb36.png",
-      "image_sha": "3b83f9e11a6673ca8353db37cd16764c835e96c8",
-      "url": "https://www.radiodos.com.ar/217528-muerte-de-la-beba-en-resistencia-sus-padres-declararan-acusados-de-homicidio-agravado",
-      "title": "Muerte de la beba en Resistencia: sus padres declararán acusados de homicidio agravado",
-      "volanta": "MAÑANA",
-      "date": "2026-11-23T12:33:50+00:00"
     }
   ]
 }
