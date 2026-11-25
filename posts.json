@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T13:11:49+00:00",
+  "updated": "2026-11-25T13:27:07+00:00",
   "posts": [
+    {
+      "id": "e5ccf6df",
+      "image": "img/e5ccf6df.png",
+      "image_sha": "7eb41c674cd8faa6df97b3700d62fc8fa9f3dddb",
+      "url": "https://www.radiodos.com.ar/217642-el-viernes-comienza-la-experiencia-zeppelin-en-la-unidad",
+      "title": "El viernes comienza la Experiencia Zeppelin en La Unidad",
+      "volanta": "PROMOCIÓN TURÍSTICA",
+      "date": "2026-11-25T13:27:07+00:00"
+    },
     {
       "id": "fc54d1de",
       "image": "img/fc54d1de.png",
@@ -531,15 +540,6 @@
       "title": "Seguridad y educación vial: la ciudad  de Corrientes redujo un 40% las víctimas fatales",
       "volanta": "INFORME DE LA MUNICIPALIDAD",
       "date": "2026-11-23T13:32:50+00:00"
-    },
-    {
-      "id": "bb8b726c",
-      "image": "img/bb8b726c.png",
-      "image_sha": "506aa36ef1f54e001a462dcf9f654b55e5a2169e",
-      "url": "https://www.radiodos.com.ar/217529-manana-comienza-el-pago-de-sueldos-a-la-administracion-publica-provincial",
-      "title": "Mañana comienza el pago de sueldos a la administración pública provincial",
-      "volanta": "HASTA EL LUNES 30",
-      "date": "2026-11-23T13:10:08+00:00"
     }
   ]
 }
