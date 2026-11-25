@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T13:27:07+00:00",
+  "updated": "2026-11-25T13:50:14+00:00",
   "posts": [
+    {
+      "id": "56c87cf6",
+      "image": "img/56c87cf6.png",
+      "image_sha": "315c710acccd35a121bcb34fae83779f4d62845b",
+      "url": "https://www.radiodos.com.ar/217649-el-nino-alcanza-nuevos-records-de-temperatura-y-preven-su-efecto-en-la-argentina",
+      "title": "El Niño alcanza nuevos récords de temperatura y prevén su efecto en la Argentina",
+      "volanta": "FENÓMENO",
+      "date": "2026-11-25T13:50:14+00:00"
+    },
     {
       "id": "e5ccf6df",
       "image": "img/e5ccf6df.png",
@@ -531,15 +540,6 @@
       "title": "Con viajes más cortos y menor consumo, el fin de semana largo por el Día de la Soberanía Nacional dejó un impacto de $ 332.557 millones",
       "volanta": "COMUNICADO DE PRENSA",
       "date": "2026-11-23T14:03:54+00:00"
-    },
-    {
-      "id": "abbabe5d",
-      "image": "img/abbabe5d.png",
-      "image_sha": "22b71ea30ff7eaa9f3b2cc6fad27b8c21cddd2e4",
-      "url": "https://www.radiodos.com.ar/217530-seguridad-y-educacion-vial-la-ciudad-de-corrientes-redujo-un-40-las-victimas-fatales",
-      "title": "Seguridad y educación vial: la ciudad  de Corrientes redujo un 40% las víctimas fatales",
-      "volanta": "INFORME DE LA MUNICIPALIDAD",
-      "date": "2026-11-23T13:32:50+00:00"
     }
   ]
 }
