@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T14:58:48+00:00",
+  "updated": "2026-11-25T16:27:42+00:00",
   "posts": [
+    {
+      "id": "6db8eda2",
+      "image": "img/6db8eda2.png",
+      "image_sha": "74fff4465eaace0b0a2e25d80acd57200730b46e",
+      "url": "https://www.radiodos.com.ar/217655-came-manifiesta-preocupacion-por-la-proliferacion-de-saladitas",
+      "title": "CAME manifiesta preocupación por la proliferación de saladitas",
+      "volanta": "COMUNICADO DE PRENSA",
+      "date": "2026-11-25T16:27:42+00:00"
+    },
     {
       "id": "b10a04e1",
       "image": "img/b10a04e1.png",
@@ -531,15 +540,6 @@
       "title": "Boca llegó a la Argentina y fue recibido por una multitud de hinchas en Ezeiza",
       "volanta": "LOCURA",
       "date": "2026-11-23T15:07:47+00:00"
-    },
-    {
-      "id": "4cc02a72",
-      "image": "img/4cc02a72.png",
-      "image_sha": "297d8efe788eb696afbb9c24a58c1e56931b3edd",
-      "url": "https://www.radiodos.com.ar/217536-el-gobierno-enfrenta-una-semana-sobrecargada-en-el-congreso",
-      "title": "El Gobierno enfrenta una semana sobrecargada en el Congreso",
-      "volanta": "SUPER JUEVES",
-      "date": "2026-11-23T14:34:46+00:00"
     }
   ]
 }
