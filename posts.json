@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T21:31:19+00:00",
+  "updated": "2026-11-25T21:32:17+00:00",
   "posts": [
+    {
+      "id": "e27814b6",
+      "image": "img/e27814b6.png",
+      "image_sha": "ff5f44e07a15c4f5a41bbd848dbad8c7b3105859",
+      "url": "https://www.radiodos.com.ar/217669-las-ventas-en-supermercados-cayeron-3-interanual-y-en-mayoristas-aumentaron-1-en-el-ultimo-ano",
+      "title": "Las ventas en supermercados cayeron 3% interanual y en mayoristas aumentaron 1% en el último año",
+      "volanta": "Crisis en el consumo",
+      "date": "2026-11-25T21:32:17+00:00"
+    },
     {
       "id": "f68345a3",
       "image": "img/f68345a3.png",
@@ -531,15 +540,6 @@
       "title": "Murió Ricardo Arce, gloria del boxeo correntino que se consagró campeón argentino en el Luna Park",
       "volanta": "Triste noticia",
       "date": "2026-11-23T21:16:25+00:00"
-    },
-    {
-      "id": "5793a95c",
-      "image": "img/5793a95c.png",
-      "image_sha": "2e5dfcec3014021b603c5931dcf5b6502ee3fc78",
-      "url": "https://www.radiodos.com.ar/217551-corrientes-entre-los-destinos-favoritos-del-fin-de-semana-largo-impulsada-por-sus-fiestas-y-atractivos-naturales",
-      "title": "Corrientes, entre los destinos favoritos del fin de semana largo impulsada por sus fiestas y atractivos naturales",
-      "volanta": "Turismo",
-      "date": "2026-11-23T20:48:11+00:00"
     }
   ]
 }
