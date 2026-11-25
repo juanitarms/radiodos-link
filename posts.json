@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T18:57:55+00:00",
+  "updated": "2026-11-25T18:58:45+00:00",
   "posts": [
+    {
+      "id": "8dd385e2",
+      "image": "img/8dd385e2.png",
+      "image_sha": "26d9c50bf95fbe301df1489a567bf00738fb6c9d",
+      "url": "https://www.radiodos.com.ar/217654-anmat-prohibio-un-aerosol-deportivo-que-se-vendia-por-internet",
+      "title": "ANMAT prohibió un aerosol deportivo que se vendía por Internet",
+      "volanta": "OFICIAL",
+      "date": "2026-11-25T18:58:45+00:00"
+    },
     {
       "id": "52cc8502",
       "image": "img/52cc8502.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei defendió el manejo del oro del BCRA tras la caída del precio y cuestionó a sus críticos",
       "volanta": "Duras palabras",
       "date": "2026-11-23T18:12:30+00:00"
-    },
-    {
-      "id": "111eaa54",
-      "image": "img/111eaa54.png",
-      "image_sha": "47ac6ec88f6b235e1ff4520df7e06f040f634b9b",
-      "url": "https://www.radiodos.com.ar/217522-torneo-clausura-river-vencio-a-lanus-y-avanzo-a-cuartos-de-final",
-      "title": "Torneo Clausura: River venció a Lanús y avanzó a cuartos de final",
-      "volanta": "Fue 3 a 1",
-      "date": "2026-11-23T18:11:46+00:00"
     }
   ]
 }
