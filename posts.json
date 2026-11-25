@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T23:23:11+00:00",
+  "updated": "2026-11-25T23:24:06+00:00",
   "posts": [
+    {
+      "id": "6222cebc",
+      "image": "img/6222cebc.png",
+      "image_sha": "3e382a6db35f28ab5238dddad042ce74a9768907",
+      "url": "https://www.radiodos.com.ar/217677-torneo-clausura-la-liga-profesional-designo-a-los-arbitros-para-los-partidos-de-cuartos-de-final",
+      "title": "Torneo Clausura: La Liga Profesional designó a los árbitros para los partidos de cuartos de final",
+      "volanta": "DEPORTES",
+      "date": "2026-11-25T23:24:06+00:00"
+    },
     {
       "id": "32a62e14",
       "image": "img/32a62e14.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes en alerta por tormentas fuertes durante toda la jornada",
       "volanta": "EN TODO EL TERRITORIO PROVINCIAL",
       "date": "2026-11-24T10:42:45+00:00"
-    },
-    {
-      "id": "11a83399",
-      "image": "img/11a83399.png",
-      "image_sha": "b9d03251dea4db4096e38ecd97b83551becbc378",
-      "url": "https://www.radiodos.com.ar/217556-prision-preventiva-para-un-nieto-acusado-de-asesinar-a-su-abuelo-para-robarle",
-      "title": "Prisión preventiva para un nieto acusado de asesinar a su abuelo para robarle",
-      "volanta": "ESQUINA",
-      "date": "2026-11-24T10:36:50+00:00"
     }
   ]
 }
