@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T14:19:18+00:00",
+  "updated": "2026-11-26T14:48:15+00:00",
   "posts": [
+    {
+      "id": "5bf3c90b",
+      "image": "img/5bf3c90b.png",
+      "image_sha": "237f08431f97f103bbbb734e3bc075bb21d05497",
+      "url": "https://www.radiodos.com.ar/217715-marta-fort-recordo-a-ricardo-a-13-anos-de-su-muerte-avasallante-e-irrepetible",
+      "title": "Marta Fort recordó a Ricardo a 13 años de su muerte: \"Avasallante e irrepetible\"",
+      "volanta": "SU GRAN AMOR",
+      "date": "2026-11-26T14:48:15+00:00"
+    },
     {
       "id": "a6fcf7c4",
       "image": "img/a6fcf7c4.png",
@@ -531,15 +540,6 @@
       "title": "La Copa América 2028 se jugará otra vez en Estados Unidos: tendría un formato renovado",
       "volanta": "FÚTBOL",
       "date": "2026-11-24T13:55:31+00:00"
-    },
-    {
-      "id": "12832a66",
-      "image": "img/12832a66.png",
-      "image_sha": "03c943c7e728f9e461f0c7fc0e70eafb32abcb68",
-      "url": "https://www.radiodos.com.ar/217584-tras-la-intensa-lluvia-cuadrillas-municipales-trabajan-en-distintos-puntos-de-la-ciudad",
-      "title": "Tras la intensa lluvia cuadrillas municipales trabajan en distintos puntos de la ciudad",
-      "volanta": "LIMPIEZA",
-      "date": "2026-11-24T13:38:29+00:00"
     }
   ]
 }
