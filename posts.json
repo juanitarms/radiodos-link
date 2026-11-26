@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T22:50:22+00:00",
+  "updated": "2026-11-26T22:59:17+00:00",
   "posts": [
+    {
+      "id": "4a99b083",
+      "image": "img/4a99b083.png",
+      "image_sha": "b36ebcc3cd3fac7c002750f361f59ce42e0454a3",
+      "url": "https://www.radiodos.com.ar/217747-allanaron-una-casa-por-presunto-trafico-de-material-pornografico",
+      "title": "Allanaron una casa por presunto tráfico de material pornográfico",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-26T22:59:17+00:00"
+    },
     {
       "id": "61e363f0",
       "image": "img/61e363f0.png",
@@ -531,15 +540,6 @@
       "title": "Javier Milei llega este jueves a Corrientes para cerrar el 13.º Congreso de Economía Regional",
       "volanta": "Evento privado",
       "date": "2026-11-24T22:33:09+00:00"
-    },
-    {
-      "id": "67254350",
-      "image": "img/67254350.png",
-      "image_sha": "e46bf7afa50aa83bfb70f654cfd7ae3c2ebed9d8",
-      "url": "https://www.radiodos.com.ar/217609-gremios-docentes-formalizaron-un-paro-docente-por-24-horas-para-este-viernes-en-corrientes",
-      "title": "Gremios docentes formalizaron un paro docente por 24 horas para este viernes en Corrientes",
-      "volanta": "A nivel provincial",
-      "date": "2026-11-24T21:31:38+00:00"
     }
   ]
 }
