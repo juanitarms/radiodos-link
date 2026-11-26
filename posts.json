@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T23:01:29+00:00",
+  "updated": "2026-11-26T23:02:11+00:00",
   "posts": [
+    {
+      "id": "82184c48",
+      "image": "img/82184c48.png",
+      "image_sha": "f4de20dbb2deace99e4e179a4543daed25d161e5",
+      "url": "https://www.radiodos.com.ar/217749-vuelven-las-lluvias-y-tormentas-a-corrientes-como-estara-el-tiempo-este-viernes",
+      "title": "Vuelven las lluvias y tormentas a Corrientes: cómo estará el tiempo este viernes",
+      "volanta": "pronostico",
+      "date": "2026-11-26T23:02:11+00:00"
+    },
     {
       "id": "6a4193cb",
       "image": "img/6a4193cb.png",
@@ -531,15 +540,6 @@
       "title": "El Gobernador de Corrientes convocó a extraordinarias: se van a tratar cinco proyectos",
       "volanta": "DEL 1 AL 31 DE DICIEMBRE",
       "date": "2026-11-24T22:54:25+00:00"
-    },
-    {
-      "id": "28fd2621",
-      "image": "img/28fd2621.png",
-      "image_sha": "6e49da59df11bcc63956bfd8cad2265418f8cc7b",
-      "url": "https://www.radiodos.com.ar/217614-abrieron-la-convocatoria-de-artistas-para-la-36-fiesta-nacional-del-chamame",
-      "title": "Abrieron la convocatoria de artistas para la 36ª Fiesta Nacional del Chamamé",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-24T22:53:11+00:00"
     }
   ]
 }
