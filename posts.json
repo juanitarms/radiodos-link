@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T16:52:50+00:00",
+  "updated": "2026-11-26T17:35:47+00:00",
   "posts": [
+    {
+      "id": "fac0f601",
+      "image": "img/fac0f601.png",
+      "image_sha": "0eb5d499c057b92080f34eb85ea2aa8e9287ea99",
+      "url": "https://www.radiodos.com.ar/217737-el-sentido-mensaje-de-stefi-roitman-por-el-cumpleanos-de-ricky-montaner-lo-que-toca-lo-hace-brillar",
+      "title": "El sentido mensaje de Stefi Roitman por el cumpleaños de Ricky Montaner: \"Lo que toca lo hace brillar\"",
+      "volanta": "VIVA EL AMOR",
+      "date": "2026-11-26T17:35:47+00:00"
+    },
     {
       "id": "001cfff4",
       "image": "img/001cfff4.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes presentó el Plan Provincial de Prevención y Control de Dengue",
       "volanta": "PERÍODO 2026/2027",
       "date": "2026-11-24T16:21:56+00:00"
-    },
-    {
-      "id": "2db15e15",
-      "image": "img/2db15e15.png",
-      "image_sha": "9c10bbdf04b91aa3fa324ba82c0b284fe60ebd8c",
-      "url": "https://www.radiodos.com.ar/217587-murio-la-mama-de-guido-kaczka-y-el-conductor-se-despidio-al-aire-sentis-que-no-podes-cambiar-las-cosas",
-      "title": "Murió la mamá de Guido Kaczka y el conductor se despidió al aire: \"Sentís que no podés cambiar las cosas\"",
-      "volanta": "A CORAZÓN ABIERTO",
-      "date": "2026-11-24T15:05:33+00:00"
     }
   ]
 }
