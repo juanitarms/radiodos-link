@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T21:09:10+00:00",
+  "updated": "2026-11-26T21:11:11+00:00",
   "posts": [
+    {
+      "id": "1292f192",
+      "image": "img/1292f192.png",
+      "image_sha": "f14c0fe0b15e20202d90c3d760d766e2bd8d81c7",
+      "url": "https://www.radiodos.com.ar/217742-milei-celebro-la-reforma-de-la-carta-organica-del-bcra-se-termino-la-estafa-via-emision",
+      "title": "Milei celebró la reforma de la carta orgánica del BCRA: \"Se terminó la estafa vía emisión\"",
+      "volanta": "proyecto del ejecutivo",
+      "date": "2026-11-26T21:11:11+00:00"
+    },
     {
       "id": "5d593797",
       "image": "img/5d593797.png",
@@ -531,15 +540,6 @@
       "title": "Argentina entró en recesión técnica: la actividad económica cayó por segundo trimestre consecutivo",
       "volanta": "Crisis",
       "date": "2026-11-24T21:30:09+00:00"
-    },
-    {
-      "id": "ad1aeb52",
-      "image": "img/ad1aeb52.png",
-      "image_sha": "5af624c73ddd08b0c1737b252542a276acff2113",
-      "url": "https://www.radiodos.com.ar/217600-comenzo-el-black-friday-en-tienda-mas-banco-hasta-24-cuotas-sin-interes-en-todos-los-productos",
-      "title": "Comenzó el Black Friday en Tienda Más BanCo: hasta 24 cuotas sin interés en todos los productos",
-      "volanta": "ENVÍOS GRATIS EN PRODUCTOS SELECCIONADOS",
-      "date": "2026-11-24T18:47:24+00:00"
     }
   ]
 }
