@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T12:38:46+00:00",
+  "updated": "2026-11-26T12:59:12+00:00",
   "posts": [
+    {
+      "id": "132e15a0",
+      "image": "img/132e15a0.png",
+      "image_sha": "2d68c7173e78dc27586b22af2d7e61a76ecc7011",
+      "url": "https://www.radiodos.com.ar/217693-santo-tome-una-empleada-domestica-fue-atacada-por-el-perro-pitbull-de-su-empleador",
+      "title": "Santo Tomé: una empleada doméstica fue atacada por el perro Pitbull de su empleador",
+      "volanta": "FUE DERIVADA A CORRIENTES",
+      "date": "2026-11-26T12:59:12+00:00"
+    },
     {
       "id": "64faac70",
       "image": "img/64faac70.png",
@@ -531,15 +540,6 @@
       "title": "Marea de Estudiantes en Montevideo: más de 35 mil hinchas viajarán a la final de la Copa Libertadores",
       "volanta": "URUGUAY",
       "date": "2026-11-24T12:50:11+00:00"
-    },
-    {
-      "id": "4069cf4c",
-      "image": "img/4069cf4c.png",
-      "image_sha": "4ffac720f09c4cf8a8ba2d838285908511632811",
-      "url": "https://www.radiodos.com.ar/217564-solo-1-de-cada-100-palmares-de-yatay-se-encuentra-en-buen-estado-de-conservacion",
-      "title": "Solo 1 de cada 100 palmares de yatay se encuentra en buen estado de conservación",
-      "volanta": "NUEVOS CONOCIMIENTOS",
-      "date": "2026-11-24T12:26:06+00:00"
     }
   ]
 }
