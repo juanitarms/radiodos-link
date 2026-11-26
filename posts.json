@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T12:59:12+00:00",
+  "updated": "2026-11-26T13:27:29+00:00",
   "posts": [
+    {
+      "id": "9925c895",
+      "image": "img/9925c895.png",
+      "image_sha": "4112a63c290e0d0f1548452fcc950e782335102f",
+      "url": "https://www.radiodos.com.ar/217710-el-municipio-intensifica-acciones-de-prevencion-para-evitar-la-proliferacion-del-mosquito-del-dengue",
+      "title": "El Municipio intensifica acciones de prevención para evitar la proliferación del mosquito del dengue",
+      "volanta": "ACCIONES",
+      "date": "2026-11-26T13:27:29+00:00"
+    },
     {
       "id": "132e15a0",
       "image": "img/132e15a0.png",
@@ -531,15 +540,6 @@
       "title": "Trabajadores del Hospital Garrahan toman el centro de salud en protesta por despidos y cesantías",
       "volanta": "CRISIS",
       "date": "2026-11-24T13:09:44+00:00"
-    },
-    {
-      "id": "f5b43f4a",
-      "image": "img/f5b43f4a.png",
-      "image_sha": "9bb6917233b920454454bbe9eea16e06be3fcc51",
-      "url": "https://www.radiodos.com.ar/217576-marea-de-estudiantes-en-montevideo-mas-de-35-mil-hinchas-viajaran-a-la-final-de-la-copa-libertadores",
-      "title": "Marea de Estudiantes en Montevideo: más de 35 mil hinchas viajarán a la final de la Copa Libertadores",
-      "volanta": "URUGUAY",
-      "date": "2026-11-24T12:50:11+00:00"
     }
   ]
 }
