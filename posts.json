@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T14:48:15+00:00",
+  "updated": "2026-11-26T15:07:56+00:00",
   "posts": [
+    {
+      "id": "244a3872",
+      "image": "img/244a3872.png",
+      "image_sha": "6cb2c95ab38e83c00ff9ffce4938074b7134c4b2",
+      "url": "https://www.radiodos.com.ar/217725-este-lunes-30-iniciara-el-pago-de-sueldos-a-trabajadores-municipales",
+      "title": "Este lunes 30 iniciará el pago de sueldos a trabajadores municipales",
+      "volanta": "DISPONIBLE PARA TODO EL PERSONAL",
+      "date": "2026-11-26T15:07:56+00:00"
+    },
     {
       "id": "5bf3c90b",
       "image": "img/5bf3c90b.png",
@@ -531,15 +540,6 @@
       "title": "Inscripciones abiertas para ingresar a la Escuela de Suboficiales de la Policía de Corrientes",
       "volanta": "HASTA EL 22 DE DICIEMBRE",
       "date": "2026-11-24T14:21:15+00:00"
-    },
-    {
-      "id": "0c3a4c21",
-      "image": "img/0c3a4c21.png",
-      "image_sha": "d1b513b72b5581a4a2450919d51c11edb84180d5",
-      "url": "https://www.radiodos.com.ar/217590-la-copa-america-2028-se-jugara-otra-vez-en-estados-unidos-tendria-un-formato-renovado",
-      "title": "La Copa América 2028 se jugará otra vez en Estados Unidos: tendría un formato renovado",
-      "volanta": "FÚTBOL",
-      "date": "2026-11-24T13:55:31+00:00"
     }
   ]
 }
