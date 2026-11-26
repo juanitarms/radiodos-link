@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T13:27:29+00:00",
+  "updated": "2026-11-26T14:03:19+00:00",
   "posts": [
+    {
+      "id": "b29f50a8",
+      "image": "img/b29f50a8.png",
+      "image_sha": "8e34aa7ef1e4d353e3ef1265a35475d5a8b3b1f1",
+      "url": "https://www.radiodos.com.ar/217721-tras-una-intensa-busqueda-encontraron-a-un-hombre-que-estaba-perdido",
+      "title": "Tras una intensa búsqueda encontraron a un hombre que estaba perdido",
+      "volanta": "ESQUINA",
+      "date": "2026-11-26T14:03:19+00:00"
+    },
     {
       "id": "9925c895",
       "image": "img/9925c895.png",
@@ -531,15 +540,6 @@
       "title": "Volvieron a robar y causar destrozos en una escuela técnica en el interior provincial",
       "volanta": "INDIGNACIÓN",
       "date": "2026-11-24T13:23:30+00:00"
-    },
-    {
-      "id": "e52d63ea",
-      "image": "img/e52d63ea.png",
-      "image_sha": "0616b25d29f90ee5d2d63f2edb85415fe03bab4c",
-      "url": "https://www.radiodos.com.ar/217573-trabajadores-del-hospital-garrahan-toman-el-centro-de-salud-en-protesta-por-despidos-y-cesantias",
-      "title": "Trabajadores del Hospital Garrahan toman el centro de salud en protesta por despidos y cesantías",
-      "volanta": "CRISIS",
-      "date": "2026-11-24T13:09:44+00:00"
     }
   ]
 }
