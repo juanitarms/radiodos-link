@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T11:22:11+00:00",
+  "updated": "2026-11-26T11:47:23+00:00",
   "posts": [
+    {
+      "id": "80108993",
+      "image": "img/80108993.png",
+      "image_sha": "2f915f55e03717b91a96cbc08db1ae7442c55566",
+      "url": "https://www.radiodos.com.ar/217685-el-senado-provincial-preve-debatir-el-presupuesto-y-da-ingreso-al-pliego-de-ortega-hoy",
+      "title": "El Senado Provincial prevé debatir el Presupuesto y da ingreso al pliego de Ortega hoy",
+      "volanta": "CIERRE DEL PERÍODO ORDINARIO DE SESIONES",
+      "date": "2026-11-26T11:47:23+00:00"
+    },
     {
       "id": "29e0ae65",
       "image": "img/29e0ae65.png",
@@ -531,15 +540,6 @@
       "title": "Las Ferias de la Ciudad llevan sus ofertas a las plazas y espacios públicos",
       "volanta": "ECONOMÍA SOCIAL",
       "date": "2026-11-24T11:48:40+00:00"
-    },
-    {
-      "id": "628e9858",
-      "image": "img/628e9858.png",
-      "image_sha": "c6633b3855a3bbc0a55d1a3308dacdf53a27ca23",
-      "url": "https://www.radiodos.com.ar/217560-creciente-esperan-un-repunte-del-rio-parana-y-mas-de-1300-personas-continuan-desplazadas",
-      "title": "Creciente: esperan un repunte del río Paraná y más de 1300 personas continúan desplazadas",
-      "volanta": "CORRIENTES",
-      "date": "2026-11-24T11:17:30+00:00"
     }
   ]
 }
