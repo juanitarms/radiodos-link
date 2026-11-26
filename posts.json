@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T21:08:11+00:00",
+  "updated": "2026-11-26T21:09:10+00:00",
   "posts": [
+    {
+      "id": "5d593797",
+      "image": "img/5d593797.png",
+      "image_sha": "93343f9f9f3c2ea469f3954b311f7c2a094788fe",
+      "url": "https://www.radiodos.com.ar/217739-el-senado-provincial-dio-media-sancion-al-presupuesto-2027-con-mayoria-especial",
+      "title": "El Senado Provincial dio media sanción al Presupuesto 2027 con mayoría especial",
+      "volanta": "SESION 16",
+      "date": "2026-11-26T21:09:10+00:00"
+    },
     {
       "id": "4a7a3253",
       "image": "img/4a7a3253.png",
@@ -531,15 +540,6 @@
       "title": "Comenzó el Black Friday en Tienda Más BanCo: hasta 24 cuotas sin interés en todos los productos",
       "volanta": "ENVÍOS GRATIS EN PRODUCTOS SELECCIONADOS",
       "date": "2026-11-24T18:47:24+00:00"
-    },
-    {
-      "id": "fd0741b8",
-      "image": "img/fd0741b8.png",
-      "image_sha": "5126469fd98fe4d6910c8833caee0c527e1698e5",
-      "url": "https://www.radiodos.com.ar/217601-el-regreso-de-jensen-huang-a-nvidia-le-genero-ganancias-a-donald-trump-por-hasta-15-millones-de-dolares",
-      "title": "El regreso de Jensen Huang a Nvidia le generó ganancias a Donald Trump por hasta 15 millones de dólares",
-      "volanta": "ECONOMÍA",
-      "date": "2026-11-24T18:46:40+00:00"
     }
   ]
 }
