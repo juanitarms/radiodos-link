@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T22:49:47+00:00",
+  "updated": "2026-11-26T22:50:22+00:00",
   "posts": [
+    {
+      "id": "61e363f0",
+      "image": "img/61e363f0.png",
+      "image_sha": "2219a86d6eb8f87963c8867e4c900bf2c5d09c1f",
+      "url": "https://www.radiodos.com.ar/217744-el-concejo-capitalino-aprobo-el-codigo-fiscal-municipal",
+      "title": "El Concejo capitalino aprobó el Código Fiscal Municipal",
+      "volanta": "CUENTAS PÚBLICAS",
+      "date": "2026-11-26T22:50:22+00:00"
+    },
     {
       "id": "e01812b5",
       "image": "img/e01812b5.png",
@@ -531,15 +540,6 @@
       "title": "Gremios docentes formalizaron un paro docente por 24 horas para este viernes en Corrientes",
       "volanta": "A nivel provincial",
       "date": "2026-11-24T21:31:38+00:00"
-    },
-    {
-      "id": "cf0e7cc3",
-      "image": "img/cf0e7cc3.png",
-      "image_sha": "f04bcc537e1bcccd7e12eb8de8b0b7b6630c52c3",
-      "url": "https://www.radiodos.com.ar/217608-un-venezolano-sin-documentacion-fue-detenido-en-corrientes-tras-comprar-un-pasaje-con-una-transferencia-falsa",
-      "title": "Un venezolano sin documentación fue detenido en Corrientes tras comprar un pasaje con una transferencia falsa",
-      "volanta": "Estafador",
-      "date": "2026-11-24T21:30:56+00:00"
     }
   ]
 }
