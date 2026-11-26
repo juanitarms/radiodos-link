@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T23:02:11+00:00",
+  "updated": "2026-11-26T23:11:45+00:00",
   "posts": [
+    {
+      "id": "0bb54295",
+      "image": "img/0bb54295.png",
+      "image_sha": "11cc0ad8ffcf842da667abd1e9a1a8db3ca2bd46",
+      "url": "https://www.radiodos.com.ar/217748-lanzaron-la-fiesta-nacional-del-chamame-2027-y-confirmaron-que-no-habra-aumento-en-las-entradas",
+      "title": "Lanzaron la Fiesta Nacional del Chamamé 2027 y confirmaron que no habrá aumento en las entradas",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-26T23:11:45+00:00"
+    },
     {
       "id": "82184c48",
       "image": "img/82184c48.png",
@@ -531,15 +540,6 @@
       "title": "Un menor que circulaba sin casco protagonizó un fuerte choque entre dos motos",
       "volanta": "Imprudencia",
       "date": "2026-11-24T22:55:05+00:00"
-    },
-    {
-      "id": "1d462176",
-      "image": "img/1d462176.png",
-      "image_sha": "bd573a65a527adc82e57eb25cbd9a1fa24272449",
-      "url": "https://www.radiodos.com.ar/217617-el-gobernador-de-corrientes-convoco-a-extraordinarias-se-van-a-tratar-cinco-proyectos",
-      "title": "El Gobernador de Corrientes convocó a extraordinarias: se van a tratar cinco proyectos",
-      "volanta": "DEL 1 AL 31 DE DICIEMBRE",
-      "date": "2026-11-24T22:54:25+00:00"
     }
   ]
 }
