@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T17:36:58+00:00",
+  "updated": "2026-11-26T19:40:42+00:00",
   "posts": [
+    {
+      "id": "4cd268f6",
+      "image": "img/4cd268f6.png",
+      "image_sha": "de4209bad942ecefa16a6ebf341ff5dee765759e",
+      "url": "https://www.radiodos.com.ar/217738-un-excustodio-de-diego-maradona-destrozo-a-rocio-oliva-no-fue-buena-influencia",
+      "title": "Un excustodio de Diego Maradona destrozó a Rocío Oliva: \"No fue buena influencia\"",
+      "volanta": "SINCERO",
+      "date": "2026-11-26T19:40:42+00:00"
+    },
     {
       "id": "ac76c7c5",
       "image": "img/ac76c7c5.png",
@@ -531,15 +540,6 @@
       "title": "Italia: descubren un cementerio de osos de las cavernas extintos hace 24.000 años",
       "volanta": "EXPEDICIÓN",
       "date": "2026-11-24T17:44:53+00:00"
-    },
-    {
-      "id": "800114a8",
-      "image": "img/800114a8.png",
-      "image_sha": "88a04b0d943366ac164b7f2bcbce942b2b87a2e5",
-      "url": "https://www.radiodos.com.ar/217598-manana-operativo-integral-corrientes-cerca-en-paso-de-los-libres",
-      "title": "Mañana, operativo integral \"Corrientes Cerca\" en Paso de los Libres",
-      "volanta": "ASISTENCIA",
-      "date": "2026-11-24T16:23:23+00:00"
     }
   ]
 }
