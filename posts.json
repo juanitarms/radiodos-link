@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T20:56:21+00:00",
+  "updated": "2026-11-26T21:08:11+00:00",
   "posts": [
+    {
+      "id": "4a7a3253",
+      "image": "img/4a7a3253.png",
+      "image_sha": "972f51287cff01177e91941af303a5cc3cb03e28",
+      "url": "https://www.radiodos.com.ar/217740-un-hombre-resulto-gravemente-herido-tras-ser-atacado-por-su-hermano",
+      "title": "Un hombre resultó gravemente herido tras ser atacado por su hermano",
+      "volanta": "violencia intrafamiliar",
+      "date": "2026-11-26T21:08:11+00:00"
+    },
     {
       "id": "34d6d87d",
       "image": "img/34d6d87d.png",
@@ -531,15 +540,6 @@
       "title": "El regreso de Jensen Huang a Nvidia le generó ganancias a Donald Trump por hasta 15 millones de dólares",
       "volanta": "ECONOMÍA",
       "date": "2026-11-24T18:46:40+00:00"
-    },
-    {
-      "id": "60744eb4",
-      "image": "img/60744eb4.png",
-      "image_sha": "91a46f421b781d36ea8980a5ecc324ae25970d18",
-      "url": "https://www.radiodos.com.ar/217604-juicio-contra-la-toretto-la-fiscalia-pidio-10-anos-de-prision",
-      "title": "Juicio contra \"La Toretto\": la fiscalía pidió 10 años de prisión",
-      "volanta": "JUICIO",
-      "date": "2026-11-24T17:45:47+00:00"
     }
   ]
 }
