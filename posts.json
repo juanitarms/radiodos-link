@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T17:35:47+00:00",
+  "updated": "2026-11-26T17:36:20+00:00",
   "posts": [
+    {
+      "id": "fb90dd37",
+      "image": "img/fb90dd37.png",
+      "image_sha": "2d6f3055ac334725bf028d994ba3f8558370dcde",
+      "url": "https://www.radiodos.com.ar/217735-el-dulce-mensaje-de-denisse-gonzalez-a-bautista-mascia-por-su-cumpleanos-me-encanta-verte-cumplir-tus-suenos",
+      "title": "El dulce mensaje de Denisse González a Bautista Mascia por su cumpleaños: \"Me encanta verte cumplir tus sueños\"",
+      "volanta": "ENAMORADA",
+      "date": "2026-11-26T17:36:20+00:00"
+    },
     {
       "id": "fac0f601",
       "image": "img/fac0f601.png",
@@ -531,15 +540,6 @@
       "title": "En control vehicular, secuestraron un arma de fuego cargada y demoraron a tres hombres",
       "volanta": "GENERAL PAZ",
       "date": "2026-11-24T16:22:44+00:00"
-    },
-    {
-      "id": "316ef5fa",
-      "image": "img/316ef5fa.png",
-      "image_sha": "cce2ad166adb6489db419607a27a5b69b5401240",
-      "url": "https://www.radiodos.com.ar/217599-corrientes-presento-el-plan-provincial-de-prevencion-y-control-de-dengue",
-      "title": "Corrientes presentó el Plan Provincial de Prevención y Control de Dengue",
-      "volanta": "PERÍODO 2026/2027",
-      "date": "2026-11-24T16:21:56+00:00"
     }
   ]
 }
