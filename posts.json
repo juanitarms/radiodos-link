@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T22:59:17+00:00",
+  "updated": "2026-11-26T23:00:55+00:00",
   "posts": [
+    {
+      "id": "cf0d75a3",
+      "image": "img/cf0d75a3.png",
+      "image_sha": "8b931aaa2665e2b221fad3e3126aa4b03fdf59e9",
+      "url": "https://www.radiodos.com.ar/217746-una-nena-con-fractura-de-craneo-tras-una-violenta-pueblada-en-peligroso-asentamiento-de-corrientes",
+      "title": "Una nena con fractura de cráneo tras una violenta \"pueblada\" en peligroso asentamiento de Corrientes",
+      "volanta": "ASENTAMIENTO DE ALBERDI",
+      "date": "2026-11-26T23:00:55+00:00"
+    },
     {
       "id": "4a99b083",
       "image": "img/4a99b083.png",
@@ -531,15 +540,6 @@
       "title": "Confirmado: Estados Unidos volverá a ser sede de la Copa América en 2028 y repetirá el formato de 16 selecciones",
       "volanta": "Junio a Julio del 2028",
       "date": "2026-11-24T22:52:38+00:00"
-    },
-    {
-      "id": "c076ec43",
-      "image": "img/c076ec43.png",
-      "image_sha": "376e312f08913e876ac47db3165c5fa81e091ef2",
-      "url": "https://www.radiodos.com.ar/217613-javier-milei-llega-este-jueves-a-corrientes-para-cerrar-el-13-congreso-de-economia-regional",
-      "title": "Javier Milei llega este jueves a Corrientes para cerrar el 13.º Congreso de Economía Regional",
-      "volanta": "Evento privado",
-      "date": "2026-11-24T22:33:09+00:00"
     }
   ]
 }
