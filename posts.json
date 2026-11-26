@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T23:24:06+00:00",
+  "updated": "2026-11-26T11:02:25+00:00",
   "posts": [
+    {
+      "id": "8cc3071f",
+      "image": "img/8cc3071f.png",
+      "image_sha": "d80c2ee63cd112cda2d110b001cd49e3e0fa7a0d",
+      "url": "https://www.radiodos.com.ar/217682-alerta-hidrologica-yacyreta-anuncia-crecimiento-de-los-rios-parana-y-uruguay",
+      "title": "Alerta hidrológica: Yacyretá anuncia crecimiento de los ríos Paraná y Uruguay",
+      "volanta": "PARA LOS PRÓXIMOS DÍAS",
+      "date": "2026-11-26T11:02:25+00:00"
+    },
     {
       "id": "6222cebc",
       "image": "img/6222cebc.png",
@@ -531,15 +540,6 @@
       "title": "Yacyretá puso en marcha las turbinas y reactiva el empleo local",
       "volanta": "ITUZAINGÓ",
       "date": "2026-11-24T10:58:23+00:00"
-    },
-    {
-      "id": "c28b918e",
-      "image": "img/c28b918e.png",
-      "image_sha": "94adfe88bdab3c36728d28218c9304d26e83d03f",
-      "url": "https://www.radiodos.com.ar/217558-corrientes-en-alerta-por-tormentas-fuertes-durante-toda-la-jornada",
-      "title": "Corrientes en alerta por tormentas fuertes durante toda la jornada",
-      "volanta": "EN TODO EL TERRITORIO PROVINCIAL",
-      "date": "2026-11-24T10:42:45+00:00"
     }
   ]
 }
