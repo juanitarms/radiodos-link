@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T11:02:25+00:00",
+  "updated": "2026-11-26T11:22:11+00:00",
   "posts": [
+    {
+      "id": "29e0ae65",
+      "image": "img/29e0ae65.png",
+      "image_sha": "3b97821b5216c179080d2661b7f8e463021f2cf2",
+      "url": "https://www.radiodos.com.ar/217681-hermanos-adolescentes-fueron-los-autores-del-robo-a-una-escuela-tecnica",
+      "title": "Hermanos adolescentes fueron los autores del robo a una escuela técnica",
+      "volanta": "PASO DE LOS LIBRES",
+      "date": "2026-11-26T11:22:11+00:00"
+    },
     {
       "id": "8cc3071f",
       "image": "img/8cc3071f.png",
@@ -531,15 +540,6 @@
       "title": "Creciente: esperan un repunte del río Paraná y más de 1300 personas continúan desplazadas",
       "volanta": "CORRIENTES",
       "date": "2026-11-24T11:17:30+00:00"
-    },
-    {
-      "id": "3eafc597",
-      "image": "img/3eafc597.png",
-      "image_sha": "af205214ca9d534a5ac9712bd437a0a4912e3db7",
-      "url": "https://www.radiodos.com.ar/217559-yacyreta-puso-en-marcha-las-turbinas-y-reactiva-el-empleo-local",
-      "title": "Yacyretá puso en marcha las turbinas y reactiva el empleo local",
-      "volanta": "ITUZAINGÓ",
-      "date": "2026-11-24T10:58:23+00:00"
     }
   ]
 }
