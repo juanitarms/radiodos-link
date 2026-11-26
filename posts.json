@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T14:03:19+00:00",
+  "updated": "2026-11-26T14:19:18+00:00",
   "posts": [
+    {
+      "id": "a6fcf7c4",
+      "image": "img/a6fcf7c4.png",
+      "image_sha": "17c73cf0727d939f77faf17f4052e7b9e8869569",
+      "url": "https://www.radiodos.com.ar/217722-dura-condena-para-un-hijo-de-nanci-godoy-por-abuso-sexual-a-dos-hijastras",
+      "title": "Dura condena para un hijo de Nanci Godoy por abuso sexual a dos hijastras",
+      "volanta": "ESQUINA",
+      "date": "2026-11-26T14:19:18+00:00"
+    },
     {
       "id": "b29f50a8",
       "image": "img/b29f50a8.png",
@@ -531,15 +540,6 @@
       "title": "Tras la intensa lluvia cuadrillas municipales trabajan en distintos puntos de la ciudad",
       "volanta": "LIMPIEZA",
       "date": "2026-11-24T13:38:29+00:00"
-    },
-    {
-      "id": "bec2b691",
-      "image": "img/bec2b691.png",
-      "image_sha": "d123e82328bcd52b262d1d83c239ba3719d2019c",
-      "url": "https://www.radiodos.com.ar/217581-volvieron-a-robar-y-causar-destrozos-en-una-escuela-tecnica-en-el-interior-provincial",
-      "title": "Volvieron a robar y causar destrozos en una escuela técnica en el interior provincial",
-      "volanta": "INDIGNACIÓN",
-      "date": "2026-11-24T13:23:30+00:00"
     }
   ]
 }
