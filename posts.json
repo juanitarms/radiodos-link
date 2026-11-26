@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T23:00:55+00:00",
+  "updated": "2026-11-26T23:01:29+00:00",
   "posts": [
+    {
+      "id": "6a4193cb",
+      "image": "img/6a4193cb.png",
+      "image_sha": "da41df29b638a9850dde5a4b1f2b9e4041d96985",
+      "url": "https://www.radiodos.com.ar/217743-torneo-clausura-todo-confirmado-para-un-fin-de-semana-a-puro-futbol-por-los-cuartos-de-final",
+      "title": "Torneo Clausura: Todo confirmado para un fin de semana a puro fútbol por los cuartos de final",
+      "volanta": "Sábado y domingo",
+      "date": "2026-11-26T23:01:29+00:00"
+    },
     {
       "id": "cf0d75a3",
       "image": "img/cf0d75a3.png",
@@ -531,15 +540,6 @@
       "title": "Abrieron la convocatoria de artistas para la 36ª Fiesta Nacional del Chamamé",
       "volanta": "CORRIENTES",
       "date": "2026-11-24T22:53:11+00:00"
-    },
-    {
-      "id": "ccd49901",
-      "image": "img/ccd49901.png",
-      "image_sha": "7409b869b6d69c8d46f5623b45948ac590b787f9",
-      "url": "https://www.radiodos.com.ar/217612-confirmado-estados-unidos-volvera-a-ser-sede-de-la-copa-america-en-2028-y-repetira-el-formato-de-16-selecciones",
-      "title": "Confirmado: Estados Unidos volverá a ser sede de la Copa América en 2028 y repetirá el formato de 16 selecciones",
-      "volanta": "Junio a Julio del 2028",
-      "date": "2026-11-24T22:52:38+00:00"
     }
   ]
 }
