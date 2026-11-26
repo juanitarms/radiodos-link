@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T19:40:42+00:00",
+  "updated": "2026-11-26T20:56:21+00:00",
   "posts": [
+    {
+      "id": "34d6d87d",
+      "image": "img/34d6d87d.png",
+      "image_sha": "24907ef3a10c37dd494d6ef433bb2a3264fec453",
+      "url": "https://www.radiodos.com.ar/217741-cayo-parte-de-la-mamposteria-del-techo-en-un-salon-de-historico-colegio-de-corrientes",
+      "title": "Cayó parte de la mampostería del techo en un salón de histórico colegio de Corrientes",
+      "volanta": "CERCA DEL MILAGRO",
+      "date": "2026-11-26T20:56:21+00:00"
+    },
     {
       "id": "4cd268f6",
       "image": "img/4cd268f6.png",
@@ -531,15 +540,6 @@
       "title": "Juicio contra \"La Toretto\": la fiscalía pidió 10 años de prisión",
       "volanta": "JUICIO",
       "date": "2026-11-24T17:45:47+00:00"
-    },
-    {
-      "id": "fb0cd673",
-      "image": "img/fb0cd673.png",
-      "image_sha": "573ace49de5f774fcd0f7366d06dfa02dafa8c74",
-      "url": "https://www.radiodos.com.ar/217603-italia-descubren-un-cementerio-de-osos-de-las-cavernas-extintos-hace-24000-anos",
-      "title": "Italia: descubren un cementerio de osos de las cavernas extintos hace 24.000 años",
-      "volanta": "EXPEDICIÓN",
-      "date": "2026-11-24T17:44:53+00:00"
     }
   ]
 }
