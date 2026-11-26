@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T16:52:14+00:00",
+  "updated": "2026-11-26T16:52:50+00:00",
   "posts": [
+    {
+      "id": "001cfff4",
+      "image": "img/001cfff4.png",
+      "image_sha": "35cb444ae24e898dd0af9c96e385e4f9a4eb6747",
+      "url": "https://www.radiodos.com.ar/217729-presentaron-el-concurso-ibera-corazon-correntino",
+      "title": "Presentaron el Concurso \"Iberá, Corazón Correntino\"",
+      "volanta": "LEGISLATURA",
+      "date": "2026-11-26T16:52:50+00:00"
+    },
     {
       "id": "027af042",
       "image": "img/027af042.png",
@@ -531,15 +540,6 @@
       "title": "Murió la mamá de Guido Kaczka y el conductor se despidió al aire: \"Sentís que no podés cambiar las cosas\"",
       "volanta": "A CORAZÓN ABIERTO",
       "date": "2026-11-24T15:05:33+00:00"
-    },
-    {
-      "id": "d5760895",
-      "image": "img/d5760895.png",
-      "image_sha": "a555d28b492a1bd96d4da5e9bcf403301d74dd38",
-      "url": "https://www.radiodos.com.ar/217580-el-emotivo-mensaje-de-mariana-fabbiani-tras-el-alta-medica-de-mariano-chihade-luego-de-su-cirugia-cerebral",
-      "title": "El emotivo mensaje de Mariana Fabbiani tras el alta médica de Mariano Chihade luego de su cirugía cerebral",
-      "volanta": "AGRADECIDA",
-      "date": "2026-11-24T14:53:34+00:00"
     }
   ]
 }
