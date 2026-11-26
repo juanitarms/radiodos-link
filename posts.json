@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T16:51:42+00:00",
+  "updated": "2026-11-26T16:52:14+00:00",
   "posts": [
+    {
+      "id": "027af042",
+      "image": "img/027af042.png",
+      "image_sha": "11792b3c23a288fa6458db41b99bd83626d6cde2",
+      "url": "https://www.radiodos.com.ar/217728-tomo-estado-parlamentario-la-prorroga-de-la-intervencion-a-la-caja-municipal-de-prestamos",
+      "title": "Tomó estado parlamentario la prórroga de la intervención a la Caja Municipal de Préstamos",
+      "volanta": "SESIÓN",
+      "date": "2026-11-26T16:52:14+00:00"
+    },
     {
       "id": "2ee17a81",
       "image": "img/2ee17a81.png",
@@ -531,15 +540,6 @@
       "title": "El emotivo mensaje de Mariana Fabbiani tras el alta médica de Mariano Chihade luego de su cirugía cerebral",
       "volanta": "AGRADECIDA",
       "date": "2026-11-24T14:53:34+00:00"
-    },
-    {
-      "id": "ea1a8d1c",
-      "image": "img/ea1a8d1c.png",
-      "image_sha": "7cff5cebb297b68777f7d14bb32c33687c49f53b",
-      "url": "https://www.radiodos.com.ar/217585-nicki-nicole-hablo-de-su-presente-musical-y-palpito-el-casamiento-de-tini-stoessel-voy-a-llorar-de-pe-a-pa",
-      "title": "Nicki Nicole habló de su presente musical y palpitó el casamiento de Tini Stoessel: \"Voy a llorar de pe a pa\"",
-      "volanta": "MEJORES AMIGAS",
-      "date": "2026-11-24T14:36:23+00:00"
     }
   ]
 }
