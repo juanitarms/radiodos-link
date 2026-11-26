@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T17:36:20+00:00",
+  "updated": "2026-11-26T17:36:58+00:00",
   "posts": [
+    {
+      "id": "ac76c7c5",
+      "image": "img/ac76c7c5.png",
+      "image_sha": "f1c6946b8f9976de296c35734e5c5133d4bf807b",
+      "url": "https://www.radiodos.com.ar/217733-cierre-de-empresas-quebro-una-reconocida-cadena-de-panaderias-y-se-perdieron-otros-100-puestos-de-trabajo",
+      "title": "Cierre de empresas: quebró una reconocida cadena de panaderías y se perdieron otros 100 puestos de trabajo",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-26T17:36:58+00:00"
+    },
     {
       "id": "fb90dd37",
       "image": "img/fb90dd37.png",
@@ -531,15 +540,6 @@
       "title": "Mañana, operativo integral \"Corrientes Cerca\" en Paso de los Libres",
       "volanta": "ASISTENCIA",
       "date": "2026-11-24T16:23:23+00:00"
-    },
-    {
-      "id": "6ab65759",
-      "image": "img/6ab65759.png",
-      "image_sha": "52407f61e4b45d30bdd9fe51c570b0362485e4b8",
-      "url": "https://www.radiodos.com.ar/217595-en-control-vehicular-secuestraron-un-arma-de-fuego-cargada-y-demoraron-a-tres-hombres",
-      "title": "En control vehicular, secuestraron un arma de fuego cargada y demoraron a tres hombres",
-      "volanta": "GENERAL PAZ",
-      "date": "2026-11-24T16:22:44+00:00"
     }
   ]
 }
