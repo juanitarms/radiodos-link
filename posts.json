@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T20:39:45+00:00",
+  "updated": "2026-11-27T20:51:55+00:00",
   "posts": [
+    {
+      "id": "a4d6fa88",
+      "image": "img/a4d6fa88.png",
+      "image_sha": "a6584f99d391d26b4de877afb3f8ff5979c27805",
+      "url": "https://www.radiodos.com.ar/217800-los-diez-clubes-de-la-liga-profesional-que-deberan-revisar-sus-sponsors-por-la-ley-de-ludopatia",
+      "title": "Los diez clubes de la Liga Profesional que deberán revisar sus sponsors por la ley de ludopatía",
+      "volanta": "impacto en el futbol argentino",
+      "date": "2026-11-27T20:51:55+00:00"
+    },
     {
       "id": "52e66412",
       "image": "img/52e66412.png",
@@ -531,15 +540,6 @@
       "title": "WhatsApp habilitó una función muy esperada por los usuarios",
       "volanta": "OFICIAL",
       "date": "2026-11-25T20:43:10+00:00"
-    },
-    {
-      "id": "d80f4f01",
-      "image": "img/d80f4f01.png",
-      "image_sha": "3d0e2ae4336ce2300c5dbef40aa836ea1a1e81f8",
-      "url": "https://www.radiodos.com.ar/217668-corrientes-dos-allanamientos-por-una-causa-internacional-vinculada-a-abuso-sexual-infantil",
-      "title": "Corrientes: dos allanamientos por una causa internacional vinculada a abuso sexual infantil",
-      "volanta": "Investigación",
-      "date": "2026-11-25T20:42:27+00:00"
     }
   ]
 }
