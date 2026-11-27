@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T13:59:45+00:00",
+  "updated": "2026-11-27T14:17:57+00:00",
   "posts": [
+    {
+      "id": "04e55a1a",
+      "image": "img/04e55a1a.png",
+      "image_sha": "b425b4bccbcfb68048f02952e2b681c6b1494976",
+      "url": "https://www.radiodos.com.ar/217777-rescataron-a-un-mono-caraya-herido-en-una-vivienda-rural",
+      "title": "Rescataron a un mono carayá herido en una vivienda rural",
+      "volanta": "CORRIENTES",
+      "date": "2026-11-27T14:17:57+00:00"
+    },
     {
       "id": "e29c8892",
       "image": "img/e29c8892.png",
@@ -531,15 +540,6 @@
       "title": "Abrió la inscripción para nuevos alumnos en los Centros de Desarrollo Infantil municipales",
       "volanta": "EDUCACIÓN EN LA CIUDAD",
       "date": "2026-11-25T14:32:11+00:00"
-    },
-    {
-      "id": "56c87cf6",
-      "image": "img/56c87cf6.png",
-      "image_sha": "315c710acccd35a121bcb34fae83779f4d62845b",
-      "url": "https://www.radiodos.com.ar/217649-el-nino-alcanza-nuevos-records-de-temperatura-y-preven-su-efecto-en-la-argentina",
-      "title": "El Niño alcanza nuevos récords de temperatura y prevén su efecto en la Argentina",
-      "volanta": "FENÓMENO",
-      "date": "2026-11-25T13:50:14+00:00"
     }
   ]
 }
