@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T12:00:33+00:00",
+  "updated": "2026-11-27T12:27:24+00:00",
   "posts": [
+    {
+      "id": "eefd8119",
+      "image": "img/eefd8119.png",
+      "image_sha": "33e8b85c7413fd8845062cc95e33b46c08592c27",
+      "url": "https://www.radiodos.com.ar/217758-horacio-ortega-defendera-el-10-diciembre-su-postulacion-al-stj",
+      "title": "Horacio Ortega defenderá el 10 diciembre su postulación al STJ",
+      "volanta": "Recambio",
+      "date": "2026-11-27T12:27:24+00:00"
+    },
     {
       "id": "11e69b57",
       "image": "img/11e69b57.png",
@@ -531,15 +540,6 @@
       "title": "En una plaza de Corrientes, una joven fue atacada por un perro que había rescatado hace poco",
       "volanta": "ALERTA",
       "date": "2026-11-25T12:04:42+00:00"
-    },
-    {
-      "id": "554d65b5",
-      "image": "img/554d65b5.png",
-      "image_sha": "9ae85c3b67cf3eb6d851b83cedf62f785151ff28",
-      "url": "https://www.radiodos.com.ar/217625-era-milei-cerraron-mas-de-800-empresas-empleadoras-en-corrientes",
-      "title": "Era Milei: cerraron más de 800 empresas empleadoras en Corrientes",
-      "volanta": "CRISIS",
-      "date": "2026-11-25T11:34:19+00:00"
     }
   ]
 }
