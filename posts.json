@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T13:42:53+00:00",
+  "updated": "2026-11-27T13:59:45+00:00",
   "posts": [
+    {
+      "id": "e29c8892",
+      "image": "img/e29c8892.png",
+      "image_sha": "33a649ed59e578b8ffb0b8f415841bc634aee96e",
+      "url": "https://www.radiodos.com.ar/217776-un-triunfo-colectivo-la-iglesia-celebro-la-sancion-de-la-ley-contra-la-ludopatia",
+      "title": "\"Un triunfo colectivo\": la Iglesia celebró la sanción de la ley contra la ludopatía",
+      "volanta": "Comisión Episcopal de Pastoral Social",
+      "date": "2026-11-27T13:59:45+00:00"
+    },
     {
       "id": "73051f1d",
       "image": "img/73051f1d.png",
@@ -531,15 +540,6 @@
       "title": "El Niño alcanza nuevos récords de temperatura y prevén su efecto en la Argentina",
       "volanta": "FENÓMENO",
       "date": "2026-11-25T13:50:14+00:00"
-    },
-    {
-      "id": "e5ccf6df",
-      "image": "img/e5ccf6df.png",
-      "image_sha": "7eb41c674cd8faa6df97b3700d62fc8fa9f3dddb",
-      "url": "https://www.radiodos.com.ar/217642-el-viernes-comienza-la-experiencia-zeppelin-en-la-unidad",
-      "title": "El viernes comienza la Experiencia Zeppelin en La Unidad",
-      "volanta": "PROMOCIÓN TURÍSTICA",
-      "date": "2026-11-25T13:27:07+00:00"
     }
   ]
 }
