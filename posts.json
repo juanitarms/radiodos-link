@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T19:32:17+00:00",
+  "updated": "2026-11-27T20:03:14+00:00",
   "posts": [
+    {
+      "id": "c62f8504",
+      "image": "img/c62f8504.png",
+      "image_sha": "7c0260d9cba0523dda01feb1599cada268ad3445",
+      "url": "https://www.radiodos.com.ar/217797-es-critico-el-estado-de-salud-del-presunto-delincuente-linchado-por-vecinos-en-un-asentamiento-de-corrientes",
+      "title": "Es crítico el estado de salud del presunto delincuente linchado por vecinos en un asentamiento de Corrientes",
+      "volanta": "GRAVÍSIMO",
+      "date": "2026-11-27T20:03:14+00:00"
+    },
     {
       "id": "6e48300f",
       "image": "img/6e48300f.png",
@@ -531,15 +540,6 @@
       "title": "ANMAT prohibió un aerosol deportivo que se vendía por Internet",
       "volanta": "OFICIAL",
       "date": "2026-11-25T18:58:45+00:00"
-    },
-    {
-      "id": "52cc8502",
-      "image": "img/52cc8502.png",
-      "image_sha": "9316a5c559fae337550dc3bbc87846c19812d7ee",
-      "url": "https://www.radiodos.com.ar/217656-se-separo-la-nieta-de-susana-gimenez-de-un-experimentado-jugador",
-      "title": "Se separó la nieta de Susana Giménez de un experimentado jugador",
-      "volanta": "ADIÓS AL AMOR",
-      "date": "2026-11-25T18:57:55+00:00"
     }
   ]
 }
