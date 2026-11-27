@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T16:49:14+00:00",
+  "updated": "2026-11-27T16:49:51+00:00",
   "posts": [
+    {
+      "id": "6da9aeb2",
+      "image": "img/6da9aeb2.png",
+      "image_sha": "c8543c5a091ef1211b3aabb257b5235c0408b302",
+      "url": "https://www.radiodos.com.ar/217793-dos-jovenes-fueron-rescatados-tras-darse-vuelta-su-embarcacion-en-el-rio-parana",
+      "title": "Dos jóvenes fueron rescatados tras darse vuelta su embarcación en el río Paraná",
+      "volanta": "INTERVENCIÓN DE PREFECTURA",
+      "date": "2026-11-27T16:49:51+00:00"
+    },
     {
       "id": "ff8672d2",
       "image": "img/ff8672d2.png",
@@ -531,15 +540,6 @@
       "title": "En allanamientos secuestraron dispositivos electrónicos de una investigación judicial",
       "volanta": "OPERATIVO INTERNACIONAL “ALIADOS POR LA INFANCIA VII”",
       "date": "2026-11-25T18:18:04+00:00"
-    },
-    {
-      "id": "bed3b9d1",
-      "image": "img/bed3b9d1.png",
-      "image_sha": "6f63ef14bc089fdfe3ebe21749ca37715579f7ab",
-      "url": "https://www.radiodos.com.ar/217660-secuestran-un-cargamento-de-bebidas-alcoholicas-valuado-en-mas-de-46-millones-un-detenido",
-      "title": "Secuestran un cargamento de bebidas alcohólicas valuado en más de $46 millones: Un detenido",
-      "volanta": "MONTE CASEROS",
-      "date": "2026-11-25T18:17:29+00:00"
     }
   ]
 }
