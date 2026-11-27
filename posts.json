@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T20:51:55+00:00",
+  "updated": "2026-11-27T21:03:16+00:00",
   "posts": [
+    {
+      "id": "9ee1ee76",
+      "image": "img/9ee1ee76.png",
+      "image_sha": "6dc93971be594cefea1c865f40bec1ffbce32652",
+      "url": "https://www.radiodos.com.ar/217802-corrientes-registro-el-menor-crecimiento-del-pais-en-ventas-de-supermercados",
+      "title": "Corrientes registró el menor crecimiento del país en ventas de supermercados",
+      "volanta": "crisis en el consumo",
+      "date": "2026-11-27T21:03:16+00:00"
+    },
     {
       "id": "a4d6fa88",
       "image": "img/a4d6fa88.png",
@@ -531,15 +540,6 @@
       "title": "Santilli defendió al Gobierno en el Senado: \"Milei no se cayó a los seis meses y hoy va por la reelección\"",
       "volanta": "Discurso",
       "date": "2026-11-25T20:43:54+00:00"
-    },
-    {
-      "id": "19a6832f",
-      "image": "img/19a6832f.png",
-      "image_sha": "adb0fa483f77c8b0247a328322bf813718940f0a",
-      "url": "https://www.radiodos.com.ar/217667-whatsapp-habilito-una-funcion-muy-esperada-por-los-usuarios",
-      "title": "WhatsApp habilitó una función muy esperada por los usuarios",
-      "volanta": "OFICIAL",
-      "date": "2026-11-25T20:43:10+00:00"
     }
   ]
 }
