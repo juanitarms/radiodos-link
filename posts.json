@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T10:58:40+00:00",
+  "updated": "2026-11-27T11:16:32+00:00",
   "posts": [
+    {
+      "id": "c3e29ec4",
+      "image": "img/c3e29ec4.png",
+      "image_sha": "cdd19bd2d55d0a230bb5f9dcf2c9d10e36ebc21e",
+      "url": "https://www.radiodos.com.ar/217759-bella-vista-fortalece-su-liderazgo-en-la-produccion-de-arandanos",
+      "title": "Bella Vista fortalece su liderazgo en la producción de arándanos",
+      "volanta": "PRODUCCIÓN Y EMPLEO",
+      "date": "2026-11-27T11:16:32+00:00"
+    },
     {
       "id": "56c17f4e",
       "image": "img/56c17f4e.png",
@@ -531,15 +540,6 @@
       "title": "Riña en un barrio: un adolescente recibió un balazo cuando volvía a su casa",
       "volanta": "B° PALOMA DE LA PAZ",
       "date": "2026-11-25T10:47:06+00:00"
-    },
-    {
-      "id": "eb3dbda9",
-      "image": "img/eb3dbda9.png",
-      "image_sha": "9d6645fc15903c5b909fd74465575336bc069de6",
-      "url": "https://www.radiodos.com.ar/217619-paulo-dybala-revelo-donde-quiere-terminar-su-carrera-seria-hermoso",
-      "title": "Paulo Dybala reveló donde quiere terminar su carrera: \"Sería hermoso\"",
-      "volanta": "Crack argentino",
-      "date": "2026-11-24T23:11:49+00:00"
     }
   ]
 }
