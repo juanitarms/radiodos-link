@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T15:05:27+00:00",
+  "updated": "2026-11-27T16:49:14+00:00",
   "posts": [
+    {
+      "id": "ff8672d2",
+      "image": "img/ff8672d2.png",
+      "image_sha": "dbccfdd97748decc2c66e9755749a8abce6cc2f2",
+      "url": "https://www.radiodos.com.ar/217792-revelan-el-nuevo-emprendimiento-de-jesica-cirio-tras-alejarse-de-los-medios-decidio-importar",
+      "title": "Revelan el nuevo emprendimiento de Jésica Cirio tras alejarse de los medios: \"Decidió importar...\"",
+      "volanta": "SORPRESA",
+      "date": "2026-11-27T16:49:14+00:00"
+    },
     {
       "id": "85b8086e",
       "image": "img/85b8086e.png",
@@ -531,15 +540,6 @@
       "title": "Secuestran un cargamento de bebidas alcohólicas valuado en más de $46 millones: Un detenido",
       "volanta": "MONTE CASEROS",
       "date": "2026-11-25T18:17:29+00:00"
-    },
-    {
-      "id": "6db8eda2",
-      "image": "img/6db8eda2.png",
-      "image_sha": "74fff4465eaace0b0a2e25d80acd57200730b46e",
-      "url": "https://www.radiodos.com.ar/217655-came-manifiesta-preocupacion-por-la-proliferacion-de-saladitas",
-      "title": "CAME manifiesta preocupación por la proliferación de saladitas",
-      "volanta": "COMUNICADO DE PRENSA",
-      "date": "2026-11-25T16:27:42+00:00"
     }
   ]
 }
