@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T20:03:14+00:00",
+  "updated": "2026-11-27T20:38:35+00:00",
   "posts": [
+    {
+      "id": "40965256",
+      "image": "img/40965256.png",
+      "image_sha": "bf54d2e87dd0b6c31575a35e4bed70168e887a3c",
+      "url": "https://www.radiodos.com.ar/217798-carlos-tevez-prepara-su-gran-fiesta-de-despedida-en-la-bombonera-con-un-desfile-de-estrellas-mundiales",
+      "title": "Carlos Tévez prepara su gran fiesta de despedida en La Bombonera con un desfile de estrellas mundiales",
+      "volanta": "20 de diciembre",
+      "date": "2026-11-27T20:38:35+00:00"
+    },
     {
       "id": "c62f8504",
       "image": "img/c62f8504.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina : Boca y Platense jugarán la final el próximo 2 de diciembre",
       "volanta": "Confirmado",
       "date": "2026-11-25T20:41:39+00:00"
-    },
-    {
-      "id": "8dd385e2",
-      "image": "img/8dd385e2.png",
-      "image_sha": "26d9c50bf95fbe301df1489a567bf00738fb6c9d",
-      "url": "https://www.radiodos.com.ar/217654-anmat-prohibio-un-aerosol-deportivo-que-se-vendia-por-internet",
-      "title": "ANMAT prohibió un aerosol deportivo que se vendía por Internet",
-      "volanta": "OFICIAL",
-      "date": "2026-11-25T18:58:45+00:00"
     }
   ]
 }
