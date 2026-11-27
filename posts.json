@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T11:32:44+00:00",
+  "updated": "2026-11-27T12:00:33+00:00",
   "posts": [
+    {
+      "id": "11e69b57",
+      "image": "img/11e69b57.png",
+      "image_sha": "70d665df0559acea958ebf113db617c756d361cc",
+      "url": "https://www.radiodos.com.ar/217757-hoy-concluye-la-inscripcion-en-los-centros-de-desarrollo-infantil",
+      "title": "Hoy concluye la inscripción en los Centros de Desarrollo Infantil",
+      "volanta": "EDUCACIÓN",
+      "date": "2026-11-27T12:00:33+00:00"
+    },
     {
       "id": "04c1d5b3",
       "image": "img/04c1d5b3.png",
@@ -531,15 +540,6 @@
       "title": "Era Milei: cerraron más de 800 empresas empleadoras en Corrientes",
       "volanta": "CRISIS",
       "date": "2026-11-25T11:34:19+00:00"
-    },
-    {
-      "id": "0898333e",
-      "image": "img/0898333e.png",
-      "image_sha": "99d69c64bed3e911ef2235106c52c0790aba648e",
-      "url": "https://www.radiodos.com.ar/217624-murio-el-peaton-de-68-anos-que-habia-sido-atropellado-por-una-moto",
-      "title": "Murió el peatón de 68 años que había sido atropellado por una moto",
-      "volanta": "EN AVENIDA INDEPENDENCIA",
-      "date": "2026-11-25T11:01:49+00:00"
     }
   ]
 }
