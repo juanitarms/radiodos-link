@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T14:17:57+00:00",
+  "updated": "2026-11-27T14:37:57+00:00",
   "posts": [
+    {
+      "id": "2fbb520c",
+      "image": "img/2fbb520c.png",
+      "image_sha": "140db07fa2893f689be91dd7b22449e13280da87",
+      "url": "https://www.radiodos.com.ar/217783-mas-de-53000-kioscos-cerraron-en-el-pais-en-lo-que-va-de-la-gestion-milei",
+      "title": "Más de 53.000 kioscos cerraron en el país en lo que va de la gestión Milei",
+      "volanta": "ECONOMÍA",
+      "date": "2026-11-27T14:37:57+00:00"
+    },
     {
       "id": "04e55a1a",
       "image": "img/04e55a1a.png",
@@ -531,15 +540,6 @@
       "title": "Nodocentes y docentes de la UNNE adhieren al paro nacional",
       "volanta": "POR EL FINANCIAMIENTO",
       "date": "2026-11-25T14:58:48+00:00"
-    },
-    {
-      "id": "f61e187a",
-      "image": "img/f61e187a.png",
-      "image_sha": "037d3ff1604edafab82a776e22950f0fbc68131e",
-      "url": "https://www.radiodos.com.ar/217633-abrio-la-inscripcion-para-nuevos-alumnos-en-los-centros-de-desarrollo-infantil-municipales",
-      "title": "Abrió la inscripción para nuevos alumnos en los Centros de Desarrollo Infantil municipales",
-      "volanta": "EDUCACIÓN EN LA CIUDAD",
-      "date": "2026-11-25T14:32:11+00:00"
     }
   ]
 }
