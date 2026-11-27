@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T13:03:30+00:00",
+  "updated": "2026-11-27T13:26:12+00:00",
   "posts": [
+    {
+      "id": "b70f27d8",
+      "image": "img/b70f27d8.png",
+      "image_sha": "b8a893f3131e38c84b8964d74b50f67da6e202a8",
+      "url": "https://www.radiodos.com.ar/217772-corrientes-lo-buscaban-por-cuatrero-y-hallaron-plantas-de-marihuana-en-su-casa",
+      "title": "Corrientes: lo buscaban por cuatrero y hallaron plantas de marihuana en su casa",
+      "volanta": "VIRASORO",
+      "date": "2026-11-27T13:26:12+00:00"
+    },
     {
       "id": "6398fa6b",
       "image": "img/6398fa6b.png",
@@ -531,15 +540,6 @@
       "title": "Corrientes: entraron a robar a un mayorista y se llevaron una caja de seguridad \"vacía\"",
       "volanta": "ERROR",
       "date": "2026-11-25T13:11:49+00:00"
-    },
-    {
-      "id": "8ce9f15b",
-      "image": "img/8ce9f15b.png",
-      "image_sha": "7cd85cfaeaf075784b7dc584d292e980baa015e5",
-      "url": "https://www.radiodos.com.ar/217631-el-skate-park-del-parque-mitre-reunio-a-jovenes-en-una-jornada-de-deporte-y-cultura-urbana",
-      "title": "El Skate Park del parque Mitre reunió a jóvenes en una jornada de deporte y cultura urbana",
-      "volanta": "DEPORTE, ARTE Y CULTURA URBANA",
-      "date": "2026-11-25T12:52:21+00:00"
     }
   ]
 }
