@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T21:03:52+00:00",
+  "updated": "2026-11-27T22:01:25+00:00",
   "posts": [
+    {
+      "id": "f94f3d7b",
+      "image": "img/f94f3d7b.png",
+      "image_sha": "39791db67659b31e050f8adc66d55f87aae2f8cf",
+      "url": "https://www.radiodos.com.ar/217805-pena-ciclismo-crossfit-y-sunset-para-disfrutar-en-familia-y-con-amigos-en-la-ciudad",
+      "title": "Peña, ciclismo, crossfit y sunset para disfrutar en familia y con amigos en la ciudad",
+      "volanta": "fin de semana en corrientes",
+      "date": "2026-11-27T22:01:25+00:00"
+    },
     {
       "id": "02f082f6",
       "image": "img/02f082f6.png",
@@ -531,15 +540,6 @@
       "title": "Una nena de 3 años oriunda de Corrientes murió en la provincia de Bs As: detuvieron a su madre y a su padrastro",
       "volanta": "TENIA GOLPES EN EL CUERPO",
       "date": "2026-11-25T21:31:19+00:00"
-    },
-    {
-      "id": "00658b21",
-      "image": "img/00658b21.png",
-      "image_sha": "681eeed9a7f927b9bc951025f9fae3e94004956a",
-      "url": "https://www.radiodos.com.ar/217665-mundial-sub17-gran-reaccion-albiceleste-en-un-partidazo-empate-y-clasificacion-a-playoffs",
-      "title": "Mundial Sub17: Gran reacción Albiceleste en un partidazo, empate y clasificación a playoffs",
-      "volanta": "Fue 3 a 3 en Qatar",
-      "date": "2026-11-25T20:44:37+00:00"
     }
   ]
 }
