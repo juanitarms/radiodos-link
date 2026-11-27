@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T11:16:32+00:00",
+  "updated": "2026-11-27T11:32:44+00:00",
   "posts": [
+    {
+      "id": "04c1d5b3",
+      "image": "img/04c1d5b3.png",
+      "image_sha": "cb3a780eaa4562a804933b15767fbad93b47c41f",
+      "url": "https://www.radiodos.com.ar/217756-caputo-en-corrientes-vamos-a-bajar-todos-los-impuestos",
+      "title": "Caputo en Corrientes: \"Vamos a bajar todos los impuestos\"",
+      "volanta": "13º congreso de economÍa regional",
+      "date": "2026-11-27T11:32:44+00:00"
+    },
     {
       "id": "c3e29ec4",
       "image": "img/c3e29ec4.png",
@@ -531,15 +540,6 @@
       "title": "Murió el peatón de 68 años que había sido atropellado por una moto",
       "volanta": "EN AVENIDA INDEPENDENCIA",
       "date": "2026-11-25T11:01:49+00:00"
-    },
-    {
-      "id": "67f95b76",
-      "image": "img/67f95b76.png",
-      "image_sha": "ca120bf8c1346f641982864d93cbb8acce37ca80",
-      "url": "https://www.radiodos.com.ar/217623-rina-en-un-barrio-un-adolescente-recibio-un-balazo-cuando-volvia-a-su-casa",
-      "title": "Riña en un barrio: un adolescente recibió un balazo cuando volvía a su casa",
-      "volanta": "B° PALOMA DE LA PAZ",
-      "date": "2026-11-25T10:47:06+00:00"
     }
   ]
 }
