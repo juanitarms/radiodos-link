@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T10:44:10+00:00",
+  "updated": "2026-11-27T10:58:40+00:00",
   "posts": [
+    {
+      "id": "56c17f4e",
+      "image": "img/56c17f4e.png",
+      "image_sha": "0c4e31acb914332c01db81cb3c1f0210f6f2fa91",
+      "url": "https://www.radiodos.com.ar/217754-corrientes-nena-de-2-anos-sufrio-heridas-en-la-cabeza-en-pelea-de-familias",
+      "title": "Corrientes: Nena de 2 años sufrió heridas en la cabeza en pelea de familias",
+      "volanta": "Asentamiento de calle alberdi",
+      "date": "2026-11-27T10:58:40+00:00"
+    },
     {
       "id": "cd672d44",
       "image": "img/cd672d44.png",
@@ -531,15 +540,6 @@
       "title": "Paulo Dybala reveló donde quiere terminar su carrera: \"Sería hermoso\"",
       "volanta": "Crack argentino",
       "date": "2026-11-24T23:11:49+00:00"
-    },
-    {
-      "id": "2224a8af",
-      "image": "img/2224a8af.png",
-      "image_sha": "df40f4164fc52bf0837026480fc5960c3c0498db",
-      "url": "https://www.radiodos.com.ar/217618-mundial-de-talla-baja-marruecos-2026-argentina-aplasto-a-brasil-y-avanza-invicta",
-      "title": "Mundial de Talla Baja Marruecos 2026: Argentina aplastó a Brasil y avanza invicta",
-      "volanta": "¡Goleada histórica en el clásico!",
-      "date": "2026-11-24T23:09:58+00:00"
     }
   ]
 }
