@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T22:02:03+00:00",
+  "updated": "2026-11-27T22:04:59+00:00",
   "posts": [
+    {
+      "id": "c0cd4a19",
+      "image": "img/c0cd4a19.png",
+      "image_sha": "e10577d4c3657aee4b7b65b3502eae4ddfeace60",
+      "url": "https://www.radiodos.com.ar/217806-almiron-celebro-los-avances-en-el-congreso-la-economia-es-confianza-seguridad-y-previsibilidad",
+      "title": "Almirón celebró los avances en el Congreso: \"La economía es confianza, seguridad y previsibilidad\"",
+      "volanta": "diputado correntino",
+      "date": "2026-11-27T22:04:59+00:00"
+    },
     {
       "id": "d6b8b4ce",
       "image": "img/d6b8b4ce.png",
@@ -531,15 +540,6 @@
       "title": "El homenaje de los excombatientes platenses en el Monte Longdon con una camiseta firmada por Lionel Messi",
       "volanta": "Emoción y memoria en Malvinas",
       "date": "2026-11-25T21:33:53+00:00"
-    },
-    {
-      "id": "e27814b6",
-      "image": "img/e27814b6.png",
-      "image_sha": "ff5f44e07a15c4f5a41bbd848dbad8c7b3105859",
-      "url": "https://www.radiodos.com.ar/217669-las-ventas-en-supermercados-cayeron-3-interanual-y-en-mayoristas-aumentaron-1-en-el-ultimo-ano",
-      "title": "Las ventas en supermercados cayeron 3% interanual y en mayoristas aumentaron 1% en el último año",
-      "volanta": "Crisis en el consumo",
-      "date": "2026-11-25T21:32:17+00:00"
     }
   ]
 }
