@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T13:26:12+00:00",
+  "updated": "2026-11-27T13:42:53+00:00",
   "posts": [
+    {
+      "id": "73051f1d",
+      "image": "img/73051f1d.png",
+      "image_sha": "bce77545554aa62bfa47164b7f1155b95a5b7012",
+      "url": "https://www.radiodos.com.ar/217775-cobro-200-mil-dolares-de-herencia-y-le-robaron-hasta-el-perro",
+      "title": "Cobró 200 mil dólares de herencia y le robaron hasta el perro",
+      "volanta": "MISIONES",
+      "date": "2026-11-27T13:42:53+00:00"
+    },
     {
       "id": "b70f27d8",
       "image": "img/b70f27d8.png",
@@ -531,15 +540,6 @@
       "title": "El viernes comienza la Experiencia Zeppelin en La Unidad",
       "volanta": "PROMOCIÓN TURÍSTICA",
       "date": "2026-11-25T13:27:07+00:00"
-    },
-    {
-      "id": "fc54d1de",
-      "image": "img/fc54d1de.png",
-      "image_sha": "7d3815b8f83ad03250b6bdd5777904bc1cef2ad8",
-      "url": "https://www.radiodos.com.ar/217643-corrientes-entraron-a-robar-a-un-mayorista-y-se-llevaron-una-caja-de-seguridad-vacia",
-      "title": "Corrientes: entraron a robar a un mayorista y se llevaron una caja de seguridad \"vacía\"",
-      "volanta": "ERROR",
-      "date": "2026-11-25T13:11:49+00:00"
     }
   ]
 }
