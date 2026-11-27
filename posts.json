@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T16:50:24+00:00",
+  "updated": "2026-11-27T19:32:17+00:00",
   "posts": [
+    {
+      "id": "6e48300f",
+      "image": "img/6e48300f.png",
+      "image_sha": "04b50e8b279f3d8c3d5dfd733c97de2490defbc5",
+      "url": "https://www.radiodos.com.ar/217794-ana-amendola-participo-del-12-aniversario-de-el-sombrero",
+      "title": "Ana Améndola participó del 12º aniversario de El Sombrero",
+      "volanta": "Feliz aniversario",
+      "date": "2026-11-27T19:32:17+00:00"
+    },
     {
       "id": "725eef23",
       "image": "img/725eef23.png",
@@ -531,15 +540,6 @@
       "title": "Se separó la nieta de Susana Giménez de un experimentado jugador",
       "volanta": "ADIÓS AL AMOR",
       "date": "2026-11-25T18:57:55+00:00"
-    },
-    {
-      "id": "ed566cca",
-      "image": "img/ed566cca.png",
-      "image_sha": "e6c3354a1ec7b048e55dcb61978996e1d6b39139",
-      "url": "https://www.radiodos.com.ar/217663-cristian-el-enfermero-wichi-que-tiende-puentes-entre-dos-lenguas-para-cuidar-la-salud-de-su-comunidad",
-      "title": "Cristian, el enfermero wichí que tiende puentes entre dos lenguas para cuidar la salud de su comunidad",
-      "volanta": "DESDE EL CORAZÓN DE EL IMPENETRABLE CHAQUEÑO",
-      "date": "2026-11-25T18:18:43+00:00"
     }
   ]
 }
