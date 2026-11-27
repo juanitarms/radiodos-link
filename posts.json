@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T16:49:51+00:00",
+  "updated": "2026-11-27T16:50:24+00:00",
   "posts": [
+    {
+      "id": "725eef23",
+      "image": "img/725eef23.png",
+      "image_sha": "f89a3a259f6dbeaa7084792dd7826a1abcb1ec27",
+      "url": "https://www.radiodos.com.ar/217787-triple-crimen-de-florencio-varela-un-audio-confirmaria-que-fue-transmitido-en-tiempo-real",
+      "title": "Triple crimen de Florencio Varela: un audio confirmaría que fue transmitido en tiempo real",
+      "volanta": "FEMICIDIO",
+      "date": "2026-11-27T16:50:24+00:00"
+    },
     {
       "id": "6da9aeb2",
       "image": "img/6da9aeb2.png",
@@ -531,15 +540,6 @@
       "title": "Cristian, el enfermero wichí que tiende puentes entre dos lenguas para cuidar la salud de su comunidad",
       "volanta": "DESDE EL CORAZÓN DE EL IMPENETRABLE CHAQUEÑO",
       "date": "2026-11-25T18:18:43+00:00"
-    },
-    {
-      "id": "fac92f74",
-      "image": "img/fac92f74.png",
-      "image_sha": "65cc20cf55ef7aed7d78aa009380db338ef704bc",
-      "url": "https://www.radiodos.com.ar/217659-en-allanamientos-secuestraron-dispositivos-electronicos-de-una-investigacion-judicial",
-      "title": "En allanamientos secuestraron dispositivos electrónicos de una investigación judicial",
-      "volanta": "OPERATIVO INTERNACIONAL “ALIADOS POR LA INFANCIA VII”",
-      "date": "2026-11-25T18:18:04+00:00"
     }
   ]
 }
