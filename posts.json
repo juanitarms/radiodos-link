@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-28T12:07:52+00:00",
+  "updated": "2026-11-28T12:27:54+00:00",
   "posts": [
+    {
+      "id": "a4b86e5c",
+      "image": "img/a4b86e5c.png",
+      "image_sha": "0a788667c22a90117c5921b272c9a0c3253e6926",
+      "url": "https://www.radiodos.com.ar/217813-el-gobernador-valdes-inauguro-obras-y-realizo-anuncios-en-pago-de-los-deseos",
+      "title": "El gobernador Valdés inauguró obras y realizó anuncios en Pago de los Deseos",
+      "volanta": "GESTIÓN Y DESARROLLO",
+      "date": "2026-11-28T12:27:54+00:00"
+    },
     {
       "id": "dccb5bb4",
       "image": "img/dccb5bb4.png",
@@ -531,15 +540,6 @@
       "title": "Copa Argentina: El silbatoy el escenario elegidos que guardan el secreto de la gloria en la gran definición",
       "volanta": "Miércoles 2 de diciembre a las 20 horas",
       "date": "2026-11-25T23:23:11+00:00"
-    },
-    {
-      "id": "9a96b049",
-      "image": "img/9a96b049.png",
-      "image_sha": "465f775308fbb3970d1ed88eabb741eed93c21e4",
-      "url": "https://www.radiodos.com.ar/217678-rio-uruguay-aumentaron-los-caudales-que-evacuan-las-represas-de-brasil",
-      "title": "Río Uruguay: aumentaron los caudales que evacuan las represas de Brasil",
-      "volanta": "Alerta",
-      "date": "2026-11-25T23:21:06+00:00"
     }
   ]
 }
